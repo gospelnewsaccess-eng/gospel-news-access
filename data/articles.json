@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-17T15:38:12Z",
-  "story_count": 356,
-  "with_photo": 221,
+  "generated_at": "2026-09-17T16:07:44Z",
+  "story_count": 358,
+  "with_photo": 222,
   "items": [
+    {
+      "id": "24804044162f7b22",
+      "title": "Tulsa minister pleads guilty to fraud",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lcU9SSVMzVHdKMEdCekg0SWk2NjFxdENzTWdZS0k0aTVoSWtER0NkeUM1UzByZlozVGZnV2pJQTd0QkFWQjgyNElqT0VxdXhhUEpmWlZFZzZ6WVI2c2lCV0dsSE42UlpZUFpwejJB?oc=5",
+      "summary": "Tulsa minister pleads guilty to fraud The Roys Report",
+      "outlet": "The Roys Report",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T15:42:00Z",
+      "first_seen": "2026-09-17T16:07:44Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T04:07:44Z"
+    },
     {
       "id": "1e75b0b22fbc89fd",
       "title": "THE CARIBBEAN’S BLESSINGS AMBASSADOR SHERWIN GARDNER GOES VIRAL WITH “BIG DAY”",
@@ -51,6 +67,25 @@
       "published": "2026-09-17T15:21:23Z",
       "first_seen": "2026-09-17T15:38:12Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "92dfc14b9e87a58c",
+      "title": "‘An Act of God’: 3 Children Escape Harm as Speeding Camaro Tears Through Backyard Fence",
+      "link": "https://mycharisma.com/news/an-act-of-god-3-children-escape-harm-as-speeding-camaro-tears-through-backyard-fence/",
+      "summary": "Three young children escaped injury after a speeding driver lost control of a Chevrolet Camaro and crashed through a fence beside their backyard swimming pool, according to FOX 4. The crash happened around 7 p.m. Sunday along Heritage Trace Parkway in north…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T15:14:04Z",
+      "first_seen": "2026-09-17T16:07:44Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
