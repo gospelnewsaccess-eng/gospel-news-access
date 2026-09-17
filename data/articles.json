@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-17T23:05:41Z",
-  "story_count": 421,
-  "with_photo": 261,
+  "generated_at": "2026-09-17T23:34:12Z",
+  "story_count": 425,
+  "with_photo": 263,
   "items": [
+    {
+      "id": "4a17ddbe16ddeba3",
+      "title": "Erica Campbell’s Label Sues Distributor Over Gospel Music Royalties",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWVld0paWmxLUndFSjl6R0RWalRJdDBoZ0RfYVIzSGJjNllZeUtuQzZhQ0NXNURHM29hdjNKbHFjYS1nMlpLbEhERVNDVkMtM2NKb0Q4T2xYcmRKMTlkbnJGWU5jZjA3ZTZmZzNOUy1xUktkZW5Vbl9ocHZSaFkxZUpJVHNtcEZEQkE?oc=5",
+      "summary": "Erica Campbell’s Label Sues Distributor Over Gospel Music Royalties Billboard",
+      "outlet": "Billboard",
+      "outlet_url": "https://www.billboard.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T23:26:02Z",
+      "first_seen": "2026-09-17T23:34:12Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T11:34:12Z"
+    },
+    {
+      "id": "827ab5fc12f4ff17",
+      "title": "Supreme Court asked to restart megachurch sex scandal case",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03NzQzcGRlaXlORTRkOENYdzh2Q2VVck9sYnVzN01fMWNjVFJZOVJ2MWFkV1pyMlN6bTlvOVhIb0hXVTMySFJqQ3VoLTNVTzNEc2J3aUlpQWYwX1MzYUdKNHMwWdIBaEFVX3lxTFB5d1hOTVQxX2dZVEctdktOQ01id1lMTlFsbFRUdFNRbTNwbWpLejViR3UwM3NYWEdOTmtLX05RYXlldzl2Z3g1M09fSVJpVjZ2TFM1RERzY3V6U3NfT3BTV3JIeWlyOU5C?oc=5",
+      "summary": "Supreme Court asked to restart megachurch sex scandal case FOX 7 Austin",
+      "outlet": "FOX 7 Austin",
+      "outlet_url": "https://www.fox7austin.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T23:03:51Z",
+      "first_seen": "2026-09-17T23:34:12Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T11:34:12Z"
+    },
+    {
+      "id": "04a1defee4bb07da",
+      "title": "“The Chosen” Star Vanessa Benavente Says Filming Jesus’ Crucifixion Left Cast Members Crying Inconsolably",
+      "link": "https://www.jubileecast.com/articles/39510/20260917/the-chosen-star-vanessa-benavente-says-filming-jesus-crucifixion-left-cast-members-crying-inconsolably.htm",
+      "summary": "“The Chosen” Star Vanessa Benavente Says Filming Jesus’ Crucifixion Left Cast Members Crying Inconsolably",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T23:02:01Z",
+      "first_seen": "2026-09-17T23:34:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31844/vanessa-benavente.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8eee3f375a70d873",
+      "title": "Kim Kardashian Breaks Down In Hospital After Diagnosis Revives Painful Memories Of Her Father’s Death",
+      "link": "https://www.jubileecast.com/articles/39509/20260917/kim-kardashian-breaks-down-in-hospital-after-diagnosis-revives-painful-memories-of-her-father-s-death.htm",
+      "summary": "Kim Kardashian Breaks Down In Hospital After Diagnosis Revives Painful Memories Of Her Father’s Death",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T22:47:11Z",
+      "first_seen": "2026-09-17T23:34:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/6721/kim-kardashian.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "de4e6597525a3605",
       "title": "Chris Tomlin Honored For More Than 8 Billion Career Streams",
