@@ -292,7 +292,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-17T16:11:42Z",
+      "last_checked": "2026-09-17T17:06:05Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -316,7 +316,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-17T16:11:45Z",
+      "last_checked": "2026-09-17T17:06:08Z",
       "last_item_count": 25,
       "last_status": "ok"
     },
@@ -372,11 +372,11 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-17T16:11:45Z",
+      "last_checked": "2026-09-17T17:06:08Z",
       "last_item_count": 10,
       "last_status": "ok"
     }
   },
-  "updated_at": "2026-09-17T16:38:39Z",
+  "updated_at": "2026-09-17T17:06:04Z",
   "flagged_feeds": []
 }
