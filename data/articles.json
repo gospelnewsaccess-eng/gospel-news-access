@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-17T09:06:59Z",
-  "story_count": 310,
-  "with_photo": 175,
+  "generated_at": "2026-09-17T09:39:31Z",
+  "story_count": 315,
+  "with_photo": 179,
   "items": [
+    {
+      "id": "73dfb8c9577f5eea",
+      "title": "Roger Waters, Massive Attack And Garbage Turn On Ed Sheeran As Macklemore Tour Scandal Explodes",
+      "link": "https://www.jubileecast.com/articles/39496/20260917/roger-waters-massive-attack-and-garbage-turn-on-ed-sheeran-as-macklemore-tour-scandal-explodes.htm",
+      "summary": "Roger Waters, Massive Attack And Garbage Turn On Ed Sheeran As Macklemore Tour Scandal Explodes",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T09:33:11Z",
+      "first_seen": "2026-09-17T09:39:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31812/ed-sheeran.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d3d0aefa2c7dcaef",
+      "title": "Exclusive Interview: Douglas Kaine McKelvey And Jon Lowry Create Prayer Songs For Those Facing Death And Grief",
+      "link": "https://www.jubileecast.com/articles/39495/20260917/exclusive-interview-douglas-kaine-mckelvey-and-jon-lowry-create-prayer-songs-for-those-facing-death-and-grief.htm",
+      "summary": "Douglas Kaine McKelvey And Jon Lowry Create Prayer Songs For Those Facing Death And Grief",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T09:22:00Z",
+      "first_seen": "2026-09-17T09:39:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31837/mckelvey-and-lowry.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "92c7da97c354ebea",
+      "title": "Crisis worsens for children in Yemen",
+      "link": "https://www.vaticannews.va/en/world/news/2026-09/crisis-worsens-for-children-in-yemen-unicef.html",
+      "summary": "The UN Children's Fund, UNICEF, warns that as fighting continues, children are bearing the brunt of the conflict, and appeals to parties to the conflict to protect civilians, especially children, and not hinder humanitarian access. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T09:09:00Z",
+      "first_seen": "2026-09-17T09:39:31Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/17/04/1789611959576.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "fec28fac8da9f077",
       "title": "10 AI Gospel Songs Shaking Up Christian Music Now",
@@ -15,7 +72,10 @@
       "category": "gospel",
       "published": "2026-09-17T08:58:00Z",
       "first_seen": "2026-09-17T09:06:59Z",
-      "image": null,
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31836/ai-gospel-music.png",
+        "via": "media:content"
+      },
       "breaking": true,
       "breaking_expires_at": "2026-09-17T21:06:59Z"
     },
@@ -1696,6 +1756,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271935_w_550_367_587_326.jpg?v=20260916091615",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1ff4462aaebc79ec",
+      "title": "Local gospel artist wins three awards at 13th Ingoma Awards",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMm1RS1BRa25ZQm9hRlFmMUdnbU4tcXJSQkZUcnB3OXMxbDNGWFNkbWJTSF92cHNuWVFUUVM0WWFmTTVNY0twNW5SN1hMNVhKNHYzc0RzVzVPQVpHVXJKRmZ6S0pJbGF3N0k5c1V4MkEzcXFKT1BhQnM2dXdjSTg1QXI4cDRpTVQ1ZE4tcnNGRmU0azVJUVVIckFHLXdIalFISHpqdzdEc3pCYXc4eXBKWE5jXzNadmZKdmRNTjZ4V01hTEVTaC1DTlVpek9hS0lFRWJta3ZR?oc=5",
+      "summary": "Local gospel artist wins three awards at 13th Ingoma Awards The Citizen",
+      "outlet": "The Citizen",
+      "outlet_url": "https://www.citizen.co.za",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-16T11:32:33Z",
+      "first_seen": "2026-09-17T09:39:31Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5433,6 +5509,22 @@
       "category": "faith",
       "published": "2026-08-28T20:41:29Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9cf7948b5be3a83d",
+      "title": "Spruce Street Baptist Church to Posthumously Honor Renowned Gospel Artist Sir J. Robert Bradley “Mister Baptist”",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUo2S3RhdURjNjR0Y2hvU2lNVHdpbkJqWjlLRWNjZzR5REFjeTZwTGFyVk56LUNacXFxdkRkSUhyNTJpbmh3dWtfRE1BcWUzWDI2VUhBMGRkc2Zaal9xTnB5aVJqMk40SEVMWkJIYmJpaThVdnNmanlpcFhCcFRLaDJTaW5TcFVWOElFSDNaM281X09uN283V0FNczBPaVNKUFVwRlYxU0hOVHlvRlloeHd3d0NucnZ6RWUtRE9jZ3ZMUmNmYklQYkZ6cTZ1clcyalR5ekM1cXAwVExM?oc=5",
+      "summary": "Spruce Street Baptist Church to Posthumously Honor Renowned Gospel Artist Sir J. Robert Bradley “Mister Baptist” Jacksonville Free Press",
+      "outlet": "Jacksonville Free Press",
+      "outlet_url": "https://jacksonvillefreepress.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-08-28T17:44:03Z",
+      "first_seen": "2026-09-17T09:39:31Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
