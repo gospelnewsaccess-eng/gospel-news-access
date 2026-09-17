@@ -1,0 +1,32 @@
+# =============================================================================
+# LIVE SITE CHECK — proves the published site is actually serving real content.
+#
+# Plain English: this fetches the real, live website exactly as a reader's
+# browser would, and reports what it found — how many stories, how many
+# photographs, which publishers they come from, and whether any BREAKING
+# banner on the page is still within its 12-hour life.
+#
+# It changes nothing. It only looks and reports.
+# =============================================================================
+name: Verify live site
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "40 7 * * *"      # a daily health check
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch the live site and report what is really there
+        run: python3 scripts/verify_live.py

@@ -38,8 +38,17 @@ import gnalib as g  # noqa: E402
 FRESH_DAYS = 30
 
 
-def check_url(url: str) -> dict:
-    """Fetch one URL and report exactly what came back."""
+def check_url(url: str, require_fresh: bool = True) -> dict:
+    """
+    Fetch one URL and report exactly what came back.
+
+    require_fresh=False is used for Google News topic queries. A search
+    query for an artist who simply has not been in the news for a month
+    returns a perfectly healthy feed with old items. That is a quiet news
+    period, NOT a broken feed — and excluding it would mean missing that
+    artist's next breaking story. For a publisher's own feed, silence for
+    30 days really does mean something is wrong, so the rule still applies.
+    """
     raw, meta = g.fetch(url, timeout=25)
     if raw is None:
         return {"ok": False, "error": str(meta)}
@@ -66,7 +75,8 @@ def check_url(url: str) -> dict:
         }
 
     cutoff = g.now_utc() - timedelta(days=FRESH_DAYS)
-    if newest < cutoff:
+    stale = newest < cutoff
+    if stale and require_fresh:
         return {
             "ok": False,
             "error": "stale: newest item is %s, older than %d days"
@@ -87,6 +97,7 @@ def check_url(url: str) -> dict:
         "newest": g.iso(newest),
         "with_image": with_image,
         "sampled": min(12, len(entries)),
+        "quiet": stale,      # healthy feed, just no recent news
     }
 
 
@@ -119,10 +130,13 @@ def main() -> int:
         candidates = [src["url"]] + [
             u for u in src.get("url_candidates", []) if u != src["url"]
         ]
+        # A Google News topic query is a SEARCH, not a publication. It is
+        # allowed to be quiet. A publisher's own feed is not.
+        require_fresh = src.get("tier") != 1
         result = None
         winner = None
         for url in candidates:
-            result = check_url(url)
+            result = check_url(url, require_fresh=require_fresh)
             if result["ok"]:
                 winner = url
                 break
@@ -137,8 +151,10 @@ def main() -> int:
             src["verified_newest_item"] = result["newest"]
             src["last_error"] = None
             passed += 1
-            print("  OK   [t%d] %-42s %3d items, newest %s, %d/%d with photo"
-                  % (src["tier"], src["name"][:42], result["count"],
+            src["quiet"] = bool(result.get("quiet"))
+            print("  %s [t%d] %-42s %3d items, newest %s, %d/%d with photo"
+                  % ("QUIET" if result.get("quiet") else "OK   ",
+                     src["tier"], src["name"][:42], result["count"],
                      result["newest"][:10], result["with_image"], result["sampled"]))
         else:
             src["status"] = "failed"
