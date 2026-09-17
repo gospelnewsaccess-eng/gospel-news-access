@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-17T14:08:05Z",
-  "story_count": 341,
-  "with_photo": 210,
+  "generated_at": "2026-09-17T14:38:44Z",
+  "story_count": 347,
+  "with_photo": 216,
   "items": [
+    {
+      "id": "272f7066c2b0b4bb",
+      "title": "600,000 sign up for Pope Leo’s Paris Mass as organizers expand route",
+      "link": "https://www.ewtnnews.com/world/europe/600-000-sign-up-for-pope-leo-s-paris-mass-as-organizers-expand-route",
+      "summary": "The French bishops' conference is still short more than 21 million euros to cover the cost of Pope Leo's Sept. 25–28 visit. Meanwhile, demand for the Paris Mass forced a major expansion of the route.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T14:33:00Z",
+      "first_seen": "2026-09-17T14:38:44Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789620078/ewtn-news/en/1203052446_fshajz.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c5840b61dc3e13b7",
+      "title": "Shaboozey Says His New Outlaw Album Is Really About ‘Bringing Your Life to God’",
+      "link": "https://relevantmagazine.com/culture/music/shaboozey-says-his-new-outlaw-album-is-really-about-bringing-your-life-to-god/",
+      "summary": "Shaboozey made a whole album about outlaws, revenge and the Wild West. Apparently, it’s also an album about Romans 6. During a recent stop on his Outlaw Tour, the “A Bar Song (Tipsy)” singer paused the show to explain the bigger idea behind The Outlaw Cherie…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T14:21:37Z",
+      "first_seen": "2026-09-17T14:38:44Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/shaboozey.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "67716f61a8040592",
+      "title": "Cardinal Parolin says nations should work together to face the threats of AI",
+      "link": "https://www.ewtnnews.com/vatican/cardinal-parolin-says-nations-should-work-together-to-face-the-threats-of-ai",
+      "summary": "The Vatican secretary of state expressed his concerns about artificial intelligence at a conference at the Italian Parliament on Sept. 16.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T13:53:00Z",
+      "first_seen": "2026-09-17T14:38:44Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789643638/ewtn-news/en/PXL_20260326_084223936_exported_0_uiiwq3.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c94f458a59f66445",
       "title": "8 Christian Songs for Hope after Job Loss or Career Uncertainty",
@@ -18,6 +75,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T02:08:05Z"
+    },
+    {
+      "id": "0b33d3319b147459",
+      "title": "Male teens now outnumber females in church youth groups: Barna data",
+      "link": "https://www.christianpost.com/news/male-teens-now-outnumber-females-in-youth-groups-research-shows.html",
+      "summary": "Bucking a decades-long trend of disproportionate female participation, male teenagers now outnumber their female counterparts in church youth group attendance among self-identified Christian teens in the U.S., according to a new report from Barna and…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T13:20:00Z",
+      "first_seen": "2026-09-17T14:38:44Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271929_w_550_367.jpg?v=20260917092140",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "a0379154fa0b7cec",
@@ -55,6 +131,25 @@
       "breaking_expires_at": "2026-09-18T01:38:43Z"
     },
     {
+      "id": "71042bc5b1478278",
+      "title": "Parisian solidarity groups awaiting Pope's visit",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/parisian-solidarity-groups-awaiting-pope-s-visit.html",
+      "summary": "Representatives from charitable organizations active in the French capital reflect on the significance of the Pope’s upcoming visit to the Maison Bakhita Center for Social Support and Integration. They speak of philosophical “cafés” bringing together the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T13:05:00Z",
+      "first_seen": "2026-09-17T14:38:44Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/17/3-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "93fff7b5c48248bc",
       "title": "Glenn Kaiser To Make Rare Nashville Appearance",
       "link": "https://www.ccmmagazine.com/news/glenn-kaiser-to-make-rare-nashville-appearance/",
@@ -88,6 +183,22 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T01:38:43Z"
+    },
+    {
+      "id": "fce7b3a1e23c8d6e",
+      "title": "‘Back to Church’ Gospel Concert Sept. 27",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbnloQ3RBVHlBYzdLdEEzUVZoUTBQSGdiZ2syd3dSQXB4cjllbno4eXIzVDA2Slh1bXhSc1M5UWh3eWw2YmpMSlJUNVNMLUl3RkFHTjJETE4xM0ZGNTM3UmtMODFyRVBRTWxQUE12REk5Nkt3YWRvaE5TdEtHU2MyeERUV0E?oc=5",
+      "summary": "‘Back to Church’ Gospel Concert Sept. 27 The Lincoln County News",
+      "outlet": "The Lincoln County News",
+      "outlet_url": "https://lcnme.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T12:49:57Z",
+      "first_seen": "2026-09-17T14:38:44Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "b0cc3912d9e2cde9",
@@ -4537,7 +4648,10 @@
       "category": "gospel-trade",
       "published": "2026-09-11T11:19:47Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11071933/3-Picture-Template-Article-57.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
