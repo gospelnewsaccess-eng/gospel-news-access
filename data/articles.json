@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-17T14:38:44Z",
-  "story_count": 347,
-  "with_photo": 216,
+  "generated_at": "2026-09-17T15:07:45Z",
+  "story_count": 351,
+  "with_photo": 219,
   "items": [
+    {
+      "id": "a92f27aff30d069d",
+      "title": "‘American Idol’ Alum and Former Worship Pastor Faces Trial in Wife’s Killing",
+      "link": "https://mycharisma.com/news/american-idol-alum-and-former-worship-pastor-faces-trial-in-wifes-killing/",
+      "summary": "The murder case that stunned a Christian community has entered its most consequential chapter yet. Caleb Flynn, the former worship pastor and “American Idol” contestant accused of killing his wife, Ashley Flynn, is headed before a jury in Ohio, months after…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T15:08:51Z",
+      "first_seen": "2026-09-17T15:07:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "11fda337f4e001dd",
+      "title": "Pray: Missing Olympic National Park Hiker Found Dead After 2-Week Search",
+      "link": "https://mycharisma.com/news/pray-missing-olympic-national-park-hiker-found-dead-after-2-week-search/",
+      "summary": "What was supposed to be a one-night journey through Olympic National Park ended in tragedy. The body of 26-year-old Neil Gehring was recovered Sept. 13 after search-and-rescue teams spent nearly two weeks looking for him in Washington’s Olympic National Park…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T14:40:49Z",
+      "first_seen": "2026-09-17T15:07:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "12e97e7c196ade79",
+      "title": "Nearly 10 Million Face Flash Flood Threat Across Southwest United States",
+      "link": "https://mycharisma.com/news/nearly-10-million-face-flash-flood-threat-across-southwest-united-states/",
+      "summary": "Nearly 10 million people across the Southwest face a threat of flash flooding as heavy rain moves through Arizona, New Mexico, Utah and parts of Colorado. The danger was already visible Wednesday in Tucson, where firefighters responded to three swift-water…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T14:38:12Z",
+      "first_seen": "2026-09-17T15:07:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "272f7066c2b0b4bb",
       "title": "600,000 sign up for Pope Leo’s Paris Mass as organizers expand route",
@@ -3675,6 +3732,22 @@
       "category": "christian-music",
       "published": "2026-09-15T08:10:47Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e006213b40c8abb8",
+      "title": "New Gospel Library Music Features for Listening, Singing and Accompanying",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVJCdC0tdGtnWFFYOUo1eVZMZTA2aDVWQlBKc1RKSUFlUzlSaWJGUmlnTUp5N0tuMUFXV2RVWks5UnU0SGhtdXJXUkxNdGtqYk9KYjVrY21YSEJaY2MtUEhCT2E1bDZlS1ZqdXdXVk9wNUl1QkcwSHN1VWhzak1mTDBrSnRRSnZ6U1ZyMWFhRUdaQjc0UjkzcVc4alg1el9UMGZJMndvMXhPN19vMlZUNVFENE5zenhWOWxJdnNB?oc=5",
+      "summary": "New Gospel Library Music Features for Listening, Singing and Accompanying newsroom.churchofjesuschrist.org",
+      "outlet": "newsroom.churchofjesuschrist.org",
+      "outlet_url": "https://newsroom.churchofjesuschrist.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-15T07:00:00Z",
+      "first_seen": "2026-09-17T15:07:45Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
