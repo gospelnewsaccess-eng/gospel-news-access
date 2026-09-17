@@ -1,0 +1,82 @@
+# =============================================================================
+# THE GNA CHARTS — every Tuesday at 12:00 noon Pacific, without exception.
+#
+# Plain English: this adds up the week's reported spins, streaming movement and
+# release activity, ranks them, compares against last week's positions, and
+# publishes the four charts.
+#
+# ABOUT THE TWO SCHEDULES BELOW: GitHub's timer only understands UTC, and it
+# does not know about daylight saving. Noon Pacific is 19:00 UTC in summer
+# (PDT) and 20:00 UTC in winter (PST). So BOTH are listed, and the script
+# itself checks the real Pacific time and exits quietly if it is not the right
+# hour. That is why the chart cannot drift by an hour twice a year.
+#
+# The chart publishes even if no human touched it. The editorial input may be
+# zero and the chart is still valid — that rule is enforced in the engine.
+# =============================================================================
+name: GNA charts
+
+on:
+  schedule:
+    - cron: "0 19 * * 2"      # Tuesday 19:00 UTC = 12:00 noon PDT (summer)
+    - cron: "0 20 * * 2"      # Tuesday 20:00 UTC = 12:00 noon PST (winter)
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Republish even if this week already published"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chart
+  cancel-in-progress: false
+
+jobs:
+  chart:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Is it really noon Pacific?
+        id: gate
+        run: |
+          HOUR=$(TZ=America/Los_Angeles date +%H)
+          echo "Pacific time is now $(TZ=America/Los_Angeles date '+%A %H:%M %Z')"
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "run=yes" >> $GITHUB_OUTPUT
+          elif [ "$HOUR" = "12" ]; then
+            echo "run=yes" >> $GITHUB_OUTPUT
+          else
+            echo "Not noon Pacific — this is the other daylight-saving schedule. Skipping."
+            echo "run=no" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Compute and publish the charts
+        if: steps.gate.outputs.run == 'yes'
+        run: |
+          if [ "${{ inputs.force }}" = "true" ]; then
+            python3 scripts/chart_engine.py --force
+          else
+            python3 scripts/chart_engine.py
+          fi
+
+      - name: Commit to main
+        if: steps.gate.outputs.run == 'yes'
+        run: |
+          git config user.name  "GNA Chart Desk"
+          git config user.email "wire-bot@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "charts: week of $(TZ=America/Los_Angeles date '+%Y-%m-%d')"
+          for i in 1 2 3 4; do
+            if git push origin main; then exit 0; fi
+            git pull --rebase origin main || true
+            sleep $((i * 5))
+          done
+          exit 1

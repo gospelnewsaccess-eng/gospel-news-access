@@ -1,0 +1,43 @@
+# =============================================================================
+# VIDEO WALL — every six hours.
+#
+# Reads data/video-sources.json and rebuilds the video page. Works correctly
+# when that list is empty (which it is until a channel ID is supplied) — the
+# page shows an honest notice instead of a broken grid.
+# =============================================================================
+name: Video wall
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video
+  cancel-in-progress: false
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: python3 scripts/video.py
+      - name: Commit to main
+        run: |
+          git config user.name  "GNA Wire Bot"
+          git config user.email "wire-bot@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "video: update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4; do
+            if git push origin main; then exit 0; fi
+            git pull --rebase origin main || true
+            sleep $((i * 5))
+          done
+          exit 1

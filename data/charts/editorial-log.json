@@ -1,0 +1,27 @@
+{
+  "_README": [
+    "Every editorial-desk adjustment to a chart, with a written reason.",
+    "",
+    "The editorial desk is 10% of a chart position, and EVERY change needs a",
+    "one-line reason recorded here. An entry with no reason has NO effect —",
+    "that is enforced in scripts/chart_engine.py, not left to good intent.",
+    "",
+    "This log is public so that anyone can see exactly where human judgement",
+    "touched a chart and why.",
+    "",
+    "  chart_week  the tracking week's Friday, YYYY-MM-DD",
+    "  adjustment  points added or subtracted",
+    "  reason      one line, plain English, required",
+    "  by          who made the call"
+  ],
+  "_template": {
+    "chart_week": "YYYY-MM-DD",
+    "chart": "gospel | christian | album",
+    "title": "",
+    "artist": "",
+    "adjustment": 0,
+    "reason": "REQUIRED — one line explaining the change",
+    "by": ""
+  },
+  "entries": []
+}

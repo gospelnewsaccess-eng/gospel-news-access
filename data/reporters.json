@@ -1,0 +1,20 @@
+{
+  "_README": [
+    "The GNA reporter panel. Every reporter is named publicly on",
+    "charts/panel.html — a chart whose panel is secret cannot be checked.",
+    "",
+    "tier must be A, B or C. Tier is assigned on measurable reach ALONE,",
+    "never on relationship and never on payment. The weighting is published",
+    "on charts/methodology.html.",
+    "",
+    "Never list a station that has not agreed to report."
+  ],
+  "_template": {
+    "name": "",
+    "market": "",
+    "tier": "A | B | C",
+    "reporting_since": "YYYY-MM-DD",
+    "contact_private": "NEVER put a contact here — this file is public. Use private/."
+  },
+  "reporters": []
+}

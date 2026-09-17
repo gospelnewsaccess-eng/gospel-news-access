@@ -1,0 +1,82 @@
+{
+  "_README": [
+    "Every candidate data source for the streaming and video momentum input",
+    "(35% of a chart position), and whether we are permitted to use it.",
+    "",
+    "THE RULE: before any platform is wired in, somebody must read that",
+    "platform's own developer terms on ranking and chart creation. If the",
+    "terms prohibit building a chart from their data, the source is dropped",
+    "and its weight is redistributed across the remaining measured inputs.",
+    "",
+    "We do not use a source quietly and hope. A chart built on data we were",
+    "not allowed to use is a chart that can be taken away from us — and it",
+    "would deserve to be.",
+    "",
+    "HOW TO TURN ONE ON:",
+    "  1. Read the terms at terms_url. Actually read them.",
+    "  2. Write what they say about ranking/chart creation in terms_finding.",
+    "  3. Put the date in terms_reviewed and your name in reviewed_by.",
+    "  4. Only then set enabled to true.",
+    "",
+    "scripts/chart_engine.py refuses to read any source where enabled is",
+    "false, and automatically redistributes its weight. The chart stays",
+    "mathematically valid with every streaming source switched off."
+  ],
+  "weights": {
+    "_NOTE": "These are the published weights. If a whole input drops to zero available sources, its weight is redistributed proportionally across the inputs that still have data. The redistribution is recorded in each chart run.",
+    "reporter_panel": 0.40,
+    "streaming_momentum": 0.35,
+    "release_activity": 0.15,
+    "editorial": 0.10
+  },
+  "streaming_sources": [
+    {
+      "id": "youtube_data_api_v3",
+      "name": "YouTube Data API v3 — view deltas",
+      "measures": "week-over-week CHANGE in view counts, never cumulative totals",
+      "enabled": false,
+      "terms_url": "https://developers.google.com/youtube/terms/api-services-terms-of-service",
+      "developer_policies_url": "https://developers.google.com/youtube/terms/developer-policies",
+      "terms_reviewed": null,
+      "reviewed_by": null,
+      "terms_finding": "NOT YET REVIEWED. The YouTube API Services Developer Policies contain specific restrictions on aggregating, storing and ranking YouTube metrics, and on presenting them alongside non-YouTube data. Those clauses must be read in full and in their current version before this source is switched on. Until then this source is OFF and its share of the weight is redistributed.",
+      "requires_secret": "YOUTUBE_API_KEY (GitHub Secrets only — never in a file)"
+    },
+    {
+      "id": "apple_genre_rss",
+      "name": "Apple public genre RSS — Gospel and Christian positions",
+      "measures": "week-over-week CHANGE in public chart position",
+      "enabled": false,
+      "terms_url": "https://developer.apple.com/terms/",
+      "terms_reviewed": null,
+      "reviewed_by": null,
+      "terms_finding": "NOT YET REVIEWED. Apple's RSS/marketing feeds are published for promotional and informational use; whether deriving a competing ranking from them is permitted must be confirmed against the current terms before use. OFF until confirmed.",
+      "requires_secret": null
+    },
+    {
+      "id": "shazam_public_charts",
+      "name": "Shazam public charts",
+      "measures": "week-over-week CHANGE in public chart position",
+      "enabled": false,
+      "terms_url": "https://www.shazam.com/terms",
+      "terms_reviewed": null,
+      "reviewed_by": null,
+      "terms_finding": "NOT YET REVIEWED. Shazam is an Apple property and its public chart data is subject to its own terms of use. OFF until confirmed.",
+      "requires_secret": null
+    }
+  ],
+  "_STATUS_NOTE": [
+    "ALL THREE STREAMING SOURCES ARE CURRENTLY OFF.",
+    "",
+    "They were built and wired but not switched on, because the terms could",
+    "not be read and verified. Turning a source on without reading its terms",
+    "would break the rule above, and the rule exists for good reason.",
+    "",
+    "CONSEQUENCE, stated plainly: until at least one is reviewed and enabled,",
+    "the streaming input contributes nothing, and its 35% is redistributed",
+    "across the reporter panel and release activity. The chart is still",
+    "mathematically valid and still publishes on time — it is simply measuring",
+    "radio and release activity only. That limitation is disclosed on the",
+    "methodology page rather than hidden."
+  ]
+}

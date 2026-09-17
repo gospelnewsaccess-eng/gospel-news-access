@@ -1,0 +1,23 @@
+{
+  "_README": [
+    "YouTube channels the video wall follows.",
+    "",
+    "THIS LIST IS EMPTY ON PURPOSE. Terry has not supplied his channel ID",
+    "yet. video.html renders correctly with zero videos \u2014 it shows an honest",
+    "'no channels connected' notice, not a broken page.",
+    "",
+    "TO ADD A CHANNEL:",
+    "  1. Open the channel on YouTube.",
+    "  2. Find its channel ID (starts with UC..., 24 characters).",
+    "     It is in the URL of /channel/UC... pages, or in View Source as",
+    "     \"channelId\".",
+    "  3. Add an entry below. The feed URL is built automatically.",
+    "",
+    "  {\"name\": \"Channel name\", \"channel_id\": \"UCxxxxxxxxxxxxxxxxxxxxxx\"}",
+    "",
+    "Videos always play from the creator's own player. We never re-host,",
+    "download or watermark anyone's footage."
+  ],
+  "_TODO_terry_channel": "Terry: supply your YouTube channel ID and it goes in the array below.",
+  "channels": []
+}
