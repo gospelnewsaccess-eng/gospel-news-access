@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-17T13:08:33Z",
-  "story_count": 334,
-  "with_photo": 197,
+  "generated_at": "2026-09-17T13:38:43Z",
+  "story_count": 339,
+  "with_photo": 209,
   "items": [
+    {
+      "id": "a0379154fa0b7cec",
+      "title": "Pope Leo XIV appoints Texas bishop to lead Diocese of Joliet, Illinois",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-texas-bishop-to-lead-diocese-of-joliet-illinois",
+      "summary": "The pontiff appointed Bishop Brendan Cahill on Sept. 17 to succeed Ronald Hicks, the former bishop of Joliet and current archbishop of New York.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T13:13:14Z",
+      "first_seen": "2026-09-17T13:38:43Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1774649855/BishopBrendanCahill032726_rubrfv.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "93f5d74beff63101",
+      "title": "Becoming The Legend: Jekalyn Carr On Bridging Generations And Owning Her Future",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNm9ncWRFZFJ6Z0Qta3ZKODJZeU52T0pfdHRHaWh4SmwyR0FaZXRXc29LaUQxZlFxS1l4dmJFQ3VQcmhxeFZaZ01LRmpPcnotdm5GQkd4alRCZDdUaUpibmFsZG44bkJubmxNQ2NpYzMySTY3cThhX3NUaDlNelVTNzhiQm5EeFRZNG10Q3Q3cGNubHlGRzRBRDBoNHZnMWJ2dzU5cDVMSnB6M2V5d244clhCLUJXbTN2X2gteGk4WkZwN1VmaHh3eWJJVENtNmd4?oc=5",
+      "summary": "Becoming The Legend: Jekalyn Carr On Bridging Generations And Owning Her Future forbes.com",
+      "outlet": "forbes.com",
+      "outlet_url": "https://www.forbes.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T13:06:10Z",
+      "first_seen": "2026-09-17T13:38:43Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T01:38:43Z"
+    },
+    {
+      "id": "93fff7b5c48248bc",
+      "title": "Glenn Kaiser To Make Rare Nashville Appearance",
+      "link": "https://www.ccmmagazine.com/news/glenn-kaiser-to-make-rare-nashville-appearance/",
+      "summary": "On October 2, one of my true heroes, Glenn Kaiser, will play his first Nashville show in decades. It’s a small line in the world’s festival calendar, but for anyone who came up through the world Kaiser helped build, it’s a significant one. Kaiser and his…",
+      "outlet": "CCM Magazine",
+      "outlet_url": "",
+      "source_feed": "CCM Magazine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T13:00:36Z",
+      "first_seen": "2026-09-17T13:38:43Z",
+      "image": {
+        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Glenn-Kaiser-Web-Banner.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b146b07282fc6f73",
+      "title": "Gospel Duo Minister Through Song In Waldoboro Sept. 19",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUzl5RGpQRTkzVVZYRFdEYUVKbGlGZVl0QVZhVW92TjhXOFJRWTZFelFuVVBmWHRiOS1xa19ZN183enJQaEN4c2ZaZHdZMEJOeXRzZzdXRDdtSHZFODNjSkYwbGJZS3ZPVGZ0UXRJWGNjUnJYTEdxMTF2eC1fQ01KTVRoVkMwMUVITnVfUF9oeUVKcW11M1VQWjZ3?oc=5",
+      "summary": "Gospel Duo Minister Through Song In Waldoboro Sept. 19 The Lincoln County News",
+      "outlet": "The Lincoln County News",
+      "outlet_url": "https://lcnme.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T12:54:35Z",
+      "first_seen": "2026-09-17T13:38:43Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T01:38:43Z"
+    },
     {
       "id": "bf0e39cbdfd8486c",
       "title": "Texas megachurch's 400-camera AI system under fire",
@@ -1469,7 +1539,10 @@
       "category": "gospel-trade",
       "published": "2026-09-16T16:41:57Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/16124020/3-Picture-Template-Article.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -3666,7 +3739,10 @@
       "category": "gospel-trade",
       "published": "2026-09-14T17:50:36Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/14134546/Lecrae-_Nothing-Left-To-Hide_-free-verse-_-Bless-The-Mic-0-45-screenshot-e1789408046754.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4359,7 +4435,10 @@
       "category": "gospel-trade",
       "published": "2026-09-11T16:05:09Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11120339/3-Picture-Template-Article-1.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4439,7 +4518,10 @@
       "category": "gospel-trade",
       "published": "2026-09-11T09:57:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11055558/3-Picture-Template-Article-56.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4471,7 +4553,10 @@
       "category": "gospel-trade",
       "published": "2026-09-11T09:02:40Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/06181809/5-Picture-Artist-Template-3.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4809,7 +4894,10 @@
       "category": "gospel-trade",
       "published": "2026-09-09T16:28:20Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/09122651/1K-Phew-Shake-_-Bless-The-Mic-0-5-screenshot-e1788971270204.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4940,7 +5028,10 @@
       "category": "gospel-trade",
       "published": "2026-09-08T17:30:16Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/08132228/Sho-Baraka-Good-Morning-%40-4_25am-_-Bless-The-Mic-0-14-screenshot-e1788888188760.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5047,6 +5138,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "cc9525e860df20d2",
+      "title": "Kirk Franklin Signs With Uptown Records (EXCLUSIVE)",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNak9jeGJybE1sMDF0bHRVV18zOS1SQmJETjFFUFI3Q21MYTVNZW9wQTR4VnVfanV0NU1pd0ZIelR0V0w2QXlqY20xemVqNlZkb0Z4R2kwVHYzMGNicHh5LUp5T0xaX2dNVVB1S3hnQklKbTFSQ0MxVXk2OFd0aFZ6LWV3ZEVncmplMlVpYjB5QnQ?oc=5",
+      "summary": "Kirk Franklin Signs With Uptown Records (EXCLUSIVE) Variety",
+      "outlet": "Variety",
+      "outlet_url": "https://variety.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-08T07:00:00Z",
+      "first_seen": "2026-09-17T13:38:43Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "ea6a38a052b57fd6",
       "title": "GOSPEL LIGHT SOCIETY INTERNATIONAL 40-Day Daniel Fast • Martyrs Memorial Service • 15th National Torch Conference on Revival and Evangelism",
       "link": "https://blackchristiannews.com/gospel-light-society-international-40-day-daniel-fast-martyrs-memorial-service-15th-national-torch-conference-on-revival-and-evangelism/?utm_source=rss&utm_medium=rss&utm_campaign=gospel-light-society-international-40-day-daniel-fast-martyrs-memorial-service-15th-national-torch-conference-on-revival-and-evangelism",
@@ -5077,7 +5184,10 @@
       "category": "gospel-trade",
       "published": "2026-09-07T17:33:36Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/07132604/Lady-Audri-IOU-_-Bless-The-Mic-0-12-screenshot-e1788802008792.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5093,7 +5203,10 @@
       "category": "gospel-trade",
       "published": "2026-09-07T16:52:23Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/01092425/3-Picture-Template-Article-20.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5867,7 +5980,10 @@
       "category": "faith",
       "published": "2026-08-28T20:41:29Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/philip.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
