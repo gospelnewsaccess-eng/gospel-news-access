@@ -1,0 +1,56 @@
+# ---------------------------------------------------------------------------
+# Gospel News Access — files Git must NEVER upload.
+#
+# Plain English: anything listed here is invisible to Git. It stays on the
+# machine it was written on and never reaches GitHub, never reaches the public
+# website. This file is committed FIRST, before anything else exists, so there
+# is no window in which a private file could be committed by accident.
+# ---------------------------------------------------------------------------
+
+# --- The private church and pastor roster. NEVER published. ---
+# Direct contacts, administrator names, relationship notes, outreach history.
+# NOTE the trailing /* — it matters. If you exclude the DIRECTORY ("private/")
+# Git will not look inside it at all, and the "!" line below can never take
+# effect. Excluding the CONTENTS lets us keep the README while everything else
+# in the folder stays invisible to Git forever.
+private/*
+!private/README.md
+
+# --- Credentials. There must never be a key, token or password in this repo. ---
+# Every secret lives in GitHub Secrets (Settings > Secrets and variables >
+# Actions). If any of these patterns ever matches a real file, something has
+# gone wrong — stop and rotate the key.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+client_secret*.json
+service-account*.json
+secrets.json
+*.secret
+token.txt
+*_token
+*_apikey
+*.apikey
+
+# --- Zoom / dial-in material. Never publishable. See cdc/ safety rules. ---
+zoom-*.txt
+*meeting-codes*
+*dial-in*
+
+# --- Python noise ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# --- Editor / OS noise ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

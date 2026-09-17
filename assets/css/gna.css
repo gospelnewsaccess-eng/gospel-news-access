@@ -1,0 +1,476 @@
+/* ==========================================================================
+   Gospel News Access — the whole visual design, in one file.
+
+   Plain English: every page on the site loads this one stylesheet. Change a
+   colour here and it changes everywhere at once. If this file goes missing,
+   every page still WORKS — the words and photos are all still there — but it
+   looks like a plain 1995 document.
+
+   Design intent: dark, high contrast, dense, urgent. A working news wire,
+   not a brochure. Mobile first, 16px side gutters, never a horizontal scroll.
+   ========================================================================== */
+
+:root{
+  --ink:#0a0a0c;          /* page background, near-black */
+  --ink-2:#121217;        /* card background */
+  --ink-3:#1b1b22;        /* raised surface, hairlines */
+  --line:#2a2a34;         /* borders */
+  --paper:#f2f2f4;        /* primary text */
+  --paper-2:#a8a8b4;      /* secondary text, timestamps, credits */
+  --paper-3:#70707e;      /* tertiary, fine print */
+  --red:#e01b24;          /* breaking, live, urgent */
+  --gold:#f0b429;         /* charts, movement up */
+  --blue:#4ea3ff;         /* links, section accents */
+  --green:#2fbf71;        /* debut / positive movement */
+  --maxw:1180px;
+  --gutter:16px;          /* the 16px side gutter, everywhere */
+  --sans:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --serif:Georgia,"Times New Roman",serif;
+}
+
+*,*::before,*::after{box-sizing:border-box;}
+
+html{-webkit-text-size-adjust:100%;}
+
+body{
+  margin:0;
+  max-width:100%;
+  background:var(--ink);
+  color:var(--paper);
+  font-family:var(--sans);
+  font-size:16px;
+  line-height:1.45;
+  overflow-x:hidden;          /* belt */
+}
+
+img{max-width:100%;height:auto;display:block;}
+a{color:inherit;text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+.wrap{
+  max-width:var(--maxw);
+  margin:0 auto;
+  padding-left:var(--gutter);
+  padding-right:var(--gutter);
+  width:100%;               /* braces */
+}
+
+/* ---------------------------------------------------------------- skip link */
+.skip{
+  position:absolute;left:-9999px;
+}
+.skip:focus{
+  left:var(--gutter);top:8px;z-index:200;
+  background:var(--paper);color:var(--ink);
+  padding:10px 14px;border-radius:4px;font-weight:700;
+}
+
+/* ------------------------------------------------------------ breaking bar */
+/* Rendered ONLY when a live, unexpired breaking story exists. The script
+   deletes the flag automatically 12 hours after detection — a stale BREAKING
+   banner is the worst thing this site could do, so it is designed out. */
+.breaking{
+  background:var(--red);
+  color:#fff;
+  border-bottom:1px solid #7d0f14;
+}
+.breaking .wrap{
+  display:flex;align-items:center;gap:12px;
+  padding-top:9px;padding-bottom:9px;
+}
+.breaking__tag{
+  flex:0 0 auto;
+  font-size:11px;font-weight:800;letter-spacing:.14em;
+  text-transform:uppercase;
+  background:#fff;color:var(--red);
+  padding:3px 7px;border-radius:2px;
+  white-space:nowrap;
+}
+.breaking__hd{
+  font-size:14px;font-weight:600;line-height:1.3;
+  overflow:hidden;
+}
+.breaking__hd a{text-decoration:none;}
+.breaking__hd a:hover{text-decoration:underline;}
+
+/* ------------------------------------------------------------------ header */
+.masthead{
+  background:var(--ink);
+  border-bottom:1px solid var(--line);
+  position:relative;
+}
+.masthead .wrap{
+  display:flex;align-items:baseline;justify-content:space-between;
+  gap:12px;padding-top:14px;padding-bottom:12px;flex-wrap:wrap;
+}
+.logo{
+  font-family:var(--serif);
+  font-size:25px;font-weight:700;letter-spacing:-.02em;
+  line-height:1.05;margin:0;
+}
+.logo a:hover{text-decoration:none;}
+.logo .dot{color:var(--red);}
+.masthead__meta{
+  font-size:11px;color:var(--paper-3);
+  letter-spacing:.07em;text-transform:uppercase;
+  /* Must be allowed to wrap. On a 390px phone the date line is wider than
+     the content box, and nowrap pushed the page 6px sideways — which is a
+     horizontal scroll, which is not allowed. */
+  white-space:normal;
+  flex:1 1 100%;
+  margin:2px 0 0;
+}
+
+/* nav — scrolls sideways on a phone, but the PAGE never does */
+.nav{
+  border-bottom:1px solid var(--line);
+  background:var(--ink-2);
+}
+.nav__inner{
+  display:flex;gap:2px;
+  overflow-x:auto;
+  -webkit-overflow-scrolling:touch;
+  scrollbar-width:none;
+}
+.nav__inner::-webkit-scrollbar{display:none;}
+.nav a{
+  flex:0 0 auto;
+  padding:11px 12px;
+  font-size:12px;font-weight:700;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--paper-2);
+  border-bottom:2px solid transparent;
+  white-space:nowrap;
+}
+.nav a:hover{color:var(--paper);text-decoration:none;background:var(--ink-3);}
+.nav a[aria-current="page"]{color:var(--paper);border-bottom-color:var(--red);}
+
+/* ----------------------------------------------------------- section rules */
+.srule{
+  display:flex;align-items:center;gap:10px;
+  margin:30px 0 14px;
+}
+.srule h2{
+  margin:0;font-size:13px;font-weight:800;
+  letter-spacing:.14em;text-transform:uppercase;
+}
+.srule::after{
+  content:"";flex:1;height:1px;background:var(--line);
+}
+.srule .more{
+  font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--blue);font-weight:700;
+}
+
+/* ------------------------------------------------------------------- hero */
+/* Hard rule enforced in the renderer: nothing older than 72 hours may sit
+   in this slot. */
+.hero{
+  display:block;
+  margin:20px 0 6px;
+  border-bottom:1px solid var(--line);
+  padding-bottom:22px;
+}
+.hero__fig{margin:0 0 14px;position:relative;background:var(--ink-3);}
+.hero__fig img{width:100%;aspect-ratio:16/9;object-fit:cover;}
+.hero__credit{
+  font-size:11px;color:var(--paper-3);
+  padding:6px 0 0;letter-spacing:.02em;
+}
+.hero__hd{
+  font-family:var(--serif);
+  font-size:30px;line-height:1.12;font-weight:700;
+  margin:0 0 10px;letter-spacing:-.015em;
+}
+.hero__dek{
+  font-size:16px;color:var(--paper-2);line-height:1.5;margin:0 0 10px;
+  max-width:62ch;
+}
+
+/* text-forward hero — used when NO photo could be found. Never a grey box. */
+.hero--text{
+  border-left:3px solid var(--red);
+  padding:4px 0 22px 16px;
+}
+.hero--text .hero__hd{font-size:32px;}
+
+/* ------------------------------------------------------------------- cards */
+.grid{
+  display:grid;
+  grid-template-columns:1fr;
+  gap:0;
+}
+.card{
+  display:block;
+  padding:16px 0;
+  border-bottom:1px solid var(--line);
+}
+.card__fig{margin:0 0 10px;background:var(--ink-3);}
+.card__fig img{width:100%;aspect-ratio:16/9;object-fit:cover;}
+.card__hd{
+  font-size:17px;line-height:1.25;font-weight:700;margin:0 0 7px;
+}
+.card__dek{
+  font-size:14px;color:var(--paper-2);line-height:1.45;margin:0 0 8px;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;
+  overflow:hidden;
+}
+/* a card with no photo leans on type instead — this is the fallback, and it
+   is deliberately NOT a grey box and NOT a stock photo */
+.card--text{border-left:2px solid var(--line);padding-left:14px;}
+.card--text .card__hd{font-size:18px;font-family:var(--serif);}
+
+/* the line under every story: outlet, then time */
+.byline{
+  display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+  font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+  color:var(--paper-3);
+}
+.byline__src{color:var(--blue);font-weight:700;}
+.byline__dot{color:var(--line);}
+.tag{
+  font-size:10px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
+  padding:2px 6px;border-radius:2px;
+}
+.tag--breaking{background:var(--red);color:#fff;}
+.tag--cat{background:var(--ink-3);color:var(--paper-2);}
+
+/* --------------------------------------------------------- chart strip */
+.strip{
+  background:var(--ink-2);
+  border:1px solid var(--line);
+  border-radius:4px;
+  padding:16px;
+  margin:10px 0 4px;
+}
+.strip__hd{
+  display:flex;justify-content:space-between;align-items:baseline;
+  gap:10px;margin-bottom:12px;flex-wrap:wrap;
+}
+.strip__hd h3{
+  margin:0;font-size:13px;font-weight:800;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--gold);
+}
+.strip__wk{font-size:11px;color:var(--paper-3);letter-spacing:.05em;}
+.chartrow{
+  display:flex;align-items:center;gap:11px;
+  padding:8px 0;border-top:1px solid var(--ink-3);
+  font-size:14px;
+}
+.chartrow:first-of-type{border-top:0;}
+.chartrow__pos{
+  flex:0 0 26px;text-align:right;
+  font-weight:800;font-size:16px;color:var(--gold);
+  font-variant-numeric:tabular-nums;
+}
+.chartrow__t{flex:1 1 auto;min-width:0;}
+.chartrow__title{
+  font-weight:700;display:block;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.chartrow__artist{
+  color:var(--paper-2);font-size:12.5px;display:block;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.mv{flex:0 0 auto;font-size:11px;font-weight:800;font-variant-numeric:tabular-nums;}
+.mv--up{color:var(--green);}
+.mv--down{color:var(--red);}
+.mv--same{color:var(--paper-3);}
+.mv--new{color:var(--ink);background:var(--green);padding:2px 5px;border-radius:2px;}
+.mv--re{color:var(--ink);background:var(--gold);padding:2px 5px;border-radius:2px;}
+
+/* full chart table */
+.charttable{width:100%;border-collapse:collapse;font-size:14px;margin:8px 0 26px;}
+.charttable th{
+  text-align:left;font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--paper-3);font-weight:800;
+  padding:9px 8px;border-bottom:1px solid var(--line);
+}
+.charttable td{padding:11px 8px;border-bottom:1px solid var(--ink-3);vertical-align:top;}
+.charttable .num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap;}
+.charttable .pos{font-weight:800;font-size:17px;color:var(--gold);text-align:right;width:44px;}
+.charttable .ttl{font-weight:700;}
+.charttable .art{color:var(--paper-2);font-size:13px;}
+.charttable tr:hover td{background:var(--ink-2);}
+.tablewrap{overflow-x:auto;-webkit-overflow-scrolling:touch;}
+
+/* -------------------------------------------------------------- video wall */
+.vgrid{display:grid;grid-template-columns:1fr;gap:20px;margin:10px 0 26px;}
+.vcard{background:var(--ink-2);border:1px solid var(--line);border-radius:4px;overflow:hidden;}
+.vframe{position:relative;width:100%;aspect-ratio:16/9;background:#000;}
+.vframe iframe{position:absolute;inset:0;width:100%;height:100%;border:0;}
+.vcard__body{padding:12px 14px 14px;}
+.vcard__hd{font-size:15px;font-weight:700;margin:0 0 6px;line-height:1.3;}
+
+/* ------------------------------------------------------------------ prose */
+.prose{max-width:70ch;font-size:16.5px;line-height:1.65;}
+.prose h1{
+  font-family:var(--serif);font-size:32px;line-height:1.14;
+  margin:26px 0 10px;letter-spacing:-.015em;
+}
+.prose h2{
+  font-size:14px;letter-spacing:.12em;text-transform:uppercase;
+  margin:32px 0 10px;color:var(--paper);font-weight:800;
+}
+.prose h3{font-size:18px;margin:24px 0 8px;font-weight:700;}
+.prose p{margin:0 0 15px;color:#ddddE4;}
+.prose ul,.prose ol{margin:0 0 15px;padding-left:22px;color:#ddddE4;}
+.prose li{margin:0 0 7px;}
+.prose a{color:var(--blue);text-decoration:underline;}
+.prose strong{color:#fff;}
+.prose code{
+  background:var(--ink-3);padding:2px 5px;border-radius:3px;
+  font-size:14px;color:var(--gold);
+}
+.lede{font-size:18px;color:var(--paper-2);line-height:1.55;}
+.dateline{
+  font-size:11px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--paper-3);margin:0 0 18px;
+}
+
+/* callouts */
+.note{
+  border-left:3px solid var(--blue);
+  background:var(--ink-2);
+  padding:14px 16px;margin:0 0 18px;border-radius:0 4px 4px 0;
+  font-size:15px;
+}
+.note--warn{border-left-color:var(--red);}
+.note--rule{border-left-color:var(--gold);}
+.note p:last-child{margin-bottom:0;}
+.note h3{margin-top:0;}
+
+/* the no-payment declaration on the methodology page — must be prominent */
+.declaration{
+  border:2px solid var(--gold);
+  background:rgba(240,180,41,.07);
+  padding:18px 18px;margin:22px 0;border-radius:4px;
+  font-size:16px;line-height:1.55;color:#fff;font-weight:600;
+}
+
+/* ------------------------------------------------------------------ forms */
+.form{max-width:640px;margin:0 0 30px;}
+.field{margin:0 0 17px;}
+.field label{
+  display:block;font-size:11.5px;font-weight:800;letter-spacing:.09em;
+  text-transform:uppercase;color:var(--paper-2);margin:0 0 6px;
+}
+.field .req{color:var(--red);}
+.field input,.field select,.field textarea{
+  width:100%;background:var(--ink-2);color:var(--paper);
+  border:1px solid var(--line);border-radius:3px;
+  padding:11px 12px;font-size:16px;   /* 16px stops iOS zooming on focus */
+  font-family:inherit;
+}
+.field input:focus,.field select:focus,.field textarea:focus{
+  outline:2px solid var(--blue);outline-offset:-1px;border-color:var(--blue);
+}
+.field .hint{font-size:12.5px;color:var(--paper-3);margin:5px 0 0;}
+.btn{
+  display:inline-block;background:var(--red);color:#fff;
+  border:0;border-radius:3px;padding:13px 22px;
+  font-size:13px;font-weight:800;letter-spacing:.1em;text-transform:uppercase;
+  cursor:pointer;font-family:inherit;
+}
+.btn:hover{background:#c4161e;text-decoration:none;}
+.btn--ghost{background:transparent;border:1px solid var(--line);color:var(--paper-2);}
+.btn[disabled],.btn--disabled{
+  background:var(--ink-3);color:var(--paper-3);cursor:not-allowed;
+  border:1px dashed var(--line);
+}
+.btn[disabled]:hover,.btn--disabled:hover{background:var(--ink-3);}
+
+/* ------------------------------------------------------------------ table */
+.dtable{width:100%;border-collapse:collapse;font-size:14px;margin:6px 0 26px;}
+.dtable th{
+  text-align:left;font-size:10.5px;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--paper-3);font-weight:800;padding:9px 10px;
+  border-bottom:1px solid var(--line);white-space:nowrap;
+}
+.dtable td{padding:12px 10px;border-bottom:1px solid var(--ink-3);vertical-align:top;}
+
+/* A wide data table must scroll INSIDE ITSELF on a narrow phone. If it does
+   not, it pushes the whole page sideways, and a page that scrolls sideways on
+   a phone feels broken. This keeps the table usable and the page still. */
+@media (max-width:680px){
+  .dtable{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;}
+  .dtable thead,.dtable tbody,.dtable tr{width:max-content;min-width:100%;}
+  .prose table{max-width:100%;}
+}
+
+/* confidence pills for the church roster */
+.pill{
+  display:inline-block;font-size:10px;font-weight:800;letter-spacing:.08em;
+  text-transform:uppercase;padding:3px 7px;border-radius:2px;white-space:nowrap;
+}
+.pill--confirmed{background:rgba(47,191,113,.15);color:var(--green);border:1px solid rgba(47,191,113,.4);}
+.pill--likely{background:rgba(240,180,41,.13);color:var(--gold);border:1px solid rgba(240,180,41,.36);}
+.pill--unverified{background:var(--ink-3);color:var(--paper-3);border:1px solid var(--line);}
+
+/* --------------------------------------------------------- empty states */
+/* An honest empty state. Used when a section genuinely has nothing yet.
+   Never filler, never a fake row. */
+.empty{
+  border:1px dashed var(--line);border-radius:4px;
+  padding:26px 20px;margin:12px 0 26px;
+  color:var(--paper-2);font-size:15px;line-height:1.55;
+}
+.empty h3{margin:0 0 8px;font-size:15px;color:var(--paper);}
+.empty p:last-child{margin-bottom:0;}
+
+/* ------------------------------------------------------------------ footer */
+.foot{
+  border-top:1px solid var(--line);
+  margin-top:44px;padding:26px 0 40px;
+  background:var(--ink-2);
+  font-size:13px;color:var(--paper-3);
+}
+.foot__cols{display:grid;grid-template-columns:1fr;gap:22px;margin-bottom:22px;}
+.foot h4{
+  font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--paper-2);margin:0 0 9px;font-weight:800;
+}
+.foot ul{list-style:none;margin:0;padding:0;}
+.foot li{margin:0 0 6px;}
+.foot a{color:var(--paper-2);}
+.foot__legal{border-top:1px solid var(--line);padding-top:18px;line-height:1.6;}
+
+/* ================================================================ tablet */
+@media (min-width:640px){
+  .grid{grid-template-columns:1fr 1fr;gap:0 26px;}
+  .vgrid{grid-template-columns:1fr 1fr;}
+  .hero__hd{font-size:40px;}
+  .hero--text .hero__hd{font-size:42px;}
+  .logo{font-size:30px;}
+  .foot__cols{grid-template-columns:repeat(3,1fr);}
+  .prose h1{font-size:40px;}
+}
+
+/* ================================================================ desktop */
+@media (min-width:980px){
+  :root{--gutter:24px;}
+  .grid{grid-template-columns:repeat(3,1fr);gap:0 30px;}
+  .vgrid{grid-template-columns:repeat(3,1fr);}
+  .hero{
+    display:grid;grid-template-columns:1.45fr 1fr;
+    gap:0 30px;align-items:start;
+  }
+  .hero__fig{margin-bottom:0;}
+  .hero__hd{font-size:38px;}
+  .logo{font-size:34px;}
+  .foot__cols{grid-template-columns:repeat(4,1fr);}
+  /* front page: wire on the left, chart strip rail on the right */
+  .frontsplit{display:grid;grid-template-columns:1fr 316px;gap:0 34px;align-items:start;}
+  /* Inside the split the lead story has less room, so it stacks instead of
+     sitting side by side — otherwise the headline is squeezed into a narrow
+     column and the lead stops reading like a lead. */
+  .frontsplit .hero{grid-template-columns:1fr;}
+  .frontsplit .hero__fig{margin-bottom:14px;}
+  .frontsplit .hero__hd{font-size:34px;}
+}
+
+/* people who prefer less motion, and printers */
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;}}
+@media print{
+  body{background:#fff;color:#000;}
+  .nav,.breaking,.foot{display:none;}
+}
