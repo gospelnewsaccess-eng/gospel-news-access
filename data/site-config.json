@@ -1,0 +1,117 @@
+{
+  "_README": [
+    "Every real-world fact about the organisation lives here, in ONE place.",
+    "",
+    "THE RULE THAT MATTERS: a value of null renders as NOTHING on the live",
+    "page. Not a blank line, not 'TBD', not '123 Anywhere St'. The whole block",
+    "is simply left out. That is deliberate. People in crisis may act on what",
+    "the CDC pages say, so a page must never show a phone number, an address,",
+    "a service or a programme that does not exist.",
+    "",
+    "TO FILL ONE IN: replace null with the real value in quotes, commit, and",
+    "the block appears on the site by itself. Nothing else needs changing.",
+    "",
+    "Each TODO below names exactly who has to supply the fact."
+  ],
+  "organization": {
+    "name": "Gospel News Access",
+    "legal_name": null,
+    "_TODO_legal_name": "Terry: the registered business name, if one exists. Until then the site says 'Gospel News Access' only.",
+    "founded_year": null,
+    "_TODO_founded_year": "Terry: the year the publication began operating.",
+    "owner_name": "Terry Bryant",
+    "owner_role": "Founder and Owner",
+    "owner_bio": "Terry Bryant is a credentialed journalist. He holds international press affiliations and United Nations-connected affiliations.",
+    "_NOTE_owner_bio": "Stated exactly as supplied by the owner and no further. Specific credential names, issuing bodies and accreditation numbers are NOT listed because they have not been supplied. Do not add them from guesswork.",
+    "ownership_disclosure": null,
+    "_TODO_ownership_disclosure": "Terry: one paragraph — who owns this publication, whether any outside party holds a stake, and any funding relationship that a reader deserves to know about. Google's E-E-A-T guidance treats this as important. Until supplied, the About page states ownership is sole and independent ONLY IF that is true — currently it renders a short honest note instead.",
+    "mailing_address": null,
+    "_TODO_mailing_address": "Terry: a mailing address you are willing to publish, or leave null forever. A newsroom PO box is normal and safer than a home address. NEVER a home address.",
+    "phone": null,
+    "_TODO_phone": "Terry: a publishable business line. NEVER a personal cell.",
+    "email_general": null,
+    "_TODO_email_general": "Terry: a real monitored inbox, e.g. news@yourdomain. Do NOT use a personal address. Until this is set the contact page shows no email at all.",
+    "email_corrections": null,
+    "_TODO_email_corrections": "Terry: the address that receives correction requests. May be the same as the general inbox.",
+    "email_charts": null,
+    "_TODO_email_charts": "Terry: the address for chart data disputes and reporter panel enquiries.",
+    "email_cdc": null,
+    "_TODO_email_cdc": "Terry: the address for community development enquiries."
+  },
+  "social": {
+    "_TODO": "Terry: paste the real profile URLs. Any left null simply does not appear. Never guess a handle — a wrong link sends readers to somebody else's account.",
+    "facebook": null,
+    "instagram": null,
+    "youtube": null,
+    "x": null,
+    "tiktok": null
+  },
+  "forms": {
+    "_README": [
+      "A static website cannot receive a form submission by itself — there is",
+      "no server behind it to catch one. A form that posts nowhere is worse",
+      "than no form: a reader believes they have submitted something and they",
+      "have not.",
+      "",
+      "So: while 'endpoint' is null, every form on the site renders with its",
+      "fields visible but SUBMISSION DISABLED, and says plainly that the",
+      "channel is not open yet. Nothing silently vanishes.",
+      "",
+      "runbook/forms-setup.md explains how to switch them on. A form endpoint",
+      "URL is public by design and is NOT a secret — it is safe in this file.",
+      "An API key is NOT, and never goes here."
+    ],
+    "music_submission_endpoint": null,
+    "church_join_endpoint": null,
+    "contact_endpoint": null,
+    "cdc_contact_endpoint": null,
+    "reporter_panel_endpoint": null
+  },
+  "cdc": {
+    "_README": [
+      "CRITICAL SAFETY RULES for everything under this key:",
+      "",
+      "People in crisis may act on what a community development page says. A",
+      "programme listed here that does not exist, or a phone number that rings",
+      "nowhere, can do real harm to somebody who is already in trouble.",
+      "",
+      "  1. Never add a programme, service, phone number, address, statistic,",
+      "     partner, eligibility rule or outcome that has not been confirmed.",
+      "  2. NEVER publish a Zoom meeting ID, dial-in number or password here",
+      "     or anywhere else on the site. Not once. The site uses a request",
+      "     form instead. This applies to the His Presence Fire Thursday",
+      "     service code, which must NOT be published.",
+      "  3. Donate buttons stay disabled until a real payment processor exists."
+    ],
+    "gospel_news_access": {
+      "address": null,
+      "phone": null,
+      "email": null,
+      "hours": null,
+      "programs": [],
+      "_TODO_programs": "Terry: the real list of services this CDC actually delivers today. Each needs a name and one plain sentence describing who it is for and how to reach it. An empty list renders an honest 'programmes are being confirmed' notice instead of a fake list.",
+      "partners": [],
+      "_TODO_partners": "Terry: only organisations that have actually agreed to be named as partners."
+    },
+    "his_presence_fire": {
+      "address": null,
+      "phone": null,
+      "email": null,
+      "hours": null,
+      "programs": [],
+      "_TODO_programs": "Terry: same rule as above.",
+      "partners": [],
+      "service_times_public": null,
+      "_TODO_service_times_public": "Terry: service times are safe to publish. The Zoom code and password are NOT and must never be added to this file or any other file in this repository.",
+      "zoom_note": "Thursday service is held online. The link is sent on request — it is never published on this site."
+    },
+    "donations_enabled": false,
+    "_NOTE_donations": "Stays false until a real payment processor is live. While false, donate buttons render visibly disabled with an explanation. Do not set true without a working processor."
+  },
+  "charts": {
+    "first_publication_date": "2026-08-07",
+    "_TODO_first_publication_date": "Set by scripts/chart_engine.py automatically on the first real chart run. Leave null.",
+    "editorial_panel": [],
+    "_TODO_editorial_panel": "Terry: the real names of whoever sits on the editorial desk. charts/methodology.html must name them — it currently says the desk is not yet seated, which is true and fine. Never invent a panellist."
+  }
+}

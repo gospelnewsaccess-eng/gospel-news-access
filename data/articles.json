@@ -1,0 +1,16 @@
+{
+  "_README": [
+    "Written by scripts/wire.py. Do not edit by hand.",
+    "",
+    "EMPTY because the wire has not run yet. The wire only reads sources marked",
+    "\"verified\" in data/news-sources.json, and verification runs on GitHub",
+    "Actions (.github/workflows/verify-feeds.yml). Run that first, then the wire.",
+    "",
+    "Every page renders correctly with zero stories — they show honest empty",
+    "states, not broken layouts."
+  ],
+  "generated_at": null,
+  "story_count": 0,
+  "with_photo": 0,
+  "items": []
+}

@@ -1,0 +1,37 @@
+{
+  "_README": [
+    "Gospel News Access ORIGINAL reporting. Starts empty on purpose.",
+    "",
+    "We will not invent a story to demonstrate the feature. Every entry here",
+    "must be real reporting with a real dateline and a real timestamp.",
+    "",
+    "RULES (also enforced on the page):",
+    " - byline: a real reporter's name, or 'Gospel News Access Staff'.",
+    " - NEVER invent a person to put in the byline.",
+    " - A story about a named individual's conduct needs primary documentation",
+    "   or an on-record source AND an attempt to reach them for comment.",
+    "   If you have neither, the story does not run.",
+    "",
+    "Set status to 'published' to make it live. Corrections print inline at",
+    "the bottom of the story, dated, and are also listed on /corrections.html."
+  ],
+  "_template": {
+    "slug": "url-safe-name",
+    "title": "",
+    "standfirst": "",
+    "dateline": "CITY, State",
+    "byline": "Gospel News Access Staff",
+    "published": "2026-01-01T12:00:00Z",
+    "updated": null,
+    "image": null,
+    "image_alt": "",
+    "image_credit": "",
+    "body": [
+      "paragraph one",
+      "paragraph two"
+    ],
+    "corrections": [],
+    "status": "draft"
+  },
+  "articles": []
+}
