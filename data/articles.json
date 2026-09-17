@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-17T19:06:01Z",
-  "story_count": 388,
-  "with_photo": 238,
+  "generated_at": "2026-09-17T19:36:57Z",
+  "story_count": 396,
+  "with_photo": 244,
   "items": [
+    {
+      "id": "dbccdc84a04dcb89",
+      "title": "Christian Teacher of the Year: Justin Langley blends math, music, theology to awaken students’ wonder for God’s creation",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTUFENHQyOVZ1cjJ3NHVCd1gxdnN1VXpURUZyd0F6UVdLT1hNWjRheXpDYU5fQl9QY09WWTBjaU9UVHpTZ2FjcURMYnR5VkZ1Wm04NEluRlVRSHVLa3dWY1VzUWVqUGZKWE4zbWxlU1pfSHd5SnpDcEU0QWxQMThYSGlkdEhFeVRtZW5PRlpsejlzelpQSEluRHItOXE4S2tJM1JBcUZHUnk3ZGxEUXdjQlBLWnNYUDdIX1RNZUJlaWtDLVNiWkhtNkFIMElPZkF5VnJ4T1lsVDBLRjQ4?oc=5",
+      "summary": "Christian Teacher of the Year: Justin Langley blends math, music, theology to awaken students’ wonder for God’s creation Heartlander News",
+      "outlet": "Heartlander News",
+      "outlet_url": "https://heartlandernews.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-17T19:34:27Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T07:36:57Z"
+    },
+    {
+      "id": "866f5fea2f55cc2a",
+      "title": "Caritas Cuba to receive more humanitarian aid from U.S. in coming weeks",
+      "link": "https://www.ewtnnews.com/world/americas/caritas-cuba-to-receive-more-humanitarian-aid-from-u-s-in-coming-weeks",
+      "summary": "The U.S. government has been sending and continues to send millions of dollars of humanitarian aid to be distributed by Caritas Cuba, thus bypassing the communist regime.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T18:40:57Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789666740/ewtn-news/en/Donacion_Caritas-Cuba_110226_psp8oc_mgrpma.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "55b7b9c089d2094e",
       "title": "Why are women leaving churches and where are they going instead? A journalist explains.",
@@ -68,6 +103,44 @@
       "breaking_expires_at": "2026-09-18T06:40:58Z"
     },
     {
+      "id": "4ec7ce8f6ba87e42",
+      "title": "Oregon Rejected This Christian Mom’s Adoption Application. Then She Fought Back",
+      "link": "https://mycharisma.com/news/oregon-rejected-this-christian-moms-adoption-application-then-she-fought-back/",
+      "summary": "A Christian mother who says Oregon denied her the chance to adopt from foster care because of her beliefs about gender identity can continue the process under a settlement with the state. Jessica Bates, a widowed mother of five, began seeking certification in…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T18:30:48Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8eff698181c248ac",
+      "title": "Jelly Roll says he would quit music industry if God told him to",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmhqSmRmWWJrU2pGMWhzdW1Ld0llSmVnc2RsSVNZc3ZUaDlzcmNqLUxVQjBnWVQ2a0tyVDlqQzJ6R1A1YWUzNE9CN1YxblFQb21nQnZQRHoyOE5GcXdQekdYS2NjLVFQR1NtdjNyRXNOcXU2cXdXRGVuTWc2eHQwYzg1Z0dERG9YaUFGZ1BJc19zUlNlVHQxWmlR?oc=5",
+      "summary": "Jelly Roll says he would quit music industry if God told him to Christian Post",
+      "outlet": "Christian Post",
+      "outlet_url": "https://www.christianpost.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-17T18:27:37Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271956_w_550_391_722_257.jpg?v=20260917142821",
+        "via": "media:content"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T07:36:57Z"
+    },
+    {
       "id": "91a1f26606eae063",
       "title": "Mamdani once vowed to arrest Netanyahu. Now he won’t join protests against him.",
       "link": "https://religionnews.com/2026/09/17/mamdani-once-vowed-to-arrest-netanyahu-now-he-wont-join-protests-against-him/",
@@ -101,6 +174,63 @@
       "image": {
         "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Israel-Elections2.jpg",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a1c479d3f784d0d8",
+      "title": "‘Triple Whammy’: Arthur Lundeen’s Bizarre Admission Adds New Twist to Jonathan Cahn Flight 618 Attack",
+      "link": "https://mycharisma.com/news/triple-whammy-arthur-lundeens-bizarre-admission-adds-new-twist-to-jonathan-cahn-flight-618-attack/",
+      "summary": "There may be an even stranger layer to the Jonathan Cahn Flight 618 attack. Before Arthur Lundeen publicly claimed he couldn’t remember the violent episode aboard American Airlines Flight 618, Cahn had already made a striking observation about the man accused…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T18:16:58Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a049d55453c893ca",
+      "title": "Trump official voices concern about exhibition statue resembling 'golden calf' in Exodus: report",
+      "link": "https://www.christianpost.com/news/chris-landau-voices-concern-about-symbol-resembling-golden-calf.html",
+      "summary": "A high-ranking Trump administration official reportedly voiced concerns about American-led plans to display a bull statue at an upcoming international exhibit over concerns that it resembled a Canaanite deity condemned in the Bible.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T18:05:06Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271946_w_550_367_630_209.jpg?v=20260917143836",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "95f199c2e23e3a1d",
+      "title": "InstaChurch founder, actor Alan Ritchson announces divorce after 20 years of marriage",
+      "link": "https://www.christianpost.com/news/instachurch-founder-actor-alan-ritchson-announces-divorce.html",
+      "summary": "Hollywood actor Alan Ritchson, who founded the faith-focused video ministry and YouTube channel InstaChurch, has announced that he and his wife, Catherine, are getting a divorce after three children and more than 20 years of marriage.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T18:04:00Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271954_w_550_312.jpg?v=20260917140647",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -156,6 +286,22 @@
         "url": "https://counter.theconversation.com/content/291776/count.gif",
         "via": "content:encoded"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a123c1a24468e2c3",
+      "title": "He/Hymn",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE42aTFwOTdBX29QX1lxRHJzb0hxUjJtV19EQ3RlZmFxMGE5b2VKY3BDdTJQU0g1cEY4NWhfSFRYaFBFRnN2aE5tSnhXVEM?oc=5",
+      "summary": "He/Hymn styleweekly.com",
+      "outlet": "styleweekly.com",
+      "outlet_url": "https://www.styleweekly.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-17T17:30:18Z",
+      "first_seen": "2026-09-17T19:36:57Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
