@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-17T09:39:31Z",
-  "story_count": 315,
+  "generated_at": "2026-09-17T10:07:50Z",
+  "story_count": 318,
   "with_photo": 179,
   "items": [
+    {
+      "id": "1bd6f57b18c0f71f",
+      "title": "Dayton Literary Peace Prizes honor wartime Ukraine novel and book on history of Charleston church",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzdFOXFNVTQyNEsyZHNkN0RISzY0b0dCREZqZFJjbE9fa09RMXZVeHktWnNyai1pUVZibjU0M0ZJYVhGQ25xMmx5WEoyc19hQ29NcU05Q2lRS0plMWRobUE4dm92NC02bXZWNWZEVGxXNHJoYnpyQTgwRW9ycWl3YW9FdEZ3S2tNZ0J5UzJFSW9fTmFUMGFSd0RPSERnT0FzQkc0S3ZvZS1BODdmNmhDdnZnQzNiOXZ2a2R0QmFiUWp3QjVGYk5WM2NtR01adw?oc=5",
+      "summary": "Dayton Literary Peace Prizes honor wartime Ukraine novel and book on history of Charleston church wral.com",
+      "outlet": "wral.com",
+      "outlet_url": "https://www.wral.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T10:06:45Z",
+      "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-17T22:07:50Z"
+    },
     {
       "id": "73dfb8c9577f5eea",
       "title": "Roger Waters, Massive Attack And Garbage Turn On Ed Sheeran As Macklemore Tour Scandal Explodes",
@@ -5004,6 +5020,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "b938cec7eeef6102",
+      "title": "Historically Black church in Queens is set to close after nearly 25 years",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZTNEQlN6dlBWdnVQSVRiQmFlbmxicVBWdHduSW5ubi03bjFYOGRCcG9NSlpsdGZQNzVwUDdHTjJFX2t1VzNqRkIyU2IwajF5ajBwWElWRlpha3pxZEJqTmk1YVBoLWplUldHd2RZenRnaU40V2Jnd3RITEVVcWNTTHVfeFhOVi16eDZMMDR0c1NhQmVCaWNtODJSZVQ4bnF5UnpuaVdMWlNIQ193QnhrdmJldkk?oc=5",
+      "summary": "Historically Black church in Queens is set to close after nearly 25 years Gothamist",
+      "outlet": "Gothamist",
+      "outlet_url": "https://gothamist.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-04T07:00:00Z",
+      "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "4946bd45a6c4fd40",
       "title": "The Celebrity Pastor Era Finally Ended. But Then Christian Influencers Took Its Spot.",
       "link": "https://relevantmagazine.com/faith/the-christian-celebrity-era-is-over-what-replaced-it-might-be-worse/",
@@ -5478,6 +5510,22 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/phil.jpg",
         "via": "og:image"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "925aa9ea77676ec5",
+      "title": "Once forgotten, Black church's legacy now finds a place of honor - San Antonio Express-News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNm5sSGdKa0pibnBQaldBS0t0VXhRc3J1Vlp3UGRKV0JBSEpDbW9JMXpHRDVTV2c4WVNEbkI3UHFxQ19BZk4zZjRnaGd4UEJyTFZhSHpvYmF6eS16UVpMVmJ1Rm5hWkFvNllOVGNZbmwtajF4cGFyZGdhUmZiUQ?oc=5",
+      "summary": "Once forgotten, Black church's legacy now finds a place of honor San Antonio Express-News",
+      "outlet": "San Antonio Express-News",
+      "outlet_url": "https://www.expressnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-08-31T07:00:00Z",
+      "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
