@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-17T22:34:33Z",
-  "story_count": 419,
+  "generated_at": "2026-09-17T23:05:41Z",
+  "story_count": 421,
   "with_photo": 261,
   "items": [
+    {
+      "id": "de4e6597525a3605",
+      "title": "Chris Tomlin Honored For More Than 8 Billion Career Streams",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNmlBdFB2YjltQmFtQ1RQbE5oa1BfTDh1N2lvc2FKVllLWmRKWnJTYkVUT3d3QVRmVi1qaHMxWGI3bFdXZXYtem5haVRodllWbm1VMGRZTWluazhpejAwOHB4VmlvUUJ4d1dsdEdZRVlSZTd0U3BKaFhoQUZWb3FiY0RQaGFqSlpRREV4MTJsVlhUQQ?oc=5",
+      "summary": "Chris Tomlin Honored For More Than 8 Billion Career Streams Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T22:41:15Z",
+      "first_seen": "2026-09-17T23:05:41Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T11:05:41Z"
+    },
     {
       "id": "dd8d4ea71e2f1c06",
       "title": "Texas Republicans excuse bigotry all the time. This time they couldn’t.",
@@ -603,6 +619,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271954_w_550_312.jpg?v=20260917140647",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d2a905b6f6609dd1",
+      "title": "Historic Killeen church destroyed by fire days after celebrating 75th anniversary",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDRlU3pOQmFDWXBDRDVFUk9TRHBXZlBCNVY4X3p6bzdVeVpUalBEMXpYLVBVQjlrN1ZsZVpTbDd6WlJfVXBidUpkNDJBVjdvaU53NTlWOGFObkgxek1kRlZlSDhXT2tkTXN5d2tsVzU2OFU1ZjlhcnA3azQ1QjJJZWxsVE5NWlNaYmlLR0xoNWxLcnM?oc=5",
+      "summary": "Historic Killeen church destroyed by fire days after celebrating 75th anniversary Yahoo",
+      "outlet": "Yahoo",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T17:51:32Z",
+      "first_seen": "2026-09-17T23:05:41Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
