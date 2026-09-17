@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-17T22:07:07Z",
-  "story_count": 417,
-  "with_photo": 260,
+  "generated_at": "2026-09-17T22:34:33Z",
+  "story_count": 419,
+  "with_photo": 261,
   "items": [
+    {
+      "id": "dd8d4ea71e2f1c06",
+      "title": "Texas Republicans excuse bigotry all the time. This time they couldn’t.",
+      "link": "https://religionnews.com/2026/09/17/texas-republicans-excuse-bigotry-all-the-time-this-time-they-couldnt/",
+      "summary": "(RNS) — Bo French, a Republican candidate for Texas Railroad Commission, proved himself to be an apostate of the state's religion: football.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T22:11:48Z",
+      "first_seen": "2026-09-17T22:34:33Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-bo-french-ut-post-314x369.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "20ec8c3c0ea7fcf5",
+      "title": "This is not your tech oligarchs’ AI apocalypse",
+      "link": "https://religionnews.com/2026/09/17/this-is-not-your-tech-oligarchs-ai-apocalypse/",
+      "summary": "(RNS) — I absolutely believe we are living through an AI apocalypse — in the biblical sense.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T21:51:35Z",
+      "first_seen": "2026-09-17T22:34:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2b45258295a55456",
       "title": "Should You Have to Pay to Hear the Gospel?",
