@@ -27,7 +27,19 @@ Once that is done the finished site can be pushed in a single commit.
 
 ---
 
-## Step 2 — Turn on GitHub Pages
+## Step 2 — Turn on GitHub Pages  ← THIS IS THE CURRENT BLOCKER
+
+**A person has to do this by hand. It cannot be automated, and we tried.**
+
+Everything is committed to main correctly. GitHub is simply not serving it:
+every address on the site currently returns "404 not found", the repository
+reports `has_pages: false`, and no Pages build has ever run.
+
+We attempted to switch it on through the GitHub API from a workflow. It was
+refused with `403 Resource not accessible by integration` — creating a Pages
+site needs **repository admin**, which the automatic Actions token does not
+have and cannot be given. So this is four clicks by somebody with admin
+rights on the repository:
 
 1. Go to the repository → **Settings** → **Pages**.
 2. Under **Build and deployment**, set **Source** to **Deploy from a branch**.
@@ -39,6 +51,14 @@ After a minute or two the site is live at:
 ```
 https://gospelnewsaccess-eng.github.io/gospel-news-access/
 ```
+
+### Checking it worked
+
+Run **Actions → Verify live site → Run workflow**. It fetches the real,
+published pages and reports what they actually serve — the headlines, the
+photographs, and whether those photographs really load from the publishers'
+servers. It also runs by itself once a day, so if Pages is switched on later
+the next daily run will confirm it.
 
 ---
 
