@@ -40,7 +40,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T22:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Black church",
@@ -51,7 +52,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-17T01:45:20Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: megachurch",
@@ -62,7 +64,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T20:20:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Christian music",
@@ -72,8 +75,9 @@
       "status": "verified",
       "verified": "2026-09-17",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-09-16T17:37:46Z",
-      "last_error": null
+      "verified_newest_item": "2026-09-16T19:28:06Z",
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: gospel artist",
@@ -84,7 +88,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T23:04:03Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Kirk Franklin",
@@ -95,7 +100,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-14T10:31:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: CeCe Winans",
@@ -106,7 +112,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T18:49:45Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Tasha Cobbs Leonard",
@@ -117,19 +124,21 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T18:49:45Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Marvin Sapp",
       "url": "https://news.google.com/rss/search?q=Marvin+Sapp+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2026-08-04T07:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 100,
+      "verified_newest_item": "2026-08-04T07:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: Yolanda Adams",
@@ -140,7 +149,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-08-27T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Fred Hammond",
@@ -151,7 +161,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T10:13:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Tamela Mann",
@@ -162,19 +173,21 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-10T13:31:44Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Travis Greene",
       "url": "https://news.google.com/rss/search?q=Travis+Greene+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2025-12-11T08:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 100,
+      "verified_newest_item": "2025-12-11T08:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: Jekalyn Carr",
@@ -185,19 +198,21 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-09T17:24:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Maverick City Music",
       "url": "https://news.google.com/rss/search?q=Maverick+City+Music+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2026-08-04T07:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 100,
+      "verified_newest_item": "2026-08-04T07:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: Donald Lawrence",
@@ -206,9 +221,10 @@
       "category": "artist",
       "status": "verified",
       "verified": "2026-09-17",
-      "verified_item_count": 80,
+      "verified_item_count": 81,
       "verified_newest_item": "2026-09-16T20:49:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Erica Campbell",
@@ -219,7 +235,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-08-18T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Koryn Hawthorne",
@@ -230,7 +247,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 47,
       "verified_newest_item": "2026-08-21T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Ricky Dillard",
@@ -241,7 +259,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 74,
       "verified_newest_item": "2026-09-16T11:30:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: JJ Hairston",
@@ -252,7 +271,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 45,
       "verified_newest_item": "2026-08-18T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Todd Dulaney",
@@ -263,7 +283,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 90,
       "verified_newest_item": "2026-08-19T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Jonathan McReynolds",
@@ -274,31 +295,34 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T20:49:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Le'Andria Johnson",
       "url": "https://news.google.com/rss/search?q=Le%27Andria+Johnson+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2026-08-16T07:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 100,
+      "verified_newest_item": "2026-08-16T07:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: Melvin Crispell III",
       "url": "https://news.google.com/rss/search?q=Melvin+Crispell+III+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2026-08-15T07:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 44,
+      "verified_newest_item": "2026-08-15T07:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: The Clark Sisters",
@@ -309,7 +333,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-08T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Karen Clark Sheard",
@@ -320,7 +345,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-09T18:22:39Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Hezekiah Walker",
@@ -331,19 +357,21 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-03T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Tye Tribbett",
       "url": "https://news.google.com/rss/search?q=Tye+Tribbett+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2026-06-22T07:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 100,
+      "verified_newest_item": "2026-06-22T07:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: Kierra Sheard",
@@ -354,19 +382,21 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T20:49:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Zacardi Cortez",
       "url": "https://news.google.com/rss/search?q=Zacardi+Cortez+gospel&hl=en-US&gl=US&ceid=US:en",
       "tier": 1,
       "category": "artist",
-      "status": "failed",
-      "verified": null,
-      "verified_item_count": null,
-      "verified_newest_item": null,
-      "last_error": "stale: newest item is 2026-08-16T07:00:00Z, older than 30 days",
-      "last_checked": "2026-09-17"
+      "status": "verified",
+      "verified": "2026-09-17",
+      "verified_item_count": 51,
+      "verified_newest_item": "2026-08-16T07:00:00Z",
+      "last_error": null,
+      "last_checked": "2026-09-17",
+      "quiet": true
     },
     {
       "name": "Google News: Naomi Raine",
@@ -375,9 +405,10 @@
       "category": "artist",
       "status": "verified",
       "verified": "2026-09-17",
-      "verified_item_count": 47,
-      "verified_newest_item": "2026-09-17T01:07:00Z",
-      "last_error": null
+      "verified_item_count": 46,
+      "verified_newest_item": "2026-05-29T14:30:08Z",
+      "last_error": null,
+      "quiet": true
     },
     {
       "name": "Google News: Elevation Worship",
@@ -388,7 +419,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-15T18:40:56Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Brandon Lake",
@@ -399,7 +431,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-16T14:57:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Phil Wickham",
@@ -410,7 +443,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-08-31T07:00:00Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Google News: Lauren Daigle",
@@ -421,7 +455,8 @@
       "verified": "2026-09-17",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-10T18:51:45Z",
-      "last_error": null
+      "last_error": null,
+      "quiet": false
     },
     {
       "name": "Religion News Service",
@@ -436,7 +471,8 @@
       "url_candidates": [
         "https://religionnews.com/feed/",
         "https://religionnews.com/rss"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Christianity Today",
@@ -452,7 +488,8 @@
         "https://www.christianitytoday.com/rss/",
         "https://www.christianitytoday.com/feed/",
         "https://www.christianitytoday.com/ct/rss/"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "The Christian Post",
@@ -468,7 +505,8 @@
         "https://www.christianpost.com/rss/",
         "https://www.christianpost.com/rss/news.xml",
         "https://www.christianpost.com/feed/"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Relevant",
@@ -483,7 +521,8 @@
       "url_candidates": [
         "https://relevantmagazine.com/feed/",
         "https://relevantmagazine.com/rss"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Charisma News",
@@ -499,7 +538,8 @@
         "https://charismanews.com/feed/",
         "https://www.charismanews.com/feed/",
         "https://mycharisma.com/feed/"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Premier Christian News",
@@ -547,7 +587,8 @@
       "url_candidates": [
         "https://www.catholicnewsagency.com/rss/news.xml",
         "https://www.catholicnewsagency.com/feed"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Vatican News",
@@ -562,7 +603,8 @@
       "url_candidates": [
         "https://www.vaticannews.va/en.rss.xml",
         "https://www.vaticannews.va/en/rss.xml"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Path MEGAzine",
@@ -577,7 +619,8 @@
       "url_candidates": [
         "https://pathmegazine.com/feed/",
         "https://www.pathmegazine.com/feed/"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Rapzilla",
@@ -593,7 +636,8 @@
         "https://rapzilla.com/feed",
         "https://rapzilla.com/feed/",
         "https://www.rapzilla.com/rapzilla?format=feed&type=rss"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "NewReleaseToday",
@@ -625,7 +669,8 @@
       "url_candidates": [
         "https://www.ccmmagazine.com/feed/",
         "https://ccmmagazine.com/feed/"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "JubileeCast",
@@ -641,7 +686,8 @@
         "https://www.jubileecast.com/rss/",
         "https://www.jubileecast.com/feed/",
         "https://www.jubileecast.com/rss/all.xml"
-      ]
+      ],
+      "quiet": false
     },
     {
       "name": "Black Christian News Network",
@@ -656,13 +702,14 @@
       "url_candidates": [
         "https://blackchristiannews.com/feed/",
         "https://www.blackchristiannews.com/feed/"
-      ]
+      ],
+      "quiet": false
     }
   ],
-  "last_verification_run": "2026-09-17T06:28:23Z",
+  "last_verification_run": "2026-09-17T06:30:23Z",
   "verification_summary": {
-    "verified": 40,
-    "failed": 10,
+    "verified": 47,
+    "failed": 3,
     "skipped": 0
   }
 }
