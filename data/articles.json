@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-09-17T12:08:42Z",
-  "story_count": 329,
-  "with_photo": 194,
+  "generated_at": "2026-09-17T12:42:13Z",
+  "story_count": 334,
+  "with_photo": 197,
   "items": [
+    {
+      "id": "bf0e39cbdfd8486c",
+      "title": "Texas megachurch's 400-camera AI system under fire",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZUx2Z2t1MklhOVlzT3lFSXd2a0ZBWlotSVVXQXBMdDQzUWp5QWhNMFFmNUtuc3dBY204SFhmbVRycUJjQXZXXzdveXhyVXNQS3JQVXRuVy1CbzlsZkR1WlYtVUx6V0h6bHFtZFRjbTFSaGJUeDRMZ2NaeFhkN0VKdVVPQ0dnMHIxZU5aX3p3?oc=5",
+      "summary": "Texas megachurch's 400-camera AI system under fire Yahoo",
+      "outlet": "Yahoo",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T12:30:00Z",
+      "first_seen": "2026-09-17T12:42:13Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T00:42:13Z"
+    },
+    {
+      "id": "6219e2b4f3e2b629",
+      "title": "Legendary Pop Artist Peter Max Dies at 88, Son Confirms",
+      "link": "https://www.jubileecast.com/articles/39500/20260917/peter-max-psychedelic-pop-artist-dies-88-obituary.htm",
+      "summary": "Legendary Pop Artist Peter Max Dies at 88, Son Confirms",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T12:16:23Z",
+      "first_seen": "2026-09-17T12:42:13Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31839/peter-max.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0a3e03fb5aaf5856",
+      "title": "\"I Just Might\" Just Became Bruno Mars' Longest-Running No. 1 Ever: Here's the Record It Broke",
+      "link": "https://www.jubileecast.com/articles/39499/20260917/bruno-mars-i-just-might-longest-running-number-one-record.htm",
+      "summary": "\"I Just Might\" Just Became Bruno Mars' Longest-Running No. 1 Ever: Here's the Record It Broke",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T12:06:02Z",
+      "first_seen": "2026-09-17T12:42:13Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31494/bruno-mars.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "470f44128b87dff6",
+      "title": "Sara Bareilles Opens Up About \"Writing Letters to God\" Through Her Grief on New Tour",
+      "link": "https://www.jubileecast.com/articles/39498/20260917/sara-bareilles-writing-letters-to-god-good-grief-tour-massey-hall.htm",
+      "summary": "Sara Bareilles Opens Up About \"Writing Letters to God\" Through Her Grief on New Tour",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T12:00:37Z",
+      "first_seen": "2026-09-17T12:42:13Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31636/sara-bareilles.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5594d482e32a24df",
       "title": "NBC Helicopter Crash: Savannah Guthrie, Craig Melvin Mourn Eliana Moreno and George Marciniw on Today",
@@ -4286,6 +4359,22 @@
       "category": "gospel-trade",
       "published": "2026-09-11T16:05:09Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1f8d45712649763b",
+      "title": "Kirk Franklin Announces New Partnership With Uptown Records",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1JxSE1laUtvMnd4enc0R2NKbENicG81Ym55UGlCODVkVHN5MHUzU2x3eGttSXlIRFhvbWExQXRXdzBCU2llWThUTWhER2M0RmZuRklSVC15TG50UnZQcHhJa0g3RFE4eDZoeFlvbFEyQ1o4cXF2elYyeEw1WnZhZEROX0FkUm90ZFFzN01EWQ?oc=5",
+      "summary": "Kirk Franklin Announces New Partnership With Uptown Records WBLS",
+      "outlet": "WBLS",
+      "outlet_url": "https://www.wbls.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-11T14:30:00Z",
+      "first_seen": "2026-09-17T12:42:13Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
