@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-17T08:38:15Z",
-  "story_count": 305,
+  "generated_at": "2026-09-17T09:06:59Z",
+  "story_count": 310,
   "with_photo": 175,
   "items": [
+    {
+      "id": "fec28fac8da9f077",
+      "title": "10 AI Gospel Songs Shaking Up Christian Music Now",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWFLSzRobm1IWXprdjBNbExueEFNLTFrUEhuZ19KSnhZZHhGWk1Bb0VibXFGRVNHNUx3cjZRLVFfWUFnMjhWUGc5azg2amFQTV9VZXhaMmw4RUx4SjRqYjlxTDJDMU1KX0RpQ1JXemdsb2NmTDg5R3FCQVNlSW5kVlpYTG9sTktCYm1pZlQxZlVzbjJSM25qOW90S3VxdHZ6V1BTMmxtNU4?oc=5",
+      "summary": "10 AI Gospel Songs Shaking Up Christian Music Now JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T08:58:00Z",
+      "first_seen": "2026-09-17T09:06:59Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-17T21:06:59Z"
+    },
     {
       "id": "83dff91bafa0aea7",
       "title": "NBC4 Reporter Eliana Moreno Dies In Fiery Helicopter Crash Less Than One Year After Getting Engaged",
@@ -4344,6 +4360,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "c164d22c8fb6908b",
+      "title": "Bethel Music, KB coming to Topeka for major Christian music event",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkhxdms2WTRzaEpsRFNnX2dfdVBVTDlNU0I3YXlsa3ZNSlNBVWIzQW92VkJkM0ZtdUxDRUNzTzJTTUlack4tYzA4M2lPdVNJNWhzNDZzRm5sSXNjX1g0cmZ4bjVMQjdzNndUNHhmZ0RIVEdPel9qQjRFdkFObDEyX1JybGVPekhjMW91Q3NfRzUtZ2N4bW9yQmg1SmxmWEppN293UElrd29tbUhtbnhMalhFVkh2NGZGMk5J0gHAAUFVX3lxTFBtYzV1enN4eV9BMU00MjczMGtnTDlCWVRrbThacDRDTEVzcUk0UTB2TUpSdFJYT0gzUC1ndHAzX3RuQ1hvdE1ZZXBOaGFXZlRid292amtQQ0s2QzVsMHUwSUxVQkFXam16QUkyZTZ3d0t1aldOamVISTNIQVNKaENGcWpDSGNNWXBVVURiUjhTMm9kNEhLRzdxeW9TMDlsQm9NdVBmSmh5YnB2T1NLOXhGVU41T2xPVkFZWkVCdWxwQQ?oc=5",
+      "summary": "Bethel Music, KB coming to Topeka for major Christian music event KSNT 27 News",
+      "outlet": "KSNT 27 News",
+      "outlet_url": "https://www.ksnt.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-09T21:54:31Z",
+      "first_seen": "2026-09-17T09:06:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "7c37080f3ad0a630",
       "title": "Kirk Franklin Forms New Partnership With Uptown Records",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGM3YkQtOHZtUnNWT2F0QWQ4TG9LQkpYd204QnV0clhENnNaS2dwUmVmcjNyamZDekNCbW5EWEJLLUZzVnUxMHVObWYzVzBjQzBLOTdtYm84SURzQnB5T0V4bHZaUDlBNjRJVGJDcFNIUUxLQVpZR3lxQXA2MjVGV29aMVJyY2tmVHZmQWxR?oc=5",
@@ -4705,6 +4737,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "3507fb049c437d5b",
+      "title": "Concert review: CeCe Winans offers memorable end to the Minnesota State Fair",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUxnQTBRQVJRcjRtRkxFc0hSRlpmRUwwNFRWajR6M1lkbTFQQ19MZnp1azNvdVdvTmtHMEVrbmpiOFRvS0x3ZXpYSDA5R2k1RlBBQXFKbVQtRTRPaGJsLXQ0Vm0zLU5lQTk0ZXU1VXhpXzM5ZDBSSmZaeWNieHcxU1BlT1U5MzkwMGVMVTk4b2dfbEoxNXM2Q2tmMkVXZVhPZ1RFUEZSQnJBNFpTRWFFM2lmNW4?oc=5",
+      "summary": "Concert review: CeCe Winans offers memorable end to the Minnesota State Fair Pioneer Press",
+      "outlet": "Pioneer Press",
+      "outlet_url": "https://www.twincities.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-07T07:00:00Z",
+      "first_seen": "2026-09-17T09:06:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "8f8bf6de28b239fa",
       "title": "Chapter 5: “Who Are You?” — THE ADVENTURES OF DANIQUA-GRACE BOOK 1 Martyr Daniqua Grace Whyte and the Time Machine Visit to the Catacombs by Daniel Whyte III with Meriqua Whyte",
       "link": "https://blackchristiannews.com/chapter-5-who-are-you-the-adventures-of-daniqua-grace-book-1-martyr-daniqua-grace-whyte-and-the-time-machine-visit-to-the-catacombs-by-daniel-whyte-iii-with-meriqua-whyte/?utm_source=rss&utm_medium=rss&utm_campaign=chapter-5-who-are-you-the-adventures-of-daniqua-grace-book-1-martyr-daniqua-grace-whyte-and-the-time-machine-visit-to-the-catacombs-by-daniel-whyte-iii-with-meriqua-whyte",
@@ -4732,6 +4780,22 @@
       "category": "gospel-trade",
       "published": "2026-09-07T00:13:40Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3c974937fff03f2c",
+      "title": "Not MerleFest, FaithFest; 20,000 Christian music fans expected in Wilkesboro",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdUZZYlVQc000QU9QanJRZ3JuMmxFN2c2WkpYVUdNc29OUVFVNHA2alRyNWVqTE5XWjhSckE3N3BIOEx0T1hQUmVlOF9qZ05mZWpTQnFod0hNZmpkdzlVTDFyR1JiUnpMSHdaZVBXM1RCbm52QU5ISFZGRndmMDUyYW5vclBxZ0Q1QmYzckpObm8tN0hGTzJlQ2M0djVGUQ?oc=5",
+      "summary": "Not MerleFest, FaithFest; 20,000 Christian music fans expected in Wilkesboro Business North Carolina",
+      "outlet": "Business North Carolina",
+      "outlet_url": "https://businessnc.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-06T14:26:23Z",
+      "first_seen": "2026-09-17T09:06:59Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -4964,6 +5028,22 @@
       "category": "artist",
       "published": "2026-09-03T07:00:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5bd7fd939158253c",
+      "title": "Christian Music Festival in England Turns Tragic as Falling Sign Kills Pastor",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdDZLV29QaGV4SE9YSU1saUZyaldSb05yei1XS09QRG93YnJTNV8ySENLWWRjMElNSWFKc1hROER3UWFjVWEzM2p6b1ZwZThXVXBNMjZKQmFNSjBieExxRFlEX19raU5xbHJ6ZGY0ZjRCV1hod1duQVRNanpkcy1EZUs2ckp0b0xQY3pFYXhGUmtUUktKR0lhR3BQNzl1OTgwZDF3T2ZjRTJPVWp6UUx6Wm5PYk1MbFE1RW1Remo2MF9pNmt0cGhpV21RN29lalpXWUdicVBMWTl5WDFwNEE?oc=5",
+      "summary": "Christian Music Festival in England Turns Tragic as Falling Sign Kills Pastor Crosswalk.com",
+      "outlet": "Crosswalk.com",
+      "outlet_url": "https://www.crosswalk.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-03T07:00:00Z",
+      "first_seen": "2026-09-17T09:06:59Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
