@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-09-17T11:06:53Z",
-  "story_count": 323,
-  "with_photo": 184,
+  "generated_at": "2026-09-17T11:37:47Z",
+  "story_count": 328,
+  "with_photo": 187,
   "items": [
+    {
+      "id": "5594d482e32a24df",
+      "title": "NBC Helicopter Crash: Savannah Guthrie, Craig Melvin Mourn Eliana Moreno and George Marciniw on Today",
+      "link": "https://www.jubileecast.com/articles/39497/20260917/nbc-helicopter-crash-savannah-guthrie-craig-melvin-mourn-eliana-moreno-george-marciniw.htm",
+      "summary": "NBC Helicopter Crash: Savannah Guthrie, Craig Melvin Mourn Eliana Moreno and George Marciniw on Today",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T11:39:42Z",
+      "first_seen": "2026-09-17T11:37:47Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31838/savannah-and-craig.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cc12e5ba08be93ce",
+      "title": "Texas megachurch's AI camera system allegedly placed in sensitive areas",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYmROZHVkbm1DeFJYWDNWVUNBcVBKZWZUaVFTZjg3bU10R2phaHRuUWhnOWZBZzJaWWdnazF1UkY5aVJKdVppT1dmOC1ZbU1FYjJqRW9DU1BWM1k0cE9XVGM1TUtoSEg5d0JBZ3VZbnN5SkQwRlJtSHFLOEFURVRkV3lUQlpNY2J1WVZZbENPQV9lSzJKNUpldXhn?oc=5",
+      "summary": "Texas megachurch's AI camera system allegedly placed in sensitive areas chron.com",
+      "outlet": "chron.com",
+      "outlet_url": "https://www.chron.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T11:35:54Z",
+      "first_seen": "2026-09-17T11:37:47Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-17T23:37:47Z"
+    },
+    {
+      "id": "c1182de674e40e87",
+      "title": "Burundi: Formators meet for a seminar on Artificial Intelligence",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/burundi-formators-meet-for-a-seminar-on-artificial-intelligence.html",
+      "summary": "The Episcopal Commission for Priestly and Religious Vocations, Seminaries, and Novitiates recently held a course for lecturers and formators in seminaries and religious houses of formation on Artificial Intelligence. The seminar was organised with Pope Leo…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T11:19:00Z",
+      "first_seen": "2026-09-17T11:37:47Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/sdfg.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4bb53bb93e6f6bc4",
+      "title": "800 years after St. Francis’ death, new digital project preserves his basilica for years to come",
+      "link": "https://www.ewtnnews.com/world/europe/800-years-after-st-francis-death-new-digital-project-preserves-his-basilica-for-years-to-come",
+      "summary": "Preserving Assisi is dedicated to safeguarding the Basilica of St. Francis in Assisi, Italy, using 27,000 photographs, 3D surveys, and immersive tours.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T11:00:00Z",
+      "first_seen": "2026-09-17T11:37:47Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789590145/ewtn-news/en/preservingassisi_s43zgs.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "353a0b3a2dce09fc",
       "title": "Uruguayan Bishops visit Rome ahead of Pope Leo’s November visit",
@@ -92,6 +165,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789583747/ewtn-news/en/ribbon-cutting-mass-for-education-center-opening00014-768x504_nn7jcn.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c2ec596a770ece43",
+      "title": "Uprise Festival draws nearly 20,000 to Shippensburg for Christian Music Event - The Shippensburg News-Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYy1oc2NKdjktX2FlZjZNNTh5dkpGX21sdk1pTUkydzgtOWhvRkZqeElSQzhESUJLMzk4YWFPUWpVbnYweENtY2pOTGtpd1gyUVFsX1JVMXhFRk5JSEJiekpSQjU4T3ZkaVdENk5qc0ZfTGxUcWpna3BRdERIYnZxT19kdV9VVmNNQkE?oc=5",
+      "summary": "Uprise Festival draws nearly 20,000 to Shippensburg for Christian Music Event The Shippensburg News-Chronicle",
+      "outlet": "The Shippensburg News-Chronicle",
+      "outlet_url": "https://www.shipnc.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-17T10:00:00Z",
+      "first_seen": "2026-09-17T11:37:47Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
