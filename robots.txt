@@ -1,0 +1,7 @@
+# Gospel News Access
+User-agent: *
+Allow: /
+
+# Our own reporting, for Google News
+Sitemap: https://gospelnewsaccess-eng.github.io/gospel-news-access/sitemap.xml
+Sitemap: https://gospelnewsaccess-eng.github.io/gospel-news-access/sitemap-news.xml

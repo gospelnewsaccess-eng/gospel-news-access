@@ -975,7 +975,7 @@ def _cdc_programs(block: dict, who: str) -> str:
                 '<p>We will not list a service that %s cannot actually deliver '
                 'today. If you are in need right now, please contact us directly '
                 'rather than relying on this page &mdash; and if your need is urgent, '
-                'contact your local emergency services or a established local '
+                'contact your local emergency services or an established local '
                 'agency, who can help immediately.</p></div>' % g.esc(who))
     out = []
     for p in programs:

@@ -1,0 +1,43 @@
+{
+  "_README": [
+    "PUBLISHABLE church directory. Renders as churches.html.",
+    "",
+    "ONLY what the church itself publishes, or what it gave us through the",
+    "opt-in form. Never a personal cell, never a home address, never an email",
+    "address constructed from a naming pattern.",
+    "",
+    "The private relationship file is private/church-contacts.md and the two",
+    "NEVER merge.",
+    "",
+    "confidence must be one of:",
+    "  confirmed  - verified within 90 days. REQUIRES verified_date and",
+    "               verified_method.",
+    "  likely     - from a trusted public source, not re-checked in 90 days.",
+    "  unverified - renders with NO contact detail at all. Name and location",
+    "               only. This is enforced in the renderer, not by good",
+    "               intentions.",
+    "",
+    "Starts empty: we would rather show nothing than a list built by guesswork."
+  ],
+  "_template": {
+    "name": "",
+    "senior_pastor": "",
+    "city": "",
+    "state": "",
+    "country": "",
+    "denomination": "",
+    "website": "",
+    "service_times": "",
+    "social": [
+      {
+        "platform": "",
+        "url": ""
+      }
+    ],
+    "confidence": "unverified",
+    "verified_date": "",
+    "verified_method": "",
+    "source": "church's own public website | opt-in form"
+  },
+  "churches": []
+}
