@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-17T08:07:33Z",
-  "story_count": 304,
-  "with_photo": 174,
+  "generated_at": "2026-09-17T08:38:15Z",
+  "story_count": 305,
+  "with_photo": 175,
   "items": [
+    {
+      "id": "83dff91bafa0aea7",
+      "title": "NBC4 Reporter Eliana Moreno Dies In Fiery Helicopter Crash Less Than One Year After Getting Engaged",
+      "link": "https://www.jubileecast.com/articles/39493/20260917/nbc4-reporter-eliana-moreno-dies-in-fiery-helicopter-crash-less-than-one-year-after-getting-engaged.htm",
+      "summary": "NBC4 Reporter Eliana Moreno Dies In Fiery Helicopter Crash Less Than One Year After Getting Engaged",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T08:17:31Z",
+      "first_seen": "2026-09-17T08:38:15Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31835/eliana-moreno.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "7392c0f5427f0580",
       "title": "Hayden Panettiere’s Rep Disputes Claim That One Fentanyl-Laced Oxycodone Pill Caused Her Death",
