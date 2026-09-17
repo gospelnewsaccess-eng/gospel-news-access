@@ -495,7 +495,19 @@ _SECULAR = re.compile(
 )
 
 
-def relevance(story: dict, artist_names: set | None = None) -> int:
+def mixed_content_sources() -> set:
+    """
+    Feeds that publish real gospel reporting AND general showbusiness.
+
+    These are kept — their gospel reporting is genuine — but they do not get
+    the benefit of the doubt on the front page. See data/news-sources.json.
+    """
+    doc = read_json("data/news-sources.json", {}) or {}
+    return {s["name"] for s in doc.get("sources", []) if s.get("mixed_content")}
+
+
+def relevance(story: dict, artist_names: set | None = None,
+              mixed: set | None = None) -> int:
     """
     Score a story for the FRONT page only. Higher means more clearly a gospel,
     Christian or faith story.
@@ -516,12 +528,17 @@ def relevance(story: dict, artist_names: set | None = None) -> int:
             if name and name.lower() in low:
                 return 3
 
+    is_mixed = bool(mixed and story.get("source_feed") in mixed)
+
     if cat in ("gospel", "christian-music", "gospel-trade", "artist"):
         if _FAITH_STRONG.search(text):
             return 3
         if _SECULAR.search(text):
             return 0
-        return 1
+        # A mixed feed has to earn the front page on each story. Without this,
+        # "Miley Cyrus Says Let's Get Married" rode a music-category baseline
+        # onto the front of a gospel news wire.
+        return 0 if is_mixed else 1
 
     if _FAITH_STRONG.search(text):
         return 2
@@ -537,7 +554,7 @@ def relevance(story: dict, artist_names: set | None = None) -> int:
     #   - a Tier 2 outlet, which is a faith publication by definition.
     # Trusting the source here is what stops real church news being pushed off
     # the front page just because the headline used none of our words.
-    if story.get("tier") in (1, 2):
+    if story.get("tier") in (1, 2) and not is_mixed:
         return 1
     return 0
 

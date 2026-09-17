@@ -56,7 +56,11 @@ def main() -> int:
     print("\n[1] Does every page load?\n")
     for p in PAGES:
         code, body = get(BASE + p)
-        ok = code == 200 and len(body) > 400
+        # robots.txt is legitimately tiny — a few hundred bytes is a correct
+        # robots.txt, not a broken page. Judging it by the same size rule as an
+        # HTML page was a bug in this checker, not a fault on the site.
+        floor = 100 if p in ("robots.txt",) else 400
+        ok = code == 200 and len(body) > floor
         if not ok:
             failures.append("%s returned HTTP %s (%d bytes)" % (p or "front page", code, len(body)))
         print("    %-34s HTTP %-4s %8d bytes  %s"

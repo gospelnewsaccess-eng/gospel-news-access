@@ -687,7 +687,9 @@
         "https://www.jubileecast.com/feed/",
         "https://www.jubileecast.com/rss/all.xml"
       ],
-      "quiet": false
+      "quiet": false,
+      "mixed_content": true,
+      "mixed_content_note": "Measured against a live 305-story sample: only 6 of 22 JubileeCast stories carried any faith signal. It files real gospel reporting (Dove Awards, Kirk Franklin, SENSERE) alongside general showbusiness (Miley Cyrus, Spider-Man, Perez Hilton). It is kept as a source because the gospel reporting is real, but it does NOT get the benefit of the doubt on the front page: a JubileeCast story must show a faith or gospel signal of its own to lead. Everything it files still appears in full on news.html."
     },
     {
       "name": "Black Christian News Network",
@@ -711,5 +713,11 @@
     "verified": 47,
     "failed": 3,
     "skipped": 0
-  }
+  },
+  "_MIXED_CONTENT_README": [
+    "Some verified feeds publish real gospel reporting AND general entertainment.",
+    "A source flagged mixed_content does not get a baseline relevance score on the",
+    "FRONT page — each of its stories must show a faith signal on its own merits.",
+    "This never removes anything from the wire; see scripts/gnalib.py relevance()."
+  ]
 }

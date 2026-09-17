@@ -260,7 +260,8 @@ def render_index() -> None:
     # ranks it. NOTHING IS DELETED: every story, including the ones scored
     # zero, still appears on news.html in plain date order.
     artists = g.gospel_artist_names()
-    scored = [(g.relevance(s, artists), s) for s in all_items]
+    mixed = g.mixed_content_sources()
+    scored = [(g.relevance(s, artists, mixed), s) for s in all_items]
     items = [s for score, s in scored if score >= 1]
 
     # THE 72-HOUR HERO RULE. The lead slot must never hold an old story, even
