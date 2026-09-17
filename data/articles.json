@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T17:36:50Z",
-  "story_count": 380,
+  "generated_at": "2026-09-17T18:08:53Z",
+  "story_count": 381,
   "with_photo": 235,
   "items": [
     {
@@ -6172,6 +6172,22 @@
       "category": "church",
       "published": "2026-09-04T07:00:00Z",
       "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3b8fa4b4d220fd3c",
+      "title": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEg5MXlMQjlFVmNESWRLWk9SQjd0azAxNzk2UzJLaTN3MjExelhwX3ZPRVBJaW84T2oyS2pZTElnREFZcUlYYUFpM2pBRG1kTzBLU3FFVW9PWGJhYTdlMmhLdzd4bmd3UDMyQmhXaEExQTZvbS0zbFB3MkRramczZDhoNDdiaEh3cmpicmF4UjY3QVRBbUF6a1RR?oc=5",
+      "summary": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else wordinblack.com",
+      "outlet": "wordinblack.com",
+      "outlet_url": "https://wordinblack.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-03T19:41:50Z",
+      "first_seen": "2026-09-17T18:08:53Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
