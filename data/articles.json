@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-17T20:37:27Z",
-  "story_count": 407,
+  "generated_at": "2026-09-17T21:07:02Z",
+  "story_count": 410,
   "with_photo": 253,
   "items": [
+    {
+      "id": "1532fc2798e6ae47",
+      "title": "Chandler Moore and Elevation Worship Just Cracked the Billboard Hot 100 — a First for Both",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbUNHcG83eE01XzBLNHF0SEVMdVFRUFNWTVM1Y3NrOC1wN3p1Y2h1RWVHNmxETTJXTWM2eWVmdVpyR09NWGNjcGlyVFFOdGx2Y01BakZxS2F1NG56bkFjZU5oUmJiSVFBRmotWGc0clJaZm1sdWtzbS05TGFsRHhlRGJJcDViUkxTSHdWWkYtbU1YeHBWRDRCX2Q5UFhUdkY3YmlEam9Ea0ttS2t4bGU4bXN5TlpqVi1wZC1uWVhRcXUzaHhuczBsd3hNczU?oc=5",
+      "summary": "Chandler Moore and Elevation Worship Just Cracked the Billboard Hot 100 — a First for Both relevantmagazine.com",
+      "outlet": "relevantmagazine.com",
+      "outlet_url": "https://relevantmagazine.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-17T20:49:17Z",
+      "first_seen": "2026-09-17T21:07:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T09:07:02Z"
+    },
     {
       "id": "8ba37e0c14d07819",
       "title": "Chandler Moore Scores First-Ever Billboard Hot 100 Hit With “God I’m Just Grateful”",
@@ -3341,6 +3357,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31825/crystal-lewis.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6b20dbbf4b4c1a89",
+      "title": "Meet Josh Weathers: The Texas Country Artist To Watch, Heading To The UK",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScVU4Y2hxZEdNS2RYS0FlNDVIdmQtRWZfVEJGSGhPT0dRajRyeVBZY1FWblNJOGM1NS0tQzVDbC1TbmJOc2twYjZoaGZZcVJNUk9RUDV6TFo2VXZ0Q2J1MXowbU9LbllPNllaYlBoaVdOTVduLVVQV1JDemFJQVk?oc=5",
+      "summary": "Meet Josh Weathers: The Texas Country Artist To Watch, Heading To The UK MNPR Magazine",
+      "outlet": "MNPR Magazine",
+      "outlet_url": "https://www.mnprmagazine.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-16T10:34:00Z",
+      "first_seen": "2026-09-17T21:07:02Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -7015,6 +7047,22 @@
       "category": "church",
       "published": "2026-08-31T16:31:46Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cefe3574ee97cb05",
+      "title": "Kirk Franklin Gets Real: You Can Be Saved & Still Be YOU",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWURIbVptSmd3a2o2THc0djY5TDJYZ0E2SGlJQm9sMWZ6YVlxRFhTcERoSzdNc0FoMUhSRGhKcGZtQXZLMVVhd1F0MERPN2dEQjN3eHBzZXMyRHcwcFpOYUk2TUowUmpJYkpYcFJUOUl6anItMXZUZ29xUHBMZUd4Zy1DYlNNYnFwUndhUkpR?oc=5",
+      "summary": "Kirk Franklin Gets Real: You Can Be Saved & Still Be YOU thebeatdfw.com",
+      "outlet": "thebeatdfw.com",
+      "outlet_url": "https://thebeatdfw.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-08-31T15:50:08Z",
+      "first_seen": "2026-09-17T21:07:02Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
