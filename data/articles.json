@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-17T13:38:43Z",
-  "story_count": 339,
-  "with_photo": 209,
+  "generated_at": "2026-09-17T14:08:05Z",
+  "story_count": 341,
+  "with_photo": 210,
   "items": [
+    {
+      "id": "c94f458a59f66445",
+      "title": "8 Christian Songs for Hope after Job Loss or Career Uncertainty",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUZNdEhRcDZyLUZJTHZKQzg4RGhEa0NGcmhrWjJOT19nUkdLVm1ES2JGbzhhQTN5dlZoYnNoUHUxempXTzh4RlkwRWlSVi1HWmYwX0hoV2Zyd2pZMkltZnJpYjF2azBDSG1XdVE3Tk54QmhGUjQ5WlN0Q3VoNkRsR2pHekRabGFGWUtJMnBmUjB0bTUwZWEwak12UjdfQQ?oc=5",
+      "summary": "8 Christian Songs for Hope after Job Loss or Career Uncertainty GodTube.com",
+      "outlet": "GodTube.com",
+      "outlet_url": "https://www.godtube.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-17T13:43:39Z",
+      "first_seen": "2026-09-17T14:08:05Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T02:08:05Z"
+    },
     {
       "id": "a0379154fa0b7cec",
       "title": "Pope Leo XIV appoints Texas bishop to lead Diocese of Joliet, Illinois",
@@ -72,6 +88,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T01:38:43Z"
+    },
+    {
+      "id": "b0cc3912d9e2cde9",
+      "title": "By Inviting Canada To Join, The EU Has Revealed Their Plan To Transform The European Union Into A ‘Global Union’",
+      "link": "https://mycharisma.com/news/by-inviting-canada-to-join-the-eu-has-revealed-their-plan-to-transform-the-european-union-into-a-global-union/",
+      "summary": "The European Union has a population that is larger than the United States, it has the second largest economy in the entire world, and now it wants Canada. Of course any form of membership in the EU will involve giving up at least some sovereignty to the…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T12:45:14Z",
+      "first_seen": "2026-09-17T14:08:05Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "bf0e39cbdfd8486c",
