@@ -456,3 +456,97 @@ def clean_google_title(title: str) -> tuple[str, str | None]:
 def esc(text) -> str:
     """Escape text for safe insertion into HTML."""
     return _html.escape(str(text if text is not None else ""), quote=True)
+
+
+# --------------------------------------------------------------------------
+# EDITORIAL RELEVANCE
+#
+# Why this exists: the wire is sorted newest-first, which means whichever
+# publisher posts most often takes the lead slot. One of our verified trade
+# feeds also carries general showbusiness, so the front page led with
+# "Merriam-Webster Just Made Rickrolling Official" on a gospel news wire.
+#
+# The fix is RANKING, not deletion. Nothing is thrown away and nothing is
+# hidden — the full wire on news.html stays in pure date order, exactly as it
+# arrived. This score only decides what leads the FRONT page, the way a
+# front-page editor decides what goes above the fold.
+# --------------------------------------------------------------------------
+
+# Words that mean a story is squarely about faith, the church, or gospel music.
+_FAITH_STRONG = re.compile(
+    r"(?i)\b("
+    r"church|churches|pastor\w*|gospel|christian\w*|christ|jesus|worship|"
+    r"faith|bible|biblical|scripture|ministr\w*|congregat\w*|revival|"
+    r"preach\w*|sermon|clergy|bishop|archbishop|cardinal|pope|vatican|"
+    r"baptist|methodist|pentecostal|catholic|evangel\w*|missionar\w*|"
+    r"theolog\w*|seminary|denominat\w*|parish|diocese|megachurch|"
+    r"praise|hymn|choir|psalm|prayer|praying|discipleship|salvation|"
+    r"dove awards|stellar awards|ccm|worshipper|anointed|testimony"
+    r")\b"
+)
+
+# Signals that a story is general showbusiness rather than faith news.
+_SECULAR = re.compile(
+    r"(?i)\b("
+    r"box office|spider-man|star wars|marvel|netflix series|"
+    r"rickroll\w*|meatloaf|ponzi|residential treatment|"
+    r"semifinals|reality show|dating rumou?rs|red carpet"
+    r")\b"
+)
+
+
+def relevance(story: dict, artist_names: set | None = None) -> int:
+    """
+    Score a story for the FRONT page only. Higher means more clearly a gospel,
+    Christian or faith story.
+
+      3  a gospel/Christian music story, or a named gospel artist
+      2  clearly a faith or church story
+      1  from a dedicated faith publication, topic not obvious from the words
+      0  no faith signal we can see
+
+    This never deletes anything. See the note above.
+    """
+    text = "%s %s" % (story.get("title") or "", story.get("summary") or "")
+    cat = story.get("category") or ""
+
+    if artist_names:
+        low = text.lower()
+        for name in artist_names:
+            if name and name.lower() in low:
+                return 3
+
+    if cat in ("gospel", "christian-music", "gospel-trade", "artist"):
+        if _FAITH_STRONG.search(text):
+            return 3
+        if _SECULAR.search(text):
+            return 0
+        return 1
+
+    if _FAITH_STRONG.search(text):
+        return 2
+    if _SECULAR.search(text):
+        return 0
+
+    # A story can be squarely about the church and contain none of the words
+    # above — "Robert Morris pleads guilty", "Mother Emanuel Memorial". What
+    # makes those on-topic is WHERE THEY CAME FROM:
+    #   - a Tier 1 Google News query, every one of which is faith-targeted
+    #     ("Black church", "megachurch", "gospel music", a gospel artist), so
+    #     the query itself guarantees the subject; or
+    #   - a Tier 2 outlet, which is a faith publication by definition.
+    # Trusting the source here is what stops real church news being pushed off
+    # the front page just because the headline used none of our words.
+    if story.get("tier") in (1, 2):
+        return 1
+    return 0
+
+
+def gospel_artist_names() -> set:
+    """The real, public artist names already listed in data/news-sources.json."""
+    doc = read_json("data/news-sources.json", {}) or {}
+    names = set()
+    for s in doc.get("sources", []):
+        if s.get("category") == "artist" and s.get("name", "").startswith("Google News: "):
+            names.add(s["name"].replace("Google News: ", "").strip())
+    return names

@@ -247,22 +247,41 @@ def video_row(depth: int = 0, limit: int = 3) -> str:
 # ---------------------------------------------------------------------------
 def render_index() -> None:
     now = g.now_utc()
-    items = stories()
-    breaking = live_breaking(items, now)
+    all_items = stories()
+    breaking = live_breaking(all_items, now)
+
+    # WHAT BELONGS ON THE FRONT PAGE.
+    # The wire arrives newest-first, which hands the lead slot to whichever
+    # publisher posts most often — and one verified trade feed also carries
+    # general showbusiness. Without this, the front page of a gospel news wire
+    # led with "Merriam-Webster Just Made Rickrolling Official".
+    #
+    # So the front page is ranked for relevance the way a front-page editor
+    # ranks it. NOTHING IS DELETED: every story, including the ones scored
+    # zero, still appears on news.html in plain date order.
+    artists = g.gospel_artist_names()
+    scored = [(g.relevance(s, artists), s) for s in all_items]
+    items = [s for score, s in scored if score >= 1]
 
     # THE 72-HOUR HERO RULE. The lead slot must never hold an old story, even
-    # if the wire has gone quiet. We prefer a fresh story that has a photo;
-    # if none of the fresh stories has one we still lead with a fresh story
-    # and render it text-forward rather than leading with something stale.
+    # if the wire has gone quiet. The lead must also be clearly a faith or
+    # gospel story (score 2 or better), never merely tolerable.
     fresh_cut = now - timedelta(hours=HERO_MAX_AGE_HOURS)
-    fresh = [s for s in items if (g.parse_dt(s["published"]) or now) >= fresh_cut]
+    fresh = [(sc, s) for sc, s in scored
+             if (g.parse_dt(s["published"]) or now) >= fresh_cut]
     lead = None
-    for s in fresh:
-        if s.get("image"):
-            lead = s
+    for want_photo in (True, False):
+        for sc, s in fresh:
+            if sc >= 2 and (s.get("image") or not want_photo):
+                lead = s
+                break
+        if lead:
             break
-    if lead is None and fresh:
-        lead = fresh[0]
+    if lead is None:                       # nothing strong enough; take the best fresh one
+        for sc, s in fresh:
+            if sc >= 1:
+                lead = s
+                break
 
     rest = [s for s in items if not lead or s["id"] != lead["id"]]
 
