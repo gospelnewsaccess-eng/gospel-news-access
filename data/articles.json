@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-17T21:07:02Z",
-  "story_count": 410,
-  "with_photo": 253,
+  "generated_at": "2026-09-17T21:35:50Z",
+  "story_count": 416,
+  "with_photo": 260,
   "items": [
+    {
+      "id": "ba42ad0438fd4c2e",
+      "title": "Nicole C. Mullen Says Something From “Redeemer” Is Finally Coming Home After 25 Years",
+      "link": "https://www.jubileecast.com/articles/39507/20260917/nicole-c-mullen-says-something-from-redeemer-is-finally-coming-home-after-25-years.htm",
+      "summary": "Nicole C. Mullen Says Something From “Redeemer” Is Finally Coming Home After 25 Years",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T21:01:35Z",
+      "first_seen": "2026-09-17T21:35:50Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27911/nicole-c-mullen.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "41398e3cede743ba",
+      "title": "Chicago Radio Legend Judy Markey Dies at 82 After Choosing Assisted Death in Switzerland",
+      "link": "https://www.jubileecast.com/articles/39506/20260917/chicago-radio-legend-judy-markey-dies-at-82-after-choosing-assisted-death-in-switzerland.htm",
+      "summary": "Chicago Radio Legend Judy Markey Dies at 82 After Choosing Assisted Death in Switzerland",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T20:53:22Z",
+      "first_seen": "2026-09-17T21:35:50Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31842/judy-markey.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "66e956a5f5b0b84a",
+      "title": "Cissie Graham Lynch, granddaughter of Billy Graham, tapped for religious freedom ambassador",
+      "link": "https://religionnews.com/2026/09/17/cissie-graham-lynch-granddaughter-of-billy-graham-tapped-for-religious-freedom-ambassador/",
+      "summary": "(RNS) — If approved by the Senate, Lynch would hold an office that has been unoccupied since the beginning of the second Trump administration.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T20:50:11Z",
+      "first_seen": "2026-09-17T21:35:50Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2018/12/webRNS-Brunson-Trump1-121018.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1532fc2798e6ae47",
       "title": "Chandler Moore and Elevation Worship Just Cracked the Billboard Hot 100 — a First for Both",
@@ -15,9 +72,50 @@
       "category": "christian-music",
       "published": "2026-09-17T20:49:17Z",
       "first_seen": "2026-09-17T21:07:02Z",
-      "image": null,
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/elevation.jpg",
+        "via": "og:image"
+      },
       "breaking": true,
       "breaking_expires_at": "2026-09-18T09:07:02Z"
+    },
+    {
+      "id": "067f7102efded80f",
+      "title": "First Winner of \"The Voice\" Ben Saunders Found Dead in Lake at 43",
+      "link": "https://www.jubileecast.com/articles/39505/20260917/the-voice-of-holland-winner-ben-saunders-found-dead-in-lake-at-43.htm",
+      "summary": "“The Voice of Holland” Winner Ben Saunders Found Dead in Lake at 43",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-17T20:49:05Z",
+      "first_seen": "2026-09-17T21:35:50Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31841/ben-saunders.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ae725242510a06aa",
+      "title": "Texas Democrat organizer claims PAC pays voters $25 as 'roundabout way of paying people for their votes'",
+      "link": "https://www.christianpost.com/news/texas-democratic-organizer-claims-pac-pays-voters-25.html",
+      "summary": "A Texas Democrat political action committee has fired an organizer caught on undercover video describing $25 payments to people willing to attend a one-hour anti-Republican Zoom class as \"a roundabout way of paying people for their votes.\"",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T20:48:01Z",
+      "first_seen": "2026-09-17T21:35:50Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271958_w_550_311.jpg?v=20260917170019",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "8ba37e0c14d07819",
@@ -52,6 +150,25 @@
       "first_seen": "2026-09-17T20:37:27Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31065/nolan-wells.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "462d88641c544dd5",
+      "title": "Oregon officials back off ‘gender ideology mandate’ for mom seeking to adopt",
+      "link": "https://www.ewtnnews.com/world/us/oregon-settles-jessica-bates-lawsuit",
+      "summary": "The legal settlement ensures that Jessica Bates’ religious views will not be a factor in determining whether she can adopt children.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-17T20:40:00Z",
+      "first_seen": "2026-09-17T21:35:50Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778252173/ewtn-news/en/gavel_mjmf2t.jpg",
         "via": "media:content"
       },
       "breaking": false,
