@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T11:37:47Z",
-  "story_count": 328,
-  "with_photo": 187,
+  "generated_at": "2026-09-17T12:08:42Z",
+  "story_count": 329,
+  "with_photo": 194,
   "items": [
     {
       "id": "5594d482e32a24df",
@@ -3399,7 +3399,10 @@
       "category": "gospel-trade",
       "published": "2026-09-15T05:54:31Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/07/coveralgodrithm.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -3622,7 +3625,10 @@
       "category": "gospel-trade",
       "published": "2026-09-14T17:26:16Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/pastorattack.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4073,7 +4079,10 @@
       "category": "gospel-trade",
       "published": "2026-09-14T01:51:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/ameremay.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -4210,6 +4219,22 @@
       "category": "gospel",
       "published": "2026-09-12T02:15:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5ad5b003ae5fea8f",
+      "title": "Event in Little Rock to honor gospel music trailblazers - The Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2U3NUNnVG1IYVJYZVp3TFRpbzNhTnZtRDB4TUJIN0ZjR1ZxblBLcjFHQWR6Sm5ZcGt1ZzFFRU9RUEZ1YlV0cVhNcnNjTktNczhTaGtFektHUTFramxQaFR3TnBQbDVUcW5xNzhxLXJyYkVBWWE3MFVUMFNDNkNDZnZpUzZyNThOVC1XdENaTUlkcFl6OTlscG5nWU9iQWM?oc=5",
+      "summary": "Event in Little Rock to honor gospel music trailblazers The Arkansas Democrat-Gazette",
+      "outlet": "The Arkansas Democrat-Gazette",
+      "outlet_url": "https://www.arkansasonline.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-12T02:15:00Z",
+      "first_seen": "2026-09-17T12:08:42Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -4944,7 +4969,10 @@
       "category": "gospel-trade",
       "published": "2026-09-08T02:40:09Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/torchlogo.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5008,7 +5036,10 @@
       "category": "gospel-trade",
       "published": "2026-09-07T08:04:43Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/McClurkin-Bryant.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5040,7 +5071,10 @@
       "category": "gospel-trade",
       "published": "2026-09-07T01:40:03Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/cover-daniqua-grace-bk1.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5056,7 +5090,10 @@
       "category": "gospel-trade",
       "published": "2026-09-07T00:13:40Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/image-4.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
