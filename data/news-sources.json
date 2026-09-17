@@ -1,0 +1,652 @@
+{
+  "_README": [
+    "The list of every feed the Gospel News Access wire reads.",
+    "",
+    "HOW TO READ AN ENTRY:",
+    "  tier 1 = breaking, polled every 30 minutes (Google News topic queries)",
+    "  tier 2 = established faith outlets, polled hourly",
+    "  tier 3 = gospel and Christian music trade press, polled hourly",
+    "",
+    "THE VERIFICATION RULE — this is a safety mechanism, not paperwork:",
+    "  A source is used ONLY when \"status\" reads \"verified\".",
+    "  scripts/wire.py SKIPS every source that is not verified, so an",
+    "  unchecked or dead URL can never put a story on the live site.",
+    "",
+    "  scripts/verify_feeds.py is what flips the switch. It fetches the URL,",
+    "  confirms the response is valid XML, confirms it contains items dated",
+    "  within the last 30 days, then records the date it checked in",
+    "  \"verified\". If the main url fails it tries each entry in",
+    "  \"url_candidates\" and promotes whichever one actually works.",
+    "",
+    "  Verification runs on GitHub Actions (.github/workflows/verify-feeds.yml)",
+    "  because that runner has open internet access.",
+    "",
+    "A feed that returns zero items twice in a row is logged to",
+    "data/feed-health.json so a quietly dead source cannot hide."
+  ],
+  "generated": "2026-09-17",
+  "poll_minutes": {
+    "1": 30,
+    "2": 60,
+    "3": 60
+  },
+  "sources": [
+    {
+      "name": "Google News: gospel music",
+      "url": "https://news.google.com/rss/search?q=gospel+music&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "gospel",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Black church",
+      "url": "https://news.google.com/rss/search?q=Black+church&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "church",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: megachurch",
+      "url": "https://news.google.com/rss/search?q=megachurch&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "church",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Christian music",
+      "url": "https://news.google.com/rss/search?q=Christian+music&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "christian-music",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: gospel artist",
+      "url": "https://news.google.com/rss/search?q=gospel+artist&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "gospel",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Kirk Franklin",
+      "url": "https://news.google.com/rss/search?q=Kirk+Franklin+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: CeCe Winans",
+      "url": "https://news.google.com/rss/search?q=CeCe+Winans+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Tasha Cobbs Leonard",
+      "url": "https://news.google.com/rss/search?q=Tasha+Cobbs+Leonard+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Marvin Sapp",
+      "url": "https://news.google.com/rss/search?q=Marvin+Sapp+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Yolanda Adams",
+      "url": "https://news.google.com/rss/search?q=Yolanda+Adams+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Fred Hammond",
+      "url": "https://news.google.com/rss/search?q=Fred+Hammond+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Tamela Mann",
+      "url": "https://news.google.com/rss/search?q=Tamela+Mann+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Travis Greene",
+      "url": "https://news.google.com/rss/search?q=Travis+Greene+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Jekalyn Carr",
+      "url": "https://news.google.com/rss/search?q=Jekalyn+Carr+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Maverick City Music",
+      "url": "https://news.google.com/rss/search?q=Maverick+City+Music+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Donald Lawrence",
+      "url": "https://news.google.com/rss/search?q=Donald+Lawrence+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Erica Campbell",
+      "url": "https://news.google.com/rss/search?q=Erica+Campbell+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Koryn Hawthorne",
+      "url": "https://news.google.com/rss/search?q=Koryn+Hawthorne+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Ricky Dillard",
+      "url": "https://news.google.com/rss/search?q=Ricky+Dillard+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: JJ Hairston",
+      "url": "https://news.google.com/rss/search?q=JJ+Hairston+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Todd Dulaney",
+      "url": "https://news.google.com/rss/search?q=Todd+Dulaney+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Jonathan McReynolds",
+      "url": "https://news.google.com/rss/search?q=Jonathan+McReynolds+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Le'Andria Johnson",
+      "url": "https://news.google.com/rss/search?q=Le%27Andria+Johnson+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Melvin Crispell III",
+      "url": "https://news.google.com/rss/search?q=Melvin+Crispell+III+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: The Clark Sisters",
+      "url": "https://news.google.com/rss/search?q=The+Clark+Sisters+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Karen Clark Sheard",
+      "url": "https://news.google.com/rss/search?q=Karen+Clark+Sheard+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Hezekiah Walker",
+      "url": "https://news.google.com/rss/search?q=Hezekiah+Walker+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Tye Tribbett",
+      "url": "https://news.google.com/rss/search?q=Tye+Tribbett+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Kierra Sheard",
+      "url": "https://news.google.com/rss/search?q=Kierra+Sheard+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Zacardi Cortez",
+      "url": "https://news.google.com/rss/search?q=Zacardi+Cortez+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Naomi Raine",
+      "url": "https://news.google.com/rss/search?q=Naomi+Raine+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Elevation Worship",
+      "url": "https://news.google.com/rss/search?q=Elevation+Worship+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Brandon Lake",
+      "url": "https://news.google.com/rss/search?q=Brandon+Lake+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Phil Wickham",
+      "url": "https://news.google.com/rss/search?q=Phil+Wickham+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Google News: Lauren Daigle",
+      "url": "https://news.google.com/rss/search?q=Lauren+Daigle+gospel&hl=en-US&gl=US&ceid=US:en",
+      "tier": 1,
+      "category": "artist",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null
+    },
+    {
+      "name": "Religion News Service",
+      "url": "https://religionnews.com/feed/",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://religionnews.com/feed/",
+        "https://religionnews.com/rss"
+      ]
+    },
+    {
+      "name": "Christianity Today",
+      "url": "https://www.christianitytoday.com/rss/",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.christianitytoday.com/rss/",
+        "https://www.christianitytoday.com/feed/",
+        "https://www.christianitytoday.com/ct/rss/"
+      ]
+    },
+    {
+      "name": "The Christian Post",
+      "url": "https://www.christianpost.com/rss/",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.christianpost.com/rss/",
+        "https://www.christianpost.com/rss/news.xml",
+        "https://www.christianpost.com/feed/"
+      ]
+    },
+    {
+      "name": "Relevant",
+      "url": "https://relevantmagazine.com/feed/",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://relevantmagazine.com/feed/",
+        "https://relevantmagazine.com/rss"
+      ]
+    },
+    {
+      "name": "Charisma News",
+      "url": "https://charismanews.com/feed/",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://charismanews.com/feed/",
+        "https://www.charismanews.com/feed/",
+        "https://mycharisma.com/feed/"
+      ]
+    },
+    {
+      "name": "Premier Christian News",
+      "url": "https://premierchristian.news/rss",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://premierchristian.news/rss",
+        "https://premierchristian.news/en/rss",
+        "https://www.premierchristian.news/rss"
+      ]
+    },
+    {
+      "name": "Baptist Press",
+      "url": "https://www.baptistpress.com/feed/",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.baptistpress.com/feed/",
+        "https://www.baptistpress.com/rss/"
+      ]
+    },
+    {
+      "name": "Catholic News Agency",
+      "url": "https://www.catholicnewsagency.com/rss/news.xml",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.catholicnewsagency.com/rss/news.xml",
+        "https://www.catholicnewsagency.com/feed"
+      ]
+    },
+    {
+      "name": "Vatican News",
+      "url": "https://www.vaticannews.va/en.rss.xml",
+      "tier": 2,
+      "category": "faith",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.vaticannews.va/en.rss.xml",
+        "https://www.vaticannews.va/en/rss.xml"
+      ]
+    },
+    {
+      "name": "Path MEGAzine",
+      "url": "https://pathmegazine.com/feed/",
+      "tier": 3,
+      "category": "gospel-trade",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://pathmegazine.com/feed/",
+        "https://www.pathmegazine.com/feed/"
+      ]
+    },
+    {
+      "name": "Rapzilla",
+      "url": "https://rapzilla.com/feed",
+      "tier": 3,
+      "category": "gospel-trade",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://rapzilla.com/feed",
+        "https://rapzilla.com/feed/",
+        "https://www.rapzilla.com/rapzilla?format=feed&type=rss"
+      ]
+    },
+    {
+      "name": "NewReleaseToday",
+      "url": "https://www.newreleasetoday.com/rss/nrtnews.xml",
+      "tier": 3,
+      "category": "gospel-trade",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.newreleasetoday.com/rss/nrtnews.xml",
+        "https://www.newreleasetoday.com/rss.php",
+        "https://www.newreleasetoday.com/feed/"
+      ]
+    },
+    {
+      "name": "CCM Magazine",
+      "url": "https://www.ccmmagazine.com/feed/",
+      "tier": 3,
+      "category": "gospel-trade",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.ccmmagazine.com/feed/",
+        "https://ccmmagazine.com/feed/"
+      ]
+    },
+    {
+      "name": "JubileeCast",
+      "url": "https://www.jubileecast.com/rss/",
+      "tier": 3,
+      "category": "gospel-trade",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://www.jubileecast.com/rss/",
+        "https://www.jubileecast.com/feed/",
+        "https://www.jubileecast.com/rss/all.xml"
+      ]
+    },
+    {
+      "name": "Black Christian News Network",
+      "url": "https://blackchristiannews.com/feed/",
+      "tier": 3,
+      "category": "gospel-trade",
+      "status": "unverified",
+      "verified": null,
+      "verified_item_count": null,
+      "verified_newest_item": null,
+      "last_error": null,
+      "url_candidates": [
+        "https://blackchristiannews.com/feed/",
+        "https://www.blackchristiannews.com/feed/"
+      ]
+    }
+  ]
+}

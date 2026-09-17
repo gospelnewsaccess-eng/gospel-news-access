@@ -1,0 +1,62 @@
+# =============================================================================
+# FEED VERIFICATION — proves every source is real before the wire may use it.
+#
+# Plain English: a feed that quietly died months ago is a news wire's worst
+# failure, because nothing crashes — the page just gets thinner and nobody
+# notices. This checks every feed and records the date it checked.
+#
+# scripts/wire.py IGNORES any source not marked verified, so a dead or
+# unchecked URL cannot put a story on the live site.
+#
+# Runs weekly, and on demand. RUN THIS FIRST, before the very first wire run.
+# =============================================================================
+name: Verify feeds
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"      # Mondays, 06:17 UTC
+  workflow_dispatch:
+    inputs:
+      only_unverified:
+        description: "Only check sources not already verified"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verify-feeds
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Check every feed
+        run: |
+          if [ "${{ inputs.only_unverified }}" = "true" ]; then
+            python3 scripts/verify_feeds.py --only-unverified
+          else
+            python3 scripts/verify_feeds.py
+          fi
+
+      - name: Record the results
+        if: always()
+        run: |
+          git config user.name  "GNA Wire Bot"
+          git config user.email "wire-bot@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "feeds: verification run $(date -u '+%Y-%m-%d %H:%M UTC')"
+          for i in 1 2 3 4; do
+            if git push origin main; then exit 0; fi
+            git pull --rebase origin main || true
+            sleep $((i * 5))
+          done
+          exit 1

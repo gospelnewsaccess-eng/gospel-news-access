@@ -1,0 +1,68 @@
+# =============================================================================
+# THE NEWS WIRE — runs every 30 minutes, forever, with nobody logged in.
+#
+# Plain English: GitHub runs this on its own computers on a timer. It fetches
+# the news, pulls a photo for each story, rebuilds the pages, and commits the
+# result straight to main. GitHub Pages serves main, so the live site updates.
+#
+# If this workflow is disabled or deleted, the site stops updating. That is the
+# single point of failure for the whole wire.
+# =============================================================================
+name: News wire
+
+on:
+  schedule:
+    # Every 30 minutes. Times are UTC. GitHub's scheduler can run a few
+    # minutes late when it is busy — the script allows for that.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:          # lets a human run it on demand from the Actions tab
+
+permissions:
+  contents: write             # needed to commit the rebuilt pages to main
+
+concurrency:
+  # Never let two wire runs write to main at the same time.
+  group: wire
+  cancel-in-progress: false
+
+jobs:
+  wire:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      # No pip install step: every script uses only Python's built-in library,
+      # so there is no dependency that can break six months from now.
+
+      - name: Fetch the news and rebuild the pages
+        run: python3 scripts/wire.py
+
+      - name: Commit to main
+        run: |
+          git config user.name  "GNA Wire Bot"
+          git config user.email "wire-bot@users.noreply.github.com"
+          git add -A
+
+          # Commit even when nothing changed, so the commit log proves the wire
+          # is alive. A silent gap in this log means the wire stopped, and that
+          # is exactly what we want to be able to see at a glance.
+          if git diff --staged --quiet; then
+            git commit --allow-empty -m "wire: no new stories $(date -u '+%Y-%m-%d %H:%M UTC')"
+          else
+            git commit -m "wire: update $(date -u '+%Y-%m-%d %H:%M UTC')"
+          fi
+
+          # Another run may have landed while this one was working. Rebase and
+          # retry rather than failing the run.
+          for i in 1 2 3 4; do
+            if git push origin main; then exit 0; fi
+            echo "push failed, rebasing and retrying ($i)"
+            git pull --rebase origin main || true
+            sleep $((i * 5))
+          done
+          echo "could not push after 4 attempts" >&2
+          exit 1
