@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-18T21:36:14Z",
-  "story_count": 525,
-  "with_photo": 332,
+  "generated_at": "2026-09-18T22:06:46Z",
+  "story_count": 528,
+  "with_photo": 335,
   "items": [
+    {
+      "id": "467ca9eac1e81c74",
+      "title": "For American Jews divided over Israel, Yom Kippur is a test of families and community",
+      "link": "https://religionnews.com/2026/09/18/for-american-jews-divided-over-israel-yom-kippur-is-a-test-of-families-and-community/",
+      "summary": "(RNS and NPR) — According to an AP-NORC poll, four in 10 American Jewish adults say they've disagreed with a family member over Israel, and three in 10 said they stopped talking to someone over it.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T21:42:29Z",
+      "first_seen": "2026-09-18T22:06:46Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2025/12/webRNS-Hanukkah-Meal1.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a71394bc23157d4f",
+      "title": "“Daniel And The Fiery Furnace” Tests Hollywood’s Growing Appetite For Biblical Movies",
+      "link": "https://www.jubileecast.com/articles/39536/20260918/daniel-and-the-fiery-furnace-tests-hollywood-s-growing-appetite-for-biblical-movies.htm",
+      "summary": "“Daniel And The Fiery Furnace” Tests Hollywood’s Growing Appetite For Biblical Movies",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T21:41:03Z",
+      "first_seen": "2026-09-18T22:06:46Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31690/daniel.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9fad68521d806825",
+      "title": "From proselytism to politics: Bishop Barron addresses hot-button issues on EWTN",
+      "link": "https://www.ewtnnews.com/world/us/from-proselytism-to-politics-bishop-barron-addresses-hot-button-issues-on-ewtn",
+      "summary": "The Word on Fire founder clarifies the call to evangelize, defends his nonpartisan advisory role on religious liberty, and warns of resurgent communism.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T21:17:53Z",
+      "first_seen": "2026-09-18T22:06:46Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789763728/ewtn-news/en/20260918110948_4a80a25b2cf6df02bbc14a054d4a3307a145c52e6db224576576d2541bf805dc_izw6ls.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "cacbfb5bedead5ed",
       "title": "‘It’s truly emotional’: St. Paul Missionary Baptist Church to unveil historical marker and monument",
