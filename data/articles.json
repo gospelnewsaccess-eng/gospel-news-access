@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-18T15:06:42Z",
-  "story_count": 482,
-  "with_photo": 301,
+  "generated_at": "2026-09-18T15:37:48Z",
+  "story_count": 486,
+  "with_photo": 303,
   "items": [
+    {
+      "id": "5c7388018e2ed593",
+      "title": "Christian Rap Song & Album Drops 9/18/26 (Listen Here)",
+      "link": "https://rapzilla.com/2026-09-christian-rap-song-album-drops-9-18-26-listen-here/",
+      "summary": "Check out the hottest Christian Rap Song & Album Drops 9/18/26! Our team scoured every platform to bring you the best new albums and singles for today. Who are you spinning today? Dive right into the embedded tracks and playlists below: more Christian rap…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T15:34:39Z",
+      "first_seen": "2026-09-18T15:37:48Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b5f5f65e54505dd1",
+      "title": "‘Man of God’: Juror Breaks Silence After Standing Alone in Lindsay Clancy Trial",
+      "link": "https://mycharisma.com/news/man-of-god-juror-breaks-silence-after-standing-alone-in-lindsay-clancy-trial/",
+      "summary": "“I didn’t have any doubts.” Michael P. Desronvil is breaking his silence after becoming the lone juror who refused to find Lindsay Clancy not guilty by reason of insanity. He says he knew exactly where he stood. While the other jurors were prepared to acquit…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T15:00:58Z",
+      "first_seen": "2026-09-18T15:37:48Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "56f62dede635e349",
+      "title": "ALLAN SCOTT RELEASES POWERFUL NEW SINGLE ‘FOXHOLE PRAYERS’",
+      "link": "https://pathmegazine.com/articles/allan-scott-releases-powerful-new-single-foxhole-prayers/",
+      "summary": "Contemporary Christian artist and songwriter Allan Scott has officially released his new single, “Foxhole Prayers,” available today across all major digital music and streaming platforms via Dream … The post ALLAN SCOTT RELEASES POWERFUL NEW SINGLE ‘FOXHOLE…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T14:44:16Z",
+      "first_seen": "2026-09-18T15:37:48Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2794b24eac439a35",
+      "title": "Church of England revokes award to Muslim cleric who praised Osama bin Laden",
+      "link": "https://www.christianpost.com/news/church-rescinds-award-to-muslim-cleric-over-bin-laden-praise.html",
+      "summary": "The Church of England has rescinded an interfaith award given to a Muslim cleric after comments he made praising Osama bin Laden recently resurfaced.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T14:41:00Z",
+      "first_seen": "2026-09-18T15:37:48Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271964_w_550_382_522_303.jpg?v=20260918104157",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c27abf8159270925",
       "title": "Steven Hickerson Celebrates Liberation, Faith & Authenticity With New Single and Music Video “Free”",
