@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-18T10:07:21Z",
-  "story_count": 454,
-  "with_photo": 287,
+  "generated_at": "2026-09-18T10:37:54Z",
+  "story_count": 456,
+  "with_photo": 288,
   "items": [
+    {
+      "id": "821c4a77af0cc4e8",
+      "title": "'Data centers' are changing the Licking County landscape | Faith Works",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTndhcFEyRzB3N25fSjRRcTI1dHd1RzRBVlVMMFF5cjk0T0IxT0tHR1lYMnA1OHJXUlBveHJZcnJpZHZnaVZ4V0pWa2hNWG9DVGUxblExWGtfM1dzenNxNU1RdW5zV1dpV3R2TDNRM2NMMzNxRFE5bWdBeWNzdlJSb1BYeTJvUE1TWkZTXzNKR0FFcjdYUnRBU3h1OG9ldmhJOGowVk5RYzYwS2E3T0Y0ZHMxQ2txbjIwVC1UU3NHOGFQMlVuOFJkSzJtODYySjh2TzVz?oc=5",
+      "summary": "'Data centers' are changing the Licking County landscape | Faith Works The Newark Advocate",
+      "outlet": "The Newark Advocate",
+      "outlet_url": "https://www.newarkadvocate.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-18T10:03:00Z",
+      "first_seen": "2026-09-18T10:37:54Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T22:37:54Z"
+    },
     {
       "id": "177eec1829479368",
       "title": "How Amy Grant influenced Franni Cash's Christian music career | Exclusive",
@@ -91,6 +107,25 @@
       "image": {
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/books-column-fea-history.jpg?resize=1200,628",
         "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "82f1112b23617a87",
+      "title": "UK bill proposes to lift historic restrictions on Catholic and Jewish prime ministers",
+      "link": "https://www.ewtnnews.com/world/europe/uk-bill-proposes-to-lift-historic-restrictions-on-catholic-and-jewish-prime-ministers",
+      "summary": "A U.K. bill may soon change historic law, an inquiry into the death of a Catholic father in Ireland concludes, Asian digital missionaries urged to be responsible, and more in this world news roundup.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T10:00:00Z",
+      "first_seen": "2026-09-18T10:37:54Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789665661/ewtn-news/en/GettyImages-2292651402_yuegr6.jpg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
