@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-18T03:38:10Z",
-  "story_count": 433,
-  "with_photo": 269,
+  "generated_at": "2026-09-18T04:06:55Z",
+  "story_count": 437,
+  "with_photo": 273,
   "items": [
+    {
+      "id": "35ecb7b98c0afd7b",
+      "title": "Why gambling isn't just risky, it's un-biblical",
+      "link": "https://www.christianpost.com/voices/why-gambling-isnt-just-risky-its-un-biblical.html",
+      "summary": "Investing creates a win/win for all involved, but the opposite is true in gambling. For me to win, others must lose.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T04:03:14Z",
+      "first_seen": "2026-09-18T04:06:55Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271951_w_550_367.jpg?v=20260918000253",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "28139d1b3e6f88fa",
+      "title": "AI is arriving at the most dangerous possible moment",
+      "link": "https://www.christianpost.com/voices/ai-is-arriving-at-the-most-dangerous-possible-moment.html",
+      "summary": "The world does not lack intelligence. It lacks time for wisdom.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T04:02:28Z",
+      "first_seen": "2026-09-18T04:06:55Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271960_w_550_289_625_202.jpg?v=20260918000209",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7308641cd6dbff8d",
+      "title": "Socialism's fatal flaw: Misunderstanding human nature",
+      "link": "https://www.christianpost.com/voices/socialisms-fatal-flaw.html",
+      "summary": "Socialism is based on a false and destructive understanding of human nature.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T04:01:05Z",
+      "first_seen": "2026-09-18T04:06:55Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271962_w_550_413_565_414.jpg?v=20260918000118",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "98af8f6baa35eff4",
+      "title": "Trump's week in review: Kennedy Center closure; meeting with Armenian church leaders",
+      "link": "https://www.christianpost.com/news/trumps-week-in-review-kennedy-center-closure-armenian-leaders.html",
+      "summary": "This past week was busy for President Donald Trump as he worked to attract faith voters ahead of the midterms, appointing Evangelical leaders to key religious freedom oversight positions and meeting with spiritual leaders from one of the world's oldest…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T04:00:05Z",
+      "first_seen": "2026-09-18T04:06:55Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271955_w_550_246_562_191.jpg?v=20260918000040",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5092926da405c983",
       "title": "First Listen: Kirk Franklin and Karen Clark Sheard want to \"Thank You\"",
