@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T22:36:31Z",
-  "story_count": 529,
+  "generated_at": "2026-09-18T23:06:33Z",
+  "story_count": 531,
   "with_photo": 335,
   "items": [
     {
@@ -8106,6 +8106,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "c4b7dd446fc38958",
+      "title": "Country gospel music to be featured at Clarksville concert on September 20",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNSXZycG11WndOWkliUm01UTd2Z3FhRGpvMHFBZE9RVkhFa0VlS3RaLW42M2NjRjBubUVxOFNZYTZaS1VnR0V5Vm9tUm5KcUY4ZHRaU19TYW05akowOG81T1RLczZYVkZEWXNSSTYwTjRqT3RCcTYzWU02S2NDNVZKM0cxSE9KU3c0UW9vYUJMRFlTaVlWM2FvV3BwMUhpX0xBSzB2Z1BhdGpHOFhqMzJyOUh1dGdUMnVHRnZKYzBRODB3a3phQ2RQSS11TkpqVXRKcjV2SEdCWE5HQ1RTN1VLSVBhRzVWbHFSWmsyd0UzbW44R0JXZ25ZSmI4aVBicXJpR2gzXzVsS243MHJ0b3loTjd4aXdHRzNYM01MWVhHYw?oc=5",
+      "summary": "Country gospel music to be featured at Clarksville concert on September 20 Community Newspaper Group",
+      "outlet": "Community Newspaper Group",
+      "outlet_url": "https://www.communitynewspapergroup.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-10T05:00:00Z",
+      "first_seen": "2026-09-18T23:06:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "8b31b5b91b27821d",
       "title": "boygenius’ Julien Baker Is Teasing Her First Solo Record in Five Years",
       "link": "https://relevantmagazine.com/culture/music/boygenius-julien-baker-is-teasing-her-first-solo-record-in-five-years/",
@@ -9420,6 +9436,22 @@
       "category": "church",
       "published": "2026-08-31T07:00:00Z",
       "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b6801f15db490398",
+      "title": "Megachurch pastor Brian Tome announces vacation following suspension",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRE0tUTBvUm9McHVZYy1ZNV9RRmlqeWVPaTRoUTRrT0ZVR1pWa19Eb1FkcEp3Vzd3ZnNqc0NIMjJoRjhSZ2ZoWDEyZEZkSWhLaGg5UFJ5V1IyWXJBck9OaTdRMHZTUjRxeTJtbDhmZmJSaXJXSnY1NEQtSkduWG5kdkIxUVh1SkwwejctcldTcmJVOTd6eDVr?oc=5",
+      "summary": "Megachurch pastor Brian Tome announces vacation following suspension The Roys Report",
+      "outlet": "The Roys Report",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-08-31T07:00:00Z",
+      "first_seen": "2026-09-18T23:06:33Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
