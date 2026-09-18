@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T16:37:20Z",
-  "story_count": 496,
+  "generated_at": "2026-09-18T17:06:41Z",
+  "story_count": 499,
   "with_photo": 311,
   "items": [
     {
@@ -21,6 +21,38 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "84f7829351f85aad",
+      "title": "Great need for worship leaders coming very soon, church survey reveals",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd3dibEsxcnoxQXFxOU1nTE5KQkRJa0hMWFZrWE1FNzV5bS16VDJMNm1YZ01BSlJxb09vQTNGaEpDLVhHNmRESkJaZzVGWU5SVzJrZlI3SjFJM3ZxM3BJNHdkaHhtRlk5RWhrSjVrRkFobDFJSFRlSDgwQUNtNDNSNHgzaVBUTG9Bb0lkUUl2Tlg5SzJYVVYxaFpQMllPNTBMZWZOdFlobTJFVW83N0ZQTldpaE9nb0ZfV25mVDVR?oc=5",
+      "summary": "Great need for worship leaders coming very soon, church survey reveals Baptist Press",
+      "outlet": "Baptist Press",
+      "outlet_url": "https://www.baptistpress.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-18T16:38:54Z",
+      "first_seen": "2026-09-18T17:06:41Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-19T05:06:41Z"
+    },
+    {
+      "id": "5a2ea8f22e528567",
+      "title": "Chelsea Amber finds deeper meaning after years of motherhood and faith",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVFJnZEVGckM3S1AwR3JkSEV6RkJPVldTRGF4UXBwdzFCNjByTXBiWkUwRzJSS1BRbG1PWmxnVF9vMFdwY0hJN2k3RmtfS19TQkdsUVRyNnRKN0Q4UTdWYUlld2NUQVk3NHQ1dmlfRWJ2ZDdudWZZZVJUNlJmZ256OGJsWDY3VzFTYXBUcjFqRXg4S1doNVFFOFFubG1kYV9ZS0tZLXNWNDk?oc=5",
+      "summary": "Chelsea Amber finds deeper meaning after years of motherhood and faith CHVN Radio",
+      "outlet": "CHVN Radio",
+      "outlet_url": "https://www.chvnradio.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-18T16:35:34Z",
+      "first_seen": "2026-09-18T17:06:41Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-19T05:06:41Z"
     },
     {
       "id": "9e84bb57b3e768c1",
@@ -7996,6 +8028,22 @@
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/01092425/3-Picture-Template-Article-20.jpg",
         "via": "og:image"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "31b8bb42652d4a56",
+      "title": "Gospel on the Water Brings Grammy-Winning Voices to...",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVp1RHUwX0pXWDBicFRwUG1ZeTZtZ3gzTFI1TFlhSUVZU2FtN0U2X25CQVJtUFN4SWNkWGtKRGpxWEtzeHBvTlZaVjMzeHdpTDFPMm9YcmdBVDRjZDRObzFXa3FuMzRlX0hiQUk3UzBfOUo4S3R5QlJBZ1UzV2F5RkIzQ3daZmVvOVNiN3o5X2dmbWoyRkIwRnNjdjY0RGRKNko3SFEzMmtMOEdz?oc=5",
+      "summary": "Gospel on the Water Brings Grammy-Winning Voices to... caravannews.com",
+      "outlet": "caravannews.com",
+      "outlet_url": "https://www.caravannews.com",
+      "source_feed": "Google News: Le'Andria Johnson",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-07T15:28:26Z",
+      "first_seen": "2026-09-18T17:06:41Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
