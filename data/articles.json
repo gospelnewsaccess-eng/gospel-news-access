@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-18T01:36:04Z",
-  "story_count": 429,
-  "with_photo": 266,
+  "generated_at": "2026-09-18T02:06:59Z",
+  "story_count": 432,
+  "with_photo": 269,
   "items": [
+    {
+      "id": "a53e0e9b78f9fcc1",
+      "title": "The Voice Season 30: Premiere Date, New Coaches, and Biggest Rule Changes",
+      "link": "https://www.jubileecast.com/articles/39515/20260917/the-voice-season-30-premiere-coaches-new-rules.htm",
+      "summary": "The Voice Season 30: Premiere Date, New Coaches, and Biggest Rule Changes",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T01:16:52Z",
+      "first_seen": "2026-09-18T02:06:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31847/the-voice.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1686bb27db955bee",
+      "title": "Is Billy Joel Dead? Here's Why the Rumor Spread So Fast",
+      "link": "https://www.jubileecast.com/articles/39514/20260917/billy-joel-not-dead-google-error-death-rumor.htm",
+      "summary": "Is Billy Joel Dead? Here's Why the Rumor Spread So Fast",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T00:58:31Z",
+      "first_seen": "2026-09-18T02:06:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31727/billy-joel.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e405abd02c532716",
       "title": "Who Was Sway DaSafo? Remembering the UK Rap Pioneer Who Died at 44",
@@ -36,6 +74,25 @@
       "first_seen": "2026-09-18T00:41:04Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30606/tay-keith.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fe85b0d5de017cc5",
+      "title": "Talarico's pastor promotes 'Inclusive Bible' that strips 'Son of God' from Jesus: 'Let go of the stupid stuff'",
+      "link": "https://www.christianpost.com/news/talaricos-pastor-pushes-inclusive-bible-that-removes-lord.html",
+      "summary": "The Rev. Jim Rigby, the pastor of Democratic U.S. Senate candidate James Talarico, was recently caught on camera promoting an \"inclusive\" translation of the Bible that strips the text of gendered language for God, including Jesus' titles as Lord and Son of…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T00:08:47Z",
+      "first_seen": "2026-09-18T02:06:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271961_w_550_309.jpg?v=20260917214808",
         "via": "media:content"
       },
       "breaking": false,
