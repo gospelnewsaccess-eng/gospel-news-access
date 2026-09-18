@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-18T17:34:21Z",
-  "story_count": 499,
-  "with_photo": 311,
+  "generated_at": "2026-09-18T18:07:37Z",
+  "story_count": 503,
+  "with_photo": 315,
   "items": [
+    {
+      "id": "ac0cfa75f88d8d84",
+      "title": "The Hindu god Ganesh turns macho and martial in Indian festivities",
+      "link": "https://religionnews.com/2026/09/18/the-hindu-god-ganesh-turns-macho-and-martial-in-indian-festivities/",
+      "summary": "MUMBAI, India (RNS) — The cute and chubby elephant-headed god has evolved in some festival depictions.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T18:03:12Z",
+      "first_seen": "2026-09-18T18:07:37Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Photos-Week03-091626.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "923d29a497c30827",
+      "title": "Algerian police seize Bibles as 12 Christians arrested for holding non-Muslim service",
+      "link": "https://www.christianpost.com/news/algerian-police-seize-bibles-as-12-christians-arrested.html",
+      "summary": "Special forces police in Algeria raided a worship service at a humanitarian shelter on Sept. 4, arresting all 12 Christians present on suspicion of holding an unauthorized, non-Muslim religious service.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T17:49:17Z",
+      "first_seen": "2026-09-18T18:07:37Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271972_w_550_413.jpg?v=20260918135351",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fa40ec5794f101c4",
+      "title": "Santa Fe archbishop urges ‘moral choices’ on water as reservoir levels shrink to historic lows",
+      "link": "https://www.ewtnnews.com/world/us/santa-fe-archbishop-urges-moral-choices-on-water-as-reservoir-levels-shrink-to-historic-lows",
+      "summary": "Archbishop John Wester urged the faithful to develop an “appreciation for the gift of water” amid major ecological challenges in the region.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T17:26:06Z",
+      "first_seen": "2026-09-18T18:07:37Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789745006/ewtn-news/en/shutterstock_2258801321-2_tiailz.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "71a6a47e5e71ade0",
       "title": "Archbishop of Canterbury Withdraws Imam’s Interfaith Award After Remarks Praising Osama Bin Laden Resurface",
@@ -53,6 +110,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-19T05:06:41Z"
+    },
+    {
+      "id": "ee80f293fb3fd864",
+      "title": "UK Evangelicals defying religious decline, with young men leading growth",
+      "link": "https://www.christianpost.com/news/uk-evangelicals-defying-religious-decline-young-male-diverse.html",
+      "summary": "A landmark study has shed more light on the size, shape and identity of Evangelical Christians in the U.K.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T16:26:37Z",
+      "first_seen": "2026-09-18T18:07:37Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271968_w_550_319.jpg?v=20260918122933",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "9e84bb57b3e768c1",
@@ -7350,6 +7426,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "e7325a4779f7a896",
+      "title": "CeCe Winans First Black Female Soloist to Win Artist of the Year at Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWQxOVpWaFVfRXREc2dqMnNqR0JNbE9Wc3RvbDlqWm55cDNfUjF1cERMYTNLNG1nN01LbktJZG1SdF92dUdwTU9mdGprdDhqUHlPY19JVmN1bjIyWjV3MkE0VDZkM21NTjBqOTNJRHNaMDVIeW1BVzZOanJPOVctelFwN1dKR0dG?oc=5",
+      "summary": "CeCe Winans First Black Female Soloist to Win Artist of the Year at Dove Awards The Roys Report",
+      "outlet": "The Roys Report",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-11T06:55:16Z",
+      "first_seen": "2026-09-18T18:07:37Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "3e4932330dc6fb08",
       "title": "Uptown Records Announces Partnership With Kirk Franklin",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFpNbGl6UXBtbFRKZDdyNHduWXprVjNCWWN0U3hhSG1NVWNFU2l1MXNnZ2h1a0NkNkFQZ2lrZUpXVVdJYmdQTUJHZ1hyNWE1ZHRMNEZIR01wbEUwUG1HaFlYVEZrYWdxaGZWUWdmYnVlTHphRUJFYm9nWERVU2x3a1F0THdDZzJJclZDUQ?oc=5",
@@ -8901,22 +8993,6 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/philip.jpg",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9cf7948b5be3a83d",
-      "title": "Spruce Street Baptist Church to Posthumously Honor Renowned Gospel Artist Sir J. Robert Bradley “Mister Baptist”",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSUo2S3RhdURjNjR0Y2hvU2lNVHdpbkJqWjlLRWNjZzR5REFjeTZwTGFyVk56LUNacXFxdkRkSUhyNTJpbmh3dWtfRE1BcWUzWDI2VUhBMGRkc2Zaal9xTnB5aVJqMk40SEVMWkJIYmJpaThVdnNmanlpcFhCcFRLaDJTaW5TcFVWOElFSDNaM281X09uN283V0FNczBPaVNKUFVwRlYxU0hOVHlvRlloeHd3d0NucnZ6RWUtRE9jZ3ZMUmNmYklQYkZ6cTZ1clcyalR5ekM1cXAwVExM?oc=5",
-      "summary": "Spruce Street Baptist Church to Posthumously Honor Renowned Gospel Artist Sir J. Robert Bradley “Mister Baptist” Jacksonville Free Press",
-      "outlet": "Jacksonville Free Press",
-      "outlet_url": "https://jacksonvillefreepress.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-08-28T17:44:03Z",
-      "first_seen": "2026-09-17T09:39:31Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
