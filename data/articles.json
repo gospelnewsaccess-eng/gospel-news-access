@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-18T09:06:47Z",
-  "story_count": 446,
-  "with_photo": 281,
+  "generated_at": "2026-09-18T09:38:01Z",
+  "story_count": 449,
+  "with_photo": 283,
   "items": [
+    {
+      "id": "a72cecc1c24e370d",
+      "title": "In Her Racy New Novel, Deesha Philyaw Takes Aim at the Black Church",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObTkxcm5HUXJhWDk1ZmRfS0N5QjRqTmhyc1BpWHk5UEdjS09ibURhSDY5NTFHdkEycU1pTEVUYkR2UzcyYjNITGJqR2VqU1k1YnVqZEVsMUJLTzJCSFVrZV9hUlp5LXczb2ZXeWxCSENfNWtxN0lndmtSRUNyNnQzUnNBdm9heVFCaXM3c0ZKNFMzOEN0UHBsbksxWEdmeGRIMEtTaFlYdjlLZw?oc=5",
+      "summary": "In Her Racy New Novel, Deesha Philyaw Takes Aim at the Black Church The New York Times",
+      "outlet": "The New York Times",
+      "outlet_url": "https://www.nytimes.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-18T09:00:07Z",
+      "first_seen": "2026-09-18T09:38:01Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T21:38:01Z"
+    },
+    {
+      "id": "14c7f8d1abedef73",
+      "title": "Pope encourages Leo XIV Study Center to help build a civilization of love",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-international-study-centre-civilization-of-love.html",
+      "summary": "Pope Leo XIV welcomed members of an international study center that bears his name to the Vatican on Friday, encouraging them to take inspiration from authentic humanism and the Church’s social doctrine to contribute to building a civilization of love. Read…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T08:49:00Z",
+      "first_seen": "2026-09-18T09:38:01Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/18/2026-09-18-partecipanti-all-incontro-promosso-dal-centro-studi-i/1789717496778.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "57f5f2b944b9d3d5",
+      "title": "Green Lava: A young man’s story on the road to the Oscars",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/green-lava-giacomo-mattivi-story-on-the-road-to-the-oscars.html",
+      "summary": "The documentary short, made in collaboration with the Vatican, will be screened in Beverly Hills from September 18, beginning its qualification journey for the Academy Awards. Its protagonist Giacomo Mattivi tells Vatican media: “The message will reach as…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T08:08:00Z",
+      "first_seen": "2026-09-18T09:38:01Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/17/green-lava-premiere-image-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e79df75a9b901875",
       "title": "Album Review: Franni Cash Finds Her Voice After Church Hurt On \"Here I Am\"",
