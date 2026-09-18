@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T04:06:55Z",
-  "story_count": 437,
+  "generated_at": "2026-09-18T04:38:24Z",
+  "story_count": 439,
   "with_photo": 273,
   "items": [
     {
@@ -1165,6 +1165,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271953_w_550_367.jpg?v=20260917121128",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a0c4739662a3da2a",
+      "title": "Black Cat Theatre Café debuts near The Church Studio",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMC05YzFFZUxscXZtYjVYUzN2QWVfa2tnWnlna3MwY3FkZDg2cHNwSTYzYy1UcHI2dVVwUVJ6cWpOSTlzdVpsWHBwLS1LRTJia3dOb2w0TEdsWVlfLUFrcmltUzU0T3VIT0hVLXNORHFGamU4WGVkTzZoa1VkLUVWVGNjcjdnTmpXd1NOaTY1OTNYcFpsVUFNWUV5WkRvVWw3eVd5bWRiOUJEcnRuM3c?oc=5",
+      "summary": "Black Cat Theatre Café debuts near The Church Studio Tulsa World",
+      "outlet": "Tulsa World",
+      "outlet_url": "https://tulsaworld.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-17T16:00:00Z",
+      "first_seen": "2026-09-18T04:38:24Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -7166,6 +7182,22 @@
       "category": "church",
       "published": "2026-09-04T07:00:00Z",
       "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "61c8acf5098d866b",
+      "title": "Joe Locke goes missing after weekend with teacher in Black Church Bay first look",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXkzdHNEdEtOTGc1YlBJRnBTNTRQZkJneFZPZVM3dncwV3hta3U0QmNVS3IwRk9sdUhsQWdLWGVJWWV3NW1hVEZYbVRfX2h2VjY1TG5wSjBDWUhaX2h4RzJ2WnZCcEJLMTVJNU9GWkxyZ1VMN1dPOVhhbldFdDJuSnJsQVJncTFzaWE4VWw4emk2TkM3NVdQeThlYjNGemREaXMwWVdEQkkzQ3JqQVExRUsydmtDWS1KeDZCVA?oc=5",
+      "summary": "Joe Locke goes missing after weekend with teacher in Black Church Bay first look PinkNews",
+      "outlet": "PinkNews",
+      "outlet_url": "https://www.thepinknews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-04T07:00:00Z",
+      "first_seen": "2026-09-18T04:38:24Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
