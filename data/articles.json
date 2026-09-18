@@ -1,8 +1,198 @@
 {
-  "generated_at": "2026-09-18T20:37:06Z",
-  "story_count": 513,
-  "with_photo": 322,
+  "generated_at": "2026-09-18T21:06:43Z",
+  "story_count": 524,
+  "with_photo": 332,
   "items": [
+    {
+      "id": "3135f996f1dde513",
+      "title": "Nick Vujicic Brings His Suicide Attempt, Unanswered Prayers And Unshaken Faith To Theaters In “No Limbs, No Limits”",
+      "link": "https://www.jubileecast.com/articles/39535/20260918/nick-vujicic-brings-his-suicide-attempt-unanswered-prayers-and-unshaken-faith-to-theaters-in-no-limbs-no-limits.htm",
+      "summary": "Nick Vujicic Brings His Suicide Attempt, Unanswered Prayers And Unshaken Faith To Theaters In “No Limbs, No Limits”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:53:41Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29880/nick-vujicic.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d613a8273fd43d77",
+      "title": "Cindy Clemishire Asks Texas Supreme Court To Revive Defamation Lawsuit Against Robert Morris And Gateway Church Leaders",
+      "link": "https://www.jubileecast.com/articles/39534/20260918/cindy-clemishire-asks-texas-supreme-court-to-revive-defamation-lawsuit-against-robert-morris-and-gateway-church-leaders.htm",
+      "summary": "Cindy Clemishire Asks Texas Supreme Court To Revive Defamation Lawsuit Against Robert Morris And Gateway Church Leaders",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:50:18Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29419/robert-morris.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a35dbf519bbc1665",
+      "title": "Frankie Muniz Says He Hit “Rock Bottom” After Six-Week “Nightmare” Following Marriage Split",
+      "link": "https://www.jubileecast.com/articles/39533/20260918/frankie-muniz-says-he-hit-rock-bottom-after-six-week-nightmare-following-marriage-split.htm",
+      "summary": "Frankie Muniz Says He Hit “Rock Bottom” After Six-Week “Nightmare” Following Marriage Split",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:46:10Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31855/frankie-muniz.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fe8e684a59b2db99",
+      "title": "Album Review: Jaye King Makes Joy Sound Effortless on \"All God, Not Me\"",
+      "link": "https://www.jubileecast.com/articles/39532/20260918/album-review-jaye-king-makes-joy-sound-effortless-on-all-god-not-me.htm",
+      "summary": "Jaye King Makes Joy Sound Effortless on All God, Not Me",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:39:59Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31854/jaye-king.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a7d6c65d97850610",
+      "title": "How Jewish mindfulness meditation became a mainstay in High Holiday services and beyond",
+      "link": "https://religionnews.com/2026/09/18/how-jewish-mindfulness-meditation-became-a-mainstay-in-high-holiday-services-and-beyond/",
+      "summary": "(RNS) — The practice of sitting in silence, paying attention to the breath and focusing on the present moment has become pervasive across all the Jewish religious movements.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T20:33:46Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Jewish-Mindfulness2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e08909e98d5936bd",
+      "title": "Album Review: Zauntee’s GOD REMEMBERS Turns Spiritual Survival Into a Battle Cry",
+      "link": "https://www.jubileecast.com/articles/39531/20260918/album-review-zauntee-s-god-remembers-turns-spiritual-survival-into-a-battle-cry.htm",
+      "summary": "Zauntee’s GOD REMEMBERS Turns Spiritual Survival Into a Battle Cry",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:29:09Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31853/zauntee.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "03f8839a883e892b",
+      "title": "‘That’s Why I’m Not Scared of Death’: NBA Player Michael Porter Jr. Spent a Livestream Telling N3on Jesus Is the Only Way",
+      "link": "https://relevantmagazine.com/culture/thats-why-im-not-scared-of-death-nba-player-michael-porter-jr-spent-a-livestream-telling-n3on-jesus-is-the-only-way/",
+      "summary": "Michael Porter Jr. didn’t go on N3on’s stream to talk about God. Then the streamer brought up AI, and the conversation went somewhere else entirely. Porter, who led the Brooklyn Nets in scoring last season at a career-high 24.2 points a game, sat in on Mikyle…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T20:23:24Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/MPJn3on.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9717fbc065faf7b1",
+      "title": "Victory House Worship Declares “Jesus Is Returning” With Powerful New Single",
+      "link": "https://www.jubileecast.com/articles/39530/20260918/victory-house-worship-declares-jesus-is-returning-with-powerful-new-single.htm",
+      "summary": "Victory House Worship Declares “Jesus Is Returning” With Powerful New Single",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:18:49Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31514/victory-house-worship.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b5d6b00b8c4b359f",
+      "title": "Former “American Idol” Contestant And Worship Pastor Caleb Flynn Allegedly Sent 100,000 Texts About Wanting Wife Dead",
+      "link": "https://www.jubileecast.com/articles/39529/20260918/former-american-idol-contestant-and-worship-pastor-caleb-flynn-allegedly-sent-100-000-texts-about-wanting-wife-dead.htm",
+      "summary": "“American Idol” Contestant And Worship Pastor Caleb Flynn Allegedly Sent 100,000 Texts About Wanting Wife Dead",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T20:13:04Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28802/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "670fd34a9d7f502b",
+      "title": "Meryl Streep as Aslan in 'The Magician's Nephew' sparks Christian backlash: 'Creative vandalism'",
+      "link": "https://www.christianpost.com/news/meryl-streep-as-aslan-in-the-magicians-nephew-sparks-backlash.html",
+      "summary": "Confirmation that actress Meryl Streep will voice Aslan in the upcoming Netflix adaptation of C.S. Lewis' The Magician's Nephew has prompted backlash from some who claim it's an affront to the classic Christian allegory.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T20:11:05Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271975_w_550_367_510_215.jpg?v=20260918164133",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0f4dd7107851bd22",
       "title": "“Barely Breathing” Singer Duncan Sheik Dies At 56 Just One Day After Family Revealed Hospitalization",
@@ -17,6 +207,25 @@
       "first_seen": "2026-09-18T20:06:53Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31830/duncan-sheik.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3aa0b4024b5bb532",
+      "title": "Police charge man for alleged terrorist threats against Archdiocese of St. Louis",
+      "link": "https://www.ewtnnews.com/world/us/man-charged-threats-st-louis",
+      "summary": "“We pray for an end to the hatred and threats of violence that have become so regrettably prevalent on social media,” an archdiocesan spokesperson said.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T20:02:00Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789760508/ewtn-news/en/BasilicaofStLouis091826_rar4ez.jpg",
         "via": "media:content"
       },
       "breaking": false,
@@ -381,6 +590,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789570694/ewtn-news/en/Father.Amorth.Sept._2026_ioxrs3.png",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7fc6e47b515ca479",
+      "title": "Upcoming celebration in Nashville honoring Dr. Bobby Jones' 88th Birthday",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbndWamdCWFNhVV9SbEEwR29qbG5HSHF6Q3ZqdTB3ZWVwTlpWUFFPbEgwczNRR2pyRjZPcXVqdWkwdXlxcmVVbGVVeXJMNTJXYWNpellaeUctclByVExTakpTT0NhbjZBc1pfNklIVFd1TjVkR0ZJaU41ZVRJeVkyb00wS1VCTmV3dExfOGtaM05MampwX21vZXc0UDJWWkN1a1kyM2toN1N0N28?oc=5",
+      "summary": "Upcoming celebration in Nashville honoring Dr. Bobby Jones' 88th Birthday WSMV",
+      "outlet": "WSMV",
+      "outlet_url": "https://www.wsmv.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-18T16:03:00Z",
+      "first_seen": "2026-09-18T21:06:43Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -9155,25 +9380,6 @@
       "published": "2026-08-30T07:00:00Z",
       "first_seen": "2026-09-17T16:38:39Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "da2989b1ef98755f",
-      "title": "‘I Don’t See How Revival Happens Without Prayer’: Philip Anthony Mitchell on the Three Things It’ll Actually Take",
-      "link": "https://relevantmagazine.com/faith/i-dont-see-how-revival-happens-without-prayer-philip-anthony-mitchell-on-the-three-things-itll-actually-take/",
-      "summary": "Philip Anthony Mitchell leads 2819 Church on Atlanta’s southwest side, a congregation named for Matthew 28:19, the verse where Jesus tells his followers to go and make disciples. He has led it under that name since January 2023, and in the three years since…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-08-28T20:41:29Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/philip.jpg",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
