@@ -1,8 +1,138 @@
 {
-  "generated_at": "2026-09-18T16:06:54Z",
-  "story_count": 486,
-  "with_photo": 303,
+  "generated_at": "2026-09-18T16:37:20Z",
+  "story_count": 496,
+  "with_photo": 311,
   "items": [
+    {
+      "id": "71a6a47e5e71ade0",
+      "title": "Archbishop of Canterbury Withdraws Imam’s Interfaith Award After Remarks Praising Osama Bin Laden Resurface",
+      "link": "https://mycharisma.com/news/archbishop-of-canterbury-withdraws-imams-interfaith-award-after-remarks-praising-osama-bin-laden-resurface/",
+      "summary": "The Archbishop of Canterbury has withdrawn an interfaith award from a Pakistani imam after his past remarks about Osama bin Laden resurfaced, turning a ceremony held on the 25th anniversary of the Sept. 11 attacks into a controversy for the Church of England…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T16:41:00Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9e84bb57b3e768c1",
+      "title": "Pope calls Diocese of Rome to pastoral evaluation: ‘Do less and do it better'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-diocese-rome-pastoral-evaluation-luigi-di-liegro.html",
+      "summary": "At the opening of the Diocese of Rome’s new pastoral year, the Pope calls for a shared process of pastoral evaluation focused on encounter with Christ, community and service to the city. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T16:26:00Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/18/2026-09-18-basilica-di-san-giovanni--assemblea-diocesana/1789747497942.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b5c3c4f093074758",
+      "title": "The story of Little Italy’s Feast of San Gennaro is the story of how Italian immigrants became American",
+      "link": "https://religionnews.com/2026/09/18/the-story-of-little-italys-feast-of-san-gennaro-is-the-story-of-how-italian-immigrants-became-american/",
+      "summary": "(The Conversation) — Italian immigrants used to be accused of clinging too tightly to the Old World. Today, millions gather in Little Italy to celebrate the food, faith and traditions they brought with them.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T16:23:59Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://images.theconversation.com/files/760290/original/file-20260916-50-7b2v9z.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "86cf3673d0af45ef",
+      "title": "Aaron Cole and Tenroc Discuss Turning Usher’s Hit into a Gospel Song",
+      "link": "https://pathmegazine.com/articles/aaron-cole-and-tenroc-discuss-turning-ushers-hit-into-a-gospel-song/",
+      "summary": "PATH MEGAzine publisher Kris Patrick caught up with national recording artists Aaron Cole and Tenroc at the Stellar Awards for a fun and candid interview. The two … The post Aaron Cole and Tenroc Discuss Turning Usher’s Hit into a Gospel Song appeared first…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T16:23:42Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1a437790adcd8d48",
+      "title": "Father Gabriele Amorth remembered as exorcist, spiritual guide, and communicator",
+      "link": "https://www.ewtnnews.com/vatican/father-gabriele-amorth-remembered-as-exorcist-spiritual-guide-and-communicator",
+      "summary": "A Rome conference marking the 10th anniversary of the priest’s death highlighted his deep humanity, spirituality, and concern for those who suffer.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T16:17:00Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789570694/ewtn-news/en/Father.Amorth.Sept._2026_ioxrs3.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7e401669db79b023",
+      "title": "Shannon Bream reveals most challenging story she's ever covered and what she prayed for",
+      "link": "https://www.christianpost.com/video/shannon-bream-reveals-most-challenging-story-shes-ever-covered.html",
+      "summary": "Shannon Bream opens up about the terrifying moment she was live on air during the assassination attempt against President Donald Trump, and the prayer she was silently praying as the chaos unfolded.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T15:45:52Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271967_w_550_310_493_171.jpg?v=20260918114629",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c3256a29775cda0c",
+      "title": "Pope Leo XIV praises Catholics who led Church in ‘new directions’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-praises-catholics-who-led-church-in-new-directions",
+      "summary": "The pope highlighted the role of laypeople and religious in shaping Catholic social teaching and called for formation in public life rooted in solidarity, justice, and peace.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T15:37:52Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789743714/ewtn-news/en/_TOM1172_1_jfnvfr.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5c7388018e2ed593",
       "title": "Christian Rap Song & Album Drops 9/18/26 (Listen Here)",
@@ -16,6 +146,25 @@
       "published": "2026-09-18T15:34:39Z",
       "first_seen": "2026-09-18T15:37:48Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ac20c9def9712b91",
+      "title": "Anger in Trump administration, Board of Peace over Israeli claim that Hamas will not be disarmed via peace plan",
+      "link": "https://www.christianpost.com/news/israels-claim-hamas-will-not-disarm-draws-ire-of-trump-admin.html",
+      "summary": "The current Israeli strategy of targeted assassinations of Hamas commanders and terrorists involved in the Oct. 7, 2023, Hamas attacks “will not lead to the elimination of the organization,” a source close to the Board of Peace (BoP) says.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T15:28:36Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271966_w_550_367_681_197.jpg?v=20260918113338",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -51,6 +200,25 @@
       "published": "2026-09-18T14:44:16Z",
       "first_seen": "2026-09-18T15:37:48Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "077c78ba9a17cab9",
+      "title": "‘Sounds of Loss’ to mark International Day of Peace at St Peter’s Basilica",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/international-day-peace-sounds-of-loss-installation-groning.html",
+      "summary": "An audio installation by filmmaker Philip Gröning will be presented in the Atrium of St Peter's Basilica on 21 September, the UN International Day of Peace. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T14:43:00Z",
+      "first_seen": "2026-09-18T16:37:20Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/st-peter-s-basilica.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -7161,6 +7329,22 @@
       "category": "artist",
       "published": "2026-09-10T22:45:08Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c72956db0051b0a2",
+      "title": "44th Annual Administrators of Gospel Music Conference Coming to Brentwood, TN October 5th",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbHVmUHNqU3I5aEVJblNkeFpiMWtUWl8yRHhGMUFlQnZiT3BtaXdMSkQwTVFVdlB6T0NQODFkTk5JQmYwb0g0ZVlBZi1OWDZfV29VZERNejVxNU1aWnRPUGZqem9jN0lxbHVXTXNwUkIzX3dnOWpsUHpiSk4xWEgtZ2dUaTYwWUxTbUxBOTVOUnJ1ek14UVVNOHZ2RUxGY28wLUdJZVV4Qzh6bUh6Zzh3akdjc0NKQW5k?oc=5",
+      "summary": "44th Annual Administrators of Gospel Music Conference Coming to Brentwood, TN October 5th Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-10T22:45:08Z",
+      "first_seen": "2026-09-18T16:37:20Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
