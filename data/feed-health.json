@@ -2,318 +2,283 @@
   "feeds": {
     "Google News: gospel music": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:14Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:08:34Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Black church": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:23Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:08:38Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: megachurch": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:29Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:08:43Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Christian music": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:36Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:08:48Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: gospel artist": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:42Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:08:53Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Kirk Franklin": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:50Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:08:58Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: CeCe Winans": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:37:57Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:03Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Tasha Cobbs Leonard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:04Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:08Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Marvin Sapp": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:11Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:13Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Yolanda Adams": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:17Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:17Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Fred Hammond": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:24Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:22Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Tamela Mann": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:32Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:27Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Travis Greene": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:40Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:32Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Jekalyn Carr": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:49Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:37Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Maverick City Music": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:38:54Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:41Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Donald Lawrence": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:04Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:46Z",
+      "last_item_count": 78,
+      "last_status": "ok"
     },
     "Google News: Erica Campbell": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:14Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:51Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Koryn Hawthorne": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:23Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:09:56Z",
+      "last_item_count": 47,
+      "last_status": "ok"
     },
     "Google News: Ricky Dillard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:31Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:01Z",
+      "last_item_count": 74,
+      "last_status": "ok"
     },
     "Google News: JJ Hairston": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:39Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:05Z",
+      "last_item_count": 46,
+      "last_status": "ok"
     },
     "Google News: Todd Dulaney": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:45Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:10Z",
+      "last_item_count": 89,
+      "last_status": "ok"
     },
     "Google News: Jonathan McReynolds": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:53Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:15Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Le'Andria Johnson": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:39:59Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:20Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Melvin Crispell III": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:05Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:25Z",
+      "last_item_count": 52,
+      "last_status": "ok"
     },
     "Google News: The Clark Sisters": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:14Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:30Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Karen Clark Sheard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:21Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:35Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Hezekiah Walker": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:28Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:40Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Tye Tribbett": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:35Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:45Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Kierra Sheard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:44Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:50Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Zacardi Cortez": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:40:52Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:10:55Z",
+      "last_item_count": 49,
+      "last_status": "ok"
     },
     "Google News: Naomi Raine": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:41:02Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:11:00Z",
+      "last_item_count": 48,
+      "last_status": "ok"
     },
     "Google News: Elevation Worship": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:41:08Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:11:05Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Brandon Lake": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:41:14Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:11:10Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Phil Wickham": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:41:23Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:11:15Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Lauren Daigle": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:41:31Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 503"
+      "last_checked": "2026-09-18T12:11:20Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Religion News Service": {
       "consecutive_zero": 0,
@@ -327,7 +292,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:09:38Z",
+      "last_checked": "2026-09-18T12:11:25Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -343,7 +308,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:09:41Z",
+      "last_checked": "2026-09-18T12:11:29Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -375,7 +340,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-18T11:09:48Z",
+      "last_checked": "2026-09-18T12:11:37Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -405,13 +370,14 @@
     },
     "Black Christian News Network": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-18T11:09:48Z",
-      "last_item_count": 10,
-      "last_status": "ok"
+      "last_checked": "2026-09-18T12:12:17Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "URL error: [Errno 101] Network is unreachable"
     }
   },
-  "updated_at": "2026-09-18T11:37:04Z",
+  "updated_at": "2026-09-18T12:08:33Z",
   "flagged_feeds": []
 }

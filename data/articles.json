@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T11:37:04Z",
-  "story_count": 459,
+  "generated_at": "2026-09-18T12:08:33Z",
+  "story_count": 460,
   "with_photo": 291,
   "items": [
     {
@@ -768,6 +768,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27911/nicole-c-mullen.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3ee2722d43026eaf",
+      "title": "Gospel Music Festival to take place Oct. 3 in Laurel",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb0dBaGdlMnJFa053LTNGMDJGQ21WamlWY0MzaW1mT1RJeHhpY3FET2R5SFlhcEd0dVQ3bTdMZmN0WjByZzBJazJualRZT3h5aFlvcVIxTWxoMVdicElOa3htYkNNWEU0RGIxRW1QRzI5SlFRaEphX1V3Zy1TaHRfbE5qWWNKazRfMGFFYw?oc=5",
+      "summary": "Gospel Music Festival to take place Oct. 3 in Laurel Morning Star Publications",
+      "outlet": "Morning Star Publications",
+      "outlet_url": "https://starpublications.online",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-17T21:00:40Z",
+      "first_seen": "2026-09-18T12:08:33Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
