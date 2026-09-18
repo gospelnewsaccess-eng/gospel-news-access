@@ -370,17 +370,14 @@
     },
     "Black Christian News Network": {
       "consecutive_zero": 0,
-      "consecutive_error": 2,
-      "flagged": true,
-      "last_checked": "2026-09-18T12:45:12Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "URL error: [Errno 101] Network is unreachable",
+      "consecutive_error": 0,
+      "flagged": false,
+      "last_checked": "2026-09-18T13:06:04Z",
+      "last_item_count": 10,
+      "last_status": "ok",
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-18T12:41:19Z",
-  "flagged_feeds": [
-    "Black Christian News Network"
-  ]
+  "updated_at": "2026-09-18T13:06:03Z",
+  "flagged_feeds": []
 }

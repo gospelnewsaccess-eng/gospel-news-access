@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T12:41:19Z",
-  "story_count": 465,
-  "with_photo": 294,
+  "generated_at": "2026-09-18T13:06:03Z",
+  "story_count": 464,
+  "with_photo": 293,
   "items": [
     {
       "id": "8626397cfe602305",
@@ -8303,25 +8303,6 @@
       "published": "2026-08-28T17:44:03Z",
       "first_seen": "2026-09-17T09:39:31Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1861d281440d4459",
-      "title": "For Petra Fans, Beyond Belief Is a Trip Back in Time",
-      "link": "https://www.ccmmagazine.com/news/for-petra-fans-beyond-belief-is-a-trip-back-in-time/",
-      "summary": "Very few bands, Christian or otherwise, have the staying power to remain relevant for five decades. Petra is undoubtedly one of them. Sure, the band has changed personnel and reinvented itself more than once along the way. But what has never changed is its…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-08-28T13:00:05Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/08/Petra-Beyond-Belief-Web-Banner.jpg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
