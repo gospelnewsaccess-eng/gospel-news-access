@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-18T11:06:50Z",
-  "story_count": 456,
-  "with_photo": 288,
+  "generated_at": "2026-09-18T11:37:04Z",
+  "story_count": 459,
+  "with_photo": 291,
   "items": [
+    {
+      "id": "093020e814dbb62b",
+      "title": "Allan Scott Releases New Christian Single “Foxhole Prayers”",
+      "link": "https://www.jubileecast.com/articles/39525/20260918/allan-scott-foxhole-prayers.htm",
+      "summary": "Allan Scott Releases New Christian Single “Foxhole Prayers”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T11:37:07Z",
+      "first_seen": "2026-09-18T11:37:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31851/xander-sallows.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "06b8b63f83714a3b",
+      "title": "Grace Graber Releases New Christian Punk Single “Jericho”",
+      "link": "https://www.jubileecast.com/articles/39524/20260918/grace-graber-jericho-christian-punk-single.htm",
+      "summary": "Grace Graber Releases New Christian Punk Single “Jericho”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T11:33:25Z",
+      "first_seen": "2026-09-18T11:37:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31850/grace-graber.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5d68abcd285d58b4",
+      "title": "AGT Finalist Nene Royal: \"I Am 100% Ready\" for the Season 21 Finale",
+      "link": "https://www.jubileecast.com/articles/39523/20260918/nene-royal-agt-finale-favorite-odds.htm",
+      "summary": "AGT Finalist Nene Royal: \"I Am 100% Ready\" for the Season 21 Finale",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T11:12:11Z",
+      "first_seen": "2026-09-18T11:37:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31792/nene-royal.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "821c4a77af0cc4e8",
       "title": "'Data centers' are changing the Licking County landscape | Faith Works",
