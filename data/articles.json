@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-18T04:38:24Z",
-  "story_count": 439,
-  "with_photo": 273,
+  "generated_at": "2026-09-18T05:06:16Z",
+  "story_count": 444,
+  "with_photo": 278,
   "items": [
+    {
+      "id": "6734ef03ea4b5ce4",
+      "title": "Album Review: Cory Asbury Returns To His Calling On \"Outsing The Angels\"",
+      "link": "https://www.jubileecast.com/articles/39519/20260918/album-review-cory-asbury-returns-to-his-calling-on-outsing-the-angels.htm",
+      "summary": "Cory Asbury Returns To His Calling On Outsing The Angels",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T04:56:50Z",
+      "first_seen": "2026-09-18T05:06:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30736/cory-asbury.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "801c9c068510a20f",
+      "title": "Album Review: Drew Baldridge Builds On Solid Ground With \"Farm Faith Family\"",
+      "link": "https://www.jubileecast.com/articles/39518/20260918/album-review-drew-baldridge-builds-on-solid-ground-with-farm-faith-family.htm",
+      "summary": "Drew Baldridge Builds On Solid Ground With Farm Faith Family",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T04:50:48Z",
+      "first_seen": "2026-09-18T05:06:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31848/drew-baldridge.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "eea6289444d963fd",
+      "title": "Skillet’s “Monster” Explodes To 7X Platinum As John Cooper Reveals The Darkness Behind New Music",
+      "link": "https://www.jubileecast.com/articles/39517/20260918/skillet-s-monster-explodes-to-7x-platinum-as-john-cooper-reveals-the-darkness-behind-new-music.htm",
+      "summary": "Skillet’s “Monster” Explodes To 7X Platinum As John Cooper Reveals The Darkness Behind New Music",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T04:46:52Z",
+      "first_seen": "2026-09-18T05:06:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/21469/skillet.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d84efe9ed31fd77a",
+      "title": "Album Review: for KING & COUNTRY Paint Faith In Bold Strokes On \"The Most Beautiful Colours\"",
+      "link": "https://www.jubileecast.com/articles/39516/20260918/album-review-for-king-country-paint-faith-in-bold-strokes-on-the-most-beautiful-colours.htm",
+      "summary": "for KING & COUNTRY Paint Faith In Bold Strokes On The Most Beautiful Colours",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T04:43:31Z",
+      "first_seen": "2026-09-18T05:06:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30947/for-king-country.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "526a0ae710f68a38",
+      "title": "Rapzilla Artist Drops 9/18/26: Alphein, Q-Flo, outr.cty, & More",
+      "link": "https://rapzilla.com/2026-09-rapzilla-artist-drops-9-18-26-alphein-q-flo-outr-cty-more/",
+      "summary": "The Rapzilla Artist roster delivers nine fire Rapzilla Artist Drops 9/18/26; we’re excited about today. These drops showcase some of the best in the space. More Rapzilla releases. EJ Swavv, MAYIA WARREN & Bill B. – God Did GENRE: Hip-Hop STREAM…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T04:19:34Z",
+      "first_seen": "2026-09-18T05:06:16Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/15151832/Copy-of-5-Picture-Artist-Template.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "35ecb7b98c0afd7b",
       "title": "Why gambling isn't just risky, it's un-biblical",
