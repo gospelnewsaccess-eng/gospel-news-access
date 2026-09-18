@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-09-18T09:38:01Z",
-  "story_count": 449,
-  "with_photo": 283,
+  "generated_at": "2026-09-18T10:07:21Z",
+  "story_count": 454,
+  "with_photo": 287,
   "items": [
+    {
+      "id": "177eec1829479368",
+      "title": "How Amy Grant influenced Franni Cash's Christian music career | Exclusive",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcE9DSWh3bWVETUx2UW9qRE5PLVctZi12aEFJVU11UWJ4VWhrdGQwb0xKN1dGX2ltbjAxeEcyYS1kU2djM0FUcHlsS1NGSkRpZ21KTHhkUFJjUDl5R1o4TWs0LWVzSWFSSWwyYVhjalB5bTBQaTdBZjVIVEZRWTJVX1RPb3c0VHM1SlR3dF9za3hUcHUxeF9BQWduNG55bk1nQnhYTmZfcW14TC0xMjVrdEROUXU?oc=5",
+      "summary": "How Amy Grant influenced Franni Cash's Christian music career | Exclusive tennessean.com",
+      "outlet": "tennessean.com",
+      "outlet_url": "https://www.tennessean.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-18T10:00:00Z",
+      "first_seen": "2026-09-18T10:07:21Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T22:07:21Z"
+    },
+    {
+      "id": "0cfab5076a72fe3e",
+      "title": "Where Do Christian Filmmakers Go from Here?",
+      "link": "https://www.christianitytoday.com/2026/09/where-do-christian-filmmakers-go-from-here-faith-based-film-cinema/",
+      "summary": "James Stewart is returning to the big screen, and director Aaron Burns has a Christian magazine to thank for it. When Burns was researching for Jimmy, his upcoming biopic of the late Hollywood icon, he had plenty of help, including from Stewart’s daughter…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T10:00:00Z",
+      "first_seen": "2026-09-18T10:07:21Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/christian-filmmakers-go-from-here.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d383ccaa1c3231d0",
+      "title": "Niceness Is Not a Biblical Command",
+      "link": "https://www.christianitytoday.com/2026/09/niceness-is-not-a-biblical-command/",
+      "summary": "The most unsettling sentence in the Bible about human speech is spoken in a fight. In Matthew 12, the Pharisees have already gone out and “conspired against” Jesus, “how to destroy him” (v. 14, ESV throughout). They have watched him heal a blind and mute man…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T10:00:00Z",
+      "first_seen": "2026-09-18T10:07:21Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/niceness-not-biblical-command.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f5bd194e94ed1b1c",
+      "title": "Trapped in China, Terminally Ill Pastor Seeks Return to US Family",
+      "link": "https://www.christianitytoday.com/2026/09/terminally-ill-pastor-china-john-cao/",
+      "summary": "In April, Jamie Powell walked into a hospital room in Changsha, China, with her eldest son and his fiancée. Laying on the hospital bed was her husband, John Sanqiang Cao, gaunt and fighting late-stage prostate cancer that had spread to his spine. The couple…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T10:00:00Z",
+      "first_seen": "2026-09-18T10:07:21Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/pastor-john-cao.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a574904661897963",
+      "title": "The Founding Father Most Americans Couldn’t Name",
+      "link": "https://www.christianitytoday.com/2026/09/the-founding-father-most-americans-couldnt-name/",
+      "summary": "This piece was adapted from CT’s books newsletter. Subscribe here. Scott S. Greenberger, The Forsaken Founder: Gouverneur Morris, the Unsung Patriot Who Wrote the Constitution, Stood Up to Slavery, and Survived the Reign of Terror (37 Ink, 2026) “We the…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T10:00:00Z",
+      "first_seen": "2026-09-18T10:07:21Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/books-column-fea-history.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a72cecc1c24e370d",
       "title": "In Her Racy New Novel, Deesha Philyaw Takes Aim at the Black Church",
