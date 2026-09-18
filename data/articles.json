@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T14:38:12Z",
-  "story_count": 479,
+  "generated_at": "2026-09-18T15:06:42Z",
+  "story_count": 482,
   "with_photo": 301,
   "items": [
     {
@@ -18,6 +18,22 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "f56ffdc86b10cc53",
+      "title": "GMA Dove Awards Add Jamie MacDonald, Naomi Raine, Hulvey And Richard Smallwood Tribute",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ0E5MUREMTR1dlAzdjBsb2h3Y3ZvdnJDOWZBaWpyVVBUWW9oTlcxS0MxclFpV01HNmZSdEFBU3ZZUDJfVVIxcVZMZTlVUGl0OFU5S0ZRaFFWNFdsNkJTYjlHZkhYUGtMSFJNOUNoSTBtQkZBUzJXeGJ4alhFRHJ0M0tBX1U0c1o2MlFQczc5ZmJfbVNLYlVfSmxUR0QwcUhISmNMVVZVdXZZTWlaRC10YnNaSE9vY1VDelNRS2ZJcnF1Slla?oc=5",
+      "summary": "GMA Dove Awards Add Jamie MacDonald, Naomi Raine, Hulvey And Richard Smallwood Tribute That Eric Alper",
+      "outlet": "That Eric Alper",
+      "outlet_url": "https://www.thatericalper.com",
+      "source_feed": "Google News: Tasha Cobbs Leonard",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-18T14:25:18Z",
+      "first_seen": "2026-09-18T15:06:42Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-19T03:06:42Z"
     },
     {
       "id": "a88eb9860d9c9d5a",
@@ -178,6 +194,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271963_w_550_275_600_276.jpg?v=20260918091126",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ed33bf0bb23ac074",
+      "title": "Lauren Daigle Nashville tickets on sale at Ryman Auditorium",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWxrOXlyMHR4M1lSMVVxY0RLT2tlOTNlbnJwYm1DeUxlWm1xQ0k2cjJ3NzlfampIV25EWUV5dDY0ZVAtRkhhblh5c21uWk9uVG1wNzZnNVdLV3ZVTk12MFVrM0FBeXRrN1NKQVpDZVpBWVh6TDFTS3RDN195MkNCb0EzeVMzYl9XZ3hnZWhOMlZOZXUwdXBkbnA4NA?oc=5",
+      "summary": "Lauren Daigle Nashville tickets on sale at Ryman Auditorium TicketNews",
+      "outlet": "TicketNews",
+      "outlet_url": "https://www.ticketnews.com",
+      "source_feed": "Google News: Lauren Daigle",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-18T12:59:18Z",
+      "first_seen": "2026-09-18T15:06:42Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -7973,6 +8005,22 @@
       "category": "church",
       "published": "2026-09-04T07:00:00Z",
       "first_seen": "2026-09-18T04:38:24Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f0a1c7f3f0cba39b",
+      "title": "Thousands to attend Christian Music Festival at Mineola Nature Preserve this weekend",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb3kyRFVZeWxpd05oXzh4aXJEdmF6SG1TWlBFUTR3ZTV0REZGYXN6Rk5EUnhmcTlPSUUyS0xiclNXNzIxdTVIMlltZ2h3bXhkOW9xMWp4SGxLYkVxTW5NZU9hY2UzN0tTRnItSlJfSEd4a29wczg3VkZmQVVsLWxzellxMG43WkROY0RNdkVzNFhGT3VmUHB2UFZaLUNXalkzWGtjb2hpRXYtTDZ6Z2l1X9IBxAFBVV95cUxNNFNpcl9mN2FuMl84a002TXBMbHgzQ2ktU202S2NkTzdFMVlZTklwSE9waUdIYkpjc1hwSkM0WWEwQU9wWXc4dzluWlJEUzdlU0RKWHJZM3pKTmZBVTBjYjdWcEtqd3lZb3IxOXJ2b3MyQjJlaW9rczVkUk1veXZBVW9FNGs0Smpvb3JRd042STRnUUEtWThpQkhvYTV2UzNYeDJpYk9pelhVYl9RNm9maGMtalBwZDBWUnZaZ1R1NjYySXlK?oc=5",
+      "summary": "Thousands to attend Christian Music Festival at Mineola Nature Preserve this weekend KLTV.com",
+      "outlet": "KLTV.com",
+      "outlet_url": "https://www.kltv.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-04T07:00:00Z",
+      "first_seen": "2026-09-18T15:06:42Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
