@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-18T13:06:03Z",
-  "story_count": 464,
-  "with_photo": 293,
+  "generated_at": "2026-09-18T13:37:41Z",
+  "story_count": 467,
+  "with_photo": 295,
   "items": [
+    {
+      "id": "912a956a0591b6a5",
+      "title": "Vatican tells UN: Hate speech is poison that leads to violence and persecution",
+      "link": "https://www.ewtnnews.com/vatican/vatican-tells-un-hate-speech-is-poison-that-leads-to-violence-and-persecution",
+      "summary": "Archbishop Christophe-Zakhia El-Kassis delivered his first address as the Holy See’s representative to the United Nations in New York on Sept. 17.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T13:11:48Z",
+      "first_seen": "2026-09-18T13:37:41Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1784986960/ewtn-news/en/shutterstock_2799890411-2_gr7jne.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e6a2bfbd7526fdd0",
+      "title": "Why Has God Given Us Warnings About World War 3, Global Famine, Horrifying Pestilences And Cataclysmic Natural Disasters?",
+      "link": "https://mycharisma.com/news/why-has-god-given-us-warnings-about-world-war-3-global-famine-horrifying-pestilences-and-cataclysmic-natural-disasters/",
+      "summary": "A lot of people look at all of the crazy things that are happening in our world today and they respond by getting fearful. But is that what God wants? I would suggest that fear is the exact opposite of how we should be responding to global events as they…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T12:47:18Z",
+      "first_seen": "2026-09-18T13:37:41Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/05/The-Revelation-of-Jesus-406x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "8626397cfe602305",
       "title": "Former megachurch pastor Robert Morris appears with black eye in new registry photo",
@@ -7251,6 +7289,22 @@
       "category": "church",
       "published": "2026-09-08T23:29:02Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cb2b985078dec206",
+      "title": "Kirk Franklin Inks Deal With Uptown Records, Gospel Legend Joins Diverse Label",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHZiVVpSQjdBenhpWHRkekhLbkVDanB5ZjVCTk80WjZYcV80UVNwX0tyZVhQcjU0R3lnRDJBd0ZHOGh4UDNFdzBzTUdJTkRkZkp3b0cyaDVXX0xCNVk0WDQyNjJpeXcyZ2gydHBwWUx3T2lXUlV3S3BKZ0N1a1VoV2NkZHlqMkwyeWd0U3JVdzFBakxZTHBFVzNIMFlWeHFYX0NFaUQ3bU9SNi1HLXpOT2pUY9IBuAFBVV95cUxPLU52Vnh1UF9UcEJHLUR6T0QxTFplblRDMHJINzRJVWlxNWh3VmotcDlDeVhtaWpvcVBrQWh2bzJKSllWUG5kUlVhRXIxeXhrQVpVcGpSOW14ajY0cGVBdXpqWnh5dXV0OGJCc2FieVo1XzhqV20zZGIxdmR3ZVgtX0F1T0VhUVpQQU9JajJ3ank5aExKeDBmWDRCci0wVEw3YVBQdHdudEZ5dkV1MjZKc2NzTzRyemhF?oc=5",
+      "summary": "Kirk Franklin Inks Deal With Uptown Records, Gospel Legend Joins Diverse Label That Grape Juice.net",
+      "outlet": "That Grape Juice.net",
+      "outlet_url": "https://thatgrapejuice.net",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-08T22:46:22Z",
+      "first_seen": "2026-09-18T13:37:41Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
