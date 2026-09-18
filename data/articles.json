@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T05:06:16Z",
-  "story_count": 444,
+  "generated_at": "2026-09-18T05:37:02Z",
+  "story_count": 445,
   "with_photo": 278,
   "items": [
     {
@@ -59,6 +59,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "d719773578c5aea5",
+      "title": "After Kenny Lattimore, SRG Embroiled in New Legal Battle with Erica Campbell",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORnk0NjdZdXNLVW1tVEt6NVoxTGRwU29tVDF1VEhOTFhPRnh2TTBuSnZkUUNZOXNKWl9rZVdhSFlaX2hFU3lQakxVdUE1eWt6OWRySlhCMWdLaldpWGtUNjVTS3FtNE5sSzQ1b0x3dDh3bXFaaEpkbW90a204Tk56Y1Z3?oc=5",
+      "summary": "After Kenny Lattimore, SRG Embroiled in New Legal Battle with Erica Campbell Digital Music News",
+      "outlet": "Digital Music News",
+      "outlet_url": "https://www.digitalmusicnews.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-18T04:45:50Z",
+      "first_seen": "2026-09-18T05:37:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-18T17:37:02Z"
     },
     {
       "id": "d84efe9ed31fd77a",
