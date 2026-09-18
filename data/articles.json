@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T22:06:46Z",
-  "story_count": 528,
+  "generated_at": "2026-09-18T22:36:31Z",
+  "story_count": 529,
   "with_photo": 335,
   "items": [
     {
@@ -9420,6 +9420,22 @@
       "category": "church",
       "published": "2026-08-31T07:00:00Z",
       "first_seen": "2026-09-17T10:07:50Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "890985ccec2e0b33",
+      "title": "‘Blow My Mind’: Gospel’s Biggest Stars Reveal To Us What They’re 'Expecting God To Do This Season' At The 41st Annual Gospel Stellar Awards",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYkw1NDhaM1ZzM09hRk11UzgyMXNYV0UyUWdtWGYtbVVpc2xkZDBwQmhMdmNSekd2RXRJMVhpWVdJYWNiMU9mdlJHemN5bUR0OFkxUE40VWZ5OE8xYkhfY1YxU2FCeFBZTl9WclZqZXRHZ3d0QTRWay0xMEF2NUN6bUMtQl9vT3JXVE0yTW1GS1pUOXFTazhPWlZlUVF3RnJiMUhBOHhFSm1rWnV4M2xzV3ItRWo1SUpNbVpiVEQ5RXEyNmloMnZKQmtmNlFNR1MxVG9tWmc2eGk4em1kelBFMXdRbXBFQzNuWklwV0M5RWlOS2stS1FaUDdodWFiUQ?oc=5",
+      "summary": "‘Blow My Mind’: Gospel’s Biggest Stars Reveal To Us What They’re 'Expecting God To Do This Season' At The 41st Annual Gospel Stellar Awards The Black Wall Street Times",
+      "outlet": "The Black Wall Street Times",
+      "outlet_url": "https://theblackwallsttimes.com",
+      "source_feed": "Google News: Ricky Dillard",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-08-30T23:09:19Z",
+      "first_seen": "2026-09-18T22:36:31Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
