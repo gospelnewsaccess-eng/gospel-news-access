@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-18T12:08:33Z",
-  "story_count": 460,
-  "with_photo": 291,
+  "generated_at": "2026-09-18T12:41:19Z",
+  "story_count": 465,
+  "with_photo": 294,
   "items": [
+    {
+      "id": "8626397cfe602305",
+      "title": "Former megachurch pastor Robert Morris appears with black eye in new registry photo",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSW8xaGZMNW8tYkl4VENMYzhPMXdfSWxlZ3oxRUFZM0JVSjl4WFhZMjJUTnRtaVZLUFJWTWgzbnlhWGxDRldHQk02R3R4OTB4S3JTbkJZTTlVVFVGaml2RG40R1BnTzZjdjlSckRteHBmN0pCaEF4dF82V09TVjgzTmZTeEVkSVJXQmd0UkZBTk1KcFpBbFFPbHdPWVk0M2Y4UGs4ZnhCWFl5Q3plY1VOQmV1RGhjZWotcTdIa09ITWphMWlFMnQw?oc=5",
+      "summary": "Former megachurch pastor Robert Morris appears with black eye in new registry photo premierchristian.news",
+      "outlet": "premierchristian.news",
+      "outlet_url": "https://premierchristian.news",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-18T12:33:46Z",
+      "first_seen": "2026-09-18T12:41:19Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-19T00:41:19Z"
+    },
+    {
+      "id": "5ff74a726e78178c",
+      "title": "JUSTCORDELL Talks New Music, Love and His One Voyage Cruise Debut",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMmZxV3JsaGE5MFFxWmtTc2k2WVNhNENxVW5Eam5yNmpTRklHSmh5R1VQM0RLUVNEM2pEMzZOeFdvNFNLVG5QVUtSMUNpbHFtTElzQXNESzRSM3hTZTJUa3FyWXd0TnZxc0pqVzNjRVpiRTRFUm1hS1haOERzRGsxVkRIMUNpY09mRFkzZFk1QXNmVXJLRHNwU1VSQmw?oc=5",
+      "summary": "JUSTCORDELL Talks New Music, Love and His One Voyage Cruise Debut Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-18T12:14:48Z",
+      "first_seen": "2026-09-18T12:41:19Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-19T00:41:19Z"
+    },
+    {
+      "id": "01f892211cdbd6db",
+      "title": "Drake Just Remixed Ella Langley's Record-Tying Hit \"Choosin' Texas\"",
+      "link": "https://www.jubileecast.com/articles/39527/20260918/drake-remixes-ella-langley-choosin-texas.htm",
+      "summary": "Drake Just Remixed Ella Langley's Record-Tying Hit \"Choosin' Texas\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T12:12:04Z",
+      "first_seen": "2026-09-18T12:41:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30052/drake.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "28741c4f2c15b086",
+      "title": "Morgan Wallen Just Landed on the GTA VI Soundtrack: Here's the New Song",
+      "link": "https://www.jubileecast.com/articles/39526/20260918/morgan-wallen-gta-6-soundtrack-last-thing-you-need.htm",
+      "summary": "Morgan Wallen Just Landed on the GTA VI Soundtrack: Here's the New Song",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T12:00:36Z",
+      "first_seen": "2026-09-18T12:41:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31852/grand-theft.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "60980f5bbe0c0f34",
+      "title": "White House touts list of ‘victories’ for people of faith",
+      "link": "https://www.ewtnnews.com/world/us/white-house-issues-list-of-250-victories-for-people-of-faith",
+      "summary": "The Trump administration is highlighting its efforts on the faith front, including protecting religious liberty, defending houses of worship, expanding school choice and restoring biological truth.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T12:00:00Z",
+      "first_seen": "2026-09-18T12:41:19Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789686603/ewtn-news/en/Jenny.Korn.Sept.2026_xhgjgd.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "093020e814dbb62b",
       "title": "Allan Scott Releases New Christian Single “Foxhole Prayers”",
