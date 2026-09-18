@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-18T00:09:03Z",
-  "story_count": 425,
-  "with_photo": 263,
+  "generated_at": "2026-09-18T00:41:04Z",
+  "story_count": 428,
+  "with_photo": 266,
   "items": [
+    {
+      "id": "e405abd02c532716",
+      "title": "Who Was Sway DaSafo? Remembering the UK Rap Pioneer Who Died at 44",
+      "link": "https://www.jubileecast.com/articles/39513/20260917/sway-dasafo-uk-rapper-dies-at-44.htm",
+      "summary": "Who Was Sway DaSafo? Remembering the UK Rap Pioneer Who Died at 44",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T00:41:32Z",
+      "first_seen": "2026-09-18T00:41:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31846/sway-dasafo.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3f227525f61a11f9",
+      "title": "Tay Keith's Cause of Death Confirmed: What the Autopsy Report Says",
+      "link": "https://www.jubileecast.com/articles/39512/20260917/tay-keith-cause-of-death-revealed-autopsy.htm",
+      "summary": "Tay Keith's Cause of Death Confirmed: What the Autopsy Report Says",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T00:09:04Z",
+      "first_seen": "2026-09-18T00:41:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30606/tay-keith.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7e515792c7b1524c",
+      "title": "What Happened to Debby Ryan? Inside the \"Life-Altering\" Brain Injury She Just Revealed",
+      "link": "https://www.jubileecast.com/articles/39511/20260917/debby-ryan-life-altering-brain-injury-reveal.htm",
+      "summary": "What Happened to Debby Ryan? Inside the \"Life-Altering\" Brain Injury She Just Revealed",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-18T00:00:56Z",
+      "first_seen": "2026-09-18T00:41:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31845/debby-ryan.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "4a17ddbe16ddeba3",
       "title": "Erica Campbell’s Label Sues Distributor Over Gospel Music Royalties",
