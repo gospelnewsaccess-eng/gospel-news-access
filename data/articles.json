@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T23:06:33Z",
-  "story_count": 531,
-  "with_photo": 335,
+  "generated_at": "2026-09-18T23:35:30Z",
+  "story_count": 534,
+  "with_photo": 336,
   "items": [
     {
       "id": "467ca9eac1e81c74",
@@ -520,6 +520,38 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789745006/ewtn-news/en/shutterstock_2258801321-2_tiailz.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d75e1f4b62bad9d5",
+      "title": "Eri Ife Centers Faith on Afrobeats EP ‘Rubicon’",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRWFkZlpjYklFTDVVdHF3SkVDN00tLUhFQmhFYnh0TXdNS0NmYVRJQnVBSVF0X3hWR0xackNDemt3aWdXeElXY1NzdzFPNTczTkdUc3FnMnV3X2dzbGdaWkh5UGhRR2xUaUpSN2M1TC1CdXdPLTE0N2JRVWUxZVR0WGhPTkg?oc=5",
+      "summary": "Eri Ife Centers Faith on Afrobeats EP ‘Rubicon’ The Hype Magazine",
+      "outlet": "The Hype Magazine",
+      "outlet_url": "https://www.thehypemagazine.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-18T17:17:52Z",
+      "first_seen": "2026-09-18T23:35:30Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dd5ae634a0c9f3e3",
+      "title": "Eri Ife – Afro Gospel Artist – Image 2026",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbXI0bjJmamNwVmo2OWx5Vm90WW1YdUt0c21PZmR2ZTNEdjA1Y2lBbVRxYlo5bGtsYlh0Q2E3SlhrMFBlaUVyOU0zOE40MGZKZ2U0WkI5SjlZNjJQcks4X3dzUWpvUXhuazhabEdtQU1xUDYzWWhrdV90T1JiNEFfaDd3YV8xUFBOUWpaX2Z3M1R6RmNPYkxEeHR0QjN6ZWM0dHJwb1pTWjJvYnNzVGNVOTdlMloxVkU?oc=5",
+      "summary": "Eri Ife – Afro Gospel Artist – Image 2026 The Hype Magazine",
+      "outlet": "The Hype Magazine",
+      "outlet_url": "https://www.thehypemagazine.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-18T17:06:06Z",
+      "first_seen": "2026-09-18T23:35:30Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -5905,7 +5937,10 @@
       "category": "church",
       "published": "2026-09-15T22:42:54Z",
       "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
+      "image": {
+        "url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -8085,6 +8120,22 @@
       "category": "artist",
       "published": "2026-09-10T13:31:44Z",
       "first_seen": "2026-09-17T06:30:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "865b146b3c9265b1",
+      "title": "Kirk Franklin",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmUmZVMHlGMzU3b3AyRGdFbzc2c0lGc2Z5Snk2SlVkdWxUU0RobU90QWh6b2pkVGxpbzNUWDk0UGE1a1RvV01kdkcxS2dGNnpuaExrRXEySGNoTHFLS0ow?oc=5",
+      "summary": "Kirk Franklin Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-10T07:00:00Z",
+      "first_seen": "2026-09-18T23:35:30Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
