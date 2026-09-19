@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T20:06:43Z",
-  "story_count": 591,
-  "with_photo": 383,
+  "generated_at": "2026-09-19T20:36:41Z",
+  "story_count": 593,
+  "with_photo": 384,
   "items": [
     {
       "id": "29e2585b5fdf4c0e",
@@ -18,6 +18,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-20T07:34:14Z"
+    },
+    {
+      "id": "5489e4d08327efa6",
+      "title": "JD Vance slams Adam Hamilton for supporting LGBT event linked to 'anti-Christian' drag troupe",
+      "link": "https://www.christianpost.com/news/jd-vance-slams-umc-pastor-democratic-candidate-adam-hamilton.html",
+      "summary": "Vice President JD Vance is publicly criticizing a prominent United Methodist Church pastor for supporting what he calls an \"anti-Christian” drag troupe.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T19:10:59Z",
+      "first_seen": "2026-09-19T20:36:41Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271980_w_550_367_608_217.jpg?v=20260919151109",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "2c8ee587fc9f62cf",
@@ -1556,6 +1575,22 @@
       "category": "gospel",
       "published": "2026-09-18T17:06:06Z",
       "first_seen": "2026-09-18T23:35:30Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1eba48337677c3e4",
+      "title": "Carman, Christian Music Icon and Gospel Music Hall of Famer Dies at 65",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96V1NPTGxEYlB0Z216LWdmblBCemxPMXJFS2V5NXdXMXgzRS1YTDFiekZXZm9lcDE4cnEySGdpZGNQM25SckxxX0trVlBkN3VYbU93?oc=5",
+      "summary": "Carman, Christian Music Icon and Gospel Music Hall of Famer Dies at 65 The Roys Report",
+      "outlet": "The Roys Report",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-18T17:02:07Z",
+      "first_seen": "2026-09-19T20:36:41Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
