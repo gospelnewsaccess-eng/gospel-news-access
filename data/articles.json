@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-19T05:06:35Z",
-  "story_count": 542,
+  "generated_at": "2026-09-19T05:36:14Z",
+  "story_count": 544,
   "with_photo": 342,
   "items": [
+    {
+      "id": "c22442830aee9e02",
+      "title": "New format unveiled for Sterling Gospel Music Awards",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmNybnBQbWdkYXBJT0pzRmhOSjZrS3VyZmlzLXlhSXp5XzMwa1E4djNMV2ZndWl0RExCLXdoaDR6cjFsd1B2R0c4NXVQMEZaRXNmWDI2WHl2RFkzTXllNGQ5WmRXZXV1aGFPMGcxV2ZWZ3lla2NRenhVZDZDWEpjaFdGSGpoZExUMVE2cFNaQXpJaWE1dXl3bFJ6QUFRejliQldhV2ZFdUMwQ0U?oc=5",
+      "summary": "New format unveiled for Sterling Gospel Music Awards Jamaica Gleaner",
+      "outlet": "Jamaica Gleaner",
+      "outlet_url": "https://jamaica-gleaner.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-19T05:06:26Z",
+      "first_seen": "2026-09-19T05:36:14Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-19T17:36:14Z"
+    },
     {
       "id": "62ca7ca071b32ccd",
       "title": "Set For The Fall Releases New Album I Said What I Said After Seven-Year Wait",
@@ -1037,6 +1053,22 @@
       "category": "gospel-trade",
       "published": "2026-09-18T14:24:01Z",
       "first_seen": "2026-09-18T14:38:12Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7c50994bce2a1301",
+      "title": "Ernie Haase and Signature Sound: “An Evening of Patriotic & Gospel Songs” - SOLD OUT! - Chronicle-Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQ2Rvd2l5Zkd5Y09pM0JmbEdrRVZSOEJDdFFhb2FROEVwaHI5NEVBMG1pdWxZUGhOSXNQX041MFNWdlNEM3B4OHY5WHRmaURvYUplMnhoYXU0WFpmaFkyTXpBRDdWMGZYVGRIR0hFU3NPTVRyc21vX3Q3UERGSktuVzJGOXpSbVRiU1Rxc1hBck03dURXZ1kwZUtjQlJQU2tKRVhHZXpfQ2QzeEt6NmU3NWFGc2FSX051MVJNWmVtNHJQdXlodENzZ3UzX3FYV1cySG9qc1dKYWl4d01GZ2tGWDIwRnFoY19lMVB0U1RmbVo?oc=5",
+      "summary": "Ernie Haase and Signature Sound: “An Evening of Patriotic & Gospel Songs” - SOLD OUT! Chronicle-Tribune",
+      "outlet": "Chronicle-Tribune",
+      "outlet_url": "https://chronicle-tribune.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-18T14:21:41Z",
+      "first_seen": "2026-09-19T05:36:14Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
