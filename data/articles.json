@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T17:06:06Z",
-  "story_count": 582,
+  "generated_at": "2026-09-19T17:34:15Z",
+  "story_count": 583,
   "with_photo": 379,
   "items": [
     {
@@ -247,6 +247,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271981_w_550_345_485_257.jpg?v=20260919082446",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "12ca55b0642cf95b",
+      "title": "(BPRW) God Behind Bars Named Inaugural Recipient of First-Ever Community Impact Award for Peace & Purpose, Presented By Jesus Calling",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPX0FxQkp5eTJsd0hzUHhuQmUySHBOU2czTFByMV96MWtid3pkRzVSZE9oZV9KSHlad0ZUOFN0R0JCdFpsY2xNTmZ0eE9uVFlKWk0xNXdTN2ZkeWt4Y0pUSnhndU5GcmppS01IcXlTZzRnR09yNmZWZzZxWVhEWmN2TnpqOTZvazJPTlRsU0VqVllpclJXdC1VSHJOekNmRVlTWUktSnI3ck1xbHZ3TUxrZzNCVzFRckxQX1ltSnJ2UGdWZ1paajhoZ2dNXzA1Nml3OUVwWVhEMWxZMTB4dkhSa3BPRkVQM0ZhSXkwUXA2dFBuSTNWenZTU2tScC1UZUtK?oc=5",
+      "summary": "(BPRW) God Behind Bars Named Inaugural Recipient of First-Ever Community Impact Award for Peace & Purpose, Presented By Jesus Calling Black PR Wire",
+      "outlet": "Black PR Wire",
+      "outlet_url": "https://www.blackprwire.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-19T11:15:19Z",
+      "first_seen": "2026-09-19T17:34:15Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
