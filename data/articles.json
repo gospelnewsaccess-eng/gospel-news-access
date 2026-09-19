@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-19T01:06:06Z",
-  "story_count": 534,
-  "with_photo": 336,
+  "generated_at": "2026-09-19T01:37:12Z",
+  "story_count": 540,
+  "with_photo": 340,
   "items": [
+    {
+      "id": "1463356f2a15055a",
+      "title": "The Slower I Go Releases “Love Made a Way,” a New Worship Anthem of Freedom From Fear",
+      "link": "https://www.jubileecast.com/articles/39540/20260918/the-slower-i-go-love-made-a-way.htm",
+      "summary": "The Slower I Go Releases “Love Made a Way,” a New Worship Anthem of Freedom From Fear",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T01:42:06Z",
+      "first_seen": "2026-09-19T01:37:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31859/the-slower-i-go.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e6c33c6820b96ca3",
+      "title": "Josh Grove Releases “I’m Done Running,” a New Song About Surrender and Finding Peace in God",
+      "link": "https://www.jubileecast.com/articles/39539/20260918/josh-grove-im-done-running.htm",
+      "summary": "Josh Grove Releases “I’m Done Running,” a New Song About Surrender and Finding Peace in God",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T01:38:47Z",
+      "first_seen": "2026-09-19T01:37:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31858/josh-grove.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6b9c757ca36847ba",
+      "title": "Ellie Holcomb Releases New Single “Flowers For No Reason” Celebrating God’s Everyday Love",
+      "link": "https://www.jubileecast.com/articles/39538/20260918/ellie-holcomb-flowers-for-no-reason.htm",
+      "summary": "Ellie Holcomb Releases New Single “Flowers For No Reason” Celebrating God’s Everyday Love",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T01:35:01Z",
+      "first_seen": "2026-09-19T01:37:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31857/ellie-holcomb.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "120881dc2fdeb92c",
+      "title": "Holly Brand Releases Personal New Song “Enough For Me” About Finding Satisfaction in Jesus",
+      "link": "https://www.jubileecast.com/articles/39537/20260918/holly-brand-enough-for-me.htm",
+      "summary": "Holly Brand Releases Personal New Song “Enough For Me” About Finding Satisfaction in Jesus",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T01:31:10Z",
+      "first_seen": "2026-09-19T01:37:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31856/holly-brand.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "467ca9eac1e81c74",
       "title": "For American Jews divided over Israel, Yom Kippur is a test of families and community",
@@ -8902,6 +8978,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "bd4a03f7c632520e",
+      "title": "Tasha Cobbs Leonard & Le’andria Johnson Bring The Room To Its Feet In Soul-Baring “You Know My Name”Live Performance",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZjltbzRRbHJrTlBnN3drRzJRellUajJVY0tpRkhTVFhXM3ZkeFpsb0RVOUQ3SDBSNlBkOVc5c3NjOVJEX1lVVElURHlXMnRQdlhIel9zRlRiMjA4Snh2QlBweVMzZFRYSTJ5dW0xVTdNRERCeHFLZTNvXzVaZTl0Wjd6dENxNzlzbFZZU1NFS2ViWGRmSDFUSHlZUGlGdVFwclNhalBRM3lYY3JSb3RhbEhRdDkwSVZOenF0NEp3cG1RMVc2cUhPYzRkRWtzbWFlQVZyZklLVWFKLURJQzQwZw?oc=5",
+      "summary": "Tasha Cobbs Leonard & Le’andria Johnson Bring The Room To Its Feet In Soul-Baring “You Know My Name”Live Performance Shore Fire Media",
+      "outlet": "Shore Fire Media",
+      "outlet_url": "https://shorefire.com",
+      "source_feed": "Google News: Le'Andria Johnson",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-04T17:59:41Z",
+      "first_seen": "2026-09-19T01:37:12Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "813092fb7569cb3f",
       "title": "Four-part harmony highlights evening of gospel music at Topeka church",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPakw1MWpGMzJrTHNjN0tDOWk3ZzhNUHp1MXBqdDhwMDRaRUd1czItR0RFQ0N1T0VKRURRNExHU3dFLWN6RG5faFlYVHdIcVQ1WHluSXdhM0ZFWnV1eF9vM21lZFJpMkdEb1QxOVMxQUN0M1RtOFZldUdqd25ER3pVeVlTUG5vN2xLb2VaNjRfbGRPYW4yX0VEWHRRYnbSAbABQVVfeXFMTV9URFVKaHdQZkZRWXVHdDVVV1lNTzRsNnVNUURZVUY1OEtjOF9CRGw3WE1pcWlxTDRjbHFEM3dSeW02eEpZU0xzMzZzV01Tc19faXdoOFcyUmV1TWNRNjRzOGFDaVJxZWRueC03N1hKZElfM29ycmhkMzgzTlZSZFp2ZEdQNnlpVzEzN3NRN1FDd0YyZU5ZeUFoeEFGU0hZZi00bzRQaGxyRDR3aTh1ay0?oc=5",
@@ -9503,6 +9595,22 @@
       "category": "church",
       "published": "2026-08-31T07:00:00Z",
       "first_seen": "2026-09-18T23:06:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b70e10c3961f45b1",
+      "title": "Tank Announces New Album ‘Experience’ / Drops New Songs ‘Highlight’ & ‘H...",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeWR4RU5iaEFMS1kwVGFNcVFGTUJCRUJhWm45U3hqNnpDU3hqWGRKdjdraFB0WkZpUGRybm5UNXktVjJQQlZUU3kxQ1V6RUxod0xfRW5TNFd2cUU2ZHdHc21ZalNrMHN0Q19iTUNfZnpNRzFDbDZHemRxYWdsaFlMdXdfVnpmazVhZlJMMENEaUFkNVFoa3BBbG5GRy1lUnhjUmI4aE9sck51dDZ2dy1DSGF0ZmdhRXJtcHRsajFZYTJvN3BFejRwQ3FHLUFCMElJeHdsb01IZ0JvZVBDUG5WQlJNQjBucGU3em1RaFkwZEYzNW16amZn0gH8AUFVX3lxTE53RjUwRHhrdDd3dEQzWEFHTVk0cXhiRUF0ekJvREJIREhDcTZ5dXQ3OUY4V0d5bEhwWFF6Mnl0VDNDT0R5eWwyV1dld2dHVE44V2tzem5NVXExd0cyOTBlc3RQZ0s1QzlPZ0dxRG9ENmFVVkphSktUZDdNX245djljRVc2RWtuMzRVSjZmc0xPYjZ3VkxVQ3pHR3VrMjdiZUtKODhEYV95Z1pabFdySW15WGVDcTBwUjJpSXN3MjdmVzRUWXJ4SExPVnQ0ZTlqNGpLVndkWExwbFhGVGVwU3JPZDFGSnBFeDdvUzZVbEc4eTFOemJYcU85VTk1ZA?oc=5",
+      "summary": "Tank Announces New Album ‘Experience’ / Drops New Songs ‘Highlight’ & ‘H... That Grape Juice.net",
+      "outlet": "That Grape Juice.net",
+      "outlet_url": "https://thatgrapejuice.net",
+      "source_feed": "Google News: Zacardi Cortez",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-08-31T07:00:00Z",
+      "first_seen": "2026-09-19T01:37:12Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
