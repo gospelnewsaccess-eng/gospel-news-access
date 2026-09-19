@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-19T11:06:01Z",
-  "story_count": 563,
-  "with_photo": 360,
+  "generated_at": "2026-09-19T11:35:18Z",
+  "story_count": 568,
+  "with_photo": 365,
   "items": [
+    {
+      "id": "1a4cb401fa82c2ac",
+      "title": "Dearborn Mayor Told Christian Pastor He’s ‘Not Welcome’ in City Now Facing Federal Lawsuit",
+      "link": "https://mycharisma.com/news/dearborn-mayor-told-christian-pastor-hes-not-welcome-in-city-now-facing-federal-lawsuit/",
+      "summary": "A public interest law firm is taking the city of Dearborn, Michigan, to court over allegations that officials have spent taxpayer money promoting Islam while refusing to extend the same recognition to Christian and Jewish holidays. The American Freedom Law…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T11:30:00Z",
+      "first_seen": "2026-09-19T11:35:18Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dfc24f5d15afe1ac",
+      "title": "Pope to Special Olympics: 'As you know, I too am very fond of sport'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-special-olympics-delegation.html",
+      "summary": "Addressing a delegation from the Special Olympics, Pope Leo XIV recalls his own great fondness of sports and invites them to live holy lives following the example of St. Pier Giorgio Frassati, 'who, in love with Jesus, knew how to translate values of sport…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T11:02:15Z",
+      "first_seen": "2026-09-19T11:35:18Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/19/12/1789814998458.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f258f5e7caa5e0a2",
+      "title": "Poverty Rate Hits Lowest Recorded Level",
+      "link": "https://mycharisma.com/news/poverty-rate-hits-lowest-recorded-level/",
+      "summary": "The U.S. poverty rate fell to its lowest recorded level, the Census Bureau announced. The data, tracking numbers from 2025, reveal that the poverty rate fell 0.5% to 10.2% and consists of about 34.5 million Americans. The data represents the second…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T11:00:00Z",
+      "first_seen": "2026-09-19T11:35:18Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-05-145400.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "205366e0c183ac6a",
+      "title": "From ‘Farmer Wants a Wife’ to Catholic content creator: John Sansone’s journey of faith",
+      "link": "https://www.ewtnnews.com/world/us/from-farmer-wants-a-wife-to-catholic-content-creator-john-sansone-s-journey-of-faith",
+      "summary": "After appearing on “Farmer Wants a Wife,” John Sansone is using his growing social media platform to share relatable Catholic content and encourage others in their faith.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T11:00:00Z",
+      "first_seen": "2026-09-19T11:35:18Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789662601/ewtn-news/en/johnsansonefeatured_jyanz5.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4e7dd14ba8045811",
+      "title": "Beyond divisions: Renovabis’ challenge to rebuild society",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/beyond-divisions-renovabis-challenge-to-rebuild-society.html",
+      "summary": "The 30th Congress of the German Catholic aid organization “Renovabis” concluded Friday, 18 September, in Freising, Germany. More than 200 experts from 26 countries discussed polarization, digital echo chambers, and the role of the Churches in building social…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T10:36:00Z",
+      "first_seen": "2026-09-19T11:35:18Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/17/frisinga-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "f4523c70a5dea0b0",
       "title": "‘Annihilate’ Iran? Trump Cites Major Decision Upcoming Amid Evidence of Iran Nuclear Rebuild",
