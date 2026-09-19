@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-19T16:06:31Z",
-  "story_count": 581,
-  "with_photo": 378,
+  "generated_at": "2026-09-19T16:37:06Z",
+  "story_count": 582,
+  "with_photo": 379,
   "items": [
+    {
+      "id": "ad9f63adcc839ae1",
+      "title": "Russia votes in first parliamentary election since Ukraine invasion",
+      "link": "https://www.vaticannews.va/en/world/news/2026-09/russia-votes-in-parliamentary-election.html",
+      "summary": "Russians are voting in a three-day parliamentary election, the first since Moscow launched its full-scale invasion of Ukraine more than four years ago, amid continuing fighting and reported attacks on Russia’s electoral infrastructure. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T15:01:00Z",
+      "first_seen": "2026-09-19T16:37:06Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/19/16/1789827902665.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "b34785ffdeb0d0b7",
       "title": "Ahead of Yom Kippur, U.S. bishops highlight ‘deep spiritual bonds’ between Catholics, Jews",
