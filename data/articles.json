@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-19T22:06:32Z",
-  "story_count": 594,
-  "with_photo": 385,
+  "generated_at": "2026-09-19T22:35:28Z",
+  "story_count": 596,
+  "with_photo": 389,
   "items": [
+    {
+      "id": "292c368e8dd2542d",
+      "title": "The Defiant Divine Journey of the Rev. Dr. Molly Marshall",
+      "link": "https://religionnews.com/2026/09/19/the-defiant-divine-journey-of-the-rev-dr-molly-marshall/",
+      "summary": "A feminist theologian, educator, and preacher, Dr. Marshall is president of United Theological Seminary of the Twin Cities.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T22:05:39Z",
+      "first_seen": "2026-09-19T22:35:28Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/RNS_Landscape_091926.png",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "00094aa866a0a586",
+      "title": "UN experts demand Iran explain seizure of oldest Protestant church, eviction of Christians",
+      "link": "https://www.christianpost.com/news/un-experts-press-iran-on-church-seizure-eviction-of-christians.html",
+      "summary": "Two U.N. experts have demanded Iran explain the confiscation of the country’s oldest Protestant church, it has emerged.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T21:50:23Z",
+      "first_seen": "2026-09-19T22:35:28Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271987_w_550_235_612_236.jpg?v=20260919175144",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2d1ed0d8eb1f84a8",
       "title": "Archbishop Lori tells women religious: ‘The Church looks to you with hope’",
@@ -2071,7 +2109,10 @@
       "category": "faith",
       "published": "2026-09-18T13:46:02Z",
       "first_seen": "2026-09-18T14:38:12Z",
-      "image": null,
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/Unknown.jpeg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -3001,7 +3042,10 @@
       "category": "faith",
       "published": "2026-09-17T21:51:35Z",
       "first_seen": "2026-09-17T22:34:33Z",
-      "image": null,
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/webRNS-Artificial-Intelligence-Robot1.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
