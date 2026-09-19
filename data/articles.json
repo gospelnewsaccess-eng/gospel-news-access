@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-19T18:07:49Z",
-  "story_count": 583,
-  "with_photo": 379,
+  "generated_at": "2026-09-19T18:38:10Z",
+  "story_count": 585,
+  "with_photo": 380,
   "items": [
+    {
+      "id": "7e95056310ae176c",
+      "title": "AI Actress Tilly Norwood Glitches Mid-Interview With Piers Morgan: Proof AI Can't Replace Actors?",
+      "link": "https://www.jubileecast.com/articles/39561/20260919/tilly-norwood-ai-actress-glitches-piers-morgan-interview.htm",
+      "summary": "AI Actress Tilly Norwood Glitches Mid-Interview With Piers Morgan: Proof AI Can't Replace Actors?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T18:28:26Z",
+      "first_seen": "2026-09-19T18:38:10Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30865/tilly-norwood.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8fe8da2a01ace39a",
+      "title": "Markers unveiled at Sunset Cemetery honoring lives in unmarked graves",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVklia0dycEdqeTZZZ0RRRmVZT0F5bk5uTjc0VWdxRjRYek1OUG9URTdKRHlOZlpYaFJ1d2JMTWhNU1pPeGtmQXNyTXNSaXliOHVkMEdudDBCZi1hRHhiMzVYcm9LdnJFWEVTVXdRUlI1bFZfTlppOFplcXB5bjFoREdrSWRJTVNqWkxGRmNNMkwweGREZU9UNzdfeHVveENRcnl2aXdHdUtkdXlGaWFUMXd3UjlPcHN2dTVRTFJ0WjJnSWdKcnZzTjNEeTZRRVhtd0ZIQ3N3QQ?oc=5",
+      "summary": "Markers unveiled at Sunset Cemetery honoring lives in unmarked graves Shelby Star",
+      "outlet": "Shelby Star",
+      "outlet_url": "https://www.shelbystar.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-19T18:26:00Z",
+      "first_seen": "2026-09-19T18:38:10Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-20T06:38:10Z"
+    },
     {
       "id": "ad9f63adcc839ae1",
       "title": "Russia votes in first parliamentary election since Ukraine invasion",
