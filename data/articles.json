@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T15:06:30Z",
+  "generated_at": "2026-09-19T15:35:41Z",
   "story_count": 581,
-  "with_photo": 377,
+  "with_photo": 378,
   "items": [
     {
       "id": "b34785ffdeb0d0b7",
@@ -1235,7 +1235,10 @@
       "category": "gospel-trade",
       "published": "2026-09-18T18:52:22Z",
       "first_seen": "2026-09-18T19:07:08Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/18145155/3-Picture-Template-Article-1-1.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
