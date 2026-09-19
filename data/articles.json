@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-19T21:06:32Z",
-  "story_count": 593,
-  "with_photo": 384,
+  "generated_at": "2026-09-19T21:35:21Z",
+  "story_count": 594,
+  "with_photo": 385,
   "items": [
+    {
+      "id": "2d1ed0d8eb1f84a8",
+      "title": "Archbishop Lori tells women religious: ‘The Church looks to you with hope’",
+      "link": "https://www.ewtnnews.com/world/us/archbishop-lori-tells-women-religious-the-church-looks-to-you-with-hope",
+      "summary": "The Baltimore archbishop gave the keynote address to the Council of Major Superiors of Women Religious meeting in Missouri.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T20:29:28Z",
+      "first_seen": "2026-09-19T21:35:21Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789849986/ewtn-news/en/GettyImages-1165806918_vactd6.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "29e2585b5fdf4c0e",
       "title": "Monroe County Reporter Events - Howard Gripp: Soulful Country Gospel Music Awards & Inspired Artist Showcase",
