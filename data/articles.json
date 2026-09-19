@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-09-19T12:07:56Z",
-  "story_count": 568,
-  "with_photo": 365,
+  "generated_at": "2026-09-19T12:40:08Z",
+  "story_count": 575,
+  "with_photo": 372,
   "items": [
+    {
+      "id": "87c0202c95453d24",
+      "title": "Is Simon Cowell Coming Back for the AGT Finale? Judges Say They Don't Know Either",
+      "link": "https://www.jubileecast.com/articles/39558/20260919/simon-cowell-agt-finale-return-judges-dont-know-plans.htm",
+      "summary": "Is Simon Cowell Coming Back for the AGT Finale? Judges Say They Don't Know Either",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T12:18:52Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31524/simon-cowell.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "54404a91a3067e92",
+      "title": "Olympic Medalist Elizabeth Beisel Is On Tour, Not for Swimming: Playing Violin for Judah & the Lion's National Tour",
+      "link": "https://www.jubileecast.com/articles/39557/20260919/elizabeth-beisel-olympic-swimmer-violin-tour-judah-and-the-lion.htm",
+      "summary": "Olympic Medalist Elizabeth Beisel Is On Tour, Not for Swimming: Playing Violin for Judah & the Lion's National Tour",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T12:18:45Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31869/elizabeth-beisel.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7c87097810b79bfa",
+      "title": "Miley Cyrus Opens Up: What Dolly Parton Told Her in Their Final Talk",
+      "link": "https://www.jubileecast.com/articles/39556/20260919/miley-cyrus-opens-up-dolly-parton-final-talk.htm",
+      "summary": "Miley Cyrus Opens Up: What Dolly Parton Told Her in Their Final Talk",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T12:18:34Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31535/miley-cyrus-and-dolly-parton.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fc0d8a4f167c8094",
+      "title": "iHeartRadio Music Festival 2026: Tonight's Full Lineup, Start Time and How to Watch",
+      "link": "https://www.jubileecast.com/articles/39552/20260919/iheartradio-music-festival-2026-tonight-lineup-start-time-how-to-watch.htm",
+      "summary": "iHeartRadio Music Festival 2026: Tonight's Full Lineup, Start Time and How to Watch",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T12:18:27Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31867/iheart-music-festival.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a94e967dbf0f1933",
+      "title": "Drones in 1952? Pentagon Releases New UFO Videos Showing ‘Orbs’ and Other Objects",
+      "link": "https://mycharisma.com/news/drones-in-1952-pentagon-releases-new-ufo-videos-showing-orbs-and-other-objects/",
+      "summary": "The Department of War released its sixth batch of declassified Unidentified Anomalous Phenomena records Friday, including a 1952 film of bright objects over Utah that some viewers say looks like a drone swarm — decades before drones existed. The files were…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T12:00:00Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/08/Rungs-Revised-and-Expanded-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0401bcb0dbf2d6e6",
+      "title": "Nigeria’s bishops designate Dec. 8 as national day of prayer and fasting for upcoming elections",
+      "link": "https://www.ewtnnews.com/world/africa/nigeria-s-bishops-designate-dec-8-as-national-day-of-prayer-and-fasting-for-upcoming-elections",
+      "summary": "The Bishops’ Conference of Nigeria has called for prayer and fasting on December 8 for the success of the country’s general elections, calling on Nigerians to prepare spiritually for the polls.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T12:00:00Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789746326/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-09-18t142214_1789730601.jpg_jbrdvq.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1a4cb401fa82c2ac",
       "title": "Dearborn Mayor Told Christian Pastor He’s ‘Not Welcome’ in City Now Facing Federal Lawsuit",
@@ -74,6 +188,25 @@
       "first_seen": "2026-09-19T11:35:18Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789662601/ewtn-news/en/johnsansonefeatured_jyanz5.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "32b0c09fa97dfb3d",
+      "title": "Pope Leo: Bishops should offer clear teaching",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-bishops-should-offer-clear-teaching.html",
+      "summary": "In a letter to the bishops of Latin America and the Caribbean on the occasion of the third centenary of the canonisation of their patron, Saint Turibius of Mogrovejo, the Pope reflects on episcopal ministry in the light of the rite of welcoming a bishop into…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T10:59:00Z",
+      "first_seen": "2026-09-19T12:40:08Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/10/2026-09-10-partecipantii-al-corso-di-formazione-per-i-nuovi-vesc/1789031112469.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
