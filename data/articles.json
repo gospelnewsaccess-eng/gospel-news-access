@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-19T14:06:56Z",
-  "story_count": 579,
-  "with_photo": 375,
+  "generated_at": "2026-09-19T14:36:15Z",
+  "story_count": 581,
+  "with_photo": 377,
   "items": [
+    {
+      "id": "b34785ffdeb0d0b7",
+      "title": "Ahead of Yom Kippur, U.S. bishops highlight ‘deep spiritual bonds’ between Catholics, Jews",
+      "link": "https://www.ewtnnews.com/world/us/on-yom-kippur-u-s-bishops-highlight-deep-spiritual-bonds-between-catholics-jews",
+      "summary": "The holy day for Jews involves fasting and atonement and is held in late September or early October.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T14:00:00Z",
+      "first_seen": "2026-09-19T14:36:15Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789812304/ewtn-news/en/GettyImages-2237911145_nkffk9.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5b7be3038d8c9a75",
+      "title": "WATCH LIVE: AWAKE Houston with Michael Youssef and Chris Tomlin tonight",
+      "link": "https://www.christianpost.com/video/awake-houston-live-with-michael-youssef-chris-tomlin.html",
+      "summary": "AWAKE Houston will feature Michael Youssef, Grammy-winning artist Chris Tomlin, O.S. Hawkins and evangelist Ahmed Joktan, founder of Mecca to Christ Ministries International.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T13:23:36Z",
+      "first_seen": "2026-09-19T14:36:15Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271986_w_550_310_614_223.jpg?v=20260919092619",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "bc862543c8ef305f",
       "title": "Christian leaders unite against chemical abortion",
