@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-19T13:06:34Z",
-  "story_count": 575,
-  "with_photo": 372,
+  "generated_at": "2026-09-19T13:35:53Z",
+  "story_count": 579,
+  "with_photo": 375,
   "items": [
+    {
+      "id": "bc862543c8ef305f",
+      "title": "Christian leaders unite against chemical abortion",
+      "link": "https://www.ewtnnews.com/world/us/christian-leaders-unite-against-chemical-abortion",
+      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T13:00:00Z",
+      "first_seen": "2026-09-19T13:35:53Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1773857081/Clean_Water_for_All_Life_Act_Press_Conference-4_v4tvtd.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "80c0e875d65f50aa",
+      "title": "Persecuted Chinese pastor recounts torture, warns CCP 'trying to crush' religion: 'A heavy burden'",
+      "link": "https://www.christianpost.com/news/persecuted-chinese-pastor-warns-ccp-trying-to-crush-religion.html",
+      "summary": "Pastor Ding Shuqi of the persecuted Early Rain Covenant Church in Chengdu, China, urged the world to remember the plight of Chinese Christians, whose freedoms he said are being crushed by the Chinese Communist Party (CCP).",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T12:30:34Z",
+      "first_seen": "2026-09-19T13:35:53Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271984_w_550_309.jpg?v=20260919084231",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "87c0202c95453d24",
       "title": "Is Simon Cowell Coming Back for the AGT Finale? Judges Say They Don't Know Either",
@@ -132,6 +170,25 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "77598b7936804fc4",
+      "title": "'Can You Hear Me Now?': Making the case for modern-day prophets",
+      "link": "https://www.christianpost.com/voices/can-you-hear-me-now-a-filmmaker-makes-the-case-for-prophecy.html",
+      "summary": "There is a vigorous and necessary conversation about prophecy, particularly in light of recent exposures in certain ministries that have misused and abused the gifts of the Spirit.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T11:25:49Z",
+      "first_seen": "2026-09-19T13:35:53Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271981_w_550_345_485_257.jpg?v=20260919082446",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -716,6 +773,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31856/holly-brand.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e554cfa500a870d4",
+      "title": "SaltLight to perform country gospel music Sunday in Clarksville - Waterloo-Cedar Falls Courier",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFExUkU5RFNqSUlDYUlJQ1lDY3NZNTVsZ3Rua0pPVS1LN3poa0ZCeEhzTGxYQzY2VndHRFhDaTJPM2EyUGpNbm1TdTNtNHYwaFAxc19SbXNNQ0hiSFI0Q0lVRkxGc0ppaEpZNElJNll1emxaOW1ILTNsYWJPM19DUDNXR0ZDUFNZV0dJWWpBNmUxOGVuVEI2eUlxQmVtdXI0YnZKOE5n?oc=5",
+      "summary": "SaltLight to perform country gospel music Sunday in Clarksville Waterloo-Cedar Falls Courier",
+      "outlet": "Waterloo-Cedar Falls Courier",
+      "outlet_url": "https://wcfcourier.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-19T01:15:00Z",
+      "first_seen": "2026-09-19T13:35:53Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
