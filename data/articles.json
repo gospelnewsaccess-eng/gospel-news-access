@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-19T19:05:38Z",
-  "story_count": 585,
-  "with_photo": 380,
+  "generated_at": "2026-09-19T19:34:14Z",
+  "story_count": 590,
+  "with_photo": 383,
   "items": [
+    {
+      "id": "29e2585b5fdf4c0e",
+      "title": "Monroe County Reporter Events - Howard Gripp: Soulful Country Gospel Music Awards & Inspired Artist Showcase",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbzFfYm1mUHFOMmtpcXBoOVVtTXZHS1A1R2sySi1uRDB0WkM2OFdPOXZraTFULXpZVVdoUFpkY3FBSTh3MVIyTE1Eci15YmoyTTYyQndEdnlXT3RLTzFURndsbDQycC1SS1I3Q2czOUlCdmFlaDBRUzNmeFMxdERnWVp5RGxaeHRidDE0X2hvTzdZMUJYTUFLOGJ4czRNNXpaSjBTOS1OQ2ZVQzZqVDhOMTVRQ0RvUDdHZmlMek5hUG9yRjUyWUxOZEZxZGMweDM1bk8tZnBwRUc?oc=5",
+      "summary": "Monroe County Reporter Events - Howard Gripp: Soulful Country Gospel Music Awards & Inspired Artist Showcase mymcr.net",
+      "outlet": "mymcr.net",
+      "outlet_url": "https://mymcr.net",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-19T19:20:06Z",
+      "first_seen": "2026-09-19T19:34:14Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-20T07:34:14Z"
+    },
+    {
+      "id": "b8d97c997649bf75",
+      "title": "Josiah Queen Releases New Single 'when I see You' Ahead of \"Damascus Road\" Album",
+      "link": "https://www.jubileecast.com/articles/39559/20260919/josiah-queen-when-i-see-you-new-single-damascus-road.htm",
+      "summary": "Josiah Queen Releases New Single 'when I see You' Ahead of \"Damascus Road\" Album",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T18:59:16Z",
+      "first_seen": "2026-09-19T19:34:14Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31870/josiah-queen-damascus-road.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "06a4073d94dd7b90",
+      "title": "Nancy Guthrie Update: New Video Shows a Light Inside Her Tucson Home — But Is It Connected to Her Disappearance?",
+      "link": "https://www.jubileecast.com/articles/39563/20260919/nancy-guthrie-update-lights-on-video-tucson-home-driveway-rock-september-2026.htm",
+      "summary": "Nancy Guthrie Update: New Video Shows a Light Inside Her Tucson Home — But Is It Connected to Her Disappearance?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-19T18:58:57Z",
+      "first_seen": "2026-09-19T19:34:14Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30524/nancy-guthrie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "7e95056310ae176c",
       "title": "AI Actress Tilly Norwood Glitches Mid-Interview With Piers Morgan: Proof AI Can't Replace Actors?",
@@ -37,6 +91,22 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-20T06:38:10Z"
+    },
+    {
+      "id": "d625f522e0088e28",
+      "title": "Skillet Frontman Says Faith and Rock Music Can Coexist Without Compromise",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ0NrNGpyVnowckVzaXdtdk1NMzMwVjVnRFp3Y2F5a2F4OHEzTlBqSXBSeFRfZXhpd1FTMWZYdzUwLWRpUXRPanAzZlJHei1ieUozTmVDZHBycGltMTNJek9CenprV2Q4ZEVXZFI2NjZQZDh2TllNTXFnNXRmbzl6Vmxkd2x3bldCanlaa2tXYm4tdXZHbjdnYml5eEpCdllZLXVJMENMZDBLV1Yz?oc=5",
+      "summary": "Skillet Frontman Says Faith and Rock Music Can Coexist Without Compromise Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-19T15:01:56Z",
+      "first_seen": "2026-09-19T19:34:14Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "ad9f63adcc839ae1",
@@ -204,6 +274,25 @@
       "first_seen": "2026-09-19T12:40:08Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31867/iheart-music-festival.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b0d1c2e3598b3ec2",
+      "title": "'Out lesbian' chaplain at Talarico's church says pivot on trans ideology is election scheme",
+      "link": "https://www.christianpost.com/news/out-lesbian-at-rep-talaricos-church-says-pivot-away-from-god.html",
+      "summary": "Is Democratic U.S. Senate candidate James Talarico just paying lip service when it comes to his pivot on trans ideology?",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-19T12:00:25Z",
+      "first_seen": "2026-09-19T19:34:14Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271979_w_550_367_324_276.jpg?v=20260919144438",
         "via": "media:content"
       },
       "breaking": false,
