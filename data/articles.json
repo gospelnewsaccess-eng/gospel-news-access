@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-20T15:06:41Z",
+  "generated_at": "2026-09-20T15:36:42Z",
   "story_count": 600,
   "with_photo": 404,
   "items": [
+    {
+      "id": "f57907bd0453a9e2",
+      "title": "Killeen’s oldest Black church looks to future after devastating fire",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUVB0YzBKMTJRSDNkZTdpUlZkRnVPM21jeThSdEs3RUEzZnlkVDl5RG4tMHhqQ3NqelM2d09KZXFlaklrVWZmM0w3RHRLSHNjb09SNWxVZFNNbUdnbEZHWWpselMyMWpkRFhyRzZLOXVhb3ZpVFlELVpZNmpwc2F6OUdIMWxDZVh3UjBWTGNuZlIxWV9OeDdHSUJkMVpJZms0QVVuNWJtbHhrUDJTTmlqb3NVSWdSMS1fd1VnTjNTNzQ3Qy1XV0dOdk41TFZQcG9ScDZHOFNjYUtJZzNZOTB2RzBmQQ?oc=5",
+      "summary": "Killeen’s oldest Black church looks to future after devastating fire The Killeen Daily Herald",
+      "outlet": "The Killeen Daily Herald",
+      "outlet_url": "https://kdhnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-20T15:30:00Z",
+      "first_seen": "2026-09-20T15:36:42Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-21T03:36:42Z"
+    },
     {
       "id": "bf2df0bb448fdfed",
       "title": "Kizz Daniel Enlists Young Jonn, Krizbeatz & Wave Choir for Afro-Gospel Single ‘Owo Oluwa’",
@@ -10794,22 +10810,6 @@
       "tier": 1,
       "category": "gospel",
       "published": "2026-09-03T14:36:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f91cf48310c5941e",
-      "title": "Golf Icon, Dottie Pepper, Brings Contemporary Christian Music to her Hometown",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazJEYnRKaGtrdFh0NzZSQlFhUERjNmV0ZWhzTHBoN3BUQjhEb0R4V0JVNEROT3F6VFAyb0dVZ2xDWklLUGJvSHE0NlhZdktaWG5LbmNUalZpei1qMW83MTREdmN1UEcxdFR6RmJNWnNLbUMyaFhRazNGVHJRYnhvTXBmWmN5a1B6VXlzMXRNX3F1RUI1NG9QeGE2cVBSTTFZU2JFRFZiV0JGcmc2T0VtNA?oc=5",
-      "summary": "Golf Icon, Dottie Pepper, Brings Contemporary Christian Music to her Hometown Saratoga TODAY newspaper",
-      "outlet": "Saratoga TODAY newspaper",
-      "outlet_url": "https://saratogatodaynewspaper.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-03T07:00:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
       "breaking": false,
