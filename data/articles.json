@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-20T02:07:13Z",
-  "story_count": 597,
+  "generated_at": "2026-09-20T02:37:31Z",
+  "story_count": 598,
   "with_photo": 389,
   "items": [
+    {
+      "id": "4efac4f352fd973e",
+      "title": "Church fire 1.jpg",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFZqWXZGRDBhOUg1dkxGalZKQlRuelZDRjE4R1hyR3k2Q1FqTzhpS0RWM2VBUlFfQTJsUlNYdDRyTDhXTXlhd1Bvb2VsdVdBaXZ2R0JQSHY3b0JJOW9Gem9YUVRuQVpSNVJCYW9SOExBR2ZrdjJNWGowUXE5ZE5ETjV1Rm53TzAxRDVUTEdn?oc=5",
+      "summary": "Church fire 1.jpg The Killeen Daily Herald",
+      "outlet": "The Killeen Daily Herald",
+      "outlet_url": "https://kdhnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-20T02:25:25Z",
+      "first_seen": "2026-09-20T02:37:31Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-20T14:37:31Z"
+    },
     {
       "id": "292c368e8dd2542d",
       "title": "The Defiant Divine Journey of the Rev. Dr. Molly Marshall",
