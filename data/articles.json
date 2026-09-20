@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-20T11:06:18Z",
+  "generated_at": "2026-09-20T11:35:57Z",
   "story_count": 600,
-  "with_photo": 397,
+  "with_photo": 399,
   "items": [
+    {
+      "id": "2423246b40d2e688",
+      "title": "Newsom Order Considers AI ‘Kill Switch’",
+      "link": "https://mycharisma.com/news/newsom-order-considers-ai-kill-switch/",
+      "summary": "California Governor Gavin Newsom (D), widely believed to be a 2028 presidential contender, signed an executive order to expand oversight measures on artificial intelligence programs. Under the order, the Government Operations Agency, alongside industry…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T11:30:00Z",
+      "first_seen": "2026-09-20T11:35:57Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "42680bf34be8de55",
+      "title": "HHS Examining Electromagnetic Field Exposure",
+      "link": "https://mycharisma.com/news/hhs-examining-electromagnetic-field-exposure/",
+      "summary": "The Department of Health and Human Services (HHS) is conducting a review of electromagnetic fields, the agency announced. Because such technology is part of daily life, the agency believes an examination of the matter is necessary. The agency issued a Request…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T11:00:00Z",
+      "first_seen": "2026-09-20T11:35:57Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Screenshot-2025-12-31-113901.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7860cb5cb1ffe880",
+      "title": "The 23 Eastern Catholic Churches: Ancient traditions in communion with Rome",
+      "link": "https://www.ewtnnews.com/vatican/the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome",
+      "summary": "While the Catholic Church is often viewed from a Latin rite prism, it also includes 23 Eastern Churches that are in full communion as part of the one Catholic fold.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T11:00:00Z",
+      "first_seen": "2026-09-20T11:35:57Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789592331/ewtn-news/en/papa-1779272992_w6sl1t.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "83aeb9b184665723",
       "title": "Cory Asbury trades bitterness for faith in new album",
@@ -18,6 +75,44 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-20T23:06:18Z"
+    },
+    {
+      "id": "888caeccaedccea6",
+      "title": "1901–2026: Catholic Church in Malawi marks 125 years",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/1901-2026-catholic-church-in-malawi-marks-125-years.html",
+      "summary": "The Catholic Church in Malawi has celebrated 125 years of evangelisation with a Eucharistic celebration at St Mary’s Nzama Parish in the Diocese of Dedza, the historic site where the Montfort Missionaries established the first permanent Catholic mission in…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T10:32:00Z",
+      "first_seen": "2026-09-20T11:35:57Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/20/captura-de-pantalla-2026-09-20-a-las-11-11-56aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e29fe03ae1ee9518",
+      "title": "Pope Leo prays for end to humanitarian crisis in Somalia",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-angelus-appeals-humanitarian-crisis-somalia.html",
+      "summary": "Pope Leo XIV prays for an end to violence in areas of Somalia and for assistance in the ongoing humanitarian crisis. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T10:22:00Z",
+      "first_seen": "2026-09-20T11:35:57Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/16/16/1789569302026.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "90fa8d1cfb3e9279",
@@ -10702,95 +10797,6 @@
       "published": "2026-09-01T03:23:21Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "134357c8e70e872b",
-      "title": "‘Time’ Says There Isn’t a Gen Z Revival. The Data Backs Them Up — But They Looked in the Wrong Rooms.",
-      "link": "https://relevantmagazine.com/faith/time-says-there-isnt-a-gen-z-revival-the-data-backs-them-up-but-they-looked-in-the-wrong-rooms/",
-      "summary": "Time magazine ran a piece this month asking whether there’s a religious revival happening among Gen Z. It opens on a 23-year-old named Anthony Gross who moved to New York, didn’t know anyone, started ranking Catholic churches on TikTok, and walked into a…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-08-31T17:20:25Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/genz.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d8feee2cda96b4ea",
-      "title": "Gary Fell Into Darkness. Black Churches Refused to Leave It There",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUE0QzlSdzZZYnV0bHpjMV9rZXpMekR1akEwa0xyNm13c0dlNGhxSkVkT2pUcDZ4Q1BhVHBnckdSTjVIV3Q1RDhDNGJnRUk4bldxbWJiMTVnRTlyLXl2NFk0bC1oNk9pWWJyaDMtOS1mYUdGSU5PZ0NTNGYzVVJDcEMzZEowdm1TVGNjQmRyVDdsaF9XOXB4WE1XT18zZw?oc=5",
-      "summary": "Gary Fell Into Darkness. Black Churches Refused to Leave It There Word In Black",
-      "outlet": "Word In Black",
-      "outlet_url": "https://wordinblack.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-08-31T16:31:46Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cefe3574ee97cb05",
-      "title": "Kirk Franklin Gets Real: You Can Be Saved & Still Be YOU",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWURIbVptSmd3a2o2THc0djY5TDJYZ0E2SGlJQm9sMWZ6YVlxRFhTcERoSzdNc0FoMUhSRGhKcGZtQXZLMVVhd1F0MERPN2dEQjN3eHBzZXMyRHcwcFpOYUk2TUowUmpJYkpYcFJUOUl6anItMXZUZ29xUHBMZUd4Zy1DYlNNYnFwUndhUkpR?oc=5",
-      "summary": "Kirk Franklin Gets Real: You Can Be Saved & Still Be YOU thebeatdfw.com",
-      "outlet": "thebeatdfw.com",
-      "outlet_url": "https://thebeatdfw.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-08-31T15:50:08Z",
-      "first_seen": "2026-09-17T21:07:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "011978b573806869",
-      "title": "Skillet Celebrates 30 Years and a Bold New Chapter as September Cover Story",
-      "link": "https://www.ccmmagazine.com/news/skillet-celebrates-30-years-and-a-bold-new-chapter-as-september-cover-story/",
-      "summary": "John and Korey Cooper open up about two decades of Comatose, the pain and betrayal behind After the Storm, and why Skillet’s most compelling chapter may still be ahead. Multi-platinum rock powerhouse Skillet takes center stage as the cover story for the…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-08-31T15:00:20Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/08/CCM-Skillet-Press-Release.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fcb790d858030527",
-      "title": "Russell Wilson Retired from the NFL and Went to Christ the Redeemer: “Christ Is More Than Enough”",
-      "link": "https://relevantmagazine.com/culture/sports/russell-wilson-retired-from-the-nfl-and-went-to-christ-the-redeemer-christ-is-more-than-enough/",
-      "summary": "Russell Wilson’s last season ended with him watching. He signed a one-year deal with the Giants expecting to start, was benched three games in for a rookie, Jaxson Dart, and retired on June 3 after 14 seasons. He’s 37, a Super Bowl champion and a 10-time Pro…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-08-31T14:24:35Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/russ.jpg",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
