@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-20T12:08:14Z",
+  "generated_at": "2026-09-20T12:40:37Z",
   "story_count": 600,
-  "with_photo": 399,
+  "with_photo": 401,
   "items": [
+    {
+      "id": "172db729ec884629",
+      "title": "Amish Man Reportedly Jailed Over Electronic Permit, County Accused of Criminalizing ‘Being Amish’",
+      "link": "https://mycharisma.com/news/amish-man-reportedly-jailed-over-electronic-permit-county-accused-of-criminalizing-being-amish/",
+      "summary": "The Amish community in Minnesota is pushing back amid claims of unfair government policies that purportedly fail to offer religious accommodations — and even reportedly led to one Amish man’s arrest. First Liberty attorney Ryan Gardner said his firm is…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T12:30:00Z",
+      "first_seen": "2026-09-20T12:40:37Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7980777c906528ea",
+      "title": "Pope Leo XIV appeals for international aid as Somalia crisis deepens",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appeals-for-international-aid-as-somalia-crisis-deepens",
+      "summary": "In his Sunday Angelus catechesis, the pontiff reflected on the parable of the vineyard workers, saying God’s generosity overturns human calculations of merit and reward.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T12:19:30Z",
+      "first_seen": "2026-09-20T12:40:37Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789906419/ewtn-news/en/_RIS4629_xy0oxo.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "11830c908f84b02f",
+      "title": "Slovakia: Thousands gather in Bratislava for National March for Life",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/slovakia-bratislava-march-for-life-bishops-conference.html",
+      "summary": "As thousands of people gather in Bratislava for the National March for Life, Fr. Ivan Ružička, Secretary General of the Slovak Bishops’ Conference, calls for the protection of every human life and a complete legislative ban on surrogacy. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T12:02:00Z",
+      "first_seen": "2026-09-20T12:40:37Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/08/16/19/1786900502928.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2423246b40d2e688",
       "title": "Newsom Order Considers AI ‘Kill Switch’",
@@ -10746,57 +10803,6 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/jelly.jpg",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6261e0cea0aa1ce0",
-      "title": "Skillet: Cover Story (September 2026)",
-      "link": "https://www.ccmmagazine.com/news/skillet-cover-story-september-2026/",
-      "summary": "SKILLET: AFTER THE STORM On paper, Skillet shouldn’t work. That sounds insulting, but I mean it as one of the highest compliments I can give them. Rock bands rarely get 30-year careers, and the ones that do certainly don’t tend to chart a trajectory that…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-01T13:00:39Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/08/CCM-Skillet-Cover-Story-Web-Banner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "706e077ccac25f93",
-      "title": "The day Virginia took down Confederate statues, a Black church remembered a lynching victim",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1pOV01QTGI1QUowcHI1SW9aX0psVDRJYjZGcVh1bDN3aURuSUZPSGVLQzAxa3dCaU0wbVlfVUJQUHR6dk5abVJnVENNdWRHcGN0WWZhUDhMa1JwUDQzQnVkb1ZOQnBrYlhrSmtVU0tOTTd5YU1ncnBTeUE3VHJRQU9vTjIwSlpRQlFUUng0RGh2UGVXT1RqcEZxWlluUmdBeXlZQW1wSGIwX2M2S0VXd2xLOFNHVnlLTjZtMl9LTGpGeFE0aHZEanZn?oc=5",
-      "summary": "The day Virginia took down Confederate statues, a Black church remembered a lynching victim Virginia Mercury",
-      "outlet": "Virginia Mercury",
-      "outlet_url": "https://virginiamercury.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-01T07:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "60562b008ae6ee04",
-      "title": "CeCe Winans to perform Sept. 10 at Gogue Center",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXZrTjIxSnkzNVlkdDA2MkhyRkt2WnJscE1FemlNclU5RWhoQmFUdHNzeHR2b3BLYUs0RzFPb2NJN29OMjQ2NE1mOVVsdVVJUlg0NDlkOU1GMFN6ZThaV1BOOTBNNlhrb0hJQ2EwMDg1c3dVa3lkRkNVMV9zNDlZX2FyMXFFMWtubE9Kc01IQQ?oc=5",
-      "summary": "CeCe Winans to perform Sept. 10 at Gogue Center Opelika Observer",
-      "outlet": "Opelika Observer",
-      "outlet_url": "https://opelikaobserver.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-01T03:23:21Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
