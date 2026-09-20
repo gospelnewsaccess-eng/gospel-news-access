@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-20T17:06:05Z",
+  "generated_at": "2026-09-20T17:35:41Z",
   "story_count": 600,
   "with_photo": 403,
   "items": [
+    {
+      "id": "7b35300a6e5cb9b1",
+      "title": "This week in Christian history: Pope Francis leads mass in NYC; London Missionary Society forms",
+      "link": "https://www.christianpost.com/news/this-week-in-christian-history-pope-francis-leads-mass-in-nyc.html",
+      "summary": "Events from this week in Christian history include Pope Francis leading mass before 20,000, the death of Ernst Faber, and the London Missionary Society holding its foundational meeting.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T17:05:20Z",
+      "first_seen": "2026-09-20T17:35:41Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271965_w_550_367.jpg?v=20260920130955",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "99042306d40e9aa7",
       "title": "From small-town to the big stage: Sask. artist to make debut at The Grand Ole Opry",
@@ -10789,25 +10808,6 @@
       "image": {
         "url": "https://relevantmagazine.com/wp-content/uploads/2025/07/influencer.jpg",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "65ad263f91e0fc96",
-      "title": "Gable Price and Friends Spent Years Avoiding the ‘Christian Band’ Label. Now He’s Done Beating Around the Bush.",
-      "link": "https://relevantmagazine.com/culture/music/gable-price-and-friends-spent-years-avoiding-the-christian-band-label-hes-done-beating-around-the-bush/",
-      "summary": "Ask Gable Price if his band is a Christian band, and for a long time, the answer was a shrug. “In Q&As on tour — are you guys a Christian band? I don’t know,” he told RELEVANT. “Just really beating around the bush, because we didn’t want to be pigeonholed.”…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-03T18:41:35Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/price2.jpg?resize=320%2C240&ssl=1",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
