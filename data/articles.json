@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T01:36:32Z",
-  "story_count": 596,
+  "generated_at": "2026-09-20T02:07:13Z",
+  "story_count": 597,
   "with_photo": 389,
   "items": [
     {
@@ -897,6 +897,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31863/dolly-parton.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f6f3de71ae61b1ad",
+      "title": "Kansas City-Area Megachurch Prevails in COVID-19 Lawsuit with Local Govt",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXUFd3Z2NuUGE3QW02TG1WQ1NsOVhYSVdyS1RVY1U2M1laeEdiSVRwVE9NT2xXclloNVBHTlFyc0FPN01PYVByVEhNZjlWeE01azJ3dU1NMW5wT2RXN2RnWUVCZXRteF9meWYwZA?oc=5",
+      "summary": "Kansas City-Area Megachurch Prevails in COVID-19 Lawsuit with Local Govt roysreport.com",
+      "outlet": "roysreport.com",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-19T08:04:07Z",
+      "first_seen": "2026-09-20T02:07:13Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
