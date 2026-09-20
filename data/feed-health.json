@@ -372,16 +372,16 @@
     },
     "Black Christian News Network": {
       "consecutive_zero": 0,
-      "consecutive_error": 4,
+      "consecutive_error": 5,
       "flagged": true,
-      "last_checked": "2026-09-20T18:43:30Z",
+      "last_checked": "2026-09-20T19:05:42Z",
       "last_item_count": 0,
       "last_status": "error",
       "flagged_since": "2026-09-18T12:45:12Z",
-      "last_error": "TimeoutError: The read operation timed out"
+      "last_error": "HTTP 403"
     }
   },
-  "updated_at": "2026-09-20T18:38:48Z",
+  "updated_at": "2026-09-20T19:05:41Z",
   "flagged_feeds": [
     "Black Christian News Network"
   ]
