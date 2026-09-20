@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-20T21:06:47Z",
+  "generated_at": "2026-09-20T21:36:01Z",
   "story_count": 600,
-  "with_photo": 409,
+  "with_photo": 410,
   "items": [
+    {
+      "id": "cb62fbb990f8cf9c",
+      "title": "Billy Graham’s Grandson Takes Gospel Tour Through America’s 13 Original Colonies",
+      "link": "https://www.jubileecast.com/articles/39581/20260920/billy-graham-s-grandson-takes-gospel-tour-through-america-s-13-original-colonies.htm",
+      "summary": "Billy Graham’s Grandson Takes Gospel Tour Through America’s 13 Original Colonies",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-20T20:48:29Z",
+      "first_seen": "2026-09-20T21:36:01Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/20375/will-graham.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0b238e35d223a2b9",
       "title": "Kirk Franklin’s Son Kerrion Franklin Arrested In Texas On Unlawful-Restraint Charge",
@@ -15,7 +34,10 @@
       "category": "artist",
       "published": "2026-09-20T20:43:00Z",
       "first_seen": "2026-09-20T21:06:47Z",
-      "image": null,
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31878/kerrion-franklin.jpeg",
+        "via": "media:content"
+      },
       "breaking": true,
       "breaking_expires_at": "2026-09-21T09:06:47Z"
     },
@@ -10808,25 +10830,6 @@
       "published": "2026-09-07T07:00:00Z",
       "first_seen": "2026-09-17T09:06:59Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f8bf6de28b239fa",
-      "title": "Chapter 5: “Who Are You?” — THE ADVENTURES OF DANIQUA-GRACE BOOK 1 Martyr Daniqua Grace Whyte and the Time Machine Visit to the Catacombs by Daniel Whyte III with Meriqua Whyte",
-      "link": "https://blackchristiannews.com/chapter-5-who-are-you-the-adventures-of-daniqua-grace-book-1-martyr-daniqua-grace-whyte-and-the-time-machine-visit-to-the-catacombs-by-daniel-whyte-iii-with-meriqua-whyte/?utm_source=rss&utm_medium=rss&utm_campaign=chapter-5-who-are-you-the-adventures-of-daniqua-grace-book-1-martyr-daniqua-grace-whyte-and-the-time-machine-visit-to-the-catacombs-by-daniel-whyte-iii-with-meriqua-whyte",
-      "summary": "This children’s book kicks off the second Martyr’s Memorial Service for Daniqua Grace Whyte, who was martyred on September 10, The post Chapter 5: “Who Are You?” — THE ADVENTURES OF DANIQUA-GRACE BOOK 1 Martyr Daniqua Grace Whyte and the Time Machine Visit to…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-07T01:40:03Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/cover-daniqua-grace-bk1.webp",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
