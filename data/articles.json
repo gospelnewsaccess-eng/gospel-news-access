@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T07:06:07Z",
+  "generated_at": "2026-09-20T07:36:27Z",
   "story_count": 600,
-  "with_photo": 395,
+  "with_photo": 394,
   "items": [
     {
       "id": "c4f949fef6983d74",
@@ -9438,6 +9438,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "ffa14fdeb8c95862",
+      "title": "Donnie McClurkin",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82c3lyX3ZkSVV0Z3hHdG9yc3lXd09pTU9XenhmWktMNmc2R2EwUllUZFh3cXpCNlBDdTdOWUw5cjF0LU4tdFVQblctSnU5N1BWWEozWW5YeW9oUFV2Rm1wU1UxUQ?oc=5",
+      "summary": "Donnie McClurkin Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-10T07:00:00Z",
+      "first_seen": "2026-09-20T07:36:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "c2fe3d84d5c01781",
       "title": "10 Christian Zionists: CeCe Winans, No. 8",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hLWF4NGdaLVFEWWlSMjhJdFloSTVWdGFHRUlzMmlXY0ozbnY0dWhKUlhyZ0FhVUViMzcxVHo0SjI3WlRobHNDQjIyQllKZ3pIVHc2Zmd2czZvSGdWSkZsaFFvMXpjZExlamZNRldtbWtRRVotb2l3bzJfQTFIUQ?oc=5",
@@ -10766,25 +10782,6 @@
       "published": "2026-08-31T07:00:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "52f5f6ebff56fc4a",
-      "title": "Phil Wickham Has Sung About Grace for 20 Years. He Still Catches Himself Trying to Earn It.",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2ZtemZneFZ4UFhBdzlZcWduT1F0R3hKVEJTZUNVQjU1TjV4Q3BBSWpHYV9NQ1lwZUJoaGltTlI5ZlJtSldfSmxpbnh1V3VuT1d4Mk1qOGVBUkdLSlp0ZnUwV3VHSUZLdlZGTGR3UHFDclQ3ZUdhZHhPYkVnX05WVHFVMlRTeEpKUkExdmIyZ2o2b2FKX0g1WjNIajdiOFV5OXppNkR0aHEwblFJNzgteVNabDlaVkJnZFhiekpxczBCMmpyZkZRemZZdktsUQ?oc=5",
-      "summary": "Phil Wickham Has Sung About Grace for 20 Years. He Still Catches Himself Trying to Earn It. relevantmagazine.com",
-      "outlet": "relevantmagazine.com",
-      "outlet_url": "https://relevantmagazine.com",
-      "source_feed": "Google News: Phil Wickham",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/phil.jpg",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
