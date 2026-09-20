@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-20T10:36:36Z",
+  "generated_at": "2026-09-20T11:06:18Z",
   "story_count": 600,
   "with_photo": 397,
   "items": [
+    {
+      "id": "83aeb9b184665723",
+      "title": "Cory Asbury trades bitterness for faith in new album",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2RpcEZ3a0xXN0VKa19CMGpDdldTTjZNV0lPOGoySHBMZXdoOUFub0JiU1FmZEx2ZEJBZUwtd0toRFF5TlJjcW1wNjd3c3dFcFA4MVVHbEZFYkFlRzg5WExhemxFVVU4YlFFQmdvSVF0VVhyS0ZFek1BTGllVmdWekdfcVJKOEtfaHpR?oc=5",
+      "summary": "Cory Asbury trades bitterness for faith in new album CHVN Radio",
+      "outlet": "CHVN Radio",
+      "outlet_url": "https://chvnradio.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-20T10:36:05Z",
+      "first_seen": "2026-09-20T11:06:18Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-20T23:06:18Z"
+    },
     {
       "id": "90fa8d1cfb3e9279",
       "title": "Pope at Angelus: God's plans are infinitely greater than we can imagine",
@@ -10775,22 +10791,6 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/russ.jpg",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b80c12176d84571",
-      "title": "Black Churches Leaders Gather, Discuss Democracy in America’s 250th Year",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjRRYTRfTUt5X2dwdlNGbklqUFc2cERtWTJpXzRoRVN4cWRyQnp5SGVBRDdBbnpvQzgtYjlmb3N0OTNTTzBpT25JNWJvSHVYYzdQOGVGQXJFX0duZmpUd21KdDQwR3U4ODlGLVNvUFAtbTQtYWJVbDFNZWZtYzBaM2dGODJ2ZG03aE1DR1JTYlNTbDc5ZWxacnJ4MjFSS3BUMjVaYnVnYV92clFKUXZmTQ?oc=5",
-      "summary": "Black Churches Leaders Gather, Discuss Democracy in America’s 250th Year Interfaith America",
-      "outlet": "Interfaith America",
-      "outlet_url": "https://www.interfaithamerica.org",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
