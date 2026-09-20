@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-20T10:06:42Z",
+  "generated_at": "2026-09-20T10:36:36Z",
   "story_count": 600,
-  "with_photo": 395,
+  "with_photo": 397,
   "items": [
+    {
+      "id": "90fa8d1cfb3e9279",
+      "title": "Pope at Angelus: God's plans are infinitely greater than we can imagine",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-at-angelus-god-s-plans-are-infinitely-greater-than-we-can.html",
+      "summary": "During his Sunday Angelus address in the Vatican, Pope Leo XIV recalls Jesus' parable of the laborers in the vineyard and marvels that God's ways are not our ways and that His plans are infinitely greater than we could ever possibly imagine. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T10:05:55Z",
+      "first_seen": "2026-09-20T10:36:36Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/31/2026-05-31-angelus/1780224963158.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2fb2b8980dfcdd1e",
+      "title": "Lebanese faithful to walk to St. Charbel’s shrine in prayer for Christians in country’s south",
+      "link": "https://www.ewtnnews.com/world/middle-east/lebanese-faithful-to-walk-to-st-charbel-s-shrine-in-prayer-for-christians-in-country-s-south",
+      "summary": "A prayer pilgrimage from Byblos to Annaya aims to offer solidarity and hope to Christians in southern Lebanon.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T10:00:00Z",
+      "first_seen": "2026-09-20T10:36:36Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789658533/ewtn-news/en/mkas-ghlaf-47-1789485801.4534.png_ekpehv.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c4f949fef6983d74",
       "title": "Travel: Along the Oregon Trail, a little church keeps the faith",
@@ -10750,38 +10788,6 @@
       "source_feed": "Google News: Black church",
       "tier": 1,
       "category": "church",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "43690d75767bb58c",
-      "title": "Community need for fellowship fuels Hope Christian music festival’s growth in Summerville",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEpvV0k2MUZ4d2VEWEZWbDJtdHI4d0VUZXJJZExWUE5OSUFBdVJPVXpLX2RLdU14akFhalFrUFBtUnE3cHVEc0J3TlUxTjFhRkdtdFFFS20tZWltZkU2X1RMaXhrSzRROGc4U0gtWG11R0hlVDRDdy13b29HVzIwUk83TUp5RktWUnZCZ29wT3ZRS2Z4MHhCMVRqQXNaSHg2SldmSFpRUXE5SnAyWThRMFMzc2o1czNPOGc?oc=5",
-      "summary": "Community need for fellowship fuels Hope Christian music festival’s growth in Summerville WJAC",
-      "outlet": "WJAC",
-      "outlet_url": "https://wjactv.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "64c38dab541e1598",
-      "title": "Multi-Grammy Winner Kirk Franklin Shares New Single ‘Thank You For Everything’",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbE5Xdnk0OXRXXzhmbkNJVElKdkY3MmZVZDZZc2RwMVp5MDFjN2VuZHF3UGJwV3JMUFEzYkl1OWpJU2dOSkF4a05LUHZUUFJ2OFRiYWVIRkowOV8wN01xcmxsc1NuUnNRaHNYY0N0OFowZlUyYXVrMWZsd0lGNy1MdA?oc=5",
-      "summary": "Multi-Grammy Winner Kirk Franklin Shares New Single ‘Thank You For Everything’ uDiscoverMusic",
-      "outlet": "uDiscoverMusic",
-      "outlet_url": "https://www.udiscovermusic.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
       "published": "2026-08-31T07:00:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
