@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-20T04:38:11Z",
+  "generated_at": "2026-09-20T05:06:44Z",
   "story_count": 600,
-  "with_photo": 392,
+  "with_photo": 395,
   "items": [
+    {
+      "id": "c4f949fef6983d74",
+      "title": "Travel: Along the Oregon Trail, a little church keeps the faith",
+      "link": "https://www.christianpost.com/news/travel-along-the-oregon-trail-a-little-church-keeps-the-faith.html",
+      "summary": "Along U.S. Highway 191 stands a little log church that looks as though it has occupied this windswept landscape since the days of wagon trains.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T04:15:00Z",
+      "first_seen": "2026-09-20T05:06:44Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271989_w_550_367_694_282.jpg?v=20260920001557",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e2fc853e2f72e219",
+      "title": "Another Baptist pastor shot dead in Myanmar; US gov’t urged to take action",
+      "link": "https://www.christianpost.com/news/baptist-pastor-killed-in-myanmar-us-urged-to-take-action.html",
+      "summary": "Myanmar’s military junta has shot and killed a Baptist pastor in the Christian-majority Chin state, the third killing of a pastor there in about three and a half months, according to a religious freedom group that is pressing the U.S. government to act.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T04:10:51Z",
+      "first_seen": "2026-09-20T05:06:44Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271988_w_550_367.jpg?v=20260920001111",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "93e4abeb442c97e5",
+      "title": "The Lord's Supper doesn't give grace. It celebrates it",
+      "link": "https://www.christianpost.com/voices/the-lords-supper-doesnt-give-grace-it-celebrates-it.html",
+      "summary": "When Paul says the Corinthians are eating “in an unworthy manner,” he is not introducing a rule about private sin.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T04:08:00Z",
+      "first_seen": "2026-09-20T05:06:44Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271985_w_550_367_565_315.jpg?v=20260920001007",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3b599aad56a375b0",
       "title": "When natural disasters strike: How Christians should respond",
@@ -75,6 +132,22 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-20T14:37:31Z"
+    },
+    {
+      "id": "1c50547cc75adeb8",
+      "title": "GMA Announces More Performers, Presenters for 57th Annual Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGRRb0ZNY3ZiTk9NY1h4WGROVzlqc05hUUpneDRLZ2ZSWm8zZXRMNmxYZ1RNZnpMWW81NllYbjQ3YUNLYmk2LU11dXMzUjNRcUFiaGdFMkxyS3llUU9najRGWkdmS2dOdk16UV82V2NZMjVzNlE5dHNEb3RQQ3AwS1kxS0QzVmhRd0xWcW42UTl3OEt1UUE?oc=5",
+      "summary": "GMA Announces More Performers, Presenters for 57th Annual Dove Awards The Tennessee Tribune",
+      "outlet": "The Tennessee Tribune",
+      "outlet_url": "https://tntribune.com",
+      "source_feed": "Google News: Tasha Cobbs Leonard",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-20T02:04:05Z",
+      "first_seen": "2026-09-20T05:06:44Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "292c368e8dd2542d",
@@ -10712,70 +10785,6 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/08/phil.jpg",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "925aa9ea77676ec5",
-      "title": "Once forgotten, Black church's legacy now finds a place of honor - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YNm5sSGdKa0pibnBQaldBS0t0VXhRc3J1Vlp3UGRKV0JBSEpDbW9JMXpHRDVTV2c4WVNEbkI3UHFxQ19BZk4zZjRnaGd4UEJyTFZhSHpvYmF6eS16UVpMVmJ1Rm5hWkFvNllOVGNZbmwtajF4cGFyZGdhUmZiUQ?oc=5",
-      "summary": "Once forgotten, Black church's legacy now finds a place of honor San Antonio Express-News",
-      "outlet": "San Antonio Express-News",
-      "outlet_url": "https://www.expressnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-17T10:07:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b6801f15db490398",
-      "title": "Megachurch pastor Brian Tome announces vacation following suspension",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRE0tUTBvUm9McHVZYy1ZNV9RRmlqeWVPaTRoUTRrT0ZVR1pWa19Eb1FkcEp3Vzd3ZnNqc0NIMjJoRjhSZ2ZoWDEyZEZkSWhLaGg5UFJ5V1IyWXJBck9OaTdRMHZTUjRxeTJtbDhmZmJSaXJXSnY1NEQtSkduWG5kdkIxUVh1SkwwejctcldTcmJVOTd6eDVr?oc=5",
-      "summary": "Megachurch pastor Brian Tome announces vacation following suspension The Roys Report",
-      "outlet": "The Roys Report",
-      "outlet_url": "https://roysreport.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-18T23:06:33Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b70e10c3961f45b1",
-      "title": "Tank Announces New Album ‘Experience’ / Drops New Songs ‘Highlight’ & ‘H...",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeWR4RU5iaEFMS1kwVGFNcVFGTUJCRUJhWm45U3hqNnpDU3hqWGRKdjdraFB0WkZpUGRybm5UNXktVjJQQlZUU3kxQ1V6RUxod0xfRW5TNFd2cUU2ZHdHc21ZalNrMHN0Q19iTUNfZnpNRzFDbDZHemRxYWdsaFlMdXdfVnpmazVhZlJMMENEaUFkNVFoa3BBbG5GRy1lUnhjUmI4aE9sck51dDZ2dy1DSGF0ZmdhRXJtcHRsajFZYTJvN3BFejRwQ3FHLUFCMElJeHdsb01IZ0JvZVBDUG5WQlJNQjBucGU3em1RaFkwZEYzNW16amZn0gH8AUFVX3lxTE53RjUwRHhrdDd3dEQzWEFHTVk0cXhiRUF0ekJvREJIREhDcTZ5dXQ3OUY4V0d5bEhwWFF6Mnl0VDNDT0R5eWwyV1dld2dHVE44V2tzem5NVXExd0cyOTBlc3RQZ0s1QzlPZ0dxRG9ENmFVVkphSktUZDdNX245djljRVc2RWtuMzRVSjZmc0xPYjZ3VkxVQ3pHR3VrMjdiZUtKODhEYV95Z1pabFdySW15WGVDcTBwUjJpSXN3MjdmVzRUWXJ4SExPVnQ0ZTlqNGpLVndkWExwbFhGVGVwU3JPZDFGSnBFeDdvUzZVbEc4eTFOemJYcU85VTk1ZA?oc=5",
-      "summary": "Tank Announces New Album ‘Experience’ / Drops New Songs ‘Highlight’ & ‘H... That Grape Juice.net",
-      "outlet": "That Grape Juice.net",
-      "outlet_url": "https://thatgrapejuice.net",
-      "source_feed": "Google News: Zacardi Cortez",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-08-31T07:00:00Z",
-      "first_seen": "2026-09-19T01:37:12Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "890985ccec2e0b33",
-      "title": "‘Blow My Mind’: Gospel’s Biggest Stars Reveal To Us What They’re 'Expecting God To Do This Season' At The 41st Annual Gospel Stellar Awards",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYkw1NDhaM1ZzM09hRk11UzgyMXNYV0UyUWdtWGYtbVVpc2xkZDBwQmhMdmNSekd2RXRJMVhpWVdJYWNiMU9mdlJHemN5bUR0OFkxUE40VWZ5OE8xYkhfY1YxU2FCeFBZTl9WclZqZXRHZ3d0QTRWay0xMEF2NUN6bUMtQl9vT3JXVE0yTW1GS1pUOXFTazhPWlZlUVF3RnJiMUhBOHhFSm1rWnV4M2xzV3ItRWo1SUpNbVpiVEQ5RXEyNmloMnZKQmtmNlFNR1MxVG9tWmc2eGk4em1kelBFMXdRbXBFQzNuWklwV0M5RWlOS2stS1FaUDdodWFiUQ?oc=5",
-      "summary": "‘Blow My Mind’: Gospel’s Biggest Stars Reveal To Us What They’re 'Expecting God To Do This Season' At The 41st Annual Gospel Stellar Awards The Black Wall Street Times",
-      "outlet": "The Black Wall Street Times",
-      "outlet_url": "https://theblackwallsttimes.com",
-      "source_feed": "Google News: Ricky Dillard",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-08-30T23:09:19Z",
-      "first_seen": "2026-09-18T22:36:31Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
