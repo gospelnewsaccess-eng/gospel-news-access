@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-20T16:38:02Z",
+  "generated_at": "2026-09-20T17:06:05Z",
   "story_count": 600,
-  "with_photo": 404,
+  "with_photo": 403,
   "items": [
+    {
+      "id": "99042306d40e9aa7",
+      "title": "From small-town to the big stage: Sask. artist to make debut at The Grand Ole Opry",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOXgycEZGSHY0UlhpZExFMURCUWpxei1pRmNIWjViR2NGNVdjS3JONGFlQzhybWZmaHp3VmZrd1MwbC1NUGRscURnSEdETzd3Y05Ic1BseXFWaWJFaTJTdUx5UF9UVE5kUFl2ZjhGc0hEN29JX0Q1QW9UeUM4aXNJaUdxeGhtU0Y4QThCVkJNVDN1d0hxWmdtZURrUTZ5bHVUN01JSXVHcmRVbmpodG8wUExuYjZLRFE?oc=5",
+      "summary": "From small-town to the big stage: Sask. artist to make debut at The Grand Ole Opry 620 CKRM",
+      "outlet": "620 CKRM",
+      "outlet_url": "https://www.620ckrm.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-20T16:30:00Z",
+      "first_seen": "2026-09-20T17:06:05Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-21T05:06:05Z"
+    },
     {
       "id": "f57907bd0453a9e2",
       "title": "Killeen’s oldest Black church looks to future after devastating fire",
@@ -10791,25 +10807,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/price2.jpg?resize=320%2C240&ssl=1",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "30cd9dbd3905eec4",
-      "title": "Nintendo Once Had Link Kneeling in Prayer to Jesus",
-      "link": "https://relevantmagazine.com/current/buzzworthy/nintendo-once-had-link-kneeling-in-prayer-to-jesus/",
-      "summary": "For years, Zelda fans have passed around a very strange piece of Nintendo history: Link, kneeling in a cathedral, head bowed in front of a crucifix. It looks like the kind of image someone would make as a joke and post to Reddit. Except it’s real. The image…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-03T14:56:44Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/all-jesus-christ-is-links-lord-v0-kj3fd6p5ukdf1.png.webp?resize=640%2C636&ssl=1",
         "via": "content:encoded"
       },
       "breaking": false,
