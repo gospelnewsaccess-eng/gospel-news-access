@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-20T18:07:53Z",
+  "generated_at": "2026-09-20T18:38:48Z",
   "story_count": 600,
   "with_photo": 403,
   "items": [
+    {
+      "id": "db77bd517b63f33e",
+      "title": "What Time Is 60 Minutes Tonight? Patrick Clancy's First Interview With New Wife Airs Soon",
+      "link": "https://www.jubileecast.com/articles/39567/20260920/what-time-is-60-minutes-tonight-patrick-clancy-interview.htm",
+      "summary": "What Time Is 60 Minutes Tonight? Patrick Clancy's First Interview With New Wife Airs Soon",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-20T18:20:08Z",
+      "first_seen": "2026-09-20T18:38:48Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31875/patrick-and-rachel-clancy.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "7b35300a6e5cb9b1",
       "title": "This week in Christian history: Pope Francis leads mass in NYC; London Missionary Society forms",
@@ -10790,25 +10809,6 @@
       "published": "2026-09-03T19:41:50Z",
       "first_seen": "2026-09-17T18:08:53Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4946bd45a6c4fd40",
-      "title": "The Celebrity Pastor Era Finally Ended. But Then Christian Influencers Took Its Spot.",
-      "link": "https://relevantmagazine.com/faith/the-christian-celebrity-era-is-over-what-replaced-it-might-be-worse/",
-      "summary": "The American church has always had a thing for celebrity — but something shifted over the past five years. We used to point to cool megachurch pastors befriending high-profile believers as proof that Christianity still had cultural pull. Then came a stretch…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-03T19:00:59Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2025/07/influencer.jpg",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
