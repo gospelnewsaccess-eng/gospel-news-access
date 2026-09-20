@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-20T03:38:28Z",
-  "story_count": 598,
-  "with_photo": 389,
+  "generated_at": "2026-09-20T04:06:45Z",
+  "story_count": 600,
+  "with_photo": 392,
   "items": [
+    {
+      "id": "3b599aad56a375b0",
+      "title": "When natural disasters strike: How Christians should respond",
+      "link": "https://www.christianpost.com/voices/when-natural-disasters-strike-how-christians-should-respond.html",
+      "summary": "Every natural disaster reminds us that we live in a fallen world — that mankind’s sin irreparably marred the world’s original perfection. We call these events “natural disasters,” but the reality is that these tragedies are anything but “natural.”",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T04:05:51Z",
+      "first_seen": "2026-09-20T04:06:45Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271974_w_550_367_692_435.jpg?v=20260920000921",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c91d8f74fb0f8057",
+      "title": "AI will not have the final word over humanity",
+      "link": "https://www.christianpost.com/voices/ai-will-not-have-the-final-word-over-humanity.html",
+      "summary": "How can this technology be captured for the glory of God and the advancement of the Gospel?",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T04:04:52Z",
+      "first_seen": "2026-09-20T04:06:45Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271971_w_550_367.jpg?v=20260920000841",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2c890a1b807a1220",
+      "title": "Michael Youssef urges Christians not to 'hide in our church pews': 'Roll up your sleeves of obedience'",
+      "link": "https://www.christianpost.com/news/michael-youssef-christians-must-not-hide-in-our-church-pews.html",
+      "summary": "Egyptian-born pastor and evangelist Michael Youssef says the world is experiencing “unprecedented turmoil” and is urging Western Christians not to \"hide\" in their church pews, but rather \"go to the wolves’ territories\" with the Good News of Jesus.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-20T04:03:54Z",
+      "first_seen": "2026-09-20T04:06:45Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271990_w_550_323_538_99.jpg?v=20260920000805",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "4efac4f352fd973e",
       "title": "Church fire 1.jpg",
@@ -894,6 +951,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29793/jake-rob-and-michele-reiner.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a350afd5c20cd298",
+      "title": "'Sister Act' and the gift of Blackness in the church",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtVFlQTzR4U2s2cUYxWWxQendEZlVyYnJmVWx1b1NRb0tiV2RuVHdjUDlGa2I0MEt1ellpOEZ1TnNIcVF1ZHREYVFiWTlxWjc0Z2J5ekFiZ0FsamdRb0Qxb3pwWlNURHZpbkUzR3A5TlpxUXlNSE9yU2RB?oc=5",
+      "summary": "'Sister Act' and the gift of Blackness in the church National Catholic Reporter",
+      "outlet": "National Catholic Reporter",
+      "outlet_url": "https://www.ncronline.org",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-19T08:06:35Z",
+      "first_seen": "2026-09-20T04:06:45Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10702,38 +10775,6 @@
       "category": "artist",
       "published": "2026-08-30T23:09:19Z",
       "first_seen": "2026-09-18T22:36:31Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b1217793d2dbd3ae",
-      "title": "How you can watch the 41st Stellar Gospel Music Awards for free tonight",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ1BTeTNYdFBSVjNTeGVzMmwza1p0a2xoenE4Y0dkWDRxanktOWF6cXp1b1FHYThPZGpCa04yTF9abEcxV09QbUJUU1ZreVNXWlZBZGlTajNTWG9sc0Jfd250OFdTVVItc2QzS3gxTFFIVFhBUmE3SEIwdUJDOXRiZGVVN3hyeUsyMkF2NHJTS0tJLVRwMU9MRzUzd05udlpDemFlYWwtMHNhZ0lZZHJuVldYbw?oc=5",
-      "summary": "How you can watch the 41st Stellar Gospel Music Awards for free tonight Cleveland.com",
-      "outlet": "Cleveland.com",
-      "outlet_url": "https://www.cleveland.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-08-30T07:00:00Z",
-      "first_seen": "2026-09-17T07:09:00Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fd09dcb943562c2d",
-      "title": "How to watch 41st Stellar Gospel Music Awards on BET for free tonight without cable",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUWNKWGZMdWNWeE5XSFVWcWVIU01vSmdNdnlVQ194MTVzSXo5R0JwSzFPTGRVWXRYdS1KUlpaQjIzcXRrMnJjRzVIOURmZ1E0VjgtU0JLOThqOHlER0lfemR3MHBENlJ1bVU4el9wbkZmMnk1TXRQaE5aenJJVC0tdC1tNkhydG1vcEVhQ3k1cTRCM3ZnTlliX0Z4NVF4SjNUQ3pOMmUxVlZzY1p5bzZOc0UxaUdDUnVLT2xnNkxWVF8wZ9IB1gFBVV95cUxNVkdLX2Q1Z28xMFVwNWJMUEtWUUdCYzh3Ui1nLVdlRlRtaFBubmFLam9fY2pfZmZ4eU5qdVA5SmR0WVJfRElMYTBFTjNnOXhuS25ldWhHRGU1aFl6ZW80b2tNLUtxRUxpb3Q1MnFYRFR1LUV4YllhSXdJOEgzN01ubV9Ic0lXM0xLTFNHY1Y3WmZYNXVPUzNjcWpQeUxLQzVBcW9CVWM4NUd0OXRuWFVmbF9ZdnVBZ25kNjRXWm9HZVc1XzZBTXJJUU9oNlBTT1J3eHRvNm93?oc=5",
-      "summary": "How to watch 41st Stellar Gospel Music Awards on BET for free tonight without cable Syracuse.com",
-      "outlet": "Syracuse.com",
-      "outlet_url": "https://www.syracuse.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-08-30T07:00:00Z",
-      "first_seen": "2026-09-17T16:38:39Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
