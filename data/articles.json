@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-21T13:06:09Z",
+  "generated_at": "2026-09-21T13:38:08Z",
   "story_count": 600,
-  "with_photo": 430,
+  "with_photo": 433,
   "items": [
+    {
+      "id": "91d1ca4a3083418d",
+      "title": "Relic of Christ’s tunic to be displayed for Pope Leo in France",
+      "link": "https://www.ewtnnews.com/vatican/relic-of-christ-s-tunic-to-be-displayed-for-pope-leo-in-france",
+      "summary": "The Holy Tunic will travel almost four miles from Argenteuil, France, to the pope’s youth vigil at the Stade de France in Saint-Denis.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T13:26:24Z",
+      "first_seen": "2026-09-21T13:38:08Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1751922803/images/holytunicfrance042325.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4e9735ec189dee6b",
+      "title": "High School Football Team Shines ‘the Light of Jesus’ by Giving Every Opponent a Bible After Games",
+      "link": "https://mycharisma.com/news/high-school-football-team-shines-the-light-of-jesus-by-giving-every-opponent-a-bible-after-games/",
+      "summary": "One high school football team is using the game as a way to spread their Christian faith. Park Christian School is located in Moorehead, Minnesota. The school has gotten the attention of the public for a unique act during every home game: Players will leave…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T12:59:41Z",
+      "first_seen": "2026-09-21T13:38:08Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7a92bae7fcb04297",
+      "title": "Hundreds of children to pray the Rosary for Peace with Pope Leo on October 1",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/hundreds-children-to-join-pope-pray-rosary-for-peace-october-1.html",
+      "summary": "Between 700 and 1,000 children from schools and parishes in Rome will gather in the Vatican Gardens with Pope Leo to start the “One Million Children Praying the Rosary” initiative promoted by Aid to the Church in Need. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T12:59:00Z",
+      "first_seen": "2026-09-21T13:38:08Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/maggio/10/Aid-to-the-Church-in-Need-ACN-a-Catholic-charity-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "48cd916601f35628",
+      "title": "‘Cradle to Grift’: 12 people arrested, charged in $10M daycare fraud scheme",
+      "link": "https://www.christianpost.com/news/12-people-arrested-charged-in-10-million-daycare-fraud.html",
+      "summary": "Twelve people have been charged in connection with an alleged $10 million fraud scheme involving 12 “ghost daycare centers” in the San Diego area, according to the U.S. Department of Justice, which has dubbed the crackdown “Operation Cradle to Grift.”",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T12:55:57Z",
+      "first_seen": "2026-09-21T13:38:08Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271978_w_550_367_469_304.jpg?v=20260921091154",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "b450557687b08437",
       "title": "The Specter Of Nuclear War With Russia Rises",
@@ -18,6 +94,25 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/01/Mark-Biltz-book-406x600.jpg",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "41a6eb53b07a377e",
+      "title": "Pope Leo XIV visits Dicastery for Culture and Education",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-visits-dicastery-for-culture-and-education.html",
+      "summary": "Pope Leo on Monday paid a visit to the Dicastery for Culture and Education, meeting with employees and staff and encouraging in their daily commitment and service to the Church and the world. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T12:30:00Z",
+      "first_seen": "2026-09-21T13:38:08Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/21/2026-09-21-visita-al-dicastero-per-la-cultura-e-l-educazione/1789986596736.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -10804,92 +10899,6 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/hf_20260910_214059_45af9469-b2d6-4459-863a-db9dbc2397c1-1100x730.png",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1fc37add25b5c7ae",
-      "title": "James Talarico and the Black Church",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02Qjl3Z0REVDRZOWJsNEFkcDB6X1JVWnVoNVk4M0h2bHdYYlVmdDR1UE1zUVVIN1lyTW1ieGJFbEFXRUltY1JhZm9pRG5PWmJxdTNWVUJNVFdFMGVCY1BWenVlSjBUUjl2OEZSMDhaV0c0Q3YzSDQw?oc=5",
-      "summary": "James Talarico and the Black Church Baptist News Global",
-      "outlet": "Baptist News Global",
-      "outlet_url": "https://baptistnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-10T19:59:04Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "67e61d3fe82f9aa1",
-      "title": "Lauren Daigle Joins Disney Festival of the Holidays at EPCOT",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTFpnNU84ZGNKNWRLSGlockpmMlJ2cnRPZTYwcmhIOHprd2Zta29YSkRDay1SbVVJOXd6dTI0YTZVeEFGRnlJS0ozOTRfZmY3LWxBMUU2MUFBelRhRWdRc3FJZGFGMU1PT2c2Rk5rbXZ5UHJvQ1BQYW1xWk9zb1RWcFpabmpkelAwaTRMM0o0Yy1GSFE?oc=5",
-      "summary": "Lauren Daigle Joins Disney Festival of the Holidays at EPCOT Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: Lauren Daigle",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-10T18:51:45Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "69bc7afbec5504ae",
-      "title": "Sufjan Stevens Announces a New Christmas Album: ‘Worst Christmas Ever!’",
-      "link": "https://relevantmagazine.com/culture/music/sufjan-stevens-announces-a-new-christmas-album-worst-christmas-ever/",
-      "summary": "Sufjan Stevens has a new Christmas album coming, and it’s called Worst Christmas Ever! It arrives November 6 on Asthmatic Kitty, his own label. Sixteen tracks. Fifteen of them come from the two box sets — 2006’s Songs for Christmas and 2012’s Silver & Gold …",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-10T17:06:01Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/sufjan.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e506e93903dcfbe7",
-      "title": "In 1976, Johnny Cash Starred in a Christian Comic Book Drawn by the Guy Who Drew Archie",
-      "link": "https://relevantmagazine.com/current/buzzworthy/in-1976-johnny-cash-starred-in-an-christian-comic-book-drawn-by-the-guy-who-drew-archie/",
-      "summary": "The strangest artifact in Johnny Cash’s catalog is not a record. In 1976, at the height of his fame, Cash handed his life story to a 32-page evangelical comic book. It was called ‘Hello, I’m Johnny Cash,’ it cost less than fifty cents, and it was drawn by a…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-10T15:28:15Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/johnn-2.jpg?resize=1100%2C733&ssl=1",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "01049923d76a809b",
-      "title": "Arkansas Gospel Music Heritage Month events begin Sept. 11 – KLRT",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVG94dzFwSVdWQjZoRXZmM3QxYXJlOTk2ZktsT3NNc210VjlVT1ZRRDRjQzk4MW1QalYxUFV1Z2RpYlY0eFcybHhJemVGVXhxRGl0ZVhnQUlmekI5ODZweTlkQVowQlFKQTE0V3JCRm5UV2dYcjhPcm5Lcmhlb1I5b0FjcWs1amdzNm9hLU1YVFhVUi1sOWFnbWljdw?oc=5",
-      "summary": "Arkansas Gospel Music Heritage Month events begin Sept. 11 – KLRT FOX16.com",
-      "outlet": "FOX16.com",
-      "outlet_url": "https://www.fox16.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-10T14:55:48Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
