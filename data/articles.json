@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-09-21T21:06:28Z",
+  "generated_at": "2026-09-21T21:36:46Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 448,
   "items": [
+    {
+      "id": "c5bbb4ccdc43801c",
+      "title": "As the US and China race on AI, the Vatican presses for global safeguards",
+      "link": "https://religionnews.com/2026/09/21/as-the-u-s-and-china-race-on-ai-the-vatican-presses-for-global-safeguards/",
+      "summary": "VATICAN CITY (RNS) — Pope Leo is quietly positioning the Vatican as a moral convener in the AI debate and a potential bridge between the rival superpowers.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T21:32:03Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/AP26257354806474-scaled.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "130a8fe9d4b1f008",
+      "title": "Oscar Cantú, chair of US bishops’ AI task force, urges Trump to look beyond ‘ego’ in AI race",
+      "link": "https://religionnews.com/2026/09/21/oscar-cantu-chair-of-us-bishops-ai-task-force-urges-trump-to-look-beyond-ego-in-ai-race/",
+      "summary": "VATICAN CITY (RNS) — Bishop Oscar Cantú, chair of the US bishops’ new AI task force, says the Church and White House are 'not in sync' on artificial intelligence, even as concerned technology leaders increasingly seek Catholic help in promoting regulation.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T21:28:01Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Oscar-Cantu1.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "acec7e9326452ce5",
+      "title": "Jozee believes she is \"Who God Says I Am' - Italian-American gospel singer set to drop album on October 6",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUm9kbkhxekswRkdSalF4RUFibGxSZjFLMHpTSlZ3UzVmWkdKNExaOG1qNFlBMEtEd2lPVzB5WkVJbjVBOUZQS2tacGh3MllNeVpqc0U1Ri1BTmtuMUh2eUh5WGd6WmRFYklXX0JzeTc0N2piY2h1OEdPV0ZoQ0dpczZqZW40N3lmUU1sMWxVc2xQT0lqQ0l5bHpfdTE5NTlvM2V5UXF0Q1RGQTNwaldLRDR0WkhpSklTWlVJb3h3SEo3VmNYUDVrQ2ZBa3BiOS03YTcwSFJmZGN0eHFEVWpVTl9PY3J6UQ?oc=5",
+      "summary": "Jozee believes she is \"Who God Says I Am' - Italian-American gospel singer set to drop album on October 6 DancehallMag",
+      "outlet": "DancehallMag",
+      "outlet_url": "https://www.dancehallmag.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-21T21:18:01Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T09:36:46Z"
+    },
+    {
+      "id": "b907f713f3f8540a",
+      "title": "Frank Turek on Charlie Kirk’s death, the 'war on reality’ and why he refuses to back down",
+      "link": "https://www.christianpost.com/video/frank-turek-on-charlie-kirks-death-and-the-war-on-reality.html",
+      "summary": "Frank Turek opens up about the lasting impact of witnessing Charlie Kirk’s assassination, the role faith has played in processing the trauma, and why he refuses to stop bringing the Gospel to college campuses.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T21:05:11Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272002_w_550_371_678_331.jpg?v=20260921170602",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a40f4005a433702f",
+      "title": "Fundraiser for Lindsay Clancy trial holdout juror tops $370K",
+      "link": "https://www.christianpost.com/news/fundraiser-for-lindsay-clancy-trial-holdout-juror-tops-370k.html",
+      "summary": "A fundraiser for the holdout juror in the Lindsay Clancy case has raised over $370,000 as the fallout from the high-profile murder trial continues.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T20:55:00Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271997_w_550_309.jpg?v=20260921165540",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5e1f83cabc0f300b",
       "title": "Kirk Franklin Responds to Criticism for Praying With Chris Brown: Why the Backlash is Hypocritical",
@@ -18,6 +110,44 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-22T09:06:28Z"
+    },
+    {
+      "id": "0bb62a6913187860",
+      "title": "What the Catholic Church can teach Silicon Valley about AI",
+      "link": "https://religionnews.com/2026/09/21/what-the-catholic-church-can-teach-silicon-valley-about-ai/",
+      "summary": "(RNS) — As ethical and religious leaders at Santa Clara University in the heart of Silicon Valley, we suggest embracing an idea promoted by Pope Francis: synodality.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T20:49:14Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/05/webRNS-Synod-Vatican1-100423.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8f59176d44467a01",
+      "title": "Italy Plans to Ban Burqas in Schools, Limit Enrollment of Foreign Students",
+      "link": "https://mycharisma.com/news/italy-plans-to-ban-burqas-in-schools-limit-enrollment-of-foreign-students/",
+      "summary": "Italian Prime Minister Giorgia Meloni is proposing a ban on burqas in her country’s schools. Meloni said she also wants to cap the number of foreign students able to enroll in Italian schools. She has additionally proposed making Italian language lessons…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T20:43:37Z",
+      "first_seen": "2026-09-21T21:36:46Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "3cca5c2ded3ea2fa",
@@ -10814,124 +10944,6 @@
       "published": "2026-09-15T08:10:47Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e006213b40c8abb8",
-      "title": "New Gospel Library Music Features for Listening, Singing and Accompanying",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVJCdC0tdGtnWFFYOUo1eVZMZTA2aDVWQlBKc1RKSUFlUzlSaWJGUmlnTUp5N0tuMUFXV2RVWks5UnU0SGhtdXJXUkxNdGtqYk9KYjVrY21YSEJaY2MtUEhCT2E1bDZlS1ZqdXdXVk9wNUl1QkcwSHN1VWhzak1mTDBrSnRRSnZ6U1ZyMWFhRUdaQjc0UjkzcVc4alg1el9UMGZJMndvMXhPN19vMlZUNVFENE5zenhWOWxJdnNB?oc=5",
-      "summary": "New Gospel Library Music Features for Listening, Singing and Accompanying newsroom.churchofjesuschrist.org",
-      "outlet": "newsroom.churchofjesuschrist.org",
-      "outlet_url": "https://newsroom.churchofjesuschrist.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-15T07:00:00Z",
-      "first_seen": "2026-09-17T15:07:45Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f91304d4ad44c51d",
-      "title": "Tasha Cobbs Leonard Releases New 34-Track Live Album 'TASHA UNSCRIPTED'",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUE1TXBXOHhkOTl4dXk1M3FCRDJfNVQ0Q1NVQXJ6UUczdnJVandXcUhIYVROeE1iZnIzbTFzekFhN3lGMi1jVl9XX0JqRmktTGJQZ01mZnJ5SXBRQldpakdsS0FtdW1URUlXV1ltV2pfMVZCRE9ZRmUtY2pZTFh0c0FJLVhvb0lTRTlJc2F0aFVKTXkxRlpFekxsdUdhU25NWjZSS3EyWmxtVXRTNFE?oc=5",
-      "summary": "Tasha Cobbs Leonard Releases New 34-Track Live Album 'TASHA UNSCRIPTED' GodTube.com",
-      "outlet": "GodTube.com",
-      "outlet_url": "https://www.godtube.com",
-      "source_feed": "Google News: Kierra Sheard",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-15T06:02:50Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92fa2b15012a7185",
-      "title": "The Solution to Jacob Coxon’s AI Warning: THE “ALGODRITHM”: 10 Commandments for AI in a Digital Age: A Biblical Blueprint for Governing the Most Powerful Technology in History (Pt 2) by Daniel Whyte III",
-      "link": "https://blackchristiannews.com/the-solution-to-jacob-coxons-ai-warning-the-algodrithm-10-commandments-for-ai-in-a-digital-age-a-biblical-blueprint-for-governing-the-most-powerful-technology-in-history-pt-2-by-dani/?utm_source=rss&utm_medium=rss&utm_campaign=the-solution-to-jacob-coxons-ai-warning-the-algodrithm-10-commandments-for-ai-in-a-digital-age-a-biblical-blueprint-for-governing-the-most-powerful-technology-in-history-pt-2-by-dani",
-      "summary": "THE ALGODRITHM CHARTER AND FRAMEWORK: The 10 Commandments of AI: God’s Blueprint for Artificial Intelligence Governance, Risk Management, and Ethical The post The Solution to Jacob Coxon’s AI Warning: THE “ALGODRITHM”: 10 Commandments for AI in a Digital Age…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-15T05:54:31Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/07/coveralgodrithm.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d34d23bf07780033",
-      "title": "When a megachurch isn’t really a megachurch",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS2x6QzFHeC0wc0NDVFVKNlZBVkR5ckVaQ0JhUzd5TjkwSEdabEhFOG03WTRiQjV6NUlnMVpJQ21Ga2QxdU5ObUtfdFdDRGNXckk1T3pkdmhBTnk3VUktUjMyRTFVTm52RzNnaDk3Y3FreWdjeXB3RTBvczFxb1FBSQ?oc=5",
-      "summary": "When a megachurch isn’t really a megachurch Baptist News Global",
-      "outlet": "Baptist News Global",
-      "outlet_url": "https://baptistnews.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-15T03:55:12Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "790b6c28e31bb76e",
-      "title": "WHEN MY TEARS SPOKE, HEAVEN LISTENED – Deitrick Haddon X Dolly Parton X Naomi Raine X Tye Tribbett Carlo Lucarelli (4HQcoCxxxX)",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VbHdDLVJJX3ZXakQyc2tiS2xtMWFLYzJJOTNRSndlQ2FFRVpPTEhhbWNCTmd0Wjd4Z3lJa3VKMjNLbXplLXFESG12TXcycWZiVlpyUUJtRURFNlVzeUZYdkYxMGwyQQ?oc=5",
-      "summary": "WHEN MY TEARS SPOKE, HEAVEN LISTENED – Deitrick Haddon X Dolly Parton X Naomi Raine X Tye Tribbett Carlo Lucarelli (4HQcoCxxxX) Unisba Media",
-      "outlet": "Unisba Media",
-      "outlet_url": "https://media.unisba.ac.id",
-      "source_feed": "Google News: Tye Tribbett",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-15T01:19:46Z",
-      "first_seen": "2026-09-20T10:06:42Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5fe579773d30c7ad",
-      "title": "Lauren Daigle Announces 10th Annual Behold Christmas Tour",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcmZkYzc1d0RyeHdvTlFxUzhnSmYyR1dsZzZEeE51ODZVbWgxQjExZnlGSkxza3lWdlgwSl82WkY4RzNjUjdNMXlEX1FfeDRETEthaUZaQy1xa3RoVVRpbFN0QjV0U245YVRvTzV3U3I3ZDJJaFg0WWtaOWVZSVIwNEpUZGI3Z1JGWU8yeXlXQQ?oc=5",
-      "summary": "Lauren Daigle Announces 10th Annual Behold Christmas Tour Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-15T01:04:46Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "20db3621c97814e4",
-      "title": "Study: Doctors don’t screen for abortion coercion — and it hurts women",
-      "link": "https://www.ewtnnews.com/world/us/study-doctors-don-t-screen-for-abortion-coercion-and-it-hurts-women",
-      "summary": "A recent study highlights that when women are coerced or pressured into abortion, they are at high risk for negative outcomes — but abortion providers rarely screen for abortion coercion.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T22:51:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1760108778/images/abortionpill10925.jpg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
