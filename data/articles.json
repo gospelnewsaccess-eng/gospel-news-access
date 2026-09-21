@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-21T00:09:18Z",
+  "generated_at": "2026-09-21T00:42:35Z",
   "story_count": 600,
-  "with_photo": 410,
+  "with_photo": 409,
   "items": [
+    {
+      "id": "48813c8333a522fc",
+      "title": "Top 25 Classic Christian Songs: Help Us Build the Countdown",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblRibUhLMUJpRDdmU1U4dXE4QWpZQjlIaE84emkxb3B3STlSbW1SaFlDTk9zQ3ZYZ3FSU3hLQ2hDMmh5LUI4eFJnRGxQaG55SDAxMXhWWE1SeURDdDNaVDlLdXBGdkpXOV9RZ0lReldWM1EtZWVPSk1BTEkteVJXNGI2Rk4tZHlVRmNFZHJsYUN5bVE?oc=5",
+      "summary": "Top 25 Classic Christian Songs: Help Us Build the Countdown Hope 103.2",
+      "outlet": "Hope 103.2",
+      "outlet_url": "https://hope1032.com.au",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-21T00:38:03Z",
+      "first_seen": "2026-09-21T00:42:35Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-21T12:42:35Z"
+    },
     {
       "id": "6e77a90330a4692d",
       "title": "Unity Weekend returns to Aiken with golf, gospel music and Black history",
@@ -10811,25 +10827,6 @@
       "published": "2026-09-07T11:36:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bb01b91b117f1c95",
-      "title": "BCNN1’s Black Coffee #35 with Daniel Whyte III",
-      "link": "https://blackchristiannews.com/bcnn1s-black-coffee-35-with-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=bcnn1s-black-coffee-35-with-daniel-whyte-iii",
-      "summary": "Pictured: Left: Perfecting Faith Church / YouTube | Right: New Birth Church / YouTube Watch The Full Video Here: https://blackchristiannews.substack.com/p/bcnn1s-black-coffee-with-daniel-whyte-7de?utm_campaign=post&utm_medium=web The post BCNN1’s Black Coffee…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-07T08:04:43Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/McClurkin-Bryant.webp",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
