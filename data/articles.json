@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-21T03:06:56Z",
+  "generated_at": "2026-09-21T03:40:18Z",
   "story_count": 600,
-  "with_photo": 409,
+  "with_photo": 410,
   "items": [
+    {
+      "id": "5bb90d28a7786034",
+      "title": "Cindy Crawford’s Only Son Presley Gerber Dies Suddenly At 27",
+      "link": "https://www.jubileecast.com/articles/39582/20260920/cindy-crawford-s-only-son-presley-gerber-dies-suddenly-at-27.htm",
+      "summary": "Cindy Crawford’s Only Son Presley Gerber Dies Suddenly At 27",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-21T03:33:34Z",
+      "first_seen": "2026-09-21T03:40:18Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31879/presley-gerber.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "dc3d4399a4fe7caf",
       "title": "Ghanaian Gospel sensation Jeif Annie releases refreshing debut album “Ahavah”",
@@ -10811,22 +10830,6 @@
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/01092425/3-Picture-Template-Article-20.jpg",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "31b8bb42652d4a56",
-      "title": "Gospel on the Water Brings Grammy-Winning Voices to...",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVp1RHUwX0pXWDBicFRwUG1ZeTZtZ3gzTFI1TFlhSUVZU2FtN0U2X25CQVJtUFN4SWNkWGtKRGpxWEtzeHBvTlZaVjMzeHdpTDFPMm9YcmdBVDRjZDRObzFXa3FuMzRlX0hiQUk3UzBfOUo4S3R5QlJBZ1UzV2F5RkIzQ3daZmVvOVNiN3o5X2dmbWoyRkIwRnNjdjY0RGRKNko3SFEzMmtMOEdz?oc=5",
-      "summary": "Gospel on the Water Brings Grammy-Winning Voices to... caravannews.com",
-      "outlet": "caravannews.com",
-      "outlet_url": "https://www.caravannews.com",
-      "source_feed": "Google News: Le'Andria Johnson",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-07T15:28:26Z",
-      "first_seen": "2026-09-18T17:06:41Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
