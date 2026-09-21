@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-21T09:38:34Z",
+  "generated_at": "2026-09-21T10:07:02Z",
   "story_count": 600,
-  "with_photo": 415,
+  "with_photo": 414,
   "items": [
+    {
+      "id": "493eb0563c1907d5",
+      "title": "A historic CT church faces a future with a part-time priest. It’s a blow to parishioners.",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNX25JNlVURTM4WXM4LUF1Y1FzMzRrTGhYLUJSSmlCVEVPWEU1WkVGelFUNDNrRVY4WHZCVFpGemlOMF9fWDdabVA5em10cEFRaEFLX3JZMDZod0RDRHlYQTI4bldYZnZJeXktTVU0WnZRcmRDX2ZhMTdhUHZQNEMyakZHS0pRU2ZzMk1ha0xoMjJlVkxlUmZDLWNQNFlaYTdiTEprUG9oY1htVWNjcUhWVHlhZVlLaHBKOUJDN1Nfdw?oc=5",
+      "summary": "A historic CT church faces a future with a part-time priest. It’s a blow to parishioners. Hartford Courant",
+      "outlet": "Hartford Courant",
+      "outlet_url": "https://www.courant.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-21T09:32:03Z",
+      "first_seen": "2026-09-21T10:07:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-21T22:07:02Z"
+    },
     {
       "id": "34398148edf94615",
       "title": "Pope to Poor Clare nuns: Vocations are born from community’s prayer",
@@ -10826,25 +10842,6 @@
       "published": "2026-09-09T01:58:12Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "68e4bd7f149e1bc2",
-      "title": "Reese Witherspoon Was Once Made Jury Foreman Because Jurors Assumed ‘Legally Blonde’ Meant She’d Been to Law School",
-      "link": "https://relevantmagazine.com/current/buzzworthy/reese-witherspoon-was-once-made-jury-foreman-because-jurors-assumed-legally-blonde-meant-shed-been-to-law-school/",
-      "summary": "Jury duty is where you find out the legal system is run by regular people. People with jobs, opinions and, occasionally, a hazy memory of a movie they saw once. Which is roughly how Reese Witherspoon ended up running a jury room in Beverly Hills. Not because…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-09T01:36:07Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/legally.jpg",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
