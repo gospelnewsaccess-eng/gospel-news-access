@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-21T09:07:36Z",
+  "generated_at": "2026-09-21T09:38:34Z",
   "story_count": 600,
-  "with_photo": 414,
+  "with_photo": 415,
   "items": [
+    {
+      "id": "34398148edf94615",
+      "title": "Pope to Poor Clare nuns: Vocations are born from community’s prayer",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-federation-capuchin-poor-clare-nuns-italy.html",
+      "summary": "Pope Leo XIV encourages Capuchin Poor Clare nuns in Italy to provide lifelong formation for professed religious and to spread the Gospel in the world through prayer and hospitable welcome. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T09:21:00Z",
+      "first_seen": "2026-09-21T09:38:34Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/21/2026-09-21-partecipanti-all-assemblea-della-federazione-delle-mo/1789982098213.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b3129614b8dddfdb",
+      "title": "Meet Annie and The Caldwells, Mississippi’s globe-trotting gospel family - The Clarion-Ledger",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMy1RWjdzNEk1SjlmZVl3WUxPSmxVQXp6cWdTZUpzV0RmTmhEOVU3VGZtY1NSRGdiSGprRVVvZWd5TU4wNWpVLUozMVRZcHF5MHZDTEpUVG1jLU9tSjR5Mlc1X1U4QnNjRlBja3REUTkzbGFZMGlabWdkWGhSMWhyWjh6cUM5MHY2ZGxMXzRiOUxLSnlnSlZDMGJUblgzaFN0OUVRcUlrWmpEbzZwMWlpaVhLdHlmNWMwa2ZBbTBJbTJqUU1RLVg3bHVnOEMzQUZOdFJtb3ZPd1VYRGJj?oc=5",
+      "summary": "Meet Annie and The Caldwells, Mississippi’s globe-trotting gospel family The Clarion-Ledger",
+      "outlet": "The Clarion-Ledger",
+      "outlet_url": "https://www.clarionledger.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-21T09:06:00Z",
+      "first_seen": "2026-09-21T09:38:34Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-21T21:38:34Z"
+    },
     {
       "id": "d666f827934f8dd4",
       "title": "‘The Bachelor’s’ Chris Harrison Returns With Faith-Based Dating Show ‘The Vow'",
@@ -17,6 +52,25 @@
       "first_seen": "2026-09-21T08:39:15Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31881/chris-harrison.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f9ff79fe1e7f39ce",
+      "title": "Maison Bakhita in Paris, a laboratory of fraternity",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-visit-france-maison-bakhita-charity-migration-paris.html",
+      "summary": "During his Apostolic Journey to France from September 25 to 28, Pope Leo XIV will visit Maison Bakhita in Paris, a center run by the Archdiocese that welcomes migrants and works to integrate them. Isabelle Cauchois, the outgoing director, speaks about…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T08:15:00Z",
+      "first_seen": "2026-09-21T09:38:34Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/18/mbg95-21-1aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10789,57 +10843,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/legally.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0c01067edc40c38d",
-      "title": "The Black Church and The Black Community",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52TURRam1xcDhpNkxHaHlVaUwzTWwwMDBfbWFzLTl1aFJQdnJoZ0RWNGF0d0RrejBtOWFLOGZiZndaa1pONTliWDdrUnQ3azNfMG0zRFR3TVl5OG1pa2hJY0FrNlA3TkV6bHNSclZhckg?oc=5",
-      "summary": "The Black Church and The Black Community WHUR 96.3 FM",
-      "outlet": "WHUR 96.3 FM",
-      "outlet_url": "https://whur.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-08T23:29:02Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cb2b985078dec206",
-      "title": "Kirk Franklin Inks Deal With Uptown Records, Gospel Legend Joins Diverse Label",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHZiVVpSQjdBenhpWHRkekhLbkVDanB5ZjVCTk80WjZYcV80UVNwX0tyZVhQcjU0R3lnRDJBd0ZHOGh4UDNFdzBzTUdJTkRkZkp3b0cyaDVXX0xCNVk0WDQyNjJpeXcyZ2gydHBwWUx3T2lXUlV3S3BKZ0N1a1VoV2NkZHlqMkwyeWd0U3JVdzFBakxZTHBFVzNIMFlWeHFYX0NFaUQ3bU9SNi1HLXpOT2pUY9IBuAFBVV95cUxPLU52Vnh1UF9UcEJHLUR6T0QxTFplblRDMHJINzRJVWlxNWh3VmotcDlDeVhtaWpvcVBrQWh2bzJKSllWUG5kUlVhRXIxeXhrQVpVcGpSOW14ajY0cGVBdXpqWnh5dXV0OGJCc2FieVo1XzhqV20zZGIxdmR3ZVgtX0F1T0VhUVpQQU9JajJ3ank5aExKeDBmWDRCci0wVEw3YVBQdHdudEZ5dkV1MjZKc2NzTzRyemhF?oc=5",
-      "summary": "Kirk Franklin Inks Deal With Uptown Records, Gospel Legend Joins Diverse Label That Grape Juice.net",
-      "outlet": "That Grape Juice.net",
-      "outlet_url": "https://thatgrapejuice.net",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-08T22:46:22Z",
-      "first_seen": "2026-09-18T13:37:41Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ba5b0c59761c2ca4",
-      "title": "Sho Baraka – Good Morning @ 4:25am (Bless The Mic)",
-      "link": "https://rapzilla.com/2026-09-sho-baraka-good-morning-425am-bless-the-mic/",
-      "summary": "Sho Baraka came to Bless the Mic with his song “Good Morning @ 4:25am”! The song is from Midnight of a Good Culture. Filmed at Dafixx Radio in Atlanta, GA, by Will Thomas, and it was sponsored by Faith Over Fear faithoverfear.com. Watch Sho Baraka – Good…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-08T17:30:16Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/08132228/Sho-Baraka-Good-Morning-%40-4_25am-_-Bless-The-Mic-0-14-screenshot-e1788888188760.png",
         "via": "og:image"
       },
       "breaking": false,
