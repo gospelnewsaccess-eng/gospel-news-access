@@ -1,8 +1,214 @@
 {
-  "generated_at": "2026-09-21T18:08:28Z",
+  "generated_at": "2026-09-21T18:41:14Z",
   "story_count": 600,
-  "with_photo": 440,
+  "with_photo": 441,
   "items": [
+    {
+      "id": "3877a30c0e8af6c2",
+      "title": "Erica Campbell’s label sues distributor SRG/ILS Group, claiming it never sent a single royalty statement",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMkxMX1RUejdsMzVrV3UxVlNJZGRLQnFpVUxocVVULUpwREp2ZUJKQ3h3LVljVjJjMWpBVFhmM3AwQXNubHowOGYyNDFVUmkwcVYwbUdDZFZBZ0tkR0hOc0s1VjU3cVA4RFJnazgyMlpSX1c3WnJZWGF1MU9HMDFSa3MzQm0tV0dGZHBHbVNGRjRHdm9vSkctcEdfZVVyUlJnM25VU0NacXlOZzI2X1l4cURiU0ZzblI5ZGRkTnlQT2RTdzcxek9OSWRnTHF6MzBjTTl6NVNpUDVGQQ?oc=5",
+      "summary": "Erica Campbell’s label sues distributor SRG/ILS Group, claiming it never sent a single royalty statement Music Business Worldwide",
+      "outlet": "Music Business Worldwide",
+      "outlet_url": "https://www.musicbusinessworldwide.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-21T18:30:27Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T06:41:14Z"
+    },
+    {
+      "id": "cabc44ab954adff9",
+      "title": "Vatican group to discuss AI, human dignity with world leaders at UN General Assembly",
+      "link": "https://www.ewtnnews.com/world/us/vatican-group-goes-to-ny-for-un-meeting",
+      "summary": "The discussion focuses on the question “What are we building, for whom, and who will inherit it?”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T18:06:00Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786654492/ewtn-news/en/shutterstock_2591456087_b3mnou.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "592cafad0d1a54ea",
+      "title": "Why the closing prayers of Judaism’s holiest holiday focus on repairing relationships with each other",
+      "link": "https://religionnews.com/2026/09/21/why-the-closing-prayers-of-judaisms-holiest-holiday-focus-on-repairing-relationships-with-each-other/",
+      "summary": "(The Conversation) — A central theme of the High Holidays – and Judaism itself – is that to do right by God, people must first do right by each other.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:52:47Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "https://images.theconversation.com/files/760601/original/file-20260917-60-a3cxr8.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ab46a125e5d7e55a",
+      "title": "The ethical cases for immigration as a human right",
+      "link": "https://religionnews.com/2026/09/21/the-ethical-cases-for-immigration-as-a-human-right/",
+      "summary": "(The Conversation) — A political philosopher explains the ethical arguments in favor of free movement.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:51:43Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "https://images.theconversation.com/files/760073/original/file-20260915-50-uoj81q.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "73573585e024fb8b",
+      "title": "Michigan city defends itself against accusations of favoring Muslim holidays over other faiths",
+      "link": "https://religionnews.com/2026/09/21/michigan-city-defends-itself-against-accusations-of-favoring-muslim-holidays-over-other-faiths/",
+      "summary": "DEARBORN, Mich. (AP) — The lawsuit by Margot Cleveland, a journalist for The Federalist, accused the city and its mayor, a Democrat, of favoring the Muslim faith over other religious beliefs in a city with a population of over 100,000 people that is majority…",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:50:44Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-23.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b09e0819bbb9b4e6",
+      "title": "New laws trigger a fresh legal fight over Nazi-looted art in Los Angeles and Auschwitz museums",
+      "link": "https://religionnews.com/2026/09/21/new-laws-trigger-a-fresh-legal-fight-over-nazi-looted-art-in-los-angeles-and-auschwitz-museums/",
+      "summary": "LOS ANGELES (AP) — This pair of lawsuits are the first to be filed after the recent passage of laws by California and Congress, which strengthen U.S.-based claims to artwork that were forcibly taken from Jewish families during World War II.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:48:40Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-22.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "94e75eca5ea73c4f",
+      "title": "Knife attack on Sikh trucker in Wyoming stirs fresh fears in community",
+      "link": "https://religionnews.com/2026/09/21/knife-attack-on-sikh-trucker-in-wyoming-stirs-fresh-fears-in-community/",
+      "summary": "FORT COLLINS, Colo. (AP) — The Sikh victim was attacked from behind early Sunday while in a restroom at the Bitter Creek rest stop on Interstate 80 midway between Cheyenne and Salt Lake City, according to court documents.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:47:10Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/main-21-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b4defacf7a26db37",
+      "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
+      "link": "https://religionnews.com/2026/09/21/jehovahs-witnesses-allow-blood-derived-products-but-keep-ban-on-whole-blood-transfusions/",
+      "summary": "(AP) — The policy, announced Friday, is the second revision this year in what has long been one of the most controversial and distinctive teachings of the religious organization.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:44:11Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-20-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "99c22577ce7422d7",
+      "title": "Bombing at mosque near police offices in Pakistan kills at least 21",
+      "link": "https://religionnews.com/2026/09/21/bombing-at-mosque-near-police-offices-in-pakistan-kills-at-least-21/",
+      "summary": "PESHAWAR, Pakistan (AP) — The coordinated assault was the latest in a surge of militant violence near the border with Afghanistan where Pakistani Taliban militants have increasingly targeted police and other security forces as the government intensifies…",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:41:54Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/main-19-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ddf4df87472124b9",
+      "title": "University of Toledo Athletes Turned Their Football Facility Into a Baptism Night. 400 People Showed Up and 60 Got Saved.",
+      "link": "https://relevantmagazine.com/culture/sports/two-university-of-toledo-athletes-turned-their-football-facility-into-a-baptism-night-400-people-showed-up-and-60-got-saved/",
+      "summary": "College athletes are usually at the football facility to practice. Last Monday at the University of Toledo, a defensive end and volleyball player had something else planned. Janelle Green, a junior transfer from Cincinnati, and Ben Sahakian, a graduate…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:41:21Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/toledo2_VSCO.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3db1d5003c2d7050",
+      "title": "A traditional Chinese coffin maker in Malaysia preserves a fading family craft",
+      "link": "https://religionnews.com/2026/09/21/a-traditional-chinese-coffin-maker-in-malaysia-preserves-a-fading-family-craft/",
+      "summary": "MUAR, Malaysia (AP) — Traditional Chinese beliefs envisioned an afterlife that in many ways mirrored the world of the living, rather than the Christian or Islamic conception of heaven or hell as a person’s ultimate destination.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T17:41:02Z",
+      "first_seen": "2026-09-21T18:41:14Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-v01-12-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "68553799b372edb1",
       "title": "China’s porcelain city carries centuries-old heritage to a new generation",
@@ -10715,209 +10921,6 @@
       "tier": 3,
       "category": "gospel-trade",
       "published": "2026-09-14T14:23:03Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2dd701aec835c9f3",
-      "title": "Bon Iver’s Justin Vernon Wrote a Jingle for a Bar’s Meatloaf Dippers — and It’s Unbelievably Catchy",
-      "link": "https://relevantmagazine.com/current/buzzworthy/bon-ivers-justin-vernon-wrote-a-jingle-for-a-bars-meatloaf-dippers-and-its-unbelievably-catchy/",
-      "summary": "Justin Vernon has spent nearly twenty years making music that sounds like a cabin in February. Falsetto, reverb, grief you can’t quite place. Well, he’s now made a song about fried meatloaf, and it might be the happiest thing he’s ever recorded. On Friday…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T14:12:48Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/justinvernon.jpg?fit=2248%2C1498&ssl=1",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "583ad7b2f278f9cb",
-      "title": "Pope's Alma Mater reveals first Pope Leo XIV Sustainability Medal recipient",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/pope-s-alma-mater-reveals-first-ever-pope-leo-xiv-sustainabili.html",
-      "summary": "At a press conference held in the Sala San Pio X of the Vatican, Villanova University announces that Cardinal Michael Czerny, S.J., was selected as the inaugural recipient of the Pope Leo XIV Sustainability Medal, and reveals new details about the upcoming…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T13:10:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/14/medaglia-villanova-university-czerny-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ccde6780bf0a23e1",
-      "title": "Cardinal Farrell: Rekindling hope in a young person takes humanity a step forward",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/cardinal-farrell-world-youth-day-seoul-2027-young-people-faith.html",
-      "summary": "Cardinal Kevin Farrell, Prefect of the Dicastery for Laity, Family and Life, celebrates Mass and opens the Second Preparatory Meeting for World Youth Day Seoul 2027. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T12:33:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/14/farrell-seoul-gmg-2027-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "87af5754ec8738e7",
-      "title": "States Begin Lining Up to Ban Sharia Law",
-      "link": "https://mycharisma.com/most-recent/states-begin-lining-up-to-ban-sharia-law/",
-      "summary": "Indiana’s lieutenant governor says his office is fielding calls nearly every day from constituents demanding action against Sharia law, calling the issue one that transcends party lines in a way few others do. “This is an 80/20 issue, our offices have seen…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T12:16:59Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d897ef9c66e7cb2f",
-      "title": "Remember When Churches in the ’90s Had Sermons About Pokemon Being Demonic?",
-      "link": "https://relevantmagazine.com/current/buzzworthy/remember-when-churches-in-the-90s-had-sermons-about-pokemon-being-demonic/",
-      "summary": "Somewhere in your parents’ house there is probably a binder of Pokémon cards that got confiscated from you. There was a whole apparatus behind that: Special sermons. VHS tapes. At least one book. All of it arguing that Pikachu was the gateway to the occult. A…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T12:06:39Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/pokemonpreacher.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "85e0d7f29af13c39",
-      "title": "Pope: A library is not just place of books but of relationships and exchange",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-library-not-just-place-of-books-but-of-relationship-exchang.html",
-      "summary": "Speaking to the staff of the Vatican Archives and Library, Pope Leo XIV highlights the importance of the mission of these two institutions in service of the Church and the world and notes that the Library is not simply a place full of books, but a place built…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T12:01:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/14/2026-09-14-inaugurazione-della-mostra-aqva--catastrofe-e-meravig/1789382407436.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3ce7fe5a8ac3d06b",
-      "title": "Pope orders expansion of Vatican Apostolic Archive and Library",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-orders-expansion-of-vatican-apostolic-archive-and-library.html",
-      "summary": "Given the increase in the Holy See’s bibliographic holdings and documentary production, the Pope expands the Vatican’s archive and library, and asks that a new building be constructed to meet their needs. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T11:09:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2024/novembre/13/01.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f42487c10ca525c8",
-      "title": "Kirk Franklin Signs New Partnership With Uptown Records, Releases \"Thank You For Everything\" Video",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdnBsbnhvX2NxeEdxRVduQTdoVTdjOTlHNjNuMDk2LUFMTXpGZXFVZk11WWNBOVM0UG4zRFZmTDRSYXlZQWY4cGNEeExqRXR6MmhBU1Y3ZTJWMURwZ1BrY09QcGtkX2FFQVlJM3A4NmZoaUxfNVctU3AyRC1vQklLU1BIVTJLYXRYdFRvYjc4X2V3S1dKWFZoOGNnTUZsOWlUeGg0Zy1ZekM0S0l6MjYyQlJFN1RRUW5RU3lLVXVR?oc=5",
-      "summary": "Kirk Franklin Signs New Partnership With Uptown Records, Releases \"Thank You For Everything\" Video JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-14T10:31:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ef740de723bcb0b7",
-      "title": "Pope Leo ends Covid-era salary cuts for Cardinals and senior officials",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-motu-proprio-ends-covid-salary-cuts.html",
-      "summary": "Pope Leo XIV repeals Pope Francis’ 2021 Motu Proprio “A Sustainable Future,” which reduced the salaries of Cardinals, Dicastery heads and secretaries, and clergy and religious in response to the Covid-19 emergency, leaving unchanged the effects produced while…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T10:25:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/02/09/1788334503831.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "60583ec6e18ec0d0",
-      "title": "The Men Who Wallow in Unbearable Bleakness",
-      "link": "https://www.christianitytoday.com/2026/09/the-men-who-wallow-in-unbearable-bleakness-ronson-castle-review/",
-      "summary": "Men are flailing and floundering in today’s world. So say any number of journalists, researchers, and other worried observers, who see American males slipping away from anchors of stability like marriage, community, and useful labor. These stories have…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T10:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/men-wallow-unbearable-bleakness.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "eaafb295ea284517",
-      "title": "After SC megachurch kicks sex offender off worship team, church grapples with how to guard children",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZ1ZiSXQ4OGNFTFNQWWxpVXlYSFVDMklJU2RuR2thekpTSVI5MHFUam1FbWtmUVRlaFhoYzh1Rmhhd3BUZEJiQmJWRlVRVGJQTWQ0THlIVlNGcVF3OUkzT3B4cWx4Ujh0Z1pBbzh5RW1CYnV5eXpHVmxlbFVZbVd0NmxzWWhRbXFEdTlFN1hjSTVOY1FMS2phdVhMWGtzOGJoMHZnUWl0dWFFOTl2TElpV3NuclZnWjRGNXBkY25ZN19ZOXdnNWY2eFVUZkotNV83eHpoakd4b1l5bm9LRXpOMFNPekNrQ0Qw?oc=5",
-      "summary": "After SC megachurch kicks sex offender off worship team, church grapples with how to guard children Post and Courier",
-      "outlet": "Post and Courier",
-      "outlet_url": "https://www.postandcourier.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-14T09:00:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
       "breaking": false,
