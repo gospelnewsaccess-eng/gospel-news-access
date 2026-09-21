@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-09-21T15:06:30Z",
+  "generated_at": "2026-09-21T15:36:51Z",
   "story_count": 600,
-  "with_photo": 436,
+  "with_photo": 440,
   "items": [
+    {
+      "id": "a76442e7012c10c9",
+      "title": "Pope to pray rosary for peace with more than 700 children at the Vatican",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-pray-rosary-for-peace-with-more-than-700-children-at-the-vatican",
+      "summary": "Coming from schools and parishes throughout Rome, the children will join the pontiff in the “One Million Children Praying the Rosary” campaign.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T15:26:00Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1781170735/ewtn-news/en/_RIS5141_bll70w.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "00b7fd57fc7be6f8",
+      "title": "Harvey Watkins Jr. & The Canton Spirituals Release New Single “Still Winning” & Sign with WayNorth Music",
+      "link": "https://pathmegazine.com/articles/harvey-watkins-jr-the-canton-spirituals-release-new-single-still-winning-sign-with-waynorth-music/",
+      "summary": "Some artists make music. Some artists make history. And some artists become part of the foundation upon which generations of music are built. Harvey Watkins Jr. and … The post Harvey Watkins Jr. & The Canton Spirituals Release New Single “Still Winning” &…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-21T15:24:27Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f53d6a52661fdc0f",
+      "title": "Anthony Brown & group therAPy Releases Seventh Album, Disclosure",
+      "link": "https://pathmegazine.com/articles/anthony-brown-group-therapy-releases-seventh-album-disclosure/",
+      "summary": "Grammy® Award-nominated and platinum-selling gospel powerhouse Anthony Brown & group therAPy have released their seventh album, Disclosure (A Major Entertainment / Tyscot / Fair Trade Services), to all digital music platforms. … The post Anthony Brown & group…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-21T15:16:10Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5410855218bb44db",
+      "title": "Former Worship Pastor Caleb Flynn Allegedly Sent Chilling Text Hours Before Wife’s Murder",
+      "link": "https://mycharisma.com/news/former-worship-pastor-caleb-flynn-allegedly-sent-chilling-text-hours-before-wifes-murder/",
+      "summary": "The murder trial of former worship pastor and “American Idol” contestant Caleb Flynn has barely begun, and prosecutors are already unveiling disturbing new allegations about what they say was happening behind closed doors before his wife, Ashley Flynn, was…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T15:11:20Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7f28136a28b79c70",
+      "title": "‘Borgo Dialogues’ bring global leaders together in New York",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/borgo-dialogues-laudato-si-new-york-cardinal-baggio.html",
+      "summary": "The initiative aims to bring leaders from different sectors together to discuss artificial intelligence, healthcare, sustainability and the common good. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T15:05:00Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2025/09/02/20/1756839148465.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "02520e5a6167b44b",
+      "title": "The Texas Sharia Panic: How a Rallying Cry Became a Curriculum",
+      "link": "https://religionnews.com/2026/09/21/the-texas-sharia-panic-how-a-rallying-cry-became-a-curriculum/",
+      "summary": "As Texas Republicans turn fear of Sharia into an election-year message, Muslim communities are organizing against its growing influence on schools, policy, and public life.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T14:57:30Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/336-1200x628-1.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7eddf4781665a542",
+      "title": "Pope Leo XIV’s schedule for Latin America trip released",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-s-schedule-for-latin-america-trip-released",
+      "summary": "The pontiff will meet with authorities, interfaith leaders, prisoners, and workers, celebrate 10 public Masses, and hold three prayer vigils with young people.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T14:46:00Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789997604/ewtn-news/en/Untitled_project_qpxrv1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "49ed819dc2089fb4",
       "title": "Iran Flight Horror as Ceiling Panels Collapse During Takeoff Emergency",
@@ -18,6 +145,25 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "90ee51497d44f672",
+      "title": "Judge upholds law banning religious exemptions to vaccine mandates",
+      "link": "https://www.christianpost.com/news/judge-upholds-law-banning-religious-exemptions-to-vaccine-mandate.html",
+      "summary": "A lawsuit filed by parents challenging a Connecticut law that eliminated religious exemptions to school vaccine mandates has been dismissed because a law states that such exemptions are not protected under a longstanding religious freedom law.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T14:27:00Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271977_w_550_340.jpg?v=20260921103713",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -74,6 +220,25 @@
       "first_seen": "2026-09-21T14:38:57Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271992_w_550_367_577_120.jpg?v=20260921100401",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "85093dac39e78047",
+      "title": "Cindy Clemishire seeks to overturn appeals court dismissal of lawsuit against Gateway Church",
+      "link": "https://www.christianpost.com/news/cindy-clemishire-seeks-to-overturn-dismissal-of-lawsuit.html",
+      "summary": "Lawyers for child sex abuse survivor Cindy Clemishire asked the Texas Supreme Court Thursday to review and overturn the Fifth Court of Appeals’ recent dismissal of most of her civil claims in a defamation lawsuit against Gateway Church, its founder and former…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-21T13:47:31Z",
+      "first_seen": "2026-09-21T15:36:51Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271976_w_550_441.jpg?v=20260921103826",
         "via": "media:content"
       },
       "breaking": false,
@@ -10755,159 +10920,6 @@
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11120339/3-Picture-Template-Article-1.png",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1f8d45712649763b",
-      "title": "Kirk Franklin Announces New Partnership With Uptown Records",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS1JxSE1laUtvMnd4enc0R2NKbENicG81Ym55UGlCODVkVHN5MHUzU2x3eGttSXlIRFhvbWExQXRXdzBCU2llWThUTWhER2M0RmZuRklSVC15TG50UnZQcHhJa0g3RFE4eDZoeFlvbFEyQ1o4cXF2elYyeEw1WnZhZEROX0FkUm90ZFFzN01EWQ?oc=5",
-      "summary": "Kirk Franklin Announces New Partnership With Uptown Records WBLS",
-      "outlet": "WBLS",
-      "outlet_url": "https://www.wbls.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-11T14:30:00Z",
-      "first_seen": "2026-09-17T12:42:13Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bf96f245b75a23d6",
-      "title": "8 Christian Songs for New Beginnings, Recovery, and Fresh Starts",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYnM3TEd4dVQxZjB0cEVJSzRoc3pReGtwOU5DeFNZdi1GZFNoUUk5TW5rU1VFQ3RfTmpDTVhqc1B6RUVvN0RGcjRBczNIUWNEd19aVmlQdkk4eWpJSU80YWwtNXQ4XzJsWG44R0k2UTZMQTgtOHFUSWU3WExPVjkxT2o2Y2JFbkh6c3E0Tlc0bHZJU2NrbDJTdDRqZXk?oc=5",
-      "summary": "8 Christian Songs for New Beginnings, Recovery, and Fresh Starts GodTube.com",
-      "outlet": "GodTube.com",
-      "outlet_url": "https://www.godtube.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-11T13:32:37Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a93d0b83bd1879e7",
-      "title": "B2K singer Raz B mourns death of 3-month-old son Astro",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlOWU2Mm9Uc0hQSHlBWWFFWkdzbFR4MDlmVEM2YzZjTG5OOC1OR2RuTEJMQ0VMc2VKMHZ0MmF1V0d5UnRpSEsyNXpTcmhtdTJEekJMdWJhNnJXOG9OdWYydkI3M0NUV294LTZoXzU5TWoyLUdvS1dudE10MnhOaGfSAYQBQVVfeXFMTjZWNi1tbGZLRVI3bFhxLTg2M3BTLTlDQ29fdDhoSzFpZUEtQ3YtbHd2YmMxWlNTMi1POWE0dUJtSzdiR2lVam9INzZyVkJiYWQzMTZsVXlSWkRVMnlOVDNVR09Pa1Mwd1RFRkdVYnZSNWYwVjJ6bWlBZkJveGdwSURvUVZz?oc=5",
-      "summary": "B2K singer Raz B mourns death of 3-month-old son Astro The Mercury News",
-      "outlet": "The Mercury News",
-      "outlet_url": "https://www.mercurynews.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-11T13:23:38Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ea70b84e3c837588",
-      "title": "Christian Rap Song Drops 9/11/26 (Listen Here)",
-      "link": "https://rapzilla.com/2026-09-christian-rap-song-drops-9-11-26-listen-here/",
-      "summary": "Check out the hottest Christian Rap Song Drops 9/11/26! Our team scoured every platform to bring you the best new songs for today. Who are you spinning today? Dive into the embedded tracks and playlists below, plus more Christian rap releases and album…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-11T11:19:47Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11071933/3-Picture-Template-Article-57.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "107aa516155949d9",
-      "title": "Christian Rap Album Drops 9/11/26 (Listen Here)",
-      "link": "https://rapzilla.com/2026-09-christian-rap-album-drops-9-11-26-listen-here/",
-      "summary": "Check out the hottest Christian Rap Album Drops 9/11/26! Our team scoured every platform to bring you the best new albums and EPs for today. Who are you spinning today? Dive right into the embedded tracks and playlists below: more Christian rap releases and…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-11T09:57:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11055558/3-Picture-Template-Article-56.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ad5c8790f3b70717",
-      "title": "Gospel Music Heritage Month Celebration",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQemdwdFdCNmdaUVFnaTM2UWZGT21SdGQ4Ml9haUtnXy1rRlE0eGJuRi1mckYybzJCcUs2SjRMMEpsdG85ODNBUS1OT1RxcnZpTUdqMzJrS0JkT0syazNfN05DVXNkRmNoSHRqZ2ppbDljejFrN3EwcjRuemkzWVJOby1DMV85cFBIaGNyTDZ5WlRabkJsWlNkMXVCbGhSc1NOVmlzMzNCRGZCTGg0ZlE?oc=5",
-      "summary": "Gospel Music Heritage Month Celebration Clinton Foundation",
-      "outlet": "Clinton Foundation",
-      "outlet_url": "https://www.clintonfoundation.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-11T09:05:16Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bf70927cf7fa3a30",
-      "title": "Rapzilla Artist Drops 9/11/26: Drea LP, Saints in Exile, Myles Maestro, & More",
-      "link": "https://rapzilla.com/2026-09-rapzilla-artist-drops-9-11-26-drea-lp-saints-in-exile-myles-maestro/",
-      "summary": "The Rapzilla Artist roster delivers five fire Rapzilla Artist Drops 9/11/26; we’re excited about today. These drops showcase some of the best in the space. More Rapzilla releases. Drea LP & OnBeatMusic – Free Indeed GENRE: R&B/Latin STREAM…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-11T09:02:40Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/06181809/5-Picture-Artist-Template-3.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f1601cbed04b968a",
-      "title": "Steven Furtick & Elevation Worship Among Top Nominees for Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QQ1NqOHVsZGFUT3p3YjFvYnhMODBJQ2RTcEJDQVc2cWF6WWNocTBxSW15SWRxWUhrTXQzcFhrdVhwSmRVb1FQUHZBZjFiZldYVGNTcTgtakZ0QjFoMm12bkxrSjFDUQ?oc=5",
-      "summary": "Steven Furtick & Elevation Worship Among Top Nominees for Dove Awards roysreport.com",
-      "outlet": "roysreport.com",
-      "outlet_url": "https://roysreport.com",
-      "source_feed": "Google News: Elevation Worship",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-11T08:10:06Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e7325a4779f7a896",
-      "title": "CeCe Winans First Black Female Soloist to Win Artist of the Year at Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWQxOVpWaFVfRXREc2dqMnNqR0JNbE9Wc3RvbDlqWm55cDNfUjF1cERMYTNLNG1nN01LbktJZG1SdF92dUdwTU9mdGprdDhqUHlPY19JVmN1bjIyWjV3MkE0VDZkM21NTjBqOTNJRHNaMDVIeW1BVzZOanJPOVctelFwN1dKR0dG?oc=5",
-      "summary": "CeCe Winans First Black Female Soloist to Win Artist of the Year at Dove Awards The Roys Report",
-      "outlet": "The Roys Report",
-      "outlet_url": "https://roysreport.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-11T06:55:16Z",
-      "first_seen": "2026-09-18T18:07:37Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
