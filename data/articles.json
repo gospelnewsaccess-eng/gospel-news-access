@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:09:48Z",
+  "generated_at": "2026-09-21T06:44:35Z",
   "story_count": 600,
   "with_photo": 410,
   "items": [
@@ -3603,6 +3603,25 @@
       "first_seen": "2026-09-18T08:38:59Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3463fb52e0809323",
+      "title": "Chad: Comboni mission turns diversity into fraternity",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/sisters-project-197-chad-comboni-mission-education-youth.html",
+      "summary": "St. Daniel Comboni’s desire of a Catholic and universal mission, has become a reality in Deressia, in southern Chad, thanks to the commitment of the international community of Comboni Missionary Sisters, who accompany people through education, health and…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-18T06:20:00Z",
+      "first_seen": "2026-09-21T06:44:35Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/26/ps-197-copertinaaem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10811,25 +10830,6 @@
       "published": "2026-09-08T07:00:00Z",
       "first_seen": "2026-09-17T13:38:43Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ea6a38a052b57fd6",
-      "title": "GOSPEL LIGHT SOCIETY INTERNATIONAL 40-Day Daniel Fast • Martyrs Memorial Service • 15th National Torch Conference on Revival and Evangelism",
-      "link": "https://blackchristiannews.com/gospel-light-society-international-40-day-daniel-fast-martyrs-memorial-service-15th-national-torch-conference-on-revival-and-evangelism/?utm_source=rss&utm_medium=rss&utm_campaign=gospel-light-society-international-40-day-daniel-fast-martyrs-memorial-service-15th-national-torch-conference-on-revival-and-evangelism",
-      "summary": "A Call to Prayer, Revival, Evangelism, and Remembrance GOSPEL LIGHT SOCIETY INTERNATIONAL 40-Day Daniel Fast • Martyrs Memorial Service for The post GOSPEL LIGHT SOCIETY INTERNATIONAL 40-Day Daniel Fast • Martyrs Memorial Service • 15th National Torch…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-08T02:40:09Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/torchlogo.webp",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
