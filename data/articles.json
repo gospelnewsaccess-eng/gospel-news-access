@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-20T23:34:31Z",
+  "generated_at": "2026-09-21T00:09:18Z",
   "story_count": 600,
   "with_photo": 410,
   "items": [
+    {
+      "id": "6e77a90330a4692d",
+      "title": "Unity Weekend returns to Aiken with golf, gospel music and Black history",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkRNNVA4RlJDeTZlYVVxeXZfNGxGajdnMUgtQnZNWjF3MzF4dFFYazMtdHVERzMzYjlfYS1EcndnbXh3Q0pKVklJLTU4RFI3WDQ2VVdPeE1MWjlsd3NzZWtBYjBSaXlMdG5BckpURzdySDAxcFBHV19lZlV5N1NGNVZMQU1zZ3AzQmM5Y1ZLelFJcFFoQnczSjJ0eEZwbzDSAaQBQVVfeXFMTjBhRTRvMlVUOGxJamdUUUlRZk5OZzBlbGh5aE9zY2dxbi1sNVFnMlgwUXRQSzVqZ1ZzSzBCMUNSZGdtclJGaUlDWk1wd2JBLVUzQnBlTFZBUGJoVmFiUEJiY3BHZzhQQzlvVGFVNjgtLWlpdTRUTHhfTFJYMkpNZkxZS0hXUlNXdXl3aFE2N3hlZjZPYnBNeGp0TUwwN0hZemRtSWg?oc=5",
+      "summary": "Unity Weekend returns to Aiken with golf, gospel music and Black history wjbf.com",
+      "outlet": "wjbf.com",
+      "outlet_url": "https://www.wjbf.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-20T21:29:11Z",
+      "first_seen": "2026-09-21T00:09:18Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "cb62fbb990f8cf9c",
       "title": "Billy Graham’s Grandson Takes Gospel Tour Through America’s 13 Original Colonies",
@@ -10814,22 +10830,6 @@
         "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/McClurkin-Bryant.webp",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3507fb049c437d5b",
-      "title": "Concert review: CeCe Winans offers memorable end to the Minnesota State Fair",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUxnQTBRQVJRcjRtRkxFc0hSRlpmRUwwNFRWajR6M1lkbTFQQ19MZnp1azNvdVdvTmtHMEVrbmpiOFRvS0x3ZXpYSDA5R2k1RlBBQXFKbVQtRTRPaGJsLXQ0Vm0zLU5lQTk0ZXU1VXhpXzM5ZDBSSmZaeWNieHcxU1BlT1U5MzkwMGVMVTk4b2dfbEoxNXM2Q2tmMkVXZVhPZ1RFUEZSQnJBNFpTRWFFM2lmNW4?oc=5",
-      "summary": "Concert review: CeCe Winans offers memorable end to the Minnesota State Fair Pioneer Press",
-      "outlet": "Pioneer Press",
-      "outlet_url": "https://www.twincities.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-07T07:00:00Z",
-      "first_seen": "2026-09-17T09:06:59Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
