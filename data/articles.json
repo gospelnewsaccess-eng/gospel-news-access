@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T17:36:16Z",
+  "generated_at": "2026-09-21T18:08:28Z",
   "story_count": 600,
-  "with_photo": 441,
+  "with_photo": 440,
   "items": [
     {
       "id": "68553799b372edb1",
@@ -2004,6 +2004,22 @@
       "category": "gospel",
       "published": "2026-09-20T08:38:48Z",
       "first_seen": "2026-09-20T13:36:48Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6759f1f9876ea703",
+      "title": "Erica Campbell’s Label Sues SRG for $1M, Says 113M Streams Came With No Royalty Statements",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3lwcWhDLUQtdlNLalB6TmtpME9LcDE0TUtHYjVYMXNWNW9HS3A5SmlQRDNrcnlQWHQ5SXY3VlhKWUg0YWdCc1J2Rkt6YjRucV9tcFFGdnZNSDFkN0R4Ym5yYjc5RXBqcFpqM2JHRjRrOUQ2NWhOeGpqSXAyc3ZaOUs4VWx2dDdwT0lES3VybkdoX0pfQVE?oc=5",
+      "summary": "Erica Campbell’s Label Sues SRG for $1M, Says 113M Streams Came With No Royalty Statements Law Commentary",
+      "outlet": "Law Commentary",
+      "outlet_url": "https://www.lawcommentary.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-20T07:00:00Z",
+      "first_seen": "2026-09-21T18:08:28Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10904,25 +10920,6 @@
       "published": "2026-09-14T09:00:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92d25b06202cf271",
-      "title": "Asian digital missionaries called to turn influence into Christian witness",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/asia-fabc-osc-first-catholic-digital-missionary-assembly.html",
-      "summary": "The first Asian Catholic Digital Missionary Assembly concludes in Manila after bringing together more than 100 communicators and content creators to strengthen collaboration and develop a shared vision for digital evangelisation. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T08:38:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/14/asia-fabc-osc-first-catholic-digital-missionary-assembly-manila-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
