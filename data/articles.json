@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-21T15:36:51Z",
+  "generated_at": "2026-09-21T16:07:21Z",
   "story_count": 600,
-  "with_photo": 440,
+  "with_photo": 438,
   "items": [
+    {
+      "id": "ac3e181e581ad1fe",
+      "title": "Safety or Surveillance? 400 AI Cameras at Texas Megachurch Spark Serious Privacy Questions",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObWRaakw2NnR1aUZXR2NBUTB2bWxiUkY3OVJnYXI2TU5GSU02eUMyT1JBV2NhbEhfSDhRTEh3Z05CNjJXVnM3OS1MUXpFaGRmbFZueEF5RG9IOG9PRUMzamRFR1l5cHNQNVhZdHBxZkxNLW41V0liVzJyZTUtTGtiZ1IxVFlHNkRuUXFsUnFINVk1SVFUd09abDFERUh4UmRRVnJ6YWhXWExIcDdkQnQ0cEkxN0lrVk1ZVXZ2OVlQMFFtOVBUMzh5TUJTelpxaHJxaFJuamxVRVR5d0ZMd1VrNmdORDAxVGRXM2k2VzlYZFZFSnRnODV6cTlCQTU?oc=5",
+      "summary": "Safety or Surveillance? 400 AI Cameras at Texas Megachurch Spark Serious Privacy Questions Crosswalk.com",
+      "outlet": "Crosswalk.com",
+      "outlet_url": "https://www.crosswalk.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-21T15:48:00Z",
+      "first_seen": "2026-09-21T16:07:21Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T04:07:21Z"
+    },
     {
       "id": "a76442e7012c10c9",
       "title": "Pope to pray rosary for peace with more than 700 children at the Vatican",
@@ -1737,6 +1753,22 @@
       "category": "gospel",
       "published": "2026-09-20T08:38:48Z",
       "first_seen": "2026-09-20T13:36:48Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7325a4779f7a896",
+      "title": "CeCe Winans First Black Female Soloist to Win Artist of the Year at Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWQxOVpWaFVfRXREc2dqMnNqR0JNbE9Wc3RvbDlqWm55cDNfUjF1cERMYTNLNG1nN01LbktJZG1SdF92dUdwTU9mdGprdDhqUHlPY19JVmN1bjIyWjV3MkE0VDZkM21NTjBqOTNJRHNaMDVIeW1BVzZOanJPOVctelFwN1dKR0dG?oc=5",
+      "summary": "CeCe Winans First Black Female Soloist to Win Artist of the Year at Dove Awards roysreport.com",
+      "outlet": "roysreport.com",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-20T05:28:49Z",
+      "first_seen": "2026-09-21T16:07:21Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10882,44 +10914,6 @@
       "published": "2026-09-11T21:12:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "856236fba82b2786",
-      "title": "Denver Broncos QB Bo Nix: “I Want It to Be About Sharing the Gospel”",
-      "link": "https://relevantmagazine.com/culture/sports/denver-broncos-qb-bo-nix-i-want-it-to-be-about-sharing-the-gospel/",
-      "summary": "Bo Nix grew up watching Tim Tebow. The Denver Broncos sat down with Tebow and their current quarterback for the team’s “Jersey Swap” series, a 13-minute video call in which a current player trades signed jerseys with a franchise great. Nix opens the season…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-11T20:53:07Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/bonix.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ca8b6f944125930a",
-      "title": "Christian Rap Submission Picks of the Day 9/11/26",
-      "link": "https://rapzilla.com/2026-09-christian-rap-submission-picks-of-the-day-9-11-26/",
-      "summary": "Christian Rap Submission 9/11/26: We sorted through this week’s email list and compiled what we thought were the top Christian Rap Submissions. Let us know what you think! These are the standout Submissions from September 11, 2026, that we’ve curated for you…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-11T16:05:09Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/11120339/3-Picture-Template-Article-1.png",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
