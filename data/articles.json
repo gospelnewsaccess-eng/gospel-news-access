@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-21T20:36:43Z",
+  "generated_at": "2026-09-21T21:06:28Z",
   "story_count": 600,
-  "with_photo": 445,
+  "with_photo": 444,
   "items": [
+    {
+      "id": "5e1f83cabc0f300b",
+      "title": "Kirk Franklin Responds to Criticism for Praying With Chris Brown: Why the Backlash is Hypocritical",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzUxQzR6V2IyYnZ1UW1jRnhpZ2s0UlhzMDMzWTNtYklPT0dTOVBNdXp4Q3Z3YXJheU5FRDVvTjZKZlg1T256YkFSdllXZGtYUEd2OVFVdjFETnp1WTY3M3Zrb0ROMEZMOFpwN0UzdUtwWXVUVlREeDZrYVp0bWVYNE1PX0txRnpUandGb2N1dmcxOUFl?oc=5",
+      "summary": "Kirk Franklin Responds to Criticism for Praying With Chris Brown: Why the Backlash is Hypocritical The Root",
+      "outlet": "The Root",
+      "outlet_url": "https://www.theroot.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-21T20:52:18Z",
+      "first_seen": "2026-09-21T21:06:28Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T09:06:28Z"
+    },
     {
       "id": "3cca5c2ded3ea2fa",
       "title": "What Happened When AMERICAN IDOL Alum Shared the Gospel With an Atheist",
@@ -10914,25 +10930,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1760108778/images/abortionpill10925.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a1a525003a75149a",
-      "title": "Sainthood cause for Virginia farmer who saved his son moves forward",
-      "link": "https://www.ewtnnews.com/world/us/sainthood-cause-for-virginia-farmer-who-saved-his-son-moves-forward",
-      "summary": "The sainthood cause for Tom Vander Woude, a Catholic father of seven who died saving his youngest son, moves to the information gathering stage.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-14T22:11:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1757171023/images/tomvanderwoude4090525.jpg",
         "via": "media:content"
       },
       "breaking": false,
