@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-21T04:06:49Z",
+  "generated_at": "2026-09-21T04:40:27Z",
   "story_count": 600,
   "with_photo": 410,
   "items": [
+    {
+      "id": "06395772d7171c1c",
+      "title": "Bill Johnson Returns From Sabbatical With New Wife Linda And A Bold Message For Bethel Church",
+      "link": "https://www.jubileecast.com/articles/39583/20260920/bill-johnson-returns-from-sabbatical-with-new-wife-linda-and-a-bold-message-for-bethel-church.htm",
+      "summary": "Bill Johnson Returns From Sabbatical With New Wife Linda And A Bold Message For Bethel Church",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-21T03:50:46Z",
+      "first_seen": "2026-09-21T04:40:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31547/bill-johnson.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5bb90d28a7786034",
       "title": "Cindy Crawford’s Only Son Presley Gerber Dies Suddenly At 27",
@@ -10809,25 +10828,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/07132604/Lady-Audri-IOU-_-Bless-The-Mic-0-12-screenshot-e1788802008792.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8d5ad620724ffe0b",
-      "title": "Malcolm Rue Interview: How A Tribe Apart Infuses Afrobeat into Classic Hymns",
-      "link": "https://rapzilla.com/2026-09-malcolm-rue-interview-tribe-apart-infuses-afrobeat-classic-hymns/",
-      "summary": "Malcolm Rue Interview: Malcolm Rue and his collective, A Tribe Apart, refused to let geographic or musical boundaries limit their gospel vision. Born from a shared passion for ministry, the East African-based collective officially banded together to create a…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-07T16:52:23Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/01092425/3-Picture-Template-Article-20.jpg",
         "via": "og:image"
       },
       "breaking": false,
