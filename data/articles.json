@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T10:38:39Z",
+  "generated_at": "2026-09-22T11:06:44Z",
   "story_count": 600,
-  "with_photo": 449,
+  "with_photo": 447,
   "items": [
     {
       "id": "a5b493feff02e9ef",
@@ -56,6 +56,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "11d5d32ea25a12a4",
+      "title": "You know ‘Misty Blue.’ Get to know the rest of Mississippi’s Dorothy Moore - The Clarion-Ledger",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFRkdGc4ZHFCTWEzMVVGUnZMSEFEN3JWZV9id0g4bTdOWlFjcVVkMGxXbktCai1EZVRkYTJRdDA2b1FjOHpUZFRQanlKcURWZVllbGVRYWZ5NWlkRWFURW1IN2xsYkRfLXVpb2hUcGtKVUhUSEt3d0xLY0kzajZ5RXlUdFRKSUhYcVpCM2MtWkRxSUM4ZlVnYjFZem9mS0lrYzhQUWlhb3VBSW05Mlk2V1lyMjV2Rnd5WGZWY0FXUU9CaTY4NE5wVmhONjVZUHdYX2NGNnZoQW9kQQ?oc=5",
+      "summary": "You know ‘Misty Blue.’ Get to know the rest of Mississippi’s Dorothy Moore The Clarion-Ledger",
+      "outlet": "The Clarion-Ledger",
+      "outlet_url": "https://www.clarionledger.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T10:15:00Z",
+      "first_seen": "2026-09-22T11:06:44Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T23:06:44Z"
     },
     {
       "id": "d2bb4c0ace8ce04b",
@@ -1475,6 +1491,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789989637/ewtn-news/en/DSC_9883-1798x1200_dnlby6.png",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d98ec6281da97328",
+      "title": "Deion Sanders’ public prayer in tongues sparks debate on biblicality",
+      "link": "https://pathmegazine.com/articles/deion-sanders-public-prayer-in-tongues-sparks-debate-on-biblicality/",
+      "summary": "A brief 10-second prayer in tongues by University of Colorado Buffaloes head coach and NFL legend Deion Sanders at the beginning of a postgame press conference has … The post Deion Sanders’ public prayer in tongues sparks debate on biblicality appeared first…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-21T16:37:17Z",
+      "first_seen": "2026-09-22T11:06:44Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10907,44 +10939,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-121734.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8acbf2a10eae471a",
-      "title": "Cardinal Pizzaballa calls Christians in the Holy Land to make the cross a way of life",
-      "link": "https://www.ewtnnews.com/world/middle-east/cardinal-pizzaballa-calls-christians-in-the-holy-land-to-make-the-cross-a-way-of-life",
-      "summary": "The Latin patrarch presided over Mass on the eve of the feast of the Exaltation of the Holy Cross in Taybeh, calling on Christians to live the “logic of the cross” through love and self-giving.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T18:14:54Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789491362/ewtn-news/en/004_Emad_Diab__rvuzs8.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0f38467d46825c3d",
-      "title": "Christian Bale Spent Nearly Two Decades Trying to Keep Foster Siblings Together. His Village Just Opened.",
-      "link": "https://relevantmagazine.com/justice/christian-bale-spent-nearly-two-decades-trying-to-keep-foster-siblings-together-his-village-just-opened/",
-      "summary": "Actor Christian Bale has spent the better part of two decades on a project that has nothing to do with a movie. On Friday, it opened. Together California, a foster care village in Palmdale, California, cut its ribbon with Bale on hand: 12 furnished…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T18:13:07Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/togethercalifornia-village-render.jpg?resize=1100%2C637&ssl=1",
         "via": "content:encoded"
       },
       "breaking": false,
