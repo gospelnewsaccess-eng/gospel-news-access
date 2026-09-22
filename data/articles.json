@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-22T09:06:57Z",
+  "generated_at": "2026-09-22T09:37:39Z",
   "story_count": 600,
-  "with_photo": 449,
+  "with_photo": 448,
   "items": [
+    {
+      "id": "c2cf437037a78e81",
+      "title": "United Nations: 81st General Assembly opens in New York",
+      "link": "https://www.vaticannews.va/en/world/news/2026-09/united-nations-81st-general-assembly-opens-in-new-york-usa.html",
+      "summary": "The world’s major powers gather at the United Nations headquarters in New York. At the heart of the agenda are major global issues, including the ongoing conflicts in the Middle East and Ukraine, alongside the challenges facing the global economy and the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T09:00:00Z",
+      "first_seen": "2026-09-22T09:37:39Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/marzo/17/edgarwinkler-u-n-1190183.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2555949aad4ec920",
       "title": "Alan Ritchson’s Haunting Self-Love Message Raises Questions Days After His 20-Year Marriage Ends",
@@ -2306,6 +2325,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4f108475538d070b",
+      "title": "Nashville team uses AI to convert whole Bible into musical form",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkUzT1o5WHhOOHdTSTVxUDJmXzE5UDRQTEE3X2lLY3dhRDljMXR0czNtV1c2WHRkRnpSd2NkSWJiSFBBR0VaRERyMm53LWR3QzB3dk1CVFZqSnlZdFdWZmZraUszM3dhTDNYVmtGaXpnaGRlNnNJMXNqakFYNDFub3AyRlFab2puTlRjdU9iVDN2OG50MEtnRUs4eW9PMWxT?oc=5",
+      "summary": "Nashville team uses AI to convert whole Bible into musical form www.christiantoday.com",
+      "outlet": "www.christiantoday.com",
+      "outlet_url": "https://www.christiantoday.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-21T07:44:58Z",
+      "first_seen": "2026-09-22T09:37:39Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10908,44 +10943,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4b399c21f574b2a7",
-      "title": "A pilgrimage in the footsteps of St. Stanislaus Kostka reaches Rome",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/cardinal-ghirlanda-at-the-end-of-a-pilgrimage-in-the-footsteps.html",
-      "summary": "In 1567, St Stanislaus Kostka left Vienna and crossed Germany on his way to Rome, hoping to enter the Society of Jesus against his father’s wishes. This year, young Polish pilgrims retraced the same 1,713-kilometer route to pray for vocations. At the tomb of…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T16:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/card-ghirlanda-omelia-durante-la-messa-presso-la-tomba-di-san-stanislao-kostka.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f5e883b0dd03d780",
-      "title": "Virginia family killed in car crash after leaving DC church; 2 charged",
-      "link": "https://www.christianpost.com/news/virginia-family-killed-in-car-crash-after-leaving-church.html",
-      "summary": "Marlysha Liddell, her husband, Paul, and their daughter, four-year-old Leilani, died Sunday afternoon in a fiery crash on Interstate 66 as they drove home to Manassas, Virginia, after attending church in Washington.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T15:57:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271922_w_550_366.jpg?v=20260915122752",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
