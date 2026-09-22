@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-22T08:07:17Z",
+  "generated_at": "2026-09-22T08:39:31Z",
   "story_count": 600,
   "with_photo": 449,
   "items": [
+    {
+      "id": "2555949aad4ec920",
+      "title": "Alan Ritchson’s Haunting Self-Love Message Raises Questions Days After His 20-Year Marriage Ends",
+      "link": "https://www.jubileecast.com/articles/39621/20260922/alan-ritchson-s-haunting-self-love-message-raises-questions-days-after-his-20-year-marriage-ends.htm",
+      "summary": "Alan Ritchson’s Haunting Self-Love Message Raises Questions Days After His 20-Year Marriage Ends",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T07:51:10Z",
+      "first_seen": "2026-09-22T08:39:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31874/alan-ritchson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "11dec809fa2065c1",
       "title": "Can Worship Become A Product? Hillsong's Ben Fielding, Reuben Morgan And JD Douglass Confront Hype, Platforms And Manufactured Emotion",
@@ -1558,6 +1577,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271977_w_550_340.jpg?v=20260921103713",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4a7aa9838dc879bb",
+      "title": "\"Detroit Remembers Richard Smallwood\" A Concert Tribute to Honor the Gospel Music Icon This October",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHlPZW9fZzlMYjdVWG16bnlqbHRGQW9HQUlBR3RxelUxakt1cFhocEl6bl95dFcyRUd1d2lreVdBVlVaZnlFTVFHS1JXeVlYUnBOTUE2cUMyeDQtLWFPTUNFMEd2UmZYR2NwLUphRjg2Tm5Nc3dqOWhLQnBKa2tISEowUHFWVGlKNDUxNllheVNYZkhEcXlIaTV4aHZDeVZXb29zWnVwUjdTMXlnTHJkTA?oc=5",
+      "summary": "\"Detroit Remembers Richard Smallwood\" A Concert Tribute to Honor the Gospel Music Icon This October Yahoo Finance",
+      "outlet": "Yahoo Finance",
+      "outlet_url": "https://finance.yahoo.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-21T14:21:00Z",
+      "first_seen": "2026-09-22T08:39:31Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10910,41 +10945,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271922_w_550_366.jpg?v=20260915122752",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "76b7527cab4f6427",
-      "title": "National Black Church Initiative Calls on the US Congress to Provide Regulatory Safeguards for Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUG1NUko0MDM5QXRqVDJOaVRiQWRnVDB3YXdPS3k1X2FZMTMzb2pSWnpDb3F2blRLU3NXMUItb2o4ZFhMWEtYQWVBSlk4dVZOeDZ0bkJ6WVJSR2FCQURjMVh1SWVwX3ZBNWx6UjEtb1NScHBPQTVrdG5OeVNJMmd2QWJSZ2c2RmlNNXo2cUpRb2lQVmQ1LWswcVRMZjMzY3hhelY2RXFEWS01WGlpYmc?oc=5",
-      "summary": "National Black Church Initiative Calls on the US Congress to Provide Regulatory Safeguards for Artificial Intelligence The National Law Review",
-      "outlet": "The National Law Review",
-      "outlet_url": "https://natlawreview.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-15T15:47:28Z",
-      "first_seen": "2026-09-22T03:06:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6365ef837ed0b1f0",
-      "title": "Catholic doctors say both Eastern and Western spirituality are required to heal the whole person",
-      "link": "https://www.ewtnnews.com/world/us/the-eastern-and-western-churches-together-are-necessary-for-healing-the-whole-person-catholic",
-      "summary": "The Catholic Medical Association at its 95th annual educational conference held in Phoenix Sept. 10–12 focused on how the Eastern Catholic Church can help Western medicine promote human flourishing.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T15:44:12Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789480487/ewtn-news/en/ChirovskyDonna_pgsz48.jpg",
         "via": "media:content"
       },
       "breaking": false,
