@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-22T17:06:16Z",
+  "generated_at": "2026-09-22T17:36:34Z",
   "story_count": 600,
-  "with_photo": 448,
+  "with_photo": 451,
   "items": [
+    {
+      "id": "7a9c13ae9e6a812e",
+      "title": "From Hip-hop Psalms to the Ten Commandments in Jazz: AI turns entire Bible into 30,000 songs – without changing a word",
+      "link": "https://religionnews.com/2026/09/22/from-hip-hop-psalms-to-the-ten-commandments-in-jazz-ai-turns-entire-bible-into-30000-songs-without-changing-a-word/",
+      "summary": "&Associates",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T17:32:55Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/Music-Bible-MarkText-Light-scaled.png",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3b235241790a5e2a",
+      "title": "Two Christian schools reopen in Syria after decades of closure",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/two-christian-schools-reopen-syria-knaye-yacoubieh-franciscan.html",
+      "summary": "Two schools run by the Franciscan friars of the Custody of the Holy Land have been inaugaurated in Syria’s Idlib governorate. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T17:19:00Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/poss-copertina-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c356c03e30c54036",
+      "title": "Fulton Sheen, Catholic media star, will be beatified in St Louis Thursday",
+      "link": "https://religionnews.com/2026/09/22/a-catholic-media-star-is-about-to-take-one-step-closer-to-sainthood/",
+      "summary": "(RNS) — This Thursday, the Catholic bishop who charmed millions while explaining theological concepts and scrawling on a blackboard on his show 'Life Is Worth Living' will come one step closer to being declared a saint.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T17:10:31Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Sheen-Saint2-304x369.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5748a75ff89a1c56",
+      "title": "Australia reportedly withdraws from UK-led coalition targeting Judea, Samaria settlements",
+      "link": "https://www.christianpost.com/news/australia-withdraws-from-coalition-targeting-judea-samaria.html",
+      "summary": "Australia reportedly withdrew from a British-led coalition of 12 Western governments planning to impose trade restrictions on Israeli settlements in Judea and Samaria, the Australian Broadcasting Corporation (ABC) reported.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:54:14Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272014_w_550_367_364_215.jpg?v=20260922125707",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e70c60ace49fbb6f",
+      "title": "American theologian to receive the 2026 Ratzinger Prize",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/american-theologian-john-cavadini-receive-2026-ratzinger-prize.html",
+      "summary": "The 2026 Ratzinger Prize recipient is American theologian Dr John Cavadini, recognized for the scholarly merits of his research on Patristics, particularly his studies on St Augustine. Pope Leo XIV will present the award to to Dr Cavadini on December 19 in…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:50:00Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/75641-05122012.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "88376e21842c5a01",
       "title": "Why AI resembles a charismatic religious leader",
@@ -113,6 +208,25 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d67ae612ff40e950",
+      "title": "Trump threatens to 'annihilate' Iran at UN, highlights Christian persecution: 'Not even believable'",
+      "link": "https://www.christianpost.com/news/trump-threatens-to-annihilate-iran-at-un-highlights-christians.html",
+      "summary": "President Donald Trump delivered an address to the United Nations General Assembly in New York on Tuesday, threatening to annihilate the Iranian regime if they neglect to make a deal with the United States after the midterm elections.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:23:50Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272009_w_550_367.jpg?v=20260922125253",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -240,6 +354,22 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-23T04:07:09Z"
+    },
+    {
+      "id": "773e463361b66f3f",
+      "title": "Photostory: Preserving ‘the sound and stories’ of Baltimore’s gospel tradition",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV05zOURzNHhnNkZXWnlzODlmNEIzcXdNbzRjaHFMTGNkTzhJNENENFZXUjliUFdvOWMzYlIwNDBLMUNnbVNTdXEtTVZWVXBzcHVSRThGYXZ3YkhYMFdoVUxEa1J4UmZPYlU2cks3d3pKLVJpUXlsNGRJWE1UbXJYTGsyUEtoWW1XY2NVN2FzVXdmak1teGNYQmlvZS16Z0JpV1hz?oc=5",
+      "summary": "Photostory: Preserving ‘the sound and stories’ of Baltimore’s gospel tradition Baltimore Beat",
+      "outlet": "Baltimore Beat",
+      "outlet_url": "https://baltimorebeat.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T15:32:03Z",
+      "first_seen": "2026-09-22T17:36:34Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "26e76dbc0e3f05e0",
@@ -10822,127 +10952,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271932_w_550_373.jpg?v=20260916101543",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "874477e17f067494",
-      "title": "GRAMMY And Dove Award Nominated Artist MR. DEL UNLEASHES RAW, UNFILTERED ENERGY ON FIERY NEW ALBUM THE PURGE",
-      "link": "https://pathmegazine.com/articles/grammy-and-dove-award-nominated-artist-mr-del-unleashes-raw-unfiltered-energy-on-fiery-new-album-the-purge/",
-      "summary": "Mr. Del is back! And in true fashion, he is holding absolutely nothing back. The Memphis-born Christian Hip Hop and Rap innovator unleashes his fiery new album … The post GRAMMY And Dove Award Nominated Artist MR. DEL UNLEASHES RAW, UNFILTERED ENERGY ON FIERY…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T14:08:41Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3d29c1a1ee58220c",
-      "title": "Robert Morris has black eye in new Texas sex offender registry photo. His attorney explains why.",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ3dQdXBEajRXUy1Pc3p4RUdoeXN2TTU1NWRwT183NnNfSUNtdGpXdmhfUDB5VF85SEQ4UlUweFRMYjFlS2tpZ0wtS1YwZDlDQm8yWEdUZFRJRlZtRkE2ejNUMUtCdkdEZXBwV0N1SmYyXzhSV1M5MlF3NTNlMXl1Uw?oc=5",
-      "summary": "Robert Morris has black eye in new Texas sex offender registry photo. His attorney explains why. CBS News",
-      "outlet": "CBS News",
-      "outlet_url": "https://www.cbsnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T13:55:00Z",
-      "first_seen": "2026-09-20T16:06:57Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "619743e0aadc0f59",
-      "title": "Pope Leo XIV: Martyrs are among the Church’s greatest evangelizers",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-martyrs-are-among-the-church-s-greatest-evangelizers",
-      "summary": "The pontiff held a private audience on Sept. 16 to conclude a conference in Rome on modern Christian martyrs, including American nun Sister Dorothy Stang.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T13:50:16Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789550815/ewtn-news/en/_SIM9701_qklr53.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "431b71e094415aaa",
-      "title": "Church marks anniversary of KKK bombing, opens education center",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnNhQTJOd2RnZFJQajFFdjZpQ0Zwd1NzMkZJLXAwd2tuQ0NYUEdNRnlXS3Z2b3U0ekRmamU4Q2JqYUdrQTZ6aDhnbF94UW5PNlc1YnNLd0s4eGEyZnVNVVBlaGVsa3N3dG9KWENKa2pHaUZ2dGZyaGZnV1Y2bk5haW5CVndaMW1iTFk4SERNQUJScDRSRDVsSFVoYw?oc=5",
-      "summary": "Church marks anniversary of KKK bombing, opens education center wng.org",
-      "outlet": "wng.org",
-      "outlet_url": "https://wng.org",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T13:47:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "262152a8950e1fb7",
-      "title": "Pope calls for respect and love toward those who think differently",
-      "link": "https://www.ewtnnews.com/vatican/pope-calls-for-respect-and-love-toward-those-who-think-differently",
-      "summary": "According to Pope Leo, the message of Gaudium et Spes on “the growing interdependence of men” is especially urgent today.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T13:10:32Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789554822/ewtn-news/en/260915_GA_Daniel_Iba%CC%81n%CC%83ez_3_b7lrmc.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9deb6a12da5da13e",
-      "title": "‘Safe for the Whole Family’ Exposes the Dark Side of the Christian Music Industry — Watch Trailer (Exclusive)",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNmFXalpCMVdoS3BEUUloNHdTZGMzbWlhb3VkcXFFUDMwWnZHTFY4dTFVZHNkRnNrYUI1OVYtR0JraHh1bk1FN1lzZmU0cnpNc1J5d3dzeHpSMkYydjhLWXFVYmdKZHRQMG5HMGw1VWVyc0RiNDFyVThxZ0pNMHY2OW8xNUxuUFdpejY5ZWd6a3FpanZKb0V2MFBobVRER19xY3FVMTNGWHRqTkNZN3I1ZDcwaWYwVTZXUnppck1n?oc=5",
-      "summary": "‘Safe for the Whole Family’ Exposes the Dark Side of the Christian Music Industry — Watch Trailer (Exclusive) People.com",
-      "outlet": "People.com",
-      "outlet_url": "https://people.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-16T13:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4419fe64a8a74b46",
-      "title": "Bill Gates’ Bold AI Equity Push",
-      "link": "https://mycharisma.com/news/bill-gates-bold-ai-equity-push/",
-      "summary": "Bill Gates announced that the Gates Foundation will pour at least $1 billion to expand access to artificial intelligence. Gates wrote that the investment is urgent. “The decisions made in the next 12 to 18 months, about how AI is built, funded, and deployed…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T12:51:51Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
