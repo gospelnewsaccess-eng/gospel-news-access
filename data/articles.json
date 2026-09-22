@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-09-22T12:08:27Z",
+  "generated_at": "2026-09-22T12:41:58Z",
   "story_count": 600,
-  "with_photo": 448,
+  "with_photo": 449,
   "items": [
+    {
+      "id": "971cb15db7293a8a",
+      "title": "Major News Outlets Sue Trump Admin After White House Ban",
+      "link": "https://mycharisma.com/news/major-news-outlets-sue-trump-admin-after-white-house-ban/",
+      "summary": "Major legacy news networks have filed a lawsuit against the Trump administration after President Trump banned them from the White House. “This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T12:40:35Z",
+      "first_seen": "2026-09-22T12:41:58Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "65b3bcd13926e4c4",
+      "title": "Haiti: Over 250,000 children trapped in the grip of hunger",
+      "link": "https://www.vaticannews.va/en/world/news/2026-09/haiti-over-250-000-children-trapped-in-the-grip-of-hunger.html",
+      "summary": "The latest alert issued jointly by United Nations agencies—including UNICEF, the FAO, and the World Food Programme—paints a terrifying picture: in Haiti, an estimated 254,000 children aged 6 to 59 months are expected to suffer from acute malnutrition. The…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T12:27:00Z",
+      "first_seen": "2026-09-22T12:41:58Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/08/02/1788828597355.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "50a7b1c464e51efb",
+      "title": "Gospel Library app releases new music features",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbUNBWENHS3l5UUxfbGVXMXBwOUtrRDF5WVZiTEVScGc3QW11Z0xGQnlBZ2MwZ2Rra09JVjhBUnMtNERNbDlNN1lXZUVqQTk2NXgyOHlFQ05QU055dWVjVlJYWUxOaGQ0dmxCWmg3WXFINDMzbmNSYmVHcGx2VEMwQlBoNlRSbTBSX1U5V0tMVHpnZlk0SDZuT0RlVFpGMVFLX19ydUFWQmFOTWV1NG9UQjA4anFaZw?oc=5",
+      "summary": "Gospel Library app releases new music features Church News",
+      "outlet": "Church News",
+      "outlet_url": "https://www.thechurchnews.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T12:00:00Z",
+      "first_seen": "2026-09-22T12:41:58Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T00:41:58Z"
+    },
+    {
+      "id": "d161594f95bace0c",
+      "title": "Brazilian Catholic family defends home schooling amid legal battle",
+      "link": "https://www.ewtnnews.com/world/americas/brazilian-catholic-family-defends-home-schooling-amid-legal-battle",
+      "summary": "Despite there being no federal law regulating home schooling, the parents have been fined and ordered by a court to enroll four of their children in a traditional school, a ruling they are appealing.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T12:00:00Z",
+      "first_seen": "2026-09-22T12:41:58Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790019605/ewtn-news/en/FamiliaBrasil_100926_vx6erk_dvtn2g.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a3b87afcba560536",
+      "title": "Regional PMS Diocesan Directors meet for formation course in Zimbabwe",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/regional-pms-diocesan-directors-meet-for-formation-course-in-zim.html",
+      "summary": "Pontifical Mission Societies (PMS) Diocesan Directors from Malawi, Zambia, and Zimbabwe convened for an Induction and Formation Course facilitated by the Missio England and Wales National Director. The course, attended by 19 Diocesan Directors, was held…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T11:37:00Z",
+      "first_seen": "2026-09-22T12:41:58Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/1-pms-zambia-team-with-newly-appointed-national-director-1-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "70f9de658874af33",
       "title": "South Sudan: Our wounds belong to our history; leave a legacy of peace.",
@@ -10854,95 +10946,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31812/ed-sheeran.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d221f8884745d50a",
-      "title": "Chandler Moore sings about recovery journey in online post",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1B1TS1qSHJSTVRHOWp1R2tQS0RHOFFMRlJ1dENYWWZOajlXS2hqOHBMMWNlMG9hakNONDNRd0lHcGkxcFlPc1Zfb18wSzA4OVMwbFlYbjk1eUg5QzY4RjVIdU1XRW1GaUxpODNoYkZFWmhvUTRwUWpRVjl4cmsyVmVWNi1xZG5VTUE?oc=5",
-      "summary": "Chandler Moore sings about recovery journey in online post roysreport.com",
-      "outlet": "roysreport.com",
-      "outlet_url": "https://roysreport.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-15T23:43:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d219088afc021731",
-      "title": "PREVIOUS COVERAGE: Robert Morris pleads guilty to child sex abuse charges",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00enVUdUptQUN5LUZ6SXdXSFBYMzNmclZTeEJzYUxKUThzeVVlbDlIUW1ET2pLcEU3SWVpRWRZbkNSTmtOUVYtUGZHajUzQ2lGUFRsV0RkN2twaEpIS2EwLUdVQdIBaEFVX3lxTE96bE5oOEc1WWJIWHQ4WWZvbmc5b19DeHFYbS1NMG95ZkhRYWRtT2toazhoMVRoanRUSGo5aFNXY2ppU3E4RFZCd1VTejJ5TFphRXIwc1pHRjVWaW1KWVNNVVBkUmhUaGdS?oc=5",
-      "summary": "PREVIOUS COVERAGE: Robert Morris pleads guilty to child sex abuse charges fox4news.com",
-      "outlet": "fox4news.com",
-      "outlet_url": "https://www.fox4news.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-15T22:42:54Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "83b7dcb89c5c5606",
-      "title": "This Day in History: Four black girls killed in church bombing",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTA1V190dTZHMXJxTDIzalZiNmNJQ3VRVF9zQ3RxbDREbTZ5OVZrbTJaM3VKemdqR3UxS0FYUFE2aEVVNmppSlFVLUNOeTZUY2ZkMXVtLXk1XzlCVURjLUQ4WW1wQjFWNlltRXVKQVFnclpJYktWUEM4QUVIdHhBelo5c2R3cXhwSFF0VFJZVU9hNzlyU3ZEUC1B?oc=5",
-      "summary": "This Day in History: Four black girls killed in church bombing WHSV",
-      "outlet": "WHSV",
-      "outlet_url": "https://www.whsv.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-15T22:20:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d51ba9a4ac57bda5",
-      "title": "Michael Youssef sounds alarm over Islamists in Texas ahead of AWAKE Houston",
-      "link": "https://www.christianpost.com/news/michael-youssef-warns-of-islamist-influence-in-texas.html",
-      "summary": "Michael Youssef is warning that Christians must “wake up” to a growing Islamist influence in the United States, particularly in Texas, while contending that the ultimate answer is found in repentance, revival and a renewed commitment to proclaiming the Gospel.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T21:53:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271930_w_550_362.jpg?v=20260916092900",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a0683decb1e92c20",
-      "title": "Gavin Newsom Says He Won’t Challenge Kamala Harris for 2028 Nomination",
-      "link": "https://mycharisma.com/news/gavin-newsom-says-he-wont-challenge-kamala-harris-for-2028-nomination/",
-      "summary": "Term-limited Democratic California Gov. Gavin Newsom says in a new interview that he will not battle former Vice President Kamala Harris for the 2028 Democratic presidential nomination. The comment came as Newsom and CNN’s Jake Tapper posed in a river while…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T20:44:30Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
