@@ -1,8 +1,230 @@
 {
-  "generated_at": "2026-09-22T16:07:09Z",
+  "generated_at": "2026-09-22T16:39:11Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 448,
   "items": [
+    {
+      "id": "88376e21842c5a01",
+      "title": "Why AI resembles a charismatic religious leader",
+      "link": "https://religionnews.com/2026/09/22/why-ai-resembles-a-charismatic-religious-leader/",
+      "summary": "(The Conversation) — AI can function as a charismatic figure without standing on a stage, establishing a church or gathering disciples, writes a scholar of religion.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:39:10Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://images.theconversation.com/files/760618/original/file-20260917-50-e0o5sc.jpg?ixlib=rb-4.1.1&rect=0%2C34%2C5000%2C2812&q=45&auto=format&w=754&fit=clip",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bf50ad6e506356d1",
+      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+      "link": "https://religionnews.com/2026/09/22/man-critically-injured-police-officer-wounded-in-gunfire-near-ontario-synagogue-on-yom-kippur/",
+      "summary": "TORONTO (AP) — Police have not said what led to the shooting or whether the synagogue or Jewish community was targeted.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:37:59Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2024/09/RNS-logo-favicon@3x.png",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "89b9c3cc4b4d0bee",
+      "title": "Meloni plans to ban burqas and niqabs in Italian schools, and cap foreign students in classrooms",
+      "link": "https://religionnews.com/2026/09/22/meloni-plans-to-ban-burqas-and-niqabs-in-italian-schools-and-cap-foreign-students-in-classrooms/",
+      "summary": "ROME (AP) — Once approved by the government, the measure would need parliamentary approval within 60 days to pass into law.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:36:26Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-25.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c603b9e45a60f9e9",
+      "title": "Qur’an Chanted During Catholic Mass, Now Christians Are Turning Over Tables",
+      "link": "https://mycharisma.com/news/quran-chanted-during-catholic-mass-now-christians-are-turning-over-tables/",
+      "summary": "A Catholic university in Belgium included a Qur’an recitation during a Eucharistic celebration, igniting outrage over the growing effort to blur the boundaries between interfaith dialogue and Christian worship. KU Leuven opened its academic year with a Mass…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:32:43Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "60e84ecc5f95aa38",
+      "title": "Colorado State apologizes to BYU for derogatory chants as 11th-ranked Cougars beat Rams 41-23",
+      "link": "https://religionnews.com/2026/09/22/colorado-state-apologizes-to-byu-for-derogatory-chants-as-11th-ranked-cougars-beat-rams-41-23/",
+      "summary": "FORT COLLINS, Colo. (AP) — The school said that “mocking anyone’s faith has no place at CSU.” BYU is the flagship school for what's widely known as the Mormon church. The chants were predominantly pregame and coming from the student section.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:32:08Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-24-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "181f9c8b06c3e10e",
+      "title": "Thousands Turn on Archbishop of Canterbury as Explosive Church Controversy Deepens",
+      "link": "https://mycharisma.com/news/thousands-turn-on-archbishop-of-canterbury-as-explosive-church-controversy-deepens/",
+      "summary": "The firestorm surrounding Archbishop of Canterbury Sarah Mullally isn’t dying down. It’s spreading. What began as outrage over a controversial interfaith award presented on the 25th anniversary of 9/11 has now erupted into something much bigger: thousands are…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:27:45Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ea408d06ffbf4968",
+      "title": "5 Things To Know About XCEL Honoree Kirk Franklin -",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN09pVjRfZS1EUDRaRmdTZlNWVWRONEFmSWJXNDBGS25hd3E2cGJvQ2NJUDlIM1Nhdl80RTBIOTZsWWhoYXEwOUgwdk5LendFX1diWDEtck4tZnhaYU1UT21ESW8yVnctUElydGpHYUhpaVpaUGlpQTQ5V0hNV3RSVzZkTVU0dVVpeFE?oc=5",
+      "summary": "5 Things To Know About XCEL Honoree Kirk Franklin - Black Enterprise",
+      "outlet": "Black Enterprise",
+      "outlet_url": "https://www.blackenterprise.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-22T16:20:17Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T04:39:11Z"
+    },
+    {
+      "id": "664f26d2a27ab2e8",
+      "title": "The civil war in the far-right is coming down to Jews",
+      "link": "https://religionnews.com/2026/09/22/the-civil-war-in-the-far-right-is-coming-down-to-jews/",
+      "summary": "(The Forward) — What the protest of Jake Lang’s Mamdani rally tells us about the direction of the movement.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:18:46Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://forward.com/?republication-pixel=true&post=851192&ga4=G-M5T63K49VC",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "720e9d68a374496c",
+      "title": "Indian state rejects premature release plea in Graham Staines murder case",
+      "link": "https://www.christianpost.com/news/indian-state-rejects-release-plea-in-graham-staines-murder-case.html",
+      "summary": "The eastern Indian state of Odisha has refused to release Rabindra Kumar Pal, better known as Dara Singh, who is serving a life sentence for burning to death Australian missionary Graham Staines and his two young sons at Manoharpur village in 1999.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T16:05:06Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272010_w_550_367_478_186.jpg?v=20260922120918",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c9764e35f68dae8b",
+      "title": "A new book details the legacy of homegrown gospel group the Gay Sisters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXQ4ZkYzemVqUWVhUGo3U1pCZ1AxY2hmdEV1bFhrakhqbjJRRFViY00zbG1mQjBzQTlTb3NMVlVPMEwwZk15Q25MTDFnZUN1MUdzcmJyRUVsZVdfb1ExQUMxX2dXaHNVN1haa3cxRGdNZ19TQmI5N29hTjZIY1F5ZDZ3VFVfLWlOQkt6WG1fYURLMkdnRnc2VE9B?oc=5",
+      "summary": "A new book details the legacy of homegrown gospel group the Gay Sisters WBEZ Chicago",
+      "outlet": "WBEZ Chicago",
+      "outlet_url": "https://www.wbez.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T16:02:00Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T04:39:11Z"
+    },
+    {
+      "id": "86373b39ca5106d3",
+      "title": "Bishop of Austin decries ICE shooting as federal officials say man fled arrest",
+      "link": "https://www.ewtnnews.com/world/us/bishop-of-austin-decries-ice-shooting-as-federal-officials-say-man-fled-arrest",
+      "summary": "Bishop Garcia asked for prayers for the man who was shot and “all who have been involved,” asking for government authorities to be “transparent and honest about what occurred.”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T15:55:00Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790085760/ewtn-news/en/AustinShooting_b4slj4.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c73ca9ef81381b0e",
+      "title": "A Generation Hungry for God? Prayer Tops Young Adults’ Reasons for Attending Church",
+      "link": "https://mycharisma.com/news/a-generation-hungry-for-god-prayer-tops-young-adults-reasons-for-attending-church/",
+      "summary": "Forget the smoke machines and the perfectly curated church experience. Young adults may be hungry for something far more powerful: prayer. New research from Barna Group is revealing a fascinating spiritual trend among Gen Z and Millennials, and it cuts…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T15:45:09Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "8544fbce3ff0cb38",
       "title": "Photos: Lauren Daigle brings a soulful spark to the Washington State Fair",
@@ -18,6 +240,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-23T04:07:09Z"
+    },
+    {
+      "id": "26e76dbc0e3f05e0",
+      "title": "British teens rank lowest in life satisfaction for second time: study",
+      "link": "https://www.christianpost.com/news/british-teens-rank-lowest-for-life-satisfaction-for-second-time.html",
+      "summary": "Teenagers in Britain have been ranked the lowest for life satisfaction in a survey of 29 European countries for the second time in a row.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T15:21:20Z",
+      "first_seen": "2026-09-22T16:39:11Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272008_w_550_367.jpg?v=20260922112146",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "972a65aef8d7e23a",
@@ -10702,235 +10943,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a68b0509584cb57e",
-      "title": "Country music star rumored to be dating Christian Pulisic of USMNT",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZWd5N3hPc3dRVFhJcy1mSU1FR21rNl9WUjlEMFlBYzE5Z2tmSndPSjVEbTJ6WGZ5N21zb0NUSGFCZW9OWndyT2xGMXl0aWRrWkMzMjRfX1BydWNORlNUM0Iyb3U5VFNhT3dPR2JkNklPTDZjek9rV3M3V2g4U0w1bVB6elFVeTlLWDB3VUVub0l3Vk16V19wWkxHWkFETlJmLXE0Yl9PRndHZ19EUXp1VNIBxAFBVV95cUxPeGlhemxhVEpIeHN3eXlSVXJ6S1A1dmRnb1F2Z25COHVjU0dGMGxiMC1tNHhmZHE4dG81X1BwOFBNWDc3SGlkVDVxVVY3Qm1DLTR3TjV5M2tsSkN1TmVnMVhlQ2szakFQLXB4clF5c25xWE9HR1pBTW1PQ2kxNm5PVmNVSmtoVVgxb01qTmg4TWk1SmVCTC1meG9yRnBiaGVSdURuX0xOU25samREWVNlQWZmeFdIR0NuQWE2TG94dEhjNlVa?oc=5",
-      "summary": "Country music star rumored to be dating Christian Pulisic of USMNT PennLive.com",
-      "outlet": "PennLive.com",
-      "outlet_url": "https://www.pennlive.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T12:46:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "43012e8a326bb001",
-      "title": "Glasgow Adventist Gospel Choir Launches OneVoice27 – tedNEWS Network - Trans-European Division",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMFVtNGVnLUJ4V1pkaUVxLXltR2luOU1uSlpneUNMRUU3Z2U0clAxa1RyeVRhVFBaS0tkRmpmbGVpaGcxMktFc1l3dnJzenJ6ejdNR25McjlmQkY3eVNnYUFNMkplV1RGWF94UHYxZFI1TW5FMHRkakxuanc3UzVtMGpYaW43RnB5UGc?oc=5",
-      "summary": "Glasgow Adventist Gospel Choir Launches OneVoice27 – tedNEWS Network Trans-European Division",
-      "outlet": "Trans-European Division",
-      "outlet_url": "https://ted.adventist.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T12:28:27Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ed80924cb9309ef9",
-      "title": "Antifa Thugs Attack Christian Street Evangelist Outside GOP Event",
-      "link": "https://mycharisma.com/news/antifa-thugs-attack-christian-street-evangelist-outside-gop-event/",
-      "summary": "A Christian evangelist was attacked by multiple Antifa offshoot members while he was preaching outside of the Republican National Midterm Convention. Chris Svochak and four others were proclaiming the gospel near the American Airlines Center in Dallas, Texas…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T12:20:11Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-162151-1.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "441baf6da6b68b9a",
-      "title": "Pastor Sedra Family's Relocation Fund Surpasses $300K Goal: New Details Reveal Just How Serious the Threats Got",
-      "link": "https://www.jubileecast.com/articles/39473/20260916/sedra-family-relocation-fund-goal-counter-terrorism-police-update.htm",
-      "summary": "Pastor Sedra Family's Relocation Fund Surpasses $300K Goal: New Details Reveal Just How Serious the Threats Got",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T12:08:38Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31730/pastor-andrew-sedra-and-family.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0d26843bd8237a12",
-      "title": "Lawyer at firm defending Zion Church pastors escapes to Taiwan amid crackdown",
-      "link": "https://www.christianpost.com/news/zion-church-pastors-lawyer-flees-china-as-pressure-mounts.html",
-      "summary": "Ruth Wang, a partner at a law firm representing pastors from Beijing’s Zion Church, among China's largest underground congregations, has fled the country with her husband and two children as Chinese authorities pressured the firm to dissolve.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T11:55:52Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271935_w_550_367_587_326.jpg?v=20260916091615",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1ff4462aaebc79ec",
-      "title": "Local gospel artist wins three awards at 13th Ingoma Awards",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMm1RS1BRa25ZQm9hRlFmMUdnbU4tcXJSQkZUcnB3OXMxbDNGWFNkbWJTSF92cHNuWVFUUVM0WWFmTTVNY0twNW5SN1hMNVhKNHYzc0RzVzVPQVpHVXJKRmZ6S0pJbGF3N0k5c1V4MkEzcXFKT1BhQnM2dXdjSTg1QXI4cDRpTVQ1ZE4tcnNGRmU0azVJUVVIckFHLXdIalFISHpqdzdEc3pCYXc4eXBKWE5jXzNadmZKdmRNTjZ4V01hTEVTaC1DTlVpek9hS0lFRWJta3ZR?oc=5",
-      "summary": "Local gospel artist wins three awards at 13th Ingoma Awards The Citizen",
-      "outlet": "The Citizen",
-      "outlet_url": "https://www.citizen.co.za",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T11:32:33Z",
-      "first_seen": "2026-09-17T09:39:31Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ee75c531caab590a",
-      "title": "How Jazz Legend Ron Carter Found “The Right Notes” on His New Gospel Album",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYUZzcXhJNEtueFJKMmFJWUtuRmVmalNCZlpHd3JSbWQ4bHg1dUhKYlpzNVk0VTJLODBiY09IWF93UHVmWTN5cml0N2VQaDBLVmhGM2lHZlV5dzhrRkZnOGlPTm92dkY0elFwTzU0WWFTQzhsekc5QVVMMXZSMEdqbVhfdWVRSTIwQnBKS1o4UzdRTTRaVWNNMmtR?oc=5",
-      "summary": "How Jazz Legend Ron Carter Found “The Right Notes” on His New Gospel Album Yahoo",
-      "outlet": "Yahoo",
-      "outlet_url": "https://www.yahoo.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T11:30:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ed01bcafd816f7fd",
-      "title": "James Talarico courts Houston Black voters where it counts most",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGduWWFZUVZDT1ZlaVNJeW9abTVNWFp1Y2d3RUpnNG85UGJ1VkZid1NzYTQ4WW9tUXM2MV9MNnhraUhqS2ZmQXRfLVBFLXJXZWw4M2pjLWxPQ0o5cDRiSVNoeXRObmROTmpWUkNFZ1I4M2ZkUmJudmU1aVczSHA0SVB1amROUlBNQlBvRmZvaFZFbkR3aTZMT3lmNjh4ZnIycTV2WDFnOThCVFZUTUdWZzF3?oc=5",
-      "summary": "James Talarico courts Houston Black voters where it counts most Houston Chronicle",
-      "outlet": "Houston Chronicle",
-      "outlet_url": "https://www.houstonchronicle.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T11:12:16Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6f0e62f6609c4bb1",
-      "title": "On Mexican independence day, bishops warn of country’s ‘open wounds’",
-      "link": "https://www.ewtnnews.com/world/americas/as-mexican-independence-day-approaches-bishops-warn-of-country-s-open-wounds",
-      "summary": "The Mexican bishops acknowledged that while progress has been made in human rights, serious social ills persist. They also emphasized religious freedom and devotion to Our Lady of Guadalupe.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T11:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789500576/ewtn-news/en/bandera-mexico-david-ramos-aci-260126-1769450888_f66wc3.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "11fee7e128ff36e5",
-      "title": "Crystal Lewis Reveals The Motherhood, Fear And Faith Behind \"Beauty For Ashes\" 30 Years Later",
-      "link": "https://www.jubileecast.com/articles/39472/20260916/crystal-lewis-reveals-the-motherhood-fear-and-faith-behind-beauty-for-ashes-30-years-later.htm",
-      "summary": "Crystal Lewis Reveals The Motherhood, Fear And Faith Behind Beauty For Ashes 30 Years Later",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T10:37:22Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31825/crystal-lewis.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6b20dbbf4b4c1a89",
-      "title": "Meet Josh Weathers: The Texas Country Artist To Watch, Heading To The UK",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ScVU4Y2hxZEdNS2RYS0FlNDVIdmQtRWZfVEJGSGhPT0dRajRyeVBZY1FWblNJOGM1NS0tQzVDbC1TbmJOc2twYjZoaGZZcVJNUk9RUDV6TFo2VXZ0Q2J1MXowbU9LbllPNllaYlBoaVdOTVduLVVQV1JDemFJQVk?oc=5",
-      "summary": "Meet Josh Weathers: The Texas Country Artist To Watch, Heading To The UK MNPR Magazine",
-      "outlet": "MNPR Magazine",
-      "outlet_url": "https://www.mnprmagazine.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T10:34:00Z",
-      "first_seen": "2026-09-17T21:07:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f16084861ce26f1e",
-      "title": "Perez Hilton Enters Residential Treatment As Family Slams Wild Memory-Loss And Katy Perry Rumors",
-      "link": "https://www.jubileecast.com/articles/39471/20260916/perez-hilton-enters-residential-treatment-as-family-slams-wild-memory-loss-and-katy-perry-rumors.htm",
-      "summary": "Perez Hilton Enters Residential Treatment As Family Slams Wild Memory-Loss And Katy Perry Rumors",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T10:32:14Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31343/perez-hilton.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1f6190a4293dee60",
-      "title": "Gavin Ortlund Pushes Back After Critics Compare Praying To Saints With Belief In The Trinity",
-      "link": "https://www.jubileecast.com/articles/39470/20260916/gavin-ortlund-pushes-back-after-critics-compare-praying-to-saints-with-belief-in-the-trinity.htm",
-      "summary": "Gavin Ortlund Pushes Back After Critics Compare Praying To Saints With Belief In The Trinity",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T10:28:23Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31824/gavin-ortlund.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
