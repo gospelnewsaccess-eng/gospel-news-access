@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-22T20:06:41Z",
+  "generated_at": "2026-09-22T20:37:50Z",
   "story_count": 600,
-  "with_photo": 451,
+  "with_photo": 455,
   "items": [
+    {
+      "id": "90769c458e50a970",
+      "title": "Under congressional pressure, a major Muslim charity cuts ties and changes its name",
+      "link": "https://religionnews.com/2026/09/22/major-american-muslim-charity-rebrands-after-congressional-pressure/",
+      "summary": "(RNS) — Islamic Relief USA, a humanitarian organization with a $150 million annual budget, rebranded itself as the Islamic Development and Empowerment in America after members of Congress threatened to have its tax-exempt status revoked.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T20:41:26Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Islamic-Relief2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "951bf3bb9e27bae5",
+      "title": "A SWAT Team Broke This Pastor’s Nose and Stormed His Church With Machine Guns – Attendance Increased",
+      "link": "https://mycharisma.com/news/a-swat-team-broke-this-pastors-nose-and-stormed-his-church-with-machine-guns-attendance-increased/",
+      "summary": "DUISBURG, Germany – Poisoned land, government opposition and even a police assault against the pastor have not prevented a unique German Church called Wera Forum from becoming the largest in the city of Duisburg. Wera means belief. The pastor, Alexander Epp…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T20:36:12Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "07faf0c5fda744f5",
+      "title": "Amy Grant’s Deluxe Album Includes Seven New Tracks and a Collaboration With Switchfoot’s Jon Foreman",
+      "link": "https://www.jubileecast.com/articles/39636/20260922/amy-grant-s-deluxe-album-includes-seven-new-tracks-and-a-collaboration-with-switchfoot-s-jon-foreman.htm",
+      "summary": "Amy Grant’s Deluxe Album Includes Seven New Tracks and a Collaboration With Switchfoot’s Jon Foreman",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T20:26:52Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28809/amy-grant.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "862e9abe4e811d8e",
+      "title": "Trump Says Mamdani Has ‘Great Potential’ as Two Address Media Together After Meeting",
+      "link": "https://mycharisma.com/news/trump-says-mamdani-has-great-potential-as-two-address-media-together-after-meeting/",
+      "summary": "On Monday, President Donald Trump met with Democratic Mayor Zohran Mamdani of New York City. Afterward, the two men spoke to reporters outside Gracie Mansion, the mayor’s residence, where they appeared to maintain a rapport that developed during two earlier…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T20:15:09Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0e24265308b06d06",
       "title": "Jessica Simpson Teams Up With This Christian Band for New Song",
@@ -18,6 +94,44 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-23T08:06:41Z"
+    },
+    {
+      "id": "b6274a0ad5c7129a",
+      "title": "Great American Media taking nominations for small-town churches to honor this Christmas",
+      "link": "https://www.christianpost.com/news/great-american-media-taking-nominations-for-small-town-churches.html",
+      "summary": "Christmas is months away, but that's not stopping a new nationwide campaign to recognize small-town churches that serve their communities during the \"most wonderful time of the year.\"",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T19:53:15Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272000_w_550_413_587_314.jpg?v=20260922155733",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4065f7ad36e7043a",
+      "title": "North Carolina church baptizes 458 people in a single day: 'God at work'",
+      "link": "https://www.christianpost.com/news/north-carolina-church-baptizes-458-people-in-a-single-day.html",
+      "summary": "A multisite church in North Carolina baptized 458 people in a single day, setting a record in the congregation’s 137-year history.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T19:33:00Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272020_w_550_401.jpg?v=20260922153407",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "832e58789d86ca7b",
@@ -349,6 +463,22 @@
         "url": "http://religionnews.com/wp-content/uploads/2026/09/Music-Bible-MarkText-Light-scaled.png",
         "via": "og:image"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5b7bb8f8bfe8d66f",
+      "title": "Anthony Brown Gets Honest About Faith and His New Album",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWE0ei1GaWROd0l0Mjl5a2ItNVptb1MwckhLdUZxZmVoaEZkdlREb3BMaFgyRVZuR0hHalQwQTVYU296MDAwZjI3VHRwc0I0WlNGUWViWkVLSTNzMWNYSFlybXUxTU1MdlFkVjlKdkxHay1qX2R2Zm5nTmtfeWpCT1dEbTNPMlg3UlM3c2U2TlA?oc=5",
+      "summary": "Anthony Brown Gets Honest About Faith and His New Album Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-22T17:22:29Z",
+      "first_seen": "2026-09-22T20:37:50Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10834,124 +10964,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271938_w_550_281.jpg?v=20260916133800",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b0c87b3afc48e23f",
-      "title": "Photos of the Week: 9/11 anniversary, Ganesha festival",
-      "link": "https://religionnews.com/2026/09/16/photos-of-the-week-9-11-anniversary-ganesha-festival/",
-      "summary": "(RNS) — This week’s photo selection includes the 25th anniversary of the 9/11 attacks, the annual Hindu Ganesha festival and more.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T17:29:40Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1f510cfac65622dd",
-      "title": "ActsSocial Reports Major Surge in New-Member Registrations as Faith-First Platform Expands Global Reach",
-      "link": "https://religionnews.com/2026/09/16/actssocial-reports-major-surge-in-new-member-registrations-as-faith-first-platform-expands-global-reach/",
-      "summary": "Nashville Publicity Group",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T17:28:43Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "843f872fa1dbc0e9",
-      "title": "57th Annual GMA Dove Awards announce second round of performers and presenters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbUVXYjQtcWxBVS1kaUhhYjd6ZjBqUlNCVS1yZGhhTVJ0cWRGczNlTUNjTFJ2b3h6NWZVSzlRTG85YlptUG1VbGg1T0lrMWVUWHR0cTJNRFFFd1B0NlZEanNjLXRMZ2xRbkVORzc5RHJpdnBndENUQ3pDa0Fkb3BwS1JyMk1mZnZOQmRfMDVvd2pONTBsejk2aEczaC0zbjJVbVo2ZzNPRmI0RHIz?oc=5",
-      "summary": "57th Annual GMA Dove Awards announce second round of performers and presenters The Music Universe",
-      "outlet": "The Music Universe",
-      "outlet_url": "https://themusicuniverse.com",
-      "source_feed": "Google News: Tasha Cobbs Leonard",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-16T17:27:34Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bd2a559a03cd06a6",
-      "title": "Vatican calls for ‘new ethic of dialogue’ 60 years after Nostra Aetate",
-      "link": "https://www.ewtnnews.com/vatican/vatican-calls-for-new-ethic-of-dialogue-60-years-after-nostra-aetate",
-      "summary": "A new Vatican note calls for renewed formation in interreligious dialogue while affirming religious differences and Christian identity.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T17:22:18Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1776188987/ewtn-news/en/_SIM4350_xygdol.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c6427309d912a327",
-      "title": "Muslim region in southern Philippines holds first elections",
-      "link": "https://religionnews.com/2026/09/16/muslim-region-in-southern-philippines-holds-first-elections/",
-      "summary": "MANILA, Philippines (AP) — Officials said turnout was over 80%, even as five people were killed in election-related violence in the regional capital and polling was extended to a second day in some precincts over a suspected effort to cheat.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T17:07:32Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "13a221b9ae17a803",
-      "title": "They are paid to bring rain. When it fails — or leads to floods — violence can follow",
-      "link": "https://religionnews.com/2026/09/16/they-are-paid-to-bring-rain-when-it-fails-or-leads-to-floods-violence-can-follow/",
-      "summary": "NAMISINDWA, Uganda (AP) — African rainmakers have long served as spiritual leaders in their communities, performing rituals to ask deities to bring rain.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T17:05:05Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8053ddc7b13c6420",
-      "title": "Hulvey Added to 57th Dove Awards Performer Roster Alongside TobyMac and More",
-      "link": "https://rapzilla.com/2026-09-hulvey-added-to-57th-dove-awards-performer-roster-alongside-tobymac-and-more/",
-      "summary": "Christian hip-hop is getting another big moment on the GMA Dove Awards stage! The Gospel Music Association (GMA) has officially announced its second round of performers and presenters for the upcoming 57th Annual GMA Dove Awards, and CHH fans have a lot to…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T16:41:57Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/16124020/3-Picture-Template-Article.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
