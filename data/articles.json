@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-22T15:07:06Z",
+  "generated_at": "2026-09-22T15:37:30Z",
   "story_count": 600,
-  "with_photo": 447,
+  "with_photo": 445,
   "items": [
+    {
+      "id": "d0b48db265021d9f",
+      "title": "Notre Dame theologian John Cavadini to receive 2026 Ratzinger Prize",
+      "link": "https://www.ewtnnews.com/vatican/notre-dame-theologian-john-cavadini-to-receive-2026-ratzinger-prize",
+      "summary": "Pope Leo XIV will present the award to Cavadini at the Vatican on Dec. 19.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T15:15:00Z",
+      "first_seen": "2026-09-22T15:37:30Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790089109/ewtn-news/en/JohnCavadini092226_hhsq7b.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "82c951de098bc930",
+      "title": "Detroit's oldest Black episcopal church celebrates anniversary",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmQyV29aTkRqRlFablBEbU1wVEtSNDR4Y0Z1TUlSZi1kTE1YX19DM0ZpbEU4NzNDNm80cVc4SEJqemJuM2lTcmdZYUQzc2pNNXJHdUFPT0E2c2N4WTNQeTg5NDIxNFJMaGhYU3BETEZHSGt2bUhpaXFiR0tUZjJFdDMydE1aY3YwMHlsMlM2V2Z4TjNkb2s2aHhTS2E5NnBCcnVPbW5tMUNoWXZZOGdHdlF5Skw0Y2s?oc=5",
+      "summary": "Detroit's oldest Black episcopal church celebrates anniversary ClickOnDetroit",
+      "outlet": "ClickOnDetroit",
+      "outlet_url": "https://www.clickondetroit.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-22T15:02:33Z",
+      "first_seen": "2026-09-22T15:37:30Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T03:37:30Z"
+    },
     {
       "id": "7795b3ad2dea8374",
       "title": "LES TRAYLOR RELEASES “RIGHT HERE” TO CHRISTIAN RADIO Song Reflects on God’s Constant Presence Through Life’s Trials, Mercy and Grace",
@@ -16,6 +51,60 @@
       "published": "2026-09-22T14:59:18Z",
       "first_seen": "2026-09-22T15:07:06Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "547095e88c79dc54",
+      "title": "New ministry tool will make it easier to share the Gospel with Deaf people",
+      "link": "https://www.christianpost.com/news/new-tool-will-make-it-easier-to-share-the-gospel-with-deaf-people.html",
+      "summary": "A new resource designed to reach Deaf and hard-of-hearing communities around the world with the Gospel has been launched by biblical media company RevelationMedia in partnership with the International Mission Board (IMB).",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T14:53:00Z",
+      "first_seen": "2026-09-22T15:37:30Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272007_w_550_413.jpg?v=20260922105408",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "562295ae992010f0",
+      "title": "Kirk Franklin Says His Mother Still Rejects DNA Results Identifying His Father | VIDEO",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cWx4cnhlNTdxX1ZuMTlNUkx0S294a2lIWkphMGc3cWUzcjl4RlZQV2FoTFNPNGlLVHFSX0c2UFhoYk1zamF4MHVnTXphaXdDX3c?oc=5",
+      "summary": "Kirk Franklin Says His Mother Still Rejects DNA Results Identifying His Father | VIDEO EURweb",
+      "outlet": "EURweb",
+      "outlet_url": "https://eurweb.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-22T14:40:31Z",
+      "first_seen": "2026-09-22T15:37:30Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T03:37:30Z"
+    },
+    {
+      "id": "2b9f8d8c97fd8f26",
+      "title": "Pope Leo XIV, in France, will bring Catholic social teaching to a secular Europe",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-in-france-will-bring-catholic-social-teaching-to-a-secular-europe",
+      "summary": "During his Sept. 25–28 visit to Paris, Lourdes, and Metz, Leo’s approach to sharing the Catholic Church’s teaching on political and social issues will be highly watched.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T14:35:00Z",
+      "first_seen": "2026-09-22T15:37:30Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1775861002/ewtn-news/en/sim6611-1-1775836659_ud6pqc.webp",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10846,101 +10935,6 @@
       "published": "2026-09-16T10:15:00Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9bf048b9b7c9b9c2",
-      "title": "SENSERE On Its First Stellar Award, Fred Hammond, And A New Season Of Success",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY29ZVHNtNmRteDVrMjJvMEhoMmJTbnNVTHFuLUFUZUFWa0hHTmJiOEVXb0RMY1FWV0dUb0N0bU9vcXRfWm1CVk01NUk5QVhJY1pNS2RCaW9mdEZDTGlCdzA1NWROQnpUS2swNEd6eVNGU1NtSHFOaWxJaFN1bzVIcVJoa0xVX3lhTldKRnJXa1N5ZkVZNnR2SE1tN0dPZ0NoMlF3ZDRKejZnbnFidndCb24yZUY3bVlqbUhmMERKYXFMbUg2bXZ0blpmZw?oc=5",
-      "summary": "SENSERE On Its First Stellar Award, Fred Hammond, And A New Season Of Success JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Fred Hammond",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-16T10:13:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31823/sensere.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "28a62511b2284ba7",
-      "title": "Why I’m a Professional ‘Third Wheel’",
-      "link": "https://www.christianitytoday.com/2026/09/professional-third-wheel-friendships/",
-      "summary": "It’s five o’clock rush hour on Wednesday afternoon, and I’m trying to think happy thoughts on my weekly one-and-a-half-hour drudge through Nashville to visit my friends Chase and Paige. The drive itself is easily my least favorite part of the week, but as I…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T10:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/why-im-professional-third-wheel.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8c4829d08c1fe116",
-      "title": "How ‘Harm Reduction’ Harms the Homeless",
-      "link": "https://www.christianitytoday.com/2026/09/how-harm-reduction-harms-the-homeless-drug-addiction-california/",
-      "summary": "For many years, it was widely accepted that the way to help people addicted to drugs was to support them through detoxing: Get the substance out of their system to give them a shot at life without it. More recently, however, the doctrine of “harm reduction”…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T10:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/how-harm-reduction-harms-homeless.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8a0009b16dcab97f",
-      "title": "When Lack of Accountability Leads to the ‘Death of the Pastor’s Wife’",
-      "link": "https://www.christianitytoday.com/2026/09/mica-miller-accountability-death-of-the-pastors-wife/",
-      "summary": "“The church has died. The church has closed down,” said lawyer Russell Long. Long was representing John-Paul “JP” Miller, pastor of the nondenominational Solid Rock Church in Myrtle Beach, South Carolina. The church’s closure was due to external pressure…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T10:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/justice-mica-begin-in-church.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9b9dbca116cd2127",
-      "title": "Catholics process in Washington, head to Congress in solidarity with migrants",
-      "link": "https://www.ewtnnews.com/world/us/dorothea-project-dc-event-migrants-sept-2026",
-      "summary": "The Mass, procession, and rally brought out more than 100 Catholics. Following the events, some attendees met with congressional staffers about the dignity of migrants.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T10:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789507198/ewtn-news/en/Image_63_scksbk.jpg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
