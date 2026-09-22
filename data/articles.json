@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-22T03:38:42Z",
+  "generated_at": "2026-09-22T04:06:48Z",
   "story_count": 600,
-  "with_photo": 446,
+  "with_photo": 447,
   "items": [
+    {
+      "id": "00c8c5810f987320",
+      "title": "BREAKING! Pastor Keith Rydell Mayes Stole Over Half a Million Dollars From Tulsa AME Church to Gamble",
+      "link": "https://blackchristiannews.com/breaking-pastor-keith-rydell-mayes-stole-over-half-a-million-dollars-from-tulsa-ame-church-to-gamble/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-pastor-keith-rydell-mayes-stole-over-half-a-million-dollars-from-tulsa-ame-church-to-gamble",
+      "summary": "Historic Vernon AME Church False Pastor Keith Rydell Mayes Pleads Guilty to Similar but Worse Crimes Than False Prophet Brian The post BREAKING! Pastor Keith Rydell Mayes Stole Over Half a Million Dollars From Tulsa AME Church to Gamble appeared first on…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T03:39:53Z",
+      "first_seen": "2026-09-22T04:06:48Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/Keith-Rydell-Mayes.jpeg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "403231dc9e7cb82f",
       "title": "Anthony Brown & group therAPy Release Seventh Album Disclosure, Hit Gospel Top 5",
@@ -10922,22 +10941,6 @@
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/14/12/1789381799216.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "36ba36b30b031a0f",
-      "title": "Donnie McClurkin Prepares for his Final Álbum by Releasing New Single “Lord I Thank You”",
-      "link": "https://pathmegazine.com/articles/donnie-mcclurkin-prepares-for-his-final-album-by-releasing-new-single-lord-i-thank-you/",
-      "summary": "Gospel music icon Donnie McClurkin continues the powerful final chapter of his celebrated recording career with the release of his new single, “Lord, I Thank You,” recently … The post Donnie McClurkin Prepares for his Final Álbum by Releasing New Single “Lord…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-15T14:25:10Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
