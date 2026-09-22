@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-09-22T11:06:44Z",
+  "generated_at": "2026-09-22T11:38:22Z",
   "story_count": 600,
-  "with_photo": 447,
+  "with_photo": 448,
   "items": [
+    {
+      "id": "70f9de658874af33",
+      "title": "South Sudan: Our wounds belong to our history; leave a legacy of peace.",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/south-sudan-our-wounds-belong-to-our-history-leave-a-legacy-o.html",
+      "summary": "On the International Day of Peace, Bishop Eduardo Hiiboro Kussala of Tombura-Yambio called on the people of South Sudan to renew their commitment to peace, reconciliation, and justice. He urged the political leaders, communities, young people, and faith…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T11:19:00Z",
+      "first_seen": "2026-09-22T11:38:22Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2024/aprile/24/yyyyyyyyyyyyyyyyyyyy.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d5fc199b11ed03da",
+      "title": "Catholic university works to preserve Lebanon’s Christian past",
+      "link": "https://www.ewtnnews.com/world/middle-east/catholic-university-works-to-preserve-lebanon-s-christian-past",
+      "summary": "The Holy Spirit University of Kaslik is working to preserve the living witness of a people rooted in their homeland for nearly two millennia.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T11:00:00Z",
+      "first_seen": "2026-09-22T11:38:22Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790003189/ewtn-news/en/Lebaabout-1_trp8gj.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b7622edb36fb230a",
+      "title": "Why Is Garth Brooks Leaving TuneIn? His Three-Year Radio Run Is Wrapping Up",
+      "link": "https://www.jubileecast.com/articles/39628/20260922/garth-brooks-tunein-radio-partnership-ends-stingray.htm",
+      "summary": "Why Is Garth Brooks Leaving TuneIn? His Three-Year Radio Run Is Wrapping Up",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:52:18Z",
+      "first_seen": "2026-09-22T11:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30368/garth-brooks.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e6baff0048d8d295",
+      "title": "Can a Robot Win America's Got Talent? Unitree Makes It to Tonight's Finale",
+      "link": "https://www.jubileecast.com/articles/39623/20260922/agt-season-21-finale-2026-unitree-robot-dance-troupe.htm",
+      "summary": "Can a Robot Win America's Got Talent? Unitree Makes It to Tonight's Finale",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:48:31Z",
+      "first_seen": "2026-09-22T11:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31895/unitree-robotics.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c51e63064e99766b",
+      "title": "The Voice Season 30 Premiere: Queen Latifah Makes History Twice in One Night",
+      "link": "https://www.jubileecast.com/articles/39622/20260922/the-voice-season-30-premiere-recap-queen-latifah-first-in-button.htm",
+      "summary": "The Voice Season 30 Premiere: Queen Latifah Makes History Twice in One Night",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:48:22Z",
+      "first_seen": "2026-09-22T11:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31894/the-voice-coaches.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "306a26d681bd62be",
+      "title": "Cody Johnson's \"Take Me Back (Leave Me There)\" Hits No. 10: His Sixth Top 10 Song to Date",
+      "link": "https://www.jubileecast.com/articles/39627/20260922/cody-johnson-take-me-back-leave-me-there-sixth-top-10.htm",
+      "summary": "Cody Johnson's \"Take Me Back (Leave Me There)\" Hits No. 10: His Sixth Top 10 Song to Date",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:46:41Z",
+      "first_seen": "2026-09-22T11:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30128/cody-johnson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a5b493feff02e9ef",
       "title": "New book profiles an overlooked Chicago gospel trio, who played with Mahalia Jackson and Sam Cooke - Chicago Sun-Times",
@@ -10828,117 +10942,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cfeb0630e9b9b293",
-      "title": "Singles Want Marriage More Than They Did 15 Years Ago",
-      "link": "https://relevantmagazine.com/life5/relationships/singles-want-marriage-more-than-they-did-15-years-ago/",
-      "summary": "If marriage is supposedly dying, somebody forgot to tell single Americans. Indiana University’s Kinsey Institute has released new findings from its 15th annual Singles in America study, based on a survey of roughly 5,000 U.S. single adults. Forty-five percent…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T20:36:29Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/marriage.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "03507f1a10896100",
-      "title": "Daughter of jailed Syrian Christian leader says ordeal has bolstered her faith: 'God protected my father'",
-      "link": "https://www.christianpost.com/news/daughter-of-jailed-syrian-christian-pleads-for-trumps-help.html",
-      "summary": "The daughter of the imprisoned former mayor of a Syrian Christian town says her father’s ordeal has strengthened her faith in God for keeping him alive, as she works alongside religious freedom advocacy groups to secure his release.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T19:25:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271928_w_550_367_457_102.jpg?v=20260915152617",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0a5f9300cc757af6",
-      "title": "U.S. religious freedom commission urges Trump to press for release of religious prisoners",
-      "link": "https://www.ewtnnews.com/world/us/u-s-religious-freedom-commission-urges-trump-to-press-for-release-of-religious-prisoners",
-      "summary": "The U.S. Commission on International Religious Freedom made the plea ahead of Chinese President Xi Jinping’s Sept. 24 trip to Washington, D.C.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T19:14:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1751922864/images/jimmylaibradleyprize1053025.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6cd1aa5bc14ada87",
-      "title": "Elevation Nights Tour Announces Winter 2027 Dates",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbHVuN1owb2ZrMDFXd2ViMjctWVJqVTVSSm5RUHBfSGJSY2h4RkpOSUk0TG83UzdwbzRIajJSU1JrMjZOdTB4eUtUSzU4Y0ZSVXJpRmJWeDBha0ZNUm9xUFJwNkNqYXdyZDZUNV9oWmZ6NGF1MUlvVXphaEM4TmNacEg1UTk?oc=5",
-      "summary": "Elevation Nights Tour Announces Winter 2027 Dates Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-15T18:40:56Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e16101fac71e846b",
-      "title": "Trump Taps Franklin Graham’s Daughter Cissie Graham Lynch for Leading Religious Freedom Role",
-      "link": "https://mycharisma.com/news/trump-taps-franklin-grahams-daughter-cissie-graham-lynch-for-leading-religious-freedom-role/",
-      "summary": "President Donald Trump has nominated Cissie Graham Lynch, granddaughter of the late evangelist Billy Graham and daughter of Franklin Graham, to serve as the U.S. ambassador-at-large for international religious freedom. Lynch announced Tuesday morning on X…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T18:30:07Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-06-27-160646-1-1.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c85c86f9584b1464",
-      "title": "Parental Rights Battle Erupts as State Seeks to Transition Teen Girl",
-      "link": "https://mycharisma.com/news/parental-rights-battle-erupts-as-state-seeks-to-transition-teen-girl/",
-      "summary": "A Massachusetts family is in the fight of their lives after the state took custody of their teenage daughter—and now the battle over parental rights, religious conviction and gender ideology has landed in court. Joseph and Arlene Kutzko say they have not…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T18:23:06Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-121734.png",
         "via": "content:encoded"
       },
       "breaking": false,
