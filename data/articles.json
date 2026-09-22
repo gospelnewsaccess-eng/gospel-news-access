@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-22T02:07:12Z",
+  "generated_at": "2026-09-22T02:38:22Z",
   "story_count": 600,
-  "with_photo": 445,
+  "with_photo": 446,
   "items": [
+    {
+      "id": "403231dc9e7cb82f",
+      "title": "Anthony Brown & group therAPy Release Seventh Album Disclosure, Hit Gospel Top 5",
+      "link": "https://www.jubileecast.com/articles/39614/20260921/anthony-brown-group-therapy-disclosure.htm",
+      "summary": "Anthony Brown & group therAPy Release Seventh Album Disclosure, Hit Gospel Top 5",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T02:07:52Z",
+      "first_seen": "2026-09-22T02:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31891/anthony-brown-full-disclosure.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "40531ac447e4c44f",
+      "title": "Sarai Rivera Earns First-Ever Latin GRAMMY Nomination in Major Career Milestone",
+      "link": "https://www.jubileecast.com/articles/39613/20260921/sarai-rivera-latin-grammy-nomination.htm",
+      "summary": "Sarai Rivera Earns First-Ever Latin GRAMMY Nomination in Major Career Milestone",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T02:04:41Z",
+      "first_seen": "2026-09-22T02:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31890/sarai-rivera.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d5f67cb1e53fd3d9",
+      "title": "The Bible Verse Behind David Leonard's New Song \"Well Done\"",
+      "link": "https://www.jubileecast.com/articles/39612/20260921/david-leonard-well-done-bible-verse-matthew-25.htm",
+      "summary": "The Bible Verse Behind David Leonard's New Song \"Well Done\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T01:58:33Z",
+      "first_seen": "2026-09-22T02:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31872/david-leonard-1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "db206d10b2715c78",
+      "title": "Talarico's PCUSA pastor questions Resurrection, likens Communion to 'being breastfed' by Gnostic goddess",
+      "link": "https://www.christianpost.com/news/james-talaricos-pastor-questions-resurrection-pushes-gnosticism.html",
+      "summary": "Resurfaced sermons from the Rev. Jim Rigby show the longtime pastor and spiritual mentor of Democratic U.S. Senate candidate James Talarico questioning the historicity of the Resurrection and likening the Lord's Supper to breastfeeding from a Gnostic goddess.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T01:53:00Z",
+      "first_seen": "2026-09-22T02:38:22Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272005_w_550_309.jpg?v=20260921215406",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8b55581912a29329",
+      "title": "Avengers: Doomsday Presales Cross $55 Million — Three Months Before It Even Opens",
+      "link": "https://www.jubileecast.com/articles/39611/20260921/avengers-doomsday-presales-55-million-record.htm",
+      "summary": "Avengers: Doomsday Presales Cross $55 Million — Three Months Before It Even Opens",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T01:45:00Z",
+      "first_seen": "2026-09-22T02:38:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31876/avengers-doomsday.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "48a5119fc1a5cc3d",
       "title": "California Just Made September 25 \"Dolly Parton Day\": Here's the Story Behind the Date",
@@ -10843,98 +10938,6 @@
       "published": "2026-09-15T14:21:31Z",
       "first_seen": "2026-09-21T22:06:47Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f777e4d75f9c0472",
-      "title": "National Black Church Initiative Calls on the US Congress to Provide Regulatory Safeguards for Artificial Intelligence",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMG1sSjg4TlZ2ZnFGeThVNHB3clhMR3RKZDlXU1ZYZmM1SXlFVXV1d0R4NlUyblVybmNDdjdEUVkwV1BFdUZpZjN5RVlyVjNSZWo3UjkyQ0JoLU5ad2p4Nk5fTlNLVXZWdklheEx1dDJsVVZaTll6a0pleUxUUnpGZTlpWkthVkV4V0ppX0lma3N2cldGZVVGbFY3c21YTTBhQTBDRURhazBZM0ZUYkZ1VzFaRFViMzNROXNWTjVYenVqcHk4SWNLQ1piakJCOE9ET19INkE5dnhYQkVxSEJ3R3ZmWDBlUUFXUmZHbWZqZjAzZw?oc=5",
-      "summary": "National Black Church Initiative Calls on the US Congress to Provide Regulatory Safeguards for Artificial Intelligence einnews.com",
-      "outlet": "einnews.com",
-      "outlet_url": "https://www.einnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-15T14:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3a84b73efd395937",
-      "title": "The Bible of Aquileia comes to life in the Vatican",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/bible-aquileia-vatican-facsimile-project-preservation.html",
-      "summary": "A medieval treasure linking faith, history and craftsmanship is being brought back to life through a new facsimile edition. The first of five volumes of the Bible of Aquileia is presented to the Pontifical Academies of Sciences and of Social Sciences in the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T13:43:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/14/whatsapp-image-2026-09-14-at-21-42-14-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "640bfd20f67d733e",
-      "title": "The Prodigal Has Arrived: Josiah Queen Is Headlining Arenas at 23",
-      "link": "https://www.ccmmagazine.com/news/the-prodigal-has-arrived-josiah-queen-is-headlining-arenas-at-23/",
-      "summary": "When Rock the Universe at Universal Studios Florida recently announced its lineup with 23-year-old Josiah Queen sitting in a headlining spot, we saw a few versions of the same comment: “Where are the headliners?” I think it’s time for some of us to take off…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-15T13:00:40Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Josiah-Tour-Web-Banner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d27a937d41b81f2c",
-      "title": "Tucker Carlson Defends El-Sayed on 9/11, Condemns His GOP Opponent",
-      "link": "https://mycharisma.com/news/tucker-carlson-defends-el-sayed-on-9-11-condemns-his-gop-opponent/",
-      "summary": "Former Fox News host Tucker Carlson continues to separate himself from all things Republican and GOP. And the polarizing podcast host is doing so in increasingly aggressive ways. No example of that may be clearer than one of his more recent nuclear hot takes…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T12:51:18Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5ec45ca2b6b13627",
-      "title": "Pope Leo XIV names Newark auxiliary bishop to lead Diocese of Metuchen, New Jersey",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-names-newark-auxiliary-bishop-to-lead-diocese-of-metuchen-new-jersey",
-      "summary": "The pontiff also accepted the resignation of Bishop Francis Malone, 76, of Shreveport, Louisiana.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T12:45:21Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789479852/ewtn-news/en/BishopMichaelSaporito091526_yivptr.jpg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
