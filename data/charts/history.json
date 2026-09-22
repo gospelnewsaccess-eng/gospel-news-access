@@ -1,0 +1,47 @@
+{
+  "_README": [
+    "THE PERMANENT MEMORY OF THE GNA CHARTS.",
+    "",
+    "This file is never regenerated from scratch and never deleted.",
+    "'weeks_on_chart' and 'peak_position' are only true because this",
+    "file carries forward from one week to the next.",
+    "",
+    "If you delete this file, every chart history on the site becomes",
+    "fiction. Back it up; never 'clean' it."
+  ],
+  "created": "2026-09-22T19:10:46Z",
+  "last_published": null,
+  "charts": {},
+  "recurrents": [],
+  "all_time": {},
+  "runs": [
+    {
+      "chart_week": "2026-09-11",
+      "ran_at": "2026-09-22T19:10:46Z",
+      "published": false,
+      "reason": "no measured input data for this tracking week",
+      "inputs": {
+        "panel": {
+          "reports": 0,
+          "stations": [],
+          "unknown_stations": []
+        },
+        "streaming": {
+          "enabled_sources": [],
+          "disabled_sources": [
+            "youtube_data_api_v3",
+            "apple_genre_rss",
+            "shazam_public_charts"
+          ]
+        },
+        "release": {
+          "submissions": 0
+        },
+        "editorial": {
+          "adjustments": [],
+          "count": 0
+        }
+      }
+    }
+  ]
+}
