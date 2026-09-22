@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-22T22:06:27Z",
+  "generated_at": "2026-09-22T22:36:42Z",
   "story_count": 600,
   "with_photo": 457,
   "items": [
+    {
+      "id": "8ddebf57cd895b5e",
+      "title": "Judah Smith Is More Interested in Reaching the World Than Building a Bigger Church",
+      "link": "https://relevantmagazine.com/faith/why-judah-smith-is-more-interested-in-reaching-the-world-than-building-a-bigger-church/",
+      "summary": "Years ago, Judah Smith was reading Luke 7 when a detail stopped him. Jesus is eating at the home of Simon the Pharisee when a woman comes in, pours perfume on His feet and wipes them with her hair. Simon is scandalized. Jesus answers him, but Luke makes a…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T22:01:48Z",
+      "first_seen": "2026-09-22T22:36:42Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/judah2.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "90f07c54727674d8",
       "title": "Texans have real reasons to be worried. Indian Americans enjoying football isn’t one of them.",
@@ -10952,25 +10971,6 @@
       "published": "2026-09-16T18:01:32Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7357f623e4755b11",
-      "title": "Renowned exorcist Father Gabriele Amorth’s 7 lessons on actions of the devil",
-      "link": "https://www.ewtnnews.com/world/europe/renowned-exorcist-father-gabriele-amorth-s-7-lessons-on-the-action-of-the-devil",
-      "summary": "On the 10th anniversary of his death, a recollection of the renowned Italian exorcist’s lessons about the devil.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T18:00:20Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789570694/ewtn-news/en/Father.Amorth.Sept._2026_ioxrs3.png",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
