@@ -1,8 +1,214 @@
 {
-  "generated_at": "2026-09-22T19:06:13Z",
+  "generated_at": "2026-09-22T19:35:58Z",
   "story_count": 600,
-  "with_photo": 451,
+  "with_photo": 452,
   "items": [
+    {
+      "id": "832e58789d86ca7b",
+      "title": "Nearly 1 in 4 Americans Can’t Name a Single First Amendment Right",
+      "link": "https://mycharisma.com/news/nearly-1-in-4-americans-cant-name-a-single-first-amendment-right/",
+      "summary": "A stunning 24% of American adults cannot name even one of the five rights guaranteed by the First Amendment, according to a new survey that paints a troubling picture of civic ignorance just weeks before voters head to the polls for midterm elections. The…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T19:22:05Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7a7c4b19e30f34a",
+      "title": "Hayden Panettiere’s Cause of Death Revealed—but Why Is the Police Investigation Still Open?",
+      "link": "https://www.jubileecast.com/articles/39635/20260922/hayden-panettiere-s-cause-of-death-revealed—but-why-is-the-police-investigation-still-open.htm",
+      "summary": "Hayden Panettiere’s Cause of Death Revealed—but Why Is the Police Investigation Still Open?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T19:11:55Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31427/hayden-panettiere.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1feb9ef10356d8b4",
+      "title": "Jay-Z’s Roc Nation Lands Gospel Legend Hezekiah Walker in Historic Distribution Deal—Is Gospel Music Entering a New Mainstream Era?",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUVk1NDlpUjB0ZUozb3otZHJSTFNmODZsVVMtcTh0N2xHZzI4Smdydm5ZaWRTcTRIMUpQdFF1QjVjLUQ1T2Q0VEZTNWlreTFuREhWYldpWXZFUTZBREF0bDEtVEV5SUFrdjNfSGZGX3pzaUVfZGVNTm5sdE5DWm1rekI5ZHZvbTJ0cG9SWk9fLVlQYlBWNW9ER3ZFTk5nYk9YSUhhZ0F2ZlNrenJmckZfMk9hVDliT3BMU1R1NEpha3VNTEtBVlg2S0huVWpvcjlqNHNBRjZ3YS1SQWxuNGpxS2dzYm8tTEN0T2JBU192Z0VxTFNHbmkxUFpRVG00UU9pbU5vcDZEZ0tnUVV6blNMTk1xZXRHUWdvRjRVT3U5VQ?oc=5",
+      "summary": "Jay-Z’s Roc Nation Lands Gospel Legend Hezekiah Walker in Historic Distribution Deal—Is Gospel Music Entering a New Mainstream Era? JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T19:06:00Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/25256/hezekiah-walker.jpg",
+        "via": "media:content"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T07:35:58Z"
+    },
+    {
+      "id": "5d9b8b0f2df5d2ac",
+      "title": "Popular Catholic podcaster and religious sister announces discernment of new community",
+      "link": "https://www.ewtnnews.com/world/us/popular-catholic-podcaster-and-religious-sister-announces-discernment-of-new-community",
+      "summary": "Sister Miriam James Heidland, SOLT, a well-known speaker, podcast host, and author, said she is discerning the establishment of a new religious community called Friends of the Bridegroom.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T19:04:33Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790097597/ewtn-news/en/sistermiriamjames_qoqkpo.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c10689c813bbdee7",
+      "title": "Dolly Parton’s Nephew Says He “Refuses to Be Intimidated” After Abrupt Firing—Who Is Really Taking Control of Her Estate?",
+      "link": "https://www.jubileecast.com/articles/39633/20260922/dolly-parton-s-nephew-says-he-refuses-to-be-intimidated-after-abrupt-firing—who-is-really-taking-control-of-her-estate.htm",
+      "summary": "Dolly Parton’s Nephew Says He “Refuses to Be Intimidated” After Abrupt Firing—Who Is Really Taking Control of Her Estate?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T18:59:25Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31561/dolly-parton.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5994ec62a1ac28f5",
+      "title": "9 ways US Mormons are changing, according to Pew data",
+      "link": "https://religionnews.com/2026/09/22/9-ways-us-mormons-are-changing-according-to-pew-data/",
+      "summary": "(RNS) — Latter-day Saints have grown more diverse and a bit less religious, and more of them are leaving the church, says a new report from Pew Research Center.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T18:55:11Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/LDS-education-levels-over-time-by-gender-603x640.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "94f3b78a77569b12",
+      "title": "He spent years reconciling his identity. Now he’s the first Arab bishop in Episcopal history.",
+      "link": "https://religionnews.com/2026/09/22/he-spent-years-reconciling-his-identity-now-hes-the-first-arab-bishop-in-episcopal-history/",
+      "summary": "(RNS) — As a Christian minister with a Muslim father and a mother of Jewish heritage, Bishop Adam Shoemaker hopes to use his background to facilitate more reconciliation, integration and 'the understanding that we are inextricably linked,' he told RNS.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T18:54:54Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Arab-Bishop10-092226.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1c04ac7e1df525f7",
+      "title": "Former Worship Leader and ‘American Idol’ Alum Caleb Flynn Sobs as Wife’s Autopsy Photos Rock Murder Trial—but Do His Alleged Texts Tell a Different Story?",
+      "link": "https://www.jubileecast.com/articles/39632/20260922/former-worship-leader-and-american-idol-alum-caleb-flynn-sobs-as-wife-s-autopsy-photos-rock-murder-trial—but-do-his-alleged-texts-tell-a-different-story.htm",
+      "summary": "Former Worship Leader and ‘American Idol’ Alum Caleb Flynn Sobs as Wife’s Autopsy Photos Rock Murder Trial—but Do His Alleged Texts Tell a Different Story?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T18:53:19Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4691ea921e26b0ac",
+      "title": "Taylor Swift Hints at Major New Era With Mysterious Countdown and Three Hidden Zeros—What Is She About to Reveal?",
+      "link": "https://www.jubileecast.com/articles/39631/20260922/taylor-swift-hints-at-major-new-era-with-mysterious-countdown-and-three-hidden-zeros—what-is-she-about-to-reveal.htm",
+      "summary": "Taylor Swift Hints at Major New Era With Mysterious Countdown and Three Hidden Zeros—What Is She About to Reveal?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T18:50:15Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31527/taylor-swift.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2b9e1972bcf3a860",
+      "title": "Kirk Franklin Says His Relationship With His Mother Remains Estranged",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVAwVmhiejYwQVpXUU8taUxTN1k5Ykp4WjFudWNJakFmNWQ2QWppS1JSRHhJeEZ3a3BqVDJvdVUybFJWeFZrZUItajBHWTRBa3hTeXFtUDBfVjBHWWpUNUNhaC0wUGpjQUxuUEJ4MDM2a3hJTk1QNnNMSEd5WHJHWHlB?oc=5",
+      "summary": "Kirk Franklin Says His Relationship With His Mother Remains Estranged Cassius Life",
+      "outlet": "Cassius Life",
+      "outlet_url": "https://cassiuslife.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-22T18:48:07Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T07:35:58Z"
+    },
+    {
+      "id": "88e0521832d1d887",
+      "title": "CeCe Winans Celebrates Her Mother’s 90th Birthday—but What Was the Secret Sound Behind Gospel Music’s Most Famous Family?",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNUmF4eHRKXzlqcTRZaGZwaFE0akF2ZWV3ZXdTU01xZjVRQmJUanMzMVhieHlqdWNDWjFENzJwRDlsVWdjTDhjT0k2cUU4UjEzUUN4RHllNjFPMmxHd3lrSGVQblRsdlFpQXNYc0llME5XLV96d3cycTFlMWZxTDBDaUhlY3pKcDhaMlZGQm93Nzk0Z0c2Tk5qdmcxVnRkLUs4SWtxTFFmSDh2Q2h6MEkyNlJ3ZERmb2RMR3k0ZVVkZ3VzeElmZjVfa3kydENrbHV5eTJ3eDI1bjJWa3Fxdkd6cGljci1ndURuWDNHSGd3ZXZ2dlZkb1FUeUktSWc5RHVlNEtuNnBacEpOLXFDZ3lFbHlR?oc=5",
+      "summary": "CeCe Winans Celebrates Her Mother’s 90th Birthday—but What Was the Secret Sound Behind Gospel Music’s Most Famous Family? JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T18:46:00Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30280/cece-winans.jpg",
+        "via": "media:content"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T07:35:58Z"
+    },
     {
       "id": "caa026e0bd108f62",
       "title": "Lionel Richie is Hospitalized A Third Time -- Is It Time for the 77-Year-Old Superstar to Leave the Road Behind?",
@@ -19,6 +225,60 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29397/lionel-richie.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5adddbf17b0fd304",
+      "title": "Grand jury finds no evidence of crime in death of Nolan Wells",
+      "link": "https://www.christianpost.com/news/insufficient-evidence-of-crime-found-in-death-of-nolan-wells.html",
+      "summary": "A racially diverse Mississippi grand jury has concluded that there is insufficient evidence to charge anyone with a crime in the death of 18-year-old Nolan Wells on Horn Island, but said the case should be revisited “If credible evidence comes to light in the…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T18:26:41Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272018_w_550_364.jpg?v=20260922142844",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3916ceeced75c430",
+      "title": "Feds probing Massachusetts' removal of trans-identified girl from Catholic parents",
+      "link": "https://www.christianpost.com/news/feds-probing-removal-of-trans-identified-teen-from-parents.html",
+      "summary": "The United States Department of Education is investigating a school district in Massachusetts over reports that officials there worked to socially transition a trans-identified teenager without her parents’ consent and took steps to remove the girl from her…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T18:22:00Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272012_w_550_367_600_402.jpg?v=20260922142309",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "81b5e9a650012041",
+      "title": "Kirk Franklin Admits It Was ‘Wrong’ to Curse Out Son During Viral Phone Call",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDhDNmZ4cFRKMTZpQ0ZnWEkxOExfMzJvR094M1hFWjBQQTMzRHhuZDQ3MlBVWnZhZE9lNkZXRldEVjBSdHR6Q0RaWUM2OXhCNXlQNXM3ZnVwVGZDbDRweVM2eGVLTzZJdUFuTzMtcDZzUlQ2eVlCaUN5b25KYVIxN2ZiZUFiSDRO?oc=5",
+      "summary": "Kirk Franklin Admits It Was ‘Wrong’ to Curse Out Son During Viral Phone Call Complex",
+      "outlet": "Complex",
+      "outlet_url": "https://www.complex.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-22T18:03:55Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -670,6 +930,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790071893/ewtn-news/en/DSC04766_yawqo0.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "53f4e06e057f8dab",
+      "title": "2026 Latin GRAMMY Nominees Announced",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VOUlLemtmaU1PQzlJb1A1Z3M1WGlfM0tMckpjV1pZWlFxTmIxNEZ5UndjanBYNXhjd3NaaXJwVDV0T3p4QnVQNmZsSXhPSzBybFB6Z1pMY3dtVEZkLWlvV3lIWkMzcV9mWnRuNVNWSDlGUnM?oc=5",
+      "summary": "2026 Latin GRAMMY Nominees Announced Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T13:47:56Z",
+      "first_seen": "2026-09-22T19:35:58Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10680,279 +10956,6 @@
         "url": "https://mycharisma.com/wp-content/uploads/2026/09/NASA-footprints-803x600.jpg",
         "via": "content:encoded"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b6b6bf31e92c7119",
-      "title": "Tommee Profitt Just Dropped The Announcement We’ve Been Praying For",
-      "link": "https://www.ccmmagazine.com/news/tommee-profitt-just-dropped-the-announcement-weve-been-praying-for/",
-      "summary": "Sometimes you schedule an interview. Sometimes the news just walks up to you. Last night, Amanda and I were at the Nashville premiere of Daniel and the Fiery Furnace when we ran into our friend Tommee Profitt. With The Birth of a King Live already on the…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T16:12:21Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Sequence-010-scaled.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f2b3170ac169be3b",
-      "title": "Casual Christians have a harder time forgiving themselves, others: survey",
-      "link": "https://www.christianpost.com/news/casual-christians-have-a-harder-time-forgiving-themselves-others.html",
-      "summary": "Casual Christians struggle more than those who regularly attend church services and read the Bible to offer and receive forgiveness, even as research links forgiveness to greater flourishing and lower stress and loneliness, a new survey finds.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T16:11:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/18/271894_w_550_367.jpg?v=20260916121153",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7dcbac510181f78a",
-      "title": "Gaza’s only Catholic school reopens after 3-year closure",
-      "link": "https://www.ewtnnews.com/world/middle-east/gaza-s-only-catholic-school-reopens-after-3-year-closure",
-      "summary": "Father Gabriel Romanelli told a visiting delegation he hopes the reopening of the parish school “will bring some sense of normality” to the students and their families.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T16:05:20Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614295/images/school-gaza-8.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e26b7b66ff3cce0b",
-      "title": "Parolin ‘concerned’ over states ‘going it alone’ on AI",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/parolin-concern-states-ai-going-it-alone-ukraine.html",
-      "summary": "The Holy See Secretary of State answers journalists’ questions AI regulation and the conflict in Ukraine. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T15:52:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/16/parolin-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "57b8fa86353a8d1f",
-      "title": "Former Falls Church youth minister faces federal charges in decades-old abuse case",
-      "link": "https://www.christianpost.com/news/former-youth-minister-indicted-on-child-sex-abuse-charges.html",
-      "summary": "A former youth minister with a prominent Northern Virginia church has been indicted on child sex abuse charges.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T15:38:58Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271937_w_550_412.jpg?v=20260916114227",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ee87b9478c54ee3",
-      "title": "Hand Soap Recall Affects Nearly 2,700 Cases Across 15 States",
-      "link": "https://mycharisma.com/news/hand-soap-recall-affects-nearly-2700-cases-across-15-states/",
-      "summary": "Nearly 2,700 cases of hand soap distributed across 15 states are under recall because of potential bacterial contamination. St. Louis-based Intercon Chemical Co. initiated the recall in June, and the Food and Drug Administration classified it as Class II in…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T15:26:25Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Screenshot-2025-12-31-113901.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bd443848960486c4",
-      "title": "Henrico pastor's original gospel composition featured at national convention",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTFVFWlBxQUNhSm12MHlVdFpJU014NFI3dXNnYjhGaUNxOFQzTjVGTnJUTzFtdFZpUDJJN2ttU29YcnRkSWxSOTlVYzVYLWtJTHpWaHNkc29PLV9ab1ZzQm5SLVhvdmJIdTR3amZjcDZxOGc5WHR2RkJ3QXM5aWNsYUR6WFd3SjBza3FYaXdydDVmSk5LZ01oLUZRNXYtcWNpdlBSNUtiaFg0UDA?oc=5",
-      "summary": "Henrico pastor's original gospel composition featured at national convention Henrico Citizen",
-      "outlet": "Henrico Citizen",
-      "outlet_url": "https://www.henricocitizen.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T15:25:33Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "91f96de522fbef3d",
-      "title": "German bishop backs married priests ahead of bishops’ assembly",
-      "link": "https://www.ewtnnews.com/world/europe/german-bishop-backs-married-priests-ahead-of-bishops-assembly",
-      "summary": "Auxiliary Bishop Josef Graf of Regensburg said the Church could ordain married men of proven faith while affirming the value of celibacy and rejecting women's ordination.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T15:10:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789550089/ewtn-news/en/shutterstock_2499448271_kggvrx.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "65eabe08f68bc3f0",
-      "title": "AI Tech Bros Seem Awful. They Might Be Telling Us the Truth.",
-      "link": "https://www.christianitytoday.com/2026/09/ai-tech-bros-might-be-telling-truth/",
-      "summary": "This piece was adapted from Russell Moore’s newsletter. Subscribe here. Our science fiction movies had it wrong. They always pictured that, when a mad scientist said his creation was now out of his control and the very survival of the species might be at…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T15:09:41Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/06/ai-tech-bros-telling-truth.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b1b04b981e2814de",
-      "title": "He Studied a Black Church in Canada. Now He’s the Pastor",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13MUdmUmFvc2tOZEZrdUc1dHozMVdmTjZ6aWY3TlNOSWQtRnlZUFJpQ0ExUzdQbWRzRlNzNTNWNExESWZxcnh4VFBvZDFMb0UxdU15eTBYNjNCelh0Ry15ejdJYXM4RnZ1a19HUlE0SnNQUE41dzhneUtuYzlhQQ?oc=5",
-      "summary": "He Studied a Black Church in Canada. Now He’s the Pastor The Washington Informer",
-      "outlet": "The Washington Informer",
-      "outlet_url": "https://www.washingtoninformer.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T15:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9a6b67ce5fe82c1b",
-      "title": "Brandon Lake Calls His New Song “The Most Country Thing I've Ever Written”",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOG9sSXNFVy10TG1Na29HSmVzaHE3RDZ4cmlsZmRpMGM3TUlEczIyczktWEdtMV9ndnJZU0tpbnZUMVpjQi1UVUN1YUZkWVY1TUM1WFdOLWdBbU9uQ0xKUjVrallZdDR3dTlqRld3RkZKbmFEWkpHSjMtemlzZnBnSXh4QVZHcl94X2VsTHRrYjhjZGZoVnVPVmlvQjlfWkYzWHJWY2tnTHpocmJ1WlE?oc=5",
-      "summary": "Brandon Lake Calls His New Song “The Most Country Thing I've Ever Written” Holler Country",
-      "outlet": "Holler Country",
-      "outlet_url": "https://holler.country",
-      "source_feed": "Google News: Brandon Lake",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-16T14:57:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8deff5b665dc0a37",
-      "title": "Oregon agrees to let Christian mother adopt without embracing LGBT ideology",
-      "link": "https://www.christianpost.com/news/oregon-mother-can-adopt-without-accepting-lgbt-ideology-court.html",
-      "summary": "Oregon officials will allow a Christian mother to adopt after initially denying her application because she refused for religious reasons to embrace LGBT ideology.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T14:52:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271936_w_550_367_579_252.jpg?v=20260916105418",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9bade1f8904908b3",
-      "title": "News Helicopter Crash Kills 3 While Crew Covers Fatal Los Angeles Bus Collision",
-      "link": "https://mycharisma.com/news/news-helicopter-crash-kills-3-while-crew-covers-fatal-los-angeles-bus-collision/",
-      "summary": "A news helicopter covering a deadly bus collision crashed Tuesday evening in the Chatsworth neighborhood, killing two people aboard and a third person on the ground. NBC4 identified the crew members as aerial journalist Eliana Moreno and pilot George…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T14:51:08Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "35cc71f12dd82212",
-      "title": "108 Christian Sites Were Destroyed. Is History Being Erased?",
-      "link": "https://mycharisma.com/news/108-christian-sites-were-destroyed-is-history-being-erased/",
-      "summary": "First came the destruction. Now, a battle is unfolding over whether anyone will remember centuries of Armenian Christian history. Azerbaijan is facing renewed scrutiny over the fate of Armenian Christian heritage in Nagorno-Karabakh, also known to Armenians…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T14:48:43Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4a67e77aa2d3520c",
-      "title": "EVERGREEN MUSIC ARTISTS RELEASES “AMERICA THE BEAUTIFUL (250TH JUBILEE)” TO CHRISTIAN RADIO",
-      "link": "https://pathmegazine.com/articles/evergreen-music-artists-releases-america-the-beautiful-250th-jubilee-to-christian-radio/",
-      "summary": "Evergreen Music Artists has released “America the Beautiful (250th Jubilee)” to Christian radio. Arranged by Kevin Toqe and co-produced by Kevin Toqe and Nicholas Harral, the recording … The post EVERGREEN MUSIC ARTISTS RELEASES “AMERICA THE BEAUTIFUL (250TH…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T14:42:57Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
