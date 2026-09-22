@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-22T19:35:58Z",
+  "generated_at": "2026-09-22T20:06:41Z",
   "story_count": 600,
-  "with_photo": 452,
+  "with_photo": 451,
   "items": [
+    {
+      "id": "0e24265308b06d06",
+      "title": "Jessica Simpson Teams Up With This Christian Band for New Song",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbG0tVnFzdzBCZkhPNGlXQ2xSaTlwQ0tPeHlYMkhGSDlKcjZ2YVB6SXhSeVBUNm5LbS1JeHAta3lJa1AtWjZQOW1CSE5tblotcXRBdTFGTzg1Y2IwUGZpS1djZGsyNTdwUmxHSThGcUN4Smw3eG5pQ2pRWUlfbFRzVXJMTmZlMHZlRTZxUFdyQlJsR1FEMXpjVU13Y0lxZ3NZanpkSEhzTzFHYU1W?oc=5",
+      "summary": "Jessica Simpson Teams Up With This Christian Band for New Song Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-22T20:04:21Z",
+      "first_seen": "2026-09-22T20:06:41Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T08:06:41Z"
+    },
     {
       "id": "832e58789d86ca7b",
       "title": "Nearly 1 in 4 Americans Can’t Name a Single First Amendment Right",
@@ -10936,25 +10952,6 @@
       "image": {
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/16124020/3-Picture-Template-Article.jpg",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d94dd5213eb27c21",
-      "title": "Strange ‘Footprints’ on Mars Draw Attention as US Reveals Weapons in Orbit",
-      "link": "https://mycharisma.com/news/strange-footprints-on-mars-draw-attention-as-us-reveals-weapons-in-orbit/",
-      "summary": "A strange mark on Mars can set imaginations racing. NASA’s Curiosity rover recently photographed broad, shallow pits in the bedrock of Mount Sharp, including one that looks a little like a footprint. It isn’t one. But the rover team says the pits present a…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T16:22:27Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/09/NASA-footprints-803x600.jpg",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
