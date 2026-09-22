@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-22T14:06:50Z",
+  "generated_at": "2026-09-22T14:40:36Z",
   "story_count": 600,
-  "with_photo": 449,
+  "with_photo": 450,
   "items": [
+    {
+      "id": "5cac7cf41b557c53",
+      "title": "Rev. Dr. A. Roy Medley to receive Frank Wolf Award",
+      "link": "https://religionnews.com/2026/09/22/rev-dr-a-roy-medley-to-receive-frank-wolf-award/",
+      "summary": "21wilberforce",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T14:31:12Z",
+      "first_seen": "2026-09-22T14:40:36Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/Roy-Medley-headshot.png",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b9098e7323bf9f95",
+      "title": "California Braces for Impact as Historic El Niño Threat Grows",
+      "link": "https://mycharisma.com/news/california-braces-for-impact-as-historic-el-nino-threat-grows/",
+      "summary": "California is bracing for impact. Gov. Gavin Newsom declared a state of emergency Monday as a potentially historic El Niño continues to churn across the Pacific, prompting California to begin preparing months ahead of the winter storm season. This isn’t your…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T14:22:37Z",
+      "first_seen": "2026-09-22T14:40:36Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Amanda-Grace-book-406x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b5c4eebd039ea14f",
+      "title": "Fragments of medieval Gospel of St. Mark-turned-relic reunited after 7 centuries",
+      "link": "https://www.ewtnnews.com/vatican/fragments-of-medieval-gospel-of-st-mark-turned-relic-reunited-after-7-centuries",
+      "summary": "The exhibition, “The Gospel of Mark: Seven Centuries. Three Fragments. One European Story,” has made it possible to view the original sixth-century manuscripts once venerated as relics.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T13:55:00Z",
+      "first_seen": "2026-09-22T14:40:36Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790071893/ewtn-news/en/DSC04766_yawqo0.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c2d1fafcac9d7168",
+      "title": "Dallas Jenkins reveals ‘The Chosen’ Christmas special ‘The Three Kings’",
+      "link": "https://www.christianpost.com/news/dallas-jenkins-reveals-the-chosen-christmas-special.html",
+      "summary": "“The Chosen” creator Dallas Jenkins announced Sunday that the hit biblical drama will return to the Christmas story with a new standalone special, “The Chosen: The Three Kings,” set to air nationally on Fox in December.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T13:30:24Z",
+      "first_seen": "2026-09-22T14:40:36Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272006_w_550_366.jpg?v=20260922095352",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "cd6b2f21b5a9d4a2",
       "title": "1K Phew Interview and Bless the Mic Performances",
@@ -112,6 +188,25 @@
       "first_seen": "2026-09-22T12:41:58Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/08/02/1788828597355.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2775e1dc5fb05203",
+      "title": "'She did not consent': Family says Christian grandmother euthanized against her will",
+      "link": "https://www.christianpost.com/news/canadian-woman-says-maid-euthanized-grandmother-against-her-will.html",
+      "summary": "A Canadian woman claims her 83-year-old Christian grandmother was forced to undergo medically assisted dying against her will and even shouted, \"I don't want the death shot,\" before being euthanized.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T12:15:44Z",
+      "first_seen": "2026-09-22T14:40:36Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272003_w_550_366_495_336.jpg?v=20260922101009",
         "via": "media:content"
       },
       "breaking": false,
@@ -10853,98 +10948,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2023/12/04/2023-12-03-card--victor-manuel-fernandez-----presa-di-possesso/1701682039423.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "50967d1a5b55daaa",
-      "title": "Cardinal Koch: It is impossible to be a disciple of Christ and at the same time an antisemite",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/nostra-aetate-60th-koovakad-interview-path-of-hope.html",
-      "summary": "Marking the release of “A Journey of Hope,” Cardinal Kurt Koch, Prefect of the Dicastery for the Promotion of Christian Unity, grants an interview to Vatican News to reflect on the 60th anniversary of Nostra aetate. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T09:06:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2021/01/25/2021-01-25-celebrazione-vespri-a-conclusione-della-settimana-di-/1611593945619.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b3412fbc53146c38",
-      "title": "‘Inconsistency Of Attendance’: Men’s Ministry Vital to Churches’ Health",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSzhZcFdVT2FnaHpCbXU4OGNzZnJtTVEwSVVmZVZWVDhJNGpHbFgzUEJMZmVwNUJ0VmdXMzB1VFpwbnAxVXFGOElvLTV6aWE1RHp0dk5qOFJmeHpCTEdtc0lIYllKcGxnNnhvNlVEN29sWUNjMkxuajc0cXVwUlJjU3BibEdSVnJpQlE?oc=5",
-      "summary": "‘Inconsistency Of Attendance’: Men’s Ministry Vital to Churches’ Health Religion Unplugged",
-      "outlet": "Religion Unplugged",
-      "outlet_url": "https://religionunplugged.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T09:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ca7575c0595581ac",
-      "title": "Cardinal Koovakad: Fraternity is lived in churches, schools, families",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/nostra-aetate-60th-koovakad-interview-journey-of-hope.html",
-      "summary": "Marking the release of “A Journey of Hope,” Cardinal George Jacob Koovakad, Prefect of the Dicastery for Interreligious Dialogue, grants an interview to Vatican News to reflect on the 60th anniversary of Nostra aetate. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T08:59:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/marzo/20/WhatsApp-Image-2026-03-20-at-12.48.27-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "989da4988aed8d42",
-      "title": "Pope: Humanity’s future depends on collaboration in building more humane world",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-humanity-future-depends-collaboration-building-humane-world.html",
-      "summary": "Continuing his catechesis on “Gaudium et spes\", Pope Leo highlights how recognizing the interconnectedness of people challenges us to “evaluate today’s social and political projects based on the criteria of the dignity of the human person” with the goal of…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T08:21:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/16/2026-09-16-udienza-generale/1789546822428.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec6c394684eed07c",
-      "title": "Pope Leo XIV: New martyrs reflect Christ's light to the world",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-conference-dicastery-causes-for-saints.html",
-      "summary": "Addressing participants in the Conference, titled, '21st Century: A New Age of Martyrs?' organized by the Dicastery for the Causes of Saints and the Dicastery's Commission for New Martyrs - Witnesses of the Faith, Pope Leo XIV commends the witnesses as \"stars…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T07:58:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/16/2026-09-16-partecipanti-al-convegno-di-studi-promosso-dal-dicast/1789545310151.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
