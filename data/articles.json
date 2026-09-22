@@ -1,8 +1,157 @@
 {
-  "generated_at": "2026-09-22T10:07:55Z",
+  "generated_at": "2026-09-22T10:38:39Z",
   "story_count": 600,
-  "with_photo": 448,
+  "with_photo": 449,
   "items": [
+    {
+      "id": "a5b493feff02e9ef",
+      "title": "New book profiles an overlooked Chicago gospel trio, who played with Mahalia Jackson and Sam Cooke - Chicago Sun-Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEtPU1NiMnZYalhXYmI3cFo1NFdkU3RCT0VvbWxkMVIwTEFDcFRhZ1p2WG9EMDN6WW16UDdJTVFSSm5KTjhlNUhLXy00dk5KNWp6d0djSG5KLTNlTVpDMm1paVJ1amZiRmZiWG9xSENoajNlS0hSVEZtTEdRdlRjMVRXakNPYmZlNFhwUE9ZQXk?oc=5",
+      "summary": "New book profiles an overlooked Chicago gospel trio, who played with Mahalia Jackson and Sam Cooke Chicago Sun-Times",
+      "outlet": "Chicago Sun-Times",
+      "outlet_url": "https://chicago.suntimes.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T10:30:00Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T22:38:39Z"
+    },
+    {
+      "id": "7ff4e27cac638aaa",
+      "title": "Why Has A Fundraiser For The Lindsay Clancy Trial’s Lone Holdout Juror Topped $370,000?",
+      "link": "https://www.jubileecast.com/articles/39626/20260922/why-has-a-fundraiser-for-the-lindsay-clancy-trial-s-lone-holdout-juror-topped-370-000.htm",
+      "summary": "Why Has A Fundraiser For The Lindsay Clancy Trial’s Lone Holdout Juror Topped $370,000?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:24:54Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28816/lindsay-clancy.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "759f83f11807736a",
+      "title": "Patrick Clancy Is Expecting A Baby With New Wife Rachel Danis—But How Will He Explain The Three Children Killed By His First Wife?",
+      "link": "https://www.jubileecast.com/articles/39625/20260922/patrick-clancy-is-expecting-a-baby-with-new-wife-rachel-danis—but-how-will-he-explain-the-three-children-killed-by-his-first-wife.htm",
+      "summary": "Patrick Clancy Is Expecting A Baby With New Wife Rachel Danis—But How Will He Explain The Three Children Killed By His First Wife?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:17:03Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31882/patick-clancy.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d2bb4c0ace8ce04b",
+      "title": "Exclusive: Former American Idol Finalist Michael Sarver Peels Back the “Layers” of His Faith, Family, and Painful Past",
+      "link": "https://www.jubileecast.com/articles/39624/20260922/exclusive-former-american-idol-finalist-michael-sarver-peels-back-the-layers-of-his-faith-family-and-painful-past.htm",
+      "summary": "Michael Sarver Peels Back the “Layers” of His Faith, Family, and Painful Past",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T10:08:47Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31896/michael-sarver.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a1ee1823d68cda80",
+      "title": "How Tim Keller Rearranged His Life in His Final Years",
+      "link": "https://www.christianitytoday.com/2026/09/how-tim-keller-rearranged-his-life-in-his-final-years/",
+      "summary": "A few years ago I visited a friend who serves as a pastor in Hawaii. The moment I stepped off the plane, I understood why they call it paradise. Warm breeze. Turquoise water. Lush mountains draped in greenery. I said to my friend, “Everything is so great…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T10:00:00Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/the-stories-we-live-by.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e76b4656941c915a",
+      "title": "Kenyan Christians Debate High Court Ruling on Sex Offenses Law",
+      "link": "https://www.christianitytoday.com/2026/09/kenyan-christians-debate-high-court-ruling-on-sex-offenses-law/",
+      "summary": "In May, controversy over the age of consent reignited among Kenyans as the High Court in Nairobi decided to stop charging underaged teens in consensual, close-in-age relationships with the criminal offense of “defilement,” which could lead to up more than 20…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T10:00:00Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/kenya-debates-ruling-sex-offense.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4160b24c40085614",
+      "title": "Does Trump 2.0 Care About Religious Freedom Abroad?",
+      "link": "https://www.christianitytoday.com/2026/09/can-cissie-graham-lynch-save-the-office-of-international-religious-freedom/",
+      "summary": "On September 14, President Donald Trump nominated Jane “Cissie” Graham Lynch as US ambassador at large for international religious freedom. She’ll have her work cut out for her. If confirmed by the Senate, Lynch—the granddaughter of famed evangelist Billy…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T10:00:00Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/cissie-graham-lynch-ambassador-trump.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d947179439712f8b",
+      "title": "Catholic candidates to shape 2026 gubernatorial races in 12 states",
+      "link": "https://www.ewtnnews.com/world/us/catholic-candidates-2026-governor-races-election",
+      "summary": "If every Catholic candidate were to win, the number of Catholic governors would climb from 20 to 22.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T10:00:00Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778790309/ewtn-news/en/elecciones-rawpixel-1778535698_dheyls.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c2cf437037a78e81",
       "title": "United Nations: 81st General Assembly opens in New York",
@@ -36,6 +185,25 @@
       "first_seen": "2026-09-22T08:39:31Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31874/alan-ritchson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fb687502eb6d4de0",
+      "title": "God isn't waiting for you to find Him. He's constantly chasing you",
+      "link": "https://www.christianpost.com/voices/god-isnt-waiting-for-you-to-find-him-hes-constantly-chasing.html",
+      "summary": "The Good Shepherd has not lost you in the valley simply because you cannot see Him clearly right now.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T07:23:15Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272004_w_550_412.jpg?v=20260922052718",
         "via": "media:content"
       },
       "breaking": false,
@@ -111,6 +279,25 @@
       "published": "2026-09-22T05:52:36Z",
       "first_seen": "2026-09-22T08:07:17Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "031b938add7c787a",
+      "title": "Jesus' divinity wasn't invented by a council. Jews already believed it",
+      "link": "https://www.christianpost.com/voices/jesus-divinity-wasnt-invented-by-a-council-jews-believed-it.html",
+      "summary": "The first Christians did not smuggle a foreign god into Israel's faith.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T05:40:40Z",
+      "first_seen": "2026-09-22T10:38:39Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271998_w_550_367_712_103.jpg?v=20260922052806",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10758,190 +10945,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/09/togethercalifornia-village-render.jpg?resize=1100%2C637&ssl=1",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "59f1a70494d1ad9f",
-      "title": "Talarico raises eyebrows for quick answer about 'favorite drag queen' in Texas: 'Deeply sick'",
-      "link": "https://www.christianpost.com/news/talarico-raises-eyebrows-for-quick-answer-on-favorite-drag-queen.html",
-      "summary": "Democratic U.S. Senate candidate James Talarico raised eyebrows for readily naming his favorite drag queen during a brief interaction at a campaign event.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T18:13:05Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271926_w_550_367_620_313.jpg?v=20260915143709",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "73d72547a953eb8d",
-      "title": "The Backlash Against a White House Plan to Pay Stay-at-Home Parents",
-      "link": "https://www.christianitytoday.com/2026/09/stay-at-home-proposal-white-house-parents-welfare/",
-      "summary": "Beverly Hallberg has helped conservatives craft their policies and messages for over 20 years. As president of a training firm, District Media Group, she’s often the one behind the scenes prepping faith-based and conservative influencers and lawmakers on how…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T17:29:31Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/backlash-white-house-stay-at-home-parents.jpeg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "462b80ccd0b2bc0f",
-      "title": "EU’s Mandatory Age Checks Raise Alarms as Digital ID Concerns Grow",
-      "link": "https://mycharisma.com/news/eus-mandatory-age-checks-raise-alarms-as-digital-id-concerns-grow/",
-      "summary": "What if downloading a video game required you to prove your age first? That possibility may soon become reality in Europe, and while the proposal is framed around protecting children online, it points to a much bigger technological shift Christians cannot…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T17:24:45Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/05/The-Revelation-of-Jesus-406x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "880b31a3583750a0",
-      "title": "Deion Sanders' public prayer in tongues sparks debate on biblicality",
-      "link": "https://www.christianpost.com/news/deion-sanders-public-prayer-in-tongues-sparks-debate.html",
-      "summary": "University of Colorado Buffaloes head football coach and NFL legend Deion Sanders offered a 10-second public prayer in tongues at the start of a postgame press conference after a 52-21 blowout win over Weber State University on Saturday, sparking a debate…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T17:24:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271924_w_550_310.jpg?v=20260915132536",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9e79636521ababc4",
-      "title": "Episcopal diocese elects new bishop after nearly 3-year vacancy, LGBT disputes",
-      "link": "https://www.christianpost.com/news/episcopal-diocese-elects-new-bishop-after-nearly-3-year-vacancy.html",
-      "summary": "A diocese of The Episcopal Church that has been without a bishop for nearly three years amid concerns over voting and LGBT issues has finally elected a new leader.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T17:18:36Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271925_w_550_341_553_230.jpg?v=20260915131912",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "02f608ab3f32ae40",
-      "title": "Why Do So Many Strange Things Occur In The Craziest State In The Entire Country?",
-      "link": "https://mycharisma.com/news/why-do-so-many-strange-things-occur-in-the-craziest-state-in-the-entire-country/",
-      "summary": "There is no place in the world like California. It possesses such incredible natural beauty, but at the same time it is being run by a bunch of absolute lunatics. If it was an independent nation, it would have the fifth largest economy in the entire world…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T17:08:03Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "680201cb92ae9f63",
-      "title": "Daniel Richter turns personal faith journey into new Christian music",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlZHc0JaUXV3OVcwUW40TVNqaHA5Y3RvT3QwMlpHeFhVZzlRd01WOHF2dEh2dm1wVUxsc0xOMHktRWlibXRXVWpUWXc2VVJWZ2dMNzQwS29mQUUtLWdlSzI2ZVpyVXh4RW4zTVJBNkxtakFPR2JDM2FBbXRrWUw0U3cxcmZwSFJvYWJFVm5tMDR4UC1PeUNGNjJoTkxoampx?oc=5",
-      "summary": "Daniel Richter turns personal faith journey into new Christian music CHVN Radio",
-      "outlet": "CHVN Radio",
-      "outlet_url": "https://chvnradio.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-15T16:32:47Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3c69116747ca8dfc",
-      "title": "Trump asks Cissie Lynch, granddaughter of Billy Graham, to be religious freedom ambassador",
-      "link": "https://www.ewtnnews.com/world/us/trump-asks-cissie-lynch-granddaughter-of-billy-graham-to-be-religious-freedom-ambassador",
-      "summary": "The author and radio host said it would be a “great honor and privilege” to serve if she is confirmed by the U.S. Senate.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T16:29:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789486121/ewtn-news/en/GettyImages-1268597542_ypuwxp.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ff1aa7c1efa1644a",
-      "title": "LEANETTE LOPEZ RELEASES SINGLE “I FIND REST,” Psalm 23-Inspired Song Carries a Personal Message of Rest, Peace, and Trust in God",
-      "link": "https://pathmegazine.com/articles/leanette-lopez-releases-single-i-find-rest-psalm-23-inspired-song-carries-a-personal-message-of-rest-peace-and-trust-in-god/",
-      "summary": "Leanette Lopez has released “I Find Rest” to Christian radio. Written by Lopez and her daughter, Kristen Judd, and produced by Jerroll Lehman and Jonathon Rangel, the … The post LEANETTE LOPEZ RELEASES SINGLE “I FIND REST,” Psalm 23-Inspired Song Carries a…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-15T16:03:44Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0150e4ff3b00ced4",
-      "title": "Netherlands Euthanizes Disabled 2-Year-Old Child Who Could Not Consent",
-      "link": "https://mycharisma.com/news/netherlands-euthanizes-disabled-2-year-old-child-who-could-not-consent/",
-      "summary": "A disabled child who could neither speak nor ask to die has been euthanized in the Netherlands, marking the country’s first reported case involving a child between ages 1 and 12. The toddler was nearly 2 years old and was not dying, according to LifeNews…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T16:00:32Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
       },
       "breaking": false,
