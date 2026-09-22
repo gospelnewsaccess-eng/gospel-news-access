@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-22T15:37:30Z",
+  "generated_at": "2026-09-22T16:07:09Z",
   "story_count": 600,
-  "with_photo": 445,
+  "with_photo": 444,
   "items": [
+    {
+      "id": "8544fbce3ff0cb38",
+      "title": "Photos: Lauren Daigle brings a soulful spark to the Washington State Fair",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlFXMGFRRm5uWWNTRGU5N0hmRjJMUkhNQkdKRHU3c0ZCMEw4T21RX3ZTUEtsWmxZQ3Vzdi1RRTc1eS12SHNFYTJvMWlxWjlJUTQ3UXY4bTFjTTVpMHdySnpyaTFVdTZlYmkwSHRmYk5lUy1XWndXdFN4TnhNc0RjSVJqblZlZXBuM1VVOUp1UHVRMzVUckdfLWNrdW1WQjJtU3NsbzJXRllRSWhaY3psYUoxY2ZWaHEtXzF5MWNBRndBeUI5dWRsTVJ0S3M0djNKSXlpdTdrSGd6cTRSYW1GdVkxeXNhSTZlV2k4Rjc3MWlyZ21RN0JRNU90aV9zWXRYQzc1QjVSNA?oc=5",
+      "summary": "Photos: Lauren Daigle brings a soulful spark to the Washington State Fair Seattle Refined",
+      "outlet": "Seattle Refined",
+      "outlet_url": "https://seattlerefined.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-22T15:43:29Z",
+      "first_seen": "2026-09-22T16:07:09Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T04:07:09Z"
+    },
+    {
+      "id": "972a65aef8d7e23a",
+      "title": "LINDA BOLES RELEASES “A CHILD OF GOD” TO CHRISTIAN RADIO Song Celebrates Salvation, Belonging and the Joy of Becoming a Child of God",
+      "link": "https://pathmegazine.com/articles/linda-boles-releases-a-child-of-god-to-christian-radio-song-celebrates-salvation-belonging-and-the-joy-of-becoming-a-child-of-god/",
+      "summary": "Christian singer-songwriter Linda Boles has released “A Child of God” to Christian radio. Written by Boles and produced by John Johnson of Tune Designer, the Inspirational and … The post LINDA BOLES RELEASES “A CHILD OF GOD” TO CHRISTIAN RADIO Song Celebrates…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T15:21:19Z",
+      "first_seen": "2026-09-22T16:07:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d0b48db265021d9f",
       "title": "Notre Dame theologian John Cavadini to receive 2026 Ratzinger Prize",
@@ -10900,41 +10932,6 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31824/gavin-ortlund.jpg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "99b622a4aeed43be",
-      "title": "Drake's \"FOMO\" Delivered a Tour Announcement, a Country Cover, and a Question Worth Sitting With",
-      "link": "https://www.jubileecast.com/articles/39468/20260916/drake-fomo-film-premiere-tour-2027-choosin-texas.htm",
-      "summary": "Drake's \"FOMO\" Delivered a Tour Announcement, a Country Cover, and a Question Worth Sitting With",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T10:28:18Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31822/drake-fomo.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4637dd0f83821ad9",
-      "title": "MS gave us Elvis and B.B. King. But the list of talent goes much deeper - The Clarion-Ledger",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTlFoRlVOSDFPWmVYTXFoYlFJLTBpOE00R0ZCNEVVOUpHcEdZcGM0aXktUmxKVU9rX0thWXZUVzBWVHFWRTJqWnpvM0UzVHJrYlVPUEsySklacFdRby1lb1IyWEwzRmxYQmhsSDRBYjU5QTlHUGxnakE0YkxPcTZVblRfUE1iUVhIT2xPc0NDVmNXeG1DOEdjLWpSLVREZGJxRFdzMUs2NWxTR2pyeUtOaWJLMVZUQVptd3J1b0ZwRUdhYi1uMU93SmtXNkZUR0gzMjJ2bHc2N2U?oc=5",
-      "summary": "MS gave us Elvis and B.B. King. But the list of talent goes much deeper The Clarion-Ledger",
-      "outlet": "The Clarion-Ledger",
-      "outlet_url": "https://www.clarionledger.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T10:15:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
