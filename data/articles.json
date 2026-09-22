@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-22T00:09:33Z",
+  "generated_at": "2026-09-22T00:41:39Z",
   "story_count": 600,
-  "with_photo": 447,
+  "with_photo": 446,
   "items": [
+    {
+      "id": "4b5d96d1ad906795",
+      "title": "Church Choirs & Gospel Singers: You’re Invited to the Gospel Sound Challenge!",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWpYYTNaRmctMEh3SVhWeGNMYXJUMTQzOERhRnpRZThyeWxLbHlGWHVUcnd5YnpmNjA0dHpDZFFWT0czdWNWUmgtWjJ5WDZjMXU3QVhSYmdoRnJRQ3hoOE95Ti1reHI4RDNCeTdXLVdtemItV01xVzE5ZFFWbV85VTNQRVpUS1p1cmlkRWZ2TWtoSTFFdUozS2dZLXp1M0NKZ204aEVPS3U?oc=5",
+      "summary": "Church Choirs & Gospel Singers: You’re Invited to the Gospel Sound Challenge! Prince William Living",
+      "outlet": "Prince William Living",
+      "outlet_url": "https://princewilliamliving.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T00:09:23Z",
+      "first_seen": "2026-09-22T00:41:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-22T12:41:39Z"
+    },
     {
       "id": "c2fc15cfdc4e400f",
       "title": "For Jewish activists in Brooklyn, Yom Kippur becomes a day to mourn Palestinians",
@@ -10920,25 +10936,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/00319-14092026.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "20b30c4eec8918a5",
-      "title": "Jordan's Crown Prince visits baptism site ahead of 2,000 years since Jesus' Baptism",
-      "link": "https://www.vaticannews.va/en/world/news/2026-09/jordan-s-crown-prince-visits-baptism-site-ahead-of-2-000-years.html",
-      "summary": "Jordan's Crown Prince Al Hussein bin Abdullah II visits the Baptism Site of Jesus Christ (Bethany Beyond the Jordan) and emphasizes the need to carefully plan for the 2030 millennium celebrations, commemorating two thousand years since the baptism of Jesus…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T11:24:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/cem/jordan2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
