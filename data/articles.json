@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-22T01:05:43Z",
+  "generated_at": "2026-09-22T01:37:15Z",
   "story_count": 600,
-  "with_photo": 446,
+  "with_photo": 445,
   "items": [
+    {
+      "id": "48a5119fc1a5cc3d",
+      "title": "California Just Made September 25 \"Dolly Parton Day\": Here's the Story Behind the Date",
+      "link": "https://www.jubileecast.com/articles/39610/20260921/dolly-parton-day-california-september-25-2026.htm",
+      "summary": "California Just Made September 25 \"Dolly Parton Day\": Here's the Story Behind the Date",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T01:30:36Z",
+      "first_seen": "2026-09-22T01:37:15Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31732/dolly-parton.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d5305b5b05c82d64",
+      "title": "Why Does Andy Reid Say Taylor Swift Fuels Kelce's Chiefs Season?",
+      "link": "https://www.jubileecast.com/articles/39609/20260921/why-andy-reid-says-taylor-swift-fuels-kelce-chiefs-season.htm",
+      "summary": "Why Does Andy Reid Say Taylor Swift Fuels Kelce's Chiefs Season?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T01:24:50Z",
+      "first_seen": "2026-09-22T01:37:15Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30849/taylor-swift.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f44d1826251c533e",
+      "title": "Taylor Swift Becomes First-Ever Recipient of New MTV VMA Honor: It Puts Her Ahead of Beyoncé's Record",
+      "link": "https://www.jubileecast.com/articles/39608/20260921/taylor-swift-mtv-vma-artist-director-honors-2026.htm",
+      "summary": "Taylor Swift Becomes First-Ever Recipient of New MTV VMA Honor: It Puts Her Ahead of Beyoncé's Record",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T01:12:41Z",
+      "first_seen": "2026-09-22T01:37:15Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31527/taylor-swift.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "4b5d96d1ad906795",
       "title": "Church Choirs & Gospel Singers: You’re Invited to the Gospel Sound Challenge!",
@@ -35,6 +92,22 @@
         "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Yom-Kippur-Brooklyn2.jpg",
         "via": "content:encoded"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3b1f70dbe3d43614",
+      "title": "GOYE Universe debuts afro-gospel artist Verity Haruna with Essence EP",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2dwRVpoSGpUajQyVVYyUmJkaU5RckJaVkw0bDRaNVJ2Yno0NkJhejFlN25VZmJtQkp5SE93X0pYR3ZDQ2lwMDFfeFhNb1dTalNkaFE3RkFPclhBb28xODFWMjNmb3NYSU5MaUU5bjd5bV9EX2dRdUh2dmVFZG1pcnB2bm1iWGdNQmphMU4zQndJTG1vZ0ZQbkdaWjJzZnhVMHRlZ2RkY2xNZ9IBrwFBVV95cUxOMWlNSjZoVzJEdjRIMHdUTE5saHY3cWhoVjluOXNCal8xNXhTTEIzVjRvendmVzdrR2g5QXRTVnR2eGJRZGctUG5YSHhGNGF0YVhoWHk5MFZXUlZJWGhsOVYxbVM1M3ptNlVhRVVMbXhudTVTdW1sRXNUaTkyaFRtWGowakh0TlpTRWxqZTE1Y3NHVndXSk9Bck0wTmlvbGxJOFZsb1lNMzJ3WGdOWGtB?oc=5",
+      "summary": "GOYE Universe debuts afro-gospel artist Verity Haruna with Essence EP Vanguard News",
+      "outlet": "Vanguard News",
+      "outlet_url": "https://www.vanguardngr.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-21T23:14:14Z",
+      "first_seen": "2026-09-22T01:37:15Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10860,82 +10933,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789479852/ewtn-news/en/BishopMichaelSaporito091526_yivptr.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c9dbab1095225011",
-      "title": "Archbishop Gallagher: States should renounce nuclear weapons",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/gallagher-states-renounce-nuclear-weapons-use-ai-responsibility.html",
-      "summary": "In his remarks at the 70th General Conference of the International Atomic Energy Agency, the Secretary for Relations with States and International Organizations, Archbishop Paul Richard Gallagher, calls for the responsible use of nuclear technology, which is…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T12:17:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/arcivescovo-paul-richard-gallagher-assemblea-iaea-di-vienna-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "37ba8c63a48e1acc",
-      "title": "Tennessee Governor Announces Day of Prayer and Fasting",
-      "link": "https://mycharisma.com/news/tennessee-governor-announces-day-of-prayer-and-fasting/",
-      "summary": "Tennessee Governor Bill Lee (R) announced that Friday, September 18, will be a voluntary day of prayer and fasting for the state. The proclamation, which Lee shared on social media, states that Tennessee acknowledges “God’s sovereignty and the need for God’s…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T12:15:58Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2024/01/2024_1_JF_Fasting-1.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "18fad2409b9f0671",
-      "title": "Daughter of imprisoned Christian Syrian urges Trump to intervene",
-      "link": "https://www.ewtnnews.com/world/us/daughter-of-imprisoned-christian-syrian-urges-trump-to-intervene",
-      "summary": "Christian Solidarity International (CSI) is calling for U.S. governmental intervention after Suleiman Khalil was arrested and detained Feb. 8, 2025.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T12:00:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789427440/ewtn-news/en/VeldkampKhalilDudoENN091426_gjff8p.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3b26d1e44bf962f8",
-      "title": "Pope Leo XIV’s “Freedom Under Grace” released in English",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-freedom-under-grace-book-release-english.html",
-      "summary": "Pope Leo XIV’s book “Freedom Under Grace” hits bookshelves in English, bringing together his reflections on the legacy of St. Augustine that has shaped his spirituality. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T11:49:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/00319-14092026.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
