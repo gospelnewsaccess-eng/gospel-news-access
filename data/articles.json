@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T07:38:24Z",
+  "generated_at": "2026-09-22T08:07:17Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 449,
   "items": [
     {
       "id": "11dec809fa2065c1",
@@ -57,6 +57,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30841/carrie-underwood.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "588cc34e0a9d6baf",
+      "title": "KFC to honour veteran broadcasters at 10th Sterling Gospel Music Awards",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUm1WRDdQdHJOWXVWN0NWZDZTX2pJVHJaQzJEbklySzVPT0Y5bWRScnJhMUtGeVhlQndQTmotbF94eG1VX2NGcjYyZjJMbDVZQWQzYWdjTElFZVVNVEtwSXZDLUhWVlplSTVubkJSZkhHMzYzb1FkM1NHVkkyMXFWVDZVOUZwakIxVW5kTW9KSkZKc2JrUkZIc25TSEJkdTBGNHh0M0FWVVpfMEdObXc?oc=5",
+      "summary": "KFC to honour veteran broadcasters at 10th Sterling Gospel Music Awards Jamaica Observer",
+      "outlet": "Jamaica Observer",
+      "outlet_url": "https://www.jamaicaobserver.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T05:52:36Z",
+      "first_seen": "2026-09-22T08:07:17Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10929,25 +10945,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789480487/ewtn-news/en/ChirovskyDonna_pgsz48.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "00837342b5e0e5ff",
-      "title": "Catholics and Orthodox Christians make a pilgrimage to Mount Athos",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/mount-athos-joint-pilgrimage-catholics-orthodox-christians.html",
-      "summary": "The Apostolic Vicar of Northern Arabia and the Greek Orthodox Metropolitan of Kuwait and Baghdad jointly led a pilgrimage to Mount Athos, which took place from September 6 to 9. The delegation received the blessing of Ecumenical Patriarch Bartholomew and was…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-15T15:30:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/14/2026-09-14-monte-athos-pellegrinaggio-catt-ortod.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
