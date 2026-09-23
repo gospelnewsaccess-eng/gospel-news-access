@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-23T12:09:01Z",
+  "generated_at": "2026-09-23T12:42:12Z",
   "story_count": 600,
   "with_photo": 460,
   "items": [
+    {
+      "id": "3485c8ddd5eedfbd",
+      "title": "Bishop baptized by Fulton Sheen reflects on his legacy ahead of beatification",
+      "link": "https://www.ewtnnews.com/world/us/bishop-baptized-by-fulton-sheen-reflects-on-his-legacy-ahead-of-beatification",
+      "summary": "In “The Beatification of Archbishop Fulton J. Sheen and the Mission of the Catholic Church in the 21st Century,” Bishop John O. Barres reflected on Sheen’s life and teachings.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T12:00:00Z",
+      "first_seen": "2026-09-23T12:42:12Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790106507/ewtn-news/en/GettyImages-515457182_k84yti.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ec1ccdf0831862b1",
       "title": "AI is finding chart success in Christian, gospel and country music",
@@ -10960,25 +10979,6 @@
       "image": {
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/tired.jpg",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a1d71111d0b5ee41",
-      "title": "Is Nike's trans advocacy costing it more than headlines?",
-      "link": "https://www.christianpost.com/voices/is-nikes-trans-advocacy-costing-it-more-than-headlines.html",
-      "summary": "Nike’s story is a little more complex than most people are making it out to be.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T04:23:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271949_w_550_381.jpg?v=20260917002551",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
