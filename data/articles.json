@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-23T05:06:22Z",
+  "generated_at": "2026-09-23T05:37:42Z",
   "story_count": 600,
-  "with_photo": 460,
+  "with_photo": 459,
   "items": [
+    {
+      "id": "ff7e794bded65fb0",
+      "title": "Kevin Downswell leads Sterling Gospel Music Awards noms",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTlFcmNneWxyWWhhQ01aT0k1Vks0SzhYeE5WOUtjWFZCbmI1bHAzS2N6WTR3b1djaV9jeTBaOTM4djgxS3J3SWJ0WkYzUFJROUxMVUJqN2lHWFZGR1pHM3FXcHdrd2JsZHR6RlR1aHh1ZDVtZFU3S21GOVMxNG5GNHRGX2tmRzVodUppc1Jic05TUWk3VG9mcTdfMmFNalJF?oc=5",
+      "summary": "Kevin Downswell leads Sterling Gospel Music Awards noms Jamaica Observer",
+      "outlet": "Jamaica Observer",
+      "outlet_url": "https://www.jamaicaobserver.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T05:28:25Z",
+      "first_seen": "2026-09-23T05:37:42Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T17:37:42Z"
+    },
+    {
+      "id": "d7f5765472b70d00",
+      "title": "Coach K’s Son-in-Law Chris Spatola Dies Suddenly at 47: What Has the Family Shared?",
+      "link": "https://www.jubileecast.com/articles/39644/20260923/coach-k-s-son-in-law-chris-spatola-dies-suddenly-at-47-what-has-the-family-shared.htm",
+      "summary": "Coach K’s Son-in-Law Chris Spatola Dies Suddenly at 47: What Has the Family Shared?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T05:24:24Z",
+      "first_seen": "2026-09-23T05:37:42Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31902/chris-spatola.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d4b78b244c56fb26",
       "title": "Think You’re Fine on Friends? Wayne Francis Says Open Your Calendar",
@@ -10940,44 +10975,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28174/richard-smallwood.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c4163acd48311ad9",
-      "title": "Kirk Family Says Assassination Could Have Been Prevented",
-      "link": "https://mycharisma.com/news/kirk-family-says-assassination-could-have-been-prevented/",
-      "summary": "Charlie Kirk’s family has filed a wrongful death notice ahead of a possible lawsuit against Utah Valley University officials. The notice preserves the family’s statute of limitations. “Through a series of stunning failures and reckless decisions, the UVU…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T20:47:19Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d9a0767ba19b1100",
-      "title": "‘American Idol’ Finalist Breanna Nix Says 80-Year-Old Lifelong Atheist Accepted Christ After Hearing Her Sing",
-      "link": "https://www.jubileecast.com/articles/39474/20260916/american-idol-finalist-breanna-nix-says-80-year-old-lifelong-atheist-accepted-christ-after-hearing-her-sing.htm",
-      "summary": "‘American Idol’ Finalist Breanna Nix Says 80-Year-Old Lifelong Atheist Accepted Christ After Hearing Her Sing",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T20:45:53Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27147/breanna-nix.jpg",
         "via": "media:content"
       },
       "breaking": false,
