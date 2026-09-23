@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-09-23T19:06:22Z",
+  "generated_at": "2026-09-23T19:37:47Z",
   "story_count": 600,
-  "with_photo": 456,
+  "with_photo": 455,
   "items": [
+    {
+      "id": "0438f0c5e9163062",
+      "title": "Christian Music Star Brandon Lake Opens Up About Success, Mental Health, Family Life, and Faith",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkJVbTFtT3JvQVE5VEFldFBsczRDVk9ZRzFjdXNNdVJkZnlHVWNMRGJTUnpGalUwOHlzRHEtblpEZk1nc2hBU1FtS3pRaVJfVkVtT3VnbVpLRzI4RVY4NmZkV2RrOWhBZ2luZEZBc2FRU2dWZG9FVWR5UTNrbEJfaTZMYWlIOXZTTW9XWWhOSnFWb0VzLUNEdlFLelE4dWU2Z0oyZV9YM2U?oc=5",
+      "summary": "Christian Music Star Brandon Lake Opens Up About Success, Mental Health, Family Life, and Faith Nashville Lifestyles",
+      "outlet": "Nashville Lifestyles",
+      "outlet_url": "https://nashvillelifestyles.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T19:30:00Z",
+      "first_seen": "2026-09-23T19:37:47Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T07:37:47Z"
+    },
+    {
+      "id": "1453cc55e44814bf",
+      "title": "LIVE UPDATES: Beatification of Fulton Sheen",
+      "link": "https://www.ewtnnews.com/world/us/live-updates-beatification-of-fulton-sheen",
+      "summary": "Follow here for live updates of the beatification of Fulton Sheen.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T19:15:20Z",
+      "first_seen": "2026-09-23T19:37:47Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790182989/ewtn-news/en/FultonSheenMuseum1092326_jwaj5b.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cde06a9e8fa7639b",
+      "title": "Gov. Andy Beshear invokes faith to defend veto of 'anti-trans' bill, slams JD Vance's Christianity",
+      "link": "https://www.christianpost.com/news/andy-beshear-invokes-faith-to-defend-veto-of-anti-trans-bill.html",
+      "summary": "Kentucky’s Democratic Gov. Andy Beshear has suggested that opposition to taxpayer funding of trans procedures for minors that cause irreversible harm, such as infertility and impaired sexual function, is un-Christian.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T18:51:51Z",
+      "first_seen": "2026-09-23T19:37:47Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272037_w_550_361_624_199.jpg?v=20260923151106",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b9695b0b0f020f75",
+      "title": "Lionsgate, Kingdom Story Company Start Production on “My Jesus” Inspired By Anne Wilson",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTVpIOGpnTVh6WUJRU01reW9UUi12bHdZV0RpNTlMRmpERnhYMkcycHk2SHdYQTlxRjJUZDN5amZ2N2JKak5STnJCcmpxTmFXY3ROaUk4X05pN0lYXzJ4RS1EeW41ZV9wV2Njc2g1VHg5MWJ5YmF4N2tyVGlMVC03MGZtanZuS29UM0MzNWlDS1RFVXpoM0Z1T0t3dFFtYnlySTVFSEVHYnhHYm4wMEZ4U0NXMA?oc=5",
+      "summary": "Lionsgate, Kingdom Story Company Start Production on “My Jesus” Inspired By Anne Wilson Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T18:33:45Z",
+      "first_seen": "2026-09-23T19:37:47Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T07:37:47Z"
+    },
+    {
+      "id": "7f5f7027ac46c1c7",
+      "title": "Senators fire off bipartisan letter asking Trump to press Xi on religious persecution",
+      "link": "https://www.christianpost.com/news/senators-urge-trump-to-press-xi-on-religious-persecution.html",
+      "summary": "A bipartisan group of 10 U.S. senators sent a letter to President Donald Trump on Tuesday urging him to press Chinese President Xi Jinping on Beijing's persecution of Christian pastors and other religious minorities during their bilateral summit this week in…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T18:29:00Z",
+      "first_seen": "2026-09-23T19:37:47Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272040_w_550_388.jpg?v=20260923143008",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "450e0f619c66e5fc",
       "title": "$2.45 Billion Gaza Plan: Is the Board of Peace Setting the Stage for End-Times Prophecy?",
@@ -57,6 +146,22 @@
         "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Rapper-Macklemore1.jpg",
         "via": "og:image"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "728f70580c432c51",
+      "title": "The Chosen Announces New Christmas Special, The Three Kings",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGh1Qko1NnUzbU1URWdkNjJabnRxSXlKaVpYSWh0cnVWZ0VZeEFEY1YxMS05SW55cVNUT0M2dDZ4c280U1JQalBMTklpY05FT2Q2Z09scjhXVGx6cUxlYTc4N1Y3V1RaWDlhdXlpWTdka2dSenpXeFVzTGJVUGZiWUF0Qk4zbHMwWV9IU19zMTg?oc=5",
+      "summary": "The Chosen Announces New Christmas Special, The Three Kings Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T17:28:25Z",
+      "first_seen": "2026-09-23T19:37:47Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10859,114 +10964,6 @@
       "image": {
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/morris2.jpg",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ce1c2a887e4928bd",
-      "title": "UK Catholics urged to put faith at the heart of giving and investment",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/catholics-in-fundraising-report-interview-pope-charities-invest.html",
-      "summary": "A new report on Catholic generosity in the United Kingdom highlights the scale of Catholic wealth and charitable giving, while calling for greater collaboration among donors, charities, dioceses and financial professionals. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T15:28:00Z",
-      "first_seen": "2026-09-17T16:38:39Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/17/img-1182aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "839508fb7b49bdc5",
-      "title": "Dove Awards To Pay Tribute to Richard Smallwood – To include Original Members of His Ensemble Vision",
-      "link": "https://pathmegazine.com/articles/dove-awards-to-pay-tribute-to-richard-smallwood-to-include-original-members-of-his-ensemble-vision/",
-      "summary": "The Gospel Music Association (GMA) has announced the second round of performers and presenters set to take the stage at the 57th Annual GMA Dove Awards, taking place October … The post Dove Awards To Pay Tribute to Richard Smallwood – To include Original…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T15:21:23Z",
-      "first_seen": "2026-09-17T15:38:12Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a9732eeaab666501",
-      "title": "Catholic parents fight Massachusetts for custody, says school 'transitioned' daughter",
-      "link": "https://www.christianpost.com/news/catholic-parents-sue-massachusetts-for-custody-of-daughter.html",
-      "summary": "A Catholic family is fighting Massachusetts for custody of their daughter, alleging that a public school socially transitioned their gender-dysphoric teen without their consent, securing a temporary halt to cross-sex hormone therapy.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T15:17:00Z",
-      "first_seen": "2026-09-17T16:38:39Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271952_w_550_367_579_314.jpg?v=20260917111851",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92dfc14b9e87a58c",
-      "title": "‘An Act of God’: 3 Children Escape Harm as Speeding Camaro Tears Through Backyard Fence",
-      "link": "https://mycharisma.com/news/an-act-of-god-3-children-escape-harm-as-speeding-camaro-tears-through-backyard-fence/",
-      "summary": "Three young children escaped injury after a speeding driver lost control of a Chevrolet Camaro and crashed through a fence beside their backyard swimming pool, according to FOX 4. The crash happened around 7 p.m. Sunday along Heritage Trace Parkway in north…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T15:14:04Z",
-      "first_seen": "2026-09-17T16:07:44Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e006213b40c8abb8",
-      "title": "New Gospel Library Music Features for Listening, Singing and Accompanying",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdVJCdC0tdGtnWFFYOUo1eVZMZTA2aDVWQlBKc1RKSUFlUzlSaWJGUmlnTUp5N0tuMUFXV2RVWks5UnU0SGhtdXJXUkxNdGtqYk9KYjVrY21YSEJaY2MtUEhCT2E1bDZlS1ZqdXdXVk9wNUl1QkcwSHN1VWhzak1mTDBrSnRRSnZ6U1ZyMWFhRUdaQjc0UjkzcVc4alg1el9UMGZJMndvMXhPN19vMlZUNVFENE5zenhWOWxJdnNB?oc=5",
-      "summary": "New Gospel Library Music Features for Listening, Singing and Accompanying newsroom.churchofjesuschrist.org",
-      "outlet": "newsroom.churchofjesuschrist.org",
-      "outlet_url": "https://newsroom.churchofjesuschrist.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-17T15:09:44Z",
-      "first_seen": "2026-09-21T22:06:47Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a92f27aff30d069d",
-      "title": "‘American Idol’ Alum and Former Worship Pastor Faces Trial in Wife’s Killing",
-      "link": "https://mycharisma.com/news/american-idol-alum-and-former-worship-pastor-faces-trial-in-wifes-killing/",
-      "summary": "The murder case that stunned a Christian community has entered its most consequential chapter yet. Caleb Flynn, the former worship pastor and “American Idol” contestant accused of killing his wife, Ashley Flynn, is headed before a jury in Ohio, months after…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T15:08:51Z",
-      "first_seen": "2026-09-17T15:07:45Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
