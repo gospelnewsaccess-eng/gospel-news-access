@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-23T01:06:37Z",
+  "generated_at": "2026-09-23T01:36:53Z",
   "story_count": 600,
-  "with_photo": 458,
+  "with_photo": 459,
   "items": [
+    {
+      "id": "1233dbe081595b85",
+      "title": "Les Traylor Releases “Right Here” to Christian Radio, Sharing a Message of God’s Faithfulness",
+      "link": "https://www.jubileecast.com/articles/39643/20260922/les-traylor-right-here-christian-radio.htm",
+      "summary": "Les Traylor Releases “Right Here” to Christian Radio, Sharing a Message of God’s Faithfulness",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T01:03:54Z",
+      "first_seen": "2026-09-23T01:36:53Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31901/les-traylor.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c98cb20ee3528a2a",
+      "title": "Linda Boles Releases “A Child of God” to Christian Radio, Celebrating Salvation and Belonging",
+      "link": "https://www.jubileecast.com/articles/39642/20260922/linda-boles-a-child-of-god-christian-radio.htm",
+      "summary": "Linda Boles Releases “A Child of God” to Christian Radio, Celebrating Salvation and Belonging",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T01:01:52Z",
+      "first_seen": "2026-09-23T01:36:53Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31900/linda-boles.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "eac642969a2c2263",
       "title": "\"The Odyssey\" Heads Into the 2027 Oscar Race With a Two-Pronged Attack: Here's the Plan",
@@ -10939,41 +10977,6 @@
       "published": "2026-09-16T19:28:06Z",
       "first_seen": "2026-09-17T06:30:46Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a1bee99daecdfffb",
-      "title": "Politics, The Vote And The Black Church",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05OGRzSVltcUtsSF8tTTc4M09mTDRDOFN0MkVsRFMxbXcwaG5sSFRaSkNhTm9iejFxcVdfOFNkbEZneDdLZldxSXloZkdNbUVWTEljN2lTSHNrVFlPV3BGelpFSXg0MVN0T0NJUm1JTGZlTF9fQjZqczUxQVFiZw?oc=5",
-      "summary": "Politics, The Vote And The Black Church Jacksonville Free Press",
-      "outlet": "Jacksonville Free Press",
-      "outlet_url": "https://jacksonvillefreepress.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T19:08:52Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4fa7e22ec6789ba3",
-      "title": "Rand Paul: End federal welfare for refugees, let churches, families sponsor instead",
-      "link": "https://www.christianpost.com/news/rand-paul-calls-on-churches-to-sponsor-refugees-get-off-benefits.html",
-      "summary": "Sen. Rand Paul, R-Ky., has suggested that churches and family members of refugees could sponsor and fund people's relocations, as he calls for an end to federal welfare benefits for refugees, some of whom remain on benefits long-term.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T19:07:35Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271939_w_550_367_413_280.jpg?v=20260916150838",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
