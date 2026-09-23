@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-23T14:07:31Z",
+  "generated_at": "2026-09-23T14:39:49Z",
   "story_count": 600,
-  "with_photo": 456,
+  "with_photo": 457,
   "items": [
+    {
+      "id": "da54d0e48c15c11b",
+      "title": "South Africa: Gauteng faith leaders urge respect for women and human life",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/south-africa-gauteng-faith-leaders-urge-respect-for-women-and-h.html",
+      "summary": "Faith leaders in South Africa’s Gauteng province have condemned the killing of women in Ekurhuleni and called for a sustained effort to rebuild respect for human life, beginning in families and extending to religious communities, schools, government and wider…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T14:14:00Z",
+      "first_seen": "2026-09-23T14:39:49Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/23/gilc.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "190f7437c71e433b",
       "title": "Natalie Grant Warns Church To Let AI Serve Worship, Not Direct It",
@@ -18,6 +37,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-24T02:07:31Z"
+    },
+    {
+      "id": "3618a71adef4a5e9",
+      "title": "Sri Lanka jails 15 for up to 260 years over Easter Sunday church bombings",
+      "link": "https://www.ewtnnews.com/world/asia-pacific/sri-lanka-jails-15-for-up-to-260-years-over-easter-sunday-church-bombings",
+      "summary": "The Archdiocese of Colombo welcomed the ruling but said those convicted are only part of the case, as a separate probe into alleged state links continues.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T13:50:00Z",
+      "first_seen": "2026-09-23T14:39:49Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790151004/ewtn-news/en/2210640835_ysybt7.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "db4ccbe2c57670ba",
@@ -252,6 +290,25 @@
       "first_seen": "2026-09-23T12:42:12Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790106507/ewtn-news/en/GettyImages-515457182_k84yti.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "72b4eb9923938cd8",
+      "title": "'Heart of the Beast' writer says film highlights military sacrifice",
+      "link": "https://www.christianpost.com/video/heart-of-the-beast-writer-says-film-highlights-military.html",
+      "summary": "At the red carpet premiere of \"Heart of the Beast,\" writer Cameron Alexander shares how the film honors military sacrifice and serves as a \"love letter to his dog.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T11:25:40Z",
+      "first_seen": "2026-09-23T14:39:49Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272017_w_550_319.jpg?v=20260923092354",
         "via": "media:content"
       },
       "breaking": false,
@@ -10914,60 +10971,6 @@
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/is-church-prepared-pastor-disabilities.jpg?resize=1200,628",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "98d71fc618a820ba",
-      "title": "Review: ‘Daniel and the Fiery Furnace’",
-      "link": "https://www.christianitytoday.com/2026/09/review-daniel-and-the-fiery-furnace/",
-      "summary": "The Bible movies and TV shows of the past few decades—going back to 1995’s Joseph and 1998’s Prince of Egypt—have tended to cover four basic categories: Genesis, Moses, Saul and David, and Jesus and the disciples. Origin stories, in other words, about the…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T10:00:00Z",
-      "first_seen": "2026-09-17T10:39:00Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/daniel-and-fiery-furnace.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5eba7d8bc9f55900",
-      "title": "Diocese of Phoenix opens education center to support mental health ministry",
-      "link": "https://www.ewtnnews.com/world/us/diocese-of-phoenix-opens-education-center-to-support-mental-health-ministry",
-      "summary": "The Diocese of Phoenix teams up with the University of Mary to support seminarians and Catholic counselors, and more in this week’s Catholic education news roundup.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T10:00:00Z",
-      "first_seen": "2026-09-17T10:39:00Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789583747/ewtn-news/en/ribbon-cutting-mass-for-education-center-opening00014-768x504_nn7jcn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c2ec596a770ece43",
-      "title": "Uprise Festival draws nearly 20,000 to Shippensburg for Christian Music Event - The Shippensburg News-Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYy1oc2NKdjktX2FlZjZNNTh5dkpGX21sdk1pTUkydzgtOWhvRkZqeElSQzhESUJLMzk4YWFPUWpVbnYweENtY2pOTGtpd1gyUVFsX1JVMXhFRk5JSEJiekpSQjU4T3ZkaVdENk5qc0ZfTGxUcWpna3BRdERIYnZxT19kdV9VVmNNQkE?oc=5",
-      "summary": "Uprise Festival draws nearly 20,000 to Shippensburg for Christian Music Event The Shippensburg News-Chronicle",
-      "outlet": "The Shippensburg News-Chronicle",
-      "outlet_url": "https://www.shipnc.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-17T10:00:00Z",
-      "first_seen": "2026-09-17T11:37:47Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
