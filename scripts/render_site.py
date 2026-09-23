@@ -77,8 +77,13 @@ def org_schema() -> str:
         obj["legalName"] = c["legal_name"]
     if c.get("founded_year"):
         obj["foundingDate"] = str(c["founded_year"])
-    if c.get("owner_name"):
-        obj["founder"] = {"@type": "Person", "name": c["owner_name"]}
+    # The publication is owned by an entity, not by a person. Never emit a
+    # "founder" claim for the Senior Editor — he does not own the publication.
+    if c.get("parent_company_name"):
+        parent = {"@type": "Organization", "name": c["parent_company_name"]}
+        if c.get("parent_company_legal_name"):
+            parent["legalName"] = c["parent_company_legal_name"]
+        obj["parentOrganization"] = parent
     contact = {}
     if c.get("email_general"):
         contact["email"] = c["email_general"]
@@ -1292,10 +1297,9 @@ def render_eeat() -> None:
     if own:
         own_html = "<p>%s</p>" % g.esc(own)
     else:
-        own_html = ('<p>Gospel News Access is owned by %s. A fuller ownership and '
-                    'funding statement is being prepared and will be published here. '
-                    'We would rather leave this short and accurate than pad it with '
-                    'claims we have not checked.</p>' % g.esc(c.get("owner_name", "its founder")))
+        own_html = ('<p>An ownership and funding statement is being prepared and '
+                    'will be published here. We would rather leave this blank than '
+                    'pad it with claims we have not checked.</p>')
     founded = ("<p>Gospel News Access has been publishing since %s.</p>"
                % g.esc(str(c["founded_year"]))) if c.get("founded_year") else ""
 
@@ -1307,8 +1311,10 @@ original reporting, and we publish our own music charts.</p>
 
 <h2>Who owns this publication</h2>
 {own_html}
-<p><strong>{g.esc(c.get('owner_name',''))}</strong> &mdash; {g.esc(c.get('owner_role',''))}</p>
-<p>{g.esc(c.get('owner_bio',''))}</p>
+
+<h2>Who runs this publication</h2>
+<p><strong>{g.esc(c.get('senior_editor_name',''))}</strong> &mdash; {g.esc(c.get('senior_editor_role',''))}</p>
+<p>{g.esc(c.get('senior_editor_bio',''))}</p>
 
 <h2>How the wire works</h2>
 <p>Most of what you see on the front page is a <strong>news wire</strong>: headlines
@@ -1325,7 +1331,8 @@ Access and lives on our own pages.</p>
 <li>We do not invent anything &mdash; not a quote, a source, a statistic, a church,
 a programme, an event or an outcome. Not once, not to fill a gap.</li>
 <li>Every original story carries a real dateline and a real timestamp.</li>
-<li>Where there is no named reporter, the byline is
+<li>Where there is no named reporter, the byline is a desk byline &mdash;
+<strong>the Gospel Desk, Gospel News Access</strong>, or
 <strong>Gospel News Access Staff</strong>. We do not invent a journalist&rsquo;s
 name to put on a story.</li>
 <li>A story about a named individual&rsquo;s conduct requires either primary
@@ -1365,15 +1372,18 @@ read. Our chart method is published in full on the
     body = f"""<h1>Masthead</h1>
 <p class="lede">Who is responsible for Gospel News Access.</p>
 <h2>Ownership</h2>
-<p><strong>{g.esc(c.get('owner_name',''))}</strong> &mdash; {g.esc(c.get('owner_role',''))}</p>
-<p>{g.esc(c.get('owner_bio',''))}</p>
+{own_html}
 <h2>Editorial</h2>
-<div class="note"><p>Editorial roles beyond the owner are not yet filled, and so
-none are listed. We will not print a masthead of invented names or borrowed
-titles &mdash; a masthead that cannot be checked is worth nothing.</p>
+<p><strong>{g.esc(c.get('senior_editor_name',''))}</strong> &mdash; {g.esc(c.get('senior_editor_role',''))}</p>
+<p>{g.esc(c.get('senior_editor_bio',''))}</p>
+<div class="note"><p>Editorial roles beyond the Senior Editor are not yet filled,
+and so none are listed. We will not print a masthead of invented names or
+borrowed titles &mdash; a masthead that cannot be checked is worth nothing.</p>
 <p>Wire copy is aggregated automatically and always credited to the publication
-that reported it. Original reporting carries the byline
-<strong>Gospel News Access Staff</strong> unless a named reporter wrote it.</p></div>
+that reported it. Original reporting carries a desk byline &mdash;
+<strong>the Gospel Desk, Gospel News Access</strong> or
+<strong>Gospel News Access Staff</strong> &mdash; unless a named reporter wrote
+it. A desk byline never stands in for a person who does not exist.</p></div>
 <h2>Corrections</h2>
 <p>Our corrections policy lives at a permanent address:
 <a href="corrections.html">{g.esc(SITE)}/corrections.html</a></p>
