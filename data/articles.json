@@ -1,8 +1,78 @@
 {
-  "generated_at": "2026-09-23T11:06:42Z",
+  "generated_at": "2026-09-23T11:38:29Z",
   "story_count": 600,
   "with_photo": 460,
   "items": [
+    {
+      "id": "ec1ccdf0831862b1",
+      "title": "AI is finding chart success in Christian, gospel and country music",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1FhRnhkRWREcUpaXzZReWRIelRxT2w2U1FWUkRSaWxWSC1lYVhWOUl3UkpaM1F6emRTLUMtanJKTzNXWmZjbGhfdENjZG1SbDlrSktHVjJ3Rlpub1JfVnc2UlhyWnZ3eVJTZGhIMC1RaDFwQXpHQ2hhMENpbHJGRVZ4R3FUbUJSNnJNWXRSbUxUcm9OQU5fU3hoMGNtNEFuQUE?oc=5",
+      "summary": "AI is finding chart success in Christian, gospel and country music The Conversation",
+      "outlet": "The Conversation",
+      "outlet_url": "https://theconversation.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T11:10:55Z",
+      "first_seen": "2026-09-23T11:38:29Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T23:38:29Z"
+    },
+    {
+      "id": "0a2d8857101c92da",
+      "title": "Ashley Flynn’s Family Testifies About Inheritance And Alleged Affair: What Will Jurors Make Of It?",
+      "link": "https://www.jubileecast.com/articles/39656/20260923/ashley-flynn-s-family-testifies-about-inheritance-and-alleged-affair-what-will-jurors-make-of-it.htm",
+      "summary": "Ashley Flynn’s Family Testifies About Inheritance And Alleged Affair: What Will Jurors Make Of It?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T11:08:19Z",
+      "first_seen": "2026-09-23T11:38:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a9be80b8f4afa207",
+      "title": "Erica Campbell’s Label Says 113M Streams Produced No Royalty Statements",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNWdsUEl6VFJmNF9Bdmgta1lrdzBOQ24ySDg1MWtlbHVhOVpuUzQ3UG41TTNKeE5CWXFaT251dHRlRkQtbVFsT2dzVFhoazR2MkZmQg?oc=5",
+      "summary": "Erica Campbell’s Label Says 113M Streams Produced No Royalty Statements EURweb",
+      "outlet": "EURweb",
+      "outlet_url": "https://eurweb.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-23T11:00:18Z",
+      "first_seen": "2026-09-23T11:38:29Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-23T23:38:29Z"
+    },
+    {
+      "id": "b542d540251fd69e",
+      "title": "Spanish life coach subjected to repeated ‘lawfare’ by LGBT lobby",
+      "link": "https://www.ewtnnews.com/world/europe/spanish-life-coach-once-again-targeted-by-lgbt-lobby",
+      "summary": "Elena Lorenzo has been taken to court several times, charged with violating the Madrid regional government’s Comprehensive Law against LGBTI-phobia. She must now defend herself for the fifth time.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T11:00:00Z",
+      "first_seen": "2026-09-23T11:38:29Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790010886/ewtn-news/en/Elena_Lorenzo_w5jyzu_g1kxsz.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "35be256c86f5aa8e",
       "title": "Pope appeals for care and protection of migrant children",
@@ -10910,76 +10980,6 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271949_w_550_381.jpg?v=20260917002551",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1bd69ccbfc27f492",
-      "title": "The tide is turning on gender ideology, but some parents are still paying the price",
-      "link": "https://www.christianpost.com/voices/the-tide-is-turning-on-gender-ideology-parents-still-pay-a-price.html",
-      "summary": "A presumption built into our social-work system does not disappear entirely once a regulation is rescinded.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T04:14:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271942_w_550_367.jpg?v=20260917001859",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "430465e4ad220920",
-      "title": "Are Evangelical Worship Songs Driving Young Men to Eastern Orthodoxy?",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjhfYWF4aFFLM1Qwa1JGTDkzdDlXbXI4cTZOYVprSXVQcU5zdXBUYi1XUW5KUnRUSHlTTk9aRzlTM1A2Q0JORkx2NHdzZ0Q2VXFIY2pabkpEMXh0S01LRmp1b3h2ZTVOeWpfd0VCTVZGMXZWSEZZNkctVk9pc2R5VTVZRXJST2s?oc=5",
-      "summary": "Are Evangelical Worship Songs Driving Young Men to Eastern Orthodoxy? The Gospel Coalition",
-      "outlet": "The Gospel Coalition",
-      "outlet_url": "https://www.thegospelcoalition.org",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-17T04:10:30Z",
-      "first_seen": "2026-09-18T01:36:04Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "efcf327c09885cc2",
-      "title": "Missionary Andrew Brunson appointed to US Commission on International Religious Freedom",
-      "link": "https://www.christianpost.com/news/trump-appoints-andrew-brunson-as-religious-freedom-commissioner.html",
-      "summary": "Pastor Andrew Brunson, whose 2018 release from a two-year imprisonment in Turkey was a major diplomatic milestone for the first Trump administration, has been appointed to the U.S. Commission on International Religious Freedom (USCIRF).",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T04:01:26Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271948_w_550_350_343_153.jpg?v=20260917010451",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "07af55f706149c14",
-      "title": "Why Christian music sounds nothing like it used to",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10SnlsNjZxUGZYSzg1UTFaMGJFMTZEX21HOFhkd0NFNENUb1ZjTUN6U0dfenc0YlduQmQ1QmIwRHN3ME5HTGR6b0EySzdCQVFPSHNocWdWRThOMkJsUHkwZjNROXZTMlBxZzUtRlowbFlFOTZzb1BV?oc=5",
-      "summary": "Why Christian music sounds nothing like it used to The Diamondback",
-      "outlet": "The Diamondback",
-      "outlet_url": "https://dbknews.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-17T04:00:00Z",
-      "first_seen": "2026-09-17T17:36:50Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
