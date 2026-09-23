@@ -308,7 +308,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T16:07:39Z",
+      "last_checked": "2026-09-23T17:06:50Z",
       "last_item_count": 50,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -341,7 +341,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T16:07:44Z",
+      "last_checked": "2026-09-23T17:06:58Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -380,6 +380,6 @@
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-23T16:39:59Z",
+  "updated_at": "2026-09-23T17:06:46Z",
   "flagged_feeds": []
 }
