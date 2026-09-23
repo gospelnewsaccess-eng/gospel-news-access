@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-23T03:06:40Z",
+  "generated_at": "2026-09-23T03:39:12Z",
   "story_count": 600,
   "with_photo": 459,
   "items": [
+    {
+      "id": "0d3f077a5b831ee7",
+      "title": "‘2023, Born Again in Tennessee’: Jessica Simpson Put Her Comeback to Faith Into a New for KING + COUNTRY Song",
+      "link": "https://relevantmagazine.com/culture/music/2023-born-again-in-tennessee-jessica-simpson-put-her-comeback-to-faith-into-a-new-for-king-country-song/",
+      "summary": "Jessica Simpson has had a lot of headlines written about her over the last 25 years. The lyric she posted this weekend opens by saying so: “Headlines never tell you how the story goes.” Simpson is the featured voice on “my mosaic,” a track from for KING +…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T03:41:10Z",
+      "first_seen": "2026-09-23T03:39:12Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/jessica.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "73cbedd51208ab65",
+      "title": "Eric Metaxas exhorts Americans to remember 'heroic figures,' highlights 21-year-old Nathan Hale",
+      "link": "https://www.christianpost.com/news/eric-metaxas-exhorts-americans-to-remember-heroic-figures.html",
+      "summary": "During a recent interview with The Christian Post about the importance of remembering the biblical basis of American self-government, author Eric Metaxas highlighted the story of 21-year-old patriot Nathan Hale, who was hanged by the British 250 years ago…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T02:42:38Z",
+      "first_seen": "2026-09-23T03:39:12Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272024_w_550_311.jpg?v=20260922224220",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1233dbe081595b85",
       "title": "Les Traylor Releases “Right Here” to Christian Radio, Sharing a Message of God’s Faithfulness",
@@ -209,6 +247,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790102291/ewtn-news/en/Troccoli_z1o2aa_yunhqd.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e09d251799a7e21a",
+      "title": "SKILLET's JOHN COOPER Says Some Of His Band's Christian Critics 'Believe That The Music Is Inherently Full Of The Power Of Satan'",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVEc4amlOUDRKaHliV09ldzdmdU9vR0o2NEowSFNvMFdPbEFydElhSzMwNGNNc092a3pSYjBhR1NpcVppQUxkX1RXcWstQzlKSkdXUHpqSmJKOUJ6ODVOOTRBTzVPSGlVWGZLQ3ZlN25oQXZIR0tmT3ppelRvdkRKZDVEVWdIazd3b19SSExtZGF1TWF4UVRrN2o3MWFJQlN3aFlhbzQ3Z2xPUWc5SGl2dlB4Yk5lMzlieDd4Vk8zMkFReGJCaGVfRm4zVG0yRWtQd2ZrLVEwektCUV9WSnVMcEtZN1gxMkNERU5F?oc=5",
+      "summary": "SKILLET's JOHN COOPER Says Some Of His Band's Christian Critics 'Believe That The Music Is Inherently Full Of The Power Of Satan' BLABBERMOUTH.NET",
+      "outlet": "BLABBERMOUTH.NET",
+      "outlet_url": "https://blabbermouth.net",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-22T21:04:02Z",
+      "first_seen": "2026-09-23T03:39:12Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -600,6 +654,25 @@
       "first_seen": "2026-09-22T18:40:05Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29397/lionel-richie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2b99248051f7c35d",
+      "title": "Eric Metaxas: America is ‘living on fumes’ after abandoning biblical roots",
+      "link": "https://www.christianpost.com/video/eric-metaxas-the-us-is-living-on-fumes-after-abandoning-bible.html",
+      "summary": "Bestselling author Eric Metaxas says America has forgotten the biblical ideas and convictions that helped shape the nation, and he believes that loss has serious consequences for the future of freedom.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T18:32:00Z",
+      "first_seen": "2026-09-23T03:39:12Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/14/271446_w_550_310_899_242.jpg?v=20260922230932",
         "via": "media:content"
       },
       "breaking": false,
@@ -10902,79 +10975,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271943_w_550_446_314_91.jpg?v=20260916163411",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ee6de7ff19e11ccf",
-      "title": "Is ‘Free Palestine’ antisemitic? Here are 5 religion takeaways from the Macklemore cancelation",
-      "link": "https://religionnews.com/2026/09/16/is-free-palestine-antisemitic-here-are-5-religion-takeaways-from-the-macklemore-cancelation/",
-      "summary": "(RNS) — The charge that criticism of Israel amounts to antisemitism is highly contested.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T20:28:38Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2023/03/main-v00-72-scaled.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "77d63979d5b71088",
-      "title": "Disgraced former megachurch pastor Robert Morris seen with black eye in new sex offender registry photo",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUG9KWEtqTXhYdHd6T1hFd3FxUDhjZ0RGV3Z2azlWUHU1cm5kZm5pMWxrRWl0TVBiQndQbk5Zc2M5MzBXOTFzV1p3THhfUTdZZEpDRlpoejB2VndFNjFFUnVBYTVIODg5eVZweHd1NnNEMGFUU2NEYXJwNlhuaFFURmM4UnhHRUZ6Y2Q2aVVrOTVKeWRDT2lUTkdqVUMwTjZ3bENTVjFn?oc=5",
-      "summary": "Disgraced former megachurch pastor Robert Morris seen with black eye in new sex offender registry photo independent.co.uk",
-      "outlet": "independent.co.uk",
-      "outlet_url": "https://www.independent.co.uk",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T20:20:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "de68191c988c7a55",
-      "title": "RNS tracked the religious lawsuits against Trump’s immigration policies. Here’s what we found.",
-      "link": "https://religionnews.com/2026/09/16/rns-tracked-the-religious-lawsuits-against-trumps-immigration-policies-heres-what-we-found/",
-      "summary": "(RNS) — Eighty religious plaintiffs from 11 major faith traditions have joined lawsuits challenging the Trump administration’s immigration policies, according a tracker developed by RNS with the Law, Rights, and Religion Project.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T20:19:36Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/RNS-Litigation-Tracker1b.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "aaf8583b1d3777ca",
-      "title": "Wisconsin gubernatorial nominee survives plane crash: 'God was looking after us'",
-      "link": "https://www.christianpost.com/news/wisconsin-gubernatorial-nominee-survives-plane-crash-praises-god.html",
-      "summary": "The Republican nominee in the Wisconsin gubernatorial election is praising God after he survived a plane crash Saturday night, expressing gratitude for the thoughts and prayers he has received from his supporters as well as his opponent in the hotly contested…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T20:12:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271941_w_550_367_867_379.jpg?v=20260916161232",
         "via": "media:content"
       },
       "breaking": false,
