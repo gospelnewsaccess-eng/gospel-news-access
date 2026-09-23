@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-23T22:07:05Z",
+  "generated_at": "2026-09-23T22:36:40Z",
   "story_count": 600,
   "with_photo": 462,
   "items": [
+    {
+      "id": "66c5aad8e1ad2942",
+      "title": "Archbishop of Panama asks victims for forgiveness: ’We cannot remain silent in the face of abuse’",
+      "link": "https://www.ewtnnews.com/world/americas/archbishop-of-panama-asks-victims-for-forgiveness-we-cannot-remain-silent-in-the-face-of-abuse",
+      "summary": "Addressing the scourge of sexual abuse, the archbishop of Panama requested the services of the Transparency Commission, a project sponsored by Notre Dame Law School and Madrid’s Villanueva University.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T22:15:00Z",
+      "first_seen": "2026-09-23T22:36:40Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790196482/ewtn-news/en/Ulloa-panama-22092026_mob4sq_woq5j1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4265babec0b2e733",
+      "title": "Meryl Streep as Narnia’s Aslan: Why some evangelicals call it blasphemy",
+      "link": "https://religionnews.com/2026/09/23/meryl-streep-as-narnias-aslan-blasphemy-or-brilliant-casting/",
+      "summary": "(RNS) — News that Streep will play Aslan in \"Narnia: The Magician's Nephew\" has sparked casting debates similar to those over \"The Odyssey.\" But for evangelicals, the concerns go deeper than culture wars.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T21:53:21Z",
+      "first_seen": "2026-09-23T22:36:40Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Narnia-20260923-427x240.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8a0a1edd273b4bd9",
+      "title": "Trump administration again omits refugees fleeing religious persecution from US program",
+      "link": "https://religionnews.com/2026/09/23/trump-administration-again-favors-white-south-africans-in-refugee-program-persecuted-christians-nada/",
+      "summary": "(RNS) — The Trump administration set the refugee cap for 2027 at 17,500, the same as this year. That would make it the second year in a row of historically low admissions — made up primarily of white South Africans.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T21:51:55Z",
+      "first_seen": "2026-09-23T22:36:40Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2025/07/webRNS-Pacito-Arrival2.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "10c172b00c6e93b1",
+      "title": "Planned Parenthood miscoding claim prompts watchdog’s call for federal inquiry",
+      "link": "https://www.ewtnnews.com/world/us/planned-parenthood-miscoding-claim-prompts-watchdog-s-call-for-federal-inquiry",
+      "summary": "Planned Parenthood and its affiliates may be coding visits in ways that make youth hormone prescriptions appear routine, Do No Harm’s letter said.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T21:33:36Z",
+      "first_seen": "2026-09-23T22:36:40Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614626/images/transgender.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7b4bc022a62fc58",
+      "title": "96 students baptized during high school worship events after games",
+      "link": "https://www.christianpost.com/news/96-students-baptized-after-high-school-games-in-colorado.html",
+      "summary": "Nearly 100 students have been baptized during five periodic worship gatherings held at a Christian high school in Colorado after athletic competitions.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T21:29:00Z",
+      "first_seen": "2026-09-23T22:36:40Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272021_w_550_360_377_215.jpg?v=20260923173011",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1b3aeb94b5b2a156",
       "title": "Chapter 11: The Arena — THE ADVENTURES OF DANIQUA-GRACE WHYTE BOOK 1",
@@ -10893,101 +10988,6 @@
       },
       "breaking": true,
       "breaking_expires_at": "2026-09-18T07:36:57Z"
-    },
-    {
-      "id": "91a1f26606eae063",
-      "title": "Mamdani once vowed to arrest Netanyahu. Now he won’t join protests against him.",
-      "link": "https://religionnews.com/2026/09/17/mamdani-once-vowed-to-arrest-netanyahu-now-he-wont-join-protests-against-him/",
-      "summary": "(The Forward) — Netanyahu’s plane may land in New Jersey instead of New York, amid concern over that Mamdani may try to prevent the aircraft from remaining parked at JFK during Netanyahu’s visit",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T18:24:23Z",
-      "first_seen": "2026-09-17T18:40:58Z",
-      "image": {
-        "url": "https://forward.com/?republication-pixel=true&post=850676&ga4=G-M5T63K49VC",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fa1dd96d8d1e42d1",
-      "title": "For Israelis abroad, a high-stakes election means a long trip home",
-      "link": "https://religionnews.com/2026/09/17/for-israelis-abroad-a-high-stakes-election-means-a-long-trip-home/",
-      "summary": "JERUSALEM (RNS) — Voting in Israel requires being physically present in the country on Election Day.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T18:17:52Z",
-      "first_seen": "2026-09-17T18:40:58Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Israel-Elections2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a1c479d3f784d0d8",
-      "title": "‘Triple Whammy’: Arthur Lundeen’s Bizarre Admission Adds New Twist to Jonathan Cahn Flight 618 Attack",
-      "link": "https://mycharisma.com/news/triple-whammy-arthur-lundeens-bizarre-admission-adds-new-twist-to-jonathan-cahn-flight-618-attack/",
-      "summary": "There may be an even stranger layer to the Jonathan Cahn Flight 618 attack. Before Arthur Lundeen publicly claimed he couldn’t remember the violent episode aboard American Airlines Flight 618, Cahn had already made a striking observation about the man accused…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T18:16:58Z",
-      "first_seen": "2026-09-17T19:36:57Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a049d55453c893ca",
-      "title": "Trump official voices concern about exhibition statue resembling 'golden calf' in Exodus: report",
-      "link": "https://www.christianpost.com/news/chris-landau-voices-concern-about-symbol-resembling-golden-calf.html",
-      "summary": "A high-ranking Trump administration official reportedly voiced concerns about American-led plans to display a bull statue at an upcoming international exhibit over concerns that it resembled a Canaanite deity condemned in the Bible.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T18:05:06Z",
-      "first_seen": "2026-09-17T19:36:57Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271946_w_550_367_630_209.jpg?v=20260917143836",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "95f199c2e23e3a1d",
-      "title": "InstaChurch founder, actor Alan Ritchson announces divorce after 20 years of marriage",
-      "link": "https://www.christianpost.com/news/instachurch-founder-actor-alan-ritchson-announces-divorce.html",
-      "summary": "Hollywood actor Alan Ritchson, who founded the faith-focused video ministry and YouTube channel InstaChurch, has announced that he and his wife, Catherine, are getting a divorce after three children and more than 20 years of marriage.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T18:04:00Z",
-      "first_seen": "2026-09-17T19:36:57Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271954_w_550_312.jpg?v=20260917140647",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
