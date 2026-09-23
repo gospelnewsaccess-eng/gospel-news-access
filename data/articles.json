@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-23T07:07:49Z",
+  "generated_at": "2026-09-23T07:38:59Z",
   "story_count": 600,
   "with_photo": 458,
   "items": [
+    {
+      "id": "f21c4cd013841d32",
+      "title": "Why Did Za’Darius Smith Bring His Late Mother’s Church to a Falcons Game?",
+      "link": "https://www.jubileecast.com/articles/39648/20260923/why-did-za-darius-smith-bring-his-late-mother-s-church-to-a-falcons-game.htm",
+      "summary": "Why Did Za’Darius Smith Bring His Late Mother’s Church to a Falcons Game?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T07:44:29Z",
+      "first_seen": "2026-09-23T07:38:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31904/za-darius-smith.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c583d787a9226d5e",
       "title": "Tim Keller’s Son Finished the Book They Began Together. What Was His Father’s Final Request?",
@@ -632,6 +651,25 @@
       "first_seen": "2026-09-22T19:35:58Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790097597/ewtn-news/en/sistermiriamjames_qoqkpo.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "db57bed1bb483e59",
+      "title": "Archbishop Gallagher: Reconciliation is born of accepting truth about past",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/archbishop-gallagher-poland-germany-bishops-letter-book.html",
+      "summary": "Speaking at an event at the Polish Embassy to the Holy See, Archbishop Paul Richard Gallagher highlights the enduring relevance of Polish-German reconciliation after World War II, stressing that reconciliation requires confronting the truth about the past…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T19:03:00Z",
+      "first_seen": "2026-09-23T07:38:59Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/13.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10934,44 +10972,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271947_w_550_309_571_108.jpg?v=20260916172755",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3ddcdd1da5b19c63",
-      "title": "Bethel Music’s Nearly Sold-Out Tour Is Coming Back—But Several Cities Are Already Running Out Of Room",
-      "link": "https://www.jubileecast.com/articles/39479/20260916/bethel-music-s-nearly-sold-out-tour-is-coming-back—but-several-cities-are-already-running-out-of-room.htm",
-      "summary": "Bethel Music’s Nearly Sold-Out Tour Is Coming Back—But Several Cities Are Already Running Out Of Room",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T21:15:12Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26884/bethel-music.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5144ed386e996a14",
-      "title": "Tom Holland’s ‘Spider-Man: Brand New Day’ Knocks ‘Star Wars’ Off Its Throne With Historic $936.77 Million Record",
-      "link": "https://www.jubileecast.com/articles/39478/20260916/tom-holland-s-spider-man-brand-new-day-knocks-star-wars-off-its-throne-with-historic-936-77-million-record.htm",
-      "summary": "Tom Holland’s ‘Spider-Man: Brand New Day’ Knocks ‘Star Wars’ Off Its Throne With Historic $936.77 Million Record",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T21:10:48Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31224/spiderman-brand-new-day.jpg",
         "via": "media:content"
       },
       "breaking": false,
