@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-23T23:05:43Z",
+  "generated_at": "2026-09-23T23:34:49Z",
   "story_count": 600,
   "with_photo": 462,
   "items": [
+    {
+      "id": "bfb6b24f40757d90",
+      "title": "CD Sales Have Jumped 59 Percent, But Half of Young Adult Buyers Don’t Own a Player",
+      "link": "https://relevantmagazine.com/culture/music/cd-sales-have-jumped-59-percent-but-half-of-young-adult-buyers-dont-own-a-player/",
+      "summary": "CD sales are suddenly booming again, which would be less surprising if everyone buying them had something to play them on. U.S. CD revenue jumped 58.6 percent in the first half of 2026, hitting $171.1 million wholesale on 17.5 million discs, according to the…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T22:56:54Z",
+      "first_seen": "2026-09-23T23:34:49Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/CDs.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "94416b6bcff7ca3e",
+      "title": "As beatification nears, new book explains why Fulton Sheen was ‘America’s Apostle’",
+      "link": "https://www.ewtnnews.com/world/us/ewtn-news-nightly-fulton-sheen-book",
+      "summary": "The book by Allan Smith was published on Sept. 15, about one week before the beatification. EWTN’s Matthew Bunson discusses the book and Sheen’s legacy on “EWTN News Nightly.”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T22:55:00Z",
+      "first_seen": "2026-09-23T23:34:49Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1771883327/Fulton_Sheen_late_NY_FSF_dhtpax.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "66c5aad8e1ad2942",
       "title": "Archbishop of Panama asks victims for forgiveness: ’We cannot remain silent in the face of abuse’",
@@ -10950,44 +10988,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T06:40:58Z"
-    },
-    {
-      "id": "4ec7ce8f6ba87e42",
-      "title": "Oregon Rejected This Christian Mom’s Adoption Application. Then She Fought Back",
-      "link": "https://mycharisma.com/news/oregon-rejected-this-christian-moms-adoption-application-then-she-fought-back/",
-      "summary": "A Christian mother who says Oregon denied her the chance to adopt from foster care because of her beliefs about gender identity can continue the process under a settlement with the state. Jessica Bates, a widowed mother of five, began seeking certification in…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T18:30:48Z",
-      "first_seen": "2026-09-17T19:36:57Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8eff698181c248ac",
-      "title": "Jelly Roll says he would quit music industry if God told him to",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUmhqSmRmWWJrU2pGMWhzdW1Ld0llSmVnc2RsSVNZc3ZUaDlzcmNqLUxVQjBnWVQ2a0tyVDlqQzJ6R1A1YWUzNE9CN1YxblFQb21nQnZQRHoyOE5GcXdQekdYS2NjLVFQR1NtdjNyRXNOcXU2cXdXRGVuTWc2eHQwYzg1Z0dERG9YaUFGZ1BJc19zUlNlVHQxWmlR?oc=5",
-      "summary": "Jelly Roll says he would quit music industry if God told him to Christian Post",
-      "outlet": "Christian Post",
-      "outlet_url": "https://www.christianpost.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-17T18:27:37Z",
-      "first_seen": "2026-09-17T19:36:57Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271956_w_550_391_722_257.jpg?v=20260917142821",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-09-18T07:36:57Z"
     }
   ]
 }
