@@ -1,8 +1,211 @@
 {
-  "generated_at": "2026-09-23T13:08:40Z",
+  "generated_at": "2026-09-23T13:38:47Z",
   "story_count": 600,
-  "with_photo": 460,
+  "with_photo": 458,
   "items": [
+    {
+      "id": "db4ccbe2c57670ba",
+      "title": "Historic Macedonia Baptist Church earns place on N.J. Black Heritage Trail",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOckFBaDJLRjFPTHptbkIwYW9Qd3pubzI1NUl3eklXd2lfam9DOGExVU53N0Z2UFhhZnNSdkoxQjJsVE1ha3lHQ0dReXZ2WlRKLUxYby1CN04wQzhraXBRXzFXenlaWDA5RllnbHVfb3Y1NS1DOExpQlQtYjJkaVFQOHI5MjZXV3pVLXZxbGVXSXlEV0RVN0FzcjByNTFIUS1iNUlBNzNnaWJPNDNRam9IMmZIcFJXZWFEMFhnNkF30gHSAUFVX3lxTFAwd2RTNndpdHFWR2pvamRaMEEtcmlYYS1aRU1LUDd6SDRuMEtLektOWDRKTDhJMFk4ZFJVN1ZNUFM1NUtFYWdTYmZ3SEUwSm5ITWZnSVpIc0VwbFpZOHVURVY2bzFkdXN2c0taa3psQjFpSFhjcm5zNXFSSW1LN296SGxCWEJoaG1ZT1JRcVJBNGFmb1piWk4xb0dtZTNGZHM1YWtNSHIzUzFoWDNlNW5GUFFXcjluUjdsQjBOQktDN0NtOTZJWThSbk1nY0dYTUc2UQ?oc=5",
+      "summary": "Historic Macedonia Baptist Church earns place on N.J. Black Heritage Trail NJ.com",
+      "outlet": "NJ.com",
+      "outlet_url": "https://www.nj.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-23T13:23:00Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T01:38:47Z"
+    },
+    {
+      "id": "e2d04967ec2552db",
+      "title": "Pope calls for protection of migrant minors: It is everyone’s responsibility",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-calls-for-protection-of-migrant-minors-it-is-everyone-s-responsibility",
+      "summary": "The pope’s appeal followed a reflection on how human progress finds full truth and freedom in an encounter with God.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T13:10:10Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790167160/ewtn-news/en/260923_GA_Daniel_Iba%CC%81n%CC%83ez_5_wkgo1g.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "81352dcd02112ef4",
+      "title": "Nettie’s Child Announces The Therapy Tour",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPamRkQ1JjTngtbE5CSWJ6U3gxTm5kekdiQnJLNzhRMUh6elI3bUV1eFdHOWU4aTE4bTVsdXNTT1c5VXJWNGJJcktjRTNqaGRocGViekVFZVUxWWhDQUdFZkp0b2tfeVF1S1k5RHNscmREVndfbmMwSURvanpyNGJ0Tjg3SkZFZnozbkE?oc=5",
+      "summary": "Nettie’s Child Announces The Therapy Tour The Savannah Tribune",
+      "outlet": "The Savannah Tribune",
+      "outlet_url": "https://www.savannahtribune.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T13:05:33Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T01:38:47Z"
+    },
+    {
+      "id": "87846726b20725d5",
+      "title": "CeCe Winans Has Never Done This. That Changes in October.",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSVdhSjhiZWlySzd0amd6d0lzWHNJbUhienVSZElOeDlNSTd2VDlGdmRLT2dCLTFrMk1RTUFrRWtMZ2FfRGdwbURmMTJqRmVvaDRqYmgwRHRGeU5vSHJwTjN3ZXdOMmVKcUFzWXY5cXZKZktvZVA4VnJPYlNnMWY4YU5RSXVGOW5DMl9yTXA1dDBvS2s?oc=5",
+      "summary": "CeCe Winans Has Never Done This. That Changes in October. CCM Magazine",
+      "outlet": "CCM Magazine",
+      "outlet_url": "https://www.ccmmagazine.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-23T13:00:23Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Cece-Tour-Web-Banner.jpg",
+        "via": "media:content"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T01:38:47Z"
+    },
+    {
+      "id": "9f395b855708b71f",
+      "title": "Anne Wilson's \"My Jesus\" Is Becoming a Movie: Who Will Play in the Movie? Lionsgate Just Announced the Cast",
+      "link": "https://www.jubileecast.com/articles/39650/20260923/anne-wilson-my-jesus-movie-cast-announced.htm",
+      "summary": "Anne Wilson's \"My Jesus\" Is Becoming a Movie: Who Will Play in the Movie? Lionsgate Just Announced the Cast",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T12:59:23Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31906/anne-wilson.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ae4dd0050e460a01",
+      "title": "Switchfoot Kicks Off ‘Forever Now Tour’ With Sold-Out Shows Across Two Countries and Five Cities",
+      "link": "https://www.jubileecast.com/articles/39651/20260923/switchfoot-forever-now-tour-opening-weekend.htm",
+      "summary": "Switchfoot Kicks Off ‘Forever Now Tour’ With Sold-Out Shows Across Two Countries and Five Cities",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T12:59:16Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31907/switchfoot.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2a5dd32590b518d9",
+      "title": "AGT Season 21 Finale: Who Are the Judges Picking to Win Before Tonight's Results?",
+      "link": "https://www.jubileecast.com/articles/39653/20260923/agt-season-21-finale-judges-picks-winner-2026.htm",
+      "summary": "AGT Season 21 Finale: Who Are the Judges Picking to Win Before Tonight's Results?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T12:59:08Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31188/americas-got-talent.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ec0e8cd81516d078",
+      "title": "Avengers: Endgame Returns to Theaters This Week — With the First Official Look at Doomsday",
+      "link": "https://www.jubileecast.com/articles/39649/20260923/avengers-endgame-encore-doomsday-preview-theaters.htm",
+      "summary": "Avengers: Endgame Returns to Theaters This Week — With the First Official Look at Doomsday",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T12:58:59Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31905/avengers-endgame.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e47e735b8298f48c",
+      "title": "Tucker Carlson Says He’s Not ‘Obsessed with Jews’ in Podcast Episode Where He Mentions Them Almost 300 Times",
+      "link": "https://mycharisma.com/news/tucker-carlson-says-hes-not-obsessed-with-jews-in-podcast-episode-where-he-mentions-them-almost-300-times/",
+      "summary": "Legendary Russian playwright Anton Chekhov is often attributed as one of the first pioneers to offer this piece of cherished advice: “Show, don’t tell.” The meaning is rather self-evident: In plays, a character can proclaim something until they’re blue in the…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T12:53:51Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2aad8e3a255390c6",
+      "title": "Will It Hit California? Hurricane Polo Nearly Set A World Record As It Rapidly Intensified Into An ‘Extremely Dangerous’ Category 5 Storm",
+      "link": "https://mycharisma.com/news/will-it-hit-california-hurricane-polo-nearly-set-a-world-record-as-it-rapidly-intensified-into-an-extremely-dangerous-category-5-storm/",
+      "summary": "Hurricane Polo is an absolutely monstrous storm that everyone that lives in the entire state of California should be closely monitoring right now. On Monday, it was just a tropical storm that very few people had heard about. By Tuesday, it had become the most…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T12:47:28Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5b083205a3737b6b",
+      "title": "Over 100K sign petition asking US to stop UN from adding gender ideology to international law",
+      "link": "https://www.christianpost.com/news/over-100k-sign-petition-asking-us-to-stop-un-gender-ideology-push.html",
+      "summary": "A petition urging top United States diplomats to ensure that a clarification that the term “gender” refers to the two biological sexes is not removed from international law has garnered over 130,000 signatures amid concerns that a pending United Nations…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-23T12:30:43Z",
+      "first_seen": "2026-09-23T13:38:47Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272028_w_550_367.jpg?v=20260923091119",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3485c8ddd5eedfbd",
       "title": "Bishop baptized by Fulton Sheen reflects on his legacy ahead of beatification",
@@ -10770,215 +10973,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31837/mckelvey-and-lowry.jpeg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92c7da97c354ebea",
-      "title": "Crisis worsens for children in Yemen",
-      "link": "https://www.vaticannews.va/en/world/news/2026-09/crisis-worsens-for-children-in-yemen-unicef.html",
-      "summary": "The UN Children's Fund, UNICEF, warns that as fighting continues, children are bearing the brunt of the conflict, and appeals to parties to the conflict to protect civilians, especially children, and not hinder humanitarian access. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T09:09:00Z",
-      "first_seen": "2026-09-17T09:39:31Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/17/04/1789611959576.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fec28fac8da9f077",
-      "title": "10 AI Gospel Songs Shaking Up Christian Music Now",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWFLSzRobm1IWXprdjBNbExueEFNLTFrUEhuZ19KSnhZZHhGWk1Bb0VibXFGRVNHNUx3cjZRLVFfWUFnMjhWUGc5azg2amFQTV9VZXhaMmw4RUx4SjRqYjlxTDJDMU1KX0RpQ1JXemdsb2NmTDg5R3FCQVNlSW5kVlpYTG9sTktCYm1pZlQxZlVzbjJSM25qOW90S3VxdHZ6V1BTMmxtNU4?oc=5",
-      "summary": "10 AI Gospel Songs Shaking Up Christian Music Now JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-17T08:58:00Z",
-      "first_seen": "2026-09-17T09:06:59Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31836/ai-gospel-music.png",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-09-17T21:06:59Z"
-    },
-    {
-      "id": "1c955a78f4989b20",
-      "title": "European Synodality Conference ends: Baptism, listening and leadership on the roadmap",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/european-synodality-conference-baptism-listening-leadership.html",
-      "summary": "The European conference on synodality in Wels, Austria, identifies baptism, listening, relationships and a new culture of leadership as key areas for the Church’s path ahead. At the conclusion of the symposium, conference chair Klara Csiszar proposed the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T08:55:00Z",
-      "first_seen": "2026-09-17T10:39:00Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/15/synode2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "83dff91bafa0aea7",
-      "title": "NBC4 Reporter Eliana Moreno Dies In Fiery Helicopter Crash Less Than One Year After Getting Engaged",
-      "link": "https://www.jubileecast.com/articles/39493/20260917/nbc4-reporter-eliana-moreno-dies-in-fiery-helicopter-crash-less-than-one-year-after-getting-engaged.htm",
-      "summary": "NBC4 Reporter Eliana Moreno Dies In Fiery Helicopter Crash Less Than One Year After Getting Engaged",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T08:17:31Z",
-      "first_seen": "2026-09-17T08:38:15Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31835/eliana-moreno.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7392c0f5427f0580",
-      "title": "Hayden Panettiere’s Rep Disputes Claim That One Fentanyl-Laced Oxycodone Pill Caused Her Death",
-      "link": "https://www.jubileecast.com/articles/39492/20260917/hayden-panettiere-s-rep-disputes-claim-that-one-fentanyl-laced-oxycodone-pill-caused-her-death.htm",
-      "summary": "Hayden Panettiere’s Rep Disputes Claim That One Fentanyl-Laced Oxycodone Pill Caused Her Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T07:23:27Z",
-      "first_seen": "2026-09-17T07:38:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31427/hayden-panettiere.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c7c7c182551006c8",
-      "title": "Merriam-Webster Just Made Rickrolling Official—Here Are The Wildest New Words",
-      "link": "https://www.jubileecast.com/articles/39491/20260917/merriam-webster-just-made-rickrolling-official—here-are-the-wildest-new-words.htm",
-      "summary": "Merriam-Webster Just Made Rickrolling Official—Here Are The Wildest New Words",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T06:05:35Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31834/merriam-webster.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bbaa7593cbf2eee9",
-      "title": "Former Hillsong Pastors Carl And Laura Lentz Turn Their Infidelity Scandal Into A Marriage Book",
-      "link": "https://www.jubileecast.com/articles/39490/20260917/former-hillsong-pastors-carl-and-laura-lentz-turn-their-infidelity-scandal-into-a-marriage-book.htm",
-      "summary": "Carl And Laura Lentz Turn Their Infidelity Scandal Into A Marriage Book",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T06:00:20Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31833/carl-and-laura-lentz.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cbcbbbf065f284d5",
-      "title": "Miley Cyrus Says “Let’s Get Married” As Bass Persuades Arrives Less Than A Year After She Began Making It",
-      "link": "https://www.jubileecast.com/articles/39489/20260917/miley-cyrus-says-let-s-get-married-as-bass-persuades-arrives-less-than-a-year-after-she-began-making-it.htm",
-      "summary": "Miley Cyrus Says “Let’s Get Married” As Bass Persuades Arrives Less Than A Year After She Began Making It",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T05:52:30Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31832/miley-cyrus.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "aa704a01cfe00dc6",
-      "title": "Pastor Burk Parsons’ Suspension Lifted—But PCA Court Says He Harmed Church Members",
-      "link": "https://www.jubileecast.com/articles/39488/20260917/pastor-burk-parsons-suspension-lifted—but-pca-court-says-he-harmed-church-members.htm",
-      "summary": "Pastor Burk Parsons’ Suspension Lifted—But PCA Court Says He Harmed Church Members",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T05:46:58Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31831/burk-parsons.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "620bad0cbc189b60",
-      "title": "“Barely Breathing” Singer Duncan Sheik Hospitalized In Critical But Stable Condition",
-      "link": "https://www.jubileecast.com/articles/39487/20260917/barely-breathing-singer-duncan-sheik-hospitalized-in-critical-but-stable-condition.htm",
-      "summary": "“Barely Breathing” Singer Duncan Sheik Hospitalized In Critical But Stable Condition",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T05:37:50Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31830/duncan-sheik.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e749cccaf31a03c6",
-      "title": "Young Adults Are So Tired the Government Is Now Tracking It",
-      "link": "https://relevantmagazine.com/life5/young-adults-are-so-tired-the-government-is-now-tracking-it/",
-      "summary": "There’s tired, and then there’s the kind of tired that gets a federal agency involved. The CDC’s National Center for Health Statistics put out a report this month on how exhausted Americans are, and the short answer is: very. Nearly three in four adults said…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T04:54:29Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/tired.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
