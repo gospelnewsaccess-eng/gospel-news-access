@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:38:24Z",
+  "generated_at": "2026-09-23T03:06:40Z",
   "story_count": 600,
   "with_photo": 459,
   "items": [
@@ -5158,6 +5158,22 @@
       "category": "artist",
       "published": "2026-09-20T05:28:49Z",
       "first_seen": "2026-09-21T16:07:21Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e19439b79821d406",
+      "title": "CeCe Winans",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTnMwMnpKZ0Yyb1NYRXpPelQ2LWRoY2NseWUtZ0RpdWMzSEVaeGNJVUlEOXdWRS1QNGVtU2dRa3dnY08tSk5RdXVVcEZKMjNrN1FfRmozWGxxc2Jm?oc=5",
+      "summary": "CeCe Winans Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-20T05:00:00Z",
+      "first_seen": "2026-09-23T03:06:40Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10961,22 +10977,6 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271941_w_550_367_867_379.jpg?v=20260916161232",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "95a95b76302103ed",
-      "title": "A Man Cave a Pastor and a Whole Lot of Hope",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IcS1hQ0UySzhDakNzcXdhRVdxWG1rUEZORmd4bHRDNFZpS2xBTTRheEZ5WElwMWtLRGlfcmZHN1B0a3M5blNnMFNvcGxLaWprb0E1Y3lvd1lhZVBkZjFZXzRMZktXN0puMTVSWGR2TTQ3WVFVUl9xYzFWMA?oc=5",
-      "summary": "A Man Cave a Pastor and a Whole Lot of Hope lasentinel.net",
-      "outlet": "lasentinel.net",
-      "outlet_url": "https://lasentinel.net",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-16T20:11:27Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
