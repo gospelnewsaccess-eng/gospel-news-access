@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-23T13:38:47Z",
+  "generated_at": "2026-09-23T14:07:31Z",
   "story_count": 600,
-  "with_photo": 458,
+  "with_photo": 456,
   "items": [
+    {
+      "id": "190f7437c71e433b",
+      "title": "Natalie Grant Warns Church To Let AI Serve Worship, Not Direct It",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZll2VkVnRzRZSFZ0Nkh2V0NUd0VRMGl0YTlzX1ZXQ0JVQXlSX1BGaXNWNWc4TENrRGRiM2NKcFhfcTRaLXdMUDNjdWZsMGxNSHo4bWxuSlByTzM4b0VUUjhnSmdQeFdkMFJLZzZNeXpaTUxpVVIzSXkzWlBWTGxLTGwxb1U0OURZUDk5QTdYR2kzRlEzelJHSk1ObVE0QVhBeklsa050Yy1VbEhzUVV3?oc=5",
+      "summary": "Natalie Grant Warns Church To Let AI Serve Worship, Not Direct It Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-23T13:52:30Z",
+      "first_seen": "2026-09-23T14:07:31Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T02:07:31Z"
+    },
     {
       "id": "db4ccbe2c57670ba",
       "title": "Historic Macedonia Baptist Church earns place on N.J. Black Heritage Trail",
@@ -203,6 +219,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272028_w_550_367.jpg?v=20260923091119",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f8c36d4743570c66",
+      "title": "Talarico works to reach Black voters in his bid to win a US Senate seat as a Democrat in Texas",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1Vnc0sxWmdpRVM4Z1pvc3U0QlBFSTdIaGhzUDhTbjJNOWo1NTRiTHdDR2NaTGJHLXVDRDdGR0VJQVh3dHpYeExVQ21HNFJIWVFheVduREVTZGo5VUN0a2FiZldtTEFiSGRpNDBuTjFWUTBfNVNPZlFtNU5pODJXNmh4VFcxdF9jT3pvSXhINkJFcFNKT3cyb9IBngFBVV95cUxQaTczUDZidGRhV3pjMXZ0Z28zcHFOTG9aakhfd2dLYkZWbGxpT0NQV2R6aUlKTkhoRFVHc0lIZHE3Wlc5SV9ocExhWVpqNDVpWkQ1OXp6RUtuS0QweFZNaTFvREFSeDNWMlR6bG10WlJ6TFN3T3NBX0UxaGd3WGZ0cEV1dlA3NGczaHBCVVdFeE5WMTkxeW91Q3ZEalZyUQ?oc=5",
+      "summary": "Talarico works to reach Black voters in his bid to win a US Senate seat as a Democrat in Texas abcnews.com",
+      "outlet": "abcnews.com",
+      "outlet_url": "https://abcnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-23T12:03:07Z",
+      "first_seen": "2026-09-23T14:07:31Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10936,44 +10968,6 @@
       "published": "2026-09-17T10:00:00Z",
       "first_seen": "2026-09-17T11:37:47Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "73dfb8c9577f5eea",
-      "title": "Roger Waters, Massive Attack And Garbage Turn On Ed Sheeran As Macklemore Tour Scandal Explodes",
-      "link": "https://www.jubileecast.com/articles/39496/20260917/roger-waters-massive-attack-and-garbage-turn-on-ed-sheeran-as-macklemore-tour-scandal-explodes.htm",
-      "summary": "Roger Waters, Massive Attack And Garbage Turn On Ed Sheeran As Macklemore Tour Scandal Explodes",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T09:33:11Z",
-      "first_seen": "2026-09-17T09:39:31Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31812/ed-sheeran.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d3d0aefa2c7dcaef",
-      "title": "Exclusive Interview: Douglas Kaine McKelvey And Jon Lowry Create Prayer Songs For Those Facing Death And Grief",
-      "link": "https://www.jubileecast.com/articles/39495/20260917/exclusive-interview-douglas-kaine-mckelvey-and-jon-lowry-create-prayer-songs-for-those-facing-death-and-grief.htm",
-      "summary": "Douglas Kaine McKelvey And Jon Lowry Create Prayer Songs For Those Facing Death And Grief",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T09:22:00Z",
-      "first_seen": "2026-09-17T09:39:31Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31837/mckelvey-and-lowry.jpeg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
