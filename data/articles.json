@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-23T00:09:05Z",
+  "generated_at": "2026-09-23T00:41:16Z",
   "story_count": 600,
   "with_photo": 458,
   "items": [
+    {
+      "id": "eac642969a2c2263",
+      "title": "\"The Odyssey\" Heads Into the 2027 Oscar Race With a Two-Pronged Attack: Here's the Plan",
+      "link": "https://www.jubileecast.com/articles/39641/20260922/the-odyssey-oscar-2027-matt-damon-anne-hathaway.htm",
+      "summary": "\"The Odyssey\" Heads Into the 2027 Oscar Race With a Two-Pronged Attack: Here's the Plan",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T00:40:22Z",
+      "first_seen": "2026-09-23T00:41:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31059/the-odyssey.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "63d30d9bb601a190",
+      "title": "Ella Langley's \"Choosin' Texas\" Just Broke Mariah Carey's All-Time Billboard Record",
+      "link": "https://www.jubileecast.com/articles/39640/20260922/ella-langley-choosin-texas-breaks-billboard-record.htm",
+      "summary": "Ella Langley's \"Choosin' Texas\" Just Broke Mariah Carey's All-Time Billboard Record",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T00:12:11Z",
+      "first_seen": "2026-09-23T00:41:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30558/ella-langley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "afd48136b291df6d",
+      "title": "Princess Kate Just Revived a 103-Year-Old Royal Jewel at Tom Cruise's Movie Premiere",
+      "link": "https://www.jubileecast.com/articles/39639/20260922/kate-middleton-amethyst-necklace-digger-premiere.htm",
+      "summary": "Princess Kate Just Revived a 103-Year-Old Royal Jewel at Tom Cruise's Movie Premiere",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T00:05:20Z",
+      "first_seen": "2026-09-23T00:41:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31899/kate-middleton-and-prince-william.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8f579683116cc5cf",
+      "title": "Simone Biles Reveals Masked Men Broke Into Her Chicago Home: Here's What They Stole",
+      "link": "https://www.jubileecast.com/articles/39638/20260922/simone-biles-chicago-home-robbery-porsche-stolen.htm",
+      "summary": "Simone Biles Reveals Masked Men Broke Into Her Chicago Home: Here's What They Stole",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-22T23:43:18Z",
+      "first_seen": "2026-09-23T00:41:16Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31897/simon-biles.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "698613a310ee9e5d",
+      "title": "Priest’s murder in Mexico may be warning to sow fear, priest says",
+      "link": "https://www.ewtnnews.com/world/americas/priest-s-murder-in-mexico-may-be-warning-to-sow-fear-priest-says",
+      "summary": "The Sept. 15 murder of Father Román de la Cruz Hernández was likely perpetrated by organized crime and is not an isolated incident but forms part of a pattern of fear and intimidation.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-22T23:20:44Z",
+      "first_seen": "2026-09-23T00:41:16Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790112931/ewtn-news/en/Misa-Padre-Roman-220926_ci13n3_umsw9c.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5ee9cdccfc6a6afa",
       "title": "THE EVANGELICAL FILES: Daniel Whyte III Applauds Temporary Victory for Cindy Clemishire, but Still Questions Father’s Oversight in the Robert Morris Child Rape Case",
@@ -507,6 +602,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272012_w_550_367_600_402.jpg?v=20260922142309",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3ffdf1e31def8824",
+      "title": "Levitt AMP Selma presents Gospel Fest - The Selma Times-Journal",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcG1uOGJ4U2VnNUo1bkRWQlM5QTdlc0pseExMQXJEUm4td0dkY3gwSEZmNnFlTGxlYU9hUnpPWHBIcldOWHdhanV3SE94eDhQQ0U5bW9PcXRWeFNXQ1FlZ1lncmRzWUs3bXFxWlpQMFJnNzhKUmZNQXU3VEhpOU9PN1RMb1FGTEdHV2xIRnp3?oc=5",
+      "summary": "Levitt AMP Selma presents Gospel Fest The Selma Times-Journal",
+      "outlet": "The Selma Times-Journal",
+      "outlet_url": "https://www.selmatimesjournal.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-22T18:20:26Z",
+      "first_seen": "2026-09-23T00:41:16Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10862,117 +10973,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271939_w_550_367_413_280.jpg?v=20260916150838",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "187670e2dbd7b4a4",
-      "title": "Bishop Robert Barron named to serve on U.S. Commission on International Religious Freedom",
-      "link": "https://www.ewtnnews.com/world/us/bishop-robert-barron-named-to-serve-on-u-s-commission-on-international-religious-freedom",
-      "summary": "Barron, who already serves as a member of the domestically focused Religious Liberty Commission, was appointed to the position by President Donald Trump.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T19:03:42Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1779465738/ewtn-news/en/BishopBarronInterview2_tprk1d.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6029de4943924be9",
-      "title": "Gateway founder Robert Morris suffers fall as Cindy Clemishire prepares to fight lawsuit dismissal",
-      "link": "https://www.christianpost.com/news/gateway-founder-robert-morris-suffers-fall.html",
-      "summary": "A photo of disgraced Gateway Church founder Robert Morris on The Texas Public Sex Offender Website showing him with a black eye and split lip is the result of a recent fall that sent him to the emergency room with three broken bones in his face, according to…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T18:52:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271940_w_550_365.jpg?v=20260916145403",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9cecce8c6180b7bb",
-      "title": "Gospel Music Association Announces Second Round of Performers and Presenters for the 57th Annual GMA Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaDNWdmJsNTFJQWNzbU42Ym1nOE1hUzNFUFJXTXRYb2ZGZTFYZlhiX2RxRHVXakVBWk1haUROREVZX1p2TDJVejJxdDFFcnlMUDllVWpCVUpGSUlTYVlVaHI4UHRBOWhHU2QxRFV4ZUtXWk1kOU5SZkE2N05JZWJnTEdNUHdnSGxlbTI5dUZKOHAxem9GVndlLXdGb0M2ZGx0elFBTmlqQ3Bxa1RmYkFtQmlLRWlmZ2NpNHNxMkF6NDlhR0UwYzI2Q2oyNHctb0hwR19sTE1wNGo?oc=5",
-      "summary": "Gospel Music Association Announces Second Round of Performers and Presenters for the 57th Annual GMA Dove Awards Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-16T18:49:45Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "857bbbec2d4c273e",
-      "title": "U.S. bishops launch task force to promote human dignity amid rise of artificial intelligence",
-      "link": "https://www.ewtnnews.com/world/us/u-s-bishops-launch-task-force-to-protect-human-dignity-amid-rise-of-artificial-intelligence",
-      "summary": "The bishops said they are hoping to contribute to the “moral foundation” of rapidly developing AI models.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T18:42:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1777913124/shutterstock_2729472577_mfwvy9.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ca1c0351128adeeb",
-      "title": "‘Duct-Taped Man’ Arthur Lundeen Breaks Silence After Jonathan Cahn Flight 618 Attack",
-      "link": "https://mycharisma.com/news/duct-taped-man-arthur-lundeen-breaks-silence-after-jonathan-cahn-flight-618-attack/",
-      "summary": "The man who had to be duct-taped to his seat after the now-infamous attack aboard American Airlines Flight 618 is finally speaking out—and what he says he remembers may be just as startling as what happened at 30,000 feet. Nothing. According to the New York…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T18:35:28Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8c2b7163bc96d966",
-      "title": "Abdul El-Sayed’s 2007 Protest Against Christian Converts’ Campus Talk Resurfaces in Senate Race",
-      "link": "https://mycharisma.com/news/abdul-el-sayeds-2007-protest-against-christian-converts-campus-talk-resurfaces-in-senate-race/",
-      "summary": "Three men who said they had left radical Islamic movements and converted to Christianity spoke at the University of Michigan in 2007. Abdul El-Sayed, now Michigan’s Democratic nominee for U.S. Senate, helped protest their appearance and praised students who…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T18:25:13Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
