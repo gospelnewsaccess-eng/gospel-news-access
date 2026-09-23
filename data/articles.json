@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-23T09:06:46Z",
+  "generated_at": "2026-09-23T09:39:05Z",
   "story_count": 600,
   "with_photo": 457,
   "items": [
+    {
+      "id": "4bf004102f93250d",
+      "title": "Carrot Top Hospitalized After Reported Prescription Pill Overdose: What Do We Know About His Recovery?",
+      "link": "https://www.jubileecast.com/articles/39652/20260923/carrot-top-hospitalized-after-reported-prescription-pill-overdose-what-do-we-know-about-his-recovery.htm",
+      "summary": "Carrot Top Hospitalized After Reported Prescription Pill Overdose: What Do We Know About His Recovery?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T09:13:13Z",
+      "first_seen": "2026-09-23T09:39:05Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c51d736f2c2b5594",
       "title": "Pope: Progress is truly human if it makes the world better for everyone",
@@ -10950,25 +10969,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28612/charlie-kirk.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "341906e15f7e226a",
-      "title": "Dolly Parton Tribute Concert Set For Live ABC Broadcast—But The Star-Studded Lineup Remains A Secret",
-      "link": "https://www.jubileecast.com/articles/39480/20260916/dolly-parton-tribute-concert-set-for-live-abc-broadcast—but-the-star-studded-lineup-remains-a-secret.htm",
-      "summary": "Dolly Parton Tribute Concert Set For Live ABC Broadcast—But The Star-Studded Lineup Remains A Secret",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T21:37:30Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31732/dolly-parton.jpeg",
         "via": "media:content"
       },
       "breaking": false,
