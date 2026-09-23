@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-23T20:37:38Z",
+  "generated_at": "2026-09-23T21:07:07Z",
   "story_count": 600,
   "with_photo": 460,
   "items": [
+    {
+      "id": "56640a55ff8bcb2c",
+      "title": "#TSRReactionz: “For those of you that think gospel music has gone too far,” #KirkFranklin has done it again! The icon has the innanet weighing in on his upcoming song featuring #GloRilla “This Time.” The song samples the late Shawty Lo’s hit “Dey Know.” #",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWkdVY1ZfNUJBVjdRTEkyb0xocmZGMXZ5dEl4bFlqcHBDOHJoS0hFLW4yLXZwa0hvV3hGWExxemlrNHNuR0FMaGdoZE1xeE5Xb2c?oc=5",
+      "summary": "#TSRReactionz: “For those of you that think gospel music has gone too far,” #KirkFranklin has done it again! The icon has the innanet weighing in on his upcoming song featuring #GloRilla “This Time.” The song samples the late Shawty Lo’s hit “Dey Know.” #…",
+      "outlet": "instagram.com",
+      "outlet_url": "https://www.instagram.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-23T21:02:03Z",
+      "first_seen": "2026-09-23T21:07:07Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T09:07:07Z"
+    },
     {
       "id": "107d15b268b34592",
       "title": "Earnest Pugh Scores His Seventh No. 1 Gospel Radio Hit—What Keeps His Worship Songs Connecting?",
@@ -1203,6 +1219,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272017_w_550_319.jpg?v=20260923092354",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a24aff25dec37ab8",
+      "title": "New Black Heritage Trail Marker Honors Macedonia Baptist Church’s Enduring Legacy in Cape May",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3J5eHVjLXM2TjIybDBSYkFnRzBCLU1aVnB2NVExVHdwaXBOYlVLTml2aWEtTV81T3FsVVJYd2wyR3FDb3JGdFJzZmVDZkljUkwxODc4ajNkdjZfc3hIQ2JPczJlNHZoWUY3bFA4VVRPclZfeTltYjNWWk5VZVZwOHVIQUNnclhiemVkZGp3VXc5ZDZQV1VaaHFuSWM0cl9jOVB6ZHUtdE5XZDhVQ3JKZklraHdCNzNtWVRyRGU5UTJxQWdjZ0V0ajJQSnlWSlJyUnVJ?oc=5",
+      "summary": "New Black Heritage Trail Marker Honors Macedonia Baptist Church’s Enduring Legacy in Cape May Front Runner New Jersey",
+      "outlet": "Front Runner New Jersey",
+      "outlet_url": "https://frontrunnernewjersey.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-23T11:23:58Z",
+      "first_seen": "2026-09-23T21:07:07Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10947,38 +10979,6 @@
       "category": "christian-music",
       "published": "2026-09-17T17:30:18Z",
       "first_seen": "2026-09-17T19:36:57Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4d990e7bfa9a0776",
-      "title": "16th Street Baptist Church marks bombing anniversary with a new visitor center",
-      "link": "https://religionnews.com/2026/09/17/16th-street-baptist-church-marks-bombing-anniversary-with-a-new-visitor-center/",
-      "summary": "BIRMINGHAM, Ala. (AP) — The church marked the anniversary with the opening of a new visitors center that leaders said is aimed at educating people about one of the most horrific events of the Civil Rights Movement and urging a recommitment to continue the…",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T17:29:36Z",
-      "first_seen": "2026-09-17T17:36:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b39b709757476651",
-      "title": "Ed Sheeran’s tour in trouble after opening acts drop out in solidarity with rapper Macklemore",
-      "link": "https://religionnews.com/2026/09/17/ed-sheerans-tour-in-trouble-after-opening-acts-drop-out-in-solidarity-with-rapper-macklemore/",
-      "summary": "NEW YORK (AP) — The moves by his fellow artists put enormous pressure on Sheeran, who has tried to avoid politics and taking a side in the Gaza conflict, arguing that his fans don't come to his shows to hear politics.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T17:24:22Z",
-      "first_seen": "2026-09-17T17:36:50Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
