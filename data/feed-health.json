@@ -82,12 +82,11 @@
     },
     "Google News: Fred Hammond": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T14:41:18Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "no <item> or <entry> elements found"
+      "last_checked": "2026-09-23T15:06:39Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Tamela Mann": {
       "consecutive_zero": 0,
@@ -309,7 +308,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T14:10:34Z",
+      "last_checked": "2026-09-23T15:06:52Z",
       "last_item_count": 50,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -342,7 +341,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T14:10:42Z",
+      "last_checked": "2026-09-23T15:06:57Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -381,6 +380,6 @@
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-23T14:39:49Z",
+  "updated_at": "2026-09-23T15:06:38Z",
   "flagged_feeds": []
 }
