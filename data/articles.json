@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-23T06:09:15Z",
+  "generated_at": "2026-09-23T06:42:04Z",
   "story_count": 600,
-  "with_photo": 459,
+  "with_photo": 458,
   "items": [
+    {
+      "id": "c583d787a9226d5e",
+      "title": "Tim Keller’s Son Finished the Book They Began Together. What Was His Father’s Final Request?",
+      "link": "https://www.jubileecast.com/articles/39647/20260923/tim-keller-s-son-finished-the-book-they-began-together-what-was-his-father-s-final-request.htm",
+      "summary": "Tim Keller’s Son Finished the Book They Began Together. What Was His Father’s Final Request?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T06:02:00Z",
+      "first_seen": "2026-09-23T06:42:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/19316/tim-keller.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2fbda06099bd2f40",
+      "title": "Album Review: Chris Tomlin’s \"Still Waters\" Finds Room for Worship in the Quiet",
+      "link": "https://www.jubileecast.com/articles/39646/20260923/album-review-chris-tomlin-s-still-waters-finds-room-for-worship-in-the-quiet.htm",
+      "summary": "Chris Tomlin’s Still Waters Finds Room for Worship in the Quiet",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T05:54:19Z",
+      "first_seen": "2026-09-23T06:42:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31903/chris-tomlin.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d21fb542c171ab9b",
+      "title": "Dolly Parton’s Manager Seeks Restraining Order Against Her Nephew: What Sparked the Family Rift?",
+      "link": "https://www.jubileecast.com/articles/39645/20260923/dolly-parton-s-manager-seeks-restraining-order-against-her-nephew-what-sparked-the-family-rift.htm",
+      "summary": "Dolly Parton’s Manager Seeks Restraining Order Against Her Nephew: What Sparked the Family Rift?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-23T05:47:19Z",
+      "first_seen": "2026-09-23T06:42:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31566/dolly-parton.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ff7e794bded65fb0",
       "title": "Kevin Downswell leads Sterling Gospel Music Awards noms",
@@ -449,6 +506,22 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-23T08:06:41Z"
+    },
+    {
+      "id": "fc66f6b355862b63",
+      "title": "‘I Saw My Job as a Holy Task’",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50Rll5dDRqT0xTLWhkaHRLdjl6dnhDcGpDNU10WE1IREZuM1dGWVVpRkhWX0hHek15LWV4VDdmLUc1MS1mTkhrNHp5Rm1lZ2Rlc1FkdU5GSFdLYzFQek41V2pOdFVZWDk2RENXMzN3b2ZRTG5NYzNFQ3RWYw?oc=5",
+      "summary": "‘I Saw My Job as a Holy Task’ The Living Church",
+      "outlet": "The Living Church",
+      "outlet_url": "https://livingchurch.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-22T20:00:33Z",
+      "first_seen": "2026-09-23T06:42:04Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "b6274a0ad5c7129a",
@@ -10899,82 +10972,6 @@
       "first_seen": "2026-09-17T06:30:46Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31224/spiderman-brand-new-day.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f9eda896d6d61210",
-      "title": "Travis Kelce Named As Victim In Shocking $35 Million Ponzi Scheme As Fraudster Receives 11-Year Sentence",
-      "link": "https://www.jubileecast.com/articles/39477/20260916/travis-kelce-named-as-victim-in-shocking-35-million-ponzi-scheme-as-fraudster-receives-11-year-sentence.htm",
-      "summary": "Travis Kelce Named As Victim In Shocking $35 Million Ponzi Scheme As Fraudster Receives 11-Year Sentence",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T20:57:56Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31306/travis-kelce.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1cc273c0e03b7d09",
-      "title": "Sherwin Gardner’s “Big Day” Explodes In Brazil After “Blessings Find Me” Becomes A Two-Billion-View TikTok Hit",
-      "link": "https://www.jubileecast.com/articles/39476/20260916/sherwin-gardner-s-big-day-explodes-in-brazil-after-blessings-find-me-becomes-a-two-billion-view-tiktok-hit.htm",
-      "summary": "Sherwin Gardner’s “Big Day” Explodes In Brazil After “Blessings Find Me” Becomes A Two-Billion-View TikTok Hit",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-16T20:53:45Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26683/sherwin-gardner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "42cb0c51b789a291",
-      "title": "Venezuela: Talks with opposition, oil deal, Delcy Rodríguez in New York, and the Church’s stance",
-      "link": "https://www.ewtnnews.com/world/americas/venezuela-talks-with-opposition-oil-deal-delcy-rodriguez-in-new-york-and-the-church-s-stance",
-      "summary": "Ongoing talks between the socialist regime and the opposition in Venezuela are making some progress while the Church is trying to contribute to the transition to democracy and freedom.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-16T20:52:02Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789585315/ewtn-news/en/Rodriguez-Figuera-Dialogo_rsaovy_sreywu.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6a228c0999748e8f",
-      "title": "GMA Dove Awards Adds Star-Studded Richard Smallwood Tribute With Kierra Sheard, Jonathan McReynolds And Donald Lawrence",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZ1pIbU5rS0JEc05meGRnV19PZmg2RGptVE1TRmgwbnpBQkNwS0IteFJaWl9SSVdKNGQ0ekxoN1lUcU9CWF9mTW96RE94bXRsOWZsYmtSR2MxV0FyNmlTRjdrMUR3WE1lTlNQUFJ6UGlGMmdMYm50dGhJd3lHbU12eUpaQkRiVWt0VjAwdmZUeDJfMWFDaFVPbk1DdDFOSXdhWkx0bkRrOVRZQXlGVWtkejNQUmF5ZmlqSmtOU2ZUaHVVSzNUNklTRXlrUHpVV09iSzBNTnBWWHhRdHJxektBSC1kcXZSYzBjdDNwd1RTbmZaNlhYeFRsb290UFZ2OVJKOWtXTA?oc=5",
-      "summary": "GMA Dove Awards Adds Star-Studded Richard Smallwood Tribute With Kierra Sheard, Jonathan McReynolds And Donald Lawrence JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Donald Lawrence",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-16T20:49:00Z",
-      "first_seen": "2026-09-17T06:30:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28174/richard-smallwood.jpg",
         "via": "media:content"
       },
       "breaking": false,
