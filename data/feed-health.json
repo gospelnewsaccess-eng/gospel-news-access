@@ -26,21 +26,19 @@
     },
     "Google News: Christian music": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T08:40:05Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "no <item> or <entry> elements found"
+      "last_checked": "2026-09-23T09:06:47Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: gospel artist": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-23T08:40:09Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "no <item> or <entry> elements found"
+      "last_checked": "2026-09-23T09:06:54Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Kirk Franklin": {
       "consecutive_zero": 0,
@@ -382,6 +380,6 @@
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-23T08:39:41Z",
+  "updated_at": "2026-09-23T09:06:46Z",
   "flagged_feeds": []
 }
