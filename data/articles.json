@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-23T04:06:55Z",
+  "generated_at": "2026-09-23T04:39:07Z",
   "story_count": 600,
-  "with_photo": 459,
+  "with_photo": 460,
   "items": [
     {
       "id": "0d3f077a5b831ee7",
@@ -1944,7 +1944,10 @@
       "category": "gospel-trade",
       "published": "2026-09-22T09:46:54Z",
       "first_seen": "2026-09-23T02:38:24Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/02/27164131/RX-OCt.-18-fan-pics-2.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
