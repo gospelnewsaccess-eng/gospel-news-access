@@ -5,4 +5,12 @@
      deliberately never listed here. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+  <url><loc>https://gospelnewsaccess-eng.github.io/gospel-news-access/story/stellar-awards-41-syndication-dove-awards-october.html</loc>
+    <news:news><news:publication><news:name>Gospel News Access</news:name><news:language>en</news:language></news:publication>
+    <news:publication_date>2026-09-23T03:35:00Z</news:publication_date>
+    <news:title>The 41st Stellar Awards are still airing across the country, and the Doves are two weeks out</news:title></news:news></url>
+  <url><loc>https://gospelnewsaccess-eng.github.io/gospel-news-access/story/yom-kippur-2026-day-of-atonement.html</loc>
+    <news:news><news:publication><news:name>Gospel News Access</news:name><news:language>en</news:language></news:publication>
+    <news:publication_date>2026-09-23T03:30:00Z</news:publication_date>
+    <news:title>Yom Kippur 2026 ended Monday night, closing the Ten Days of Repentance</news:title></news:news></url>
 </urlset>

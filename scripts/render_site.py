@@ -322,6 +322,19 @@ def render_index() -> None:
 
     html.append('<div class="frontsplit"><div>')
     html.append(hero_html)
+
+    # OUR OWN REPORTING GOES ABOVE THE WIRE.
+    # Everything below this block was written by somebody else and is credited
+    # to them. This block is the only part of the front page that Gospel News
+    # Access wrote, so it leads the aggregated headlines rather than following
+    # them. Empty until data/originals.json holds a published story, and an
+    # empty list renders nothing at all — no heading over a void.
+    ours = originals()
+    if ours:
+        html.append(L.srule("Our Reporting", "news.html", "All our reporting"))
+        html.append('<div class="grid">%s</div>'
+                    % "".join(L.original_card(a, 0, now) for a in ours[:4]))
+
     if grid_html:
         html.append(L.srule("The Wire", "news.html", "Full wire"))
         html.append(grid_html)
@@ -364,6 +377,15 @@ def render_news() -> None:
         '<main id="main" class="wrap">',
         '<h1 class="prose" style="font-family:var(--serif);font-size:34px;margin:22px 0 4px">The Wire</h1>',
     ]
+
+    # Our own reporting, first and separated. A reader must never have to guess
+    # which stories on this page we wrote and which we are pointing at.
+    ours = originals()
+    if ours:
+        html.append(L.srule("Our Reporting"))
+        html.append('<div class="grid">%s</div>'
+                    % "".join(L.original_card(a, 0, now) for a in ours[:12]))
+
     if items:
         newest = g.parse_dt(items[0]["published"]) or now
         html.append('<p class="dateline">%d stories &middot; newest %s &middot; '

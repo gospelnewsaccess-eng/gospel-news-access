@@ -245,6 +245,28 @@ def card(story: dict, now=None) -> str:
 """
 
 
+def original_card(article: dict, depth: int = 0, now=None) -> str:
+    """
+    One piece of OUR OWN reporting on a grid.
+
+    Deliberately not the same as card(): a wire card links out to the
+    publisher that wrote the story and opens in a new tab. This links inward,
+    in the same tab, and the byline says Gospel News Access rather than a
+    third-party outlet. Originals carry no image unless we hold a licence for
+    one, so this always renders text-forward.
+    """
+    now = now or g.now_utc()
+    published = g.parse_dt(article["published"]) or now
+    link = rel(depth, "story/%s.html" % article["slug"])
+    dek = ('<p class="card__dek">%s</p>' % g.esc(article["standfirst"])) if article.get("standfirst") else ""
+    return f"""<article class="card card--text">
+  <h3 class="card__hd"><a href="{g.esc(link)}">{g.esc(article['title'])}</a></h3>
+  {dek}
+  <p class="byline"><span class="byline__src">Gospel News Access</span><span class="byline__dot">&bull;</span><time datetime="{g.esc(article['published'])}">{g.esc(g.human_age(published, now))}</time></p>
+</article>
+"""
+
+
 def hero(story: dict, now=None) -> str:
     now = now or g.now_utc()
     img = story.get("image")
