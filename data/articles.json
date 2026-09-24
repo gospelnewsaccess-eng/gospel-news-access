@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T16:39:03Z",
+  "generated_at": "2026-09-24T17:06:19Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 467,
   "items": [
     {
       "id": "b4548ba6141780f0",
@@ -1337,7 +1337,10 @@
       "category": "gospel-trade",
       "published": "2026-09-24T01:55:08Z",
       "first_seen": "2026-09-24T02:38:51Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/marriageintimacy.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -1569,7 +1572,10 @@
       "category": "gospel-trade",
       "published": "2026-09-23T21:06:59Z",
       "first_seen": "2026-09-23T21:37:06Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/cover-daniqua-grace-bk1.webp",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
