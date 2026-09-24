@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-24T13:08:03Z",
+  "generated_at": "2026-09-24T13:40:13Z",
   "story_count": 600,
   "with_photo": 464,
   "items": [
+    {
+      "id": "a725815dad4fa92c",
+      "title": "Sukkot reminds us we can be vulnerable without falling",
+      "link": "https://religionnews.com/2026/09/24/sukkot-reminds-us-we-can-be-vulnerable-without-falling/",
+      "summary": "(RNS) — With temperatures dropping and winter’s dark not far away, our sukkah-dwelling is a quiet but powerful statement.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T13:32:31Z",
+      "first_seen": "2026-09-24T13:40:13Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2023/10/webRNS-Photos-Week05-100623.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "574aa107b337165a",
+      "title": "Pope Leo XIV appoints Romanian diplomat as his representative to Council of Europe",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appoints-romanian-diplomat-as-his-representative-to-council-of-europe",
+      "summary": "On a 2014 visit to the intergovernmental organization, Pope Francis appealed for the humane treatment of migrants.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T13:09:09Z",
+      "first_seen": "2026-09-24T13:40:13Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745615948/images/size680/The_European_Parliament_building_in_Strasbourg_France_on_Nov_25_2014_Credit_Alan_Holdren_CNA_CNA_11_25_14.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b9308d341552154a",
+      "title": "Nuncio to France: ‘Pope Leo’s visit to deliver message of peace to a hesitant Europe'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/interview-apostolic-nuncio-to-france-pope-leo-apostolic-journey.html",
+      "summary": "In an interview with Vatican Media ahead of Pope Leo’s Apostolic Journey to France, the Apostolic Nuncio to France, Archbishop Celestino Migliore, says that the Holy Father’s visit will further the rediscovery of Christianity and interest in Jesus Christ in…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T13:00:00Z",
+      "first_seen": "2026-09-24T13:40:13Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/08/22/20/1787423121106.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d180befd352608fe",
+      "title": "Jewish Life in Germany ‘No Longer Safe,’ Chancellor Warns as Far-Left Wins ‘Election Intifada’ in Berlin",
+      "link": "https://mycharisma.com/news/jewish-life-in-germany-no-longer-safe-chancellor-warns-as-far-left-wins-election-intifada-in-berlin/",
+      "summary": "With Jewish life under fire across the world, two consecutive state election victories by Germany’s far-right Alternative für Deutschland (AfD) have justifiably drawn attention. However, the most serious harm to Jewish life in Germany could well come from…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T12:51:01Z",
+      "first_seen": "2026-09-24T13:40:13Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ec110711c2d59296",
       "title": "Criminal Investigation Underway After Family Says Christian Grandmother Euthanized Without Consent",
@@ -10918,82 +10994,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T21:38:01Z"
-    },
-    {
-      "id": "14c7f8d1abedef73",
-      "title": "Pope encourages Leo XIV Study Center to help build a civilization of love",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-international-study-centre-civilization-of-love.html",
-      "summary": "Pope Leo XIV welcomed members of an international study center that bears his name to the Vatican on Friday, encouraging them to take inspiration from authentic humanism and the Church’s social doctrine to contribute to building a civilization of love. Read…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T08:49:00Z",
-      "first_seen": "2026-09-18T09:38:01Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/18/2026-09-18-partecipanti-all-incontro-promosso-dal-centro-studi-i/1789717496778.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "57f5f2b944b9d3d5",
-      "title": "Green Lava: A young man’s story on the road to the Oscars",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/green-lava-giacomo-mattivi-story-on-the-road-to-the-oscars.html",
-      "summary": "The documentary short, made in collaboration with the Vatican, will be screened in Beverly Hills from September 18, beginning its qualification journey for the Academy Awards. Its protagonist Giacomo Mattivi tells Vatican media: “The message will reach as…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T08:08:00Z",
-      "first_seen": "2026-09-18T09:38:01Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/17/green-lava-premiere-image-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e79df75a9b901875",
-      "title": "Album Review: Franni Cash Finds Her Voice After Church Hurt On \"Here I Am\"",
-      "link": "https://www.jubileecast.com/articles/39522/20260918/franni-cash-finds-her-voice-after-church-hurt-on-here-i-am.htm",
-      "summary": "Franni Cash Finds Her Voice After Church Hurt On \"Here I Am\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T07:51:13Z",
-      "first_seen": "2026-09-18T08:38:59Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30893/franni-cash.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8a2c85ff89975739",
-      "title": "Caleb Flynn Praised His Wife On American Idol—Now His Daughters And Alleged Mistress May Testify At His Murder Trial",
-      "link": "https://www.jubileecast.com/articles/39521/20260918/caleb-flynn-praised-his-wife-on-american-idol—now-his-daughters-and-alleged-mistress-may-testify-at-his-murder-trial.htm",
-      "summary": "Caleb Flynn Praised His Wife On American Idol—Now His Daughters And Alleged Mistress May Testify At His Murder Trial",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T07:49:31Z",
-      "first_seen": "2026-09-18T08:38:59Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
