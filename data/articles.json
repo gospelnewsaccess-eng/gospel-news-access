@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-09-24T21:06:51Z",
+  "generated_at": "2026-09-24T21:36:39Z",
   "story_count": 600,
-  "with_photo": 471,
+  "with_photo": 469,
   "items": [
+    {
+      "id": "a209205c91488600",
+      "title": "DOJ asks appeals court to allow churches to endorse political candidates",
+      "link": "https://religionnews.com/2026/09/24/doj-asks-the-appeals-court-to-allow-churches-to-endorse-candidates/",
+      "summary": "(RNS) — Trump administration lawyers have argued a key component of the Johnson Amendment, which bars nonprofits from taking part in political campaigns, should not apply to churches. They've asked an appeals court to overturn a lower court decision…",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T21:32:24Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/webRNS-Campaign-Signs1.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cfdf832b9e912e8a",
+      "title": "A Christian Dating App Just Added a ‘Chivalry Mode’",
+      "link": "https://relevantmagazine.com/life5/relationships/a-christian-dating-app-just-added-a-chivalry-mode/",
+      "summary": "Most dating apps are built around keeping things casual. Upward, a Christian dating app, just relaunched around the opposite idea, and it gave that idea a setting. It’s called Chivalry Mode. When both people opt in, he’s encouraged to send the first message…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T21:23:50Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "347bef56ccca2970",
+      "title": "Rex Orange County Is Back With a New Album, ‘Dream Fatigue’",
+      "link": "https://relevantmagazine.com/culture/music/rex-orange-county-is-back-with-a-new-album-dream-fatigue/",
+      "summary": "Rex Orange County made his name on songs he wrote alone. The tracks that followed a lot of us through our twenties, “Loving Is Easy” and “Best Friend” among them, sound like one guy figuring things out by himself. His next record has a guest list. The British…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T21:17:49Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "15d46e0779587627",
+      "title": "Gospel icon and civil rights activist Mavis Staples brings message of hope to Poway",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbER3OUU1QkNnbzVRem9VVXpiTy1NdWdsTGhGMFNsclA2Y2JrVmJ5dGVJZ3VVQy1jdDhNR3hia1puQ0hrcVdsX1VKdWdIaV8zT2YyYzZoR0VFS1oxN24tVGczTEVtaHNFczJLNWo1Q1p0SUxoVFIteHpuMzFyNy1VdWJvdmNkNGRPZVBtZEZTTl9sLWxfVnNhZkVqeUVRRTg?oc=5",
+      "summary": "Gospel icon and civil rights activist Mavis Staples brings message of hope to Poway Times of San Diego",
+      "outlet": "Times of San Diego",
+      "outlet_url": "https://timesofsandiego.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-24T21:05:00Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T09:36:39Z"
+    },
+    {
+      "id": "cbcc11ddf97d14ac",
+      "title": "Netanyahu leaves Starlink device for Iranian delegation at UN: ‘Their murderous regime will fall’",
+      "link": "https://www.christianpost.com/news/netanyahu-leaves-starlink-device-for-iranian-delegation-at-un.html",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu brought a Starlink satellite internet device to the United Nations General Assembly on Thursday, using it to criticize the Iranian government’s restrictions on internet access and predict the eventual fall of the…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T20:54:26Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272061_w_550_367_545_316.jpg?v=20260924165641",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cb8b51c97060926b",
+      "title": "Florida Demands School Fire Teacher After She Went After Conservative Student",
+      "link": "https://mycharisma.com/news/florida-demands-school-fire-teacher-after-she-went-after-conservative-student/",
+      "summary": "Florida Attorney General James Uthmeier is calling for Sarasota County Schools to fire a teacher after she allegedly harassed an eighth-grader over his conservative views. Pine View School history teacher Liz Ballard allegedly called the student a…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T20:51:17Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ec3623bba794fb13",
+      "title": "Biblical themes take center stage in new ‘Heart of the Beast’ featurette",
+      "link": "https://www.christianpost.com/news/biblical-themes-take-center-stage-in-heart-of-the-beast.html",
+      "summary": "A new featurette for “Heart of the Beast,” the upcoming survival thriller starring Brad Pitt, highlights the film’s biblical themes of faith, sacrifice, unconditional love and perseverance, drawing parallels between its story and Psalm 23.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T20:37:00Z",
+      "first_seen": "2026-09-24T21:36:39Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272052_w_550_309.jpg?v=20260924163740",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a517b584905d2404",
       "title": "Brad Pitt’s New Survival Thriller Invokes Psalm 23—But How Central Is Faith to \"Heart of the Beast\"?",
@@ -10882,136 +11006,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31830/duncan-sheik.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3aa0b4024b5bb532",
-      "title": "Police charge man for alleged terrorist threats against Archdiocese of St. Louis",
-      "link": "https://www.ewtnnews.com/world/us/man-charged-threats-st-louis",
-      "summary": "“We pray for an end to the hatred and threats of violence that have become so regrettably prevalent on social media,” an archdiocesan spokesperson said.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T20:02:00Z",
-      "first_seen": "2026-09-18T21:06:43Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789760508/ewtn-news/en/BasilicaofStLouis091826_rar4ez.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f70541067ab0fe4d",
-      "title": "Haitian pastor detained by ICE spared deportation at the last minute",
-      "link": "https://www.christianpost.com/news/haitian-pastor-detained-by-ice-spared-deportation-at-last-minute.html",
-      "summary": "A Haitian pastor who was detained by U.S. Immigration and Customs Enforcement and on the verge of being deported was given a last-minute reprieve.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T20:00:11Z",
-      "first_seen": "2026-09-18T20:06:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271973_w_550_367_706_249.jpg?v=20260918160417",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ab364add15d2c943",
-      "title": "When DNA tests find skeletons in your family’s closet, these researchers want to know about it",
-      "link": "https://religionnews.com/2026/09/18/when-dna-tests-find-skeletons-in-your-familys-closet-these-researchers-want-to-know-about-it/",
-      "summary": "(RNS) — DNA testing has upended some families by finding living relatives we never knew we had. Two Latter-day Saint researchers want to study how people cope with such revelations.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T19:32:03Z",
-      "first_seen": "2026-09-18T20:06:53Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/9.26-DNA-story-screenshot-2.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e9a2fac1b4ee983f",
-      "title": "Priest describes tearful ‘spiritual experience’ during consecration after video goes viral online",
-      "link": "https://www.ewtnnews.com/world/us/priest-describes-spiritual-experience-mass",
-      "summary": "The priest did not witness a Eucharistic miracle but felt “the weight of God’s power coming down upon the altar, and I felt the heaviness of Jesus’s substantial presence in the chalice in my hands.”",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T19:22:17Z",
-      "first_seen": "2026-09-18T20:06:53Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789757794/ewtn-news/en/Father_Brent_Bowman_d9z4di.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ee436bcdfcfae291",
-      "title": "Jonathan Cahn says events leading up to 'duct tape man' incident mirror latest book",
-      "link": "https://www.christianpost.com/news/jonathan-cahn-says-duct-tape-man-incident-mirror-latest-book.html",
-      "summary": "Author and Messianic rabbi Jonathan Cahn says a violent encounter with a fellow passenger sitting in first class on an American Airlines flight earlier this month bore an uncanny resemblance to events in his latest book, prompting him to reflect on what he…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T19:04:16Z",
-      "first_seen": "2026-09-18T19:07:08Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271970_w_550_446_615_258.jpg?v=20260918150452",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "84af5076ee8c6ba6",
-      "title": "When Everyone Leaves You, Jesus Remains ❤️ | Powerful Emotional Gospel Worship Song.",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1XcXJlY2YzbnZYUmpyMHhnRXFmVU4yNFB3ZnYtTUx0RHd4NnMtQko4THhzU2J0cEhVZklTUEFLNnp6Zw?oc=5",
-      "summary": "When Everyone Leaves You, Jesus Remains ❤️ | Powerful Emotional Gospel Worship Song. YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-18T18:53:07Z",
-      "first_seen": "2026-09-18T20:06:53Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-19T08:06:53Z"
-    },
-    {
-      "id": "62f4a006152d2d5a",
-      "title": "RMG Signs 350: Artist to Debut with ‘Who Knows How High’",
-      "link": "https://rapzilla.com/2026-09-rmg-signs-350-who-knows/",
-      "summary": "Reflection Music Group just added a 350 to their roster. The Dallas-based artist officially signed with Doc Watson and Derek Minor’s CHH label. He joins label veterans like Minor and Canon. 350 launched his RMG era by opening pre-orders for his brand-new…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T18:52:22Z",
-      "first_seen": "2026-09-18T19:07:08Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/18145155/3-Picture-Template-Article-1-1.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
