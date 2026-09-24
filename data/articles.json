@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T05:06:15Z",
+  "generated_at": "2026-09-24T05:38:11Z",
   "story_count": 600,
-  "with_photo": 463,
+  "with_photo": 462,
   "items": [
     {
       "id": "d1943bb71c6d2992",
@@ -2101,6 +2101,22 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/wayne.jpg",
         "via": "og:image"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a3f57a3384829f0e",
+      "title": "Anne Wilson's New 'My Jesus' Movie: Everything We Know So Far",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONHdOSXFYcm1PT2UycXhZV3ZBWjhFM1pMOWtCWkNwQzBNdzJOOFR5aUFYSGp5X1NJRkhDZWMxb0RNd1BaYm1WcUw1R2tpdzY1MUtJTTRnNWlGVDYyV3lGNTdZeWJkTWJNZjQ0U18tQ2dzakdra2FTVExjRVo2aWVTemQ5TndYSHU0NlgzbVdRSTFMY3BTdkpjaGR3WQ?oc=5",
+      "summary": "Anne Wilson's New 'My Jesus' Movie: Everything We Know So Far Holler Country",
+      "outlet": "Holler Country",
+      "outlet_url": "https://holler.country",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-23T04:12:00Z",
+      "first_seen": "2026-09-24T05:38:11Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10969,25 +10985,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8bce0d9ad3516835",
-      "title": "Zach Williams Opens Up About His Dark Years and the Unexpected Road to “Chain Breaker”",
-      "link": "https://www.jubileecast.com/articles/39501/20260917/zach-williams-opens-up-about-his-dark-years-and-the-unexpected-road-to-chain-breaker.htm",
-      "summary": "Zach Williams Opens Up About His Dark Years and the Unexpected Road to “Chain Breaker”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T20:35:45Z",
-      "first_seen": "2026-09-17T20:37:27Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27564/zach-williams.png",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
