@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-24T11:06:48Z",
+  "generated_at": "2026-09-24T11:38:33Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "07304afcf0ace3e8",
+      "title": "Marvin Sapp Says God Is Not Finished With Him Yet",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXluZHBpSFR4RmY5QTVvakJIcDcyNGFsamRicXMxVGZKU01zMUpBVS1WZ2xFUUpib19YU3B5cERxOW81bWQ4ZWFCSHczUV9nblY0YTc3cGpCR1hJQlRwZ0lQeF9YWkxObjdudFppanpvVEhmR2ZoY0J2Uk13Q3pLSTg2Z3llYVlh?oc=5",
+      "summary": "Marvin Sapp Says God Is Not Finished With Him Yet Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: Marvin Sapp",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-24T11:23:54Z",
+      "first_seen": "2026-09-24T11:38:33Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T23:38:33Z"
+    },
+    {
+      "id": "308775d8b5788b04",
+      "title": "Survey finds immigration enforcement activity at schools, courthouses",
+      "link": "https://www.ewtnnews.com/world/us/survey-finds-immigration-enforcement-activity-at-schools-courthouses",
+      "summary": "More than 145,000 U.S.-citizen children have had a parent booked into immigration detention since January 2025, according to the Catholic Legal Immigration Network.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T11:00:00Z",
+      "first_seen": "2026-09-24T11:38:33Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790194676/ewtn-news/en/GettyImages-2232205422_sdxnih.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2c0bcba28c9606ea",
+      "title": "Europe and the challenge of remaining human",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/tornielli-editorial-challenge-remaining-human-pope-france.html",
+      "summary": "Our editorial director reflects on Pope Leo’s upcoming four-day journey to France. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T11:00:00Z",
+      "first_seen": "2026-09-24T11:38:33Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/08/05/2026-08-05-udienza-generale/1785919204167.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "71eb66d99909c28e",
       "title": "Chris Tomlin’s Daughter Is Making Her Film Debut—Why Is This Christmas Movie So Personal to His Family?",
@@ -166,6 +220,25 @@
       "first_seen": "2026-09-24T10:38:53Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790113291/ewtn-news/en/popeleofrancetrip_duqlv1.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "445be8cc289ef453",
+      "title": "Archbishop Fulton Sheen: A 'master of modern media'",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/beyond-noise-ahead-of-archbishop-fulton-sheens-beatification.html",
+      "summary": "Amid the noise of our media-driven world, Bishop Louis Tylka of Peoria, Illinois, reflects on what Archbishop Fulton Sheen called “the most important conversation in a human life”—the one that takes place “in the depths of the heart.” Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T09:32:00Z",
+      "first_seen": "2026-09-24T11:38:33Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/08/18/archbp-fulton-sheen.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10917,82 +10990,6 @@
       "first_seen": "2026-09-18T05:06:16Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30947/for-king-country.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "526a0ae710f68a38",
-      "title": "Rapzilla Artist Drops 9/18/26: Alphein, Q-Flo, outr.cty, & More",
-      "link": "https://rapzilla.com/2026-09-rapzilla-artist-drops-9-18-26-alphein-q-flo-outr-cty-more/",
-      "summary": "The Rapzilla Artist roster delivers nine fire Rapzilla Artist Drops 9/18/26; we’re excited about today. These drops showcase some of the best in the space. More Rapzilla releases. EJ Swavv, MAYIA WARREN & Bill B. – God Did GENRE: Hip-Hop STREAM…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T04:19:34Z",
-      "first_seen": "2026-09-18T05:06:16Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/15151832/Copy-of-5-Picture-Artist-Template.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "35ecb7b98c0afd7b",
-      "title": "Why gambling isn't just risky, it's un-biblical",
-      "link": "https://www.christianpost.com/voices/why-gambling-isnt-just-risky-its-un-biblical.html",
-      "summary": "Investing creates a win/win for all involved, but the opposite is true in gambling. For me to win, others must lose.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T04:03:14Z",
-      "first_seen": "2026-09-18T04:06:55Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271951_w_550_367.jpg?v=20260918000253",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "28139d1b3e6f88fa",
-      "title": "AI is arriving at the most dangerous possible moment",
-      "link": "https://www.christianpost.com/voices/ai-is-arriving-at-the-most-dangerous-possible-moment.html",
-      "summary": "The world does not lack intelligence. It lacks time for wisdom.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T04:02:28Z",
-      "first_seen": "2026-09-18T04:06:55Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271960_w_550_289_625_202.jpg?v=20260918000209",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7308641cd6dbff8d",
-      "title": "Socialism's fatal flaw: Misunderstanding human nature",
-      "link": "https://www.christianpost.com/voices/socialisms-fatal-flaw.html",
-      "summary": "Socialism is based on a false and destructive understanding of human nature.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T04:01:05Z",
-      "first_seen": "2026-09-18T04:06:55Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271962_w_550_413_565_414.jpg?v=20260918000118",
         "via": "media:content"
       },
       "breaking": false,
