@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-24T09:07:25Z",
+  "generated_at": "2026-09-24T09:39:04Z",
   "story_count": 600,
   "with_photo": 463,
   "items": [
+    {
+      "id": "73819c8d3d56abbe",
+      "title": "Who was Archbishop Fulton J. Sheen?",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/who-was-archbishop-fulton-sheen-jason-gray-beatification.html",
+      "summary": "On the eve of his beatification, the Executive Director of the Archbishop Fulton J. Sheen Foundation explores the life and legacy of this famous evangelizer. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T09:12:00Z",
+      "first_seen": "2026-09-24T09:39:04Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/23/fulton-j-sheen.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "cbf407c4ab45e9ab",
       "title": "Caleb Flynn’s Former Mistress Takes The Stand: What Did His Message “I Choose You. I’m Free” Mean Hours Before His Wife Was Killed?",
@@ -10972,25 +10991,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T11:34:12Z"
-    },
-    {
-      "id": "04a1defee4bb07da",
-      "title": "“The Chosen” Star Vanessa Benavente Says Filming Jesus’ Crucifixion Left Cast Members Crying Inconsolably",
-      "link": "https://www.jubileecast.com/articles/39510/20260917/the-chosen-star-vanessa-benavente-says-filming-jesus-crucifixion-left-cast-members-crying-inconsolably.htm",
-      "summary": "“The Chosen” Star Vanessa Benavente Says Filming Jesus’ Crucifixion Left Cast Members Crying Inconsolably",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T23:02:01Z",
-      "first_seen": "2026-09-17T23:34:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31844/vanessa-benavente.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
