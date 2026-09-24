@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-24T22:07:01Z",
+  "generated_at": "2026-09-24T22:36:55Z",
   "story_count": 600,
-  "with_photo": 469,
+  "with_photo": 470,
   "items": [
+    {
+      "id": "068c2762e5c06a67",
+      "title": "Bishops ask Supreme Court for Catholic inclusion in Colorado universal preschool program",
+      "link": "https://www.ewtnnews.com/world/us/usccb-amicus-brief-colorado-preschools",
+      "summary": "U.S. bishops are arguing Catholic schools should be allowed to participate in Colorado’s preschool program without compromising their faith, and more in this week’s Catholic education news roundup.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T22:21:00Z",
+      "first_seen": "2026-09-24T22:36:55Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1776708435/ewtn-news/en/St.-Mary-v.-Roy_Students-Mass_2026_Credit__BECKET_mukeal.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a209205c91488600",
       "title": "DOJ asks appeals court to allow churches to endorse political candidates",
@@ -23,6 +42,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "d369c08916de11f1",
+      "title": "Pastor resigns after employee sues, saying he dismissed her report of sexual assault",
+      "link": "https://www.ewtnnews.com/world/us/pastor-resigns-after-employee-sues-saying-he-dismissed-her-report-of-sexual-assault",
+      "summary": "The archbishop of Louisville accepted the pastor’s resignation as the case moves forward.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T21:30:04Z",
+      "first_seen": "2026-09-24T22:36:55Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790263370/ewtn-news/en/Shadowcross_o5y5vo.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "cfdf832b9e912e8a",
       "title": "A Christian Dating App Just Added a ‘Chivalry Mode’",
       "link": "https://relevantmagazine.com/life5/relationships/a-christian-dating-app-just-added-a-chivalry-mode/",
@@ -34,7 +72,10 @@
       "category": "faith",
       "published": "2026-09-24T21:23:50Z",
       "first_seen": "2026-09-24T21:36:39Z",
-      "image": null,
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/dating-app.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -50,7 +91,10 @@
       "category": "faith",
       "published": "2026-09-24T21:17:49Z",
       "first_seen": "2026-09-24T21:36:39Z",
-      "image": null,
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/rex.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -6499,6 +6543,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "9f311f7859dbfde2",
+      "title": "Great need for worship leaders coming very soon, church survey reveals",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSEJkc1BwYXl1cWF6YzZwc1RXYzJKRmNwQl9nTDJxZ1FVRUpuY3BUbXB5ZHRDdmNyUnNSQnRsdWVPUDMzM3I2VWh0Nmk5Qm9fV0Q0YklQSVJfTEpKRU14cHFabFVXaU1RaDBERm1MRGJtMVE4Um14TjhNTnNBQnNqbUJTWHVORDlpSnFSbUdjeXlNdUtXaTZoLTdYalNnN2hpMlVGRktqbGVyTDRUYXJaMw?oc=5",
+      "summary": "Great need for worship leaders coming very soon, church survey reveals The Christian Index",
+      "outlet": "The Christian Index",
+      "outlet_url": "https://christianindex.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-22T00:38:00Z",
+      "first_seen": "2026-09-24T22:36:55Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "4b5d96d1ad906795",
       "title": "Church Choirs & Gospel Singers: You’re Invited to the Gospel Sound Challenge!",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOWpYYTNaRmctMEh3SVhWeGNMYXJUMTQzOERhRnpRZThyeWxLbHlGWHVUcnd5YnpmNjA0dHpDZFFWT0czdWNWUmgtWjJ5WDZjMXU3QVhSYmdoRnJRQ3hoOE95Ti1reHI4RDNCeTdXLVdtemItV01xVzE5ZFFWbV85VTNQRVpUS1p1cmlkRWZ2TWtoSTFFdUozS2dZLXp1M0NKZ204aEVPS3U?oc=5",
@@ -10948,63 +11008,6 @@
       "first_seen": "2026-09-18T21:06:43Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31514/victory-house-worship.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b5d6b00b8c4b359f",
-      "title": "Former “American Idol” Contestant And Worship Pastor Caleb Flynn Allegedly Sent 100,000 Texts About Wanting Wife Dead",
-      "link": "https://www.jubileecast.com/articles/39529/20260918/former-american-idol-contestant-and-worship-pastor-caleb-flynn-allegedly-sent-100-000-texts-about-wanting-wife-dead.htm",
-      "summary": "“American Idol” Contestant And Worship Pastor Caleb Flynn Allegedly Sent 100,000 Texts About Wanting Wife Dead",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T20:13:04Z",
-      "first_seen": "2026-09-18T21:06:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28802/caleb-flynn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "670fd34a9d7f502b",
-      "title": "Meryl Streep as Aslan in 'The Magician's Nephew' sparks Christian backlash: 'Creative vandalism'",
-      "link": "https://www.christianpost.com/news/meryl-streep-as-aslan-in-the-magicians-nephew-sparks-backlash.html",
-      "summary": "Confirmation that actress Meryl Streep will voice Aslan in the upcoming Netflix adaptation of C.S. Lewis' The Magician's Nephew has prompted backlash from some who claim it's an affront to the classic Christian allegory.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T20:11:05Z",
-      "first_seen": "2026-09-18T21:06:43Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271975_w_550_367_510_215.jpg?v=20260918164133",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0f4dd7107851bd22",
-      "title": "“Barely Breathing” Singer Duncan Sheik Dies At 56 Just One Day After Family Revealed Hospitalization",
-      "link": "https://www.jubileecast.com/articles/39528/20260918/barely-breathing-singer-duncan-sheik-dies-at-56-just-one-day-after-family-revealed-hospitalization.htm",
-      "summary": "“Barely Breathing” Singer Duncan Sheik Dies At 56 Just One Day After Family Revealed Hospitalization",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T20:08:14Z",
-      "first_seen": "2026-09-18T20:06:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31830/duncan-sheik.jpg",
         "via": "media:content"
       },
       "breaking": false,
