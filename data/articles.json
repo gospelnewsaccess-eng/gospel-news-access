@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T06:08:55Z",
+  "generated_at": "2026-09-24T06:42:36Z",
   "story_count": 600,
-  "with_photo": 462,
+  "with_photo": 461,
   "items": [
     {
       "id": "d1943bb71c6d2992",
@@ -95,6 +95,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31910/rachael-lampa.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "21acc8d2250e5c4f",
+      "title": "‘I am so humbled’: Nozipho Phiri celebrates Crown Gospel nominations",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQb0syRUlrNkd6SHN4UGpMZzBFbUNrMmdsY2ZiTFhRVzZ4WlJlUy0xd21KMEt2TVFYTEdyREdFejUtdFJXcTIwQXRwMXREcTNtS1JlV2dBbmp0dlBleTQyUFlSQW44Y3g0MDJJRDFHbXFXN3dqYlFBa3J1NVdIRlItUm5iVXNyMHF2THVobEN3ZE13alpTdEwyM1FwQ194eHNoaGlXVHY1ODVMNmZDb1ROLUFNNUZWemFWb3ZNOEJJbXA3cEFheGI0OGtUTGxwSEJHTkE?oc=5",
+      "summary": "‘I am so humbled’: Nozipho Phiri celebrates Crown Gospel nominations news24.com",
+      "outlet": "news24.com",
+      "outlet_url": "https://www.news24.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-24T02:07:08Z",
+      "first_seen": "2026-09-24T06:42:36Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10966,25 +10982,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31840/ed-sheeran.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8410fa1f6c02df85",
-      "title": "Kamala Harris to Team Up with Radical Senate Candidate Abdul El-Sayed",
-      "link": "https://mycharisma.com/news/kamala-harris-to-team-up-with-radical-senate-candidate-abdul-el-sayed/",
-      "summary": "You haven’t seen the last of former Vice President Kamala Harris. The 2024 Democratic nominee — never forget that this woman was installed and did not win a primary — plans to make an appearance next week alongside Abdul El-Sayed, the Democratic nominee for…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T20:38:57Z",
-      "first_seen": "2026-09-17T20:37:27Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
