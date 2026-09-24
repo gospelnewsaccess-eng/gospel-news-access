@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T11:38:33Z",
+  "generated_at": "2026-09-24T12:08:34Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 463,
   "items": [
     {
       "id": "07304afcf0ace3e8",
@@ -5541,6 +5541,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "29e277348c9876eb",
+      "title": "Praise Fest Returns to Bayou St. John for 17th Annual Celebration",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUU1IbjI1REoxcWZSTHJQQVBkVmloMDg1akVneC03UE5aUU81UTk2MUMySkltY3FfdmFEcnJ4RGFvWDMybWhWeGYzWFk5czB3cURPMXNnYTBiWWRVTEp5LUZNelpSeHJRck1ZX3pwUEFBTDdtMlZtN3NDajRmdzB3dlZfLUkzSHVNckEwVHFKbzlBcXRROEZoZkdB?oc=5",
+      "summary": "Praise Fest Returns to Bayou St. John for 17th Annual Celebration OffBeat Magazine",
+      "outlet": "OffBeat Magazine",
+      "outlet_url": "https://www.offbeat.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-21T19:50:49Z",
+      "first_seen": "2026-09-24T12:08:34Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "b3aaaedd86e6ad8c",
       "title": "Album Review: Anthony Brown & group therAPy Turn Pain Into Praise on the Revealing New Album \"Disclosure\"",
       "link": "https://www.jubileecast.com/articles/39603/20260921/album-review-anthony-brown-group-therapy-turn-pain-into-praise-on-the-revealing-new-album-disclosure.htm",
@@ -10975,25 +10991,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-18T17:37:02Z"
-    },
-    {
-      "id": "d84efe9ed31fd77a",
-      "title": "Album Review: for KING & COUNTRY Paint Faith In Bold Strokes On \"The Most Beautiful Colours\"",
-      "link": "https://www.jubileecast.com/articles/39516/20260918/album-review-for-king-country-paint-faith-in-bold-strokes-on-the-most-beautiful-colours.htm",
-      "summary": "for KING & COUNTRY Paint Faith In Bold Strokes On The Most Beautiful Colours",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T04:43:31Z",
-      "first_seen": "2026-09-18T05:06:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30947/for-king-country.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
