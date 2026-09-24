@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-24T12:08:34Z",
+  "generated_at": "2026-09-24T12:43:01Z",
   "story_count": 600,
-  "with_photo": 463,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "ec110711c2d59296",
+      "title": "Criminal Investigation Underway After Family Says Christian Grandmother Euthanized Without Consent",
+      "link": "https://mycharisma.com/news/criminal-investigation-underway-after-family-says-christian-grandmother-euthanized-without-consent/",
+      "summary": "A criminal investigation is underway in Canada after a controversial case of Medical Assistance in Dying (MAiD) in which the family of an 83-year-old Christian grandmother is questioning the ethics and legality of her death. The woman was euthanized even…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T12:19:47Z",
+      "first_seen": "2026-09-24T12:43:01Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "136ac2b541d64fa2",
+      "title": "Justin Bieber Surprises MacArthur Park With Free Concert and Gifts for the Homeless",
+      "link": "https://www.jubileecast.com/articles/39685/20260924/justin-bieber-surprise-concert-macarthur-park.htm",
+      "summary": "Justin Bieber Surprises MacArthur Park With Free Concert and Gifts for the Homeless",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T12:12:51Z",
+      "first_seen": "2026-09-24T12:43:01Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31919/justin-bieber.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fbe651be616ab1ab",
+      "title": "Tom Cruise Praises Taylor Swift's Directing Skills at \"Digger\" Premiere",
+      "link": "https://www.jubileecast.com/articles/39682/20260924/tom-cruise-taylor-swift-director-feature-films.htm",
+      "summary": "Tom Cruise Praises Taylor Swift's Directing Skills at \"Digger\" Premiere",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T12:12:45Z",
+      "first_seen": "2026-09-24T12:43:01Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31917/tom-cruise.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "837841c3724987d8",
+      "title": "What Do the Leaked Avengers: Endgame Encore Post-Credit Scenes Reveal About Doomsday?",
+      "link": "https://www.jubileecast.com/articles/39678/20260924/avengers-endgame-encore-leaked-post-credit-scenes-doomsday-spoilers.htm",
+      "summary": "What Do the Leaked Avengers: Endgame Encore Post-Credit Scenes Reveal About Doomsday?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T12:12:39Z",
+      "first_seen": "2026-09-24T12:43:01Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31905/avengers-endgame.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cc175b55f2a0bedc",
+      "title": "Cardinal Parolin: Pope's visit to France to shine light on life, peace, Europe",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/cardinal-parolin-pope-leo-france-visit-interview-life-peace-euro.html",
+      "summary": "The Vatican Secretary of State looks ahead to the Pope’s visit to France and to UNESCO, highlighting the “diplomacy of encounter” and the “creative efforts” capable of freeing Europe from a logic of violence. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T12:00:00Z",
+      "first_seen": "2026-09-24T12:43:01Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/23/17/1790177704824.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "07304afcf0ace3e8",
       "title": "Marvin Sapp Says God Is Not Finished With Him Yet",
@@ -18,6 +113,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-24T23:38:33Z"
+    },
+    {
+      "id": "7794e88dc38c5cac",
+      "title": "Pope: Climate crisis is not just an environmental challenge, but a matter of justice",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-climate-crisis-not-only-environmental-challenge-but-justice.html",
+      "summary": "On the occasion of the Plenary Session of the Pontifical Academy of Sciences, Pope Leo receives its members in the Clementine Hall of the Vatican and urges that scientific and technological progress be accompanied by “a corresponding growth in…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T11:10:00Z",
+      "first_seen": "2026-09-24T12:43:01Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/24/2026-09-24-membri-della-pontificia-accademia-delle-scienze/1790245208894.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "308775d8b5788b04",
@@ -10880,117 +10994,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "3463fb52e0809323",
-      "title": "Chad: Comboni mission turns diversity into fraternity",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/sisters-project-197-chad-comboni-mission-education-youth.html",
-      "summary": "St. Daniel Comboni’s desire of a Catholic and universal mission, has become a reality in Deressia, in southern Chad, thanks to the commitment of the international community of Comboni Missionary Sisters, who accompany people through education, health and…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T06:20:00Z",
-      "first_seen": "2026-09-21T06:44:35Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/26/ps-197-copertinaaem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8907b4028816f98d",
-      "title": "Mena Massoud’s \"Daniel And The Fiery Furnace\" Opens Today—Find Out What the Critics Say",
-      "link": "https://www.jubileecast.com/articles/39520/20260918/mena-massoud-s-daniel-and-the-fiery-furnace-opens-today—and-critics-are-already-divided-over-the-fire.htm",
-      "summary": "Mena Massoud’s Daniel And The Fiery Furnace Opens Today—And Critics Are Already Divided Over The Fire",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T05:31:11Z",
-      "first_seen": "2026-09-18T06:08:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31849/daniel-the-fiery-furnace.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6734ef03ea4b5ce4",
-      "title": "Album Review: Cory Asbury Returns To His Calling On \"Outsing The Angels\"",
-      "link": "https://www.jubileecast.com/articles/39519/20260918/album-review-cory-asbury-returns-to-his-calling-on-outsing-the-angels.htm",
-      "summary": "Cory Asbury Returns To His Calling On Outsing The Angels",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T04:56:50Z",
-      "first_seen": "2026-09-18T05:06:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30736/cory-asbury.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "801c9c068510a20f",
-      "title": "Album Review: Drew Baldridge Builds On Solid Ground With \"Farm Faith Family\"",
-      "link": "https://www.jubileecast.com/articles/39518/20260918/album-review-drew-baldridge-builds-on-solid-ground-with-farm-faith-family.htm",
-      "summary": "Drew Baldridge Builds On Solid Ground With Farm Faith Family",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T04:50:48Z",
-      "first_seen": "2026-09-18T05:06:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31848/drew-baldridge.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "eea6289444d963fd",
-      "title": "Skillet’s “Monster” Explodes To 7X Platinum As John Cooper Reveals The Darkness Behind New Music",
-      "link": "https://www.jubileecast.com/articles/39517/20260918/skillet-s-monster-explodes-to-7x-platinum-as-john-cooper-reveals-the-darkness-behind-new-music.htm",
-      "summary": "Skillet’s “Monster” Explodes To 7X Platinum As John Cooper Reveals The Darkness Behind New Music",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T04:46:52Z",
-      "first_seen": "2026-09-18T05:06:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/21469/skillet.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d719773578c5aea5",
-      "title": "After Kenny Lattimore, SRG Embroiled in New Legal Battle with Erica Campbell",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORnk0NjdZdXNLVW1tVEt6NVoxTGRwU29tVDF1VEhOTFhPRnh2TTBuSnZkUUNZOXNKWl9rZVdhSFlaX2hFU3lQakxVdUE1eWt6OWRySlhCMWdLaldpWGtUNjVTS3FtNE5sSzQ1b0x3dDh3bXFaaEpkbW90a204Tk56Y1Z3?oc=5",
-      "summary": "After Kenny Lattimore, SRG Embroiled in New Legal Battle with Erica Campbell Digital Music News",
-      "outlet": "Digital Music News",
-      "outlet_url": "https://www.digitalmusicnews.com",
-      "source_feed": "Google News: Erica Campbell",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-18T04:45:50Z",
-      "first_seen": "2026-09-18T05:37:02Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-18T17:37:02Z"
     }
   ]
 }
