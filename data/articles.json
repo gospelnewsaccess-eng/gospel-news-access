@@ -1,8 +1,160 @@
 {
-  "generated_at": "2026-09-24T16:07:23Z",
+  "generated_at": "2026-09-24T16:39:03Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "b4548ba6141780f0",
+      "title": "Sri Lankan court sentences 15 men to life in prison for roles in deadly 2019 Easter bombings",
+      "link": "https://religionnews.com/2026/09/24/sri-lankan-court-sentences-15-men-to-life-in-prison-for-roles-in-deadly-2019-easter-bombings/",
+      "summary": "COLOMBO, Sri Lanka (AP) — The April 21 attacks, which were inspired by the Islamic State group, were among the deadliest attacks in Sri Lanka’s history.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:38:47Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-30-807x538.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f0d4b7cca641ca8b",
+      "title": "Suspect in Yom Kippur shooting outside Ontario synagogue dies from his injuries",
+      "link": "https://religionnews.com/2026/09/24/suspect-in-yom-kippur-shooting-outside-ontario-synagogue-dies-from-his-injuries/",
+      "summary": "BELLEVILLE, Ontario (AP) — Belleville police identified the man as Sean Ward of Quinte West. Ontario’s Special Investigations Unit, an independent civilian agency that investigates police shootings, said Ward died Monday night.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:32:38Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-29-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a329560adbad8e66",
+      "title": "Priests, nuns march to Vatican to demand end to ‘genocide’ in Gaza",
+      "link": "https://religionnews.com/2026/09/24/priests-nuns-march-to-vatican-to-demand-end-to-genocide-in-gaza/",
+      "summary": "ROME (AP) — The “Priests Against Genocide” network was born in August 2025 and currently includes over 2,500 priests and bishops from five continents, organizers said.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:29:25Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/main-28-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fed1365e2f3b797e",
+      "title": "Can a person be very conservative and also oppose Christian nationalism? Our survey says yes.",
+      "link": "https://religionnews.com/2026/09/24/can-a-person-be-very-conservative-and-also-oppose-christian-nationalism-our-survey-says-yes/",
+      "summary": "(RNS) — Latter-day Saints diverge from the white evangelicals they resemble in their political conservatism and Republican partisanship.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:15:53Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "https://religionnews.com/wp-content/uploads/2026/09/webRNS-LDS-April26-Gen-Con04.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "63e8af7b9df861cc",
+      "title": "As Netanyahu takes UN stage, New Yorkers protest antisemitism — and his government",
+      "link": "https://religionnews.com/2026/09/24/as-netanyahu-takes-the-u-n-stage-jewish-new-yorkers-protest-antisemitism-and-his-government/",
+      "summary": "NEW YORK (RNS) — As Netanyahu prepares to speak, protesters across the city are demonstrating over antisemitism and Israel, reflecting the diverse views of Jewish New Yorkers on those issues.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:09:55Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-United-Nations-Protests2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "68ec842ea62630bc",
+      "title": "‘A foretaste of heaven’: Sheen beatification organizers eager for Mass",
+      "link": "https://www.ewtnnews.com/world/us/sheen-beatification-organizers-eager",
+      "summary": "The Sept. 24 beatification Mass will include 89 bishops, about 1,000 priests, about 850 each of seminarians and religious, and 250 deacons, along with about 50,000 total attendees, organizers said.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:08:32Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790263972/ewtn-news/en/SheenBeatificationPresser1092426_qvrmhi.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "14beb4976c19ec90",
+      "title": "Philip Anthony Mitchell: ‘Biblical Christianity’ is losing influence in US, warns against ‘soft’ Jesus",
+      "link": "https://www.christianpost.com/news/philip-anthony-mitchell-christianity-is-losing-influence-in-us.html",
+      "summary": "Philip Anthony Mitchell, pastor of one of the fastest-growing churches in the United States, is warning that biblical illiteracy has helped create a generation of Christians attracted to spirituality but increasingly disconnected from Scripture.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:03:09Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272047_w_550_420_670_367.jpg?v=20260924120953",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "db684b816a40ba8b",
+      "title": "Actor David Henrie says he 'lost everyone' after embracing Christ",
+      "link": "https://www.christianpost.com/news/actor-david-henrie-i-lost-everyone-after-becoming-christian.html",
+      "summary": "Actor David Henrie is opening up about how he “lost everyone” in his inner circle after becoming a Christian in Hollywood before making new friends in addition to reflecting on what caused him to become a Catholic.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T16:03:00Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272041_w_550_315_539_173.jpg?v=20260924120409",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "bc97ee27eccb31f9",
       "title": "Triple Murderer’s Last Words Point to the Unmatched Mercy of Jesus",
@@ -40,6 +192,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "6314e1f2bc56dffd",
+      "title": "Anne Wilson's Story to Become a Movie: 'My Jesus' Will Chronicle Faith amid Tragedy",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMHM5cGI3d2NvSXg4QTNxdFczYUtLMXNJMjB6emp1bnVRNVAzOC1ZRk1OU2Y3WWVWR0NYQ2Z3cVNDNmJVcWNNaWpFN2lpMFhhLUc5em5qRjlGeWU2UEh4eEJDa0lYZGtsSjliUzZXT0tYanVaclRYRGdVUjlHOW5wRWlZMG9SOVVZUEc5WjBYMmxxWFNIcFFidDRpWEl0QWRIMWRvNDc2aWIzRlBpZUF4Z0ZNMmxMMUpiUm92WEZhUjl6NGFSMkctX1JnMTdLTWdoYUh0Yy1GVUNvTkRfMWpvOQ?oc=5",
+      "summary": "Anne Wilson's Story to Become a Movie: 'My Jesus' Will Chronicle Faith amid Tragedy Crosswalk.com",
+      "outlet": "Crosswalk.com",
+      "outlet_url": "https://www.crosswalk.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-24T15:18:00Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T04:39:03Z"
     },
     {
       "id": "1dfc7d64caca2b3b",
@@ -3046,6 +3214,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272025_w_550_371_430_283.jpg?v=20260923061121",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b85d72c50761f7c3",
+      "title": "John Warren: Politics, the vote and the Black church",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzU1l2d3FvaUhDSlh1NjhENGF1YXNYRkhVajFpVGZYUk5SOF9ZZ2VqYU5SWjhLLVkyN3NWVll0OWd6aFd0MzVBYmtGQ2tIOHVPdmdhTjh5VTVaZmtSSmZDRmJwZWN6bjQ?oc=5",
+      "summary": "John Warren: Politics, the vote and the Black church New Pittsburgh Courier",
+      "outlet": "New Pittsburgh Courier",
+      "outlet_url": "https://newpittsburghcourier.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-23T07:00:00Z",
+      "first_seen": "2026-09-24T16:39:03Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10809,187 +10993,6 @@
       "first_seen": "2026-09-18T14:38:12Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/18/fortunatus-malawi-2aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8698caa64f6f3e48",
-      "title": "Pope Leo's visit to France to focus on faith, culture, Europe",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/france-pope-leo-xiv-brief-matteo-bruni-holy-see-press-office.html",
-      "summary": "Pope Leo XIV’s September 25–28 Apostolic Journey to France will include meetings with civil authorities, young people and the Church, a visit to UNESCO in Paris, and an encounter in Metz focused on Europe, peace and unity. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T13:58:00Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/14/14/1789388397845.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "09ab804d58a5ccad",
-      "title": "Texas city council denies permit for LGBT pride event at Episcopal church",
-      "link": "https://www.christianpost.com/news/texas-city-council-denies-permit-for-lgbt-pride-event-at-church.html",
-      "summary": "A city council in Texas denied a permit Tuesday for a planned LGBT pride event at a local Episcopal church, just one year after the same event was held.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T13:48:00Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271959_w_550_364_661_261.jpg?v=20260918095118",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a62e3142dd45ef26",
-      "title": "Thomas Paine Memorial moves one step closer to prestigious DC location",
-      "link": "https://religionnews.com/2026/09/18/thomas-paine-memorial-moves-one-step-closer-to-prestigious-dc-location/",
-      "summary": "Thomas Paine Memorial Association",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T13:46:02Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": {
-        "url": "https://religionnews.com/wp-content/uploads/2026/09/Unknown.jpeg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dba29e669e503c6a",
-      "title": "Church Choirs and Gospel Singers: You’re Invited to the Gospel Sound Challenge!",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRW1HbU5DYmxuV3pUTWR3N0t4N3Q1YVVVd3ItNnZfaFR0RV9lWkctMktDZGtORmIyOGZEdXZ0aVlpUDRxZW01V1kzRk00dExOdThnRXpZYW95X2ZiUl9uM3pxeHlaaXMtTk9TS3dXV0hqWHVDcVRnQXVwWEpoV2paQkhZOXFZcUx1aXJqNWZxLUhHOVQxZ3lWeWhQUFdydUJrMEdjZXFLQWFob0VCOXc?oc=5",
-      "summary": "Church Choirs and Gospel Singers: You’re Invited to the Gospel Sound Challenge! Prince William Living",
-      "outlet": "Prince William Living",
-      "outlet_url": "https://princewilliamliving.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-18T13:38:03Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-19T02:38:12Z"
-    },
-    {
-      "id": "912a956a0591b6a5",
-      "title": "Vatican tells UN: Hate speech is poison that leads to violence and persecution",
-      "link": "https://www.ewtnnews.com/vatican/vatican-tells-un-hate-speech-is-poison-that-leads-to-violence-and-persecution",
-      "summary": "Archbishop Christophe-Zakhia El-Kassis delivered his first address as the Holy See’s representative to the United Nations in New York on Sept. 17.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T13:11:48Z",
-      "first_seen": "2026-09-18T13:37:41Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1784986960/ewtn-news/en/shutterstock_2799890411-2_gr7jne.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5735171749b9b41c",
-      "title": "Evangelical Press Association begins voting on bid to remove 'Evangelical' from name",
-      "link": "https://www.christianpost.com/news/evangelical-press-association-begins-voting-on-name-change.html",
-      "summary": "Members of the Evangelical Press Association began voting Tuesday on a board proposal to rename the organization Christian Communicators Network, after a virtual meeting in which board members explained their reasoning and fielded questions ranging from the…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T13:10:26Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271963_w_550_275_600_276.jpg?v=20260918091126",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ed33bf0bb23ac074",
-      "title": "Lauren Daigle Nashville tickets on sale at Ryman Auditorium",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZWxrOXlyMHR4M1lSMVVxY0RLT2tlOTNlbnJwYm1DeUxlWm1xQ0k2cjJ3NzlfampIV25EWUV5dDY0ZVAtRkhhblh5c21uWk9uVG1wNzZnNVdLV3ZVTk12MFVrM0FBeXRrN1NKQVpDZVpBWVh6TDFTS3RDN195MkNCb0EzeVMzYl9XZ3hnZWhOMlZOZXUwdXBkbnA4NA?oc=5",
-      "summary": "Lauren Daigle Nashville tickets on sale at Ryman Auditorium TicketNews",
-      "outlet": "TicketNews",
-      "outlet_url": "https://www.ticketnews.com",
-      "source_feed": "Google News: Lauren Daigle",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-18T12:59:18Z",
-      "first_seen": "2026-09-18T15:06:42Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e6a2bfbd7526fdd0",
-      "title": "Why Has God Given Us Warnings About World War 3, Global Famine, Horrifying Pestilences And Cataclysmic Natural Disasters?",
-      "link": "https://mycharisma.com/news/why-has-god-given-us-warnings-about-world-war-3-global-famine-horrifying-pestilences-and-cataclysmic-natural-disasters/",
-      "summary": "A lot of people look at all of the crazy things that are happening in our world today and they respond by getting fearful. But is that what God wants? I would suggest that fear is the exact opposite of how we should be responding to global events as they…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T12:47:18Z",
-      "first_seen": "2026-09-18T13:37:41Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/05/The-Revelation-of-Jesus-406x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8626397cfe602305",
-      "title": "Former megachurch pastor Robert Morris appears with black eye in new registry photo",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSW8xaGZMNW8tYkl4VENMYzhPMXdfSWxlZ3oxRUFZM0JVSjl4WFhZMjJUTnRtaVZLUFJWTWgzbnlhWGxDRldHQk02R3R4OTB4S3JTbkJZTTlVVFVGaml2RG40R1BnTzZjdjlSckRteHBmN0pCaEF4dF82V09TVjgzTmZTeEVkSVJXQmd0UkZBTk1KcFpBbFFPbHdPWVk0M2Y4UGs4ZnhCWFl5Q3plY1VOQmV1RGhjZWotcTdIa09ITWphMWlFMnQw?oc=5",
-      "summary": "Former megachurch pastor Robert Morris appears with black eye in new registry photo premierchristian.news",
-      "outlet": "premierchristian.news",
-      "outlet_url": "https://premierchristian.news",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-18T12:33:46Z",
-      "first_seen": "2026-09-18T12:41:19Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-19T00:41:19Z"
-    },
-    {
-      "id": "ffea8955149c841d",
-      "title": "Children in Gaza and West Bank face new dangers as winter approaches",
-      "link": "https://www.vaticannews.va/en/world/news/2026-09/gaza-west-bank-unicef-appeal-winter-children-vulnerable.html",
-      "summary": "As winter approaches, humanitarian agencies warn that children and families in Gaza are facing additional threats from damaged housing, overcrowded displacement sites and harsh weather conditions, while rescue efforts following a recent building collapse…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T12:30:00Z",
-      "first_seen": "2026-09-18T14:38:12Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/16/10/1789548901521.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
