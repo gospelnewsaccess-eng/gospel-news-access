@@ -1,8 +1,100 @@
 {
-  "generated_at": "2026-09-24T07:08:17Z",
+  "generated_at": "2026-09-24T07:38:48Z",
   "story_count": 600,
-  "with_photo": 461,
+  "with_photo": 459,
   "items": [
+    {
+      "id": "b0ff833855342a00",
+      "title": "Kelly Price Reveals the Story Behind Karen Clark Sheard’s “Just for Me”—And the Version Fans Never Heard",
+      "link": "https://www.jubileecast.com/articles/39670/20260924/kelly-price-reveals-the-story-behind-karen-clark-sheard-s-just-for-me-—and-the-version-fans-never-heard.htm",
+      "summary": "Kelly Price Reveals the Story Behind Karen Clark Sheard’s “Just for Me”—And the Version Fans Never Heard",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T07:43:43Z",
+      "first_seen": "2026-09-24T07:38:48Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/21507/kelly-price.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8db5209a830fdfcc",
+      "title": "Meryl Streep Will Voice Aslan in Netflix’s New Narnia Movie—Why Are Fans Divided?",
+      "link": "https://www.jubileecast.com/articles/39669/20260924/meryl-streep-will-voice-aslan-in-netflix-s-new-narnia-movie—why-are-fans-divided.htm",
+      "summary": "Meryl Streep Will Voice Aslan in Netflix’s New Narnia Movie—Why Are Fans Divided?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T07:41:08Z",
+      "first_seen": "2026-09-24T07:38:48Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31865/meryl-streep.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "53aad91c1e01229b",
+      "title": "Kathryn Krick Faced Questions About Her Salary, Followers and Spiritual Mentor on ‘Tamron Hall’—What Remains Unanswered?",
+      "link": "https://www.jubileecast.com/articles/39668/20260924/kathryn-krick-faced-questions-about-her-salary-followers-and-spiritual-mentor-on-tamron-hall-—what-remains-unanswered.htm",
+      "summary": "Kathryn Krick Faced Questions About Her Salary, Followers and Spiritual Mentor on ‘Tamron Hall’—What Remains Unanswered?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T07:37:20Z",
+      "first_seen": "2026-09-24T07:38:48Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31185/kathryn-krick.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c7fee892bab93be4",
+      "title": "‘Praising My Lord and Savior Jesus Christ’: Ryan Garcia Had a Worship Band in His Locker Room Before His Title Fight",
+      "link": "https://relevantmagazine.com/culture/sports/praising-my-lord-and-savior-jesus-christ-ryan-garcia-had-a-worship-band-in-his-locker-room-before-his-title-fight/",
+      "summary": "Ryan Garcia has walked out to “Oceans” before. This time the worship started before the walkout. Before he defended his WBC welterweight title against Conor Benn on Saturday in Las Vegas, Garcia’s locker room had a live worship band in it — a small group with…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-24T06:54:54Z",
+      "first_seen": "2026-09-24T07:38:48Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/ryan.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "31dd334a88e1a544",
+      "title": "Gospel artist Tsako nominated for best newcomer in Crown awards",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0JHS3p5dmJ6NlJIZmFRYzdXWUowS3V3YW1CdUl4M0d6aFp3OUZzYnVPMHBySGl5TVo2NloxQ3dpZVRzLThuOFFURTRzbUdrNFdTcFNIQU9CbVByUmJuNFJPQ2JodkpYTzFBTktwY2tIbnJlbmM4MUNtMm5ncW5GZVJEYkNEeUtvZmx4VEhjQWpNNms4UGg5ZFdsQ195Q21NZGxvaWFHalVkUWJGdGMwamRB?oc=5",
+      "summary": "Gospel artist Tsako nominated for best newcomer in Crown awards dailydispatch.co.za",
+      "outlet": "dailydispatch.co.za",
+      "outlet_url": "https://www.dailydispatch.co.za",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-24T06:38:36Z",
+      "first_seen": "2026-09-24T07:38:48Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-24T19:38:48Z"
+    },
     {
       "id": "d1943bb71c6d2992",
       "title": "More Wiccans than Presbyterians? What's driving the witch revival",
@@ -126,6 +218,22 @@
       "category": "gospel-trade",
       "published": "2026-09-24T01:55:08Z",
       "first_seen": "2026-09-24T02:38:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c3d1d7b882623135",
+      "title": "The Explainer: A journalist coined ‘the Bible Belt’ 100 years ago - it’s been oversimplifying the South ever since",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd3NBdDJQbEpzX2pyS2hFRkdlMWc0OEVjeXVSaHEtUkhoTUNMN19hOFJQUlpaRVpreEVzV1dleVhHaVRyenJzNUducnloelM1eS1RX3kzWjA2X1JUSG56QU1TSmJWTFNpTTBIZlQ4T3BmQWVPQjZkNGhnQWhHSGp3Mmdxc3hTOFB3VExMSEVWYV9VbWJJcU9wS2tUMVZpUi1xZ3hFMW9TaXVackFobEhGT2NwRmNSeXd4dkkwZnJvVUlBTkNHcWdqT2ktVVVKZ3puXzFrQjlaUzRMZ0VWME9JWWpiWjJSWmc?oc=5",
+      "summary": "The Explainer: A journalist coined ‘the Bible Belt’ 100 years ago - it’s been oversimplifying the South ever since sightmagazine.com.au",
+      "outlet": "sightmagazine.com.au",
+      "outlet_url": "https://sightmagazine.com.au",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-24T01:02:40Z",
+      "first_seen": "2026-09-24T07:38:48Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10871,120 +10979,6 @@
       },
       "breaking": true,
       "breaking_expires_at": "2026-09-18T09:07:02Z"
-    },
-    {
-      "id": "067f7102efded80f",
-      "title": "First Winner of \"The Voice\" Ben Saunders Found Dead in Lake at 43",
-      "link": "https://www.jubileecast.com/articles/39505/20260917/the-voice-of-holland-winner-ben-saunders-found-dead-in-lake-at-43.htm",
-      "summary": "“The Voice of Holland” Winner Ben Saunders Found Dead in Lake at 43",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T20:49:05Z",
-      "first_seen": "2026-09-17T21:35:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31841/ben-saunders.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ae725242510a06aa",
-      "title": "Texas Democrat organizer claims PAC pays voters $25 as 'roundabout way of paying people for their votes'",
-      "link": "https://www.christianpost.com/news/texas-democratic-organizer-claims-pac-pays-voters-25.html",
-      "summary": "A Texas Democrat political action committee has fired an organizer caught on undercover video describing $25 payments to people willing to attend a one-hour anti-Republican Zoom class as \"a roundabout way of paying people for their votes.\"",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T20:48:01Z",
-      "first_seen": "2026-09-17T21:35:50Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271958_w_550_311.jpg?v=20260917170019",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8ba37e0c14d07819",
-      "title": "Chandler Moore Scores First-Ever Billboard Hot 100 Hit With “God I’m Just Grateful”",
-      "link": "https://www.jubileecast.com/articles/39504/20260917/chandler-moore-scores-first-ever-billboard-hot-100-hit-with-god-i-m-just-grateful.htm",
-      "summary": "Chandler Moore Scores First-Ever Billboard Hot 100 Hit With “God I’m Just Grateful”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T20:44:19Z",
-      "first_seen": "2026-09-17T20:37:27Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23930/chandler-moore.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ce9ed224fcf22839",
-      "title": "Sunny Hostin Faces Defamation Threat From Nolan Wells’s Friends Over “The View” Claims",
-      "link": "https://www.jubileecast.com/articles/39503/20260917/sunny-hostin-faces-defamation-threat-from-nolan-wells-s-friends-over-the-view-claims.htm",
-      "summary": "Sunny Hostin Faces Defamation Threat From Nolan Wells’s Friends Over “The View” Claims",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T20:41:26Z",
-      "first_seen": "2026-09-17T20:37:27Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31065/nolan-wells.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "462d88641c544dd5",
-      "title": "Oregon officials back off ‘gender ideology mandate’ for mom seeking to adopt",
-      "link": "https://www.ewtnnews.com/world/us/oregon-settles-jessica-bates-lawsuit",
-      "summary": "The legal settlement ensures that Jessica Bates’ religious views will not be a factor in determining whether she can adopt children.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-17T20:40:00Z",
-      "first_seen": "2026-09-17T21:35:50Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778252173/ewtn-news/en/gavel_mjmf2t.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7a2b450ae760953e",
-      "title": "Ed Sheeran Ticket Prices Plunge 24% After Macklemore’s Tour Exit—but Is It a Boycott?",
-      "link": "https://www.jubileecast.com/articles/39502/20260917/ed-sheeran-ticket-prices-plunge-24-after-macklemore-s-tour-exit—but-is-it-a-boycott.htm",
-      "summary": "Ed Sheeran Ticket Prices Plunge 24% After Macklemore’s Tour Exit—but Is It a Boycott?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-17T20:39:04Z",
-      "first_seen": "2026-09-17T20:37:27Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31840/ed-sheeran.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
