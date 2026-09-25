@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T01:06:46Z",
+  "generated_at": "2026-09-25T01:36:05Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "ce7f96856db642ad",
+      "title": "You Know My Tears, Jesus 😭 | When Nobody Sees Your Pain | Emotional Gospel Worship Song.",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1iQXlsYjdoSzd0b3VWSU03cW11OXA1ZGVsVW9qTU00RnlQV2JodlZETE52Uk9CeFBNZFBNbWNGSm9BQQ?oc=5",
+      "summary": "You Know My Tears, Jesus 😭 | When Nobody Sees Your Pain | Emotional Gospel Worship Song. YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-25T00:02:23Z",
+      "first_seen": "2026-09-25T01:36:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3d004b2c86203db4",
       "title": "Will.i.am Backs Petition to Bring Sir Tom Jones Back to The Voice UK",
@@ -10984,25 +11000,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-19T09:36:14Z"
-    },
-    {
-      "id": "3135f996f1dde513",
-      "title": "Nick Vujicic Brings His Suicide Attempt, Unanswered Prayers And Unshaken Faith To Theaters In “No Limbs, No Limits”",
-      "link": "https://www.jubileecast.com/articles/39535/20260918/nick-vujicic-brings-his-suicide-attempt-unanswered-prayers-and-unshaken-faith-to-theaters-in-no-limbs-no-limits.htm",
-      "summary": "Nick Vujicic Brings His Suicide Attempt, Unanswered Prayers And Unshaken Faith To Theaters In “No Limbs, No Limits”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T20:53:41Z",
-      "first_seen": "2026-09-18T21:06:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29880/nick-vujicic.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
