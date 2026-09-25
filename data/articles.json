@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-25T08:40:05Z",
+  "generated_at": "2026-09-25T09:07:02Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
+    {
+      "id": "90847d24daa2f32a",
+      "title": "Pope aboard papal plane: ‘I travel to France to proclaim Christ’s peace’",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-greetings-journalists-france-papal-plane.html",
+      "summary": "Aboard the papal flight to Paris beginning his Apostolic Journey to France, Pope Leo XIV highlights the importance for peace in today’s world, apologizes for not having been able to return with journalists to Rome on his previous Journey to Spain, and answers…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T08:21:00Z",
+      "first_seen": "2026-09-25T09:07:02Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---trasferimento-da-roma/1790324399947.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cc693fa9c7cb8ea1",
+      "title": "Pope Leo XIV arrives in Paris at start of 4-day visit to France",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-arrives-in-paris-at-start-of-4-day-visit-to-france",
+      "summary": "The pontiff is expected to proclaim Catholic social teaching to a secular country showing signs of Christian revival.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T08:09:38Z",
+      "first_seen": "2026-09-25T09:07:02Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790317961/ewtn-news/en/_MAR9533_y1e0uq.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "8ff33048acfbdfba",
       "title": "French academic: ‘Number of adult baptisms has tripled since 2022'",
@@ -10958,44 +10996,6 @@
       "first_seen": "2026-09-19T10:36:37Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/19/1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e1fcd95440a668e8",
-      "title": "Rickey Smiley Tells Lecrae Friends Abandoned Him During Darkest Year After Son’s Death",
-      "link": "https://www.jubileecast.com/articles/39555/20260919/rickey-smiley-tells-lecrae-friends-abandoned-him-during-darkest-year-after-son-s-death.htm",
-      "summary": "Rickey Smiley Tells Lecrae Friends Abandoned Him During Darkest Year After Son’s Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T09:06:10Z",
-      "first_seen": "2026-09-19T09:36:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31868/rickey-smiley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2f28436dcf153a97",
-      "title": "Hillsong Founding Pastor Brian Houston Is Talking About Money Again—But His New Message Comes With A Warning",
-      "link": "https://www.jubileecast.com/articles/39554/20260919/hillsong-founding-pastor-brian-houston-is-talking-about-money-again—but-his-new-message-comes-with-a-warning.htm",
-      "summary": "Hillsong Founding Pastor Brian Houston Is Talking About Money Again—But His New Message Comes With A Warning",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T09:00:57Z",
-      "first_seen": "2026-09-19T09:36:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/24014/brian-houston.jpeg",
         "via": "media:content"
       },
       "breaking": false,
