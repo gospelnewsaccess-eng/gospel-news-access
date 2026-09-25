@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-25T21:38:28Z",
+  "generated_at": "2026-09-25T22:06:35Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
+    {
+      "id": "fdc16acf7de5d99e",
+      "title": "Thousands of young French Catholics converge on soccer stadium for prayer with Pope Leo",
+      "link": "https://www.ewtnnews.com/vatican/thousands-of-young-catholics-converge-on-soccer-stadium-for-prayer-with-pope-leo",
+      "summary": "France’s Catholic culture and the energy of the country’s young people stole the show at a prayer vigil at the national stadium in Saint-Denis, France.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T21:36:45Z",
+      "first_seen": "2026-09-25T22:06:35Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790368216/ewtn-news/en/PHOTO-2026-09-25-16-05-07_oyitso.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ff25845579fef950",
+      "title": "Pope to young people: ‘The light of the Spirit enlightens and comforts'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-young-people-vigil-stade-de-france.html",
+      "summary": "Pope Leo XIV’s first day in France comes to a close with a prayer vigil attended by some 80,000 young people. The Holy Father responds to their questions and encourages them to follow Christ without fear. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T21:33:00Z",
+      "first_seen": "2026-09-25T22:06:35Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---veglia-di-preghiera-c/1790366702528.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5d13c98be6e412e1",
+      "title": "Former Youth Pator Caleb Flynn Trial Day 7: What Did the FBI Find on Ashley Flynn’s Phone?",
+      "link": "https://www.jubileecast.com/articles/39723/20260925/caleb-flynn-trial-day-7-what-did-the-fbi-find-on-ashley-flynn-s-phone.htm",
+      "summary": "Caleb Flynn Trial Day 7: What Did the FBI Find on Ashley Flynn’s Phone?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T21:26:46Z",
+      "first_seen": "2026-09-25T22:06:35Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31936/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0bf2d15b3d03cfce",
+      "title": "Texas abortion law not to blame for death of Tierra Walker, pro-lifers say",
+      "link": "https://www.ewtnnews.com/world/us/texas-abortion-law-not-to-blame-for-death-of-tierra-walker-pro-lifers-say",
+      "summary": "Pro-life groups responded to a recent lawsuit claiming that Texas abortion law is to blame for Tierra Walker’s death.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T21:18:00Z",
+      "first_seen": "2026-09-25T22:06:35Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745613753/images/kelsey.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e6b8dbfc6eaa53c1",
       "title": "Totally 4 Him Shares Family Roots Behind New Gospel Single",
@@ -49,6 +125,25 @@
       "first_seen": "2026-09-25T21:06:55Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790358595/ewtn-news/en/ni_C3_B1o_equilibrista_divorcio_wysboj_t4tmz1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c4a6c7ef16698a1c",
+      "title": "Tucker Carlson worries Trump's spiritual despair driving policy: 'Unacceptable worldview'",
+      "link": "https://www.christianpost.com/news/tucker-carlson-worries-trumps-spiritual-despair-driving-policy.html",
+      "summary": "Tucker Carlson suggested during a recent interview that President Donald Trump could be harboring a nihilistic spiritual despair that is potentially affecting his policy decisions.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T20:57:00Z",
+      "first_seen": "2026-09-25T22:06:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272075_w_550_309.jpg?v=20260925170010",
         "via": "media:content"
       },
       "breaking": false,
@@ -10901,101 +10996,6 @@
       "first_seen": "2026-09-20T20:36:19Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30673/charlie-kirk.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8ce59d8aa77a48e0",
-      "title": "Princess Diana’s Brother Warns Harry And Meghan Are Being “Destroyed” By “Cancerous” Attacks",
-      "link": "https://www.jubileecast.com/articles/39575/20260920/princess-diana-s-brother-warns-harry-and-meghan-are-being-destroyed-by-cancerous-attacks.htm",
-      "summary": "Princess Diana’s Brother Warns Harry And Meghan Are Being “Destroyed” By “Cancerous” Attacks",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:20:01Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/15885/prince-harry-and-meghan-markle.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "895bc6ce916d38ce",
-      "title": "Ed Sheeran Breaks Down Onstage After His Entire Band And Opening Acts Quit Over Macklemore",
-      "link": "https://www.jubileecast.com/articles/39574/20260920/ed-sheeran-breaks-down-onstage-after-his-entire-band-and-opening-acts-quit-over-macklemore.htm",
-      "summary": "Ed Sheeran Breaks Down Onstage After His Entire Band And Opening Acts Quit Over Macklemore",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:15:42Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/15997/ed-sheeran.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b80cc2d4d7d4f861",
-      "title": "New Found Glory Founder Chad Gilbert Dies At 45 Just Months After Defiant Stage Comeback",
-      "link": "https://www.jubileecast.com/articles/39573/20260920/new-found-glory-founder-chad-gilbert-dies-at-45-just-months-after-defiant-stage-comeback.htm",
-      "summary": "New Found Glory Founder Chad Gilbert Dies At 45 Just Months After Defiant Stage Comeback",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:12:27Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31877/chad-gilbert.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3fc315a14f8c5a69",
-      "title": "Brian Doerksen’s Family Announces Three Memorial Gatherings As Final Album \"Breathing \"Nears Release",
-      "link": "https://www.jubileecast.com/articles/39572/20260920/brian-doerksen-s-family-announces-three-memorial-gatherings-as-final-album-breathing-nears-release.htm",
-      "summary": "Brian Doerksen’s Family Announces Three Memorial Gatherings As Final Album Breathing Nears Release",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:06:56Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31103/brian-doerksen.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cae2a6379770b21f",
-      "title": "Carrie Underwood Turns To Axl Rose As Country Queen Plots Her Riskiest Career Move Yet",
-      "link": "https://www.jubileecast.com/articles/39571/20260920/carrie-underwood-turns-to-axl-rose-as-country-queen-plots-her-riskiest-career-move-yet.htm",
-      "summary": "Carrie Underwood Turns To Axl Rose As Country Queen Plots Her Riskiest Career Move Yet",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:00:42Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31694/carrie-underwood.jpg",
         "via": "media:content"
       },
       "breaking": false,
