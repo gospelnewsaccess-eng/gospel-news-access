@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-25T00:10:09Z",
+  "generated_at": "2026-09-25T00:42:33Z",
   "story_count": 600,
   "with_photo": 467,
   "items": [
+    {
+      "id": "3d004b2c86203db4",
+      "title": "Will.i.am Backs Petition to Bring Sir Tom Jones Back to The Voice UK",
+      "link": "https://www.jubileecast.com/articles/39697/20260924/will-i-am-petition-reinstate-tom-jones-the-voice-uk.htm",
+      "summary": "Will.i.am Backs Petition to Bring Sir Tom Jones Back to The Voice UK",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-24T23:54:09Z",
+      "first_seen": "2026-09-25T00:42:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31926/will-i-am.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e9d573e063d0dc9b",
       "title": "NBA's First-Ever MVP Bob Pettit Dies at 93: Remembered for His Faith as Much as His Game",
@@ -10980,25 +10999,6 @@
       "first_seen": "2026-09-18T21:06:43Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29880/nick-vujicic.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d613a8273fd43d77",
-      "title": "Cindy Clemishire Asks Texas Supreme Court To Revive Defamation Lawsuit Against Robert Morris And Gateway Church Leaders",
-      "link": "https://www.jubileecast.com/articles/39534/20260918/cindy-clemishire-asks-texas-supreme-court-to-revive-defamation-lawsuit-against-robert-morris-and-gateway-church-leaders.htm",
-      "summary": "Cindy Clemishire Asks Texas Supreme Court To Revive Defamation Lawsuit Against Robert Morris And Gateway Church Leaders",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T20:50:18Z",
-      "first_seen": "2026-09-18T21:06:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29419/robert-morris.jpg",
         "via": "media:content"
       },
       "breaking": false,
