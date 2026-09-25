@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T18:40:03Z",
+  "generated_at": "2026-09-25T19:06:22Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "9e4b48fcc28b84ee",
+      "title": "Christian Rap Submission Picks of the Day 9/25/26",
+      "link": "https://rapzilla.com/2026-09-christian-rap-submission-picks-of-the-day-9-25-26/",
+      "summary": "Christian Rap Submission 9/25/26: We sorted through this week’s email list and compiled what we thought were the top Christian Rap Submissions. Let us know what you think! These are the standout Submissions from September 25, 2026 that we’ve curated for you…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T18:34:16Z",
+      "first_seen": "2026-09-25T19:06:22Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "35a69997238f715e",
       "title": "The medieval world had its own ‘deepfakes’ – church officials cited a fake imperial decree for centuries",
@@ -10978,25 +10994,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-20T23:06:18Z"
-    },
-    {
-      "id": "888caeccaedccea6",
-      "title": "1901–2026: Catholic Church in Malawi marks 125 years",
-      "link": "https://www.vaticannews.va/en/africa/news/2026-09/1901-2026-catholic-church-in-malawi-marks-125-years.html",
-      "summary": "The Catholic Church in Malawi has celebrated 125 years of evangelisation with a Eucharistic celebration at St Mary’s Nzama Parish in the Diocese of Dedza, the historic site where the Montfort Missionaries established the first permanent Catholic mission in…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T10:32:00Z",
-      "first_seen": "2026-09-20T11:35:57Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/20/captura-de-pantalla-2026-09-20-a-las-11-11-56aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
