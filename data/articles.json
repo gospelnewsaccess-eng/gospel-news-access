@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T04:40:24Z",
+  "generated_at": "2026-09-25T05:06:27Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 467,
   "items": [
     {
       "id": "e3289a73156ef9ec",
@@ -20,6 +20,25 @@
       "breaking_expires_at": "2026-09-25T16:40:24Z"
     },
     {
+      "id": "1b0f7ca370c4ac8e",
+      "title": "Willy Rice is right: Southern Baptists need a gender statement",
+      "link": "https://www.christianpost.com/voices/willy-rice-is-right-southern-baptists-need-a-gender-statement.html",
+      "summary": "Southern Baptist Convention President Willy Rice has asked the SBC Executive Committee to recommend adding an article on gender and human sexuality to the Baptist Faith & Message 2000. Richard Land, who served on the committee that drafted that confession…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T04:06:35Z",
+      "first_seen": "2026-09-25T05:06:27Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272065_w_550_367.jpg?v=20260925000935",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "57b34bd13ec0ea1a",
       "title": "Free gospel concerts in Mammoth, Bridgeport churches this month",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmU0OHZKNFR1SFdnZzJMUjQ4eUp6U1hLSWpjZnA4ZDBJQlNMQzhVNXV4VTRoVUhlNW9tazBDWllSTk1GeF96eUNXMlpmaGQzTGlUUUd4cTFxZV9HMVFlYUFvNFR3eThDeDZVamFBZGZ4T25peVpTamhaN3hPVGNqdE82RWxzQkptaHNYRlBKWUFUaGVhMGIyMmNOZUc2OExOUnRySWFSalhCWXg4Y2RHeE8wdXZ4VGs3MS1XQk1KSWs1ZEFQSlk4aU9DaVVuaHJXWlJzUjJMWTFtSG5wN0Qw?oc=5",
@@ -34,6 +53,63 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-25T16:40:24Z"
+    },
+    {
+      "id": "7bf10b5b11c53f3d",
+      "title": "Virginia abortion amendment: Pastors can't sit this one out",
+      "link": "https://www.christianpost.com/voices/virginia-abortion-amendment-pastors-cant-sit-this-one-out.html",
+      "summary": "This November, Virginia voters will decide whether abortion becomes a constitutional right. For Christians who believe the unborn child bears the image of God, silence is not neutrality.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T04:03:07Z",
+      "first_seen": "2026-09-25T05:06:27Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272057_w_550_367_643_303.jpg?v=20260925000533",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0542d38655270a32",
+      "title": "How can I shake my financial anxiety",
+      "link": "https://www.christianpost.com/voices/how-can-i-shake-my-financial-anxiety.html",
+      "summary": "A reader says she prays and reads the Bible but still can't shake her fear about money. Chuck Bentley explains why overcoming financial anxiety takes both a faithful heart and disciplined hands.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T04:02:22Z",
+      "first_seen": "2026-09-25T05:06:27Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272055_w_550_367.jpg?v=20260925000453",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c359ebc8f166c81b",
+      "title": "Trump's week in review: China's Xi visits White House; UN General Assembly; Mamdani meeting",
+      "link": "https://www.christianpost.com/news/trumps-week-in-review-chinas-xi-visits-white-house.html",
+      "summary": "It was a busy week for President Donald Trump, who addressed foreign leaders at the United Nations General Assembly and met one-on-one with Chinese President Xi Jinping at the White House. Here are five highlights.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T04:00:22Z",
+      "first_seen": "2026-09-25T05:06:27Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272058_w_550_367_372_278.jpg?v=20260925000417",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "b093197b85c40719",
@@ -10923,76 +10999,6 @@
       "first_seen": "2026-09-19T08:37:55Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c22442830aee9e02",
-      "title": "New format unveiled for Sterling Gospel Music Awards",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbmNybnBQbWdkYXBJT0pzRmhOSjZrS3VyZmlzLXlhSXp5XzMwa1E4djNMV2ZndWl0RExCLXdoaDR6cjFsd1B2R0c4NXVQMEZaRXNmWDI2WHl2RFkzTXllNGQ5WmRXZXV1aGFPMGcxV2ZWZ3lla2NRenhVZDZDWEpjaFdGSGpoZExUMVE2cFNaQXpJaWE1dXl3bFJ6QUFRejliQldhV2ZFdUMwQ0U?oc=5",
-      "summary": "New format unveiled for Sterling Gospel Music Awards Jamaica Gleaner",
-      "outlet": "Jamaica Gleaner",
-      "outlet_url": "https://jamaica-gleaner.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-19T05:06:26Z",
-      "first_seen": "2026-09-19T05:36:14Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-19T17:36:14Z"
-    },
-    {
-      "id": "044ccc337782f36f",
-      "title": "New format unveiled for Sterling Gospel Music Awards - jamaica-gleaner.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT2xNSERTSVQtRi01RmhMd0p3dVdaLUZpLUJPamhTdXUtcklwQTU0Z2ZIUWFUamJpWHBnVklMOEE1Rng4NERJS2cxWW1TMG1MLURneXF0ZkRQUERPZ2VnVW5LZThFRExxV2RMa2NvVnVXVS1BVkZBM2NrRWY1U2Vnb2czeFppUXBvSExDdGJnSGZIXzVYR2I1XzgycmtaSy1WdVVtTHppQ3RQZw?oc=5",
-      "summary": "New format unveiled for Sterling Gospel Music Awards jamaica-gleaner.com",
-      "outlet": "jamaica-gleaner.com",
-      "outlet_url": "http://jamaica-gleaner.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-19T05:06:26Z",
-      "first_seen": "2026-09-19T09:06:54Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "62ca7ca071b32ccd",
-      "title": "Set For The Fall Releases New Album I Said What I Said After Seven-Year Wait",
-      "link": "https://www.jubileecast.com/articles/39542/20260918/set-for-the-fall-i-said-what-i-said.htm",
-      "summary": "Set For The Fall Releases New Album I Said What I Said After Seven-Year Wait",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T01:50:54Z",
-      "first_seen": "2026-09-19T02:36:47Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31861/nc-hard-ccm.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ffb3156c7bc65781",
-      "title": "Matthew West Releases “Younger Me,” Reflecting on God’s Faithfulness Through Every Season",
-      "link": "https://www.jubileecast.com/articles/39541/20260918/matthew-west-younger-me.htm",
-      "summary": "Matthew West Releases “Younger Me,” Reflecting on God’s Faithfulness Through Every Season",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T01:47:33Z",
-      "first_seen": "2026-09-19T02:36:47Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31860/matthew-west.png",
         "via": "media:content"
       },
       "breaking": false,
