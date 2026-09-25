@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-25T04:06:49Z",
+  "generated_at": "2026-09-25T04:40:24Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "e3289a73156ef9ec",
+      "title": "New Song: Kirk Franklin – ‘This Time’ (featuring GloRilla)",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM2MxMDE4ZVNkdmpid0p4TWJyNHBGbHBxNkU5dzlsLWNkNU1JZ255QWhqZmxyTlAyeUlMRnJVdldZeDdSMkxNMHczeXByWFZJai1nZVVBQmcyTlJvSGoxc0lpOUMxT1YycDhOLUJ0UndPMlU3N25yQ0wxbWNaNW5USHl5QnhoSk9za0ZHbjhzVzXSAZYBQVVfeXFMTnJNVEVCTFRYZmJpMnA2a2hTZllGTy1CRUZWRThzYmxvX29jd0FoS1Bnb2tkSWphYk80a2ZrN1pYRlRYVDRzSk03dEdkTS0wSjc5eXFvYVdxOHlQYVA5cWtrcng2STh5c20wdjgtSDlLR0hrRHB4MmRBaEZZcUtIa25vaHg5UzdDemtaUGFYTThJN3dRNGJ3?oc=5",
+      "summary": "New Song: Kirk Franklin – ‘This Time’ (featuring GloRilla) That Grape Juice.net",
+      "outlet": "That Grape Juice.net",
+      "outlet_url": "https://thatgrapejuice.net",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-25T04:22:58Z",
+      "first_seen": "2026-09-25T04:40:24Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T16:40:24Z"
+    },
+    {
+      "id": "57b34bd13ec0ea1a",
+      "title": "Free gospel concerts in Mammoth, Bridgeport churches this month",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmU0OHZKNFR1SFdnZzJMUjQ4eUp6U1hLSWpjZnA4ZDBJQlNMQzhVNXV4VTRoVUhlNW9tazBDWllSTk1GeF96eUNXMlpmaGQzTGlUUUd4cTFxZV9HMVFlYUFvNFR3eThDeDZVamFBZGZ4T25peVpTamhaN3hPVGNqdE82RWxzQkptaHNYRlBKWUFUaGVhMGIyMmNOZUc2OExOUnRySWFSalhCWXg4Y2RHeE8wdXZ4VGs3MS1XQk1KSWs1ZEFQSlk4aU9DaVVuaHJXWlJzUjJMWTFtSG5wN0Qw?oc=5",
+      "summary": "Free gospel concerts in Mammoth, Bridgeport churches this month Mammoth Times",
+      "outlet": "Mammoth Times",
+      "outlet_url": "https://www.mammothtimes.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-25T04:04:00Z",
+      "first_seen": "2026-09-25T04:40:24Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T16:40:24Z"
+    },
     {
       "id": "b093197b85c40719",
       "title": "Gen Z and Millennials Are Drinking Less. But Gen X Definitely Isn’t.",
@@ -10961,44 +10993,6 @@
       "first_seen": "2026-09-19T02:36:47Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31860/matthew-west.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1463356f2a15055a",
-      "title": "The Slower I Go Releases “Love Made a Way,” a New Worship Anthem of Freedom From Fear",
-      "link": "https://www.jubileecast.com/articles/39540/20260918/the-slower-i-go-love-made-a-way.htm",
-      "summary": "The Slower I Go Releases “Love Made a Way,” a New Worship Anthem of Freedom From Fear",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T01:42:06Z",
-      "first_seen": "2026-09-19T01:37:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31859/the-slower-i-go.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e6c33c6820b96ca3",
-      "title": "Josh Grove Releases “I’m Done Running,” a New Song About Surrender and Finding Peace in God",
-      "link": "https://www.jubileecast.com/articles/39539/20260918/josh-grove-im-done-running.htm",
-      "summary": "Josh Grove Releases “I’m Done Running,” a New Song About Surrender and Finding Peace in God",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T01:38:47Z",
-      "first_seen": "2026-09-19T01:37:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31858/josh-grove.jpg",
         "via": "media:content"
       },
       "breaking": false,
