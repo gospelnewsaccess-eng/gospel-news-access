@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-09-25T19:36:17Z",
+  "generated_at": "2026-09-25T20:06:18Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 463,
   "items": [
+    {
+      "id": "0e0a1352135a4b90",
+      "title": "Free Worship Resources: Gateway Worship’s “How Majestic” Charts, Lyrics and Multitracks Available",
+      "link": "https://www.jubileecast.com/articles/39715/20260925/free-worship-resources-gateway-worship-s-how-majestic-charts-lyrics-and-multitracks-available.htm",
+      "summary": "Free Worship Resources This Week: Gateway Worship’s “How Majestic” Charts, Lyrics and Multitracks Available",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T20:07:11Z",
+      "first_seen": "2026-09-25T20:06:18Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27431/gateway-worship.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0c125ff943c3d0c3",
+      "title": "The Black Church Fed Souls. Now It Must Feed Communities",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTjZNRWZJU2FaRk9qaGdlQTBHSzd6NWpqQThnRVdDc2R2MWVyX3dldTM4U0V6RkZ5bTYtbl80NGVabVljTjhjc3NYM2FLMnc2endra1V5d2RXcW5CV1FhWlV1SENqSGdZZTlHSVZpSG9PVHN3bTlQc01wOGJRY2M3Tm1venBSYzJYUEp2a3kyRXpnUQ?oc=5",
+      "summary": "The Black Church Fed Souls. Now It Must Feed Communities Word In Black",
+      "outlet": "Word In Black",
+      "outlet_url": "https://wordinblack.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T20:03:54Z",
+      "first_seen": "2026-09-25T20:06:18Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T08:06:18Z"
+    },
+    {
+      "id": "601135845ab60621",
+      "title": "PHOTOS: Pope Leo XIV visits France’s restored Notre-Dame Cathedral",
+      "link": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-visits-france-s-restored-notre-dame-cathedral",
+      "summary": "Pope Leo XIV is visiting France from Sept. 25–28 and elebrated Vespers at Notre-Dame Cathedral in Paris Friday evening, becoming the first pope to visit the church since it was rebuilt.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T19:54:00Z",
+      "first_seen": "2026-09-25T20:06:18Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790362257/ewtn-news/en/_TEO1138_uxnp44.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b460b2feb8aa4b7d",
+      "title": "Episcopal priestess stirs outrage for claiming Jesus is transgender: 'Heretical and vapid'",
+      "link": "https://www.christianpost.com/news/episcopal-priestess-stirs-outrage-for-claiming-jesus-is-trans.html",
+      "summary": "An Episcopal priestess in New York City has stirred outrage in recent days for a viral clip in which she proclaimed from the pulpit that God is nonbinary and Jesus Christ is transgender.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T19:18:00Z",
+      "first_seen": "2026-09-25T20:06:18Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272070_w_550_309.jpg?v=20260925151847",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "9e4b48fcc28b84ee",
       "title": "Christian Rap Submission Picks of the Day 9/25/26",
@@ -16,6 +89,25 @@
       "published": "2026-09-25T18:34:16Z",
       "first_seen": "2026-09-25T19:06:22Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e432f546432f374c",
+      "title": "Camp Mystic owners could face manslaughter, negligent homicide charges for flood deaths",
+      "link": "https://www.christianpost.com/news/camp-mystic-owners-could-face-charges-for-flood-deaths.html",
+      "summary": "The owners of a private Christian camp in Texas are reportedly under criminal investigation over the deaths of 25 campers, two counselors and a camp owner in catastrophic flooding last year.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T18:21:00Z",
+      "first_seen": "2026-09-25T20:06:18Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272069_w_550_367_565_117.jpg?v=20260925142138",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -689,6 +781,22 @@
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8d63f1ae7b42da13",
+      "title": "Passing the faith on: Honouring our communities across generations",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQVpCMmhJQllnbXpvdmk5b0FFSWM3UjBheTZpd1NhVWQ4U3BkUTF2alhYcG9kc3hnRzhDZEQ0RHdwSERGZUp6U3MzelJKdEozSWhVc1FLTks3eW05bDYwMGlmaC1CQV9iV0EyQVdoaEFvN2hMMVU0MzRiWXhRbG44N0hScUlyQUJJa002M3lpNVQ1NW5GemEtUjZTMU9zaDU2LXNxTzBSTzNsalJB0gGyAUFVX3lxTFBJR08zNmxDV3BiQWxXR0tqMkN0QzBObHZMMm44UzhFRFB4b0N3UURqbDhyWUVmdjdTblNsaFdZMFVzUTJHeG1tTHFhUFN2SDNPMlBNcUZ5bUN6QXQ4NUxCVVhvQUs1MVlORGktQ2UzVkp3c01memJfSnFoTUJyMUlXS3RvTDlVTWZ6TTRwQkdPTDB6OE9ZUkpscm1BTFlpVkYyTm1yVlZKa3AxOTB5WUJyYVE?oc=5",
+      "summary": "Passing the faith on: Honouring our communities across generations keepthefaith.co.uk",
+      "outlet": "keepthefaith.co.uk",
+      "outlet_url": "https://www.keepthefaith.co.uk",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T12:47:37Z",
+      "first_seen": "2026-09-25T20:06:18Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10883,117 +10991,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "7980777c906528ea",
-      "title": "Pope Leo XIV appeals for international aid as Somalia crisis deepens",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appeals-for-international-aid-as-somalia-crisis-deepens",
-      "summary": "In his Sunday Angelus catechesis, the pontiff reflected on the parable of the vineyard workers, saying God’s generosity overturns human calculations of merit and reward.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T12:19:30Z",
-      "first_seen": "2026-09-20T12:40:37Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789906419/ewtn-news/en/_RIS4629_xy0oxo.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "11830c908f84b02f",
-      "title": "Slovakia: Thousands gather in Bratislava for National March for Life",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/slovakia-bratislava-march-for-life-bishops-conference.html",
-      "summary": "As thousands of people gather in Bratislava for the National March for Life, Fr. Ivan Ružička, Secretary General of the Slovak Bishops’ Conference, calls for the protection of every human life and a complete legislative ban on surrogacy. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T12:02:00Z",
-      "first_seen": "2026-09-20T12:40:37Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/08/16/19/1786900502928.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2423246b40d2e688",
-      "title": "Newsom Order Considers AI ‘Kill Switch’",
-      "link": "https://mycharisma.com/news/newsom-order-considers-ai-kill-switch/",
-      "summary": "California Governor Gavin Newsom (D), widely believed to be a 2028 presidential contender, signed an executive order to expand oversight measures on artificial intelligence programs. Under the order, the Government Operations Agency, alongside industry…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T11:30:00Z",
-      "first_seen": "2026-09-20T11:35:57Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "42680bf34be8de55",
-      "title": "HHS Examining Electromagnetic Field Exposure",
-      "link": "https://mycharisma.com/news/hhs-examining-electromagnetic-field-exposure/",
-      "summary": "The Department of Health and Human Services (HHS) is conducting a review of electromagnetic fields, the agency announced. Because such technology is part of daily life, the agency believes an examination of the matter is necessary. The agency issued a Request…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T11:00:00Z",
-      "first_seen": "2026-09-20T11:35:57Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Screenshot-2025-12-31-113901.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7860cb5cb1ffe880",
-      "title": "The 23 Eastern Catholic Churches: Ancient traditions in communion with Rome",
-      "link": "https://www.ewtnnews.com/vatican/the-23-eastern-catholic-churches-ancient-traditions-in-communion-with-rome",
-      "summary": "While the Catholic Church is often viewed from a Latin rite prism, it also includes 23 Eastern Churches that are in full communion as part of the one Catholic fold.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T11:00:00Z",
-      "first_seen": "2026-09-20T11:35:57Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789592331/ewtn-news/en/papa-1779272992_w6sl1t.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "83aeb9b184665723",
-      "title": "Cory Asbury trades bitterness for faith in new album",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX2RpcEZ3a0xXN0VKa19CMGpDdldTTjZNV0lPOGoySHBMZXdoOUFub0JiU1FmZEx2ZEJBZUwtd0toRFF5TlJjcW1wNjd3c3dFcFA4MVVHbEZFYkFlRzg5WExhemxFVVU4YlFFQmdvSVF0VVhyS0ZFek1BTGllVmdWekdfcVJKOEtfaHpR?oc=5",
-      "summary": "Cory Asbury trades bitterness for faith in new album CHVN Radio",
-      "outlet": "CHVN Radio",
-      "outlet_url": "https://chvnradio.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-20T10:36:05Z",
-      "first_seen": "2026-09-20T11:06:18Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-20T23:06:18Z"
     }
   ]
 }
