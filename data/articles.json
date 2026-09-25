@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T11:07:00Z",
+  "generated_at": "2026-09-25T11:39:31Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "9923b07f8e441a60",
+      "title": "Basketball first, church next? How a Black Houston megachurch reaches Gen Z",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGl2TU8xUFFhSW0yY0lRS0IwYlVhMUNRSXRTUVRvUFJRRkg5WldyaHgwV18tRjNSQllEUGUyc1JoLW0wQllXS2FHM3FSVGRjSXR6a3RIM0xiQUxEelBBQzByV3p0VVVvZ0xQUGZiMTM3NkUzQlFMYks0Wm1UM1lLbkFON2NFbi1HWUEzSUVfZlFzNXYtclFmYkRXeVc1RXpPZEVvNFpadTlueEYzSjJpUEZxSDJ3WmJncnNWQV9Dd3JRWUpmMDRSQw?oc=5",
+      "summary": "Basketball first, church next? How a Black Houston megachurch reaches Gen Z Houston Chronicle",
+      "outlet": "Houston Chronicle",
+      "outlet_url": "https://www.houstonchronicle.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T11:06:50Z",
+      "first_seen": "2026-09-25T11:39:31Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T23:39:31Z"
+    },
     {
       "id": "fd37518f83b897ee",
       "title": "‘The Pendragon Cycle’ is a fantasy of Christian masculine power",
@@ -10977,25 +10993,6 @@
       "first_seen": "2026-09-19T11:35:18Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789662601/ewtn-news/en/johnsansonefeatured_jyanz5.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "32b0c09fa97dfb3d",
-      "title": "Pope Leo: Bishops should offer clear teaching",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-bishops-should-offer-clear-teaching.html",
-      "summary": "In a letter to the bishops of Latin America and the Caribbean on the occasion of the third centenary of the canonisation of their patron, Saint Turibius of Mogrovejo, the Pope reflects on episcopal ministry in the light of the rite of welcoming a bishop into…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-19T10:59:00Z",
-      "first_seen": "2026-09-19T12:40:08Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/10/2026-09-10-partecipantii-al-corso-di-formazione-per-i-nuovi-vesc/1789031112469.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
