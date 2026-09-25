@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T03:06:43Z",
+  "generated_at": "2026-09-25T03:38:42Z",
   "story_count": 600,
-  "with_photo": 468,
+  "with_photo": 467,
   "items": [
+    {
+      "id": "e42aa2111dbe0da6",
+      "title": "A Songwriter’s Escape From Cotton Fields Became a Gospel Classic",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWGpCdTI0aDZlMkJtZlRUa3hMbndOYWctaE9RaUNnTHlXSFhncURHTzN5ZDBUSXExT0xQc1BwS211bHNRN3d1M2dIMkxBcmk2RVV0SlBFUmxSRkZQSGpBekV6TDMwbmV2YzFhbFJ0dldwTzdfV29lc3BFWnlJTlgwcEk0MEJhZkJWVnprQTY5VzhUcG8tcVkyQg?oc=5",
+      "summary": "A Songwriter’s Escape From Cotton Fields Became a Gospel Classic News On 6",
+      "outlet": "News On 6",
+      "outlet_url": "https://www.newson6.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-25T03:22:34Z",
+      "first_seen": "2026-09-25T03:38:42Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T15:38:42Z"
+    },
     {
       "id": "29a3cc936d3cf986",
       "title": "LIVE UPDATES: Pope Leo XIV in France",
@@ -10983,25 +10999,6 @@
       "first_seen": "2026-09-19T01:37:12Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31857/ellie-holcomb.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "120881dc2fdeb92c",
-      "title": "Holly Brand Releases Personal New Song “Enough For Me” About Finding Satisfaction in Jesus",
-      "link": "https://www.jubileecast.com/articles/39537/20260918/holly-brand-enough-for-me.htm",
-      "summary": "Holly Brand Releases Personal New Song “Enough For Me” About Finding Satisfaction in Jesus",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T01:31:10Z",
-      "first_seen": "2026-09-19T01:37:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31856/holly-brand.jpg",
         "via": "media:content"
       },
       "breaking": false,
