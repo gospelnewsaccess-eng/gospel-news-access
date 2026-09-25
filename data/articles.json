@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T22:06:35Z",
+  "generated_at": "2026-09-25T22:37:53Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
     {
       "id": "fdc16acf7de5d99e",
@@ -596,6 +596,22 @@
         "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
         "via": "content:encoded"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4d81b90620cc82c8",
+      "title": "Kirk Franklin Releases GloRilla Collaboration ‘This Time’",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mOEFSd1ZaZjl5X24yT294eC1sOE9DLVJnQnY0d3BWZGVRRlk5aG9uUFJWRWZvdGtXaHVQa08yNUJxMnRZdWt4T3Q5Mk1CNi02RXladzlMeVpvRHlLZXJDRnFZVWJoRWp3cHVpWg?oc=5",
+      "summary": "Kirk Franklin Releases GloRilla Collaboration ‘This Time’ uDiscoverMusic",
+      "outlet": "uDiscoverMusic",
+      "outlet_url": "https://www.udiscovermusic.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-25T18:01:43Z",
+      "first_seen": "2026-09-25T22:37:53Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10977,25 +10993,6 @@
       "first_seen": "2026-09-20T20:36:19Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31864/resident-evil.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "34b7cb5e3b904a78",
-      "title": "Charlie Kirk’s Family Has “Powerful Evidence”—But One Utah Law Could Destroy Their Case",
-      "link": "https://www.jubileecast.com/articles/39576/20260920/charlie-kirk-s-family-has-powerful-evidence-—but-one-utah-law-could-destroy-their-case.htm",
-      "summary": "Charlie Kirk’s Family Has “Powerful Evidence”—But One Utah Law Could Destroy Their Case",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:23:11Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30673/charlie-kirk.jpg",
         "via": "media:content"
       },
       "breaking": false,
