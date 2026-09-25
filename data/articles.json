@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-25T16:40:37Z",
+  "generated_at": "2026-09-25T17:06:01Z",
   "story_count": 600,
-  "with_photo": 462,
+  "with_photo": 463,
   "items": [
+    {
+      "id": "c79f849a02c27d31",
+      "title": "Pope Leo prays at Notre-Dame Cathedral: ‘where heaven and earth meet’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-prays-at-notre-dame-cathedral-where-heaven-and-earth-meet",
+      "summary": "The prayer service at the famous Gothic cathedral was Pope Leo’s first meeting with the Catholic Church of Paris during his Sept. 25-28 visit to France.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T16:45:58Z",
+      "first_seen": "2026-09-25T17:06:01Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790352572/ewtn-news/en/WhatsApp_Image_2026-09-25_at_5.58.17_PM_nik2at.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f0d470c106c2b001",
+      "title": "Shroud of Turin Breakthrough: DNA Discovery Points Back to the Holy Land",
+      "link": "https://mycharisma.com/news/shroud-of-turin-breakthrough-dna-discovery-points-back-to-the-holy-land/",
+      "summary": "Just when it seems the mystery of the Shroud of Turin cannot get any deeper, scientists uncover another clue. New DNA research on the burial cloth believed by many to have wrapped the body of Jesus Christ has uncovered a rare genetic lineage tied to the Near…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T16:31:30Z",
+      "first_seen": "2026-09-25T17:06:01Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0b75912b25f58f00",
       "title": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else",
@@ -18,6 +56,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-26T04:40:37Z"
+    },
+    {
+      "id": "d2dbe1f7e8255739",
+      "title": "Newsom vetoes California abortion bill amid 2028 speculation",
+      "link": "https://www.christianpost.com/news/newsom-vetoes-california-abortion-bill-amid-2028-speculation.html",
+      "summary": "California’s Democratic Gov. Gavin Newsom has vetoed a bill that would have required the governor to decline extradition requests for those who perform or assist in the performance of abortions and gender transition surgeries in states where the procedures…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T16:00:00Z",
+      "first_seen": "2026-09-25T17:06:01Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272066_w_550_367_567_279.jpg?v=20260925120219",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "ac1d6a0457e75c1a",
@@ -10934,60 +10991,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "c91d8f74fb0f8057",
-      "title": "AI will not have the final word over humanity",
-      "link": "https://www.christianpost.com/voices/ai-will-not-have-the-final-word-over-humanity.html",
-      "summary": "How can this technology be captured for the glory of God and the advancement of the Gospel?",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T04:04:52Z",
-      "first_seen": "2026-09-20T04:06:45Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271971_w_550_367.jpg?v=20260920000841",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2c890a1b807a1220",
-      "title": "Michael Youssef urges Christians not to 'hide in our church pews': 'Roll up your sleeves of obedience'",
-      "link": "https://www.christianpost.com/news/michael-youssef-christians-must-not-hide-in-our-church-pews.html",
-      "summary": "Egyptian-born pastor and evangelist Michael Youssef says the world is experiencing “unprecedented turmoil” and is urging Western Christians not to \"hide\" in their church pews, but rather \"go to the wolves’ territories\" with the Good News of Jesus.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-20T04:03:54Z",
-      "first_seen": "2026-09-20T04:06:45Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271990_w_550_323_538_99.jpg?v=20260920000805",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4efac4f352fd973e",
-      "title": "Church fire 1.jpg",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVFZqWXZGRDBhOUg1dkxGalZKQlRuelZDRjE4R1hyR3k2Q1FqTzhpS0RWM2VBUlFfQTJsUlNYdDRyTDhXTXlhd1Bvb2VsdVdBaXZ2R0JQSHY3b0JJOW9Gem9YUVRuQVpSNVJCYW9SOExBR2ZrdjJNWGowUXE5ZE5ETjV1Rm53TzAxRDVUTEdn?oc=5",
-      "summary": "Church fire 1.jpg The Killeen Daily Herald",
-      "outlet": "The Killeen Daily Herald",
-      "outlet_url": "https://kdhnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-20T02:25:25Z",
-      "first_seen": "2026-09-20T02:37:31Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-20T14:37:31Z"
     }
   ]
 }
