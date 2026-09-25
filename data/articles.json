@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T10:39:20Z",
+  "generated_at": "2026-09-25T11:07:00Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
@@ -75,6 +75,25 @@
       "image": {
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/Kilgo-and-dillard-web.jpg?resize=1200,628",
         "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "04b6ba4ae87fe44e",
+      "title": "Financial professionals focus on aligning investment with Catholic social teaching at summit",
+      "link": "https://www.ewtnnews.com/world/us/catholic-financial-professionals-focus-on-aligning-investments-with-the-faith",
+      "summary": "Catholic Faith Investors Summit participants draw inspiration from — and aim to apply — Mensuram Bonum, a 2022 Vatican document that offers faith-based guidelines for finance and investment.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T10:00:00Z",
+      "first_seen": "2026-09-25T11:07:00Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790273028/ewtn-news/en/CFIS2026_rc2ntj.jpg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -10977,25 +10996,6 @@
       "first_seen": "2026-09-19T12:40:08Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/10/2026-09-10-partecipantii-al-corso-di-formazione-per-i-nuovi-vesc/1789031112469.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4e7dd14ba8045811",
-      "title": "Beyond divisions: Renovabis’ challenge to rebuild society",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/beyond-divisions-renovabis-challenge-to-rebuild-society.html",
-      "summary": "The 30th Congress of the German Catholic aid organization “Renovabis” concluded Friday, 18 September, in Freising, Germany. More than 200 experts from 26 countries discussed polarization, digital echo chambers, and the role of the Churches in building social…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-19T10:36:00Z",
-      "first_seen": "2026-09-19T11:35:18Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/17/frisinga-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
