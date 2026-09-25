@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-25T03:38:42Z",
+  "generated_at": "2026-09-25T04:06:49Z",
   "story_count": 600,
   "with_photo": 467,
   "items": [
+    {
+      "id": "b093197b85c40719",
+      "title": "Gen Z and Millennials Are Drinking Less. But Gen X Definitely Isn’t.",
+      "link": "https://relevantmagazine.com/current/gen-z-and-millennials-are-drinking-less-but-gen-x-definitely-isnt/",
+      "summary": "Mocktails have their own section on the menu now, and “sober curious” is a personality. The generations that made that happen are finally showing up in the data. So is the one that didn’t. Alcohol use among U.S. adults has fallen for the first time since the…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T03:34:28Z",
+      "first_seen": "2026-09-25T04:06:49Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/drinking.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e42aa2111dbe0da6",
       "title": "A Songwriter’s Escape From Cotton Fields Became a Gospel Classic",
@@ -10980,25 +10999,6 @@
       "first_seen": "2026-09-19T01:37:12Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31858/josh-grove.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6b9c757ca36847ba",
-      "title": "Ellie Holcomb Releases New Single “Flowers For No Reason” Celebrating God’s Everyday Love",
-      "link": "https://www.jubileecast.com/articles/39538/20260918/ellie-holcomb-flowers-for-no-reason.htm",
-      "summary": "Ellie Holcomb Releases New Single “Flowers For No Reason” Celebrating God’s Everyday Love",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T01:35:01Z",
-      "first_seen": "2026-09-19T01:37:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31857/ellie-holcomb.jpg",
         "via": "media:content"
       },
       "breaking": false,
