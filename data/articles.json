@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T14:08:03Z",
+  "generated_at": "2026-09-25T14:40:03Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 463,
   "items": [
+    {
+      "id": "7a6396f700931373",
+      "title": "AI Singer George (or Greg Paul) Is Selling Christian Music as Scam Posting Fake Videos from \"America's Got Talent,\" Gaming iTunes",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTVVNXdiR3dCckhFWmJzN2NZWl9iZG8yRGZTQURidXp5MkJkOU83SUM1WUZDWHB5dzVzMXNTTllXUF9rSWg4YkNVRExDQ3h0TFRUZ0hZa2FPcTc0emt1M3ZhUEkwdV9hSkpyRmM5TW96SkxCVmlQZ3VCelVKQXBHNkFqV0pXVGxDVXY5TDNIU29BcHFETXI0Q05SSDJiYUZ4UEZzV254Y3kxSkpxb3ZGUjczUGNTTWlfVmJ1bHROUzBZZnVKV2VidzNKZzBOZ1doVlg2N2NRR3ZSdmZMQlJIdFUwXzBjckYwc3Z3VC01ZURWVW8?oc=5",
+      "summary": "AI Singer George (or Greg Paul) Is Selling Christian Music as Scam Posting Fake Videos from \"America's Got Talent,\" Gaming iTunes Showbiz411",
+      "outlet": "Showbiz411",
+      "outlet_url": "https://www.showbiz411.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-25T14:01:54Z",
+      "first_seen": "2026-09-25T14:40:03Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T02:40:03Z"
+    },
     {
       "id": "95d6c1fe70ba4096",
       "title": "Scott Riggan Releases Shepherds and Wolves (Deluxe) With New Song “Damaged”",
@@ -10971,25 +10987,6 @@
       "first_seen": "2026-09-19T14:36:15Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789812304/ewtn-news/en/GettyImages-2237911145_nkffk9.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b7be3038d8c9a75",
-      "title": "WATCH LIVE: AWAKE Houston with Michael Youssef and Chris Tomlin tonight",
-      "link": "https://www.christianpost.com/video/awake-houston-live-with-michael-youssef-chris-tomlin.html",
-      "summary": "AWAKE Houston will feature Michael Youssef, Grammy-winning artist Chris Tomlin, O.S. Hawkins and evangelist Ahmed Joktan, founder of Mecca to Christ Ministries International.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-19T13:23:36Z",
-      "first_seen": "2026-09-19T14:36:15Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271986_w_550_310_614_223.jpg?v=20260919092619",
         "via": "media:content"
       },
       "breaking": false,
