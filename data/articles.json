@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T05:06:27Z",
+  "generated_at": "2026-09-25T05:39:03Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "bbaf2897f1b1bd1c",
+      "title": "5 Questions with Basillia Barnaby-Cuff - jamaica-gleaner.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbG5TNXhWNmRWblBKUXM0SVY5cEJJMXJpdGNvMGtDdURXLVZnOHdBazNIdHcxNG1qZ0NWUzRSVnJFaU5xeUM2OWRmb1FwOWJFQ1JvdVRBN1VLRmVhU3lrYjlaOTZHMV9ETXQtWW5ZYVJlTktBRlJla0Z2V0hwNGxURkU0U2haa21Vc3h3bjNXQWgxMFk5YjVn?oc=5",
+      "summary": "5 Questions with Basillia Barnaby-Cuff jamaica-gleaner.com",
+      "outlet": "jamaica-gleaner.com",
+      "outlet_url": "https://jamaica-gleaner.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-25T05:06:10Z",
+      "first_seen": "2026-09-25T05:39:03Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-25T17:39:03Z"
+    },
     {
       "id": "e3289a73156ef9ec",
       "title": "New Song: Kirk Franklin – ‘This Time’ (featuring GloRilla)",
@@ -181,6 +197,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31929/george-amal-clooney-and-cindy-crawford-and-presley-gerber.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f6bfe17643a26b3e",
+      "title": "Granddaughter retraces Oklahoma roots of gospel hit “I’ll Fly Away”",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2wzNmMzSTVOU2NPejhVeDJfODNlZ2h5MDdDeHhzQXJETmx3bzdXeXBxN2M0T2hPUEpIRkpJZDlLd3lWcUhjbVlhQm53c05KQThtNERxMFdNYTk2ellLRF9HQWhQS0EweDU2SWxTX1VsN2JsUU1NWEVIc0FqQzYzeUpSM2tKclhESU1UbFNSY2J0ZTVM?oc=5",
+      "summary": "Granddaughter retraces Oklahoma roots of gospel hit “I’ll Fly Away” News 9",
+      "outlet": "News 9",
+      "outlet_url": "https://www.news9.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-25T01:31:25Z",
+      "first_seen": "2026-09-25T05:39:03Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10964,41 +10996,6 @@
       "first_seen": "2026-09-19T08:37:55Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31863/dolly-parton.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f6f3de71ae61b1ad",
-      "title": "Kansas City-Area Megachurch Prevails in COVID-19 Lawsuit with Local Govt",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXUFd3Z2NuUGE3QW02TG1WQ1NsOVhYSVdyS1RVY1U2M1laeEdiSVRwVE9NT2xXclloNVBHTlFyc0FPN01PYVByVEhNZjlWeE01azJ3dU1NMW5wT2RXN2RnWUVCZXRteF9meWYwZA?oc=5",
-      "summary": "Kansas City-Area Megachurch Prevails in COVID-19 Lawsuit with Local Govt roysreport.com",
-      "outlet": "roysreport.com",
-      "outlet_url": "https://roysreport.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-19T08:04:07Z",
-      "first_seen": "2026-09-20T02:07:13Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "319abb8ba6ddc86b",
-      "title": "Carrot Top Hospitalized After Reported Suicide Attempt Forces Las Vegas Show Cancellation",
-      "link": "https://www.jubileecast.com/articles/39543/20260919/carrot-top-hospitalized-after-reported-suicide-attempt-forces-las-vegas-show-cancellation.htm",
-      "summary": "Carrot Top Hospitalized After Reported Suicide Attempt Forces Las Vegas Show Cancellation",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-19T07:59:00Z",
-      "first_seen": "2026-09-19T08:37:55Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
         "via": "media:content"
       },
       "breaking": false,
