@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T15:07:39Z",
+  "generated_at": "2026-09-25T15:38:05Z",
   "story_count": 600,
   "with_photo": 463,
   "items": [
+    {
+      "id": "5ded318d103f6556",
+      "title": "Highland Park UMC dispute with regional conference over governance, not doctrine: court filing",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU09NVV9XRlFWeTVVbjFsVHp5VkxJNFQ4VGFDdExDa25iZlFVS1RpWV8tZGhxZTAzVUhPQ0FzcGhfSC1IZkppUDI4OXJFcG5LY015N0dDX2g5WVFSRTAtdjlJb2l6VVRoRE11b3cxZm9tZGQwbjZDeHJ4bml4WkhrNDJ0SUFURWE4azNvNG5BQ0xTMGVZQm1NemlObkxtaER2Z3c?oc=5",
+      "summary": "Highland Park UMC dispute with regional conference over governance, not doctrine: court filing Christian Post",
+      "outlet": "Christian Post",
+      "outlet_url": "https://www.christianpost.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T15:16:00Z",
+      "first_seen": "2026-09-25T15:38:05Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T03:38:05Z"
+    },
     {
       "id": "ae19d7638ab76f0b",
       "title": "Mizzou Student Supports Killing People for Speech at TPUSA Event, Exposing a Dark Spiritual Battle",
@@ -10973,22 +10989,6 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789849986/ewtn-news/en/GettyImages-1165806918_vactd6.jpg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b5a53dc0be15990",
-      "title": "CeCe Winans tickets on sale in Seattle",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcFVGeXRUeTdSVGNLZHBmb2NDZTlBS3pJMTRBa0tnRVh6UldCMzJlSFR3dWpqbHh3MHR1MzRyQnBJRUhFbTMxcmNsLXZVVGEzdUVwVEZ4QVFpSnJNS1BjN01fUF8ybVF6Qlk5WXdrMXlNdHVITWNUVWhNYzhlaTg?oc=5",
-      "summary": "CeCe Winans tickets on sale in Seattle TicketNews",
-      "outlet": "TicketNews",
-      "outlet_url": "https://www.ticketnews.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-19T19:20:41Z",
-      "first_seen": "2026-09-20T13:36:48Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
