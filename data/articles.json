@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-25T06:43:20Z",
+  "generated_at": "2026-09-25T07:07:51Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
+    {
+      "id": "9a5855f95cc44ba0",
+      "title": "Weekend Box Office Predictions: Can a Seven-Year-Old Avengers Movie Beat \"Resident Evil\"?",
+      "link": "https://www.jubileecast.com/articles/39705/20260925/weekend-box-office-predictions-can-a-seven-year-old-avengers-movie-beat-resident-evil.htm",
+      "summary": "Weekend Box Office Predictions: Can a Seven-Year-Old Avengers Movie Beat Resident Evil?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T07:04:47Z",
+      "first_seen": "2026-09-25T07:07:51Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31930/avengers.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d993423f75702919",
+      "title": "Dolly Parton’s Final Recording Is a Duet With Bono—What Did She Leave Behind in “Torn”?",
+      "link": "https://www.jubileecast.com/articles/39704/20260925/dolly-parton-s-final-recording-is-a-duet-with-bono—what-did-she-leave-behind-in-torn.htm",
+      "summary": "Dolly Parton’s Final Recording Is a Duet With Bono—What Did She Leave Behind in “Torn”?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T07:00:39Z",
+      "first_seen": "2026-09-25T07:07:51Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31632/dolly-parton.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "642cf90ba8bca092",
       "title": "Kirk Franklin Unveils New Album \"I Am What I Am\"—What Is He Revealing About Himself This Time?",
@@ -10958,44 +10996,6 @@
       "first_seen": "2026-09-19T08:37:55Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27819/house-of-david-season-2.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "98d2ab65128ef29a",
-      "title": "Lord's Day Reflection: The Whole Denarius",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/gospel-reflection-twenty-fifth-sunday-ordinary-time.html",
-      "summary": "As the Church celebrates the Twenty-Fifth Sunday in Ordinary Time, Fr. Marion Nguyen, OSB, offers his thoughts on the day’s liturgical readings under the theme: “The Whole Denarius.\" Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-19T08:26:00Z",
-      "first_seen": "2026-09-19T09:36:54Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/09/30/Sunday-Gospel-Reflection1AEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d094ebf7566d84fb",
-      "title": "Archbishop Lori highlights enduring witness of women religious in American life",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/archbishop-lori-us-council-major-superiors-women-religious.html",
-      "summary": "At the US national assembly of women religious major superiors, Archbishop William Lori praises women religious as often-overlooked architects of American freedom whose holiness and service remain vital to renewing the Church and society. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-19T08:21:00Z",
-      "first_seen": "2026-09-19T09:36:54Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2025/06/24/19/1750784819125.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
