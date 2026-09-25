@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-25T16:07:37Z",
+  "generated_at": "2026-09-25T16:40:37Z",
   "story_count": 600,
   "with_photo": 462,
   "items": [
+    {
+      "id": "0b75912b25f58f00",
+      "title": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVnlmWWdpOVRkakZVdm1adG5VYVkyeFktMFNtY0N5dUZSSkhJVTJxd2paWFVkUkpVYURfRVZJeWNuUTMxNlU5TmR0NThoMTk4dEFSUnd6OExXQ2o1X0lnclUzdTJPeWZabnJZbnVkX2dVV041MGtpcjFRZmhtWE9PTEE3SmcyYjZBamNF?oc=5",
+      "summary": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else The San Diego Voice & Viewpoint",
+      "outlet": "The San Diego Voice & Viewpoint",
+      "outlet_url": "https://sdvoice.info",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T16:00:00Z",
+      "first_seen": "2026-09-25T16:40:37Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T04:40:37Z"
+    },
     {
       "id": "ac1d6a0457e75c1a",
       "title": "Puerto Rican Star Christian Daniel Returns With New Music as 'Guerrera' Becomes a Song of Hope for Venezuela",
@@ -10972,22 +10988,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-20T14:37:31Z"
-    },
-    {
-      "id": "1c50547cc75adeb8",
-      "title": "GMA Announces More Performers, Presenters for 57th Annual Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGRRb0ZNY3ZiTk9NY1h4WGROVzlqc05hUUpneDRLZ2ZSWm8zZXRMNmxYZ1RNZnpMWW81NllYbjQ3YUNLYmk2LU11dXMzUjNRcUFiaGdFMkxyS3llUU9najRGWkdmS2dOdk16UV82V2NZMjVzNlE5dHNEb3RQQ3AwS1kxS0QzVmhRd0xWcW42UTl3OEt1UUE?oc=5",
-      "summary": "GMA Announces More Performers, Presenters for 57th Annual Dove Awards The Tennessee Tribune",
-      "outlet": "The Tennessee Tribune",
-      "outlet_url": "https://tntribune.com",
-      "source_feed": "Google News: Tasha Cobbs Leonard",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-20T02:04:05Z",
-      "first_seen": "2026-09-20T05:06:44Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
