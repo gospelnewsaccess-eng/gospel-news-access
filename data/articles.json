@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-25T01:36:05Z",
+  "generated_at": "2026-09-25T02:06:30Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 467,
   "items": [
+    {
+      "id": "92719b78ec068782",
+      "title": "Kelly Clarkson Debuts New Look as She Steps Into a New Chapter: Here's What's Behind It",
+      "link": "https://www.jubileecast.com/articles/39699/20260924/kelly-clarkson-new-haircut-new-chapter-family-faith.htm",
+      "summary": "Kelly Clarkson Debuts New Look as She Steps Into a New Chapter: Here's What's Behind It",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T01:24:13Z",
+      "first_seen": "2026-09-25T02:06:30Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31928/kelly-clarkson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ce24948dbd8dfd02",
+      "title": "CAIN Announces New Album PARADISE for 2027, Releases “My Victory’s Coming”",
+      "link": "https://www.jubileecast.com/articles/39698/20260924/cain-paradise-album-my-victorys-coming.htm",
+      "summary": "CAIN Announces New Album PARADISE for 2027, Releases “My Victory’s Coming”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-25T01:15:06Z",
+      "first_seen": "2026-09-25T02:06:30Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31927/cain.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cd81342789b6740d",
+      "title": "Blessed Fulton J. Sheen: His beatification in photos",
+      "link": "https://www.ewtnnews.com/world/us/blessed-fulton-j-sheen-the-beatification-in-photos",
+      "summary": "Archbishop Fulton J. Sheen was declared “blessed” by Pope Leo XIV on Sept. 24.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T00:47:27Z",
+      "first_seen": "2026-09-25T02:06:30Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790277572/ewtn-news/en/SheenBeatificationMassProcession3092426_musbbu.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ce7f96856db642ad",
       "title": "You Know My Tears, Jesus 😭 | When Nobody Sees Your Pain | Emotional Gospel Worship Song.",
@@ -10946,60 +11003,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "a71394bc23157d4f",
-      "title": "“Daniel And The Fiery Furnace” Tests Hollywood’s Growing Appetite For Biblical Movies",
-      "link": "https://www.jubileecast.com/articles/39536/20260918/daniel-and-the-fiery-furnace-tests-hollywood-s-growing-appetite-for-biblical-movies.htm",
-      "summary": "“Daniel And The Fiery Furnace” Tests Hollywood’s Growing Appetite For Biblical Movies",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-18T21:41:03Z",
-      "first_seen": "2026-09-18T22:06:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31690/daniel.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9fad68521d806825",
-      "title": "From proselytism to politics: Bishop Barron addresses hot-button issues on EWTN",
-      "link": "https://www.ewtnnews.com/world/us/from-proselytism-to-politics-bishop-barron-addresses-hot-button-issues-on-ewtn",
-      "summary": "The Word on Fire founder clarifies the call to evangelize, defends his nonpartisan advisory role on religious liberty, and warns of resurgent communism.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-18T21:17:53Z",
-      "first_seen": "2026-09-18T22:06:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789763728/ewtn-news/en/20260918110948_4a80a25b2cf6df02bbc14a054d4a3307a145c52e6db224576576d2541bf805dc_izw6ls.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cacbfb5bedead5ed",
-      "title": "‘It’s truly emotional’: St. Paul Missionary Baptist Church to unveil historical marker and monument",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFd0ZnM1aXlnc09MWWJreFJIRWRmbkJ4c0dzaExQbHVFVlVEWFg2OTVxRXd0OVdhR3FxT1B6ZHBmMXk2dkltWjNXeHBfUEQ2bUJzLWs1RmRwbl9tS2p0U2VjOVBUeVZPYVg1VlFEd29JTy1sZHNDUm9WLVk0MEl5WkkzaWJ1NklaSHNQX3BwbXFCeTJ5TGpZMGRmWWRSb0l0ZmZMY3owSVBPRktRX3M1WnFVZlFmYnllTi1nQlFNaE56b0XSAdcBQVVfeXFMTnB2NUpsemtrNWcyb21VSUd5NjFENzRMSlIwaExTdHRjUGFrNl9sMlZOQ3pjajY4QUoxdmM1Z25ESnpjSGNfa2Vad2ZoekpxMEFWRGdUV2oyeXBCbkwtcENVNWZLaVR3WGI4Y3k3ZXh2ZTdjMXlOaHpwdjVLZnFXVE5pRnZaWS02dFIxbmQ5SVZRdTBoUk1yc21HLVJVQmtuaWVIWm5fdzkza0Y1aEQ1aUZZSHg5WFBfYlFPUU53RHlzanhjelNldEpXQjlhYWtqbzJDdnp5cWs?oc=5",
-      "summary": "‘It’s truly emotional’: St. Paul Missionary Baptist Church to unveil historical marker and monument Live 5 News",
-      "outlet": "Live 5 News",
-      "outlet_url": "https://www.live5news.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-18T21:16:00Z",
-      "first_seen": "2026-09-18T21:36:14Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-19T09:36:14Z"
     }
   ]
 }

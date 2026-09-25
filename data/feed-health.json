@@ -4,7 +4,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:05Z",
+      "last_checked": "2026-09-25T02:06:31Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -12,7 +12,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:10Z",
+      "last_checked": "2026-09-25T02:06:38Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -20,7 +20,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:17Z",
+      "last_checked": "2026-09-25T02:06:46Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -28,23 +28,24 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:22Z",
+      "last_checked": "2026-09-25T02:06:53Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
     "Google News: gospel artist": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:27Z",
-      "last_item_count": 100,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:07:02Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "no <item> or <entry> elements found"
     },
     "Google News: Kirk Franklin": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:34Z",
+      "last_checked": "2026-09-25T02:07:02Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -52,7 +53,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:39Z",
+      "last_checked": "2026-09-25T02:07:10Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -60,7 +61,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:44Z",
+      "last_checked": "2026-09-25T02:07:17Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -68,7 +69,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:49Z",
+      "last_checked": "2026-09-25T02:07:25Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -76,7 +77,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:36:55Z",
+      "last_checked": "2026-09-25T02:07:33Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -84,7 +85,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:00Z",
+      "last_checked": "2026-09-25T02:07:40Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -92,7 +93,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:05Z",
+      "last_checked": "2026-09-25T02:07:48Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -100,7 +101,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:10Z",
+      "last_checked": "2026-09-25T02:07:55Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -108,7 +109,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:15Z",
+      "last_checked": "2026-09-25T02:08:03Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -116,7 +117,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:20Z",
+      "last_checked": "2026-09-25T02:08:10Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -124,7 +125,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:25Z",
+      "last_checked": "2026-09-25T02:08:18Z",
       "last_item_count": 78,
       "last_status": "ok"
     },
@@ -132,7 +133,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:30Z",
+      "last_checked": "2026-09-25T02:08:26Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -140,7 +141,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:35Z",
+      "last_checked": "2026-09-25T02:08:33Z",
       "last_item_count": 47,
       "last_status": "ok"
     },
@@ -148,7 +149,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:42Z",
+      "last_checked": "2026-09-25T02:08:41Z",
       "last_item_count": 79,
       "last_status": "ok"
     },
@@ -156,7 +157,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:47Z",
+      "last_checked": "2026-09-25T02:08:48Z",
       "last_item_count": 46,
       "last_status": "ok"
     },
@@ -164,7 +165,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:52Z",
+      "last_checked": "2026-09-25T02:08:56Z",
       "last_item_count": 89,
       "last_status": "ok"
     },
@@ -172,7 +173,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:37:57Z",
+      "last_checked": "2026-09-25T02:09:03Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -180,7 +181,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:02Z",
+      "last_checked": "2026-09-25T02:09:11Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -188,7 +189,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:08Z",
+      "last_checked": "2026-09-25T02:09:19Z",
       "last_item_count": 53,
       "last_status": "ok"
     },
@@ -196,7 +197,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:13Z",
+      "last_checked": "2026-09-25T02:09:26Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -204,7 +205,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:18Z",
+      "last_checked": "2026-09-25T02:09:34Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -212,79 +213,87 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:23Z",
+      "last_checked": "2026-09-25T02:09:42Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
     "Google News: Tye Tribbett": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:29Z",
-      "last_item_count": 100,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:12:29Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Kierra Sheard": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:34Z",
-      "last_item_count": 100,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:12:38Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Zacardi Cortez": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:39Z",
-      "last_item_count": 54,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:12:48Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Naomi Raine": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:44Z",
-      "last_item_count": 48,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:12:54Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Elevation Worship": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:49Z",
-      "last_item_count": 100,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:12:59Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Brandon Lake": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:54Z",
-      "last_item_count": 79,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:13:07Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Phil Wickham": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:38:59Z",
-      "last_item_count": 100,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:13:15Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Google News: Lauren Daigle": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-25T01:39:04Z",
-      "last_item_count": 100,
-      "last_status": "ok"
+      "last_checked": "2026-09-25T02:13:24Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "last_error": "HTTP 503"
     },
     "Religion News Service": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:28Z",
+      "last_checked": "2026-09-25T02:13:24Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -292,7 +301,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:29Z",
+      "last_checked": "2026-09-25T02:13:25Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -300,7 +309,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:30Z",
+      "last_checked": "2026-09-25T02:13:27Z",
       "last_item_count": 30,
       "last_status": "ok"
     },
@@ -308,7 +317,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:32Z",
+      "last_checked": "2026-09-25T02:13:29Z",
       "last_item_count": 50,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -317,7 +326,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:34Z",
+      "last_checked": "2026-09-25T02:13:32Z",
       "last_item_count": 25,
       "last_status": "ok"
     },
@@ -325,7 +334,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:34Z",
+      "last_checked": "2026-09-25T02:13:33Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -333,7 +342,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:37Z",
+      "last_checked": "2026-09-25T02:13:34Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -341,7 +350,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:06:46Z",
+      "last_checked": "2026-09-25T02:13:34Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -350,7 +359,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:39Z",
+      "last_checked": "2026-09-25T02:13:36Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -358,7 +367,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:40Z",
+      "last_checked": "2026-09-25T02:13:36Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -366,7 +375,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T00:45:40Z",
+      "last_checked": "2026-09-25T02:13:37Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -374,12 +383,12 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-25T01:06:53Z",
+      "last_checked": "2026-09-25T02:13:37Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-25T01:36:05Z",
+  "updated_at": "2026-09-25T02:06:30Z",
   "flagged_feeds": []
 }
