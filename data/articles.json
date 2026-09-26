@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-26T03:06:33Z",
+  "generated_at": "2026-09-26T03:38:39Z",
   "story_count": 600,
   "with_photo": 467,
   "items": [
+    {
+      "id": "5cdc642a19573e85",
+      "title": "Kirk Franklin and GloRilla Bring Big Gospel Energy to “This Time”",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNU5VN3ZzaUFfRC1yMUI2VlNvdTBfMFM3RV94REhmQVVXM3ZlUkhISDVVM3d0alBOQWxLSVhPeXhwckJiajFVYjRJVXZkMFZRV1R6a0laRDJVcjBhUXdzMHVuSjhJaWFwbFdGMUdtR2pKZlZNOG05S3pNUTBGVHh6R0pseFFhZmZUWkFCRVdQWmFRTkRTZUxRUFdGWGVYc1R4OGNMVmFXaw?oc=5",
+      "summary": "Kirk Franklin and GloRilla Bring Big Gospel Energy to “This Time” Ratings Game Music",
+      "outlet": "Ratings Game Music",
+      "outlet_url": "https://ratingsgamemusic.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-26T03:21:52Z",
+      "first_seen": "2026-09-26T03:38:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T15:38:39Z"
+    },
     {
       "id": "d5523eae3540cd4f",
       "title": "Billy Corgan Decided to Talk About Following Jesus Even If It Cost Him His Career",
@@ -10985,22 +11001,6 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31880/duncan-sheik.jpg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "865b146b3c9265b1",
-      "title": "Kirk Franklin",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmUmZVMHlGMzU3b3AyRGdFbzc2c0lGc2Z5Snk2SlVkdWxUU0RobU90QWh6b2pkVGxpbzNUWDk0UGE1a1RvV01kdkcxS2dGNnpuaExrRXEySGNoTHFLS0ow?oc=5",
-      "summary": "Kirk Franklin Britannica",
-      "outlet": "Britannica",
-      "outlet_url": "https://www.britannica.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T05:00:00Z",
-      "first_seen": "2026-09-24T00:42:27Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
