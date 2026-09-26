@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T10:06:34Z",
+  "generated_at": "2026-09-26T10:37:29Z",
   "story_count": 600,
-  "with_photo": 468,
+  "with_photo": 467,
   "items": [
     {
       "id": "056173a9137d2113",
@@ -34,6 +34,101 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-26T22:06:34Z"
+    },
+    {
+      "id": "90a3e07160c7b3e5",
+      "title": "Netanyahu Tells UN ‘Cowards’ to Leave as Diplomats Hold Mass Walkout",
+      "link": "https://mycharisma.com/most-recent/netanyahu-tells-un-cowards-to-leave-as-diplomats-hold-mass-walkout/",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu urged “moral cowards” of the United Nations to depart from his speech, as many had already walked out as he took the stage. Before he began his speech, Netanyahu addressed those who walked out. “Before I begin, just a…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T10:00:00Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "01b7061b7c0b48ae",
+      "title": "English scholars ‘piece together history’ to reunite missing pages of centuries-old Catholic text",
+      "link": "https://www.ewtnnews.com/world/europe/english-scholars-piece-together-history-to-reunite-missing-pages-of-centuries-old-catholic-text",
+      "summary": "An incomplete manuscript of “The Mirror of the Blessed Life of Christ” has been reconnected with several long-lost pages thanks to work by two English researchers.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T10:00:00Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789657852/ewtn-news/en/Dr_Katie_Walter_and_Dr_James_Wade_in_The_Keep_archive_Brighton_with_the_fragment_of_Nicholas_Love_s_early_15th-century_Mirror_of_the_Blessed_Life_of_Jesus_Christ_Credit__Courtesy_of_the_University_of_Sussex_fboulr.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e452c8dd3de064c5",
+      "title": "Camp Mystic Owners Could Face Manslaughter Or Negligent Homicide Charges Over Flood Deaths",
+      "link": "https://www.jubileecast.com/articles/39735/20260926/camp-mystic-owners-could-face-manslaughter-or-negligent-homicide-charges-over-flood-deaths.htm",
+      "summary": "Camp Mystic Owners Could Face Manslaughter Or Negligent Homicide Charges Over Flood Deaths",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-26T09:49:27Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30686/camp-mystic.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0ec19dc9b700c2b4",
+      "title": "Desi Raines Joins NRT Music and Releases 1Note, a Five-Part Christian R&B and Hip-Hop Project",
+      "link": "https://www.jubileecast.com/articles/39734/20260926/desi-raines-1note-nrt-music-debut.htm",
+      "summary": "Desi Raines Joins NRT Music and Releases 1Note, a Five-Part Christian R&B and Hip-Hop Project",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-26T09:46:21Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31943/desi-reines.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c78b9c63f3625659",
+      "title": "Tommee Profitt's 2027 Easter Event The Resurrection of a King Sells Out During Pre-Sale",
+      "link": "https://www.jubileecast.com/articles/39733/20260926/tommee-profitt-resurrection-of-a-king-2027-sells-out.htm",
+      "summary": "Tommee Profitt's 2027 Easter Event The Resurrection of a King Sells Out During Pre-Sale",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-26T09:42:12Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31942/tommee-proffitt.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "f59152babd974761",
@@ -131,6 +226,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "7ef2fe63bb0aeaa6",
+      "title": "Pope Leo hears testimony of migrants in Paris: God opened ‘a new path for me’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-hears-testimony-of-migrants-in-paris-god-opened-a-new-path-for-me",
+      "summary": "Leo visited a center offering support and integration to immigrants in the Archdiocese of Paris, on the second day of his Sept. 25-28 journey in France.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T09:12:42Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790410607/ewtn-news/en/_SIM5684_ouxcrf.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "7ad0297cdf7100cc",
       "title": "Netflix’s “Unabomber” Is Available Today: Russell Crowe and Jacob Tremblay Confront a Disturbing Harvard Experiment",
       "link": "https://www.jubileecast.com/articles/39728/20260926/why-watch-netflix-s-unabomber-its-disturbing-harvard-experiment-raises-questions-about-ted-kaczynski-s-past.htm",
@@ -222,6 +336,22 @@
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/09/30/Sunday-Gospel-Reflection1AEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "738ab789a2b8ce83",
+      "title": "#TSRTunez: #KirkFranklin dropped his latest single “This Time,” featuring #GloRilla. As previously reported, before the drop the song created some buzz as the song samples the songs “Children of the Sun” by Mandrill and #ShawtyLo’s hit song “Dey Know.” (",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2SGQxc3RVT1pqUjUtTXZIb3VqYlFJNWNPQ3RFaWo5ODZJMDI0OUhoeU9FT05JVG01SU1adDNjbU0tRnR5Q3hxdnVzOTdocHJkdGc?oc=5",
+      "summary": "#TSRTunez: #KirkFranklin dropped his latest single “This Time,” featuring #GloRilla. As previously reported, before the drop the song created some buzz as the song samples the songs “Children of the Sun” by Mandrill and #ShawtyLo’s hit song “Dey Know.” (…",
+      "outlet": "instagram.com",
+      "outlet_url": "https://www.instagram.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-26T07:48:10Z",
+      "first_seen": "2026-09-26T10:37:29Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10870,139 +11000,6 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789751400/ewtn-news/en/globalrosaryforpeace_vmh5fz.png",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "460df11483e8d591",
-      "title": "Joni Eareckson Tada Pays Tribute To The Sister Who Saved Her—But What Alerted Her To The Drowning?",
-      "link": "https://www.jubileecast.com/articles/39595/20260921/joni-eareckson-tada-pays-tribute-to-the-sister-who-saved-her—but-what-alerted-her-to-the-drowning.htm",
-      "summary": "Joni Eareckson Tada Pays Tribute To The Sister Who Saved Her—But What Alerted Her To The Drowning?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T10:59:51Z",
-      "first_seen": "2026-09-21T11:39:14Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31883/joni-eareckson-tada.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8be1266688047bcc",
-      "title": "Why Presley Gerber’s Final Post Is Raising Heartbreaking Questions After His Death",
-      "link": "https://www.jubileecast.com/articles/39594/20260921/why-presley-gerber-s-final-post-is-raising-heartbreaking-questions-after-his-death.htm",
-      "summary": "Why Presley Gerber’s Final Post Is Raising Heartbreaking Questions After His Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T10:55:15Z",
-      "first_seen": "2026-09-21T11:39:14Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31879/presley-gerber.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fd1b1e760b4da88a",
-      "title": "Hayden Panettiere’s Hollywood Memorial Draws 150 Guests—But Two Major Figures Were Missing",
-      "link": "https://www.jubileecast.com/articles/39593/20260921/hayden-panettiere-s-hollywood-memorial-draws-150-guests—but-two-major-figures-were-missing.htm",
-      "summary": "Hayden Panettiere’s Hollywood Memorial Draws 150 Guests—But Two Major Figures Were Missing",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T10:50:42Z",
-      "first_seen": "2026-09-21T11:39:14Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31601/hayden-panettiere.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bbeb58e384e3f15d",
-      "title": "Tauren Wells Drops \"Here Comes The Church\" Live With Tiffany Hudson Ahead of October Album",
-      "link": "https://www.jubileecast.com/articles/39592/20260921/tauren-wells-here-comes-the-church-live-tiffany-hudson.htm",
-      "summary": "Tauren Wells Drops \"Here Comes The Church\" Live With Tiffany Hudson Ahead of October Album",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T10:34:59Z",
-      "first_seen": "2026-09-21T10:37:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31598/tauren-wells-serve-the-lord.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c0daaf67e0649e05",
-      "title": "Nancy Guthrie Case: Ex-FBI Agent Dismisses \"Porch Guy\" Theory as Investigators Sift 50,000 Tips",
-      "link": "https://www.jubileecast.com/articles/39591/20260921/nancy-guthrie-case-porch-guy-theory-dismissed-fbi-agent-tips.htm",
-      "summary": "Nancy Guthrie Case: Ex-FBI Agent Dismisses \"Porch Guy\" Theory as Investigators Sift 50,000 Tips",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T10:10:23Z",
-      "first_seen": "2026-09-21T10:37:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31255/nancy-guthrie.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "53f4e89b44b59b3d",
-      "title": "The Palestinian Christian Stuck in Israeli Prison",
-      "link": "https://www.christianitytoday.com/2026/09/christian-palestinians-israeli-prisons-natalie-abudayyeh/",
-      "summary": "Around 1 a.m. on June 2, the Israeli military showed up at a six-story apartment building in Ramallah in the West Bank and started smashing down doors, looking for college student Natalie Abudayyeh. On the fourth floor, Natalie and her two roommates, all of…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T10:00:00Z",
-      "first_seen": "2026-09-21T10:37:53Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/palestinian-christians-in-israeli-prisons.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "39355c1cf122d98c",
-      "title": "Amazon Can’t Pray for You",
-      "link": "https://www.christianitytoday.com/2026/09/christian-independent-bookstores-revival/",
-      "summary": "“People are always telling you that change is a good thing. All they’re really saying is that something you didn’t want to happen at all has happened,” says Kathleen Kelly, the children’s-bookstore-owner heroine who’s losing her Shop Around the Corner in the…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T10:00:00Z",
-      "first_seen": "2026-09-21T10:37:53Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/amazon-cant-pray-for-you.jpg?resize=1200,628",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
