@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-26T16:38:29Z",
+  "generated_at": "2026-09-26T17:06:22Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "2350b518d6fa2d5c",
+      "title": "Pope Leo XIV in Paris: No one ‘is merely a number’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-catholics-in-paris-no-one-is-merely-a-number",
+      "summary": "An estimated 800,000 people attended the pontiff’s open-air Mass.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T16:27:54Z",
+      "first_seen": "2026-09-26T17:06:22Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790439831/ewtn-news/en/_RIS6775_jnmbhm.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f728a614390a4a6a",
+      "title": "Cardinal Parolin at UN: ‘Restore trust’ through dialogue, justice and peace",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/cardinal-parolin-un-general-assembly-appeal-dialogue-justice-pea.html",
+      "summary": "Addressing the General Assembly in New York, the Vatican Secretary of State calls for an end to wars, respect for international law, responsible use of artificial intelligence and renewed multilateralism. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T16:02:00Z",
+      "first_seen": "2026-09-26T17:06:22Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/26/16/1790433031294.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c0f2dd93a18f8a4f",
+      "title": "5 things to know about the Caleb Flynn murder trial",
+      "link": "https://www.christianpost.com/news/5-things-to-know-about-the-caleb-flynn-murder-trial.html",
+      "summary": "The murder trial of former worship leader and “American Idol” contestant Caleb Flynn has captured the attention of Americans this week. Flynn, 40, is accused of murdering his wife, Ashley, inside their Ohio home in February, amid a long-term affair with his…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T15:50:00Z",
+      "first_seen": "2026-09-26T17:06:22Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272076_w_550_348_465_217.jpg?v=20260926115110",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "eb5d7f8fd9a049f6",
       "title": "Lourdes: 'A special home of Mary where Pope will pray for our world'",
@@ -10940,57 +10997,6 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1781170735/ewtn-news/en/_RIS5141_bll70w.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "00b7fd57fc7be6f8",
-      "title": "Harvey Watkins Jr. & The Canton Spirituals Release New Single “Still Winning” & Sign with WayNorth Music",
-      "link": "https://pathmegazine.com/articles/harvey-watkins-jr-the-canton-spirituals-release-new-single-still-winning-sign-with-waynorth-music/",
-      "summary": "Some artists make music. Some artists make history. And some artists become part of the foundation upon which generations of music are built. Harvey Watkins Jr. and … The post Harvey Watkins Jr. & The Canton Spirituals Release New Single “Still Winning” &…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T15:24:27Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f53d6a52661fdc0f",
-      "title": "Anthony Brown & group therAPy Releases Seventh Album, Disclosure",
-      "link": "https://pathmegazine.com/articles/anthony-brown-group-therapy-releases-seventh-album-disclosure/",
-      "summary": "Grammy® Award-nominated and platinum-selling gospel powerhouse Anthony Brown & group therAPy have released their seventh album, Disclosure (A Major Entertainment / Tyscot / Fair Trade Services), to all digital music platforms. … The post Anthony Brown & group…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T15:16:10Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5410855218bb44db",
-      "title": "Former Worship Pastor Caleb Flynn Allegedly Sent Chilling Text Hours Before Wife’s Murder",
-      "link": "https://mycharisma.com/news/former-worship-pastor-caleb-flynn-allegedly-sent-chilling-text-hours-before-wifes-murder/",
-      "summary": "The murder trial of former worship pastor and “American Idol” contestant Caleb Flynn has barely begun, and prosecutors are already unveiling disturbing new allegations about what they say was happening behind closed doors before his wife, Ashley Flynn, was…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T15:11:20Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
