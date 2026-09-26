@@ -350,7 +350,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-26T04:11:25Z",
+      "last_checked": "2026-09-26T05:06:26Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -380,6 +380,6 @@
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-26T04:38:40Z",
+  "updated_at": "2026-09-26T05:06:24Z",
   "flagged_feeds": []
 }
