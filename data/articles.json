@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T02:37:40Z",
+  "generated_at": "2026-09-26T03:06:33Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 467,
   "items": [
     {
       "id": "d5523eae3540cd4f",
@@ -21,6 +21,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "21e2368b1cfcc18b",
+      "title": "Pastors take stage at Pine Bluff ‘Hymn Fest’ for Arkansas Gospel Music Heritage Month - The Arkansas Democrat-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ05MYi1lcHVJdHZkWVJpeEIzbEZZTlhBREpFM090REZMUEF6RXZzd1YxMnFnVk4xTkdscnZ1aFNwMHBteGZKQTUxdWlmZGY3WTJKeHc0Z0hKU0JCSzhVWFpXVWZOcm5lRzVyUktxRU05ZjkzWk91bW9EbkV6TkYzSHZhWTNmVVFGVV9jbWg0TTlFcEtBTlB3Sjd6cw?oc=5",
+      "summary": "Pastors take stage at Pine Bluff ‘Hymn Fest’ for Arkansas Gospel Music Heritage Month The Arkansas Democrat-Gazette",
+      "outlet": "The Arkansas Democrat-Gazette",
+      "outlet_url": "https://www.arkansasonline.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-26T01:45:00Z",
+      "first_seen": "2026-09-26T03:06:33Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T15:06:33Z"
     },
     {
       "id": "ee230bceea4fdda2",
@@ -624,7 +640,10 @@
       "category": "gospel-trade",
       "published": "2026-09-25T18:34:16Z",
       "first_seen": "2026-09-25T19:06:22Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/25143340/3-Picture-Template-Article-2.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -1056,7 +1075,10 @@
       "category": "gospel-trade",
       "published": "2026-09-25T14:42:42Z",
       "first_seen": "2026-09-25T15:07:39Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/25104226/3-Picture-Template-Article-58-1.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -1402,7 +1424,10 @@
       "category": "gospel-trade",
       "published": "2026-09-25T11:35:19Z",
       "first_seen": "2026-09-25T12:09:02Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/21023420/3-Picture-Template-Article-58.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -2836,7 +2861,10 @@
       "category": "gospel-trade",
       "published": "2026-09-24T18:02:25Z",
       "first_seen": "2026-09-24T18:40:41Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/24135811/Lecrae-_NEED-YOU_-_-Bless-The-Mic-0-8-screenshot-e1790272767477.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10973,25 +11001,6 @@
       "published": "2026-09-21T05:00:00Z",
       "first_seen": "2026-09-24T00:42:27Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "06395772d7171c1c",
-      "title": "Bill Johnson Returns From Sabbatical With New Wife Linda And A Bold Message For Bethel Church",
-      "link": "https://www.jubileecast.com/articles/39583/20260920/bill-johnson-returns-from-sabbatical-with-new-wife-linda-and-a-bold-message-for-bethel-church.htm",
-      "summary": "Bill Johnson Returns From Sabbatical With New Wife Linda And A Bold Message For Bethel Church",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T03:50:46Z",
-      "first_seen": "2026-09-21T04:40:27Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31547/bill-johnson.jpeg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
