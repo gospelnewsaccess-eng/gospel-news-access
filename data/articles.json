@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T14:06:41Z",
+  "generated_at": "2026-09-26T14:37:29Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
     {
       "id": "27dfe7ccf58a9625",
@@ -1443,6 +1443,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272069_w_550_367_565_117.jpg?v=20260925142138",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a9995eb2230be294",
+      "title": "Kirk Franklin Releases New Single Featuring GloRilla 'This Time'",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0xhUmdJYjV5aXlVQXJib2lsUXBuNTFsWUVnN1VteVdEbUpzdkI5Q3FUa1ljU3VkczB3WmdIQlRiU2RqbjdYVGxabkhmX3dnZExRS29KTGFseDM2NVVlMXhEWW1LOHZ3eGRQYjRtbHZNNGRtSjluc2trZjFaQXJBUFdjb3JVODVvOFc3Vm45b0VzazNDMkgwaThLX1J1UXVESEM3UA?oc=5",
+      "summary": "Kirk Franklin Releases New Single Featuring GloRilla 'This Time' GodTube.com",
+      "outlet": "GodTube.com",
+      "outlet_url": "https://www.godtube.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-25T18:19:31Z",
+      "first_seen": "2026-09-26T14:37:29Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10979,25 +10995,6 @@
       "published": "2026-09-21T14:21:00Z",
       "first_seen": "2026-09-22T08:39:31Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c59380df870ded53",
-      "title": "Groundbreaking survey and ‘Spiritual Safety Scale’ for faith communities",
-      "link": "https://religionnews.com/2026/09/21/groundbreaking-survey-and-spiritual-safety-scale-for-faith-communities/",
-      "summary": "Spiritual Safety Center",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:08:25Z",
-      "first_seen": "2026-09-21T14:38:57Z",
-      "image": {
-        "url": "https://religionnews.com/wp-content/uploads/2026/09/Building-a-Safer-Church-hi-res-cover.jpg",
-        "via": "og:image"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
