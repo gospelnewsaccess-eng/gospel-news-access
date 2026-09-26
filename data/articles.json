@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-26T02:06:47Z",
+  "generated_at": "2026-09-26T02:37:40Z",
   "story_count": 600,
   "with_photo": 464,
   "items": [
+    {
+      "id": "d5523eae3540cd4f",
+      "title": "Billy Corgan Decided to Talk About Following Jesus Even If It Cost Him His Career",
+      "link": "https://relevantmagazine.com/culture/billy-corgan-decided-to-talk-about-following-jesus-even-if-it-cost-him-his-career/",
+      "summary": "Billy Corgan has been talking about God for more than 20 years. He’s rarely put it this plainly. On the latest episode of his podcast, The Magnificent Others, the Smashing Pumpkins frontman sat across from Stryper’s Michael Sweet and told him, “I’m a…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T01:58:35Z",
+      "first_seen": "2026-09-26T02:37:40Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/billy.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ee230bceea4fdda2",
       "title": "Before Stardom With…Pat Uwaje-King (gospel artiste)",
@@ -10971,25 +10990,6 @@
       "first_seen": "2026-09-21T04:40:27Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31547/bill-johnson.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5bb90d28a7786034",
-      "title": "Cindy Crawford’s Only Son Presley Gerber Dies Suddenly At 27",
-      "link": "https://www.jubileecast.com/articles/39582/20260920/cindy-crawford-s-only-son-presley-gerber-dies-suddenly-at-27.htm",
-      "summary": "Cindy Crawford’s Only Son Presley Gerber Dies Suddenly At 27",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T03:33:34Z",
-      "first_seen": "2026-09-21T03:40:18Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31879/presley-gerber.jpeg",
         "via": "media:content"
       },
       "breaking": false,
