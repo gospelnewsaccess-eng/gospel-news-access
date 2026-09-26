@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-26T21:36:42Z",
+  "generated_at": "2026-09-26T22:06:38Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "84b76da82739f09d",
+      "title": "PHOTOS: Pope Leo XIV visits Paris and Lourdes on second day of France trip",
+      "link": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-visits-paris-and-lourdes-on-second-day-of-france-trip",
+      "summary": "Pope Leo XIV visited the Maison Bakhita Center and celebrated an open-air Mass at Place de la Concorde in Paris before concluding his day at the Shrine of Our Lady of Lourdes.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T21:30:53Z",
+      "first_seen": "2026-09-26T22:06:38Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790442351/ewtn-news/en/_TEO3896_q9rqsz.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "90d50555f5d35227",
+      "title": "Highlights of Pope Leo's second day in France",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/highlights-of-pope-leo-s-second-day-in-france.html",
+      "summary": "On Pope Leo's second day in France, he met with migrants, visited the country's synodal assembly, celebrated Mass for 700,000 people in central Paris, and prayed at the Grotto of the Apparitions in Lourdes. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T21:01:00Z",
+      "first_seen": "2026-09-26T22:06:38Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---santa-messa-place-de-/1790435426764.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "50fbe3f89305989b",
       "title": "Kirk Franklin Says Mother Won't Acknowledge Identity of Biological Father",
@@ -10962,41 +11000,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-22T05:05:45Z"
-    },
-    {
-      "id": "45af69c35acc86b4",
-      "title": "Rapper Met Jesus in Prison. Now He’s Sharing the Gospel With Other Incarcerated Men.",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzNMVms4Rlp4Sk9PRTVQeGtleHRQeE5CLTNBczI2UmdySmdVcmJlSmFmTTNOSXViQVp6ZGQwU2dIeXpyVjBYTU5pVG4zZGJSZ0RaZW9rUTZqNnhCN3pRMHB2X2ZWWTZxZVVURU0xOFg5akRpdWxPTEhFYWNySFQxd3VucTVsSnFoaEF3dU1PRDhxWnFldTJqRnIxWHdZQQ?oc=5",
-      "summary": "Rapper Met Jesus in Prison. Now He’s Sharing the Gospel With Other Incarcerated Men. Movieguide",
-      "outlet": "Movieguide",
-      "outlet_url": "https://www.movieguide.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T16:32:13Z",
-      "first_seen": "2026-09-21T17:05:45Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T05:05:45Z"
-    },
-    {
-      "id": "f8979147b8c7e0a4",
-      "title": "Mormon Church Quietly Amasses Millions of Acres Across the United States",
-      "link": "https://mycharisma.com/news/mormon-church-quietly-amasses-millions-of-acres-across-the-united-states/",
-      "summary": "The Church of Jesus Christ of Latter-day Saints isn’t just building temples. Behind the scenes, it has been building something much, much bigger. Millions of acres. Billions of dollars in real estate. Ranches, farms, hotels, apartments and entire communities…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T16:24:17Z",
-      "first_seen": "2026-09-21T16:38:48Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
