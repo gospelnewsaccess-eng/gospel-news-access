@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-26T14:37:29Z",
+  "generated_at": "2026-09-26T15:06:29Z",
   "story_count": 600,
   "with_photo": 465,
   "items": [
+    {
+      "id": "2f722e27f547e596",
+      "title": "How Prayer Carried This Christian Artist and His Wife Through Grief",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemwxaFpTeTBGM1RISFN4bllvRWhXbzF4RGItQ3FEaHFaZ09kTnJ0anRIa0dzQy1JbjFqR1hIY2hJY1ZRcWh4SExkZ1ZaR1hTUEs1X2FYSC1QZy1BWVdndEVNbGgyQS1zbGpCaXlMUVFYOUw5MzhVd3NGc18tdGNiTjl1WGF0cW90a2xwUWZWMld0bWd2bDVCcDYtQXc2YmxvT0I3dmxRVEFnUVo4b0E?oc=5",
+      "summary": "How Prayer Carried This Christian Artist and His Wife Through Grief Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-26T15:00:00Z",
+      "first_seen": "2026-09-26T15:06:29Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T03:06:29Z"
+    },
+    {
+      "id": "dec7cd4fcd9a9427",
+      "title": "Natalie Grant warns Church on use of AI to shape spirituality",
+      "link": "https://www.christianpost.com/news/natalie-grant-warns-church-on-use-of-ai-to-shape-spirituality.html",
+      "summary": "Veteran contemporary Christian artist and nine-time Grammy nominee Natalie Grant has warned against the use of artificial intelligence in the Christian music industry to shape spirituality and says the rise of the technology will create a demand for live…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T14:09:00Z",
+      "first_seen": "2026-09-26T15:06:29Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272056_w_550_366_539_196.jpg?v=20260926100920",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "27dfe7ccf58a9625",
       "title": "Pope Leo welcomes French converts and wades into liturgy debate",
@@ -23,6 +58,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "dd340ee16e29fcea",
+      "title": "Knights of Columbus pitch their role at Symposium on Young American Men",
+      "link": "https://www.ewtnnews.com/world/us/knights-of-columbus-symposium-young-american-men",
+      "summary": "“The lifeblood of the Knights is young men,” said Joseph McInerney, who noted that men under 35 are currently the fraternal organization’s fastest-growing membership segment.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T14:00:00Z",
+      "first_seen": "2026-09-26T15:06:29Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790371705/ewtn-news/en/Image_67_kciuq0.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "800aaf71c340b2c9",
       "title": "Is Olivia Rodrigo Playing Near You? Her 65-Date 'Unraveled' Tour Just Began",
       "link": "https://www.jubileecast.com/articles/39740/20260926/olivia-rodrigo-unraveled-tour-opening-night-hartford.htm",
@@ -36,6 +90,25 @@
       "first_seen": "2026-09-26T14:06:41Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31948/olivia-rodrigo.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d830f4eb449ae68c",
+      "title": "Pope at Paris Mass: God quenches the thirst in every human heart",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-god-quenches-the-thirst-in-every-human-heart.html",
+      "summary": "At Mass in the Place de la Concorde in Paris, Pope Leo XIV reflects on the thirst for God that lies in the depths of every human heart. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T13:45:00Z",
+      "first_seen": "2026-09-26T15:06:29Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---santa-messa-place-de-/1790432400917.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10922,79 +10995,6 @@
         "url": "http://religionnews.com/wp-content/uploads/2026/09/336-1200x628-1.jpg",
         "via": "og:image"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7eddf4781665a542",
-      "title": "Pope Leo XIV’s schedule for Latin America trip released",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-s-schedule-for-latin-america-trip-released",
-      "summary": "The pontiff will meet with authorities, interfaith leaders, prisoners, and workers, celebrate 10 public Masses, and hold three prayer vigils with young people.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:46:00Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789997604/ewtn-news/en/Untitled_project_qpxrv1.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "49ed819dc2089fb4",
-      "title": "Iran Flight Horror as Ceiling Panels Collapse During Takeoff Emergency",
-      "link": "https://mycharisma.com/news/iran-flight-horror-as-ceiling-panels-collapse-during-takeoff-emergency/",
-      "summary": "Terrifying video from inside an Iranian passenger plane shows travelers screaming and praying as violent shaking sent ceiling panels and overhead-bin components falling into the cabin. The incident involved a Sepehran Airlines Boeing 737 scheduled to travel…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:35:10Z",
-      "first_seen": "2026-09-21T14:38:57Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "90ee51497d44f672",
-      "title": "Judge upholds law banning religious exemptions to vaccine mandates",
-      "link": "https://www.christianpost.com/news/judge-upholds-law-banning-religious-exemptions-to-vaccine-mandate.html",
-      "summary": "A lawsuit filed by parents challenging a Connecticut law that eliminated religious exemptions to school vaccine mandates has been dismissed because a law states that such exemptions are not protected under a longstanding religious freedom law.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:27:00Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271977_w_550_340.jpg?v=20260921103713",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4a7aa9838dc879bb",
-      "title": "\"Detroit Remembers Richard Smallwood\" A Concert Tribute to Honor the Gospel Music Icon This October",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHlPZW9fZzlMYjdVWG16bnlqbHRGQW9HQUlBR3RxelUxakt1cFhocEl6bl95dFcyRUd1d2lreVdBVlVaZnlFTVFHS1JXeVlYUnBOTUE2cUMyeDQtLWFPTUNFMEd2UmZYR2NwLUphRjg2Tm5Nc3dqOWhLQnBKa2tISEowUHFWVGlKNDUxNllheVNYZkhEcXlIaTV4aHZDeVZXb29zWnVwUjdTMXlnTHJkTA?oc=5",
-      "summary": "\"Detroit Remembers Richard Smallwood\" A Concert Tribute to Honor the Gospel Music Icon This October Yahoo Finance",
-      "outlet": "Yahoo Finance",
-      "outlet_url": "https://finance.yahoo.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T14:21:00Z",
-      "first_seen": "2026-09-22T08:39:31Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
