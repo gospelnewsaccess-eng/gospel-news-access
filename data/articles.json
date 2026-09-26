@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-26T13:36:31Z",
+  "generated_at": "2026-09-26T14:06:41Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
+    {
+      "id": "27dfe7ccf58a9625",
+      "title": "Pope Leo welcomes French converts and wades into liturgy debate",
+      "link": "https://religionnews.com/2026/09/26/pope-leo-welcomes-french-converts-and-wades-into-liturgy-debate/",
+      "summary": "PARIS, France (RNS) — As France sees a surge in adult and youth baptisms, Pope Leo XIV urged the church to welcome new Catholics into parish life and called for reverence in worship without letting liturgical preferences divide the faithful.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T14:07:27Z",
+      "first_seen": "2026-09-26T14:06:41Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/AP26269452929090-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "800aaf71c340b2c9",
+      "title": "Is Olivia Rodrigo Playing Near You? Her 65-Date 'Unraveled' Tour Just Began",
+      "link": "https://www.jubileecast.com/articles/39740/20260926/olivia-rodrigo-unraveled-tour-opening-night-hartford.htm",
+      "summary": "Is Olivia Rodrigo Playing Near You? Her 65-Date 'Unraveled' Tour Just Began",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-26T13:53:38Z",
+      "first_seen": "2026-09-26T14:06:41Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31948/olivia-rodrigo.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4b93250bda478e3f",
+      "title": "Pope addresses ‘surprising’ Catholic growth in secular France",
+      "link": "https://www.ewtnnews.com/vatican/pope-addresses-surprising-catholic-growth-in-secular-france",
+      "summary": "Leo met members of a Church assembly examining a decade-long rise in Catholic baptisms.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T13:34:17Z",
+      "first_seen": "2026-09-26T14:06:41Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790413392/ewtn-news/en/WhatsApp_Image_2026-09-26_at_10.58.05_AM_oxu5sf.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "4667075819a88033",
       "title": "Kirk Franklin Reunites with GloRilla on Gospel-HipHop Banger ‘This Time’ | WATCH",
@@ -10940,63 +10997,6 @@
       "image": {
         "url": "https://religionnews.com/wp-content/uploads/2026/09/Building-a-Safer-Church-hi-res-cover.jpg",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "add4699526597f23",
-      "title": "Where is the body of St. Matthew? A visit to his tomb",
-      "link": "https://www.ewtnnews.com/world/us/where-is-the-body-of-st-matthew-a-visit-to-his-tomb",
-      "summary": "The fascinating story of where the Gospel writer’s body lies today takes us back into history.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:06:00Z",
-      "first_seen": "2026-09-21T14:38:57Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/images/salerno-berthold-werner",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "253956d698e625d1",
-      "title": "School district agrees to opt-outs for LGBT lessons after Christian families’ lawsuit",
-      "link": "https://www.christianpost.com/news/school-district-agrees-to-lgbt-opt-outs-after-christians-lawsuit.html",
-      "summary": "A public school district in Southern California has agreed to notify parents when lessons include LGBT-related material and allow them to opt their children out, settling a lawsuit brought by two Christian families after a book was read to their sons without…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:03:23Z",
-      "first_seen": "2026-09-21T14:38:57Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271992_w_550_367_577_120.jpg?v=20260921100401",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "85093dac39e78047",
-      "title": "Cindy Clemishire seeks to overturn appeals court dismissal of lawsuit against Gateway Church",
-      "link": "https://www.christianpost.com/news/cindy-clemishire-seeks-to-overturn-dismissal-of-lawsuit.html",
-      "summary": "Lawyers for child sex abuse survivor Cindy Clemishire asked the Texas Supreme Court Thursday to review and overturn the Fifth Court of Appeals’ recent dismissal of most of her civil claims in a defamation lawsuit against Gateway Church, its founder and former…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T13:47:31Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271976_w_550_441.jpg?v=20260921103826",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
