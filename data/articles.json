@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-26T07:06:31Z",
+  "generated_at": "2026-09-26T07:37:11Z",
   "story_count": 600,
   "with_photo": 467,
   "items": [
+    {
+      "id": "fe88f9d87fb61207",
+      "title": "Taylor Swift’s “Cleveland!” Has Fans Blushing, but Which New Song Is Winning Them Over?",
+      "link": "https://www.jubileecast.com/articles/39724/20260926/taylor-swift-travis-kelce-cleveland-patient-zero-pink-clouding-babylon-the-life-of-a-showgirl-the-encore.htm",
+      "summary": "Taylor Swift’s “Cleveland!” Has Fans Blushing, but Which New Song Is Winning Them Over?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-26T07:29:35Z",
+      "first_seen": "2026-09-26T07:37:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31923/taylor-swift.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3c213e049e02ca6d",
+      "title": "Why we sing: Music, spirituality and the search for meaning",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEhQVUczdUx4RlV4RlB1OGtWNENjQU5JcEVCd09xVDRobG1QcWJ3dm5oVHdGNG1JVExtMnVNUFdXV3JkQTdYNU44eXRhR2JIeTF6b2pzZmc1aW92V25TaHprY0RuVHYtbnFBZXNVR1FuVjMxR2FYUVpVMEpFZ25jNXYtdHVzRUpCbjdXMzREVTNoSTJzU0xZYw?oc=5",
+      "summary": "Why we sing: Music, spirituality and the search for meaning christiantoday.com",
+      "outlet": "christiantoday.com",
+      "outlet_url": "https://www.christiantoday.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-26T06:53:44Z",
+      "first_seen": "2026-09-26T07:37:11Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T19:37:11Z"
+    },
     {
       "id": "dd3a035000599092",
       "title": "Eternal Wall of Answered Prayer: Why 22 years of waiting isn't wasted",
@@ -10964,41 +10999,6 @@
       "first_seen": "2026-09-21T07:39:51Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4f108475538d070b",
-      "title": "Nashville team uses AI to convert whole Bible into musical form",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRkUzT1o5WHhOOHdTSTVxUDJmXzE5UDRQTEE3X2lLY3dhRDljMXR0czNtV1c2WHRkRnpSd2NkSWJiSFBBR0VaRERyMm53LWR3QzB3dk1CVFZqSnlZdFdWZmZraUszM3dhTDNYVmtGaXpnaGRlNnNJMXNqakFYNDFub3AyRlFab2puTlRjdU9iVDN2OG50MEtnRUs4eW9PMWxT?oc=5",
-      "summary": "Nashville team uses AI to convert whole Bible into musical form www.christiantoday.com",
-      "outlet": "www.christiantoday.com",
-      "outlet_url": "https://www.christiantoday.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-21T07:44:58Z",
-      "first_seen": "2026-09-22T09:37:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b328ae5ee189dd32",
-      "title": "Steve Harvey Makes Painful Marriage Confession—and Says He Wasn’t Happy Until 48",
-      "link": "https://www.jubileecast.com/articles/39585/20260921/steve-harvey-makes-painful-marriage-confession—and-says-he-wasn-t-happy-until-48.htm",
-      "summary": "Steve Harvey Makes Painful Marriage Confession—and Says He Wasn’t Happy Until 48",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T07:29:36Z",
-      "first_seen": "2026-09-21T07:39:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28263/steve-harvey.jpg",
         "via": "media:content"
       },
       "breaking": false,
