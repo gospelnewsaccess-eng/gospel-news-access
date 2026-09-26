@@ -1,8 +1,43 @@
 {
-  "generated_at": "2026-09-26T15:38:40Z",
+  "generated_at": "2026-09-26T16:07:09Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "eb5d7f8fd9a049f6",
+      "title": "Lourdes: 'A special home of Mary where Pope will pray for our world'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/welcome-to-lourdes.html",
+      "summary": "As Pope Leo XIV arrives at the Marian shrine of Lourdes, Vatican News speaks with the coordinating chaplain of the English-speaking pilgrims, Fr. James Phelan, who offers an inside look at the “home of Mary” that the Successor of Peter is making a pilgrimage…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T15:45:00Z",
+      "first_seen": "2026-09-26T16:07:09Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/25/2026-09-25-lourdes1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d4c430320d36c7a2",
+      "title": "Kirk Franklin is making moves with GloRilla, New Music, & Uptown Records",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZktGQ2NLQXV5TTZyQ25LX0NPUV80cGpZb0RtdWlEa3FnNFdiTXpBVVlXVVZteFpULW03akRjTl9FdmV2VTJOS09mMEZZbW1YLTdoN3oxa19mNENzRnNnOTVDLVZmNnBYZkVNYlVkbmNnOG9WbVRZaGtwV1VLdl9EOWZ2VUZWZlcyM2lQVEtFdTlJLTdvaGpRUURNakk4LXhn?oc=5",
+      "summary": "Kirk Franklin is making moves with GloRilla, New Music, & Uptown Records ThisisRnB.com",
+      "outlet": "ThisisRnB.com",
+      "outlet_url": "https://thisisrnb.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-26T15:43:10Z",
+      "first_seen": "2026-09-26T16:07:09Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T04:07:09Z"
+    },
     {
       "id": "2f722e27f547e596",
       "title": "How Prayer Carried This Christian Artist and His Wife Through Grief",
@@ -10956,44 +10991,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7f28136a28b79c70",
-      "title": "‘Borgo Dialogues’ bring global leaders together in New York",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/borgo-dialogues-laudato-si-new-york-cardinal-baggio.html",
-      "summary": "The initiative aims to bring leaders from different sectors together to discuss artificial intelligence, healthcare, sustainability and the common good. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T15:05:00Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2025/09/02/20/1756839148465.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "02520e5a6167b44b",
-      "title": "The Texas Sharia Panic: How a Rallying Cry Became a Curriculum",
-      "link": "https://religionnews.com/2026/09/21/the-texas-sharia-panic-how-a-rallying-cry-became-a-curriculum/",
-      "summary": "As Texas Republicans turn fear of Sharia into an election-year message, Muslim communities are organizing against its growing influence on schools, policy, and public life.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T14:57:30Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/336-1200x628-1.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
