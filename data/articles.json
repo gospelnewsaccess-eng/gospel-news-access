@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:06:38Z",
+  "generated_at": "2026-09-26T22:37:06Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
@@ -21,6 +21,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "e4dee525065ab456",
+      "title": "Kirk Franklin Joins SoundExchange Hall Of Fame As One Of Its Most-Streamed Artists",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNldOVXRkTnd3R3MtaXd6YkJpMmg5Y3hYc0c5NEk4MXBpdEtWeEgtLXRhZGZNalN5TFhkTjY1VXBSR0NRaXRzY19hcG9fVk5JMlV2bW5fck9mQnB6cEo3dzJMTm0xXzlCTHBxVEpYVXdlVDFyOWtvZHQ3N29OT19mZ1c3bVJxcTJOVTlFUjZ5UzhLSUNQUzFsQ0o2Mi1wX1dXMkpITWVJWjFrNjVzQ3J3N1NXaWRrczFiYUJsYmxpY3NUUQ?oc=5",
+      "summary": "Kirk Franklin Joins SoundExchange Hall Of Fame As One Of Its Most-Streamed Artists That Eric Alper",
+      "outlet": "That Eric Alper",
+      "outlet_url": "https://www.thatericalper.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-26T21:10:39Z",
+      "first_seen": "2026-09-26T22:37:06Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T10:37:06Z"
     },
     {
       "id": "90d50555f5d35227",
@@ -10984,22 +11000,6 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "672e55ed7c8efc3e",
-      "title": "Historic Community Program Honored the Legacy of Allen AME Church in Cape May",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY3JmVG1lRUtkeHlDaHI2VGpBemtabzd1bzcxaUNDbWFrOGRzNjRMTXNFZGNfdW1maWFmSXB1ZTlJWllfYXBRLTFkWUpPamt4ZVZnbnM5ZF8zaW94Y1c2WWNLaE9pTjQwRWdLM2hqLURiVGEydlRGTlFvWGdCOEJDTFhFOWpSSWNlb3c3aFpYYnBSTEdYdEdYOGRra2d2R2hSQ0l3MURRalVhN0dkbXZBRWlidlE3cC0wLWxVLW1QVFpMck4wcFExV293?oc=5",
-      "summary": "Historic Community Program Honored the Legacy of Allen AME Church in Cape May NewJerseyStage.com",
-      "outlet": "NewJerseyStage.com",
-      "outlet_url": "https://www.newjerseystage.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-21T16:36:24Z",
-      "first_seen": "2026-09-21T17:05:45Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T05:05:45Z"
     }
   ]
 }
