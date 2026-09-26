@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-26T09:37:10Z",
+  "generated_at": "2026-09-26T10:06:34Z",
   "story_count": 600,
-  "with_photo": 470,
+  "with_photo": 468,
   "items": [
+    {
+      "id": "056173a9137d2113",
+      "title": "Past is Present, presented by Sumter Museum: Shonda English carries forward the music, ministry and memories her father left behind",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlNobkRwZ2tuTDFRX2RiUmgxVkdtXzZjUEtGLVdval9FYjdlS1R2TGRTVHRXbEIyRks0UVhCM01UZENwckdPa01qQ3pCRlhQZGdnVTNzU0dDT3pKaW1yN3NjY2Y5YlY3RDBqT0l2ZkpoR0xkNjlXV0JBMFpDSTlEQ1BzM0lwbWRuYjQ3WVRrMUpPdk1rMzMwOG1rVkNqdnNnTXZlWmtsNDlyS3BHNHg5MTJWeThhdlBVcXRYY0gwU2FtVmVxb0dJTFJmbVV5U3M?oc=5",
+      "summary": "Past is Present, presented by Sumter Museum: Shonda English carries forward the music, ministry and memories her father left behind The Sumter Item",
+      "outlet": "The Sumter Item",
+      "outlet_url": "http://www.theitem.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-26T10:00:00Z",
+      "first_seen": "2026-09-26T10:06:34Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T22:06:34Z"
+    },
+    {
+      "id": "c3748a657ffdddb9",
+      "title": "First United Methodist Church Valdese presents 'A Month of Sundays' in October",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWpVZ3JrR3FnbnZKX1lDbU9RVG82dWloNWdNWnhJUmMwX0lWTlotVE85TGFlRnd4eTlxdWJzUHNBRlJtOWJuN1B4Xy1wOFRCVWFNM1N2a2RMaDBpbVhKcjVJNjNaejZCNFF2ckUzMGdPMzhwQXBiT1hWWkNLaU5JaUZfWjhVeUZteWdSc2JGOWNNaWdmSXdtb0tHNXM5MlF5WGcyM0xaalY5enlFOGE5TjNSTQ?oc=5",
+      "summary": "First United Methodist Church Valdese presents 'A Month of Sundays' in October Hickory Daily Record",
+      "outlet": "Hickory Daily Record",
+      "outlet_url": "https://hickoryrecord.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-26T10:00:00Z",
+      "first_seen": "2026-09-26T10:06:34Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T22:06:34Z"
+    },
     {
       "id": "f59152babd974761",
       "title": "Album Review: Red Worship’s \"Witness\" Finds Its Strongest Songs in Stories Worth Telling",
@@ -10971,44 +11003,6 @@
       "image": {
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/amazon-cant-pray-for-you.jpg?resize=1200,628",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "88f4d368a0adb780",
-      "title": "The Lost Luggage Afterlife Begins in Alabama",
-      "link": "https://www.christianitytoday.com/2026/09/the-lost-luggage-afterlife-begins-in-alabama-airlines-unclaimed-baggage/",
-      "summary": "In 1997, employees at a warehouse in Scottsboro, Alabama, uncovered the remains of a four-foot-tall animatronic dwarf in the back of a tractor trailer. The white-haired, radio-controlled puppet, whose name is Hoggle, had last been seen in Jim Henson’s 1986…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T10:00:00Z",
-      "first_seen": "2026-09-21T10:37:53Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/unclaimed-baggage-suitcases.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3efe0e26fa20283a",
-      "title": "EWTN News explains: What does a diocese do when a priest is accused of misconduct?",
-      "link": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-does-a-diocese-do-when-a-priest-is-accused-of-misconduct",
-      "summary": "A diocesan bishop will usually undertake a lengthy investigation and administrative process when responding to misconduct or abuse allegations.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T10:00:00Z",
-      "first_seen": "2026-09-21T10:37:53Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789484144/ewtn-news/en/shutterstock_2654164485-2_zv7vwr.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
