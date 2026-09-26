@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-26T04:06:56Z",
+  "generated_at": "2026-09-26T04:38:40Z",
   "story_count": 600,
   "with_photo": 467,
   "items": [
+    {
+      "id": "dd3a035000599092",
+      "title": "Eternal Wall of Answered Prayer: Why 22 years of waiting isn't wasted",
+      "link": "https://www.christianpost.com/voices/eternal-wall-of-answered-prayer-why-waiting-isnt-wasting.html",
+      "summary": "Last week, I stood in a factory in Portugal and stared at something I had waited 22 and a half years to see. It was a piece of concrete.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T04:01:13Z",
+      "first_seen": "2026-09-26T04:38:40Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272074_w_550_312.jpg?v=20260926000051",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4fb6b7c275d7b33e",
+      "title": "Gen Z most likely to identify as 'religious,' engage in spiritual activities, poll finds",
+      "link": "https://www.christianpost.com/news/gen-z-most-likely-to-identify-as-religious-poll-finds.html",
+      "summary": "Generation Z adults are more likely than older Americans to describe themselves as “religious,” even as many also engage in practices at odds with Christian teaching, according to a new survey.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T04:00:08Z",
+      "first_seen": "2026-09-26T04:38:40Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272022_w_550_367.jpg?v=20260926000013",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5cdc642a19573e85",
       "title": "Kirk Franklin and GloRilla Bring Big Gospel Energy to “This Time”",
@@ -10961,44 +10999,6 @@
       "first_seen": "2026-09-21T07:39:51Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28263/steve-harvey.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "23ffe67c3b3fc155",
-      "title": "Dominican Sisters engage in intercultural dialogue in Buryatia",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/sisters-project-198-dominicans-intercultural-dialogue-siberia.html",
-      "summary": "Buryatia is the heart of Siberian Asia and a land of extreme contrasts: forty-degree frosts coexist with the warmth and hospitality of local residents, while Buddhist monasteries and shamanic places of worship stand alongside Christian churches. In this…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T06:25:00Z",
-      "first_seen": "2026-09-21T07:39:51Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/17/sp198-foto-copertina.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "61b616551e93b6f2",
-      "title": "Jeremy Cowart Reveals How the Late Duncan Sheik’s Accidental “Angel Shot” Changed His Career",
-      "link": "https://www.jubileecast.com/articles/39584/20260921/jeremy-cowart-reveals-how-duncan-sheik-s-accidental-angel-shot-changed-his-career.htm",
-      "summary": "A haunting photograph of the late Duncan Sheik is attracting new attention after celebrity photographer Jeremy Cowart",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T05:32:20Z",
-      "first_seen": "2026-09-21T05:38:23Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31880/duncan-sheik.jpg",
         "via": "media:content"
       },
       "breaking": false,
