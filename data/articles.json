@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-26T13:06:22Z",
+  "generated_at": "2026-09-26T13:36:31Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "4667075819a88033",
+      "title": "Kirk Franklin Reunites with GloRilla on Gospel-HipHop Banger ‘This Time’ | WATCH",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIQUFBLVFwcm5wQm94ME1BMmtlT09lcDNUQkFmcUhaWk92N1oza3VScmMxNWJCSmx4a2dXSjBxTkxUd3pmX2dCelp2ZWo5TzVPQm9ONA?oc=5",
+      "summary": "Kirk Franklin Reunites with GloRilla on Gospel-HipHop Banger ‘This Time’ | WATCH EURweb",
+      "outlet": "EURweb",
+      "outlet_url": "https://eurweb.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-26T13:02:33Z",
+      "first_seen": "2026-09-26T13:36:31Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T01:36:31Z"
+    },
     {
       "id": "c024eb96d875522d",
       "title": "Mark Consuelos Reveals He's Having \"Major\" Toe Surgery: Kelly Ripa Isn't Letting Him Live It Down",
@@ -10980,25 +10996,6 @@
       "first_seen": "2026-09-21T15:36:51Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271976_w_550_441.jpg?v=20260921103826",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "91d1ca4a3083418d",
-      "title": "Relic of Christ’s tunic to be displayed for Pope Leo in France",
-      "link": "https://www.ewtnnews.com/vatican/relic-of-christ-s-tunic-to-be-displayed-for-pope-leo-in-france",
-      "summary": "The Holy Tunic will travel almost four miles from Argenteuil, France, to the pope’s youth vigil at the Stade de France in Saint-Denis.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T13:26:24Z",
-      "first_seen": "2026-09-21T13:38:08Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1751922803/images/holytunicfrance042325.jpg",
         "via": "media:content"
       },
       "breaking": false,
