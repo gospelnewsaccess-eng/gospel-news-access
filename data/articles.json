@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T01:36:58Z",
+  "generated_at": "2026-09-26T02:06:47Z",
   "story_count": 600,
   "with_photo": 464,
   "items": [
@@ -6890,6 +6890,22 @@
       "breaking_expires_at": null
     },
     {
+      "id": "a4eba66e4c26e161",
+      "title": "Jessica Simpson Celebrates Christian Testimony in New For King & Country Song",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnJOa0xUbUNRNTlPVzdQY2I2eU15V0MwbkhWOFNRSkQ3bk1rMUo1ekdGczYzc2tHbmJZVXQtTjJRYXl2ZWIxQ2VpYWdsaU11aGJFVDVvRG9UMHlhQVBaLUl4ZHNOZEJKaDBtOVJTMFRqTjlSN1pZRThHcWF5aGsxVGJXSmxrX0JTbWhqVUIyeUV0ZldOeERXOHdZNndmTlQtWVJ0RWZaNGZsaHVsc09aYmZUUlpWSHA2NHFrTjlEOEVWd2xIRjVFOTR2X21YSi1WYnYwSl9jeDdsZmIyVVNKcw?oc=5",
+      "summary": "Jessica Simpson Celebrates Christian Testimony in New For King & Country Song Crosswalk.com",
+      "outlet": "Crosswalk.com",
+      "outlet_url": "https://www.crosswalk.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-22T19:29:00Z",
+      "first_seen": "2026-09-26T02:06:47Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "832e58789d86ca7b",
       "title": "Nearly 1 in 4 Americans Can’t Name a Single First Amendment Right",
       "link": "https://mycharisma.com/news/nearly-1-in-4-americans-cant-name-a-single-first-amendment-right/",
@@ -10978,22 +10994,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "dc3d4399a4fe7caf",
-      "title": "Ghanaian Gospel sensation Jeif Annie releases refreshing debut album “Ahavah”",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNUgxTjctbjFRbmlkM2RWUW9nT05MM3NjZ095eGxac3BHV3pzbjB1QnZPZWROZnlkOENHRUU5eEFKMWttX0lZcHBjX1k4RkhNUm9WeDVXbVE3dGNfOU1fcVRhLW9nU29mM09tQzFaQVhON2RfSE1kRlhOTDJLdkwwbjQ3VTBXbWIxZEpjZlNvNzQyMFBDLWNBZHpNaUZra0hEZ2kyTWxfTzJ4eDNSdEgzd1VUaE42SVU?oc=5",
-      "summary": "Ghanaian Gospel sensation Jeif Annie releases refreshing debut album “Ahavah” ghanamusic.com",
-      "outlet": "ghanamusic.com",
-      "outlet_url": "https://ghanamusic.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T02:33:00Z",
-      "first_seen": "2026-09-21T02:38:41Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-21T14:38:41Z"
     }
   ]
 }
