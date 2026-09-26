@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-26T18:40:32Z",
+  "generated_at": "2026-09-26T19:05:56Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
+    {
+      "id": "e7a4af81b2dd70aa",
+      "title": "Illinois bishop announces first-ever parish to be named after Blessed Fulton Sheen",
+      "link": "https://www.ewtnnews.com/world/us/illinois-bishop-announces-first-ever-parish-to-be-named-after-blessed-fulton-sheen",
+      "summary": "The combined parish of St. Mary in El Paso, Illinois, and St. John in Benson, Illinois, will be the first parish in the world to be named after the new blessed.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T18:10:34Z",
+      "first_seen": "2026-09-26T19:05:56Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790447238/ewtn-news/en/StMaryElPasoIllinois092626_a4s019.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3d7f4cb7bbd8a949",
       "title": "From foster care to Lourdes: Young convert leaves job to see pope, embrace monastic life",
@@ -10977,25 +10996,6 @@
       "first_seen": "2026-09-21T16:38:48Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789999133/ewtn-news/en/_MAR9437_q2kzgc.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "297c3c30990c8e70",
-      "title": "Andrew Walker installed as dean of SBTS School of Theology",
-      "link": "https://www.christianpost.com/news/andrew-walker-installed-as-dean-of-sbts-school-of-theology.html",
-      "summary": "Prominent theologian Andrew Walker has been formally installed as the dean of Southern Baptist Theological Seminary’s School of Theology, with the leader of the institution praising him as “the man who God has prepared for this role at this time.”",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T15:58:00Z",
-      "first_seen": "2026-09-21T16:38:48Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271983_w_550_322_311_98.jpg?v=20260921120131",
         "via": "media:content"
       },
       "breaking": false,
