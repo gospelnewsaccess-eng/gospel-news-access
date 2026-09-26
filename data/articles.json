@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-25T23:36:25Z",
+  "generated_at": "2026-09-26T00:08:50Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "ff9cc75c3cf5e621",
+      "title": "Historic Black church building’s renovation celebrated at Drury",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWmxFbUZIbXpybE1tMm53X1J4Q0xOeVNjSngzNWJHYXRRczVnYzhEcmJkLV9SbEp3MUJBVDRnalY4UlFxdVM0bzJjRVEwa0pBMFRRY0VwcTdwUU01T2ZBTzdkV3MxR3VwQ0xpR2J0RW44ajB1ZDNyTWlpLWFzV3gxVGVhRUg5azdVRGE1OW1hOA?oc=5",
+      "summary": "Historic Black church building’s renovation celebrated at Drury Springfield Daily Citizen",
+      "outlet": "Springfield Daily Citizen",
+      "outlet_url": "https://sgfcitizen.org",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T23:53:54Z",
+      "first_seen": "2026-09-26T00:08:50Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T12:08:50Z"
+    },
+    {
+      "id": "e10a5fb394a39d41",
+      "title": "Correspondent brings us to Pope Leo's meeting with young people of France",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/correspondent-brings-us-to-pope-leo-s-meeting-with-young-people.html",
+      "summary": "Vatican News correspondent Deborah Castellano Lubov brings us the great excitement at Pope Leo's encounter with 80,000 young people at the Stade de France. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T22:58:00Z",
+      "first_seen": "2026-09-26T00:08:50Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/25/13184ab7-b223-4d24-a89d-e75c36de737a.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "67259a89d4edcfe4",
+      "title": "Report from the Cathedral of Notre Dame in Paris with Pope Leo",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/notre-dame-welcomes-pope-leo-xiv.html",
+      "summary": "Vatican News correspondent Deborah Castellano Lubov reports from the Cathedral of Notre Dame with Pope Leo XIV, who this evening became the first Pope to step inside the Cathedral since the devastating 2019 fire. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-25T22:50:00Z",
+      "first_seen": "2026-09-26T00:08:50Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/25/0cca0cec-3386-4f16-9c45-8f4d91006301.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "bf4d9732b771fa91",
       "title": "Highlights of Pope Leo's first day in France",
@@ -38,6 +92,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790371313/ewtn-news/en/PopeVisit-1_gtafhy.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d4aefbff497898e0",
+      "title": "Bishop Horace Earl Smith to step down after 46 years leading Apostolic Faith Church in Bronzeville, Chicago",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2VHUXJDaEpORmtXUk02c0ZodjQtNzlzWVl1QkRpdHM5c2Vja3QyRS1YMFdSQ0Z4ZGJaUThJUm5YVUx0UDFwU2VPR2NNS3N5ZURfVUtGT1lhd3JZSDBucnFtWXYzNXdXOEVfbWJSVXlLMGdNUGNoUS0xSmltUE5CdV92UlE4T0tEYklUT1JJQlgwMnBfMlZMUms0V29HYnluY0tEN0x6SGJmbU9IX3NQUm1TMWNJWFdLdzNoZkJJVTB4MldqMUtydE93Und1Z9IB0wFBVV95cUxNY0lLRzZmVndyOTV0ME1HM2xxZjMxMXExeWtaVldRNm5PVlFmVUZucC1DUnppTmZGR2tiQ0E2aV92QzdVelNwWU0tWmlXcVJKVWI5YUp4bXZKNGNWY0Fuakl4QzNRTkxuVldXdjZ3X3dVTXNuMTRNd3Q5QTRySW4wSW9YeDRYVnhTdWo0czhWVVlrZmg3azNFZDl2VDlaeUxxVEJob3gtT09EdmxQU1ZfdWFRTG1KTV8zZEY2NGpWalNNOGdnNklmTXZyZFZRMklwLUdr?oc=5",
+      "summary": "Bishop Horace Earl Smith to step down after 46 years leading Apostolic Faith Church in Bronzeville, Chicago ABC7 Chicago",
+      "outlet": "ABC7 Chicago",
+      "outlet_url": "https://abc7chicago.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-25T22:07:30Z",
+      "first_seen": "2026-09-26T00:08:50Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10924,79 +10994,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-21T12:42:35Z"
-    },
-    {
-      "id": "6e77a90330a4692d",
-      "title": "Unity Weekend returns to Aiken with golf, gospel music and Black history",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkRNNVA4RlJDeTZlYVVxeXZfNGxGajdnMUgtQnZNWjF3MzF4dFFYazMtdHVERzMzYjlfYS1EcndnbXh3Q0pKVklJLTU4RFI3WDQ2VVdPeE1MWjlsd3NzZWtBYjBSaXlMdG5BckpURzdySDAxcFBHV19lZlV5N1NGNVZMQU1zZ3AzQmM5Y1ZLelFJcFFoQnczSjJ0eEZwbzDSAaQBQVVfeXFMTjBhRTRvMlVUOGxJamdUUUlRZk5OZzBlbGh5aE9zY2dxbi1sNVFnMlgwUXRQSzVqZ1ZzSzBCMUNSZGdtclJGaUlDWk1wd2JBLVUzQnBlTFZBUGJoVmFiUEJiY3BHZzhQQzlvVGFVNjgtLWlpdTRUTHhfTFJYMkpNZkxZS0hXUlNXdXl3aFE2N3hlZjZPYnBNeGp0TUwwN0hZemRtSWg?oc=5",
-      "summary": "Unity Weekend returns to Aiken with golf, gospel music and Black history wjbf.com",
-      "outlet": "wjbf.com",
-      "outlet_url": "https://www.wjbf.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-20T21:29:11Z",
-      "first_seen": "2026-09-21T00:09:18Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cb62fbb990f8cf9c",
-      "title": "Billy Graham’s Grandson Takes Gospel Tour Through America’s 13 Original Colonies",
-      "link": "https://www.jubileecast.com/articles/39581/20260920/billy-graham-s-grandson-takes-gospel-tour-through-america-s-13-original-colonies.htm",
-      "summary": "Billy Graham’s Grandson Takes Gospel Tour Through America’s 13 Original Colonies",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:48:29Z",
-      "first_seen": "2026-09-20T21:36:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/20375/will-graham.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0b238e35d223a2b9",
-      "title": "Kirk Franklin’s Son Kerrion Franklin Arrested In Texas On Unlawful-Restraint Charge",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWRiWWhHN0tUeE94S2tlVDdvemFMd25JcjN0azB1QUItWDlOWElrUjJOVTVLc005NHQzQ0pkTFpRSU5rMTJBcGN6NHdLR1NvTWh0SlNKNWtlWlpoQ2RpdW5aNlVwSnNlQVY5NlpPb3otcm9YX1F2LTBYa1d5ZlEwNTladjJvLXdOUDZxaTg3SnA0eTBYUllxVC1CcFRiLVNFeHY2aDBkd2NWTDR2SnU3VE1xdzN4WUdyekpfTlNFa0h0LVZTeEtlajZ2YWwtelBTZ1JsLWV3?oc=5",
-      "summary": "Kirk Franklin’s Son Kerrion Franklin Arrested In Texas On Unlawful-Restraint Charge JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-20T20:43:00Z",
-      "first_seen": "2026-09-20T21:06:47Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31878/kerrion-franklin.jpeg",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-09-21T09:06:47Z"
-    },
-    {
-      "id": "1021c74a0bda22dd",
-      "title": "\"Daniel And The Fiery Furnace\" Stuns With Near-Perfect Audience Score Despite Brutal Reviews",
-      "link": "https://www.jubileecast.com/articles/39579/20260920/daniel-and-the-fiery-furnace-stuns-with-near-perfect-audience-score-despite-brutal-reviews.htm",
-      "summary": "Daniel And The Fiery Furnace Stuns With Near-Perfect Audience Score Despite Brutal Reviews",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-20T20:36:32Z",
-      "first_seen": "2026-09-20T20:36:19Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31849/daniel-the-fiery-furnace.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
