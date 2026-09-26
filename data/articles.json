@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-26T17:06:22Z",
+  "generated_at": "2026-09-26T17:37:15Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "e79e14df6505d308",
+      "title": "Kirk Franklin and GloRilla team up again for new gospel track ‘This Time’",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWFXYlRDa0NyaWRUU3BTYnFNbUh0eTZ5NEpUaXRyMzRyQm5McjBkYnpHdFU3LUZKXzZyZTgxX0hXR3hVZW5VcjBXd3l2ejhxbGNqRHJHaHcyUndudnFkN0djNWZHNTZwQUpaTkNwOGhidFJIVDdaNy1zYTNyYlk5RVNEcGtheXJJOGk0bEs5ZU1UeDhRVklSR1MxLVdzbXF3?oc=5",
+      "summary": "Kirk Franklin and GloRilla team up again for new gospel track ‘This Time’ Yahoo",
+      "outlet": "Yahoo",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-26T16:47:04Z",
+      "first_seen": "2026-09-26T17:37:15Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T05:37:15Z"
+    },
     {
       "id": "2350b518d6fa2d5c",
       "title": "Pope Leo XIV in Paris: No one ‘is merely a number’",
@@ -10981,25 +10997,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-22T04:07:21Z"
-    },
-    {
-      "id": "a76442e7012c10c9",
-      "title": "Pope to pray rosary for peace with more than 700 children at the Vatican",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-pray-rosary-for-peace-with-more-than-700-children-at-the-vatican",
-      "summary": "Coming from schools and parishes throughout Rome, the children will join the pontiff in the “One Million Children Praying the Rosary” campaign.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T15:26:00Z",
-      "first_seen": "2026-09-21T15:36:51Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1781170735/ewtn-news/en/_RIS5141_bll70w.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
