@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-26T01:05:42Z",
+  "generated_at": "2026-09-26T01:36:58Z",
   "story_count": 600,
   "with_photo": 464,
   "items": [
+    {
+      "id": "ee230bceea4fdda2",
+      "title": "Before Stardom With…Pat Uwaje-King (gospel artiste)",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kNF95bEFmenMyU1pvdlV4b3lUY240SThzQ2k3T1hsamUzR1NRV04wN3hnZlc4elBlUGVqckJwbVQyQW1hbUgtYnROV0ZLamdQLTh1aEtpX0pqdWZOMTdYZUM4NEtSelpEWG90N2ZxZ3hKTFNVSjNrZEdn?oc=5",
+      "summary": "Before Stardom With…Pat Uwaje-King (gospel artiste) punchng.com",
+      "outlet": "punchng.com",
+      "outlet_url": "https://punchng.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-26T00:29:35Z",
+      "first_seen": "2026-09-26T01:36:58Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-26T13:36:58Z"
+    },
     {
       "id": "ff9cc75c3cf5e621",
       "title": "Historic Black church building’s renovation celebrated at Drury",
@@ -10978,22 +10994,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-21T14:38:41Z"
-    },
-    {
-      "id": "48813c8333a522fc",
-      "title": "Top 25 Classic Christian Songs: Help Us Build the Countdown",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblRibUhLMUJpRDdmU1U4dXE4QWpZQjlIaE84emkxb3B3STlSbW1SaFlDTk9zQ3ZYZ3FSU3hLQ2hDMmh5LUI4eFJnRGxQaG55SDAxMXhWWE1SeURDdDNaVDlLdXBGdkpXOV9RZ0lReldWM1EtZWVPSk1BTEkteVJXNGI2Rk4tZHlVRmNFZHJsYUN5bVE?oc=5",
-      "summary": "Top 25 Classic Christian Songs: Help Us Build the Countdown Hope 103.2",
-      "outlet": "Hope 103.2",
-      "outlet_url": "https://hope1032.com.au",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-21T00:38:03Z",
-      "first_seen": "2026-09-21T00:42:35Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-21T12:42:35Z"
     }
   ]
 }
