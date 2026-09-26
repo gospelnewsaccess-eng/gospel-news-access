@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-26T17:37:15Z",
+  "generated_at": "2026-09-26T18:07:49Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "3d7f4cb7bbd8a949",
+      "title": "From foster care to Lourdes: Young convert leaves job to see pope, embrace monastic life",
+      "link": "https://www.ewtnnews.com/world/europe/from-foster-care-to-lourdes-young-convert-leaves-job-to-see-pope-embrace-monastic-life",
+      "summary": "Among the throngs of pilgrims in Lourdes this weekend will be a 27-year-old woman who be there with a group of Cistercian nuns, hoping the visit will confirm her call to contemplative life.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T17:00:00Z",
+      "first_seen": "2026-09-26T18:07:49Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790197402/ewtn-news/en/bb94b293-9d00-46a1-b4da-5daba09a346b_tq4dh2.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e79e14df6505d308",
       "title": "Kirk Franklin and GloRilla team up again for new gospel track ‘This Time’",
@@ -10981,22 +11000,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "ac3e181e581ad1fe",
-      "title": "Safety or Surveillance? 400 AI Cameras at Texas Megachurch Spark Serious Privacy Questions",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObWRaakw2NnR1aUZXR2NBUTB2bWxiUkY3OVJnYXI2TU5GSU02eUMyT1JBV2NhbEhfSDhRTEh3Z05CNjJXVnM3OS1MUXpFaGRmbFZueEF5RG9IOG9PRUMzamRFR1l5cHNQNVhZdHBxZkxNLW41V0liVzJyZTUtTGtiZ1IxVFlHNkRuUXFsUnFINVk1SVFUd09abDFERUh4UmRRVnJ6YWhXWExIcDdkQnQ0cEkxN0lrVk1ZVXZ2OVlQMFFtOVBUMzh5TUJTelpxaHJxaFJuamxVRVR5d0ZMd1VrNmdORDAxVGRXM2k2VzlYZFZFSnRnODV6cTlCQTU?oc=5",
-      "summary": "Safety or Surveillance? 400 AI Cameras at Texas Megachurch Spark Serious Privacy Questions Crosswalk.com",
-      "outlet": "Crosswalk.com",
-      "outlet_url": "https://www.crosswalk.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-21T15:48:00Z",
-      "first_seen": "2026-09-21T16:07:21Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T04:07:21Z"
     }
   ]
 }
