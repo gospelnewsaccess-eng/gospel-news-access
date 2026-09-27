@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-09-27T18:08:10Z",
+  "generated_at": "2026-09-27T18:40:43Z",
   "story_count": 600,
-  "with_photo": 469,
+  "with_photo": 471,
   "items": [
+    {
+      "id": "65080355668f512b",
+      "title": "In Metz, Pope Leo steps into Europe’s deepening divide over immigration",
+      "link": "https://www.ewtnnews.com/vatican/in-metz-pope-leo-steps-into-europe-s-deepening-divide-over-immigration",
+      "summary": "As Leo prepares to reach Metz, at the crossroads of France, Germany, and Luxembourg, what message will he offer about welcoming the stranger and the consequences of mass immigration?",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T18:20:00Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790331021/ewtn-news/en/WhatsApp_Image_2026-09-25_at_12.04.51_PM_1_usjifg.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cc294cfe9fd2223e",
+      "title": "Jamie MacDonald Drops New Song \"Used to Be\": Here's What to Know",
+      "link": "https://www.jubileecast.com/articles/39755/20260927/jamie-macdonald-used-to-be-new-single-release.htm",
+      "summary": "Jamie MacDonald Drops New Song \"Used to Be\": Here's What to Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T18:17:51Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28306/jamie-macdonald.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c0ffe43ec1907926",
+      "title": "Why Travis Kelce Won't Be at the 2026 VMAs Tonight: Even as Wife Taylor Swift Makes History",
+      "link": "https://www.jubileecast.com/articles/39764/20260927/why-travis-kelce-not-attending-2026-vmas-taylor-swift.htm",
+      "summary": "Why Travis Kelce Won't Be at the 2026 VMAs Tonight: Even as Wife Taylor Swift Makes History",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T18:14:22Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30820/taylor-swift.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5421d42056456d0a",
+      "title": "Angela Stribling: New Details Emerge on Her Final Hours, Husband, and Decades-Long Legacy Beyond BET",
+      "link": "https://www.jubileecast.com/articles/39763/20260927/angela-stribling-husband-ken-washington-beya-legacy.htm",
+      "summary": "Angela Stribling: New Details Emerge on Her Final Hours, Husband, and Decades-Long Legacy Beyond BET",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T18:01:08Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31963/angela-stribling.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e2f6e5e9aae323c8",
+      "title": "How to Watch the 2026 VMAs Tonight: Every Way to Stream It Live, Even Without Cable",
+      "link": "https://www.jubileecast.com/articles/39762/20260927/how-to-watch-2026-vmas-live-without-cable.htm",
+      "summary": "How to Watch the 2026 VMAs Tonight: Every Way to Stream It Live, Even Without Cable",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T17:50:50Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31962/vma-2026.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3bdb3f1ed0c6d1c5",
+      "title": "What Time Are the 2026 VMAs Tonight? Taylor Swift's Record-Breaking Night, Full Lineup Inside",
+      "link": "https://www.jubileecast.com/articles/39761/20260927/2026-vmas-what-time-taylor-swift-record-performers.htm",
+      "summary": "What Time Are the 2026 VMAs Tonight? Taylor Swift's Record-Breaking Night, Full Lineup Inside",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T17:43:35Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31961/vma-awards-2026.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3a4fe0ae58e925ae",
       "title": "This week in Christian history: Megachurch dedicates a 62-foot statue of Jesus; Damasus becomes pope",
@@ -114,6 +228,22 @@
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-gli-oper/1790518196801.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "334030f5eb8d2e08",
+      "title": "Kirk Franklin And GloRilla Reunite For Gospel Single ‘This Time’",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYlpxMmtnWmd4OXB1dnUtRGJoY0NyMWJVWk9rNHdtZ01IZnlQeEsxOGs3SHpYVGp5a2dpdHpubWpuOVZrQ1hLcm93NUZvWS1GOXhpMHhQSW1YWWk0UFZMS0RUdEhYRmg2WF9iRHRQRGh0QjlGdXpRTWZCQ2g1djJEM3Nnb2hueWlweDFpVzd6VQ?oc=5",
+      "summary": "Kirk Franklin And GloRilla Reunite For Gospel Single ‘This Time’ saobserver.com",
+      "outlet": "saobserver.com",
+      "outlet_url": "https://saobserver.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-27T12:52:42Z",
+      "first_seen": "2026-09-27T18:40:43Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10882,130 +11012,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272002_w_550_371_678_331.jpg?v=20260921170602",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "78d9fc3ca7fccd2c",
-      "title": "Erica Campbell’s Label Sues Music Distributor For Over $1 Million",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkE1TGljSnBfemMtZHFoX0pOWVhyVjhDRGs2NGstTkU5U2Izc1Fla1BQLUZzWHJQam1EXzZXU2taODROeEE5SGVDY1RwNFdTMkpDTms3OWFEb1hySmpwYXBGdkp2LUJFZElwNjYzVEdIWUFqRDZpVTV5NXhxN0hQWDJYZTNhelFHdzdnbXlBNHpsd3l2?oc=5",
-      "summary": "Erica Campbell’s Label Sues Music Distributor For Over $1 Million WBLS",
-      "outlet": "WBLS",
-      "outlet_url": "https://www.wbls.com",
-      "source_feed": "Google News: Erica Campbell",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-21T21:05:00Z",
-      "first_seen": "2026-09-21T23:36:48Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a40f4005a433702f",
-      "title": "Fundraiser for Lindsay Clancy trial holdout juror tops $370K",
-      "link": "https://www.christianpost.com/news/fundraiser-for-lindsay-clancy-trial-holdout-juror-tops-370k.html",
-      "summary": "A fundraiser for the holdout juror in the Lindsay Clancy case has raised over $370,000 as the fallout from the high-profile murder trial continues.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T20:55:00Z",
-      "first_seen": "2026-09-21T21:36:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271997_w_550_309.jpg?v=20260921165540",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5e1f83cabc0f300b",
-      "title": "Kirk Franklin Responds to Criticism for Praying With Chris Brown: Why the Backlash is Hypocritical",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSzUxQzR6V2IyYnZ1UW1jRnhpZ2s0UlhzMDMzWTNtYklPT0dTOVBNdXp4Q3Z3YXJheU5FRDVvTjZKZlg1T256YkFSdllXZGtYUEd2OVFVdjFETnp1WTY3M3Zrb0ROMEZMOFpwN0UzdUtwWXVUVlREeDZrYVp0bWVYNE1PX0txRnpUandGb2N1dmcxOUFl?oc=5",
-      "summary": "Kirk Franklin Responds to Criticism for Praying With Chris Brown: Why the Backlash is Hypocritical The Root",
-      "outlet": "The Root",
-      "outlet_url": "https://www.theroot.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-21T20:52:18Z",
-      "first_seen": "2026-09-21T21:06:28Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T09:06:28Z"
-    },
-    {
-      "id": "0bb62a6913187860",
-      "title": "What the Catholic Church can teach Silicon Valley about AI",
-      "link": "https://religionnews.com/2026/09/21/what-the-catholic-church-can-teach-silicon-valley-about-ai/",
-      "summary": "(RNS) — As ethical and religious leaders at Santa Clara University in the heart of Silicon Valley, we suggest embracing an idea promoted by Pope Francis: synodality.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T20:49:14Z",
-      "first_seen": "2026-09-21T21:36:46Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/05/webRNS-Synod-Vatican1-100423.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f59176d44467a01",
-      "title": "Italy Plans to Ban Burqas in Schools, Limit Enrollment of Foreign Students",
-      "link": "https://mycharisma.com/news/italy-plans-to-ban-burqas-in-schools-limit-enrollment-of-foreign-students/",
-      "summary": "Italian Prime Minister Giorgia Meloni is proposing a ban on burqas in her country’s schools. Meloni said she also wants to cap the number of foreign students able to enroll in Italian schools. She has additionally proposed making Italian language lessons…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T20:43:37Z",
-      "first_seen": "2026-09-21T21:36:46Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3cca5c2ded3ea2fa",
-      "title": "What Happened When AMERICAN IDOL Alum Shared the Gospel With an Atheist",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2poSHRDSmJ4Z2VOc0VXOU9BZ0ttYm1qNU9PNFd2eFFyY0FuVE1EYzdnNi1xMU1vc3E5VXg3TWlkLTUtSXE1ZG4zd01XMmxETlNFZTVyUVZxbGxyZmMxT0Y4TFFKQ1pIem85cmpCcUhfSlNFZklZdF8yRUNqc2RTOXl0U0xTRUZfZHZpamxYY2VzbWhYMHc?oc=5",
-      "summary": "What Happened When AMERICAN IDOL Alum Shared the Gospel With an Atheist Movieguide",
-      "outlet": "Movieguide",
-      "outlet_url": "https://www.movieguide.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T20:25:55Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T08:36:43Z"
-    },
-    {
-      "id": "d8fd7d46fab55c76",
-      "title": "Trump to Create ‘AI Force’",
-      "link": "https://mycharisma.com/news/trump-to-create-ai-force/",
-      "summary": "President Trump announced over the weekend that he intends to create an “AI Force” to expedite the growth of artificial intelligence. Trump wrote in a Truth Social post that his administration aims to combat resistance to AI and data centers. “We will not in…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T20:15:42Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
