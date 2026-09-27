@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-27T01:07:11Z",
+  "generated_at": "2026-09-27T01:37:53Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 467,
   "items": [
+    {
+      "id": "8dab7e5ea62c4887",
+      "title": "Jamie Lee Curtis Reveals the Bittersweet Last Words She Ever Heard From Michele Reiner",
+      "link": "https://www.jubileecast.com/articles/39747/20260926/jamie-lee-curtis-final-memories-rob-michele-reiner.htm",
+      "summary": "Jamie Lee Curtis Reveals the Bittersweet Last Words She Ever Heard From Michele Reiner",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T01:01:28Z",
+      "first_seen": "2026-09-27T01:37:53Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31953/jamie-lee-curtis.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "614e3ed2969340e5",
+      "title": "Farm Aid 2026 Wasn't Just a Concert: It Was a Rescue Mission for Family Farmers",
+      "link": "https://www.jubileecast.com/articles/39746/20260926/farm-aid-2026-crowd-turnout-family-farmers-virginia-beach.htm",
+      "summary": "Farm Aid 2026 Wasn't Just a Concert: It Was a Rescue Mission for Family Farmers",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T00:23:51Z",
+      "first_seen": "2026-09-27T01:37:53Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31952/farm-aid-music-festival.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d96ce076ade6d692",
       "title": "How Billy Gardell Turned 379 Pounds and a Diabetes Diagnosis Into a Second Chance",
@@ -10963,41 +11001,6 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790001950/ewtn-news/en/WhatsApp_Image_2026-09-21_at_11.40.45_AM_ybuqil.jpg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a04be0c5acf46f15",
-      "title": "REVIEW: Daniel and the Fiery Furnace Brings Babylon to Life — And Its Cast Makes It Burn Bright",
-      "link": "https://www.ccmmagazine.com/reviews/review-daniel-and-the-fiery-furnace-brings-babylon-to-life-and-its-cast-makes-it-burn-bright/",
-      "summary": "There are certain Bible stories you have seen illustrated so many times that you almost forget you have never actually seen them. Shadrach, Meshach and Abednego in the fiery furnace is one of those stories. This week we got that chance to attend the premiere…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T17:00:39Z",
-      "first_seen": "2026-09-21T17:36:16Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Daniel-Movie-Web-Banner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c8b6cc6df98096fd",
-      "title": "JAYE KING RELEASES CENTRICITY MUSIC DEBUT ALBUM ALL GOD, NOT ME",
-      "link": "https://pathmegazine.com/articles/jaye-king-releases-centricity-music-debut-album-all-god-not-me/",
-      "summary": "Singer, songwriter and multi-Instrumentalist Jaye King releases his debut Centricity Music album, All God, Not Me today (Sept. 18) at streaming and digital outlets everywhere. A professional … The post JAYE KING RELEASES CENTRICITY MUSIC DEBUT ALBUM ALL GOD…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T17:00:09Z",
-      "first_seen": "2026-09-21T17:36:16Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
