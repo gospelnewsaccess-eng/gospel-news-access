@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-27T10:06:58Z",
+  "generated_at": "2026-09-27T10:37:38Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 468,
   "items": [
+    {
+      "id": "def8dba21a91b386",
+      "title": "President Trump Pays Tribute After Man Shot at Butler Dies",
+      "link": "https://mycharisma.com/news/president-trump-pays-tribute-after-man-shot-at-butler-dies/",
+      "summary": "Jim Copenhaver, one of two attendees shot during the 2024 assassination attempt on President Trump at Butler, Pennsylvania, has passed away. He was stuck by two bullets. While he lived, he was left with bullet fragments in his body and nerve damage. President…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T10:00:00Z",
+      "first_seen": "2026-09-27T10:37:38Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "51f71c235e70658c",
+      "title": "For Iraq’s Christians, Archbishop Warda says long-term stability requires jobs",
+      "link": "https://www.ewtnnews.com/world/middle-east/iraqi-christians-require-jobs-and-education-for-long-term-stability-erbil-archbishop-says",
+      "summary": "Archbishop Bashar Warda of Erbil called for investment in the future of young Christians in Iraq, pointing to the structure of the country’s economy as part of the problem.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T10:00:00Z",
+      "first_seen": "2026-09-27T10:37:38Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790351502/ewtn-news/en/mkas-ghlaf-61-1789986755.5028.png_jps3rs.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "24f7971d64646c41",
+      "title": "Pope to pilgrims in Lourdes: ‘You will leave as missionaries of hope'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-lourdes-mass-apostolic-visit-france.html",
+      "summary": "In Lourdes, Pope Leo XIV calls pilgrims to conversion and penance, urges the Church to conversion, and invites the sick to see their suffering as part of Christ’s redemptive action. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T09:58:08Z",
+      "first_seen": "2026-09-27T10:37:38Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790502617911.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9e3b41ae2d7aa08c",
+      "title": "Brandon Lake Surprise-Drops Live Version of \"How Good God Is\"",
+      "link": "https://www.jubileecast.com/articles/39754/20260927/brandon-lake-how-good-god-is-in-the-room-live-release.htm",
+      "summary": "Brandon Lake Surprise-Drops Live Version of \"How Good God Is\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T09:53:10Z",
+      "first_seen": "2026-09-27T10:37:38Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31581/brandon-lake.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6fe237ffc7710bfc",
       "title": "Black Church hosts Organ Nights on 3 October",
@@ -18,6 +94,44 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-27T22:06:58Z"
+    },
+    {
+      "id": "0323c108876496bd",
+      "title": "Jon Watts to Direct New Star Wars Trilogy: Here's What We Know",
+      "link": "https://www.jubileecast.com/articles/39753/20260927/jon-watts-star-wars-trilogy-director-simon-kinberg.htm",
+      "summary": "Jon Watts to Direct New Star Wars Trilogy: Here's What We Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T09:46:47Z",
+      "first_seen": "2026-09-27T10:37:38Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31957/star-wars.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "566857c61d333118",
+      "title": "Pope Leo in Lourdes: The Church must heal her ‘wounds, infidelities, and painful errors’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-in-lourdes-the-church-must-heal-her-wounds-infidelities-and-painful-errors",
+      "summary": "The pontiff spoke about the urgency of repentance and conversion at a Mass on the third day of his visit to France.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T09:44:48Z",
+      "first_seen": "2026-09-27T10:37:38Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790502147/ewtn-news/en/WhatsApp_Image_2026-09-27_at_11.41.27_AM_pgjpvc.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "bdfd9f38b7425b30",
@@ -10892,111 +11006,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-22T07:37:26Z"
-    },
-    {
-      "id": "80eaadfcb1d87f3d",
-      "title": "Presley Gerber Died Inside a Rehab Facility—How Could an Alleged Overdose Happen Where He Sought Help?",
-      "link": "https://www.jubileecast.com/articles/39599/20260921/presley-gerber-died-inside-a-rehab-facility—how-could-an-alleged-overdose-happen-where-he-sought-help.htm",
-      "summary": "Presley Gerber Died Inside a Rehab Facility—How Could an Alleged Overdose Happen Where He Sought Help?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T19:27:17Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31885/presley-gerber.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "53f97f9ac6218266",
-      "title": "Johnny Holm, The Tibor Brothers and others inducted into N.D. Music Hall of Fame",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenU5RHFrTXF0RFY5a1VOVmMxLTVncjI4MDFmWk5qV1o1bGRSWnRFSU1zM3NaWmtsYUdPd0hKMVlkWHpwWmJkQ3phMEo1ZVNUdmwybnZFSnR0ajFxS2dYUU42Wi1tT0xrUnlZclI0akl3VUludmdYSW9QbzZpZzdMY2JwNWxQM01kcU91dUV2UUZkSWgzbnI5ZS1aMWphSm1vZG9XcVFoUEpJeFE?oc=5",
-      "summary": "Johnny Holm, The Tibor Brothers and others inducted into N.D. Music Hall of Fame The Mighty 790 KFGO",
-      "outlet": "The Mighty 790 KFGO",
-      "outlet_url": "https://kfgo.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-21T19:21:51Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T07:37:26Z"
-    },
-    {
-      "id": "87c6fa1542a3a9da",
-      "title": "Kirk Franklin Says His Mother Won't Acknowledge Identity of His Biological Father: ‘It’s Painful'",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWpXYnpsT0lMWF9aVmdES3dRa0wtcG5VUXc5dXcwMkFsRDc3alN3QU10eVpGTENEWlNhNkFWbklvMTFRQmVNSUoxT2ZUWkNZakRyTFNMaDBNa0RYcTdzWlRLZUFnRU05UTBJYnNjSUNaclF1YUlBTU80TGlIX2Rvd2tIVXVrZzlPQ1F6eFc0anZaaG52S1VNM24tX0d0T3Jx?oc=5",
-      "summary": "Kirk Franklin Says His Mother Won't Acknowledge Identity of His Biological Father: ‘It’s Painful' Complex",
-      "outlet": "Complex",
-      "outlet_url": "https://www.complex.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T19:15:02Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T07:37:26Z"
-    },
-    {
-      "id": "53e97875b1677714",
-      "title": "Thousands back petition urging Archbishop of Canterbury Sarah Mullally to resign amid 9/11 firestorm",
-      "link": "https://www.christianpost.com/news/thousands-back-petition-urging-archbishop-of-canterbury-to-resign.html",
-      "summary": "A petition calling for Archbishop of Canterbury Sarah Mullally’s resignation has received thousands of backers after the Anglican leader gave an award to a Muslim cleric who praised 9/11 terror mastermind Osama bin Laden on the anniversary of the…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T19:09:43Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271995_w_550_369_573_165.jpg?v=20260921150949",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "14785893ab292228",
-      "title": "Legends Inducted into North Dakota Music Hall of Fame",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSGFmdUFIQ2QwbGxzYkdJMDByVVQwWExDZ1ZqV2xDSU5fNGlkemJFSlZMSVk3bGRnd2hxX2h1MFk1TTEwQTlPSDhMMGZPbGlLVlBYeTdzLWF1ZDJTaFBDanYwX3FGZnpyeUdKakI1TWxqbTREU2JzUWpDY2x4bWdudURPNnI5VmpfSld1TFczNHVSSlg1TXZiODBlci1IVERaa1hldXd3?oc=5",
-      "summary": "Legends Inducted into North Dakota Music Hall of Fame Senator Kevin Cramer of North Dakota (.gov)",
-      "outlet": "Senator Kevin Cramer of North Dakota (.gov)",
-      "outlet_url": "https://www.cramer.senate.gov",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-21T18:57:16Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T07:37:26Z"
-    },
-    {
-      "id": "20dbfcc88ee416c5",
-      "title": "Gunfire Erupts Outside Synagogue as Jews Gather for Yom Kippur",
-      "link": "https://mycharisma.com/news/gunfire-erupts-outside-synagogue-as-jews-gather-for-yom-kippur/",
-      "summary": "The holiest day on the Jewish calendar was shattered by gunfire. As Jewish worshippers gathered at an Ontario synagogue for Yom Kippur, a barrage of bullets erupted just outside the doors. By the time the gunfire stopped, a veteran police officer had been…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T18:50:37Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/10/Rabbi-Schneider-Decoding-the-Torah-394x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
