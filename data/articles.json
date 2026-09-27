@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-27T09:38:20Z",
+  "generated_at": "2026-09-27T10:06:58Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "6fe237ffc7710bfc",
+      "title": "Black Church hosts Organ Nights on 3 October",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0Fpd0Y3ZGJZYmxmcUNZZlZSZFJUbzJXTkF1U2FqT0V0b1IxTkh0Um5RQTk4TFRyZ0Iwdm42R0RPc3dqQWxEWVZBNjBsM2s2cDZpRnJyS18zaFliVmltbElvRVhwTDJpLU84RVVvRkJJdnQwUkYzTXBFdEJuZDcxVm5rRGY4REd1NGFuQThqdjRLcEVaNEpMWHFnX3ZKUzZRSUE?oc=5",
+      "summary": "Black Church hosts Organ Nights on 3 October AD HOC NEWS",
+      "outlet": "AD HOC NEWS",
+      "outlet_url": "https://www.ad-hoc-news.de",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-27T09:51:23Z",
+      "first_seen": "2026-09-27T10:06:58Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T22:06:58Z"
+    },
     {
       "id": "bdfd9f38b7425b30",
       "title": "Nancy Guthrie Update: Family Friend Asks Public to \"Leave Annie and Tommaso Alone\"",
@@ -10978,25 +10994,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/10/Rabbi-Schneider-Decoding-the-Torah-394x600.jpg",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e07e8d822acd1e5e",
-      "title": "After 4th cancer diagnosis, influencer says he’s holding on to God’s promise of long life",
-      "link": "https://www.christianpost.com/news/after-4th-cancer-diagnosis-influencer-is-trusting-god.html",
-      "summary": "Despite being diagnosed with cancer for the fourth time in the last four years, Christian social media influencer Dylan Mandell says he is holding on to God’s promise of long life.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T18:39:08Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271994_w_550_317.jpg?v=20260921143934",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
