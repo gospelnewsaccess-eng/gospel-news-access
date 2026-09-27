@@ -1057,9 +1057,9 @@ here. We do not list a programme, a partner, a phone number or an address that
 has not been verified &mdash; because somebody in real need may act on what they
 read on this page.</p></div>
 <h2>The two centres</h2>
-<h3><a href="gospel-news-access.html">Gospel News Access CDC</a></h3>
+<h3><a href="gospel-news-access/index.html">Gospel News Access CDC</a></h3>
 <p>The community development arm of Gospel News Access.</p>
-<h3><a href="his-presence-fire.html">His Presence Fire Ministries CDC</a></h3>
+<h3><a href="his-presence-fire/index.html">His Presence Fire Ministries CDC</a></h3>
 <p>The community development arm of His Presence Fire Ministries.</p>
 """
     prose_page("cdc/index.html", "cdc", "Community Development",
@@ -1084,9 +1084,9 @@ read on this page.</p></div>
     field('message', 'How can we help?', rows=5, required=True),
 ]), (cfg().get('forms') or {}).get('cdc_contact_endpoint'), 'Send')}
 """
-    prose_page("cdc/gospel-news-access.html", "cdc", "Gospel News Access CDC",
-               "The community development arm of Gospel News Access.",
-               body, 1, crumbs + [("Gospel News Access CDC", SITE + "/cdc/gospel-news-access.html")])
+    # The full CDC sites live in cdc/<slug>/ and are not generated
+    # here. This used to rebuild a thin flat page every hour and
+    # overwrite them.
 
     # --- His Presence Fire Ministries CDC ---
     b = conf.get("his_presence_fire") or {}
@@ -1121,9 +1121,9 @@ read on this page.</p></div>
     field('message', 'Message', rows=5),
 ]), (cfg().get('forms') or {}).get('cdc_contact_endpoint'), 'Send')}
 """
-    prose_page("cdc/his-presence-fire.html", "cdc", "His Presence Fire Ministries CDC",
-               "The community development arm of His Presence Fire Ministries.",
-               body, 1, crumbs + [("His Presence Fire CDC", SITE + "/cdc/his-presence-fire.html")])
+    # The full CDC sites live in cdc/<slug>/ and are not generated
+    # here. This used to rebuild a thin flat page every hour and
+    # overwrite them.
 
 
 def _partners_block(b: dict) -> str:

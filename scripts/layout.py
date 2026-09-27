@@ -161,8 +161,8 @@ def footer(depth: int = 0) -> str:
         <h4>Community</h4>
         <ul>
           <li><a href="{r('cdc/index.html')}">Community Development</a></li>
-          <li><a href="{r('cdc/gospel-news-access.html')}">Gospel News Access CDC</a></li>
-          <li><a href="{r('cdc/his-presence-fire.html')}">His Presence Fire CDC</a></li>
+          <li><a href="{r('cdc/gospel-news-access/index.html')}">Gospel News Access CDC</a></li>
+          <li><a href="{r('cdc/his-presence-fire/index.html')}">His Presence Fire CDC</a></li>
           <li><a href="{r('churches/join.html')}">Add Your Church</a></li>
         </ul>
       </div>

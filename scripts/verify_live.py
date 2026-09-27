@@ -27,7 +27,7 @@ from datetime import datetime, timezone
 
 BASE = "https://gospelnewsaccess.com/"
 PAGES = ["", "news.html", "music.html", "charts.html", "charts/methodology.html",
-         "video.html", "cdc/index.html", "cdc/his-presence-fire.html",
+         "video.html", "cdc/index.html", "cdc/his-presence-fire/index.html", "cdc/gospel-news-access/index.html",
          "churches.html", "about.html", "corrections.html", "sitemap.xml",
          "robots.txt"]
 UA = "GospelNewsAccessBot/1.0 (live site check)"
