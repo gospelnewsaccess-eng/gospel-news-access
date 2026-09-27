@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-27T11:06:40Z",
+  "generated_at": "2026-09-27T11:37:33Z",
   "story_count": 600,
-  "with_photo": 468,
+  "with_photo": 469,
   "items": [
+    {
+      "id": "f1fc47b285777298",
+      "title": "State Department Begins Using ‘Super Intelligence’",
+      "link": "https://mycharisma.com/news/state-department-begins-using-super-intelligence/",
+      "summary": "The State Department has begun implementing the phrase “super intelligence” instead of “artificial intelligence.” According to an email obtained by the Associated Press, Michael Drager, the Deputy Assistant Secretary of State for the Bureau of International…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T11:30:00Z",
+      "first_seen": "2026-09-27T11:37:33Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "def8dba21a91b386",
       "title": "President Trump Pays Tribute After Man Shot at Butler Dies",
@@ -10990,22 +11009,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "3994f57243c97970",
-      "title": "Gospel Star Erica Campbell's Label Sues Music Distributor For Over $1 Million- Kenny Lattimore Says He Sees A 'Pattern' After Filing His Own Similar Lawsuit",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN3k2SjZzNlUzVHFBQ2V0Ym5HV19seUI5Q3pOTklmMUZ1czlkdXRFWEJTVGU3YmVsZ05jcWZEOTZyQ2xhZUtRT00xeTlROTJkU0JYQmwxYm8wLVBTM0FfMFdVa2VkVmUwcFZFVFdwS2pJUWtSejBUY1dvZDJkcWVwY3RBZUVpS0UxckdBZ2haYXRlX1dkVmM2OFRvZXJDTVlQZHllUXkwVzVzOUlaUW9YUExGN3ExczI0QXd0ZXVZaHZsQ2pQYTJ5V0t5NjA1VVY0OEdzQUwxaEVkYmd0a2h3cGhuU1MzZ1dGV3RxZEhwblRYZ1ZfZ1RteFdOQ0hmOThidkR3aXdKT0dUbXZ1UGlkdXlYVkZCZzllV2hR?oc=5",
-      "summary": "Gospel Star Erica Campbell's Label Sues Music Distributor For Over $1 Million- Kenny Lattimore Says He Sees A 'Pattern' After Filing His Own Similar Lawsuit theJasmineBRAND",
-      "outlet": "theJasmineBRAND",
-      "outlet_url": "https://thejasminebrand.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T19:27:17Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T07:37:26Z"
     }
   ]
 }
