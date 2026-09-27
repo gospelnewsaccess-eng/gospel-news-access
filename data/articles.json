@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-27T16:07:26Z",
+  "generated_at": "2026-09-27T16:38:58Z",
   "story_count": 600,
   "with_photo": 469,
   "items": [
+    {
+      "id": "3a4fe0ae58e925ae",
+      "title": "This week in Christian history: Megachurch dedicates a 62-foot statue of Jesus; Damasus becomes pope",
+      "link": "https://www.christianpost.com/news/this-week-in-christian-history-lux-mundi-statue-dedicated.html",
+      "summary": "Events from this week in Christian history include Damasus becoming pope, Charles Finney contracting cholera, and the dedication of the Lux Mundi statue.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T16:23:30Z",
+      "first_seen": "2026-09-27T16:38:58Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272049_w_550_352.jpg?v=20260927122426",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1b3c41a8fa0f74af",
+      "title": "Christians are companions on journey for the wounded and lonely",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/editorial-tornielli-pope-leo-xiv-lourdes-france-sick-lonely.html",
+      "summary": "Our Editorial Director reflects on Pope Leo XIV’s words in France, saying the Pope urges every Christian community to live in a spirit of closeness and compassion, never closing themselves off from the present age. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T15:31:00Z",
+      "first_seen": "2026-09-27T16:38:58Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-gli-oper/1790518515767.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2da1eb69dea2d981",
       "title": "Killing the sick is ‘false compassion,’ pope says in Lourdes",
@@ -17,6 +55,25 @@
       "first_seen": "2026-09-27T15:37:44Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790521096/ewtn-news/en/WhatsApp_Image_2026-09-27_at_4.54.09_PM_tc0oke.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d0e0f68f85539c56",
+      "title": "At Lourdes, Pope Leo hears testimonies of service, suffering and hope",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-lourdes-accueil-notre-dame-testimonies-hope.html",
+      "summary": "During his visit to the Accueil Notre-Dame in Lourdes, Pope Leo XIV hears three testimonies from people whose lives have been shaped by service to the sick, by suffering and by their experience of faith. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T15:06:00Z",
+      "first_seen": "2026-09-27T16:38:58Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-gli-oper/1790517606273.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10949,63 +11006,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bcd06d0a9143dd2e",
-      "title": "What Did God Bring Jamal Roberts Through? ‘American Idol’ Winner Announces Deeply Personal Album \"The Journey\"",
-      "link": "https://www.jubileecast.com/articles/39605/20260921/what-did-god-bring-jamal-roberts-through-american-idol-winner-announces-deeply-personal-album-the-journey.htm",
-      "summary": "What Did God Bring Jamal Roberts Through? ‘American Idol’ Winner Announces Deeply Personal Album \"The Journey\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T20:04:55Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29635/jamal-roberts.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "badbe4e3406a5246",
-      "title": "Patrick Clancy says ex-wife Lindsay never asked for forgiveness after killing children",
-      "link": "https://www.christianpost.com/news/patrick-clancy-says-ex-wife-lindsay-never-asked-for-forgiveness.html",
-      "summary": "Patrick Clancy said during a Sunday interview on CBS News' \"60 Minutes\" that he has forgiven his ex-wife, Lindsay Clancy, for killing their three young children, though she never asked for forgiveness.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T20:00:25Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271996_w_550_309.jpg?v=20260921160407",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "79bb6a358e6bf672",
-      "title": "Why Did Jessica Simpson Choose for KING + COUNTRY For Her Most Personal Duet Yet?",
-      "link": "https://www.jubileecast.com/articles/39604/20260921/why-did-jessica-simpson-choose-for-king-country-for-her-most-personal-duet-yet.htm",
-      "summary": "Why Did Jessica Simpson Choose for KING + COUNTRY For Her Most Personal Duet Yet?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T19:59:12Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27979/jessica-simpson.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
