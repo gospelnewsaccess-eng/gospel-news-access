@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-27T20:37:37Z",
+  "generated_at": "2026-09-27T21:06:40Z",
   "story_count": 600,
-  "with_photo": 475,
+  "with_photo": 474,
   "items": [
+    {
+      "id": "092fb629df8aef3a",
+      "title": "New hymn ‘Peace, Peace, Be Still’ brings hope through the Savior to face life’s storms",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDVTVEpNNFFENjJ2aTJlWjRQS0Qwd1BhWTVNaU1tLVRiYkZJR2lkWGNQQk9xSzBtLTNXSGRwNjhWOXBnLVpDeURIbWNSN1BNUXpIcm16UUVEaU5fYUthajdlcGU1YnZycklHM1JpQThLamdSdXBYdHgzN2ljVzRQTVlicDZiLWg2XzZXNGdwNjVSa0VnWGl5N0h5bks4ODRxSUZDNUZjQ3pNVzcxRzdyWlQ5MmNqYzVjYkdscGJzWTZraTVCSVZv?oc=5",
+      "summary": "New hymn ‘Peace, Peace, Be Still’ brings hope through the Savior to face life’s storms Church News",
+      "outlet": "Church News",
+      "outlet_url": "https://www.thechurchnews.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-27T21:00:00Z",
+      "first_seen": "2026-09-27T21:06:40Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-28T09:06:40Z"
+    },
     {
       "id": "c226d49d7b9cc7c1",
       "title": "Chandler Moore Sings About Rehab: Do Churches Make It Harder to Ask for Help?",
@@ -11004,25 +11020,6 @@
       "first_seen": "2026-09-22T01:37:15Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31732/dolly-parton.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d5305b5b05c82d64",
-      "title": "Why Does Andy Reid Say Taylor Swift Fuels Kelce's Chiefs Season?",
-      "link": "https://www.jubileecast.com/articles/39609/20260921/why-andy-reid-says-taylor-swift-fuels-kelce-chiefs-season.htm",
-      "summary": "Why Does Andy Reid Say Taylor Swift Fuels Kelce's Chiefs Season?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T01:24:50Z",
-      "first_seen": "2026-09-22T01:37:15Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30849/taylor-swift.jpeg",
         "via": "media:content"
       },
       "breaking": false,
