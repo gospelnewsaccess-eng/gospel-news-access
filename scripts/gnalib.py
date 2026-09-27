@@ -39,7 +39,7 @@ DATA = os.path.join(ROOT, "data")
 PACIFIC = ZoneInfo("America/Los_Angeles")
 UTC = timezone.utc
 
-SITE_URL = "https://gospelnewsaccess-eng.github.io/gospel-news-access"
+SITE_URL = "https://gospelnewsaccess.com"
 SITE_NAME = "Gospel News Access"
 
 UA = (

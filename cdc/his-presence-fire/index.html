@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>His Presence Fire Community Development Center</title>
+<meta name="description" content="Carrying the work of the church beyond its walls — into neighborhoods in crisis, families under strain, and a city that needs both prayer and practical help.">
+<meta property="og:title" content="His Presence Fire Community Development Center">
+<meta property="og:description" content="Carrying the work of the church beyond its walls — into neighborhoods in crisis, families under strain, and a city that needs both prayer and practical help.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Newsreader:ital,opsz,wght@0,6..72,300..700;1,6..72,300..700&display=swap" rel="stylesheet">
+<style>
+:root{--ink:#141210;--body:#39332D;--paper:#FCF9F4;--warm:#F3EDE2;--rule:#DED6C8;
+--accent:#C2410C;--accent2:#EA8C2B;--gold:#B8860B;--deep:#1C1714;--hilite:#F4C88A;
+--hed:'Archivo',Arial,sans-serif;--txt:'Newsreader',Georgia,serif;--wrap:1140px}
+*{margin:0;padding:0;box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{background:var(--paper);color:var(--body);font-family:var(--txt);font-size:17.5px;line-height:1.65}
+img{display:block;max-width:100%;height:auto}
+a{color:inherit}
+.wrap{max-width:var(--wrap);margin:0 auto;padding:0 22px}
+.topbar{background:var(--deep);color:#fff;position:sticky;top:0;z-index:50}
+.topbar .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;padding-top:12px;padding-bottom:12px}
+.brand{font-family:var(--hed);font-weight:800;font-size:16.5px;line-height:1.15;text-decoration:none;color:#fff}
+.brand span{display:block;font-weight:600;font-size:9.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--hilite);margin-top:4px}
+.topnav{display:flex;flex-wrap:wrap;gap:19px}
+.topnav a{font-family:var(--hed);font-weight:600;font-size:12.5px;letter-spacing:.08em;text-transform:uppercase;color:#CFC8BE;text-decoration:none}
+.topnav a:hover,.topnav a.on{color:var(--hilite)}
+section{padding:62px 0}
+h2.sec{font-family:var(--hed);font-weight:800;font-size:clamp(26px,3.8vw,38px);line-height:1.12;letter-spacing:-.7px;color:var(--ink);margin-bottom:13px}
+.sub{font-size:18px;color:#6B6459;max-width:44em;margin-bottom:34px}
+.kicker{display:inline-block;font-family:var(--hed);font-weight:700;font-size:11px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);margin-bottom:12px}
+.btn{display:inline-block;font-family:var(--hed);font-weight:700;font-size:13.5px;letter-spacing:.08em;text-transform:uppercase;padding:15px 26px;text-decoration:none;border:2px solid transparent;transition:.14s}
+.btn.solid{background:var(--accent);color:#fff;border-color:var(--accent)}
+.btn.solid:hover{background:var(--accent2);border-color:var(--accent2)}
+.btn.ghost{border-color:rgba(255,255,255,.45);color:#fff}
+.btn.ghost:hover{background:#fff;color:var(--ink)}
+.btn.dark{border-color:var(--ink);color:var(--ink)}
+.btn.dark:hover{background:var(--ink);color:#fff}
+/* image frames - these carry a photo when supplied, and read as intentional art when not */
+.shot{position:relative;width:100%;aspect-ratio:4/3;overflow:hidden;background:var(--deep)}
+.shot img{width:100%;height:100%;object-fit:cover}
+.shot .fill{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:18px}
+.shot .pcred{position:absolute;left:0;right:0;bottom:0;padding:7px 10px;
+background:linear-gradient(transparent,rgba(0,0,0,.72));color:rgba(255,255,255,.88);
+font-family:var(--hed);font-size:9.5px;letter-spacing:.07em;text-transform:uppercase;line-height:1.4}
+.shot .fill span{font-family:var(--hed);font-weight:700;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:rgba(255,255,255,.72);line-height:1.6}
+.g1{background:linear-gradient(140deg,var(--deep) 0%,var(--accent) 180%)}
+.g2{background:linear-gradient(200deg,var(--deep) 0%,var(--gold) 190%)}
+.g3{background:linear-gradient(165deg,var(--deep) 0%,var(--accent2) 175%)}
+.g4{background:linear-gradient(120deg,#2A2320 0%,var(--accent) 200%)}
+footer{background:var(--deep);color:#9C9286;padding:34px 0 48px;font-family:var(--hed);font-size:13px}
+footer .wrap{display:flex;flex-wrap:wrap;gap:16px;justify-content:space-between;align-items:center}
+footer a{color:#C9C0B4;text-decoration:none}footer a:hover{color:var(--hilite)}
+.note{background:#FFFBEC;border:1px solid #E6D9A8;border-left:5px solid var(--gold);padding:17px 20px;margin-top:28px;font-size:15.5px;color:#6B5E36;max-width:54em}
+.note b{font-family:var(--hed);display:block;margin-bottom:5px;color:var(--ink)}
+
+.hero{background:radial-gradient(1100px 520px at 18% -10%,rgba(234,140,43,.32),transparent 60%),radial-gradient(900px 480px at 88% 8%,rgba(194,65,12,.36),transparent 62%),linear-gradient(170deg,#1C1714 0%,#241C16 52%,#14100D 100%);color:#fff;padding:76px 0 68px}
+.hero .eyebrow{display:inline-block;font-family:var(--hed);font-weight:700;font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--hilite);border-bottom:2px solid var(--accent2);padding-bottom:8px;margin-bottom:21px}
+.hero h1{font-family:var(--hed);font-weight:800;font-size:clamp(37px,6.4vw,66px);line-height:1.03;letter-spacing:-1.4px;margin-bottom:19px}
+.hero .lede{font-size:clamp(18px,2.2vw,21.5px);color:#E3DCD2;max-width:37em;margin-bottom:29px}
+.cta{display:flex;flex-wrap:wrap;gap:13px}
+.strip{background:var(--warm);border-bottom:1px solid var(--rule);padding:40px 0}
+.sgrid{display:grid;grid-template-columns:1fr;gap:24px}
+@media(min-width:780px){.sgrid{grid-template-columns:repeat(3,1fr)}}
+.stat{border-left:4px solid var(--gold);padding-left:16px}
+.stat b{display:block;font-family:var(--hed);font-weight:800;font-size:22px;color:var(--ink);line-height:1.2}
+.stat span{display:block;font-size:15px;color:#6B6459;margin-top:4px}
+.depts{display:grid;grid-template-columns:1fr;gap:20px}
+@media(min-width:640px){.depts{grid-template-columns:1fr 1fr}}
+@media(min-width:1000px){.depts{grid-template-columns:repeat(3,1fr)}}
+.dept{display:block;text-decoration:none;border:1px solid var(--rule);background:#fff;transition:.15s}
+.dept:hover{transform:translateY(-3px);box-shadow:0 12px 30px rgba(0,0,0,.10)}
+.dtx{padding:22px 22px 26px}
+.dtx h3{font-family:var(--hed);font-weight:700;font-size:20px;color:var(--ink);margin-bottom:8px;line-height:1.2}
+.dtx p{font-size:16px;color:#5D564D}
+.more{display:inline-block;font-family:var(--hed);font-weight:700;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);margin-top:14px}
+.feature{background:var(--deep);color:#fff;padding:66px 0}
+.feature .kicker{color:var(--hilite)}
+.feature h2.sec{color:#fff}
+.feature .two{display:grid;grid-template-columns:1fr;gap:32px;align-items:start}
+@media(min-width:860px){.feature .two{grid-template-columns:1.15fr .85fr}}
+.feature p{color:#D8D0C5;margin-bottom:14px}
+.pull{border-left:4px solid var(--accent2);padding:5px 0 5px 19px;font-family:var(--hed);font-weight:600;font-size:clamp(18px,2.4vw,24px);line-height:1.35;color:#fff;margin:24px 0 0}
+.factbox{background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.14);padding:25px}
+.factbox h4{font-family:var(--hed);font-weight:700;font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--hilite);margin-bottom:14px}
+.factbox dt{font-family:var(--hed);font-weight:700;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:#A79C8E;padding-top:12px}
+.factbox dd{color:#fff;font-size:16.5px;padding-bottom:11px;border-bottom:1px solid rgba(255,255,255,.12)}
+.factbox dd:last-of-type{border:0}
+.times{display:grid;grid-template-columns:1fr;gap:18px}
+@media(min-width:700px){.times{grid-template-columns:1fr 1fr}}
+.slot{border:1px solid var(--rule);background:#fff;padding:26px 24px}
+.slot .day{font-family:var(--hed);font-weight:800;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--accent);margin-bottom:12px}
+.slot .line{display:flex;justify-content:space-between;gap:14px;padding:9px 0;border-bottom:1px solid var(--rule)}
+.slot .line:last-child{border:0}
+.slot .line b{font-family:var(--hed);font-weight:700;color:var(--ink);font-size:15.5px;white-space:nowrap}
+.slot .line span{color:#5D564D;font-size:15.5px;text-align:right}
+.involve{background:var(--warm)}
+.ways{display:grid;grid-template-columns:1fr;gap:17px}
+@media(min-width:780px){.ways{grid-template-columns:repeat(3,1fr)}}
+.way{background:#fff;border:1px solid var(--rule);padding:26px 22px;text-align:center}
+.way .n{font-family:var(--hed);font-weight:800;font-size:32px;color:var(--accent2);line-height:1}
+.way h3{font-family:var(--hed);font-weight:700;font-size:18px;color:var(--ink);margin:11px 0 7px}
+.way p{font-size:15.5px;color:#5D564D}
+
+.qrsec{background:var(--deep);color:#fff;padding:60px 0}
+.qrsec .kicker{color:var(--hilite)}
+.qrsec h2.sec{color:#fff}
+.qrsec .sub{color:#D6CEC3}
+.qrtwo{display:grid;grid-template-columns:1fr;gap:30px;align-items:center}
+@media(min-width:780px){.qrtwo{grid-template-columns:300px 1fr}}
+.qrimg{background:#fff;padding:18px;max-width:300px}
+.qrimg img{width:100%%;display:block}
+.qrlinks{display:flex;flex-wrap:wrap;gap:12px;margin-top:8px}
+.qrsec .btn.dark{border-color:rgba(255,255,255,.5);color:#fff}
+.qrsec .btn.dark:hover{background:#fff;color:var(--ink)}
+.qrurl{font-family:var(--hed);font-size:13px;letter-spacing:.05em;color:var(--hilite);margin-top:18px;word-break:break-all}
+
+</style>
+</head>
+<body>
+<div class="topbar"><div class="wrap">
+<a class="brand" href="index.html">His Presence Fire<span>Community Development Center</span></a>
+<nav class="topnav"><a href="index.html" class="on">Home</a><a href="programs.html">Programs</a><a href="resources.html">Resources</a><a href="pressroom.html">Press Room</a></nav>
+</div></div>
+
+<header class="hero"><div class="wrap">
+  <span class="eyebrow">Glendale · Pasadena · Greater Los Angeles</span>
+  <h1>Faith that shows up when it matters.</h1>
+  <p class="lede">Carrying the work of the church beyond its walls — into neighborhoods in crisis, families under strain, and a city that needs both prayer and practical help.</p>
+  <div class="cta">
+    <a class="btn solid" href="programs.html">Our Programs</a>
+    <a class="btn ghost" href="resources.html">Find Help Now</a>
+  </div>
+</div></header>
+
+<div class="strip"><div class="wrap"><div class="sgrid">
+  <div class="stat"><b>Five Departments</b><span>Housing, finance, community services, youth and more</span></div>
+  <div class="stat"><b>333 E Colorado St</b><span>Serving Los Angeles</span></div>
+  <div class="stat"><b>424-254-9229</b><span>Call the center</span></div>
+</div></div></div>
+
+<section><div class="wrap">
+  <span class="kicker">What We Do</span>
+  <h2 class="sec">Five departments, one door</h2>
+  <p class="sub">Problems do not arrive separately, so they are not addressed separately. Someone who
+  comes for food leaves knowing about housing. Someone who comes for housing leaves knowing about work.</p>
+  <div class="depts"><a class="dept" href="programs.html#disaster"><div class="shot"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glendale,%20California%20skyline.jpg" alt="Disaster Response" loading="lazy"><span class="pcred">Glendale, California &middot; Wikimedia Commons &middot; CC BY 4.0</span></div><div class="dtx"><h3>Disaster Response</h3><p>Proven under fire, literally.</p><span class="more">Explore &rarr;</span></div></a><a class="dept" href="programs.html#community"><div class="shot"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Angelesnationalforest.jpg" alt="Community Services &amp; Outreach" loading="lazy"><span class="pcred">Angeles National Forest &middot; Wikimedia Commons &middot; CC BY 1.0</span></div><div class="dtx"><h3>Community Services &amp; Outreach</h3><p>Immediate need, met without precondition.</p><span class="more">Explore &rarr;</span></div></a><a class="dept" href="programs.html#housing"><div class="shot"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/California%20-%20Pasadena%20City%20Hall%20-%2020091218205002.jpg" alt="Housing &amp; Shelter" loading="lazy"><span class="pcred">Pasadena City Hall &middot; Wikimedia Commons &middot; Free licence</span></div><div class="dtx"><h3>Housing &amp; Shelter</h3><p>Keeping families housed, and helping them buy.</p><span class="more">Explore &rarr;</span></div></a><a class="dept" href="programs.html#financial"><div class="shot"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Angeles%20National%20Forest.jpg" alt="Financial Wealth Building" loading="lazy"><span class="pcred">Angeles National Forest &middot; Wikimedia Commons &middot; CC BY 2.0</span></div><div class="dtx"><h3>Financial Wealth Building</h3><p>Wealth is built on information most people are never given.</p><span class="more">Explore &rarr;</span></div></a><a class="dept" href="programs.html#youth"><div class="shot"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/Glendale,%20California%20skyline.jpg" alt="Youth &amp; Leadership" loading="lazy"><span class="pcred">Glendale, California &middot; Wikimedia Commons &middot; CC BY 4.0</span></div><div class="dtx"><h3>Youth &amp; Leadership</h3><p>Reaching young people before the system does.</p><span class="more">Explore &rarr;</span></div></a></div>
+</div></section>
+
+<div class="feature"><div class="wrap"><div class="two">
+  <div>
+    <span class="kicker">Proven in Crisis</span>
+    <h2 class="sec">When the fires came, the doors opened.</h2>
+    <p>As fire moved through Pasadena and Eaton, the ministry team offered practical help alongside messages of hope, faith and encouragement. Families displaced and uncertain found both material support and people willing to sit with them.</p><p>The church partnered directly with local authorities and the National Guard, providing its parking lot free of charge to station up to fifteen National Guard vehicles — turning church property into staging ground for first responders working the fire line.</p>
+    <div class="pull">Disaster response is not a program a church adds. It is what a church is for.</div>
+  </div>
+  <div class="factbox"><h4>At a glance</h4><dl><dt>Event</dt><dd>Pasadena and Eaton wildfires</dd><dt>Partners</dt><dd>Local authorities and the National Guard</dd><dt>Facility support</dt><dd>Parking provided free of charge for up to 15 National Guard vehicles</dd><dt>Direct care</dt><dd>Practical assistance, prayer and encouragement to displaced residents</dd><dt>Standing capability</dt><dd>Facility available for staging and community refuge</dd></dl></div>
+</div></div></div>
+
+<section style="background:var(--warm)"><div class="wrap"><span class="kicker">Gather With Us</span><h2 class="sec">Worship and intercession</h2><p class="sub">The center's work flows out of the life of the church. All are welcome.</p><div class="times"><div class="slot"><div class="day">Sunday</div><div class="line"><b>11:11 AM</b><span>Prayer and intercession</span></div><div class="line"><b>11:30 AM</b><span>Worship and teaching</span></div></div><div class="slot"><div class="day">Thursday</div><div class="line"><b>6:45 PM</b><span>Prayer and intercession</span></div><div class="line"><b>7:30 – 9:30 PM</b><span>Worship and prophetic ministry</span></div></div></div></div></section>
+
+<section class="qrsec"><div class="wrap">
+  <div class="qrtwo">
+    <div class="qrimg"><img src="../assets/his-presence-fire-qr.png" alt="QR code to the hub"></div>
+    <div>
+      <span class="kicker">Scan or Share</span>
+      <h2 class="sec">One code. Everything we do.</h2>
+      <p class="sub">Point a phone camera at this code and it opens our hub &mdash; call the center,
+      find help, browse programs, reach the press room. Print it, post it, hand it out.</p>
+      <div class="qrlinks">
+        <a class="btn solid" href="hub.html">Open the Hub</a>
+        <a class="btn dark" href="resources.html">44 Resources</a>
+      </div>
+      <div class="qrurl">gospelnewsaccess.com/cdc/his-presence-fire/hub.html</div>
+    </div>
+  </div>
+</div></section>
+
+<section class="involve"><div class="wrap">
+  <span class="kicker">Get Involved</span>
+  <h2 class="sec">Three ways to stand with us</h2>
+  <p class="sub">The center runs on people who show up.</p>
+  <div class="ways">
+    <div class="way"><div class="n">01</div><h3>Volunteer</h3><p>Serve in outreach, family support, distribution or operations.</p></div>
+    <div class="way"><div class="n">02</div><h3>Give</h3><p>Underwrite assistance, supplies and the programs that run between crises.</p></div>
+    <div class="way"><div class="n">03</div><h3>Partner</h3><p>Businesses, agencies and congregations working alongside us.</p></div>
+  </div>
+  <div style="margin-top:30px"><a class="btn dark" href="pressroom.html">Press &amp; Media &rarr;</a></div>
+</div></section>
+
+<footer><div class="wrap">
+<div>&copy; 2026 His Presence Fire Community Development Center</div>
+<div><a href="programs.html">Programs</a> &middot; <a href="resources.html">Resources</a> &middot; <a href="pressroom.html">Press Room</a></div>
+</div></footer>
+</body>
+</html>
