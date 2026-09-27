@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-27T14:06:32Z",
+  "generated_at": "2026-09-27T14:37:42Z",
   "story_count": 600,
   "with_photo": 469,
   "items": [
+    {
+      "id": "ee959de7e9e2b3fb",
+      "title": "BET and DC Radio Legend Angela Stribling Has Died",
+      "link": "https://www.jubileecast.com/articles/39760/20260927/angela-stribling-bet-whur-radio-legend-dies.htm",
+      "summary": "BET and DC Radio Legend Angela Stribling Has Died",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T14:10:50Z",
+      "first_seen": "2026-09-27T14:37:42Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31960/angela-stribling.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0f04b018e419029c",
+      "title": "Pope in Lourdes: Human dignity cannot be measured or debated",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-human-dignity-cannot-be-measured-or-debated.html",
+      "summary": "Pope Leo XIV visits the Accueil Notre-Dame pilgrim centre at Lourdes, where he visits with sick pilgrims and representatives of organizations that serve them at the Marian sanctuary. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T14:10:00Z",
+      "first_seen": "2026-09-27T14:37:42Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-gli-oper/1790518196801.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "f1fc47b285777298",
       "title": "State Department Begins Using ‘Super Intelligence’",
@@ -10969,44 +11007,6 @@
       "published": "2026-09-21T19:50:49Z",
       "first_seen": "2026-09-24T12:08:34Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b3aaaedd86e6ad8c",
-      "title": "Album Review: Anthony Brown & group therAPy Turn Pain Into Praise on the Revealing New Album \"Disclosure\"",
-      "link": "https://www.jubileecast.com/articles/39603/20260921/album-review-anthony-brown-group-therapy-turn-pain-into-praise-on-the-revealing-new-album-disclosure.htm",
-      "summary": "Anthony Brown & group therAPy Turn Pain Into Praise on the Revealing New Album Disclosure",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T19:45:55Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31888/anthony-brown-group-therapy.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "03490aaace6dbf2e",
-      "title": "Former Worship Pastor Caleb Flynn Exchanged 100,000 Messages With His Mistress—Did They Reveal a Plan to Murder His Wife?",
-      "link": "https://www.jubileecast.com/articles/39602/20260921/former-worship-pastor-caleb-flynn-exchanged-100-000-messages-with-his-mistress—did-they-reveal-a-plan-to-murder-his-wife.htm",
-      "summary": "Former Worship Pastor Caleb Flynn Exchanged 100,000 Messages With His Mistress—Did They Reveal a Plan to Murder His Wife?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T19:42:01Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
