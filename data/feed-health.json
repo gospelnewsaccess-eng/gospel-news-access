@@ -170,12 +170,11 @@
     },
     "Google News: Jonathan McReynolds": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-27T02:41:56Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "URL error: _ssl.c:999: The handshake operation timed out"
+      "last_checked": "2026-09-27T03:06:39Z",
+      "last_item_count": 100,
+      "last_status": "ok"
     },
     "Google News: Le'Andria Johnson": {
       "consecutive_zero": 0,
@@ -390,6 +389,6 @@
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-09-27T02:39:03Z",
+  "updated_at": "2026-09-27T03:06:39Z",
   "flagged_feeds": []
 }
