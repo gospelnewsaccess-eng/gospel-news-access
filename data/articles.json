@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-26T23:35:50Z",
+  "generated_at": "2026-09-27T00:09:44Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "d96ce076ade6d692",
+      "title": "How Billy Gardell Turned 379 Pounds and a Diabetes Diagnosis Into a Second Chance",
+      "link": "https://www.jubileecast.com/articles/39745/20260926/billy-gardell-weight-loss-surgery-diabetes-second-chance.htm",
+      "summary": "How Billy Gardell Turned 379 Pounds and a Diabetes Diagnosis Into a Second Chance",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T00:01:26Z",
+      "first_seen": "2026-09-27T00:09:44Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31951/billy-gardell.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "507aeb376905b0e9",
+      "title": "Pope Leo bids 'au revoir' to Paris",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-bids-au-revoir-to-paris.html",
+      "summary": "As Pope Leo XIV bids “au revoir” to Paris, Vatican News Correspondent Deborah Castellano Lubov brings us to the widely anticipated Mass with the Holy Father at Place de la Concorde, which not only filled the iconic square but also stretched along the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-26T22:46:00Z",
+      "first_seen": "2026-09-27T00:09:44Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/26/638617a0-c44e-41ea-ae2b-904c0e78549d.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1d0d513cb37714f4",
       "title": "What Are “Christian Antichrists?” Dr. Matthew D. Taylor Explains",
@@ -10962,41 +11000,6 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "9d1d530ee5591c09",
-      "title": "ND Supreme Court upholds ban on sex-change surgeries, hormone drugs for minors",
-      "link": "https://www.christianpost.com/news/nd-supreme-court-upholds-ban-on-sex-change-surgeries-for-minors.html",
-      "summary": "North Dakota’s highest court has upheld a state ban on cosmetic sex-change surgeries and puberty-blocking drugs for minors who identify as the opposite sex.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T16:57:00Z",
-      "first_seen": "2026-09-21T17:36:16Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271993_w_550_367.jpg?v=20260921125732",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "56497d56276f8325",
-      "title": "Racial Capitalism Broke My Family. The Church Basement Is Where I Put It Back Together.",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUEFxV1dONGdsSGRGdTk5YVpkWl9iakdNNElhMV9KVVVOR2lCMEN1VmFsRGw4ZG5BWXI0b1E1YWtjRWpuT3VSV3ZqWFR1UGNRb29mWmZJNGVramxVS0dCbWctN3BZWEFqQTIwVjlFcVFvVExQamlrNHBCVjhBLTFfMzVOaVNSZDZBa25oNFp4WFU1OVZickxnV1ZId01IQzVFZzhYWFNaR0hDZlk1eWctR3N1NDBhdw?oc=5",
-      "summary": "Racial Capitalism Broke My Family. The Church Basement Is Where I Put It Back Together. The Kansas City Defender",
-      "outlet": "The Kansas City Defender",
-      "outlet_url": "https://kansascitydefender.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-21T16:51:15Z",
-      "first_seen": "2026-09-21T17:05:45Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T05:05:45Z"
     }
   ]
 }
