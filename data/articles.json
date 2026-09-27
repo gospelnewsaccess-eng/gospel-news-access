@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-27T15:06:44Z",
+  "generated_at": "2026-09-27T15:37:44Z",
   "story_count": 600,
   "with_photo": 469,
   "items": [
+    {
+      "id": "2da1eb69dea2d981",
+      "title": "Killing the sick is ‘false compassion,’ pope says in Lourdes",
+      "link": "https://www.ewtnnews.com/vatican/killing-the-sick-is-false-compassion-pope-says-in-lourdes",
+      "summary": "In a speech to sick people and caregivers, the pope denounced France’s recent legalization of euthanasia and assisted suicide.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T15:14:32Z",
+      "first_seen": "2026-09-27T15:37:44Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790521096/ewtn-news/en/WhatsApp_Image_2026-09-27_at_4.54.09_PM_tc0oke.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ee959de7e9e2b3fb",
       "title": "BET and DC Radio Legend Angela Stribling Has Died",
@@ -10987,25 +11006,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27979/jessica-simpson.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ccb5f0152623f9c3",
-      "title": "Undercover Video Outs Heresy in Talarico’s Longtime Church: They Hand Out ‘Rewritten’ Bibles That Defy God’s Identity",
-      "link": "https://mycharisma.com/news/undercover-video-outs-heresy-in-talaricos-longtime-church-they-hand-out-rewritten-bibles-that-defy-gods-identity/",
-      "summary": "Everyone gets to pick a pronoun. God does not. That is the rule at St. Andrew’s Presbyterian in Austin, the church that baptized James Talarico, married his parents, and still claims him as a son. Undercover video from August shows what they put in a new…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T19:55:13Z",
-      "first_seen": "2026-09-21T20:36:43Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-121734.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
