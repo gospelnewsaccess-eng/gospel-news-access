@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:37:42Z",
+  "generated_at": "2026-09-27T15:06:44Z",
   "story_count": 600,
   "with_photo": 469,
   "items": [
@@ -2271,6 +2271,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272072_w_550_413_416_224.jpg?v=20260925154602",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "86be5b40b53bf929",
+      "title": "Neil Peart: The Gospel Truth",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LdHgwQ2Y5ODdhb1lvWEJieDROUDBPb3ZiSDNCOV9KWW5JdjdwZmtwWW9LZnZNc1E1SVQ2UlNjSHRoYmtqTDBoZEUyRjV4T1ROSzdsX3U0dFVNZzR1bUxaX1FB?oc=5",
+      "summary": "Neil Peart: The Gospel Truth POV Magazine",
+      "outlet": "POV Magazine",
+      "outlet_url": "https://povmagazine.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-25T19:30:45Z",
+      "first_seen": "2026-09-27T15:06:44Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10991,22 +11007,6 @@
         "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-121734.png",
         "via": "content:encoded"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "29e277348c9876eb",
-      "title": "Praise Fest Returns to Bayou St. John for 17th Annual Celebration",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUU1IbjI1REoxcWZSTHJQQVBkVmloMDg1akVneC03UE5aUU81UTk2MUMySkltY3FfdmFEcnJ4RGFvWDMybWhWeGYzWFk5czB3cURPMXNnYTBiWWRVTEp5LUZNelpSeHJRck1ZX3pwUEFBTDdtMlZtN3NDajRmdzB3dlZfLUkzSHVNckEwVHFKbzlBcXRROEZoZkdB?oc=5",
-      "summary": "Praise Fest Returns to Bayou St. John for 17th Annual Celebration OffBeat Magazine",
-      "outlet": "OffBeat Magazine",
-      "outlet_url": "https://www.offbeat.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-21T19:50:49Z",
-      "first_seen": "2026-09-24T12:08:34Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
