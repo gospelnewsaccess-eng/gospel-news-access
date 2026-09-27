@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:06:08Z",
+  "generated_at": "2026-09-27T13:37:14Z",
   "story_count": 600,
   "with_photo": 469,
   "items": [
@@ -18,6 +18,44 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ecdca2767fbe8433",
+      "title": "Pope Leo in Lourdes: Pray Rosary in October for peace",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-appeal-mass-angelus-prayer-rosary-october.html",
+      "summary": "As he prays the Angelus in Lourdes, France, Pope Leo XIV urges Christians to pray the Holy Rosary for the intention of peace in the world and an end to conflict. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T11:20:00Z",
+      "first_seen": "2026-09-27T13:37:14Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790505300068.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b25ad2fa5709ad41",
+      "title": "Lourdes: A place of comfort, healing and gratitude",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/lourdes-pilgrims-faithful-mass-pope-leo-xiv-healing-france.html",
+      "summary": "The faithful attending Pope Leo XIV’s Mass in Lourdes share what the Shrine of Our Lady of Lourdes means to them and reflect on the significance of the Pope’s visit. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T10:41:00Z",
+      "first_seen": "2026-09-27T13:37:14Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790497497754.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -10967,44 +11005,6 @@
       "first_seen": "2026-09-21T19:37:26Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e69c77a83a7f4e13",
-      "title": "Pastor Steven Lawson Committed Adultery—Now He Wants to Tell All in a New Book",
-      "link": "https://www.jubileecast.com/articles/39601/20260921/pastor-steven-lawson-committed-adultery—now-he-wants-to-tell-all-in-a-new-book-but-is-this-repentance-or-a-comeback.htm",
-      "summary": "Pastor Steven Lawson Committed Adultery—Now He Wants to Tell All in a New Book",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T19:35:52Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31887/steve-lawson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2a688c01f99d0884",
-      "title": "Jennifer Eckhart Built Her Life Around “Reinvention”—What Happened Before Her Tragic Death at 36?",
-      "link": "https://www.jubileecast.com/articles/39600/20260921/jennifer-eckhart-built-her-life-around-reinvention-—what-happened-before-her-tragic-death-at-36.htm",
-      "summary": "Jennifer Eckhart Built Her Life Around “Reinvention”—What Happened Before Her Tragic Death at 36?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-21T19:31:25Z",
-      "first_seen": "2026-09-21T19:37:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31886/jennifer-eckhart.jpg",
         "via": "media:content"
       },
       "breaking": false,
