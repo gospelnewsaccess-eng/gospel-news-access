@@ -118,12 +118,23 @@ footer a{color:#C9C0B4;text-decoration:none}footer a:hover{color:var(--hilite)}
 .qrsec .btn.dark:hover{background:#fff;color:var(--ink)}
 .qrurl{font-family:var(--hed);font-size:13px;letter-spacing:.05em;color:var(--hilite);margin-top:18px;word-break:break-all}
 
+
+/* The church itself, directly under the hero. Hidden until the photo exists,
+   so a missing file never shows a broken frame to a visitor. */
+.church{display:none;padding:54px 0 10px}
+.church.ready{display:block}
+.church figure{margin:0}
+.church img{width:100%;height:auto;max-height:520px;object-fit:cover;display:block;
+  border-radius:14px;box-shadow:0 18px 44px rgba(0,0,0,.28)}
+.church figcaption{margin-top:14px;font-size:14.5px;color:#6B6257;line-height:1.55}
+.church figcaption b{display:block;font-family:var(--hed);font-weight:700;font-size:20px;
+  color:#1C1714;letter-spacing:-.2px;margin-bottom:5px}
 </style>
 </head>
 <body>
 <div class="topbar"><div class="wrap">
 <a class="brand" href="index.html">His Presence Fire<span>Community Development Center</span></a>
-<nav class="topnav"><a href="index.html" class="on">Home</a><a href="programs.html">Programs</a><a href="resources.html">Resources</a><a href="pressroom.html">Press Room</a></nav>
+<nav class="topnav"><a href="index.html" class="on">Home</a><a href="programs.html">Programs</a><a href="resources.html">Resources</a><a href="pressroom.html">Press Room</a><a href="hub.html">Hub</a><a href="https://hispresencefirechurch.org/" target="_blank" rel="noopener">Our Church</a></nav>
 </div></div>
 
 <header class="hero"><div class="wrap">
@@ -135,6 +146,30 @@ footer a{color:#C9C0B4;text-decoration:none}footer a:hover{color:var(--hilite)}
     <a class="btn ghost" href="resources.html">Find Help Now</a>
   </div>
 </div></header>
+
+<section class="church" id="church"><div class="wrap">
+  <figure>
+    <img id="churchPhoto" src="../assets/his-presence-fire-church.jpg"
+         alt="His Presence Fire church building">
+    <figcaption>
+      <b>His Presence Fire Ministries</b>
+      The home of the congregation whose work this Community Development Center
+      carries into the neighborhoods around it.
+      <span id="churchCredit"></span>
+    </figcaption>
+  </figure>
+</div></section>
+<script>
+(function(){
+  var img = document.getElementById("churchPhoto");
+  if(!img) return;
+  // Only reveal the section once the photo has actually loaded.
+  function show(){ img.closest(".church").classList.add("ready"); }
+  if (img.complete && img.naturalWidth > 0) show();
+  else img.addEventListener("load", show);
+})();
+</script>
+
 
 <div class="strip"><div class="wrap"><div class="sgrid">
   <div class="stat"><b>Five Departments</b><span>Housing, finance, community services, youth and more</span></div>
