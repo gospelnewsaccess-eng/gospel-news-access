@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-27T21:06:40Z",
+  "generated_at": "2026-09-27T22:06:30Z",
   "story_count": 600,
-  "with_photo": 474,
+  "with_photo": 473,
   "items": [
+    {
+      "id": "d520b19495201651",
+      "title": "The Other Side Village celebrates second chances and recovery with a gospel brunch",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZUUydEtwdmVHTnVOdW1hN054ZU1GaDRlM0piZkktQ3JjTldRTEN5NWxXVktSOUdveVFZRGM4RktwRTF0eFhkMFZFaWVjVUpwOWZ6LXpjRUtKU1FxYWdMVHd5T3JCdEk5YzhHTzQzdGhBaTJBWFlUdVY1Tl9kVUdTVlpyVk5JXzJ1SkZROFhrVVp4SHRITlptRmhCaFBsVmZoeVZyQXJLS3lQc0pRY013RVllQ09xdmVvWmVlTkRPbk94SmNBNWFuRkNjQTc3Q1R6WlczUg?oc=5",
+      "summary": "The Other Side Village celebrates second chances and recovery with a gospel brunch FOX 13 News Utah",
+      "outlet": "FOX 13 News Utah",
+      "outlet_url": "https://www.fox13now.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-27T21:40:57Z",
+      "first_seen": "2026-09-27T22:06:30Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-28T10:06:30Z"
+    },
     {
       "id": "092fb629df8aef3a",
       "title": "New hymn ‘Peace, Peace, Be Still’ brings hope through the Savior to face life’s storms",
@@ -20,6 +36,44 @@
       "breaking_expires_at": "2026-09-28T09:06:40Z"
     },
     {
+      "id": "200976bc26fff94c",
+      "title": "\"Avengers: Endgame\" Wins the Weekend Box Office as \"Forgotten Island\" Disappoints and Robert Pattinson’s \"Primetime\" Surprises",
+      "link": "https://www.jubileecast.com/articles/39774/20260927/avengers-endgame-wins-the-weekend-box-office-as-forgotten-island-disappoints-and-robert-pattinson-s-primetime-surprises.htm",
+      "summary": "Avengers: Endgame Wins the Weekend Box Office as Forgotten Island Disappoints and Robert Pattinson’s Primetime Surprises",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-27T20:43:51Z",
+      "first_seen": "2026-09-27T22:06:30Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31930/avengers.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "05f3c51dec8678c4",
+      "title": "A rosary in the footsteps of millions of pilgrims",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/a-rosary-in-the-footsteps-of-millions-of-pilgrims-lourdes.html",
+      "summary": "Pope Leo XIV prays the rosary with thousands of pilgrims in Lourdes, and participates in a torchlit procession that illuminates the night sky. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T20:43:00Z",
+      "first_seen": "2026-09-27T22:06:30Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---preghiera-del-santo-r/1790539808445.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "c226d49d7b9cc7c1",
       "title": "Chandler Moore Sings About Rehab: Do Churches Make It Harder to Ask for Help?",
       "link": "https://www.jubileecast.com/articles/39773/20260927/chandler-moore-sings-about-rehab-do-churches-make-it-harder-to-ask-for-help.htm",
@@ -33,6 +87,25 @@
       "first_seen": "2026-09-27T20:37:37Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27866/chandler-moore.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8fa456719fa96454",
+      "title": "Pope Leo a 'pilgrim among pilgrims' in Lourdes",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-candlelit-procession-lourdes-prayer.html",
+      "summary": "Pope Leo brings his visit to Lourdes to an end with a candlelit procession through the heart of the Marian shrine, urging the faithful to persevere on their journey, inspired by the Immaculate Conception. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T20:23:00Z",
+      "first_seen": "2026-09-27T22:06:30Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---preghiera-del-santo-r/1790538302692.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10944,82 +11017,6 @@
       "first_seen": "2026-09-22T02:38:22Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31890/sarai-rivera.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d5f67cb1e53fd3d9",
-      "title": "The Bible Verse Behind David Leonard's New Song \"Well Done\"",
-      "link": "https://www.jubileecast.com/articles/39612/20260921/david-leonard-well-done-bible-verse-matthew-25.htm",
-      "summary": "The Bible Verse Behind David Leonard's New Song \"Well Done\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T01:58:33Z",
-      "first_seen": "2026-09-22T02:38:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31872/david-leonard-1.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "db206d10b2715c78",
-      "title": "Talarico's PCUSA pastor questions Resurrection, likens Communion to 'being breastfed' by Gnostic goddess",
-      "link": "https://www.christianpost.com/news/james-talaricos-pastor-questions-resurrection-pushes-gnosticism.html",
-      "summary": "Resurfaced sermons from the Rev. Jim Rigby show the longtime pastor and spiritual mentor of Democratic U.S. Senate candidate James Talarico questioning the historicity of the Resurrection and likening the Lord's Supper to breastfeeding from a Gnostic goddess.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T01:53:00Z",
-      "first_seen": "2026-09-22T02:38:22Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272005_w_550_309.jpg?v=20260921215406",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8b55581912a29329",
-      "title": "Avengers: Doomsday Presales Cross $55 Million — Three Months Before It Even Opens",
-      "link": "https://www.jubileecast.com/articles/39611/20260921/avengers-doomsday-presales-55-million-record.htm",
-      "summary": "Avengers: Doomsday Presales Cross $55 Million — Three Months Before It Even Opens",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T01:45:00Z",
-      "first_seen": "2026-09-22T02:38:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31876/avengers-doomsday.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "48a5119fc1a5cc3d",
-      "title": "California Just Made September 25 \"Dolly Parton Day\": Here's the Story Behind the Date",
-      "link": "https://www.jubileecast.com/articles/39610/20260921/dolly-parton-day-california-september-25-2026.htm",
-      "summary": "California Just Made September 25 \"Dolly Parton Day\": Here's the Story Behind the Date",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T01:30:36Z",
-      "first_seen": "2026-09-22T01:37:15Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31732/dolly-parton.jpeg",
         "via": "media:content"
       },
       "breaking": false,
