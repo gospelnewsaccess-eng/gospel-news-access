@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-27T05:06:23Z",
+  "generated_at": "2026-09-27T05:37:35Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "a81150153af0ac36",
+      "title": "Joe Locke Takes A Dark Turn In New Gay Thriller Black Church Bay",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdU9kX1ZpOTVpVk9QRTlkb1Mwdmhhamc2dzM2cFo2d0JCbVQxU3pRYlB4MGlvUGtYYkI4dy1ubnhsVkw1bEhLLUdBSFBOM29OZ2Y5ekxLZEhMOXVTZ0xkMVI5N1JXYlpaclBKU1VoS01jenpoVjJ5eXI0Q3N3WDFBZ2l6NGF5VzJFYzZpRzlaU0VUZWpsT3E3MTVzUUdIajJlMGgxcG4tcC14WTRt?oc=5",
+      "summary": "Joe Locke Takes A Dark Turn In New Gay Thriller Black Church Bay Star Observer",
+      "outlet": "Star Observer",
+      "outlet_url": "https://www.starobserver.com.au",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-27T05:01:45Z",
+      "first_seen": "2026-09-27T05:37:35Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T17:37:35Z"
+    },
     {
       "id": "cc83f128654fedb7",
       "title": "Repealing the 19th Amendment isn't conservatism. It's extremism",
@@ -10980,25 +10996,6 @@
       "first_seen": "2026-09-21T18:41:14Z",
       "image": {
         "url": "https://religionnews.com/wp-content/uploads/2026/09/main-21-scaled.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b4defacf7a26db37",
-      "title": "Jehovah’s Witnesses allow blood-derived products but keep ban on whole-blood transfusions",
-      "link": "https://religionnews.com/2026/09/21/jehovahs-witnesses-allow-blood-derived-products-but-keep-ban-on-whole-blood-transfusions/",
-      "summary": "(AP) — The policy, announced Friday, is the second revision this year in what has long been one of the most controversial and distinctive teachings of the religious organization.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T17:44:11Z",
-      "first_seen": "2026-09-21T18:41:14Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-20-scaled.jpg",
         "via": "og:image"
       },
       "breaking": false,
