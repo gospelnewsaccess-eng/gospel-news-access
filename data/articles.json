@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-27T07:06:55Z",
+  "generated_at": "2026-09-27T07:37:39Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "c3e83b3b41edb8a9",
+      "title": "Liberty Quartet, an Idaho gospel music group, plans concert Oct. 9 in North Bend",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY2c4cFpGR01OYnZBcXI4ZVJkUTZQMnEwQUp3eGVXa1hxRHZEOU00eU01WEVRblFXWTBCR3F3OVpVWVM4N1NvOEVyYUJrMDFuRjhKSFVCTkdfZkZBWDU2RFNrN25wTUcxMDJtdUJIT3pTYW5vNEo1V0piaDUta1FrbUVUUUhvVDNYenZ6ZF9rOXA0Mkd0bHBoTTNfZEgwS09FUVdLeVItbk9ndlgxUWk4S1hUcllBUnZqUDlHLVMxeXY0ZzFZZ1dJMXFON3hfVW4tT18tVXdUcmtNdzRYQV9UMUtFYzBvSFp1Q0IzVlBB?oc=5",
+      "summary": "Liberty Quartet, an Idaho gospel music group, plans concert Oct. 9 in North Bend theworldlink.com",
+      "outlet": "theworldlink.com",
+      "outlet_url": "https://theworldlink.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-27T07:00:00Z",
+      "first_seen": "2026-09-27T07:37:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-27T19:37:39Z"
+    },
     {
       "id": "a81150153af0ac36",
       "title": "Joe Locke Takes A Dark Turn In New Gay Thriller Black Church Bay",
@@ -10977,25 +10993,6 @@
       "first_seen": "2026-09-21T18:41:14Z",
       "image": {
         "url": "http://religionnews.com/wp-content/uploads/2026/09/main-22.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "94e75eca5ea73c4f",
-      "title": "Knife attack on Sikh trucker in Wyoming stirs fresh fears in community",
-      "link": "https://religionnews.com/2026/09/21/knife-attack-on-sikh-trucker-in-wyoming-stirs-fresh-fears-in-community/",
-      "summary": "FORT COLLINS, Colo. (AP) — The Sikh victim was attacked from behind early Sunday while in a restroom at the Bitter Creek rest stop on Interstate 80 midway between Cheyenne and Salt Lake City, according to court documents.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-21T17:47:10Z",
-      "first_seen": "2026-09-21T18:41:14Z",
-      "image": {
-        "url": "https://religionnews.com/wp-content/uploads/2026/09/main-21-scaled.jpg",
         "via": "og:image"
       },
       "breaking": false,
