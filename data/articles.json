@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T13:08:24Z",
+  "generated_at": "2026-09-28T13:41:56Z",
   "story_count": 600,
-  "with_photo": 468,
+  "with_photo": 466,
   "items": [
     {
       "id": "c186dcb93288670c",
@@ -21,6 +21,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "91de380105d5f3c8",
+      "title": "Dem nominee, megachurch pastor argued cattle production adds to greenhouse gases",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yMExPVl9qOGZIbHpZTlI4R0RaYkpJMjFKWWQ1M2hwdmV1RV9sdE5TVG9fQlVBUUJ3bXBXbThCREZRSF9Ha3I1c0RBVnlobkZRQjlNeEl3?oc=5",
+      "summary": "Dem nominee, megachurch pastor argued cattle production adds to greenhouse gases Fox News",
+      "outlet": "Fox News",
+      "outlet_url": "https://www.foxnews.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-28T12:50:09Z",
+      "first_seen": "2026-09-28T13:41:56Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-29T01:41:56Z"
     },
     {
       "id": "dcb6e220f7eae6ca",
@@ -237,6 +253,22 @@
       "category": "gospel",
       "published": "2026-09-28T10:14:33Z",
       "first_seen": "2026-09-28T12:45:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "98d19aef7091fb8c",
+      "title": "Woke megachurch pastor, Dem nominee called on congregation to repent for driving, eating beef",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVlPcmMzMHdfMG9TODhaZER3V25XVVdWZFVrSFpxMXREWWVRUUh1MzQ2WE42UUlKcU5NWHZJeWgzQ3doZ3pIWnFpa2dkMW93LU1BSnkyclg4ellaLXVwYkxYNWJocmlEOFdzQVo0NGxGMnZpX0V0YXBrWXNzV3JsWUotU2pGSkludFVZTl9hQzJtYVpyMjlDLUpmTHM1S0pNYXh0MjQ0R05lcVRPZklPRnVHcGvSAboBQVVfeXFMT2xKRDFDUXMyX1BaT2NoU05zZWMyNWp0emE2aTNhQXRHanByM0lBMXRyQVVjYXBFVkRHWjdobjllZDg4Y0ZQZ3hldjdSdmpFbC1ZN0ZrQ3ZsMXJ2VzNSUHE5VHh0QklOU2ZWWDRQNjRkd1VxeDljRnJMejNBZHVTcWZ2MHRoWE9ISkZuOGRjSURZUTVkQnZUZnhsU2lfa1I0VHBkM09fYnhDc2FRNEpldEtBYnBQX2wxZGZR?oc=5",
+      "summary": "Woke megachurch pastor, Dem nominee called on congregation to repent for driving, eating beef Fox News",
+      "outlet": "Fox News",
+      "outlet_url": "https://www.foxnews.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-28T10:00:25Z",
+      "first_seen": "2026-09-28T13:41:56Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10968,44 +11000,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-23T04:39:11Z"
-    },
-    {
-      "id": "86373b39ca5106d3",
-      "title": "Bishop of Austin decries ICE shooting as federal officials say man fled arrest",
-      "link": "https://www.ewtnnews.com/world/us/bishop-of-austin-decries-ice-shooting-as-federal-officials-say-man-fled-arrest",
-      "summary": "Bishop Garcia asked for prayers for the man who was shot and “all who have been involved,” asking for government authorities to be “transparent and honest about what occurred.”",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T15:55:00Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790085760/ewtn-news/en/AustinShooting_b4slj4.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c73ca9ef81381b0e",
-      "title": "A Generation Hungry for God? Prayer Tops Young Adults’ Reasons for Attending Church",
-      "link": "https://mycharisma.com/news/a-generation-hungry-for-god-prayer-tops-young-adults-reasons-for-attending-church/",
-      "summary": "Forget the smoke machines and the perfectly curated church experience. Young adults may be hungry for something far more powerful: prayer. New research from Barna Group is revealing a fascinating spiritual trend among Gen Z and Millennials, and it cuts…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T15:45:09Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
