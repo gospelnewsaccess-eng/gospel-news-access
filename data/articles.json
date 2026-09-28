@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-28T09:09:06Z",
+  "generated_at": "2026-09-28T09:41:02Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "9b930bc47aeb25b6",
+      "title": "Historic Springfield African American church will live on with Drury - Springfield News-Leader",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3RPUEVONXh6blBmSDhXUFJtRHp4a0R5X0RBX1VjZXllM2RpWU9vaWtxZDg3aFpzVjR1VHVQc1ZBLUF4bEp4WURYTW9ZbGJFb1l3c1A1V0JPZlY4M3FZZVJyeXNYT3NXUy1UelpGbEJNbk9fUXR6Q3RwMTlhc0g3MFhLQlcyYUpKZ0lrRmdXSElSejQxYnVEQ2tWRkRhMFhEYVRRamp0VTNVTEQ0Rnc3eEV2d1VkVTVYWWlVTVlxaEJoRUVIUHpBTVl6bmJhVWs3VF9RWnlhZ0lfa28?oc=5",
+      "summary": "Historic Springfield African American church will live on with Drury Springfield News-Leader",
+      "outlet": "Springfield News-Leader",
+      "outlet_url": "https://www.news-leader.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-28T09:08:00Z",
+      "first_seen": "2026-09-28T09:41:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-28T21:41:02Z"
+    },
     {
       "id": "1e190f70934a0960",
       "title": "Sabah police say gospel singer Israel Houghton concert unsuitable now, two reports lodged",
@@ -10975,25 +10991,6 @@
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/21/18/1790006712785.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "971cb15db7293a8a",
-      "title": "Major News Outlets Sue Trump Admin After White House Ban",
-      "link": "https://mycharisma.com/news/major-news-outlets-sue-trump-admin-after-white-house-ban/",
-      "summary": "Major legacy news networks have filed a lawsuit against the Trump administration after President Trump banned them from the White House. “This morning, we notified the government that we are filing a lawsuit today to protect our First Amendment rights and…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T12:40:35Z",
-      "first_seen": "2026-09-22T12:41:58Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
