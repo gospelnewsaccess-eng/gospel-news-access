@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-28T17:39:17Z",
+  "generated_at": "2026-09-28T18:09:00Z",
   "story_count": 600,
-  "with_photo": 463,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "95c06f7953f67394",
+      "title": "'Vive le Pape!' - With Pope Leo in Metz",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-france-metz-report-28-september-2026.html",
+      "summary": "Vatican News correspondent Deborah Castellano Lubov brings us into the lively atmosphere outside St. Stephen’s Cathedral, where crowds gathered in celebration and prayer for Pope Leo's Mass in the heart of the city. She also reflects on the fruits of the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T17:40:00Z",
+      "first_seen": "2026-09-28T18:09:00Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/28/2026-09-28-lubov-cattedrale.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ec4425cbd0e33cff",
+      "title": "Pope Leo XIV bids farewell to France",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-departure-metz-apostolic-journey-france.html",
+      "summary": "Pope Leo XIV departs from France's northeastern city of Metz, bringing his fifth Apostolic Journey abroad to an end. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T17:30:00Z",
+      "first_seen": "2026-09-28T18:09:00Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/28/18/1790614558179.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2274a9e876081d79",
+      "title": "Evangelicals Urge Trump Administration to Release Frozen Global Health Funds",
+      "link": "https://www.christianitytoday.com/2026/09/evangelical-leaders-trump-usaid-russell-vought-omb-funding/",
+      "summary": "More than 120 Christian leaders, musicians, and authors, including both conservative and liberal-leaning evangelicals, have signed a letter urging President Donald Trump’s administration to spend $1.35 billion designated for global health initiatives before…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T17:15:29Z",
+      "first_seen": "2026-09-28T18:09:00Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/usaid-frozen-health-funds.jpeg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ea18f434704bb4f0",
+      "title": "Priest Goes Viral for ‘God Is Trans’ Speech: A Community Note Citing Luke Completely Destroyed Her Argument",
+      "link": "https://mycharisma.com/news/priest-goes-viral-for-god-is-trans-speech-a-community-note-citing-luke-completely-destroyed-her-argument/",
+      "summary": "A self-proclaimed transgender and nonbinary Episcopal priestess in New York City went viral for proclaiming that Jesus Christ is transgender. Flourish Klink delivered a homily in March at the Cathedral of St. John the Divine in New York City, and the footage…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T17:15:19Z",
+      "first_seen": "2026-09-28T18:09:00Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-121734.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1e762a7447d3338f",
+      "title": "Josh Hawley says FDA turned 'every mailbox into a Planned Parenthood'",
+      "link": "https://www.christianpost.com/news/josh-hawley-calls-for-national-ban-on-abortion-pill.html",
+      "summary": "U.S. Sen. Josh Hawley, R-Mo., has called for a national ban on the abortion drug mifepristone, continuing to put pressure on the Trump administration to finish its long-anticipated review of mifepristone.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T17:04:00Z",
+      "first_seen": "2026-09-28T18:09:00Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272088_w_550_304.jpg?v=20260928130426",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "f4dcb4676cf5cc3a",
       "title": "Kirk Franklin Faces Backlash Over New Song With GloRilla",
@@ -10899,98 +10994,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "5994ec62a1ac28f5",
-      "title": "9 ways US Mormons are changing, according to Pew data",
-      "link": "https://religionnews.com/2026/09/22/9-ways-us-mormons-are-changing-according-to-pew-data/",
-      "summary": "(RNS) — Latter-day Saints have grown more diverse and a bit less religious, and more of them are leaving the church, says a new report from Pew Research Center.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T18:55:11Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/LDS-education-levels-over-time-by-gender-603x640.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "94f3b78a77569b12",
-      "title": "He spent years reconciling his identity. Now he’s the first Arab bishop in Episcopal history.",
-      "link": "https://religionnews.com/2026/09/22/he-spent-years-reconciling-his-identity-now-hes-the-first-arab-bishop-in-episcopal-history/",
-      "summary": "(RNS) — As a Christian minister with a Muslim father and a mother of Jewish heritage, Bishop Adam Shoemaker hopes to use his background to facilitate more reconciliation, integration and 'the understanding that we are inextricably linked,' he told RNS.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T18:54:54Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Arab-Bishop10-092226.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1c04ac7e1df525f7",
-      "title": "Former Worship Leader and ‘American Idol’ Alum Caleb Flynn Sobs as Wife’s Autopsy Photos Rock Murder Trial—but Do His Alleged Texts Tell a Different Story?",
-      "link": "https://www.jubileecast.com/articles/39632/20260922/former-worship-leader-and-american-idol-alum-caleb-flynn-sobs-as-wife-s-autopsy-photos-rock-murder-trial—but-do-his-alleged-texts-tell-a-different-story.htm",
-      "summary": "Former Worship Leader and ‘American Idol’ Alum Caleb Flynn Sobs as Wife’s Autopsy Photos Rock Murder Trial—but Do His Alleged Texts Tell a Different Story?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T18:53:19Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4691ea921e26b0ac",
-      "title": "Taylor Swift Hints at Major New Era With Mysterious Countdown and Three Hidden Zeros—What Is She About to Reveal?",
-      "link": "https://www.jubileecast.com/articles/39631/20260922/taylor-swift-hints-at-major-new-era-with-mysterious-countdown-and-three-hidden-zeros—what-is-she-about-to-reveal.htm",
-      "summary": "Taylor Swift Hints at Major New Era With Mysterious Countdown and Three Hidden Zeros—What Is She About to Reveal?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T18:50:15Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31527/taylor-swift.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2b9e1972bcf3a860",
-      "title": "Kirk Franklin Says His Relationship With His Mother Remains Estranged",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVAwVmhiejYwQVpXUU8taUxTN1k5Ykp4WjFudWNJakFmNWQ2QWppS1JSRHhJeEZ3a3BqVDJvdVUybFJWeFZrZUItajBHWTRBa3hTeXFtUDBfVjBHWWpUNUNhaC0wUGpjQUxuUEJ4MDM2a3hJTk1QNnNMSEd5WHJHWHlB?oc=5",
-      "summary": "Kirk Franklin Says His Relationship With His Mother Remains Estranged Cassius Life",
-      "outlet": "Cassius Life",
-      "outlet_url": "https://cassiuslife.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-22T18:48:07Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-23T07:35:58Z"
     }
   ]
 }
