@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T21:07:18Z",
+  "generated_at": "2026-09-28T21:38:19Z",
   "story_count": 600,
-  "with_photo": 459,
+  "with_photo": 457,
   "items": [
     {
       "id": "c37815f97bd87d17",
@@ -21,6 +21,38 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "85408ced54abdbd1",
+      "title": "Justin Tomlinson Named VP at Motown Gospel/TAMLA",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM21abWZvTS1pXzJvTjh4VEZnTDRMd2VyRDZWS18telh4djk3WFFZMzJqaEdLXy1JaTRDVS1XM2JKRlpJckRpdVZkcXlZRGYzM29OUzlkcjdSTm9CRnU1U3Zqa1B5dDB2RzMxYVRpRVZoLURXY2xnMmF4NE5HSkNuQlktLUZPTDI5MnIxN1ZJYlQ?oc=5",
+      "summary": "Justin Tomlinson Named VP at Motown Gospel/TAMLA The Hype Magazine",
+      "outlet": "The Hype Magazine",
+      "outlet_url": "https://www.thehypemagazine.com",
+      "source_feed": "Google News: Kierra Sheard",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-28T20:59:03Z",
+      "first_seen": "2026-09-28T21:38:19Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-29T09:38:19Z"
+    },
+    {
+      "id": "f61d4fd279cb06b1",
+      "title": "National Black Church Initiative Activates Project BIG VOTE For Mayor Karen Bass with its 4,000 Los Angeles Churches",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUEhnYkhueU8xRzhGd3R2M0tTb3BqTEE4dDQxSWlNQ2tZNnNWSV84Z25NTUVmX0x0REZiSG12UHZ3MXJiZ2hvcmYxbHRLbER5c0N4ZzAzYWw5dFN1MVU1aUItU1NFT3MzRjNRVmRqcjFsUFVKbzJZd3o3dE9ZUTRsOF9oVEV6T016SEl5Ty12XzJXZUJ1WGZLemEwX2dtdHFyRHdoZHljTHozRmMyYkRwX0t3RUZENjYyMW14V2g5MWxnWkp6R1JYZ0J5UkEybC0tM1RHaEhNb2J5cGp3blNLRXViWGU3VWxGZVpMZmdqVQ?oc=5",
+      "summary": "National Black Church Initiative Activates Project BIG VOTE For Mayor Karen Bass with its 4,000 Los Angeles Churches EIN News",
+      "outlet": "EIN News",
+      "outlet_url": "https://www.einnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-28T20:53:00Z",
+      "first_seen": "2026-09-28T21:38:19Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-29T09:38:19Z"
     },
     {
       "id": "51f1a1af70db6787",
@@ -10937,44 +10969,6 @@
       "first_seen": "2026-09-23T01:36:53Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31901/les-traylor.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c98cb20ee3528a2a",
-      "title": "Linda Boles Releases “A Child of God” to Christian Radio, Celebrating Salvation and Belonging",
-      "link": "https://www.jubileecast.com/articles/39642/20260922/linda-boles-a-child-of-god-christian-radio.htm",
-      "summary": "Linda Boles Releases “A Child of God” to Christian Radio, Celebrating Salvation and Belonging",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T01:01:52Z",
-      "first_seen": "2026-09-23T01:36:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31900/linda-boles.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "eac642969a2c2263",
-      "title": "\"The Odyssey\" Heads Into the 2027 Oscar Race With a Two-Pronged Attack: Here's the Plan",
-      "link": "https://www.jubileecast.com/articles/39641/20260922/the-odyssey-oscar-2027-matt-damon-anne-hathaway.htm",
-      "summary": "\"The Odyssey\" Heads Into the 2027 Oscar Race With a Two-Pronged Attack: Here's the Plan",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T00:40:22Z",
-      "first_seen": "2026-09-23T00:41:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31059/the-odyssey.jpg",
         "via": "media:content"
       },
       "breaking": false,
