@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:08:50Z",
+  "generated_at": "2026-09-28T12:45:51Z",
   "story_count": 600,
   "with_photo": 466,
   "items": [
@@ -165,6 +165,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790585730/ewtn-news/en/WhatsApp_Image_2026-09-28_at_10.47.03_AM_eoamna.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "86b17ed48f9273f0",
+      "title": "Police advise against holding gospel singer Israel Houghton’s concert",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1FKb0ZLTzNscWhvY3p0aTB1MmRRTW1ic2hMdEFqRktBaHlHbXdnTUpUZWd4QTA1Tmk4dTZITDJmMEZMMjNpYUQtd1o4Q1JMNnZaRXhkb3ZFV2M2UzlhMU1YTjFoOU1iZXMxdkZYQ3huYUNWcmZqQl8wdlpQYmhnZ3pfV1JadFA0bnZLUU82cnJaUzl0YUFWWWl2QTJlUDJLb1hDcg?oc=5",
+      "summary": "Police advise against holding gospel singer Israel Houghton’s concert scoop.my",
+      "outlet": "scoop.my",
+      "outlet_url": "https://www.scoop.my",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-28T10:14:33Z",
+      "first_seen": "2026-09-28T12:45:51Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10982,22 +10998,6 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272008_w_550_367.jpg?v=20260922112146",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "972a65aef8d7e23a",
-      "title": "LINDA BOLES RELEASES “A CHILD OF GOD” TO CHRISTIAN RADIO Song Celebrates Salvation, Belonging and the Joy of Becoming a Child of God",
-      "link": "https://pathmegazine.com/articles/linda-boles-releases-a-child-of-god-to-christian-radio-song-celebrates-salvation-belonging-and-the-joy-of-becoming-a-child-of-god/",
-      "summary": "Christian singer-songwriter Linda Boles has released “A Child of God” to Christian radio. Written by Boles and produced by John Johnson of Tune Designer, the Inspirational and … The post LINDA BOLES RELEASES “A CHILD OF GOD” TO CHRISTIAN RADIO Song Celebrates…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T15:21:19Z",
-      "first_seen": "2026-09-22T16:07:09Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
