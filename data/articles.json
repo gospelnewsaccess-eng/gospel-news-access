@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-28T09:41:02Z",
+  "generated_at": "2026-09-28T10:08:36Z",
   "story_count": 600,
   "with_photo": 464,
   "items": [
+    {
+      "id": "fd604254d03f3ab5",
+      "title": "God Sees Everything. Flock Should Not.",
+      "link": "https://www.christianitytoday.com/2026/09/god-sees-everything-flock-should-not-omniscience-repentance-surveillance/",
+      "summary": "I live in a safe neighborhood. It’s a new-build community filled with young families, and my kids ride their bikes up and down all the streets. As long as they’ve got their helmets on, I’m not concerned for their safety here. Yet as they ride their bikes—or…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T10:00:00Z",
+      "first_seen": "2026-09-28T10:08:36Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/Wiley-on-surveillance.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dfd18814ef63556b",
+      "title": "Save the Unborn, Yes. Don’t Punish Their Mothers.",
+      "link": "https://www.christianitytoday.com/2026/09/save-the-unborn-yes-dont-punish-their-mothers/",
+      "summary": "Abortion “abolitionists” have introduced bills in many states to prosecute women for abortion. This tactic ignores law, history, tradition, and law enforcement experience before Roe v. Wade. Thankfully, no prosecution bill passed a committee or got to a…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T10:00:00Z",
+      "first_seen": "2026-09-28T10:08:36Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/8765.png?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "232c81d9cb87c15d",
+      "title": "Why Is \"Unabomber\" the No. 1 Movie on Netflix Despite Bad Reviews?",
+      "link": "https://www.jubileecast.com/articles/39789/20260928/unabomber-no-1-on-netflix-despite-bad-reviews-rotten-tomatoes-rated-r.htm",
+      "summary": "Why Is \"Unabomber\" the No. 1 Movie on Netflix Despite Bad Reviews?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T09:15:58Z",
+      "first_seen": "2026-09-28T10:08:36Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31938/unabomber.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "9b930bc47aeb25b6",
       "title": "Historic Springfield African American church will live on with Drury - Springfield News-Leader",
@@ -69,6 +126,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-28T21:09:06Z"
+    },
+    {
+      "id": "44697da28e7a47d1",
+      "title": "China Detains Beijing house church leaders in latest crackdown on unregistered churches",
+      "link": "https://www.christianpost.com/news/china-detains-pastors-latest-crackdown-unregistered-churches.html",
+      "summary": "Authorities in China have detained several pastors and church workers from Beijing Jiaquan Church, an independent house church operating in the capital.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T08:57:40Z",
+      "first_seen": "2026-09-28T10:08:36Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272082_w_550_370_604_264.jpg?v=20260928045747",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "c5b2ea4e8cfa7c4d",
@@ -679,6 +755,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-28T10:06:30Z"
+    },
+    {
+      "id": "16e02b49dca3da75",
+      "title": "Abuse victims in Lourdes: ‘Pope listened deeply, was pained by our stories’",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/france-church-abuse-victims-after-meeting-pope-leo.html",
+      "summary": "After meeting for two hours with Pope Leo XIV in Lourdes, seven survivors of clerical sexual abuse speak to the press about their experiences and the Pope’s empathy and concern for those who have suffered the scrouge of abuse. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-27T21:18:00Z",
+      "first_seen": "2026-09-28T10:08:36Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/27/whatsapp-image-2026-09-27-at-21-12-55-1.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "092fb629df8aef3a",
@@ -10897,101 +10992,6 @@
       "published": "2026-09-22T13:47:56Z",
       "first_seen": "2026-09-22T19:35:58Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c2d1fafcac9d7168",
-      "title": "Dallas Jenkins reveals ‘The Chosen’ Christmas special ‘The Three Kings’",
-      "link": "https://www.christianpost.com/news/dallas-jenkins-reveals-the-chosen-christmas-special.html",
-      "summary": "“The Chosen” creator Dallas Jenkins announced Sunday that the hit biblical drama will return to the Christmas story with a new standalone special, “The Chosen: The Three Kings,” set to air nationally on Fox in December.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T13:30:24Z",
-      "first_seen": "2026-09-22T14:40:36Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272006_w_550_366.jpg?v=20260922095352",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cd6b2f21b5a9d4a2",
-      "title": "1K Phew Interview and Bless the Mic Performances",
-      "link": "https://rapzilla.com/2026-09-1k-phew-interview-bless-the-mic/",
-      "summary": "1K Phew Interview: 1K Phew came through to Bless The Mic with his songs “SHAKE” and “HUH?” from his newest album. It was filmed in Atlanta, GA, in collaboration with ‪@Rapzilla.‬ Will Thomas shot it, and Faith Over Fear (faithoverfear.com) sponsored it. He…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T13:30:17Z",
-      "first_seen": "2026-09-22T13:39:04Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/07/02151726/DSC_0269-scaled-e1783019937952.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ae938da70a8ad683",
-      "title": "Thousands join Germany’s March for Life as activists attack pro-life stand",
-      "link": "https://www.ewtnnews.com/world/europe/thousands-join-germany-s-march-for-life-as-activists-attack-pro-life-stand",
-      "summary": "Counterdemonstrators threw paint at a pro-life information stall as Germany's March for Life filled the streets of two cities for the fourth year running.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T13:15:25Z",
-      "first_seen": "2026-09-22T13:39:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790069172/ewtn-news/en/photo_2026-09-21_16-45-11_1790002109_xpxj7o.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e026c7bebe33a9ef",
-      "title": "Archaeologists Begin Core Drilling in Unprecedented Study at Alleged Site of Noah’s Ark",
-      "link": "https://mycharisma.com/news/archaeologists-begin-core-drilling-in-unprecedented-study-at-alleged-site-of-noahs-ark/",
-      "summary": "Noah’s Ark has survived a global flood, thousands of years, and countless retellings. What it hasn’t escaped is humanity’s enduring obsession with finding it. That obsession has sent explorers and researchers scouring mountains, analyzing geological…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T12:47:55Z",
-      "first_seen": "2026-09-22T13:39:04Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5da4578494d9621d",
-      "title": "Middle East governments brace for possible escalation as Iran warns against U.S. action",
-      "link": "https://www.vaticannews.va/en/world/news/2026-09/middle-east-governments-brace-possible-escalation-iran-war.html",
-      "summary": "Governments across the Middle East are preparing for a possible escalation in regional tensions after Iran claimed it had obtained intelligence suggesting the United States is planning a renewed bombing campaign against the Islamic Republic. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T12:46:00Z",
-      "first_seen": "2026-09-22T13:39:04Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/21/18/1790006712785.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
