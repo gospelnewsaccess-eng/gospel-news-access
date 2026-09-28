@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-28T06:09:48Z",
+  "generated_at": "2026-09-28T06:46:46Z",
   "story_count": 600,
   "with_photo": 465,
   "items": [
+    {
+      "id": "93f5255a0c8f92e8",
+      "title": "Discovering Robert Schuman's work for peace and unity as Pope arrives in Metz",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/robert-schuman-pope-leo-xiv-france-metz-europe-peace-borders.html",
+      "summary": "As Pope Leo XIV visits the French border city of Metz, we recall the legacy of Venerable Robert Schuman, one of the founders of the European Union, who worked tirelessly for peace and the common good after World War II. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T05:41:50Z",
+      "first_seen": "2026-09-28T06:46:46Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/07/93.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "722b6e35abc20698",
+      "title": "‘I think Pope Leo truly cares about young Catholics’",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/metz-interview-henry-young-professional-on-pope-visit.html",
+      "summary": "As Metz welcomes Pope Leo XIV, a young Catholic professional who lives and works in the eastern French city tells Vatican News that Pope Leo is especially appreciated for 'truly caring for young Catholics,' and for his commitment to peace in Europe and…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T05:40:00Z",
+      "first_seen": "2026-09-28T06:46:46Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/27/motion-photo-3938363508107607265.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1d74f673cbe1dd0b",
       "title": "AEW Star PAC Dies at 40 After \"All Out:\" What Happened to Benjamin Satterley?",
@@ -10959,44 +10997,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-22T22:38:39Z"
-    },
-    {
-      "id": "7ff4e27cac638aaa",
-      "title": "Why Has A Fundraiser For The Lindsay Clancy Trial’s Lone Holdout Juror Topped $370,000?",
-      "link": "https://www.jubileecast.com/articles/39626/20260922/why-has-a-fundraiser-for-the-lindsay-clancy-trial-s-lone-holdout-juror-topped-370-000.htm",
-      "summary": "Why Has A Fundraiser For The Lindsay Clancy Trial’s Lone Holdout Juror Topped $370,000?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:24:54Z",
-      "first_seen": "2026-09-22T10:38:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28816/lindsay-clancy.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "759f83f11807736a",
-      "title": "Patrick Clancy Is Expecting A Baby With New Wife Rachel Danis—But How Will He Explain The Three Children Killed By His First Wife?",
-      "link": "https://www.jubileecast.com/articles/39625/20260922/patrick-clancy-is-expecting-a-baby-with-new-wife-rachel-danis—but-how-will-he-explain-the-three-children-killed-by-his-first-wife.htm",
-      "summary": "Patrick Clancy Is Expecting A Baby With New Wife Rachel Danis—But How Will He Explain The Three Children Killed By His First Wife?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:17:03Z",
-      "first_seen": "2026-09-22T10:38:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31882/patick-clancy.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
