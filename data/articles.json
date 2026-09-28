@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-28T16:40:01Z",
+  "generated_at": "2026-09-28T17:07:47Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 465,
   "items": [
+    {
+      "id": "efb54d0889aeb6a0",
+      "title": "Loud worship and other contrasts set apart Kenya’s large community of Quakers",
+      "link": "https://religionnews.com/2026/09/28/loud-worship-and-other-contrasts-set-apart-kenyas-large-community-of-quakers/",
+      "summary": "KAIMOSI, Kenya (AP) — There are an estimated 400,000 members worldwide of the Religious Society of Friends, or Quakers. About half live in Africa with most in Kenya, where Americans introduced the religion.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T16:53:12Z",
+      "first_seen": "2026-09-28T17:07:47Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "da42330f349fba0d",
+      "title": "Far-right settlers divert West Bank spring water as Israel backs heritage site takeovers",
+      "link": "https://religionnews.com/2026/09/28/far-right-settlers-divert-west-bank-spring-water-as-israel-backs-heritage-site-takeovers/",
+      "summary": "PETZAEL, West Bank (AP) — Palestinians have faced water shortages and restrictions since Israel took control in 1967.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T16:51:52Z",
+      "first_seen": "2026-09-28T17:07:47Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "db5b63bea80ad251",
       "title": "Drury celebrates ‘second life’ of historic Black church",
@@ -18,6 +50,44 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-29T04:40:01Z"
+    },
+    {
+      "id": "8c2ce03bf8e2286e",
+      "title": "HEARTSTEEL Drops “Live My Life” Produced by Jon Bellion with Anderson .Paak, Connor Price, & Nic D",
+      "link": "https://rapzilla.com/2026-09-heartsteel-live-my-life-produced-jon-bellion-anderson-paak-connor-price-nic-d/",
+      "summary": "Riot Games’ virtual group HEARTSTEEL (League of Legends) is back with their brand-new single, “Live My Life.” The track marks the official return of Ezreal, Sett, Yone, K’Sante, Aphelios, and Kayn. It arrives nearly three years after their 2023 debut single…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T16:24:25Z",
+      "first_seen": "2026-09-28T17:07:47Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/28120837/HEARTSTEEL-Live-My-Life-ft.-Anderson-.Paak-BAEKHYUN-Connor-Price-Nic-D-Official-Music-Video-2-47-screenshot-e1790611782999.png",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cefbb4698b19c6ed",
+      "title": "Signs of Spiritual Awakening? 800,000 Gather in Secular France for Historic Mass",
+      "link": "https://mycharisma.com/news/signs-of-spiritual-awakening-800000-gather-in-secular-france-for-historic-mass/",
+      "summary": "Something is stirring in France, and Pope Leo XIV is pointing directly to the Holy Spirit. In a stunning display of public faith in one of Europe’s increasingly secular nations, an estimated 800,000 people flooded the heart of Paris Saturday for an open-air…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T16:10:17Z",
+      "first_seen": "2026-09-28T17:07:47Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "59f91a99033b7a13",
@@ -10925,79 +10995,6 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29397/lionel-richie.jpg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2b99248051f7c35d",
-      "title": "Eric Metaxas: America is ‘living on fumes’ after abandoning biblical roots",
-      "link": "https://www.christianpost.com/video/eric-metaxas-the-us-is-living-on-fumes-after-abandoning-bible.html",
-      "summary": "Bestselling author Eric Metaxas says America has forgotten the biblical ideas and convictions that helped shape the nation, and he believes that loss has serious consequences for the future of freedom.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T18:32:00Z",
-      "first_seen": "2026-09-23T03:39:12Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/14/271446_w_550_310_899_242.jpg?v=20260922230932",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5adddbf17b0fd304",
-      "title": "Grand jury finds no evidence of crime in death of Nolan Wells",
-      "link": "https://www.christianpost.com/news/insufficient-evidence-of-crime-found-in-death-of-nolan-wells.html",
-      "summary": "A racially diverse Mississippi grand jury has concluded that there is insufficient evidence to charge anyone with a crime in the death of 18-year-old Nolan Wells on Horn Island, but said the case should be revisited “If credible evidence comes to light in the…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T18:26:41Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272018_w_550_364.jpg?v=20260922142844",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3916ceeced75c430",
-      "title": "Feds probing Massachusetts' removal of trans-identified girl from Catholic parents",
-      "link": "https://www.christianpost.com/news/feds-probing-removal-of-trans-identified-teen-from-parents.html",
-      "summary": "The United States Department of Education is investigating a school district in Massachusetts over reports that officials there worked to socially transition a trans-identified teenager without her parents’ consent and took steps to remove the girl from her…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T18:22:00Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272012_w_550_367_600_402.jpg?v=20260922142309",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3ffdf1e31def8824",
-      "title": "Levitt AMP Selma presents Gospel Fest - The Selma Times-Journal",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcG1uOGJ4U2VnNUo1bkRWQlM5QTdlc0pseExMQXJEUm4td0dkY3gwSEZmNnFlTGxlYU9hUnpPWHBIcldOWHdhanV3SE94eDhQQ0U5bW9PcXRWeFNXQ1FlZ1lncmRzWUs3bXFxWlpQMFJnNzhKUmZNQXU3VEhpOU9PN1RMb1FGTEdHV2xIRnp3?oc=5",
-      "summary": "Levitt AMP Selma presents Gospel Fest The Selma Times-Journal",
-      "outlet": "The Selma Times-Journal",
-      "outlet_url": "https://www.selmatimesjournal.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T18:20:26Z",
-      "first_seen": "2026-09-23T00:41:16Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
