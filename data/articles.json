@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T08:09:33Z",
+  "generated_at": "2026-09-28T08:40:55Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 466,
   "items": [
     {
       "id": "62781653d7dc0838",
@@ -333,6 +333,22 @@
       "category": "faith",
       "published": "2026-09-28T04:39:41Z",
       "first_seen": "2026-09-28T04:41:56Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "778b5cccdc361861",
+      "title": "“Clap Your Hands” – United Music + Arts Conference Choir feat. Beverly Crawford",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSGhCblE0Q1pOUVVnenE0SmVVX3ZLa0VIVHFIaHZldU9Kc2hiV3h4UWI4Y0ZFbEJDWUNHM0tSSk1tQTVfaWVjdkwzM1hPY0xUemdoWXlETVlrRU9oZzA0Nks5YXd1UnBmdm5BMUZGZ3FoYkhyRlE5TU5WZXcwekFjZUwwZzRPaUxpN2F3VEc5N0pndVpuMXNWODREdmZzNGkzRkEwSDZHRkhfUGFwd1RVREtmcw?oc=5",
+      "summary": "“Clap Your Hands” – United Music + Arts Conference Choir feat. Beverly Crawford Journal of Gospel Music",
+      "outlet": "Journal of Gospel Music",
+      "outlet_url": "https://journalofgospelmusic.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-28T02:57:20Z",
+      "first_seen": "2026-09-28T08:40:55Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10980,25 +10996,6 @@
       "first_seen": "2026-09-22T11:38:22Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790003189/ewtn-news/en/Lebaabout-1_trp8gj.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b7622edb36fb230a",
-      "title": "Why Is Garth Brooks Leaving TuneIn? His Three-Year Radio Run Is Wrapping Up",
-      "link": "https://www.jubileecast.com/articles/39628/20260922/garth-brooks-tunein-radio-partnership-ends-stingray.htm",
-      "summary": "Why Is Garth Brooks Leaving TuneIn? His Three-Year Radio Run Is Wrapping Up",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:52:18Z",
-      "first_seen": "2026-09-22T11:38:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30368/garth-brooks.jpg",
         "via": "media:content"
       },
       "breaking": false,
