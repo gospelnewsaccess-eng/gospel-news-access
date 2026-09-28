@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-28T05:07:00Z",
+  "generated_at": "2026-09-28T05:40:07Z",
   "story_count": 600,
   "with_photo": 465,
   "items": [
+    {
+      "id": "1d74f673cbe1dd0b",
+      "title": "AEW Star PAC Dies at 40 After \"All Out:\" What Happened to Benjamin Satterley?",
+      "link": "https://www.jubileecast.com/articles/39784/20260928/aew-star-pac-dies-at-40-after-all-out-what-happened-to-benjamin-satterley.htm",
+      "summary": "AEW Star PAC Dies at 40 After All Out: What Happened to Benjamin Satterley?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T05:26:32Z",
+      "first_seen": "2026-09-28T05:40:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31969/benjamin-satterley.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6a7795fc51d46f3b",
+      "title": "George Michael’s Lost \"Faith Tour\" Film Gets a VMAs Spotlight: What Was Hidden in the 1988 Footage?",
+      "link": "https://www.jubileecast.com/articles/39783/20260928/george-michael-s-lost-faith-tour-film-is-coming-to-theaters-what-was-hidden-in-the-1988-footage.htm",
+      "summary": "George Michael’s Lost \"Faith Tour\" Film Is Coming to Theaters: What Was Hidden in the 1988 Footage?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T04:52:04Z",
+      "first_seen": "2026-09-28T05:40:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31645/george-michael.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "f6ea1a4bdebd51f2",
       "title": "Latest 2026 MTV VMAs: Taylor Swift Wins Video of the Year, but Did Madonna Win the Night?",
@@ -10959,44 +10997,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-22T23:06:44Z"
-    },
-    {
-      "id": "d2bb4c0ace8ce04b",
-      "title": "Exclusive: Former American Idol Finalist Michael Sarver Peels Back the “Layers” of His Faith, Family, and Painful Past",
-      "link": "https://www.jubileecast.com/articles/39624/20260922/exclusive-former-american-idol-finalist-michael-sarver-peels-back-the-layers-of-his-faith-family-and-painful-past.htm",
-      "summary": "Michael Sarver Peels Back the “Layers” of His Faith, Family, and Painful Past",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:08:47Z",
-      "first_seen": "2026-09-22T10:38:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31896/michael-sarver.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a1ee1823d68cda80",
-      "title": "How Tim Keller Rearranged His Life in His Final Years",
-      "link": "https://www.christianitytoday.com/2026/09/how-tim-keller-rearranged-his-life-in-his-final-years/",
-      "summary": "A few years ago I visited a friend who serves as a pastor in Hawaii. The moment I stepped off the plane, I understood why they call it paradise. Warm breeze. Turquoise water. Lush mountains draped in greenery. I said to my friend, “Everything is so great…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T10:00:00Z",
-      "first_seen": "2026-09-22T10:38:39Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/the-stories-we-live-by.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
