@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T05:40:07Z",
+  "generated_at": "2026-09-28T06:09:48Z",
   "story_count": 600,
   "with_photo": 465,
   "items": [
@@ -21,6 +21,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "ba45240221c8e21d",
+      "title": "Police monitoring public concerns over gospel artist Israel Houghton’s proposed Sabah concerts",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFNFSmw1YkZrVHc4bzN6ZHg0YUExanBZYWlkR1N4czBOalJCN0I4S1UwQ0VFN2gxRTc1WlJ3Yy1yTFRKNXV4R2swZTFqVVhVcnFFb1lkUEdFdGhtQzdFeW85MXRZdldzMTBKTnN4WDBkZXdCWEYzaXpBaS1faTR0RUg0Sl9jZ05DZG1XaDVfc0ZtTUdzaG50bW5pM0dtdDZTQmJSd04xQkI3bXZ5MU1xOER2N1BfalFBTDR0Rzd1YXVrRmpaWEhrZFk5TDdXQzFtUFZ0dFdmMWdiTm8?oc=5",
+      "summary": "Police monitoring public concerns over gospel artist Israel Houghton’s proposed Sabah concerts The Star",
+      "outlet": "The Star",
+      "outlet_url": "https://www.thestar.com.my",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-28T04:59:00Z",
+      "first_seen": "2026-09-28T06:09:48Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-28T18:09:48Z"
     },
     {
       "id": "6a7795fc51d46f3b",
@@ -10981,22 +10997,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "11d5d32ea25a12a4",
-      "title": "You know ‘Misty Blue.’ Get to know the rest of Mississippi’s Dorothy Moore - The Clarion-Ledger",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOFRkdGc4ZHFCTWEzMVVGUnZMSEFEN3JWZV9id0g4bTdOWlFjcVVkMGxXbktCai1EZVRkYTJRdDA2b1FjOHpUZFRQanlKcURWZVllbGVRYWZ5NWlkRWFURW1IN2xsYkRfLXVpb2hUcGtKVUhUSEt3d0xLY0kzajZ5RXlUdFRKSUhYcVpCM2MtWkRxSUM4ZlVnYjFZem9mS0lrYzhQUWlhb3VBSW05Mlk2V1lyMjV2Rnd5WGZWY0FXUU9CaTY4NE5wVmhONjVZUHdYX2NGNnZoQW9kQQ?oc=5",
-      "summary": "You know ‘Misty Blue.’ Get to know the rest of Mississippi’s Dorothy Moore The Clarion-Ledger",
-      "outlet": "The Clarion-Ledger",
-      "outlet_url": "https://www.clarionledger.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T10:15:00Z",
-      "first_seen": "2026-09-22T11:06:44Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T23:06:44Z"
     }
   ]
 }
