@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-09-28T18:43:04Z",
+  "generated_at": "2026-09-28T19:08:03Z",
   "story_count": 600,
-  "with_photo": 463,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "f0be5a289e0daa8f",
+      "title": "Latest Update on Caleb Flynn's Trial: 141 Messages About Killing Ashley, but Police Never Tested Him for Gunshot Traces",
+      "link": "https://www.jubileecast.com/articles/39797/20260928/latest-update-on-caleb-flynns-trial-jurors-hear-about-141-messages-wishing-ashley-dead—then-learn-police-never-tested-him-for-gunshot-residue.htm",
+      "summary": "Caleb Flynn Trial: Jurors Hear About 141 Messages Wishing Ashley Dead—Then Learn Police Never Tested Him for Gunshot Residue",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T18:47:14Z",
+      "first_seen": "2026-09-28T19:08:03Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31936/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "caf7804a90464b27",
+      "title": "How to Watch Hillsong Founder Brian Houston’s Sermon on Money—and Why It Is Drawing Attention",
+      "link": "https://www.jubileecast.com/articles/39796/20260928/how-to-watch-hillsong-founder-brian-houston-s-sermon-on-money—and-why-it-is-drawing-attention.htm",
+      "summary": "How to Watch Hillsong Founder Brian Houston’s Sermon on Money—and Why It Is Drawing Attention",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T18:41:38Z",
+      "first_seen": "2026-09-28T19:08:03Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/24248/brian-houston.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1af992ca561a2101",
+      "title": "Madonna’s VMAs Speech Sparks Concern After She Asks What Award She Won",
+      "link": "https://www.jubileecast.com/articles/39795/20260928/madonna-s-vmas-speech-sparks-concern-after-she-asks-what-award-she-won.htm",
+      "summary": "Madonna’s VMAs Speech Sparks Concern After She Asks What Award She Won",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T18:32:48Z",
+      "first_seen": "2026-09-28T19:08:03Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/8895/madonna-new-album.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2cb6dd7d22908b8f",
+      "title": "New priests’ council in South Africa lauded for fostering collaboration with bishops",
+      "link": "https://www.ewtnnews.com/world/africa/new-priests-council-in-south-africa-lauded-for-fostering-collaboration-with-bishops",
+      "summary": "The meeting highlighted the need to strengthen the bond between bishops and priests as well as among priests themselves.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T18:25:47Z",
+      "first_seen": "2026-09-28T19:08:03Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790617149/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-09-25t231251_1790369459_l72bgg.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "517ed52bab2d7214",
+      "title": "Former Youth Pastor Lindsey Whiteside Pleads Guilty to Federal Sex Crime After State House Arrest Sentence",
+      "link": "https://www.jubileecast.com/articles/39794/20260928/former-youth-pastor-lindsey-whiteside-pleads-guilty-to-federal-sex-crime-after-state-house-arrest-sentence.htm",
+      "summary": "Former Youth Pastor Lindsey Whiteside Pleads Guilty to Federal Sex Crime After State House Arrest Sentence",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T18:25:36Z",
+      "first_seen": "2026-09-28T19:08:03Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30700/lindsey-whiteside.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c3ae9144993324db",
       "title": "‘God Nuh Have Nuh Zelle’: Yaksta Shrugs Off Gospel Artiste’s Fiery Warning",
@@ -18,6 +113,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-29T06:43:04Z"
+    },
+    {
+      "id": "347d24472b8f828c",
+      "title": "JRR Tolkien to join CS Lewis in Westminster Abbey’s Poets’ Corner",
+      "link": "https://www.christianpost.com/news/jrr-tolkien-to-join-cs-lewis-in-westminster-abbeys-poets-corner.html",
+      "summary": "J.R.R. Tolkien, the devout Catholic author whose Christian beliefs helped shape The Hobbit and The Lord of the Rings, will be honored with a memorial in Westminster Abbey’s Poets’ Corner alongside his close friend and fellow Christian writer C.S. Lewis.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T17:53:00Z",
+      "first_seen": "2026-09-28T19:08:03Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272090_w_550_392.jpg?v=20260928135409",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "95c06f7953f67394",
@@ -10876,117 +10990,6 @@
       "first_seen": "2026-09-22T20:37:50Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272020_w_550_401.jpg?v=20260922153407",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a4eba66e4c26e161",
-      "title": "Jessica Simpson Celebrates Christian Testimony in New For King & Country Song",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcnJOa0xUbUNRNTlPVzdQY2I2eU15V0MwbkhWOFNRSkQ3bk1rMUo1ekdGczYzc2tHbmJZVXQtTjJRYXl2ZWIxQ2VpYWdsaU11aGJFVDVvRG9UMHlhQVBaLUl4ZHNOZEJKaDBtOVJTMFRqTjlSN1pZRThHcWF5aGsxVGJXSmxrX0JTbWhqVUIyeUV0ZldOeERXOHdZNndmTlQtWVJ0RWZaNGZsaHVsc09aYmZUUlpWSHA2NHFrTjlEOEVWd2xIRjVFOTR2X21YSi1WYnYwSl9jeDdsZmIyVVNKcw?oc=5",
-      "summary": "Jessica Simpson Celebrates Christian Testimony in New For King & Country Song Crosswalk.com",
-      "outlet": "Crosswalk.com",
-      "outlet_url": "https://www.crosswalk.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-22T19:29:00Z",
-      "first_seen": "2026-09-26T02:06:47Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "832e58789d86ca7b",
-      "title": "Nearly 1 in 4 Americans Can’t Name a Single First Amendment Right",
-      "link": "https://mycharisma.com/news/nearly-1-in-4-americans-cant-name-a-single-first-amendment-right/",
-      "summary": "A stunning 24% of American adults cannot name even one of the five rights guaranteed by the First Amendment, according to a new survey that paints a troubling picture of civic ignorance just weeks before voters head to the polls for midterm elections. The…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T19:22:05Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e7a7c4b19e30f34a",
-      "title": "Hayden Panettiere’s Cause of Death Revealed—but Why Is the Police Investigation Still Open?",
-      "link": "https://www.jubileecast.com/articles/39635/20260922/hayden-panettiere-s-cause-of-death-revealed—but-why-is-the-police-investigation-still-open.htm",
-      "summary": "Hayden Panettiere’s Cause of Death Revealed—but Why Is the Police Investigation Still Open?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T19:11:55Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31427/hayden-panettiere.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1feb9ef10356d8b4",
-      "title": "Jay-Z’s Roc Nation Lands Gospel Legend Hezekiah Walker in Historic Distribution Deal—Is Gospel Music Entering a New Mainstream Era?",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNUVk1NDlpUjB0ZUozb3otZHJSTFNmODZsVVMtcTh0N2xHZzI4Smdydm5ZaWRTcTRIMUpQdFF1QjVjLUQ1T2Q0VEZTNWlreTFuREhWYldpWXZFUTZBREF0bDEtVEV5SUFrdjNfSGZGX3pzaUVfZGVNTm5sdE5DWm1rekI5ZHZvbTJ0cG9SWk9fLVlQYlBWNW9ER3ZFTk5nYk9YSUhhZ0F2ZlNrenJmckZfMk9hVDliT3BMU1R1NEpha3VNTEtBVlg2S0huVWpvcjlqNHNBRjZ3YS1SQWxuNGpxS2dzYm8tTEN0T2JBU192Z0VxTFNHbmkxUFpRVG00UU9pbU5vcDZEZ0tnUVV6blNMTk1xZXRHUWdvRjRVT3U5VQ?oc=5",
-      "summary": "Jay-Z’s Roc Nation Lands Gospel Legend Hezekiah Walker in Historic Distribution Deal—Is Gospel Music Entering a New Mainstream Era? JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T19:06:00Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/25256/hezekiah-walker.jpg",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-09-23T07:35:58Z"
-    },
-    {
-      "id": "5d9b8b0f2df5d2ac",
-      "title": "Popular Catholic podcaster and religious sister announces discernment of new community",
-      "link": "https://www.ewtnnews.com/world/us/popular-catholic-podcaster-and-religious-sister-announces-discernment-of-new-community",
-      "summary": "Sister Miriam James Heidland, SOLT, a well-known speaker, podcast host, and author, said she is discerning the establishment of a new religious community called Friends of the Bridegroom.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T19:04:33Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790097597/ewtn-news/en/sistermiriamjames_qoqkpo.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "db57bed1bb483e59",
-      "title": "Archbishop Gallagher: Reconciliation is born of accepting truth about past",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/archbishop-gallagher-poland-germany-bishops-letter-book.html",
-      "summary": "Speaking at an event at the Polish Embassy to the Holy See, Archbishop Paul Richard Gallagher highlights the enduring relevance of Polish-German reconciliation after World War II, stressing that reconciliation requires confronting the truth about the past…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T19:03:00Z",
-      "first_seen": "2026-09-23T07:38:59Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/13.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
