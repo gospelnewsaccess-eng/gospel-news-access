@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-28T16:09:06Z",
+  "generated_at": "2026-09-28T16:40:01Z",
   "story_count": 600,
-  "with_photo": 467,
+  "with_photo": 466,
   "items": [
+    {
+      "id": "db5b63bea80ad251",
+      "title": "Drury celebrates ‘second life’ of historic Black church",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDFCTW1lRmlYdFJLQTJqZlZiLXJiQ2lqS1Y5MlpBNGttR1J2Um1LTGlyZERMZzdBb01Ld2h2X1Frb1laNFFERmxfb0pFUllBX0c0YVQ3dVpfX3lOLUFkbUxaa0pJOFM3Y0h1N0tsdThOajFyRFNLNDBrS0ZkYU1VN3Z5WnhCNUFDeWQw?oc=5",
+      "summary": "Drury celebrates ‘second life’ of historic Black church Springfield Business Journal",
+      "outlet": "Springfield Business Journal",
+      "outlet_url": "http://sbj.net",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-28T16:27:01Z",
+      "first_seen": "2026-09-28T16:40:01Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-29T04:40:01Z"
+    },
     {
       "id": "59f91a99033b7a13",
       "title": "China Reportedly Detains Christian Pastors in Expanding House-Church Crackdown",
@@ -254,6 +270,22 @@
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/28/2026-09-28-viaggio-apostolico-in-francia---santa-messa-cattedral/1790606121340.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "33b0c58622c4dac3",
+      "title": "Druski is Teaming Up With Mike Epps to Turn His Viral 'Mega Church Pastors Love Money' Sketch Into Netflix & Youtube Series 'Collect and Praise'",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZE9EZG44RWVSaG1SWDV2RUtTZ0ljNlRFYW9USUpnN3JDSy1kZ2xUaDFKbElYMTVjUXJocWVLZG9EaXdfeVFnSi1kcTR5Zy1WU1FqcGlURDB6azlQUUVva0RTcjA3a3hETDVCUUFFWU5ET1dPbEFfSnlrc0RxTFRvYVM4OW1RMG9KMnVTdmZhbElURXIwVnVuMW1zeERYZzJHSlE?oc=5",
+      "summary": "Druski is Teaming Up With Mike Epps to Turn His Viral 'Mega Church Pastors Love Money' Sketch Into Netflix & Youtube Series 'Collect and Praise' Blex Media",
+      "outlet": "Blex Media",
+      "outlet_url": "https://blexmedia.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-28T14:25:58Z",
+      "first_seen": "2026-09-28T16:40:01Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10966,41 +10998,6 @@
       "published": "2026-09-22T18:20:26Z",
       "first_seen": "2026-09-23T00:41:16Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "81b5e9a650012041",
-      "title": "Kirk Franklin Admits It Was ‘Wrong’ to Curse Out Son During Viral Phone Call",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDhDNmZ4cFRKMTZpQ0ZnWEkxOExfMzJvR094M1hFWjBQQTMzRHhuZDQ3MlBVWnZhZE9lNkZXRldEVjBSdHR6Q0RaWUM2OXhCNXlQNXM3ZnVwVGZDbDRweVM2eGVLTzZJdUFuTzMtcDZzUlQ2eVlCaUN5b25KYVIxN2ZiZUFiSDRO?oc=5",
-      "summary": "Kirk Franklin Admits It Was ‘Wrong’ to Curse Out Son During Viral Phone Call Complex",
-      "outlet": "Complex",
-      "outlet_url": "https://www.complex.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-22T18:03:55Z",
-      "first_seen": "2026-09-22T19:35:58Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "11ea6a6385b84afe",
-      "title": "Trump Urged to Confront Xi Over China’s Persecution of Christians",
-      "link": "https://mycharisma.com/news/trump-urged-to-confront-xi-over-chinas-persecution-of-christians/",
-      "summary": "President Donald Trump is facing growing calls to use his upcoming meeting with Chinese President Xi Jinping to demand freedom for Christians and other religious believers suffering under the Chinese Communist Party. The two leaders are expected to focus…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T18:01:41Z",
-      "first_seen": "2026-09-22T18:40:05Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
