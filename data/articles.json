@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-28T10:40:03Z",
+  "generated_at": "2026-09-28T11:07:25Z",
   "story_count": 600,
-  "with_photo": 462,
+  "with_photo": 463,
   "items": [
+    {
+      "id": "b6746a6372258aab",
+      "title": "Pope: Europe must embrace its roots to build peace and unity",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-europe-must-embrace-its-roots-to-build-peace-and-unity.html",
+      "summary": "Pope Leo XIV addresses a meeting on “The Roots of Europe for Peace and Unity,” saying Europe’s Christian roots “help us understand more clearly that openness to the transcendent is always a constitutive part of the human person and a living source of…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T10:53:00Z",
+      "first_seen": "2026-09-28T11:07:25Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/28/2026-09-28-viaggio-apostolico-in-francia---incontro-alle-radici-/1790591412861.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0686edca6292085a",
       "title": "Woman alleges in new lawsuit she was sexually abused as a teen in 1990s at the Willow Creek megachurch",
@@ -18,6 +37,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-28T22:40:03Z"
+    },
+    {
+      "id": "f4290238789851cc",
+      "title": "Pope Leo: Europe must return to its Christian roots and be open to migrants",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-europe-must-return-to-its-christian-roots-and-be-open-to-migrants",
+      "summary": "The final day of the pontiff’s visit to France focused on peace and unity in Europe.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T10:28:02Z",
+      "first_seen": "2026-09-28T11:07:25Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790585730/ewtn-news/en/WhatsApp_Image_2026-09-28_at_10.47.03_AM_eoamna.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "fd604254d03f3ab5",
@@ -10949,41 +10987,6 @@
       "tier": 3,
       "category": "gospel-trade",
       "published": "2026-09-22T14:33:36Z",
-      "first_seen": "2026-09-22T15:07:06Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5cac7cf41b557c53",
-      "title": "Rev. Dr. A. Roy Medley to receive Frank Wolf Award",
-      "link": "https://religionnews.com/2026/09/22/rev-dr-a-roy-medley-to-receive-frank-wolf-award/",
-      "summary": "21wilberforce",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T14:31:12Z",
-      "first_seen": "2026-09-22T14:40:36Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/Roy-Medley-headshot.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3c233d765ba9f03f",
-      "title": "JEKALYN CARR’S “A NIGHT OF BREAKTHROUGH TOUR” OPENS WITH TWO SOLD-OUT NIGHTS",
-      "link": "https://pathmegazine.com/articles/jekalyn-carrs-a-night-of-breakthrough-tour-opens-with-two-sold-out-nights/",
-      "summary": "The message of breakthrough is already making an impact. GRAMMY, Stellar and Dove Award-winning recording artist, Jekalyn Carr launched her highly anticipated A Night of Breakthrough Tour … The post JEKALYN CARR’S “A NIGHT OF BREAKTHROUGH TOUR” OPENS WITH TWO…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T14:25:50Z",
       "first_seen": "2026-09-22T15:07:06Z",
       "image": null,
       "breaking": false,
