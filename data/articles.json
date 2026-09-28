@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-28T07:40:46Z",
+  "generated_at": "2026-09-28T08:09:33Z",
   "story_count": 600,
-  "with_photo": 465,
+  "with_photo": 467,
   "items": [
+    {
+      "id": "62781653d7dc0838",
+      "title": "Todd Meadows’ Final Call With His Children Airs on \"Deadliest Catch:\" What Did He Promise Them?",
+      "link": "https://www.jubileecast.com/articles/39786/20260928/todd-meadows-final-call-with-his-children-airs-on-deadliest-catch-what-did-he-promise-them.htm",
+      "summary": "Todd Meadows’ Final Call With His Children Airs on \"Deadliest Catch:\" What Did He Promise Them?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T08:07:53Z",
+      "first_seen": "2026-09-28T08:09:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31970/todd-meadows.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9168f792b1cfc8dd",
+      "title": "Candace Cameron Bure Becomes a Grandmother After Baby Bond Arrives 10 Weeks Early: How Is He Now?",
+      "link": "https://www.jubileecast.com/articles/39785/20260928/candace-cameron-bure-becomes-a-grandmother-after-baby-bond-arrives-10-weeks-early-how-is-he-now.htm",
+      "summary": "Candace Cameron Bure Becomes a Grandmother After Baby Bond Arrives 10 Weeks Early: How Is He Now?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T07:58:09Z",
+      "first_seen": "2026-09-28T08:09:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27756/candace-cameron-bure.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "57478fcd36a2f5ff",
+      "title": "America once jailed people for blasphemy. Why don't we know?",
+      "link": "https://www.christianpost.com/voices/america-once-jailed-people-for-blasphemy-why-dont-we-know.html",
+      "summary": "In 1811, a New York man went to prison for insulting Jesus Christ, and the state's chief justice declared that Americans \"profess the general doctrines of Christianity.\" That wasn't a fringe ruling. It was the law, and it stayed that way in various states for…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T07:25:45Z",
+      "first_seen": "2026-09-28T08:09:33Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272079_w_550_309.jpg?v=20260928032553",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "296bc53e7a3d85e4",
+      "title": "Kenya: Church urges protection for refugee and migrant minors",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/kenya-church-urges-protection-for-refugee-and-migrant-minors.html",
+      "summary": "On World Day of Migrants and Refugees, the Catholic Church in Kenya has called for renewed commitment to the dignity, protection and rights of refugees, migrants and displaced children, urging society to see every child not as a statistic but as a person…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T06:25:00Z",
+      "first_seen": "2026-09-28T08:09:33Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/06/22/South%20Sudanese%20refugees%20at%20the%20MassAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "93f5255a0c8f92e8",
       "title": "Discovering Robert Schuman's work for peace and unity as Pope arrives in Metz",
@@ -36,6 +112,25 @@
       "first_seen": "2026-09-28T06:46:46Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/27/motion-photo-3938363508107607265.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4d7eec04a911cd51",
+      "title": "Forgetting how to blush",
+      "link": "https://www.christianpost.com/voices/forgetting-how-to-blush.html",
+      "summary": "There was a time when being caught celebrating something wicked made people turn red with embarrassment. That shame worked as a kind of social restraint. So what happens when it disappears?",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T05:33:44Z",
+      "first_seen": "2026-09-28T08:09:33Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272068_w_550_350_490_176.jpg?v=20260928032021",
         "via": "media:content"
       },
       "breaking": false,
@@ -10908,95 +11003,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "e6baff0048d8d295",
-      "title": "Can a Robot Win America's Got Talent? Unitree Makes It to Tonight's Finale",
-      "link": "https://www.jubileecast.com/articles/39623/20260922/agt-season-21-finale-2026-unitree-robot-dance-troupe.htm",
-      "summary": "Can a Robot Win America's Got Talent? Unitree Makes It to Tonight's Finale",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:48:31Z",
-      "first_seen": "2026-09-22T11:38:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31895/unitree-robotics.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c51e63064e99766b",
-      "title": "The Voice Season 30 Premiere: Queen Latifah Makes History Twice in One Night",
-      "link": "https://www.jubileecast.com/articles/39622/20260922/the-voice-season-30-premiere-recap-queen-latifah-first-in-button.htm",
-      "summary": "The Voice Season 30 Premiere: Queen Latifah Makes History Twice in One Night",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:48:22Z",
-      "first_seen": "2026-09-22T11:38:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31894/the-voice-coaches.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "306a26d681bd62be",
-      "title": "Cody Johnson's \"Take Me Back (Leave Me There)\" Hits No. 10: His Sixth Top 10 Song to Date",
-      "link": "https://www.jubileecast.com/articles/39627/20260922/cody-johnson-take-me-back-leave-me-there-sixth-top-10.htm",
-      "summary": "Cody Johnson's \"Take Me Back (Leave Me There)\" Hits No. 10: His Sixth Top 10 Song to Date",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T10:46:41Z",
-      "first_seen": "2026-09-22T11:38:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30128/cody-johnson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8e3cf30e62286dbe",
-      "title": "New book profiles overlooked Chicago gospel trio who played with Mahalia Jackson, Sam Cooke",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQTdBX05qUGZMYmdpUU0yM1RnU0RBWEVWTzNMb1N0dk4wSkUzV0hZYTZHWjY0TlJrZ0ZmRnNxMFp3NUZaTUJqQktKMm9XamRXMk16VjZiLUZDQ0RMSzNVTE1yZ0FyVmpsV0xSdzF2aXBJQUtFeHc1eWRaSzQtZVBiMFdtYkNlOTJsekZGdXUxS2pCRUM2Zk1xMk5taw?oc=5",
-      "summary": "New book profiles overlooked Chicago gospel trio who played with Mahalia Jackson, Sam Cooke WBEZ Chicago",
-      "outlet": "WBEZ Chicago",
-      "outlet_url": "https://www.wbez.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T10:35:00Z",
-      "first_seen": "2026-09-23T02:38:24Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a5b493feff02e9ef",
-      "title": "New book profiles an overlooked Chicago gospel trio, who played with Mahalia Jackson and Sam Cooke - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEtPU1NiMnZYalhXYmI3cFo1NFdkU3RCT0VvbWxkMVIwTEFDcFRhZ1p2WG9EMDN6WW16UDdJTVFSSm5KTjhlNUhLXy00dk5KNWp6d0djSG5KLTNlTVpDMm1paVJ1amZiRmZiWG9xSENoajNlS0hSVEZtTEdRdlRjMVRXakNPYmZlNFhwUE9ZQXk?oc=5",
-      "summary": "New book profiles an overlooked Chicago gospel trio, who played with Mahalia Jackson and Sam Cooke Chicago Sun-Times",
-      "outlet": "Chicago Sun-Times",
-      "outlet_url": "https://chicago.suntimes.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T10:30:00Z",
-      "first_seen": "2026-09-22T10:38:39Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-22T22:38:39Z"
     }
   ]
 }
