@@ -1,8 +1,170 @@
 {
-  "generated_at": "2026-09-28T15:41:10Z",
+  "generated_at": "2026-09-28T16:09:06Z",
   "story_count": 600,
   "with_photo": 467,
   "items": [
+    {
+      "id": "59f91a99033b7a13",
+      "title": "China Reportedly Detains Christian Pastors in Expanding House-Church Crackdown",
+      "link": "https://mycharisma.com/news/china-reportedly-detains-christian-pastors-in-expanding-house-church-crackdown/",
+      "summary": "Pastors and church workers from one of China’s influential house-church networks have reportedly been detained as communist authorities intensify pressure against Christians who worship outside the state-controlled religious system. ChinaAid said it received…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T16:08:29Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a73eeed79a833f9a",
+      "title": "More than 1,000 join March for Life in Vilnius, Lithuania",
+      "link": "https://www.ewtnnews.com/world/europe/more-than-1-000-join-march-for-life-in-vilnius-lithuania",
+      "summary": "Families, young people, and international advocates joined Lithuania’s second March for Life, calling for practical support for mothers, fathers, and vulnerable people.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T15:37:00Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790557034/ewtn-news/en/Photo_1_-_Pro-Life_advocates_marching_down_Gedinimas_Avenue_in_Vilnius_City_Centre_hrcl0i.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6fc090b647fd99c4",
+      "title": "New national initiative encourages collaborations between Christian congregations, non-profit organizations to improve local communities",
+      "link": "https://religionnews.com/2026/09/28/new-national-initiative-encourages-collaborations-between-christian-congregations-non-profit-organizations-to-improve-local-communities/",
+      "summary": "Lilly Endowment Inc.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T15:32:45Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c51a24971200412b",
+      "title": "‘He Was Still Fighting’: Chilling Details Reveal Wild Struggle to Restrain Flight 618 Passenger",
+      "link": "https://mycharisma.com/news/he-was-still-fighting-chilling-details-reveal-wild-struggle-to-restrain-flight-618-passenger/",
+      "summary": "What began as an ordinary flight home quickly spiraled into a midair nightmare. Richard Olenick was aboard American Airlines Flight 618 when a passenger’s increasingly erratic behavior turned violent, ultimately leading Olenick and fellow passenger Juan Mejia…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T15:23:41Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "de36a3cf87b469f2",
+      "title": "Matthew West Declares ‘Jesus Is King’ on New Album, Out Now",
+      "link": "https://pathmegazine.com/articles/matthew-west-declares-jesus-is-king-on-new-album-out-now/",
+      "summary": "Five-time GRAMMY nominee, two-time NSAI Songwriter-Artist of the Year and award-winning hitmaker Matthew West releases his 14th studio album, Jesus Is King, out now. The 12-track record … The post Matthew West Declares ‘Jesus Is King’ on New Album, Out Now…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T15:22:08Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cb71f9b0c038bf64",
+      "title": "5 Arrested in Suspected Terror Plot Near US Air Base in Britain",
+      "link": "https://mycharisma.com/news/5-arrested-in-suspected-terror-plot-near-us-air-base-in-britain/",
+      "summary": "Five men were arrested early Sunday near a British air base used by American bombers after authorities received a report of three suspicious trucks apparently traveling toward the military installation. According to The Associated Press, the men are being…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T15:21:04Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9e5e3494716475c3",
+      "title": "Life Surge, wealth-building business featuring prominent Christian speakers, sparks concern",
+      "link": "https://www.christianpost.com/news/life-surge-sparks-concern-among-some-christians.html",
+      "summary": "Life Surge, a touring faith-based wealth-building seminar featuring prominent Christian speakers, has been accused of pressuring attendees to invest tens of thousands of dollars in real estate and stock courses.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T15:15:32Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272071_w_550_309.jpg?v=20260928111557",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e5af728486c0a1a",
+      "title": "CRITICALLY ACCLAIMED SINGER/SONGWRITER SEPH SCHLUETER UNVEILS NEW SINGLE “ALL IN” & ANNOUNCES SOPHOMORE ALBUM",
+      "link": "https://pathmegazine.com/articles/critically-acclaimed-singer-songwriter-seph-schlueter-unveils-new-single-all-in-announces-sophomore-album/",
+      "summary": "Following the explosive success of his RIAA Platinum-certified hit “Counting My Blessings,” singer-songwriter Seph Schlueter is stepping boldly into a new chapter with the announcement of his … The post CRITICALLY ACCLAIMED SINGER/SONGWRITER SEPH SCHLUETER…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T15:14:50Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3612e72a16503d74",
+      "title": "Cardinal Zuppi begins three-day mission to Moscow",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/cardinal-zuppi-papal-envoy-humanitarian-mission-russia-ukraine.html",
+      "summary": "The Holy See’s special envoy for humanitarian issues is in Russia for three days of institutional meetings focused on prisoners of war and children transferred from their places of origin. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T14:58:00Z",
+      "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/21/18/1790006736000.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "67c3fdf2cdda34bc",
       "title": "Pope Leo: Let Europe’s wounds be ‘openings through which light shines’",
@@ -10838,168 +11000,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dbf2440f76c8bfd9",
-      "title": "Gulf Coast Challenge gospel lineup adds Titus Cody + former American Idol contestant",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYlFjXzRWNnNnbDdpSkNoa1F3SEpBSXVpZ3BRaV9VVE9tQjF4d3AwZUZ6YWcyYVhjak9BNENhbmF1X0N0WjExVldHcWFVMkR2cmNCWjR0eFo2S1ZsdTZGeWdEdUsyYWY1YzJtUTBjV2RxUDJaZDBOaEtPMUNnMUk5d2lham1mWUdSRllVNFFjZzBzOXNTeGwteGN5ejI4MTNEaWhyd1RRVVpKMDFGYkFFczRRRFphRVl0dzhoZTFnamtmeVZnREFIQw?oc=5",
-      "summary": "Gulf Coast Challenge gospel lineup adds Titus Cody + former American Idol contestant mynbc15.com",
-      "outlet": "mynbc15.com",
-      "outlet_url": "https://mynbc15.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T17:43:24Z",
-      "first_seen": "2026-09-22T18:08:43Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-23T06:08:43Z"
-    },
-    {
-      "id": "1cd1e3a6b0bdf60d",
-      "title": "World-renowned Catholic musician Matt Maher returns to Phoenix for concert tour",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbkpOdWZlQlEwRzdTWm9NdnB5MGlfVVZEaWRjeUtGX0xwUU04QmFRNzF1ejlIZmh0WWVUNl8yRFJET3FGNnhac084VVJTckxaeGtSOE5BSjk1QjEwN3Z1YmFtZm1xS2xXRk1mWjh3Qms1VDBWYTNia3d3LUo2dmtuc2htcUw1UjQ3OEdJaXJGbGxGeFh0V0JDVTR2RnUtVzBIQm5NWUNTYzJXbk9CQTRFN2JhWFpDUjN4b0E4?oc=5",
-      "summary": "World-renowned Catholic musician Matt Maher returns to Phoenix for concert tour The Catholic Sun",
-      "outlet": "The Catholic Sun",
-      "outlet_url": "https://www.catholicsun.org",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-22T17:35:11Z",
-      "first_seen": "2026-09-24T03:39:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7a9c13ae9e6a812e",
-      "title": "From Hip-hop Psalms to the Ten Commandments in Jazz: AI turns entire Bible into 30,000 songs – without changing a word",
-      "link": "https://religionnews.com/2026/09/22/from-hip-hop-psalms-to-the-ten-commandments-in-jazz-ai-turns-entire-bible-into-30000-songs-without-changing-a-word/",
-      "summary": "&Associates",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T17:32:55Z",
-      "first_seen": "2026-09-22T17:36:34Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/Music-Bible-MarkText-Light-scaled.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b7bb8f8bfe8d66f",
-      "title": "Anthony Brown Gets Honest About Faith and His New Album",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWE0ei1GaWROd0l0Mjl5a2ItNVptb1MwckhLdUZxZmVoaEZkdlREb3BMaFgyRVZuR0hHalQwQTVYU296MDAwZjI3VHRwc0I0WlNGUWViWkVLSTNzMWNYSFlybXUxTU1MdlFkVjlKdkxHay1qX2R2Zm5nTmtfeWpCT1dEbTNPMlg3UlM3c2U2TlA?oc=5",
-      "summary": "Anthony Brown Gets Honest About Faith and His New Album Get Up! Mornings With Erica Campbell",
-      "outlet": "Get Up! Mornings With Erica Campbell",
-      "outlet_url": "https://getuperica.com",
-      "source_feed": "Google News: Erica Campbell",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-22T17:22:29Z",
-      "first_seen": "2026-09-22T20:37:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3b235241790a5e2a",
-      "title": "Two Christian schools reopen in Syria after decades of closure",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/two-christian-schools-reopen-syria-knaye-yacoubieh-franciscan.html",
-      "summary": "Two schools run by the Franciscan friars of the Custody of the Holy Land have been inaugaurated in Syria’s Idlib governorate. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T17:19:00Z",
-      "first_seen": "2026-09-22T17:36:34Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/poss-copertina-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c356c03e30c54036",
-      "title": "Fulton Sheen, Catholic media star, will be beatified in St Louis Thursday",
-      "link": "https://religionnews.com/2026/09/22/a-catholic-media-star-is-about-to-take-one-step-closer-to-sainthood/",
-      "summary": "(RNS) — This Thursday, the Catholic bishop who charmed millions while explaining theological concepts and scrawling on a blackboard on his show 'Life Is Worth Living' will come one step closer to being declared a saint.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T17:10:31Z",
-      "first_seen": "2026-09-22T17:36:34Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Sheen-Saint2-304x369.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5748a75ff89a1c56",
-      "title": "Australia reportedly withdraws from UK-led coalition targeting Judea, Samaria settlements",
-      "link": "https://www.christianpost.com/news/australia-withdraws-from-coalition-targeting-judea-samaria.html",
-      "summary": "Australia reportedly withdrew from a British-led coalition of 12 Western governments planning to impose trade restrictions on Israeli settlements in Judea and Samaria, the Australian Broadcasting Corporation (ABC) reported.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:54:14Z",
-      "first_seen": "2026-09-22T17:36:34Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272014_w_550_367_364_215.jpg?v=20260922125707",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e70c60ace49fbb6f",
-      "title": "American theologian to receive the 2026 Ratzinger Prize",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/american-theologian-john-cavadini-receive-2026-ratzinger-prize.html",
-      "summary": "The 2026 Ratzinger Prize recipient is American theologian Dr John Cavadini, recognized for the scholarly merits of his research on Patristics, particularly his studies on St Augustine. Pope Leo XIV will present the award to to Dr Cavadini on December 19 in…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:50:00Z",
-      "first_seen": "2026-09-22T17:36:34Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/22/75641-05122012.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "554f9899aba3a2c4",
-      "title": "Brad Pitt says 'Heart of the Beast' honors military, sacrificial love",
-      "link": "https://www.christianpost.com/video/brad-pitt-says-heart-of-the-beast-honors-military.html",
-      "summary": "Brad Pitt reflects on how his new film \"Heart of the Beast\" honors the military and demonstrates the power of sacrificial love.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:47:35Z",
-      "first_seen": "2026-09-22T18:40:05Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272013_w_550_364.jpg?v=20260922133955",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
