@@ -1,8 +1,119 @@
 {
-  "generated_at": "2026-09-28T14:41:47Z",
+  "generated_at": "2026-09-28T15:10:04Z",
   "story_count": 600,
-  "with_photo": 468,
+  "with_photo": 467,
   "items": [
+    {
+      "id": "67c3fdf2cdda34bc",
+      "title": "Pope Leo: Let Europe’s wounds be ‘openings through which light shines’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-let-europe-s-wounds-be-openings-through-which-light-shines",
+      "summary": "A Mass in Metz was the final event of the pontiff’s Sept. 25–28 trip to France.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T14:57:12Z",
+      "first_seen": "2026-09-28T15:10:04Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790606011/ewtn-news/en/WhatsApp_Image_2026-09-28_at_4.26.43_PM_l2mtfm.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5057960fc554e65d",
+      "title": "Boyz II Men & Lady-A Combine to Create New Song for Christian Series “The Chosen” – New Lyric Video out Now",
+      "link": "https://pathmegazine.com/articles/boyz-ii-men-lady-a-combine-to-create-new-song-for-christian-series-the-chosen-new-lyric-video-out-now/",
+      "summary": "The global hit series The Chosen is giving fans a new way to experience the story with Songs Inspired by The Chosen: Seasons 1–5, a new album … The post Boyz II Men & Lady-A Combine to Create New Song for Christian Series “The Chosen” – New Lyric Video out…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-28T14:48:56Z",
+      "first_seen": "2026-09-28T15:10:04Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c87776e0cc986ecb",
+      "title": "Kirk Franklin Reveals New Album ‘I Am What I Am’ & Song Featuring GloRilla",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkFoemVmU2xFVE12cVhEZUd3TFlDZDZyWTg0WmhPYzF0cUxQeXlVVVMtVFhWWmxvZGJRWTIydXVwcDdRWi1POWpxbUhLSXhTRndzRkRjd2hBZHlfejNlNVRZYjV0dmZvbWdnS2YteUdxVk9vSWZHcDdsMkFRaktHRDhJYWJJU3ZBcTVlUm91UDVUNkR3?oc=5",
+      "summary": "Kirk Franklin Reveals New Album ‘I Am What I Am’ & Song Featuring GloRilla Rapzilla",
+      "outlet": "Rapzilla",
+      "outlet_url": "https://rapzilla.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-28T14:45:25Z",
+      "first_seen": "2026-09-28T15:10:04Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/28104404/Kirk-Franklin-x-GloRilla-e1790606686280.jpeg",
+        "via": "og:image"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-09-29T03:10:04Z"
+    },
+    {
+      "id": "b52c0af7116b970b",
+      "title": "Noah’s Ark Researcher Reports Death Threats, Targeted Burglary",
+      "link": "https://mycharisma.com/news/noahs-ark-researcher-reports-death-threats-targeted-burglary/",
+      "summary": "Andrew Jones, founder of Noah’s Ark Scans, reportedly received repeated death threats before burglars ransacked his apartment and stole equipment believed to contain research from the Durupınar formation in eastern Turkey. Lauren Witzke, the organization’s…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T14:41:19Z",
+      "first_seen": "2026-09-28T15:10:04Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d410eb18261784e3",
+      "title": "Pope: The future of Europe is not found in uniformity but in the harmony of differences",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-in-metz-future-of-europe-not-found-in-uniformity-but-i.html",
+      "summary": "At the Cathedral of St. Stephen in Metz, Pope Leo celebrates Mass to close out his time in the city on the last day of his Apostolic Journey to France. In his homily, he stresses that choosing forgiveness and mercy over revenge and violence is not a path of…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T14:33:00Z",
+      "first_seen": "2026-09-28T15:10:04Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/28/2026-09-28-viaggio-apostolico-in-francia---santa-messa-cattedral/1790606121340.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7c1e248539a16b3",
+      "title": "Venue selected for beatification of Georgia Martyrs",
+      "link": "https://www.ewtnnews.com/world/us/venue-beatification-georgia-martyrs-savannah-convention-center",
+      "summary": "The beatification Mass will be said at the Savannah Convention Center at 11 a.m. on Oct. 31. No ticket is needed, but organizers said registration is required.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T14:00:00Z",
+      "first_seen": "2026-09-28T15:10:04Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1771529505/georgia.martyrs_d4zqwi.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "47790a7c5d49af05",
       "title": "Gifted Hands Joins Dax’s The Anger Management Tour",
@@ -10889,120 +11000,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272013_w_550_364.jpg?v=20260922133955",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "88376e21842c5a01",
-      "title": "Why AI resembles a charismatic religious leader",
-      "link": "https://religionnews.com/2026/09/22/why-ai-resembles-a-charismatic-religious-leader/",
-      "summary": "(The Conversation) — AI can function as a charismatic figure without standing on a stage, establishing a church or gathering disciples, writes a scholar of religion.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:39:10Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://images.theconversation.com/files/760618/original/file-20260917-50-e0o5sc.jpg?ixlib=rb-4.1.1&rect=0%2C34%2C5000%2C2812&q=45&auto=format&w=754&fit=clip",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bf50ad6e506356d1",
-      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
-      "link": "https://religionnews.com/2026/09/22/man-critically-injured-police-officer-wounded-in-gunfire-near-ontario-synagogue-on-yom-kippur/",
-      "summary": "TORONTO (AP) — Police have not said what led to the shooting or whether the synagogue or Jewish community was targeted.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:37:59Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://religionnews.com/wp-content/uploads/2024/09/RNS-logo-favicon@3x.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "89b9c3cc4b4d0bee",
-      "title": "Meloni plans to ban burqas and niqabs in Italian schools, and cap foreign students in classrooms",
-      "link": "https://religionnews.com/2026/09/22/meloni-plans-to-ban-burqas-and-niqabs-in-italian-schools-and-cap-foreign-students-in-classrooms/",
-      "summary": "ROME (AP) — Once approved by the government, the measure would need parliamentary approval within 60 days to pass into law.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:36:26Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-25.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c603b9e45a60f9e9",
-      "title": "Qur’an Chanted During Catholic Mass, Now Christians Are Turning Over Tables",
-      "link": "https://mycharisma.com/news/quran-chanted-during-catholic-mass-now-christians-are-turning-over-tables/",
-      "summary": "A Catholic university in Belgium included a Qur’an recitation during a Eucharistic celebration, igniting outrage over the growing effort to blur the boundaries between interfaith dialogue and Christian worship. KU Leuven opened its academic year with a Mass…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:32:43Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "60e84ecc5f95aa38",
-      "title": "Colorado State apologizes to BYU for derogatory chants as 11th-ranked Cougars beat Rams 41-23",
-      "link": "https://religionnews.com/2026/09/22/colorado-state-apologizes-to-byu-for-derogatory-chants-as-11th-ranked-cougars-beat-rams-41-23/",
-      "summary": "FORT COLLINS, Colo. (AP) — The school said that “mocking anyone’s faith has no place at CSU.” BYU is the flagship school for what's widely known as the Mormon church. The chants were predominantly pregame and coming from the student section.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:32:08Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-24-scaled.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "181f9c8b06c3e10e",
-      "title": "Thousands Turn on Archbishop of Canterbury as Explosive Church Controversy Deepens",
-      "link": "https://mycharisma.com/news/thousands-turn-on-archbishop-of-canterbury-as-explosive-church-controversy-deepens/",
-      "summary": "The firestorm surrounding Archbishop of Canterbury Sarah Mullally isn’t dying down. It’s spreading. What began as outrage over a controversial interfaith award presented on the 25th anniversary of 9/11 has now erupted into something much bigger: thousands are…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T16:27:45Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
