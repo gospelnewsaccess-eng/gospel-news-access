@@ -1,8 +1,135 @@
 {
-  "generated_at": "2026-09-28T20:40:21Z",
+  "generated_at": "2026-09-28T21:07:18Z",
   "story_count": 600,
-  "with_photo": 460,
+  "with_photo": 459,
   "items": [
+    {
+      "id": "c37815f97bd87d17",
+      "title": "J.R.R. Tolkien Is Getting a Memorial Beside His Old Friend C.S. Lewis in Westminster Abbey",
+      "link": "https://relevantmagazine.com/culture/books/j-r-r-tolkien-is-getting-a-memorial-beside-his-old-friend-c-s-lewis-in-westminster-abbey/",
+      "summary": "J.R.R. Tolkien and C.S. Lewis taught at Oxford together, read each other’s drafts at the pub and spent years arguing about stories, faith and pretty much everything else. Now they’re getting the same address. Westminster Abbey announced that Tolkien will be…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T21:01:45Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/tokien.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "51f1a1af70db6787",
+      "title": "A surprising number of Americans use AI for spiritual reasons. Here’s what they told us",
+      "link": "https://religionnews.com/2026/09/28/a-surprising-number-of-americans-use-ai-for-spiritual-reasons-heres-what-they-told-us/",
+      "summary": "(NPR) — The poll found that 11% of AI users have sought spiritual guidance from artificial intelligence, while 13% have used the technology to generate prayers, and 15% say they have used it to study Scripture.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T20:49:11Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2ea588dcda4d1fae",
+      "title": "Injured Polish priest urges ‘love,’ ‘forgiveness’ after deadly knife attack on convent",
+      "link": "https://www.ewtnnews.com/world/europe/priest-homily-after-convent-attack",
+      "summary": "Father Adrian Mantykiewicz, who was injured in an attack that left a fellow priest dead, said “we must overcome the evil that happened here.”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T20:40:00Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790604392/ewtn-news/es/SacerdoteUcrania_280926_lchfvt.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4ac22f4ecb73e942",
+      "title": "Israel is not an etrog. It doesn’t have to be flawless to be legitimate.",
+      "link": "https://religionnews.com/2026/09/28/israel-is-not-an-etrog-it-doesnt-have-to-be-flawless-to-be-legitimate/",
+      "summary": "(RNS) — A funny cartoon makes a point: Who of us could hold up against such incessant scrutiny?",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T20:33:42Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6c860996a683d8a8",
+      "title": "Weekly Christian Meme Roundup",
+      "link": "https://relevantmagazine.com/current/buzzworthy/weekly-christian-meme-roundup-3/",
+      "summary": "We’ve spent the week scrolling Christian Instagram so you don’t have to. This week’s haul includes worship-mode road rage, a very humble Moses and one funeral request we fully support. Here are the best Christian memes of the week. 1. Road rage is no match…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T20:26:01Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/memes0928.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f70a82255d827a3e",
+      "title": "Pope Leo says existential concerns about AI ‘should be taken seriously’",
+      "link": "https://religionnews.com/2026/09/28/pope-leo-says-existential-concerns-about-ai-should-be-taken-seriously/",
+      "summary": "ABOARD THE PAPAL PLANE (RNS) — 'If someone were to ask me, am I in panic mode? No, I sleep at night,' the pope said. But, he doesn’t believe the warnings regarding AI are 'fake news, as some have said.'",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T20:23:14Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/05/webRNS-Leo-Magnifica-Humanitas1.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "812d89ffddbb4345",
+      "title": "Highlights from Pope Leo's Apostolic Journey to France",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/video-highlights-pope-leo-last-day-in-france.html",
+      "summary": "Highlights from Pope Leo XIV's Apostolic Journey to France, including his meeting with President Macron, his visit to UNESCO, his Mass for 700,000 pilgrims in Paris, his prayer of the rosary with pilgrims in Lourdes, and his 'Roots of Europe' meeting in Metz…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T20:12:00Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/28/20/1790619381259.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "316ae17305f547ad",
       "title": "Pope Leo says he is not ‘in panic mode’ over AI dangers",
@@ -56,6 +183,44 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-29T08:40:21Z"
+    },
+    {
+      "id": "4273c8125bcafda8",
+      "title": "ACNA deposes breakaway bishop formerly in charge of chaplains group",
+      "link": "https://www.christianpost.com/news/acna-deposes-breakaway-bishop-acts-of-wickedness.html",
+      "summary": "The Anglican Church in North America (ACNA) has deposed a bishop who formerly led a chaplaincy group that tried to break away from the theologically conservative denomination.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T19:34:00Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272092_w_550_289_539_76.jpg?v=20260928153736",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "128e2980beb1030e",
+      "title": "'Obergefell is next': Katy Faust tells Pray Vote Stand Summit gay marriage is in sights to overturn",
+      "link": "https://www.christianpost.com/news/katy-faust-tells-pray-vote-stand-summit-obergefell-is-next.html",
+      "summary": "Katy Faust believes the fight over same-sex marriage is far from over, and she's looking to the U.S. Supreme Court for the next major battle.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T19:28:56Z",
+      "first_seen": "2026-09-28T21:07:18Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272091_w_550_310_565_130.jpg?v=20260928152914",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "f0bd63a5e2671132",
@@ -10812,174 +10977,6 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31059/the-odyssey.jpg",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "63d30d9bb601a190",
-      "title": "Ella Langley's \"Choosin' Texas\" Just Broke Mariah Carey's All-Time Billboard Record",
-      "link": "https://www.jubileecast.com/articles/39640/20260922/ella-langley-choosin-texas-breaks-billboard-record.htm",
-      "summary": "Ella Langley's \"Choosin' Texas\" Just Broke Mariah Carey's All-Time Billboard Record",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T00:12:11Z",
-      "first_seen": "2026-09-23T00:41:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30558/ella-langley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "afd48136b291df6d",
-      "title": "Princess Kate Just Revived a 103-Year-Old Royal Jewel at Tom Cruise's Movie Premiere",
-      "link": "https://www.jubileecast.com/articles/39639/20260922/kate-middleton-amethyst-necklace-digger-premiere.htm",
-      "summary": "Princess Kate Just Revived a 103-Year-Old Royal Jewel at Tom Cruise's Movie Premiere",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T00:05:20Z",
-      "first_seen": "2026-09-23T00:41:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31899/kate-middleton-and-prince-william.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f579683116cc5cf",
-      "title": "Simone Biles Reveals Masked Men Broke Into Her Chicago Home: Here's What They Stole",
-      "link": "https://www.jubileecast.com/articles/39638/20260922/simone-biles-chicago-home-robbery-porsche-stolen.htm",
-      "summary": "Simone Biles Reveals Masked Men Broke Into Her Chicago Home: Here's What They Stole",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T23:43:18Z",
-      "first_seen": "2026-09-23T00:41:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31897/simon-biles.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "698613a310ee9e5d",
-      "title": "Priest’s murder in Mexico may be warning to sow fear, priest says",
-      "link": "https://www.ewtnnews.com/world/americas/priest-s-murder-in-mexico-may-be-warning-to-sow-fear-priest-says",
-      "summary": "The Sept. 15 murder of Father Román de la Cruz Hernández was likely perpetrated by organized crime and is not an isolated incident but forms part of a pattern of fear and intimidation.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T23:20:44Z",
-      "first_seen": "2026-09-23T00:41:16Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790112931/ewtn-news/en/Misa-Padre-Roman-220926_ci13n3_umsw9c.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5ee9cdccfc6a6afa",
-      "title": "THE EVANGELICAL FILES: Daniel Whyte III Applauds Temporary Victory for Cindy Clemishire, but Still Questions Father’s Oversight in the Robert Morris Child Rape Case",
-      "link": "https://blackchristiannews.com/the-evangelical-files-daniel-whyte-iii-applauds-temporary-victory-for-cindy-clemishire-but-still-questions-fathers-oversight-in-the-robert-morris-child-rape-case/?utm_source=rss&utm_medium=rss&utm_campaign=the-evangelical-files-daniel-whyte-iii-applauds-temporary-victory-for-cindy-clemishire-but-still-questions-fathers-oversight-in-the-robert-morris-child-rape-case",
-      "summary": "Texas Supreme Court Temporarily Halts Dismissal of Cindy Clemishire’s Defamation Lawsuit Against Gateway Church and Robert Morris Pictured: The Texas The post THE EVANGELICAL FILES: Daniel Whyte III Applauds Temporary Victory for Cindy Clemishire, but Still…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-22T23:10:47Z",
-      "first_seen": "2026-09-23T00:09:05Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/image-12.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8ddebf57cd895b5e",
-      "title": "Judah Smith Is More Interested in Reaching the World Than Building a Bigger Church",
-      "link": "https://relevantmagazine.com/faith/why-judah-smith-is-more-interested-in-reaching-the-world-than-building-a-bigger-church/",
-      "summary": "Years ago, Judah Smith was reading Luke 7 when a detail stopped him. Jesus is eating at the home of Simon the Pharisee when a woman comes in, pours perfume on His feet and wipes them with her hair. Simon is scandalized. Jesus answers him, but Luke makes a…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T22:01:48Z",
-      "first_seen": "2026-09-22T22:36:42Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/judah2.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "90f07c54727674d8",
-      "title": "Texans have real reasons to be worried. Indian Americans enjoying football isn’t one of them.",
-      "link": "https://religionnews.com/2026/09/22/texans-have-real-reasons-to-be-worried-indian-americans-enjoying-football-arent-one-of-them/",
-      "summary": "(RNS) — All of us fans cheering on our team didn't know much about each other, but we wanted the same thing. Then, the reaction to a photo shared online told a different story.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T21:21:33Z",
-      "first_seen": "2026-09-22T21:36:51Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Hindu-Americans-Texas1-227x369.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "734f7b157e4832e9",
-      "title": "Bishop sees Pope Leo’s visit as bringing a ‘spiritual springtime’ to Uruguay",
-      "link": "https://www.ewtnnews.com/world/americas/bishop-sees-pope-leo-s-visit-as-bringing-a-spiritual-springtime-to-uruguay",
-      "summary": "Although church attendance is low and the society is quite s quite secularized, the president of Uruguay’s bishops’ conference believes Pope Leo’s visit will give a boost to the country’s spiritual renewal.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T21:07:02Z",
-      "first_seen": "2026-09-22T21:36:51Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790102291/ewtn-news/en/Troccoli_z1o2aa_yunhqd.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e09d251799a7e21a",
-      "title": "SKILLET's JOHN COOPER Says Some Of His Band's Christian Critics 'Believe That The Music Is Inherently Full Of The Power Of Satan'",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVEc4amlOUDRKaHliV09ldzdmdU9vR0o2NEowSFNvMFdPbEFydElhSzMwNGNNc092a3pSYjBhR1NpcVppQUxkX1RXcWstQzlKSkdXUHpqSmJKOUJ6ODVOOTRBTzVPSGlVWGZLQ3ZlN25oQXZIR0tmT3ppelRvdkRKZDVEVWdIazd3b19SSExtZGF1TWF4UVRrN2o3MWFJQlN3aFlhbzQ3Z2xPUWc5SGl2dlB4Yk5lMzlieDd4Vk8zMkFReGJCaGVfRm4zVG0yRWtQd2ZrLVEwektCUV9WSnVMcEtZN1gxMkNERU5F?oc=5",
-      "summary": "SKILLET's JOHN COOPER Says Some Of His Band's Christian Critics 'Believe That The Music Is Inherently Full Of The Power Of Satan' BLABBERMOUTH.NET",
-      "outlet": "BLABBERMOUTH.NET",
-      "outlet_url": "https://blabbermouth.net",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-22T21:04:02Z",
-      "first_seen": "2026-09-23T03:39:12Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
