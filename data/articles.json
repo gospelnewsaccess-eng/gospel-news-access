@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-28T12:45:51Z",
+  "generated_at": "2026-09-28T13:08:24Z",
   "story_count": 600,
-  "with_photo": 466,
+  "with_photo": 468,
   "items": [
+    {
+      "id": "c186dcb93288670c",
+      "title": "American Cardinal McElroy explores a Church for the Digital Age",
+      "link": "https://www.vaticannews.va/en/church/news/2026-09/american-cardinal-robert-mcelroy-explores-church-digital-age.html",
+      "summary": "The Cardinal Archbishop of Washington, D.C. calls for human dignity to guide the development of artificial intelligence and the treatment of migrants and refugees, urging solidarity and moral responsibility rooted in Catholic social teaching. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T12:56:00Z",
+      "first_seen": "2026-09-28T13:08:24Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2023/04/23/2023-04-23-presa-di-possesso-cardinal-robert-walter-mcelroy/1682253214417.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dcb6e220f7eae6ca",
+      "title": "Creative efforts for negotiation and the illusion of rearmament",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/editorial-tornielli-pope-leo-xiv-lourdes-metz-europe-rearmament.html",
+      "summary": "Our Editorial Director reflects on Pope Leo XIV’s call for Christians to pray the Rosary for peace and his invitation to “sacrifice certain positions for the greater good.” Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T12:21:00Z",
+      "first_seen": "2026-09-28T13:08:24Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/06/22/-2025-06-22-santa-messa--processione-a-santa-maria-maggiore-e-be/1750608727812.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8649dfa488ffde9f",
+      "title": "Christian social worker returns to Court of Appeal over employment discrimination",
+      "link": "https://www.christianpost.com/news/christian-social-worker-returns-to-court-over-job-discrimination.html",
+      "summary": "A Christian social worker who was denied a job after his prospective employer found Facebook posts he'd written in a chat about his views on marriage and sexuality has returned to the Court of Appeal.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T12:17:47Z",
+      "first_seen": "2026-09-28T13:08:24Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272086_w_550_412_549_196.jpg?v=20260928081735",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c70f88e69c30a126",
       "title": "Mighty Sparrow Dead At 91: Family Reveals His Final Moments As Calypso Loses Its King",
@@ -10946,57 +11003,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8544fbce3ff0cb38",
-      "title": "Photos: Lauren Daigle brings a soulful spark to the Washington State Fair",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlFXMGFRRm5uWWNTRGU5N0hmRjJMUkhNQkdKRHU3c0ZCMEw4T21RX3ZTUEtsWmxZQ3Vzdi1RRTc1eS12SHNFYTJvMWlxWjlJUTQ3UXY4bTFjTTVpMHdySnpyaTFVdTZlYmkwSHRmYk5lUy1XWndXdFN4TnhNc0RjSVJqblZlZXBuM1VVOUp1UHVRMzVUckdfLWNrdW1WQjJtU3NsbzJXRllRSWhaY3psYUoxY2ZWaHEtXzF5MWNBRndBeUI5dWRsTVJ0S3M0djNKSXlpdTdrSGd6cTRSYW1GdVkxeXNhSTZlV2k4Rjc3MWlyZ21RN0JRNU90aV9zWXRYQzc1QjVSNA?oc=5",
-      "summary": "Photos: Lauren Daigle brings a soulful spark to the Washington State Fair Seattle Refined",
-      "outlet": "Seattle Refined",
-      "outlet_url": "https://seattlerefined.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-22T15:43:29Z",
-      "first_seen": "2026-09-22T16:07:09Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-23T04:07:09Z"
-    },
-    {
-      "id": "773e463361b66f3f",
-      "title": "Photostory: Preserving ‘the sound and stories’ of Baltimore’s gospel tradition",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPV05zOURzNHhnNkZXWnlzODlmNEIzcXdNbzRjaHFMTGNkTzhJNENENFZXUjliUFdvOWMzYlIwNDBLMUNnbVNTdXEtTVZWVXBzcHVSRThGYXZ3YkhYMFdoVUxEa1J4UmZPYlU2cks3d3pKLVJpUXlsNGRJWE1UbXJYTGsyUEtoWW1XY2NVN2FzVXdmak1teGNYQmlvZS16Z0JpV1hz?oc=5",
-      "summary": "Photostory: Preserving ‘the sound and stories’ of Baltimore’s gospel tradition Baltimore Beat",
-      "outlet": "Baltimore Beat",
-      "outlet_url": "https://baltimorebeat.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-22T15:32:03Z",
-      "first_seen": "2026-09-22T17:36:34Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "26e76dbc0e3f05e0",
-      "title": "British teens rank lowest in life satisfaction for second time: study",
-      "link": "https://www.christianpost.com/news/british-teens-rank-lowest-for-life-satisfaction-for-second-time.html",
-      "summary": "Teenagers in Britain have been ranked the lowest for life satisfaction in a survey of 29 European countries for the second time in a row.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-22T15:21:20Z",
-      "first_seen": "2026-09-22T16:39:11Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272008_w_550_367.jpg?v=20260922112146",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
