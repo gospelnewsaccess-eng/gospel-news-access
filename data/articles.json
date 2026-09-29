@@ -1,8 +1,154 @@
 {
-  "generated_at": "2026-09-29T15:41:43Z",
+  "generated_at": "2026-09-29T16:09:20Z",
   "story_count": 600,
-  "with_photo": 461,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "fb79f6e91b6ac17a",
+      "title": "Mamdani releases plan to combat antisemitism as concerns linger over his criticism of Israel",
+      "link": "https://religionnews.com/2026/09/29/mamdani-releases-plan-to-combat-antisemitism-as-concerns-linger-over-his-criticism-of-israel/",
+      "summary": "NEW YORK (AP) — Mamdani said the overarching goal of the initiative was to “confront the scourge of antisemitism now and in the future.\"",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T16:07:13Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "470de5ef58b3f742",
+      "title": "Abducted by the LRA as a teen, he now turns to faith to heal his trauma",
+      "link": "https://religionnews.com/2026/09/29/abducted-by-the-lra-as-a-teen-he-now-turns-to-faith-to-heal-his-trauma/",
+      "summary": "NAIROBI (RNS) — More than 2,000 former LRA captives and returnees gathered in northern Uganda for prayer and reconciliation, confronting a painful question: How do communities receive people who are both victims and victimizers?",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:58:40Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-LRA-Kony2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1b136cb7d260a2bb",
+      "title": "Word of Faith religious group leader gets probation in assault case in North Carolina",
+      "link": "https://religionnews.com/2026/09/29/word-of-faith-religious-group-leader-gets-probation-in-assault-case-in-north-carolina/",
+      "summary": "Prosecutors said Word of Faith Fellowship leader Brooke Covington led a group of church members in 2013 who choked and beat a young man for two hours while they prayed to expel “homosexual demons.”",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:47:46Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "292197d74ddec04f",
+      "title": "Malawi: 125 years of faith, rooted in Christ, serving justice",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-09/malawi-125-years-of-faith-rooted-in-christ-serving-justice.html",
+      "summary": "Malawi has just celebrated 125 years since the Gospel first arrived. Years of faith have built schools, hospitals, and consciences, and it is still growing stronger. The Catholic Lawyers Association of Malawi (CLAM) recently organised what was dubbed a ‘Red…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:45:00Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/29/img-20260928-wa0099.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e6d96155e974b448",
+      "title": "Would-be attacker of 2025 DC Red Mass sentenced to 5 years",
+      "link": "https://www.ewtnnews.com/world/us/would-be-attacker-of-2025-dc-red-mass-sentenced-to-5-years",
+      "summary": "Louis Geri had previously pleaded guilty to federal charges after police said his attack was directed specifically at Catholics and Supreme Court justices.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:25:00Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778252173/ewtn-news/en/gavel_mjmf2t.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6caf7a1e26234046",
+      "title": "Lindsay Clancy Returns to Court as Defense Pushes to Dismiss Murder Case",
+      "link": "https://mycharisma.com/news/lindsay-clancy-returns-to-court-as-defense-pushes-to-dismiss-murder-case/",
+      "summary": "The Lindsay Clancy case is far from over. Nearly one month after her explosive murder trial ended in a mistrial, Clancy returned to a Massachusetts courtroom Tuesday. What happens next could send the case in several dramatically different directions…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:24:34Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "774e43965d386e8f",
+      "title": "Pastor Alerts Police After 87-Year-Old Allegedly Confesses to Killing Roommate",
+      "link": "https://mycharisma.com/news/pastor-alerts-police-after-87-year-old-allegedly-confesses-to-killing-roommate/",
+      "summary": "A Maryland pastor alerted authorities after an 87-year-old congregant allegedly came to church and confessed to killing his roommate, according to charging documents. Irwin Joseph Dickstein reportedly asked another man to drive him to Frederick Christian…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:23:38Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cffa303a5ff358f9",
+      "title": "Founder of Institutes of the Incarnate Word found guilty of abuse",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/vatican-trial-affirms-abuse-founder-institutes-incarnate-word.html",
+      "summary": "The Special Penal Tribunal of First Instance and the Appeals Tribunal have reached “moral certainty” of the late Argentine Father Carlos Miguel Buela guilt for acts constituting “an offence against the sixth commandment, committed with violence against…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T15:18:00Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/02/St.-Peter-Basilica.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "7141c69d09dbc5f4",
       "title": "The Sound of Inheritance: MASEGO Talks Music, Faith and Fix Your Face",
@@ -18,6 +164,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T03:10:25Z"
+    },
+    {
+      "id": "be0fa2ceb303f04b",
+      "title": "Logan Paul tells Bryce Crawford he ‘mocked God’ before ‘darkest time’ in his life",
+      "link": "https://www.christianpost.com/news/logan-paul-tells-bryce-crawford-he-mocked-god-before-suffering.html",
+      "summary": "Popular social media influencer Logan Paul told Christian evangelist, podcaster, and street missionary Bryce Crawford that the darkest time he has ever faced in his life was shortly after he publicly disrespected God.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T14:50:55Z",
+      "first_seen": "2026-09-29T16:09:20Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272098_w_550_315.jpg?v=20260929105053",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "a31eb99ac0377537",
@@ -10829,162 +10994,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "85b7a24a075c1066",
-      "title": "Michael Manhertz blends Gospel, reggae and calypso in new song",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUdXa2ZNanY4ZTl6REhXVThmWk9WZlB2RUR4NW1jNUx0WGZkSVZpNFhWQ0o1YXl3Sk1odG14YkJ0ckJuZHBONDhLdWZ5V2wxZzZOVFJKZDc5OTlHWkluNG9WaTNraHRiUGpFcVVNTXZ3bWplajRJekl2QlF1SWRPdEJOT2hfaWpnN3JYZXV2Z0Z0M2ROYlhBMkVhblE?oc=5",
-      "summary": "Michael Manhertz blends Gospel, reggae and calypso in new song CHVN Radio",
-      "outlet": "CHVN Radio",
-      "outlet_url": "https://www.chvnradio.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-23T16:32:21Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T04:39:59Z"
-    },
-    {
-      "id": "cfe3e300ff7a9ece",
-      "title": "HPUMC sought to be ‘legally insulated’ from UMC strife",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMlVhcS1tcjBuUkJ4b19VanctV0xFUFE5SlZBaU1nNV9UaHdMeWFiWHdlOFcycHQ5SXk4SzBZSVgxWUNGUFNMdm1nal9YLTBHZmxUOF9IdE1iUGNrM1psT0xXb184TVRnNjdyNEVqVDZDVEpOQnpJSE5na2hZS2RRdm1hOWxEbDMxTWpQZ0ln?oc=5",
-      "summary": "HPUMC sought to be ‘legally insulated’ from UMC strife Baptist News Global",
-      "outlet": "Baptist News Global",
-      "outlet_url": "https://baptistnews.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-23T16:13:48Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T04:39:59Z"
-    },
-    {
-      "id": "b85d72c50761f7c3",
-      "title": "John Warren: Politics, the vote and the Black church",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzU1l2d3FvaUhDSlh1NjhENGF1YXNYRkhVajFpVGZYUk5SOF9ZZ2VqYU5SWjhLLVkyN3NWVll0OWd6aFd0MzVBYmtGQ2tIOHVPdmdhTjh5VTVaZmtSSmZDRmJwZWN6bjQ?oc=5",
-      "summary": "John Warren: Politics, the vote and the Black church newpittsburghcourier.com",
-      "outlet": "newpittsburghcourier.com",
-      "outlet_url": "https://newpittsburghcourier.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-23T16:06:21Z",
-      "first_seen": "2026-09-29T02:38:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "32a54a3a55f05b4c",
-      "title": "Photos of the Week: Yom Kippur, a bishop’s ordination",
-      "link": "https://religionnews.com/2026/09/23/photos-of-the-week-yom-kippur/",
-      "summary": "(RNS) — Each week RNS presents a gallery of photos of religious expression around the world. This week’s photo selection includes Yom Kippur, a bishop's ordination and more.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T16:06:15Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webAP26260540213090.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6026222e2d5ea4ab",
-      "title": "‘Heart of the Beast’ director David Ayer says faith shaped Brad Pitt survival drama",
-      "link": "https://www.christianpost.com/news/david-ayer-faith-sacrifice-drive-heart-of-the-beast.html",
-      "summary": "Director David Ayer shared how his Christian faith shaped the themes of sacrifice and redemption at the heart of his new film “Heart of the Beast\" and reflected on how an orientation toward God can provide direction in a culture increasingly struggling to…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T16:00:28Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272032_w_550_368.jpg?v=20260923120558",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4f6a4de0d106a4b1",
-      "title": "Fear-Driven Churches Create Three Kinds of Christians",
-      "link": "https://www.christianitytoday.com/2026/09/fear-churches-christians-spiritual-abuse/",
-      "summary": "This piece was adapted from Russell Moore’s newsletter. Subscribe here. Last week, I taught a university class on respect for the conscience. One smart young student talked to me afterward and said she sometimes had difficulty telling the difference between…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T15:56:14Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/23-sep.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ccbe92e1c659ddd2",
-      "title": "Gospel Singer Nutty Josh Dies After Reported Weeks In Coma",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFNPLVd2UDlEQl9DaHRvSmxPUXFMVDZ5eXFWMjVvR0ZnNURrOUNqZ1RBRzBaNC1zR19MVE02NEIzYlFMNlNhN2xTbDBVNW9mNzFRQVplTWxadUY0WnFnRXBnLWd2d1dUTk9xZEYyZmRoOWxOS0ZULXl6RVloOUtaYzVtRmNJeHRR?oc=5",
-      "summary": "Gospel Singer Nutty Josh Dies After Reported Weeks In Coma LEADERSHIP Newspapers",
-      "outlet": "LEADERSHIP Newspapers",
-      "outlet_url": "https://leadership.ng",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-23T15:47:37Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T04:39:59Z"
-    },
-    {
-      "id": "d4174c16a2756109",
-      "title": "David Ayer says ‘Heart of the Beast’ reflects faith, sacrifice, hope",
-      "link": "https://www.christianpost.com/video/david-ayer-says-heart-of-the-beast-reflects-faith-sacrifice.html",
-      "summary": "Director David Ayer shares how his Christian faith shaped “Heart of the Beast,” a story exploring sacrificial love, perseverance, redemption and the emotional cost of military service.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T15:46:34Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272033_w_550_320.jpg?v=20260923120429",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "aa9e7d259d3fbe8c",
-      "title": "Lagos' Christian Rave and the Battle for the Dance Floor",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQajhGWVNzNjlFbFhMbjZvR242bFZxbHI5VXRwMmpIaDlEeG42QWFXZU5DTk8tNmxkelpyckJTcFNjZU1BemJXbGRES3JlR3pQQk5WblJCNkRibms5emlPSUx3OHJwa1hxVk8zWXRpbktRVmt1ZnE5dzBfMlhlejNXZGt1M2NfcGQyOFVDektpY0NfVUI5?oc=5",
-      "summary": "Lagos' Christian Rave and the Battle for the Dance Floor OkayAfrica",
-      "outlet": "OkayAfrica",
-      "outlet_url": "https://www.okayafrica.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-23T15:44:57Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T04:39:59Z"
     }
   ]
 }
