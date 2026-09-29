@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T02:06:51Z",
+  "generated_at": "2026-09-29T02:38:46Z",
   "story_count": 600,
-  "with_photo": 458,
+  "with_photo": 457,
   "items": [
     {
       "id": "6039212511b9e488",
@@ -9981,6 +9981,22 @@
       "breaking_expires_at": "2026-09-24T04:39:59Z"
     },
     {
+      "id": "b85d72c50761f7c3",
+      "title": "John Warren: Politics, the vote and the Black church",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzU1l2d3FvaUhDSlh1NjhENGF1YXNYRkhVajFpVGZYUk5SOF9ZZ2VqYU5SWjhLLVkyN3NWVll0OWd6aFd0MzVBYmtGQ2tIOHVPdmdhTjh5VTVaZmtSSmZDRmJwZWN6bjQ?oc=5",
+      "summary": "John Warren: Politics, the vote and the Black church newpittsburghcourier.com",
+      "outlet": "newpittsburghcourier.com",
+      "outlet_url": "https://newpittsburghcourier.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-23T16:06:21Z",
+      "first_seen": "2026-09-29T02:38:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "32a54a3a55f05b4c",
       "title": "Photos of the Week: Yom Kippur, a bishop’s ordination",
       "link": "https://religionnews.com/2026/09/23/photos-of-the-week-yom-kippur/",
@@ -10953,25 +10969,6 @@
       "first_seen": "2026-09-23T07:38:59Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31904/za-darius-smith.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "04c3b05de4d2d16b",
-      "title": "Sharia law vs. the US Constitution: Texas is a warning America can't ignore",
-      "link": "https://www.christianpost.com/voices/sharia-law-vs-the-us-constitution-texas-is-a-warning-to-america.html",
-      "summary": "America has not become a Sharia-governed nation, and that is exactly why this moment matters. The question is whether we set the constitutional boundary before competing authority takes root.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T07:30:27Z",
-      "first_seen": "2026-09-23T10:38:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272025_w_550_371_430_283.jpg?v=20260923061121",
         "via": "media:content"
       },
       "breaking": false,
