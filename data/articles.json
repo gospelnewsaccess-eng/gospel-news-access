@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-29T18:43:01Z",
+  "generated_at": "2026-09-29T19:08:16Z",
   "story_count": 600,
-  "with_photo": 463,
+  "with_photo": 464,
   "items": [
+    {
+      "id": "b723592b658d492d",
+      "title": "Federal appeals court says historic cross, Nativity can remain in Los Angeles public square",
+      "link": "https://www.ewtnnews.com/world/us/federal-appeals-court-says-historic-cross-can-remain-in-los-angeles-public-square",
+      "summary": "Local merchants had rallied to save the historic monument alongside a Nativity display in Los Angeles’ 300-year-old historic center.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T18:45:00Z",
+      "first_seen": "2026-09-29T19:08:16Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787755818/ewtn-news/en/RckMEQwQ_qc6abi.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e6952d930da5291c",
+      "title": "From Historic US Revival Site to Jerusalem, Christians Rally for Communion 250: ‘Mighty Move of God’",
+      "link": "https://mycharisma.com/news/from-historic-us-revival-site-to-jerusalem-christians-rally-for-communion-250-mighty-move-of-god/",
+      "summary": "Christians around the world gathered in 156 locations to take communion at college campuses, state capitols, public parks, and open fields where they worshipped, prayed, and evangelized for up to 50 hours. Fifty people gave their lives to Jesus Christ in…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T18:18:13Z",
+      "first_seen": "2026-09-29T19:08:16Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-152935.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cd1beaf7a07e1b2f",
+      "title": "Federal court rules in favor of Oklahoma Jewish charter school amid public funding lawsuit",
+      "link": "https://www.ewtnnews.com/world/us/federal-court-rules-in-favor-of-oklahoma-jewish-charter-school-amid-public-funding-lawsuit",
+      "summary": "A Catholic charter school had previously brought a similar lawsuit against the state but had failed to secure a ruling from the Supreme Court.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T18:05:00Z",
+      "first_seen": "2026-09-29T19:08:16Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790687803/ewtn-news/en/JfqId8ty-2_qrfap7.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "94fa993e85f3ca9e",
       "title": "Repent for Eating Beef? Senate Candidate’s Climate Sermon Resurfaces Amid Campaign Scrutiny",
@@ -10933,60 +10990,6 @@
       "first_seen": "2026-09-23T20:37:38Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272026_w_550_367_620_313.jpg?v=20260923155737",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0438f0c5e9163062",
-      "title": "Christian Music Star Brandon Lake Opens Up About Success, Mental Health, Family Life, and Faith",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVkJVbTFtT3JvQVE5VEFldFBsczRDVk9ZRzFjdXNNdVJkZnlHVWNMRGJTUnpGalUwOHlzRHEtblpEZk1nc2hBU1FtS3pRaVJfVkVtT3VnbVpLRzI4RVY4NmZkV2RrOWhBZ2luZEZBc2FRU2dWZG9FVWR5UTNrbEJfaTZMYWlIOXZTTW9XWWhOSnFWb0VzLUNEdlFLelE4dWU2Z0oyZV9YM2U?oc=5",
-      "summary": "Christian Music Star Brandon Lake Opens Up About Success, Mental Health, Family Life, and Faith Nashville Lifestyles",
-      "outlet": "Nashville Lifestyles",
-      "outlet_url": "https://nashvillelifestyles.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-23T19:30:00Z",
-      "first_seen": "2026-09-23T19:37:47Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T07:37:47Z"
-    },
-    {
-      "id": "1453cc55e44814bf",
-      "title": "LIVE UPDATES: Beatification of Fulton Sheen",
-      "link": "https://www.ewtnnews.com/world/us/live-updates-beatification-of-fulton-sheen",
-      "summary": "Follow here for live updates of the beatification of Fulton Sheen.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T19:15:20Z",
-      "first_seen": "2026-09-23T19:37:47Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790182989/ewtn-news/en/FultonSheenMuseum1092326_jwaj5b.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cde06a9e8fa7639b",
-      "title": "Gov. Andy Beshear invokes faith to defend veto of 'anti-trans' bill, slams JD Vance's Christianity",
-      "link": "https://www.christianpost.com/news/andy-beshear-invokes-faith-to-defend-veto-of-anti-trans-bill.html",
-      "summary": "Kentucky’s Democratic Gov. Andy Beshear has suggested that opposition to taxpayer funding of trans procedures for minors that cause irreversible harm, such as infertility and impaired sexual function, is un-Christian.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T18:51:51Z",
-      "first_seen": "2026-09-23T19:37:47Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272037_w_550_361_624_199.jpg?v=20260923151106",
         "via": "media:content"
       },
       "breaking": false,
