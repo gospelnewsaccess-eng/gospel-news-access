@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T16:09:20Z",
+  "generated_at": "2026-09-29T16:41:25Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 463,
   "items": [
     {
       "id": "fb79f6e91b6ac17a",
@@ -356,6 +356,22 @@
         "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Wisconsin-Pastor10-092826.jpg",
         "via": "content:encoded"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "88c02536f0b843aa",
+      "title": "Short Film 'Sam's Hail Mary' Explores Colorism in the Black Church, Launches Seed & Spark Fundraiser",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNczR1WTU5dE5QQjRlc0g1OENVQjdxejc3WjY2T21peFpFLU9uSldNeHYzdlAzTnZQQ1dLbVVQVnk2bWhLS2p4WlFlMkJIWFNQeThmWFd0Y2REdFdJX2ZxeEU3enBVWVhfRlYwNzlieTFaeVhWWVVxdWFQUVpNOFEteXpTNTNnek03eEJ4cllxSGU1d1JtNjNESVBjVko3Zw?oc=5",
+      "summary": "Short Film 'Sam's Hail Mary' Explores Colorism in the Black Church, Launches Seed & Spark Fundraiser Blex Media",
+      "outlet": "Blex Media",
+      "outlet_url": "https://blexmedia.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-29T13:13:42Z",
+      "first_seen": "2026-09-29T16:41:25Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10975,25 +10991,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-24T05:37:23Z"
-    },
-    {
-      "id": "b8a81a1c5548bd4c",
-      "title": "Missionary’s Killer Denied Early Release Amid Christian Calls for Justice",
-      "link": "https://mycharisma.com/news/missionarys-killer-denied-early-release-amid-christian-calls-for-justice/",
-      "summary": "Odisha officials have rejected the premature release of the man serving life in prison for the 1999 murders of Australian missionary Graham Staines and his two young sons. The State Sentence Review Board refused to recommend remission for Rabindra Kumar Pal…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T16:43:41Z",
-      "first_seen": "2026-09-23T16:39:59Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
