@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:07:05Z",
+  "generated_at": "2026-09-29T22:39:02Z",
   "story_count": 600,
   "with_photo": 456,
   "items": [
@@ -1229,6 +1229,22 @@
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/29/whatsapp-image-2026-09-29-at-09-32-43.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e2aad6c2e0100a5c",
+      "title": "Sexual abuse trial begins for son of New Albany megachurch leaders",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPLWoya25pcXRhczlWOWFDekZYQmVUTVVJUzYwb2FGbWRDSXZMQjdZT1JKSlhFU1JndDZhZ3EzZmZteUJyc3phOWRibnNXcExObTc3YkdrQUZsRWNvMzIxZ0h4SjhOX3ZWY0Q5dUZaSHhrOFB4TW9zZkZiTjc0alNGVk1jWUFXVHlxOEp5LVQ4Y0ktV2ppRkhfNG9QV1FsMVg5U1I1SHFKZmZhX1ZQNTN6TUE1R0dnNU92MjVCRjJheGZfc1dYR29qc1NDcVppQUNUVmFaQlJwbw?oc=5",
+      "summary": "Sexual abuse trial begins for son of New Albany megachurch leaders 10TV",
+      "outlet": "10TV",
+      "outlet_url": "https://www.10tv.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-29T12:09:00Z",
+      "first_seen": "2026-09-29T22:39:02Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10954,22 +10970,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-24T12:08:40Z"
-    },
-    {
-      "id": "41456c1d1c976238",
-      "title": "If You Are With Me, I’m Not Afraid 🙏 | Powerful Gospel Worship Song.🔥 🙏✨",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE81MVZwSkhralY2MEF2a1UzTHM4YklPdk1jNko0Zk5tRDB0bXhRMHplLXRCMTFLMmdzS2RNM2pZZXFWZw?oc=5",
-      "summary": "If You Are With Me, I’m Not Afraid 🙏 | Powerful Gospel Worship Song.🔥 🙏✨ YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-23T23:33:06Z",
-      "first_seen": "2026-09-24T00:42:27Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T12:42:27Z"
     }
   ]
 }
