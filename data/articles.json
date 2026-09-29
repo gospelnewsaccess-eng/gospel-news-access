@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-29T19:08:16Z",
+  "generated_at": "2026-09-29T19:39:32Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 462,
   "items": [
+    {
+      "id": "0940b262aeb70cda",
+      "title": "How Toronto Jews spread the Gospel of ‘Godspell’",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUZXUFlYZ0h4MlZ3YkdVSXBsVGkyTHhLbHNUd2xza0xscHM2ZlU3WjFiQmIwRUx4SDhmajYxYnFnb1U5VW9hbG5HRnFrQjMyZnRsNnF3V1lfeHBHZE9wbkxKRzZNWkVOYU4xLXdBTF9kOGNSbl9jV3gwcmFneFJOa09vMm1PUjdybWE4dS1lMHJqLXpkLTFvZDNYUE5zRDhPQUIxUTRn?oc=5",
+      "summary": "How Toronto Jews spread the Gospel of ‘Godspell’ The Forward",
+      "outlet": "The Forward",
+      "outlet_url": "https://forward.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-29T18:51:45Z",
+      "first_seen": "2026-09-29T19:39:32Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-30T07:39:32Z"
+    },
     {
       "id": "b723592b658d492d",
       "title": "Federal appeals court says historic cross, Nativity can remain in Los Angeles public square",
@@ -21,6 +37,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "8afc52d9534c0ec6",
+      "title": "Final Lineup Announced for the 57th Annual GMA Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0hSZVVUb25iZFFrdE9KcUc0WC1WZ3BSNXViQjgxeEZXcHRxa2pQNGgyemQ3aWJGY1lia3NBWEJfcmpIaEpBelUxX0JUUC1QYl9nZjVfTkYyWnk1NlBrQUFJYUZ0bTA4cHphWFZkVDRQTkdVVmpiRG1CT3VqTllSV2VTUWw1UllHbEtZVldyZ1I?oc=5",
+      "summary": "Final Lineup Announced for the 57th Annual GMA Dove Awards Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-29T18:33:45Z",
+      "first_seen": "2026-09-29T19:39:32Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-30T07:39:32Z"
     },
     {
       "id": "e6952d930da5291c",
@@ -10952,44 +10984,6 @@
       "first_seen": "2026-09-23T20:37:38Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/21905/christine-caine.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cf595bab0a866868",
-      "title": "Dolly Parton Reportedly Allowed One Person at Her Deathbed --- Find Out Who",
-      "link": "https://www.jubileecast.com/articles/39657/20260923/dolly-parton-reportedly-allowed-one-person-at-her-deathbed-find-out-who.htm",
-      "summary": "Dolly Parton Reportedly Allowed One Person at Her Deathbed --- Find Out Who",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T19:49:30Z",
-      "first_seen": "2026-09-23T20:37:38Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31571/dolly-parton.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1c1b6421b574f059",
-      "title": "James Talarico's church houses illegal immigrant, minister says; Paxton responds",
-      "link": "https://www.christianpost.com/news/talaricos-church-houses-illegal-immigrant-pastor-says.html",
-      "summary": "A minister at the longtime Texas congregation of Democratic U.S. Senate nominee James Talarico says the church is a “sanctuary church” that houses someone who is in the United States illegally, prompting his Republican opponent to claim the church \"harbors…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T19:48:39Z",
-      "first_seen": "2026-09-23T20:37:38Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272026_w_550_367_620_313.jpg?v=20260923155737",
         "via": "media:content"
       },
       "breaking": false,
