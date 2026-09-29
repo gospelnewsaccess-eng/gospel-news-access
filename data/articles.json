@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T00:10:01Z",
+  "generated_at": "2026-09-29T00:44:41Z",
   "story_count": 600,
-  "with_photo": 459,
+  "with_photo": 458,
   "items": [
     {
       "id": "a3d6a90beded668e",
@@ -76,6 +76,22 @@
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/sleep-scaled.jpg",
         "via": "og:image"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "67ab3b8d784407cb",
+      "title": "Take My Broken Heart, Jesus ❤️‍🩹 | Powerful Christian Gospel Worship Song for Healing & Peace.",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52YWd2dzQ5ZWVzSlRUekFfaUpGaTZoRlhNTTY3NEx2UnVBZFd0dGI5cExsUHlIVWRjVmdUUjFtU0tIQQ?oc=5",
+      "summary": "Take My Broken Heart, Jesus ❤️‍🩹 | Powerful Christian Gospel Worship Song for Healing & Peace. YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-28T23:03:59Z",
+      "first_seen": "2026-09-29T00:44:41Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10956,25 +10972,6 @@
       "first_seen": "2026-09-23T06:42:04Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/19316/tim-keller.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2fbda06099bd2f40",
-      "title": "Album Review: Chris Tomlin’s \"Still Waters\" Finds Room for Worship in the Quiet",
-      "link": "https://www.jubileecast.com/articles/39646/20260923/album-review-chris-tomlin-s-still-waters-finds-room-for-worship-in-the-quiet.htm",
-      "summary": "Chris Tomlin’s Still Waters Finds Room for Worship in the Quiet",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T05:54:19Z",
-      "first_seen": "2026-09-23T06:42:04Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31903/chris-tomlin.jpeg",
         "via": "media:content"
       },
       "breaking": false,
