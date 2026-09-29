@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-29T20:08:06Z",
+  "generated_at": "2026-09-29T20:40:23Z",
   "story_count": 600,
-  "with_photo": 461,
+  "with_photo": 459,
   "items": [
+    {
+      "id": "1a42ea3ac49e3bac",
+      "title": "Jackie Patillo Reveals What to Expect at the 57th Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMFgzdHBERXo2S2tCWUFBRlFYVHRLSjVRczVwZTVJNU10eXQybm9kb3FEM20zQWxCcGpnVmJDS1oxNXNSODZMN0ZzV0dUZXBnOU9nT0RaV1VVel90OXNzMkEtcjQ1dkpZZ3I5SGo2a3RXSXQ1ajEwejExa1NYTHM3SzZ6OGdBZ2F3VFpfUWFfWWdVTU5QMmViRA?oc=5",
+      "summary": "Jackie Patillo Reveals What to Expect at the 57th Dove Awards Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-29T20:26:51Z",
+      "first_seen": "2026-09-29T20:40:23Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-30T08:40:23Z"
+    },
     {
       "id": "62f6e04a84939a53",
       "title": "Latest Update on the Caleb Flynn Trial: What Did The Ex-Pastor Mean By “It Didn’t Happen The Way We Thought”?",
@@ -21,6 +37,22 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "51b48d66ad7827ac",
+      "title": "The 57th Annual GMA Dove Awards: Final Lineup Includes Brandon Lake, Elevation Worship, & More",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWTN2Z1pjRExWV2llNEdhU3NJLTFRbW5oZnBpU0pXLVc2ZGh6SFEya0c2SXNaYU1IN0FlclE1RGZ2V2RLZ1RPakF3ZzBPY0hBcnQ2Z1pER0EyTmtrcXVHOVFvV2lNMkJvdGdRaU9JRU02Z0NXcU1MLWxFOEpGQllxMXB1TVBzbFBwa09sYnd1VGpIR1dMb1k0NGlLakxMWTBDXzVuQ1BkM25pVTQtLU9fY2NXbDFEcXh2OG9LdmR0WF9lTDk5cG0w?oc=5",
+      "summary": "The 57th Annual GMA Dove Awards: Final Lineup Includes Brandon Lake, Elevation Worship, & More Pollstar News",
+      "outlet": "Pollstar News",
+      "outlet_url": "https://news.pollstar.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-29T20:07:04Z",
+      "first_seen": "2026-09-29T20:40:23Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-30T08:40:23Z"
     },
     {
       "id": "7fc8fa04a6ae5bda",
@@ -10944,44 +10976,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272038_w_550_313.jpg?v=20260923162831",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "726d8ae191fd71ff",
-      "title": "Carly Ann Taylor Says Her Brother’s Unexpected Call Changed Her Life. What Happened When She Left Hawaii?",
-      "link": "https://www.jubileecast.com/articles/39663/20260923/carly-ann-taylor-says-her-brother-s-unexpected-call-changed-her-life-what-happened-when-she-left-hawaii.htm",
-      "summary": "Carly Ann Taylor Says Her Brother’s Unexpected Call Changed Her Life. What Happened When She Left Hawaii?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T20:20:48Z",
-      "first_seen": "2026-09-23T20:37:38Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31768/carly-ann-taylor.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c5bb5066dd0a1f6d",
-      "title": "Israeli Ambassador to US’ Son Fighting for His Life After Terror Attack",
-      "link": "https://mycharisma.com/news/israeli-ambassador-to-us-son-fighting-for-his-life-after-terror-attack/",
-      "summary": "IDF reservist Neria Leiter, the son of Israel’s ambassador to the United States, was seriously wounded Wednesday in a car-ramming terrorist attack near the Maccabim checkpoint on Route 443, according to a report from The Jerusalem Post. Leiter, an American…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T20:16:32Z",
-      "first_seen": "2026-09-23T20:37:38Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
