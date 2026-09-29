@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T06:09:24Z",
+  "generated_at": "2026-09-29T06:45:26Z",
   "story_count": 600,
-  "with_photo": 456,
+  "with_photo": 455,
   "items": [
     {
       "id": "bcd8efec9d046d65",
@@ -54,6 +54,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30728/nancy-guthrie.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "15a8e87938bd9df9",
+      "title": "‘A living testimony’: Black gospel history lives on at Baylor with expansion",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hb3BjVHhkTVRla3huUkFRcjN4cUNERFVuT1h4aHRsSVNhalh0YzhNUEZtQmZrcWR1cVRzRUdvWHd4M2VRNFZUNVYwZVcxS1FIUUHSAVpBVV95cUxQU0tuYXl5V0xhNGxNZHUtdnNrbC11RFRlcHN0S1VNNnpQTk5Va3YtdmIzR2pNRnMwZDdYMXZ5RU1yTlBzUi1hRXEtZWlxb3NCZW1OZGdyb1ZONFE?oc=5",
+      "summary": "‘A living testimony’: Black gospel history lives on at Baylor with expansion The Baylor Lariat",
+      "outlet": "The Baylor Lariat",
+      "outlet_url": "https://baylorlariat.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-29T04:29:25Z",
+      "first_seen": "2026-09-29T06:45:26Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10947,25 +10963,6 @@
       "first_seen": "2026-09-23T10:38:53Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31036/matthew-west.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ec6ac7126e385a2",
-      "title": "The Voice’s Final Premiere Night Is Tonight: Who Will Win the Blind Auditions’ Biggest Showdown?",
-      "link": "https://www.jubileecast.com/articles/39654/20260923/the-voice-s-final-premiere-night-is-tonight-who-will-win-the-blind-auditions-biggest-showdown.htm",
-      "summary": "The Voice’s Final Premiere Night Is Tonight: Who Will Win the Blind Auditions’ Biggest Showdown?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T09:47:22Z",
-      "first_seen": "2026-09-23T10:38:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31908/the-voice.jpg",
         "via": "media:content"
       },
       "breaking": false,
