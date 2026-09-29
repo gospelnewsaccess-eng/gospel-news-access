@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:38:28Z",
+  "generated_at": "2026-09-29T02:06:51Z",
   "story_count": 600,
   "with_photo": 458,
   "items": [
@@ -3657,6 +3657,22 @@
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790197402/ewtn-news/en/bb94b293-9d00-46a1-b4da-5daba09a346b_tq4dh2.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "abcfd1ada19832f3",
+      "title": "Tank is giving fans more than an album- he’s giving an “Experience”",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmphZU13REhFVlB0YV94Yms1M2Q4NjRVOEZ3eVhNOGcybVpYQk5iOWZFTnowVDZ6SkdKOUp3SHRZNHZVZmFzNVVSVmZkRFhoRl9GUjIzMXVxVzRtRHlDbm1ZaEdiLWV6ZjRNXy1WXzRiY1pTOVNtT21xcXlrQlB4ZXJhNWM1b1NnVTI0T1lxMHY0TkRMTTE2T3Fn?oc=5",
+      "summary": "Tank is giving fans more than an album- he’s giving an “Experience” ThisisRnB.com",
+      "outlet": "ThisisRnB.com",
+      "outlet_url": "https://thisisrnb.com",
+      "source_feed": "Google News: Zacardi Cortez",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-26T16:58:43Z",
+      "first_seen": "2026-09-29T02:06:51Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10958,22 +10974,6 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272025_w_550_371_430_283.jpg?v=20260923061121",
         "via": "media:content"
       },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b85d72c50761f7c3",
-      "title": "John Warren: Politics, the vote and the Black church",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzU1l2d3FvaUhDSlh1NjhENGF1YXNYRkhVajFpVGZYUk5SOF9ZZ2VqYU5SWjhLLVkyN3NWVll0OWd6aFd0MzVBYmtGQ2tIOHVPdmdhTjh5VTVaZmtSSmZDRmJwZWN6bjQ?oc=5",
-      "summary": "John Warren: Politics, the vote and the Black church New Pittsburgh Courier",
-      "outlet": "New Pittsburgh Courier",
-      "outlet_url": "https://newpittsburghcourier.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-23T07:00:00Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     }
