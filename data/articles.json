@@ -1,8 +1,217 @@
 {
-  "generated_at": "2026-09-29T10:41:40Z",
+  "generated_at": "2026-09-29T11:07:29Z",
   "story_count": 600,
-  "with_photo": 456,
+  "with_photo": 461,
   "items": [
+    {
+      "id": "16e5cf6abde8191d",
+      "title": "Madonna’s VMAs Backlash Raises a Question for Christians: What Does It Mean to Age Gracefully?",
+      "link": "https://www.jubileecast.com/articles/39814/20260929/madonna-s-vmas-backlash-raises-a-question-for-christians-what-does-it-mean-to-age-gracefully.htm",
+      "summary": "Madonna’s VMAs Backlash Raises a Question for Christians: What Does It Mean to Age Gracefully?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T11:05:48Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31982/madonna.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f25f233fbe191abc",
+      "title": "Mexico commemorates 500th anniversary of Child Martyrs",
+      "link": "https://www.ewtnnews.com/world/americas/mexico-commemorates-500th-anniversary-of-child-martyrs",
+      "summary": "The first martyrs of the Americas were not missionary priests but three young Indigenous boys in Mexico who sought to spread the faith they were taught and embraced 500 years ago.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T11:00:00Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790617249/ewtn-news/en/TLAXCALTECAS24926_lc7sjk_xoybml.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1f2897f175eb93ff",
+      "title": "Cindy Crawford And Rande Gerber Face A Painful Question: How Do They Honor Presley While Protecting Their Grief?",
+      "link": "https://www.jubileecast.com/articles/39813/20260929/cindy-crawford-and-rande-gerber-face-a-painful-question-how-do-they-honor-presley-while-protecting-their-grief.htm",
+      "summary": "Cindy Crawford And Rande Gerber Face A Painful Question: How Do They Honor Presley While Protecting Their Grief?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:54:59Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31889/presley-gerber.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c6f4e60389160da5",
+      "title": "Darlene Zschech Urges Christians to Expect a “Suddenly”—But What About Those Still Waiting?",
+      "link": "https://www.jubileecast.com/articles/39812/20260929/darlene-zschech-urges-christians-to-expect-a-suddenly-—but-what-about-those-still-waiting.htm",
+      "summary": "Darlene Zschech Urges Christians to Expect a “Suddenly”—But What About Those Still Waiting?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:46:52Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31453/darlene-zschech.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "13f7a1d170c995ce",
+      "title": "Lindsay Lohan and Henry Golding Are Headed for Romance—but Is Her Biggest Reunion Behind the Camera?",
+      "link": "https://www.jubileecast.com/articles/39811/20260929/lindsay-lohan-and-henry-golding-are-headed-for-romance—but-is-her-biggest-reunion-behind-the-camera.htm",
+      "summary": "Lindsay Lohan and Henry Golding Are Headed for Romance—but Is Her Biggest Reunion Behind the Camera?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:43:05Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30956/lindsay-lohan.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ff0bf45854dc1fe7",
+      "title": "Kirk Cameron Asks Why Christians Chase Applause When God Looks at the Heart",
+      "link": "https://www.jubileecast.com/articles/39810/20260929/kirk-cameron-asks-why-christians-chase-applause-when-god-looks-at-the-heart.htm",
+      "summary": "Kirk Cameron Asks Why Christians Chase Applause When God Looks at the Heart",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:37:44Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23410/kirk-cameron.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cbf5c46fd8410566",
+      "title": "Hayden Panettiere’s Missing Jewelry and Allegedly Deleted Emails: Why Wladimir Klitschko Wants Urgent Court Authority",
+      "link": "https://www.jubileecast.com/articles/39809/20260929/hayden-panettiere-s-missing-jewelry-and-allegedly-deleted-emails-why-wladimir-klitschko-wants-urgent-court-authority.htm",
+      "summary": "Hayden Panettiere’s Missing Jewelry and Allegedly Deleted Emails: Why Wladimir Klitschko Wants Urgent Court Authority",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:35:12Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31601/hayden-panettiere.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3992e0432eb8d37b",
+      "title": "Sr. Nathalie Becquart: Pope Leo’s Visit to France, a 'moment of grace'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/conclusive-interview-pope-leo-xiv-apostolic-journey-to-france.html",
+      "summary": "In an interview with Vatican News as Pope Leo's Apostolic Journey to France came to an end, Sister Nathalie Becquart, Undersecretary of the General Secretariat of the Synod of Bishops, reflects on the Pope’s journey, its impact, and his message of peace and…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T10:27:52Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/28/r-nathalie-becquart-a-metz.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8f869f4ff29784ea",
+      "title": "Eric Idle Has “No Sympathy” For Nick Reiner As Fight Over Family Money Intensifies",
+      "link": "https://www.jubileecast.com/articles/39807/20260929/eric-idle-has-no-sympathy-for-nick-reiner-as-fight-over-family-money-intensifies.htm",
+      "summary": "Eric Idle Has “No Sympathy” For Nick Reiner As Fight Over Family Money Intensifies",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:13:53Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31980/eric-idle.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "afc94fde8c45fcf8",
+      "title": "Switchfoot Extends \"Forever Now Tour\" With 2027 European Dates",
+      "link": "https://www.jubileecast.com/articles/39805/20260929/switchfoot-extends-forever-now-tour-2027-european-dates.htm",
+      "summary": "Switchfoot Extends \"Forever Now Tour\" With 2027 European Dates",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:12:05Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31978/switchfoot.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c3e6176cf699ecf8",
+      "title": "Nancy Guthrie Update: Could a \"Today\" Show Segment Have Led to the Kidnapping? A Former FBI Agent Weighs In",
+      "link": "https://www.jubileecast.com/articles/39803/20260929/nancy-guthrie-update-today-show-segment-tucson-ex-fbi-agent-steve-moore-september-2026.htm",
+      "summary": "Nancy Guthrie Update: Could a \"Today\" Show Segment Have Led to the Kidnapping? A Former FBI Agent Weighs In",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T10:11:58Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30524/nancy-guthrie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5f872bd17d1945ed",
       "title": "What Should We Do About Diddy?",
@@ -61,6 +270,63 @@
       "breaking_expires_at": null
     },
     {
+      "id": "18f07c3d2cc3b06a",
+      "title": "Assisi to welcome thousands of pilgrims for 800th anniversary of St. Francis’ death",
+      "link": "https://www.ewtnnews.com/world/europe/assisi-to-welcome-thousands-of-pilgrims-for-800th-anniversary-of-st-francis-death",
+      "summary": "Activities will run from Sept. 24 to Oct. 5 and will include liturgies, cultural events, various charitable initiatives, and the traditional procession dedicated to the saint at the Porziuncola.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T10:00:00Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790278002/ewtn-news/en/FranciscoAsis_200926_vcczcz_hhr08e.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b6fc689cd0792e97",
+      "title": "Cutting off parents may sound therapeutic, but is it unbiblical?",
+      "link": "https://www.christianpost.com/voices/cutting-off-parents-may-sound-therapeutic-but-is-it-unbiblical.html",
+      "summary": "At a recent breakfast, three friends shared the same heartbreak: grown children who had cut off all contact, even with grandchildren. It's a growing trend, and one the Bible speaks to directly.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T09:21:21Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272080_w_550_367_473_307.jpg?v=20260929060607",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5c65a628cd879037",
+      "title": "Netflix's Narnia is an attack on Aslan's Christ figure",
+      "link": "https://www.christianpost.com/voices/netflixs-narnia-is-an-attack-on-aslans-christ-figure.html",
+      "summary": "For more than 70 years, Aslan has stood as C.S. Lewis' picture of Christ, the lion who dies to save Narnia and rises again. Now Netflix has cast Meryl Streep in the role, complete with a rainbow-colored mane. This is not just an attack on Narnia; it is an…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T08:42:32Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272094_w_550_550.jpg?v=20260929060419",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "c19ed7a40a85abd9",
       "title": "Is Jackie Chan Dead? What's True About the Viral \"1954-2026\" Post",
       "link": "https://www.jubileecast.com/articles/39806/20260929/is-jackie-chan-dead-viral-1954-2026-post-fake.htm",
@@ -74,6 +340,25 @@
       "first_seen": "2026-09-29T08:09:52Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31979/jackie-chan.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dc1ac641a0cc7a18",
+      "title": "'I was never property': Snowflake baby Hannah Strege fights back",
+      "link": "https://www.christianpost.com/voices/i-was-never-property-snowflake-baby-hannah-strege-fights-back.html",
+      "summary": "Hannah Strege was once a frozen embryo, labeled \"excess\" by the IVF industry. Now an adult, she's pushing back on those who say she was only ever property.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T07:29:38Z",
+      "first_seen": "2026-09-29T11:07:29Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272095_w_550_385.jpg?v=20260929060510",
         "via": "media:content"
       },
       "breaking": false,
@@ -10697,276 +10982,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31905/avengers-endgame.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e47e735b8298f48c",
-      "title": "Tucker Carlson Says He’s Not ‘Obsessed with Jews’ in Podcast Episode Where He Mentions Them Almost 300 Times",
-      "link": "https://mycharisma.com/news/tucker-carlson-says-hes-not-obsessed-with-jews-in-podcast-episode-where-he-mentions-them-almost-300-times/",
-      "summary": "Legendary Russian playwright Anton Chekhov is often attributed as one of the first pioneers to offer this piece of cherished advice: “Show, don’t tell.” The meaning is rather self-evident: In plays, a character can proclaim something until they’re blue in the…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T12:53:51Z",
-      "first_seen": "2026-09-23T13:38:47Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2aad8e3a255390c6",
-      "title": "Will It Hit California? Hurricane Polo Nearly Set A World Record As It Rapidly Intensified Into An ‘Extremely Dangerous’ Category 5 Storm",
-      "link": "https://mycharisma.com/news/will-it-hit-california-hurricane-polo-nearly-set-a-world-record-as-it-rapidly-intensified-into-an-extremely-dangerous-category-5-storm/",
-      "summary": "Hurricane Polo is an absolutely monstrous storm that everyone that lives in the entire state of California should be closely monitoring right now. On Monday, it was just a tropical storm that very few people had heard about. By Tuesday, it had become the most…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T12:47:28Z",
-      "first_seen": "2026-09-23T13:38:47Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b083205a3737b6b",
-      "title": "Over 100K sign petition asking US to stop UN from adding gender ideology to international law",
-      "link": "https://www.christianpost.com/news/over-100k-sign-petition-asking-us-to-stop-un-gender-ideology-push.html",
-      "summary": "A petition urging top United States diplomats to ensure that a clarification that the term “gender” refers to the two biological sexes is not removed from international law has garnered over 130,000 signatures amid concerns that a pending United Nations…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T12:30:43Z",
-      "first_seen": "2026-09-23T13:38:47Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272028_w_550_367.jpg?v=20260923091119",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f8c36d4743570c66",
-      "title": "Talarico works to reach Black voters in his bid to win a US Senate seat as a Democrat in Texas",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV1Vnc0sxWmdpRVM4Z1pvc3U0QlBFSTdIaGhzUDhTbjJNOWo1NTRiTHdDR2NaTGJHLXVDRDdGR0VJQVh3dHpYeExVQ21HNFJIWVFheVduREVTZGo5VUN0a2FiZldtTEFiSGRpNDBuTjFWUTBfNVNPZlFtNU5pODJXNmh4VFcxdF9jT3pvSXhINkJFcFNKT3cyb9IBngFBVV95cUxQaTczUDZidGRhV3pjMXZ0Z28zcHFOTG9aakhfd2dLYkZWbGxpT0NQV2R6aUlKTkhoRFVHc0lIZHE3Wlc5SV9ocExhWVpqNDVpWkQ1OXp6RUtuS0QweFZNaTFvREFSeDNWMlR6bG10WlJ6TFN3T3NBX0UxaGd3WGZ0cEV1dlA3NGczaHBCVVdFeE5WMTkxeW91Q3ZEalZyUQ?oc=5",
-      "summary": "Talarico works to reach Black voters in his bid to win a US Senate seat as a Democrat in Texas abcnews.com",
-      "outlet": "abcnews.com",
-      "outlet_url": "https://abcnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-23T12:03:07Z",
-      "first_seen": "2026-09-23T14:07:31Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3485c8ddd5eedfbd",
-      "title": "Bishop baptized by Fulton Sheen reflects on his legacy ahead of beatification",
-      "link": "https://www.ewtnnews.com/world/us/bishop-baptized-by-fulton-sheen-reflects-on-his-legacy-ahead-of-beatification",
-      "summary": "In “The Beatification of Archbishop Fulton J. Sheen and the Mission of the Catholic Church in the 21st Century,” Bishop John O. Barres reflected on Sheen’s life and teachings.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T12:00:00Z",
-      "first_seen": "2026-09-23T12:42:12Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790106507/ewtn-news/en/GettyImages-515457182_k84yti.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "72b4eb9923938cd8",
-      "title": "'Heart of the Beast' writer says film highlights military sacrifice",
-      "link": "https://www.christianpost.com/video/heart-of-the-beast-writer-says-film-highlights-military.html",
-      "summary": "At the red carpet premiere of \"Heart of the Beast,\" writer Cameron Alexander shares how the film honors military sacrifice and serves as a \"love letter to his dog.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T11:25:40Z",
-      "first_seen": "2026-09-23T14:39:49Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272017_w_550_319.jpg?v=20260923092354",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a24aff25dec37ab8",
-      "title": "New Black Heritage Trail Marker Honors Macedonia Baptist Church’s Enduring Legacy in Cape May",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU3J5eHVjLXM2TjIybDBSYkFnRzBCLU1aVnB2NVExVHdwaXBOYlVLTml2aWEtTV81T3FsVVJYd2wyR3FDb3JGdFJzZmVDZkljUkwxODc4ajNkdjZfc3hIQ2JPczJlNHZoWUY3bFA4VVRPclZfeTltYjNWWk5VZVZwOHVIQUNnclhiemVkZGp3VXc5ZDZQV1VaaHFuSWM0cl9jOVB6ZHUtdE5XZDhVQ3JKZklraHdCNzNtWVRyRGU5UTJxQWdjZ0V0ajJQSnlWSlJyUnVJ?oc=5",
-      "summary": "New Black Heritage Trail Marker Honors Macedonia Baptist Church’s Enduring Legacy in Cape May Front Runner New Jersey",
-      "outlet": "Front Runner New Jersey",
-      "outlet_url": "https://frontrunnernewjersey.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-23T11:23:58Z",
-      "first_seen": "2026-09-23T21:07:07Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec1ccdf0831862b1",
-      "title": "AI is finding chart success in Christian, gospel and country music",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS1FhRnhkRWREcUpaXzZReWRIelRxT2w2U1FWUkRSaWxWSC1lYVhWOUl3UkpaM1F6emRTLUMtanJKTzNXWmZjbGhfdENjZG1SbDlrSktHVjJ3Rlpub1JfVnc2UlhyWnZ3eVJTZGhIMC1RaDFwQXpHQ2hhMENpbHJGRVZ4R3FUbUJSNnJNWXRSbUxUcm9OQU5fU3hoMGNtNEFuQUE?oc=5",
-      "summary": "AI is finding chart success in Christian, gospel and country music The Conversation",
-      "outlet": "The Conversation",
-      "outlet_url": "https://theconversation.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-23T11:10:55Z",
-      "first_seen": "2026-09-23T11:38:29Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-23T23:38:29Z"
-    },
-    {
-      "id": "0a2d8857101c92da",
-      "title": "Ashley Flynn’s Family Testifies About Inheritance And Alleged Affair: What Will Jurors Make Of It?",
-      "link": "https://www.jubileecast.com/articles/39656/20260923/ashley-flynn-s-family-testifies-about-inheritance-and-alleged-affair-what-will-jurors-make-of-it.htm",
-      "summary": "Ashley Flynn’s Family Testifies About Inheritance And Alleged Affair: What Will Jurors Make Of It?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T11:08:19Z",
-      "first_seen": "2026-09-23T11:38:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a9be80b8f4afa207",
-      "title": "Erica Campbell’s Label Says 113M Streams Produced No Royalty Statements",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fNWdsUEl6VFJmNF9Bdmgta1lrdzBOQ24ySDg1MWtlbHVhOVpuUzQ3UG41TTNKeE5CWXFaT251dHRlRkQtbVFsT2dzVFhoazR2MkZmQg?oc=5",
-      "summary": "Erica Campbell’s Label Says 113M Streams Produced No Royalty Statements EURweb",
-      "outlet": "EURweb",
-      "outlet_url": "https://eurweb.com",
-      "source_feed": "Google News: Erica Campbell",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-23T11:00:18Z",
-      "first_seen": "2026-09-23T11:38:29Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-23T23:38:29Z"
-    },
-    {
-      "id": "b542d540251fd69e",
-      "title": "Spanish life coach subjected to repeated ‘lawfare’ by LGBT lobby",
-      "link": "https://www.ewtnnews.com/world/europe/spanish-life-coach-once-again-targeted-by-lgbt-lobby",
-      "summary": "Elena Lorenzo has been taken to court several times, charged with violating the Madrid regional government’s Comprehensive Law against LGBTI-phobia. She must now defend herself for the fifth time.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T11:00:00Z",
-      "first_seen": "2026-09-23T11:38:29Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790010886/ewtn-news/en/Elena_Lorenzo_w5jyzu_g1kxsz.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "35be256c86f5aa8e",
-      "title": "Pope appeals for care and protection of migrant children",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-appeal-world-day-migrants-refugees-children.html",
-      "summary": "Pope Leo XIV appeals for the protection of migrant and refugee children, and for everyone to take responsibility for minors on the move. His appeal comes ahead of the World Day of Migrants and Refugees. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T10:13:00Z",
-      "first_seen": "2026-09-23T10:38:53Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/07/27/12/1785149168049.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "286d4c54efde5269",
-      "title": "5 gospel movies that will lift your spirit",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0xMWJwcWRHSjh0aFRucWt5ZTVGZUtXbDVEUzNPM1NOSjVla1pjekFEYWJQOGJ0Vl9GeVdwbmZzSjVSRnNybWhNcEVFZ0xNZWxqM1ViT1diQ2hkT0V0Z2FWQnhTLXc1Vi1I?oc=5",
-      "summary": "5 gospel movies that will lift your spirit EBONY Magazine",
-      "outlet": "EBONY Magazine",
-      "outlet_url": "https://www.ebony.com",
-      "source_feed": "Google News: The Clark Sisters",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-23T10:12:20Z",
-      "first_seen": "2026-09-25T16:07:37Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec29ee32b0592644",
-      "title": "Christians Came Together to Help Defeat UK’s Assisted Dying Bill",
-      "link": "https://www.christianitytoday.com/2026/09/evangelical-assisted-dying-uk-bill-church-of-england/",
-      "summary": "When Alicia Edmund heard the Parliament vote count for the UK’s assisted dying bill last week—286 noes to 270 ayes—her immediate reaction was shock. The bill had been defeated. As head of policy for the Evangelical Alliance in the UK, Edmund had spent…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T10:00:00Z",
-      "first_seen": "2026-09-23T10:38:53Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/uk-assisted-suicide-bill-rejected.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9a9cfc62f0701346",
-      "title": "The Wishful Thinking that Put Thousands on the Streets",
-      "link": "https://www.christianitytoday.com/2026/09/the-wishful-thinking-that-put-thousands-on-the-streets-homelessness-mental-illness/",
-      "summary": "Let’s look at the reasoning, and numbers, of deinstitutionalization—America’s mid-century policy of moving the mentally ill population out of large hospitals of widely varying quality and into home-based care and community integration. In 1955, state mental…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T10:00:00Z",
-      "first_seen": "2026-09-23T10:38:53Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/wishful-thinking-put-thousands-streets.jpg?resize=1200,628",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
