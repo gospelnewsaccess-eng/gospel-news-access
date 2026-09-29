@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-29T07:40:16Z",
+  "generated_at": "2026-09-29T08:09:52Z",
   "story_count": 600,
   "with_photo": 455,
   "items": [
+    {
+      "id": "c19ed7a40a85abd9",
+      "title": "Is Jackie Chan Dead? What's True About the Viral \"1954-2026\" Post",
+      "link": "https://www.jubileecast.com/articles/39806/20260929/is-jackie-chan-dead-viral-1954-2026-post-fake.htm",
+      "summary": "Is Jackie Chan Dead? What's True About the Viral \"1954-2026\" Post",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T08:08:44Z",
+      "first_seen": "2026-09-29T08:09:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31979/jackie-chan.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "bcd8efec9d046d65",
       "title": "Who Just Stopped Michael Jackson's \"Thriller\" From Reclaiming No. 1?",
@@ -10948,25 +10967,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-23T22:38:53Z"
-    },
-    {
-      "id": "01adea79613e0a37",
-      "title": "Matthew West’s New Album \"Jesus Is King\" Arrives Friday—but What Does He Want Listeners to Hear Beyond the Title?",
-      "link": "https://www.jubileecast.com/articles/39655/20260923/matthew-west-s-new-album-jesus-is-king-arrives-friday—but-what-does-he-want-listeners-to-hear-beyond-the-title.htm",
-      "summary": "Matthew West’s New Album Jesus Is King Arrives Friday—but What Does He Want Listeners to Hear Beyond the Title?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T09:50:42Z",
-      "first_seen": "2026-09-23T10:38:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31036/matthew-west.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
