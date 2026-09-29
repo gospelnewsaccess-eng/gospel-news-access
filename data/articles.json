@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-29T00:44:41Z",
+  "generated_at": "2026-09-29T01:08:28Z",
   "story_count": 600,
   "with_photo": 458,
   "items": [
+    {
+      "id": "6039212511b9e488",
+      "title": "After Eight Years, ‘The Chosen’ Has Filmed Its Final Scene",
+      "link": "https://relevantmagazine.com/culture/tv/after-eight-years-the-chosen-has-filmed-its-final-scene/",
+      "summary": "For eight years there was always another day of shooting The Chosen on the calendar. Now there isn’t. The series about the life of Jesus has wrapped filming on its seventh and final season in Midlothian, Texas, finishing a shoot that started in late April…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T00:37:48Z",
+      "first_seen": "2026-09-29T01:08:28Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/chosen.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a3d6a90beded668e",
       "title": "Josh Howerton Celebrates 882 Baptisms in One Day—and Defends Baptizing Without a Class",
@@ -10955,25 +10974,6 @@
       "published": "2026-09-23T07:00:00Z",
       "first_seen": "2026-09-24T16:39:03Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c583d787a9226d5e",
-      "title": "Tim Keller’s Son Finished the Book They Began Together. What Was His Father’s Final Request?",
-      "link": "https://www.jubileecast.com/articles/39647/20260923/tim-keller-s-son-finished-the-book-they-began-together-what-was-his-father-s-final-request.htm",
-      "summary": "Tim Keller’s Son Finished the Book They Began Together. What Was His Father’s Final Request?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T06:02:00Z",
-      "first_seen": "2026-09-23T06:42:04Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/19316/tim-keller.jpg",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
