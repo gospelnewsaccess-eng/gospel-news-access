@@ -42,6 +42,34 @@
           "count": 0
         }
       }
+    },
+    {
+      "chart_week": "2026-09-18",
+      "ran_at": "2026-09-29T19:12:53Z",
+      "published": false,
+      "reason": "no measured input data for this tracking week",
+      "inputs": {
+        "panel": {
+          "reports": 0,
+          "stations": [],
+          "unknown_stations": []
+        },
+        "streaming": {
+          "enabled_sources": [],
+          "disabled_sources": [
+            "youtube_data_api_v3",
+            "apple_genre_rss",
+            "shazam_public_charts"
+          ]
+        },
+        "release": {
+          "submissions": 0
+        },
+        "editorial": {
+          "adjustments": [],
+          "count": 0
+        }
+      }
     }
   ]
 }
