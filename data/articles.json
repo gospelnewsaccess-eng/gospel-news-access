@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-29T05:40:06Z",
+  "generated_at": "2026-09-29T06:09:24Z",
   "story_count": 600,
   "with_photo": 456,
   "items": [
+    {
+      "id": "bcd8efec9d046d65",
+      "title": "Who Just Stopped Michael Jackson's \"Thriller\" From Reclaiming No. 1?",
+      "link": "https://www.jubileecast.com/articles/39804/20260929/michael-jackson-thriller-vinyl-albums-chart-no-2-ariana-grande-petal-september-2026.htm",
+      "summary": "Who Just Stopped Michael Jackson's \"Thriller\" From Reclaiming No. 1?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T05:15:57Z",
+      "first_seen": "2026-09-29T06:09:24Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/9750/michael-jackson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "31267e89615f50be",
       "title": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead",
@@ -10947,25 +10966,6 @@
       "first_seen": "2026-09-23T10:38:53Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31908/the-voice.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b589e4753b6d9178",
-      "title": "Pope Leo upholds Fulton Sheen's legacy ahead of beatification",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-beatification-american-archbishop-fulton-sheen.html",
-      "summary": "On the eve of Archbishop Fulton Sheen’s beatification, Pope Leo XIV expresses his hope that the new American Blessed's example will inspire innovative ways of spreading the Gospel with joyful enthusiasm. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T09:23:00Z",
-      "first_seen": "2026-09-23T20:37:38Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/19/fulton.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
