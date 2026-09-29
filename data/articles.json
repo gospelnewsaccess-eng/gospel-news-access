@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T14:09:20Z",
+  "generated_at": "2026-09-29T14:41:28Z",
   "story_count": 600,
-  "with_photo": 464,
+  "with_photo": 463,
   "items": [
     {
       "id": "d07875992ab3de1c",
@@ -54,6 +54,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31950/sylvester-stallone.jpeg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bf899ae63346f7b0",
+      "title": "Lainey Wilson, Brandon Lake, Amy Grant Added To 2026 GMA Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzdDdzZHMEV1VURwekliZ293U2NYazVjTVVOSDE0aDNXaDBkTXpaa2xFQ0JlcmZLeVppb0c2ZFl3V25ZQVBHZG9ZWmFRRlVjZndET1hpNnd6M2R1MlE0b3hZZ3RIV3IweEFVb1lHQWVEUVNGZjNpUlZRVG5VeFlaZHVrRVNkbExtY2NjMmE4T2FDMENtMzdnaFFCZEloVkk?oc=5",
+      "summary": "Lainey Wilson, Brandon Lake, Amy Grant Added To 2026 GMA Dove Awards Billboard",
+      "outlet": "Billboard",
+      "outlet_url": "https://www.billboard.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-29T13:04:22Z",
+      "first_seen": "2026-09-29T14:41:28Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10971,25 +10987,6 @@
       "first_seen": "2026-09-23T15:39:39Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272030_w_550_367_592_276.jpg?v=20260923105051",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4010fd78a4684702",
-      "title": "Padre Pio: 13 facts about St. Pio of Pietrelcina to know and share",
-      "link": "https://www.ewtnnews.com/world/europe/padre-pio-13-facts-about-the-saint-to-know-and-share",
-      "summary": "Padre Pio is known for his deep wisdom, his stigmata, miraculous reports of his bilocation, being physically attacked by the devil, and mastering the spiritual life.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T14:35:00Z",
-      "first_seen": "2026-09-23T15:39:39Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/images/Relics_5_of_St_Pio_and_St_Leopold_Mandic_at_the_Basilica_of_San_Lorenzo_Rome_Italy_Feb_3_2016_Credit_Alexey_Gotovskiy_CNA_2_3_16",
         "via": "media:content"
       },
       "breaking": false,
