@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-29T05:07:05Z",
+  "generated_at": "2026-09-29T05:40:06Z",
   "story_count": 600,
-  "with_photo": 457,
+  "with_photo": 456,
   "items": [
+    {
+      "id": "31267e89615f50be",
+      "title": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS0hlR3d2X3ZxTUxwakhJdVZZNWRPbmltdjV5UHFJSGNWVjl0blRuZ01WVDdDUElkZjlKV1FjYVRZMzZmeElZNFhPNldkTUNhRER4N1JjVTFKV3piWHNyUzdyZXVWUC1hdVBWMVN3ODQ4MW1PSFd3enBMYzBUM25vZHYtazRGT2ZyUUp2MkVrcjhpNTg3ZlBNVzFVeV9JWllsTjBYWnV5T2VPX3k5aVhERGNwRGVCMDFMR1hueF8tZVAzN1dLTFRZdHNNczJJR1gz?oc=5",
+      "summary": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead BlackPressUSA",
+      "outlet": "BlackPressUSA",
+      "outlet_url": "https://blackpressusa.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-29T05:05:40Z",
+      "first_seen": "2026-09-29T05:40:06Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-29T17:40:06Z"
+    },
     {
       "id": "8437f9147e1d4a99",
       "title": "Nancy Guthrie Update: What We Know About the Possible New Ransom Note, and What Investigators Still Don't",
@@ -10950,25 +10966,6 @@
       "first_seen": "2026-09-23T20:37:38Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/19/fulton.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4bf004102f93250d",
-      "title": "Carrot Top Hospitalized After Reported Prescription Pill Overdose: What Do We Know About His Recovery?",
-      "link": "https://www.jubileecast.com/articles/39652/20260923/carrot-top-hospitalized-after-reported-prescription-pill-overdose-what-do-we-know-about-his-recovery.htm",
-      "summary": "Carrot Top Hospitalized After Reported Prescription Pill Overdose: What Do We Know About His Recovery?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-23T09:13:13Z",
-      "first_seen": "2026-09-23T09:39:05Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
         "via": "media:content"
       },
       "breaking": false,
