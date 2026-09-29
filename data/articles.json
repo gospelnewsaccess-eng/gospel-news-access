@@ -1,8 +1,40 @@
 {
-  "generated_at": "2026-09-29T16:41:25Z",
+  "generated_at": "2026-09-29T17:07:35Z",
   "story_count": 600,
-  "with_photo": 463,
+  "with_photo": 462,
   "items": [
+    {
+      "id": "a41df420a7b2597c",
+      "title": "Highlander Studios Receives Dual Honors at 2026 CONTENT Christian Media Conference",
+      "link": "https://pathmegazine.com/articles/highlander-studios-receives-dual-honors-at-2026-content-christian-media-conference/",
+      "summary": "Highlander Studios, a Nashville-based media production company founded by veteran producers Marion MacKenzie and Russell Pyle, received two honors at the 2026 CONTENT Christian Media Conference, recognizing … The post Highlander Studios Receives Dual Honors…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T16:30:38Z",
+      "first_seen": "2026-09-29T17:07:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dccced30bb31e1ea",
+      "title": "Christian singer-songwriter Chelsea La Rosa Releases Debut Single ‘Stay’",
+      "link": "https://pathmegazine.com/articles/christian-singer-songwriter-chelsea-la-rosa-releases-debut-single-stay/",
+      "summary": "Christian singer-songwriter Chelsea La Rosa releases her debut single, “Stay,” out now worldwide on all major streaming and download platforms. “Stay” is an emotionally charged song written … The post Christian singer-songwriter Chelsea La Rosa Releases Debut…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-29T16:20:40Z",
+      "first_seen": "2026-09-29T17:07:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "fb79f6e91b6ac17a",
       "title": "Mamdani releases plan to combat antisemitism as concerns linger over his criticism of Israel",
@@ -16,6 +48,44 @@
       "published": "2026-09-29T16:07:13Z",
       "first_seen": "2026-09-29T16:09:20Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bfc3b10753476989",
+      "title": "Cardinal Parolin tells UN: Self-defense does not justify an arms race",
+      "link": "https://www.ewtnnews.com/vatican/cardinal-parolin-tells-un-we-must-set-aside-culture-of-power-for-dialogue",
+      "summary": "The Vatican secretary of state addressed the United Nations in New York on Sept. 26.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T16:05:00Z",
+      "first_seen": "2026-09-29T17:07:35Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614678/images/whatsapp-image-2022-03-22-at-13.13.35.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5038b76296b8804a",
+      "title": "NJ man gets nearly 6 years in prison for taking over 100 explosives to church hosting mass for Supreme Court justices",
+      "link": "https://www.christianpost.com/news/nj-man-sentenced-nearly-6-years-for-trying-to-attack-red-mass.html",
+      "summary": "A New Jersey man was sentenced to nearly six years in prison for bringing more than 100 homemade explosive devices to a church in the nation's capital that was preparing to host a Mass traditionally attended by U.S. Supreme Court justices.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-29T16:01:32Z",
+      "first_seen": "2026-09-29T17:07:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272106_w_550_367.jpg?v=20260929120249",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10918,79 +10988,6 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "7bde5e5eb42499ec",
-      "title": "James Talarico’s Twisted Rhetoric on Faith Makes Sense When You Listen to His Pastor’s Easter Message",
-      "link": "https://mycharisma.com/news/james-talaricos-twisted-rhetoric-on-faith-makes-sense-when-you-listen-to-his-pastors-easter-message/",
-      "summary": "It’s amazing how much mileage the two-word construct “Presbyterian seminarian” has gotten in the Texas Senate race. That is invariably how James Talarico, the state representative who is the Democratic nominee and hoping to upset Republican nominee and state…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T17:13:14Z",
-      "first_seen": "2026-09-23T17:37:23Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4eb44950bc026aec",
-      "title": "Ahead of his beatification, here’s a look back at Fulton Sheen’s time in Rome",
-      "link": "https://www.ewtnnews.com/vatican/ahead-of-his-beatification-here-s-a-look-back-at-fulton-sheen-s-time-in-rome",
-      "summary": "Here are Sheen’s most significant moments in the Eternal City, where he completed his doctorate, was consecrated a bishop, and attended Vatican II.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T17:11:18Z",
-      "first_seen": "2026-09-23T17:37:23Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745612167/images/A_view_of_St_Peters_Basilica_from_the_Pontifical_University_of_the_Holy_Cross_April_14_2016_Credit_Alexey_Gotovskiy_CNA_4_14_16.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e974212efa6fced8",
-      "title": "Former NFL player Jordan Shipley shares how faith sustained him after fiery accident",
-      "link": "https://www.christianpost.com/news/jordan-shipley-shares-how-faith-sustained-him-after-fire.html",
-      "summary": "More than eight months after suffering third-degree burns on more than 20% of his body in an accident on his ranch in Texas, former NFL wide receiver Jordan Shipley said he desperately called on the Lord for help during the life-threatening ordeal and…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-23T17:01:00Z",
-      "first_seen": "2026-09-23T17:37:23Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272036_w_550_327.jpg?v=20260923130224",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e3b61b29e9470d86",
-      "title": "St. Luke CME Church to Celebrate Annual Homecoming",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnNrX1NFYXZsV08yMnNhWUNVV1FEMTlpaFpMS3JaMDZma3JHdjA0bTFoRDRHaEJsYkg0bmw2bVFuWHhraFBJNWxMYUxHSFY4MlVsQzVuWXg4NTlQTDJ2emotTmNLR1RzWnp5Mi1GSEdselJoVWtFc2hhb2F6akpVajAtVkdwUTBJYXQzM2dJOHFpZzBKU2ZV?oc=5",
-      "summary": "St. Luke CME Church to Celebrate Annual Homecoming The Tryon Daily Bulletin",
-      "outlet": "The Tryon Daily Bulletin",
-      "outlet_url": "https://tryondailybulletin.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-23T16:50:37Z",
-      "first_seen": "2026-09-23T17:37:23Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T05:37:23Z"
     }
   ]
 }
