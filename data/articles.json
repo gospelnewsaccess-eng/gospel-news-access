@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-09-30T10:40:59Z",
+  "generated_at": "2026-09-30T11:07:53Z",
   "story_count": 600,
   "with_photo": 451,
   "items": [
+    {
+      "id": "dee36ceedfe76098",
+      "title": "Pope at Audience remembers Polish martyrs",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-at-audience-remembers-polish-martyrs.html",
+      "summary": "Pope Leo XIV on Wednesday remembered Polish martyrs Blessed Wincenty Lewoniuk and 12 companions from Pratulin. The martyrs were Byzantine-rite Catholics (Greek Catholics) who were killed by the Tsar's soldiers in the 19th century because they refused to…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T10:41:00Z",
+      "first_seen": "2026-09-30T11:07:53Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/30/vinc.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "31c60850c73c0057",
+      "title": "Cardinal Aveline: French Church will have to “water the seeds” of Pope’s visit",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/cardinal-aveline-pope-leo-visit-france-impact-reflection.html",
+      "summary": "The Archbishop of Marseille and president of the French Bishops’ Conference, Cardinal Jean-Marc Aveline, reflects on Pope Leo’s four days in France. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T10:17:00Z",
+      "first_seen": "2026-09-30T11:07:53Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/28/12/1790591461419.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "887907dde104ffe6",
+      "title": "Pope appeals for dialogue in Tigray region",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-appeals-for-dialogue-in-tigray-region.html",
+      "summary": "At the conclusion of the General Audience, Pope Leo XIV appealed to all sides in the Tigray region to halt hostilities, recalling that only sincere commitment can lay the foundations for lasting peace. Speaking to Polish pilgrims, he recalled the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T10:11:00Z",
+      "first_seen": "2026-09-30T11:07:53Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/24/07/1790229328601.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "378ceb260fa91df3",
       "title": "Os Guinness Still Challenges Christians to Think",
@@ -75,6 +132,25 @@
       "image": {
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/syllabus-can-christians-gamble.png?resize=1200,628",
         "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7d0b6ff9064b2dcb",
+      "title": "Across the U.S., 3 bishops, dozens of religious sisters leading lawsuits against assisted suicide",
+      "link": "https://www.ewtnnews.com/world/us/across-the-u-s-3-bishops-dozens-of-religious-sisters-leading-lawsuits-against-assisted-suicide",
+      "summary": "Church leaders in New York and Illinois are pushing back against various states’ recently passed laws allowing doctors to help kill their patients.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T10:00:00Z",
+      "first_seen": "2026-09-30T11:07:53Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1789734946/ewtn-news/en/ZMHG0VFc_qkuofg.jpg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -10875,82 +10951,6 @@
       "first_seen": "2026-09-24T13:40:13Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/08/22/20/1787423121106.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d180befd352608fe",
-      "title": "Jewish Life in Germany ‘No Longer Safe,’ Chancellor Warns as Far-Left Wins ‘Election Intifada’ in Berlin",
-      "link": "https://mycharisma.com/news/jewish-life-in-germany-no-longer-safe-chancellor-warns-as-far-left-wins-election-intifada-in-berlin/",
-      "summary": "With Jewish life under fire across the world, two consecutive state election victories by Germany’s far-right Alternative für Deutschland (AfD) have justifiably drawn attention. However, the most serious harm to Jewish life in Germany could well come from…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T12:51:01Z",
-      "first_seen": "2026-09-24T13:40:13Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec110711c2d59296",
-      "title": "Criminal Investigation Underway After Family Says Christian Grandmother Euthanized Without Consent",
-      "link": "https://mycharisma.com/news/criminal-investigation-underway-after-family-says-christian-grandmother-euthanized-without-consent/",
-      "summary": "A criminal investigation is underway in Canada after a controversial case of Medical Assistance in Dying (MAiD) in which the family of an 83-year-old Christian grandmother is questioning the ethics and legality of her death. The woman was euthanized even…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T12:19:47Z",
-      "first_seen": "2026-09-24T12:43:01Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "136ac2b541d64fa2",
-      "title": "Justin Bieber Surprises MacArthur Park With Free Concert and Gifts for the Homeless",
-      "link": "https://www.jubileecast.com/articles/39685/20260924/justin-bieber-surprise-concert-macarthur-park.htm",
-      "summary": "Justin Bieber Surprises MacArthur Park With Free Concert and Gifts for the Homeless",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T12:12:51Z",
-      "first_seen": "2026-09-24T12:43:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31919/justin-bieber.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fbe651be616ab1ab",
-      "title": "Tom Cruise Praises Taylor Swift's Directing Skills at \"Digger\" Premiere",
-      "link": "https://www.jubileecast.com/articles/39682/20260924/tom-cruise-taylor-swift-director-feature-films.htm",
-      "summary": "Tom Cruise Praises Taylor Swift's Directing Skills at \"Digger\" Premiere",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T12:12:45Z",
-      "first_seen": "2026-09-24T12:43:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31917/tom-cruise.jpg",
         "via": "media:content"
       },
       "breaking": false,
