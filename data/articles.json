@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T17:07:59Z",
+  "generated_at": "2026-09-30T17:39:37Z",
   "story_count": 600,
-  "with_photo": 449,
+  "with_photo": 447,
   "items": [
     {
       "id": "38657c5ce6653829",
@@ -72,6 +72,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-01T05:07:59Z",
       "image_tried": "2026-09-30T17:07:59Z"
+    },
+    {
+      "id": "af6bcf50ed3a8b31",
+      "title": "Kirk Franklin-GloRilla Collaboration Sparks Debate Over Her Explicit Music",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdS04Z3poTTFONllCVTg5ZFQ2bldQOFJ4TjlKSWdBVncwUWlzN2xFSWtKWGY0ZkZTcDFFTXJxOUx6azI3SVVfLUZUbjMzVnBHT1AwTlZpZzVfcWp5WlFmVDhNUzRSd01janNyM3RkNkh4ZUlORHdHbFJtNlFIODZDam5UbjZicVdYLUJVRWpHdFFETGc0VWU2QmYtUi1ZN0pMa281WHk4U1pwUk1PTlFNdGtEX212ZHNIdTVSTkhlZmlZYnBkVFJCMjV0UDFrSjlxa054Z3ZBQUFQdw?oc=5",
+      "summary": "Kirk Franklin-GloRilla Collaboration Sparks Debate Over Her Explicit Music Crosswalk.com",
+      "outlet": "Crosswalk.com",
+      "outlet_url": "https://www.crosswalk.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-30T16:31:00Z",
+      "first_seen": "2026-09-30T17:39:37Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T05:39:37Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "bf8b45a68d49b40f",
@@ -235,6 +252,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T16:28:26Z"
+    },
+    {
+      "id": "2a07019c498b212d",
+      "title": "Museum of Christian & Gospel Music Celebrates First Anniversary After Year of Growth",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaWdCT0JTdFNVMFBWVWFBRlZoZ2ROMGI1bjE5Q3hsNGt3WmF5VEk0RDRwcDRaV2NYeHRyS282V1ZWU2tKZUtCN1Q5UkJoVlZ3UWpNT0psYUdkTzc5eVoxbU1ST0p4X3JQWDVUWEhpWlNqRVNzYnJGLVJiUGFoaUlKaWlnWnc5Z2dhWmdXZ0d5TlBZeEpvY0Nfc0d3aEFHYzlHQS1ZNDkzTDgyQ19fR3duVA?oc=5",
+      "summary": "Museum of Christian & Gospel Music Celebrates First Anniversary After Year of Growth Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T15:23:31Z",
+      "first_seen": "2026-09-30T17:39:37Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "8334268a2618e3ca",
@@ -8460,7 +8494,8 @@
       "first_seen": "2026-09-25T21:06:55Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T09:06:55Z"
+      "breaking_expires_at": "2026-09-26T09:06:55Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "c0121446b289fc5b",
@@ -8742,7 +8777,8 @@
       "first_seen": "2026-09-25T20:06:18Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T08:06:18Z"
+      "breaking_expires_at": "2026-09-26T08:06:18Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "f9e857ab9415bc4c",
@@ -8815,7 +8851,8 @@
       "first_seen": "2026-09-27T15:06:44Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "b460b2feb8aa4b7d",
@@ -8850,7 +8887,8 @@
       "first_seen": "2026-09-26T23:06:45Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "9e4b48fcc28b84ee",
@@ -8904,7 +8942,8 @@
       "first_seen": "2026-09-26T14:37:29Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "35a69997238f715e",
@@ -9015,7 +9054,8 @@
       "first_seen": "2026-09-25T22:37:53Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "786a86038b7907f0",
@@ -9031,7 +9071,8 @@
       "first_seen": "2026-09-25T18:07:45Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "b369701db0dff379",
@@ -9066,7 +9107,8 @@
       "first_seen": "2026-09-25T17:38:34Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T05:38:34Z"
+      "breaking_expires_at": "2026-09-26T05:38:34Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "be9468baa333e665",
@@ -9082,7 +9124,8 @@
       "first_seen": "2026-09-25T17:38:34Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T05:38:34Z"
+      "breaking_expires_at": "2026-09-26T05:38:34Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "b7b2320286ddab25",
@@ -9193,7 +9236,8 @@
       "first_seen": "2026-09-25T16:40:37Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T04:40:37Z"
+      "breaking_expires_at": "2026-09-26T04:40:37Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "d2dbe1f7e8255739",
@@ -9228,7 +9272,8 @@
       "first_seen": "2026-09-25T16:07:37Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T04:07:37Z"
+      "breaking_expires_at": "2026-09-26T04:07:37Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "5ded318d103f6556",
@@ -9301,7 +9346,8 @@
       "first_seen": "2026-09-25T15:07:39Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "318ac71afaf65899",
@@ -9336,7 +9382,8 @@
       "first_seen": "2026-09-25T15:07:39Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "437ce1163c5be993",
@@ -9352,7 +9399,8 @@
       "first_seen": "2026-09-25T15:07:39Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "d661b2d023721090",
@@ -9425,7 +9473,8 @@
       "first_seen": "2026-09-25T14:40:03Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T02:40:03Z"
+      "breaking_expires_at": "2026-09-26T02:40:03Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "95d6c1fe70ba4096",
@@ -9612,7 +9661,8 @@
       "first_seen": "2026-09-25T20:06:18Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "bd2837e38f4b5117",
@@ -9723,7 +9773,8 @@
       "first_seen": "2026-09-25T11:39:31Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T23:39:31Z"
+      "breaking_expires_at": "2026-09-25T23:39:31Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "c1700478b23a6a6b",
@@ -10119,7 +10170,8 @@
       "first_seen": "2026-09-25T05:39:03Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T17:39:03Z"
+      "breaking_expires_at": "2026-09-25T17:39:03Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "e3289a73156ef9ec",
@@ -10135,7 +10187,8 @@
       "first_seen": "2026-09-25T04:40:24Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T16:40:24Z"
+      "breaking_expires_at": "2026-09-25T16:40:24Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "1b0f7ca370c4ac8e",
@@ -10170,7 +10223,8 @@
       "first_seen": "2026-09-25T04:40:24Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T16:40:24Z"
+      "breaking_expires_at": "2026-09-25T16:40:24Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "7bf10b5b11c53f3d",
@@ -10262,7 +10316,8 @@
       "first_seen": "2026-09-25T03:38:42Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T15:38:42Z"
+      "breaking_expires_at": "2026-09-25T15:38:42Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "29a3cc936d3cf986",
@@ -10316,7 +10371,8 @@
       "first_seen": "2026-09-25T05:39:03Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "92719b78ec068782",
@@ -10389,7 +10445,8 @@
       "first_seen": "2026-09-25T01:36:05Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "3d004b2c86203db4",
@@ -10424,7 +10481,8 @@
       "first_seen": "2026-09-25T06:08:54Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "e9d573e063d0dc9b",
@@ -10478,7 +10536,8 @@
       "first_seen": "2026-09-24T23:06:41Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "81989ff9082457ee",
@@ -10513,7 +10572,8 @@
       "first_seen": "2026-09-24T23:06:41Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T11:06:41Z"
+      "breaking_expires_at": "2026-09-25T11:06:41Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "068c2762e5c06a67",
@@ -10548,7 +10608,8 @@
       "first_seen": "2026-09-24T23:06:41Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T11:06:41Z"
+      "breaking_expires_at": "2026-09-25T11:06:41Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "a209205c91488600",
@@ -10640,7 +10701,8 @@
       "first_seen": "2026-09-24T21:36:39Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T09:36:39Z"
+      "breaking_expires_at": "2026-09-25T09:36:39Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "cbcc11ddf97d14ac",
@@ -10732,7 +10794,8 @@
       "first_seen": "2026-09-25T14:08:03Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "eb0e37a956b3af9c",
@@ -10824,7 +10887,8 @@
       "first_seen": "2026-09-24T20:39:20Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T08:39:20Z"
+      "breaking_expires_at": "2026-09-25T08:39:20Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "4bb725f1af862951",
@@ -10878,7 +10942,8 @@
       "first_seen": "2026-09-24T20:39:20Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-25T08:39:20Z"
+      "breaking_expires_at": "2026-09-25T08:39:20Z",
+      "image_tried": "2026-09-30T17:39:37Z"
     },
     {
       "id": "469470a3d35b0d37",
@@ -11028,44 +11093,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272053_w_550_367_564_356.jpg?v=20260924145400",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "32f92067654539ea",
-      "title": "Is Culture Discipling the Church? Troubling Bible Trend Surges Among Young Christians",
-      "link": "https://mycharisma.com/news/is-culture-discipling-the-church-troubling-bible-trend-surges-among-young-christians/",
-      "summary": "Something troubling is happening inside the church, and the numbers are difficult to ignore. More than half of young Protestant churchgoers now believe changing culture can make some biblical truths obsolete. According to The Christian Post, a recent Lifeway…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T18:32:36Z",
-      "first_seen": "2026-09-24T18:40:41Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "144365b8f72f6fd5",
-      "title": "The rise of the Jim Crow theobros",
-      "link": "https://religionnews.com/2026/09/24/the-rise-of-the-jim-crow-theobros/",
-      "summary": "(RNS) — A group of Reformed pastors and influencers has wedded old-school segregationist theology with the hypermasculinity of the manosphere and the savvy of the attention economy to preach and sell white supremacy, antisemitism and patriarchy to angry young…",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T18:19:36Z",
-      "first_seen": "2026-09-24T18:40:41Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/07/webRNS-Theo-Bros05.jpg",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
