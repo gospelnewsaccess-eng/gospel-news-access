@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-09-30T22:07:04Z",
+  "generated_at": "2026-09-30T22:40:17Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 443,
   "items": [
+    {
+      "id": "7dc770b5425e93db",
+      "title": "Victim testimony begins in sexual abuse trial for son of New Albany megachurch leaders",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTGF6cGV3WkRBcFVvcGtUcE44QXhubm1Cak1wNXEyeFhJdXZja3RMX05SS2FrUkFOZU52YjlxN2tvTFdRNndydkRsSDJjakE2Ymk3OWxYVXEyZXdmOUl4U0loYzJaWWtkWEp4OXhIT1B6bGVSaFJCYlZLaUFjSlVHUjlYOTlOVnpoUmYydm5pSFVsa2lXN3BTYWluNS1uUFdkUkVhWGdVR2dHc2lOS2EzdHNEbHZHeUwySlZ4OTg0ckRsLWRSV213U0tuMWktRHdqVDRrWW1kM0Ntdktxemg4UEVOZ1kyTVFo?oc=5",
+      "summary": "Victim testimony begins in sexual abuse trial for son of New Albany megachurch leaders 10TV",
+      "outlet": "10TV",
+      "outlet_url": "https://www.10tv.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T22:12:00Z",
+      "first_seen": "2026-09-30T22:40:17Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T10:40:17Z",
+      "image_tried": "2026-09-30T22:40:17Z"
+    },
     {
       "id": "a480f5964eaea016",
       "title": "Lindsay Clancy holdout juror speaks out about trial, says '3 angels' can't 'speak for themselves'",
@@ -11072,25 +11089,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "92719b78ec068782",
-      "title": "Kelly Clarkson Debuts New Look as She Steps Into a New Chapter: Here's What's Behind It",
-      "link": "https://www.jubileecast.com/articles/39699/20260924/kelly-clarkson-new-haircut-new-chapter-family-faith.htm",
-      "summary": "Kelly Clarkson Debuts New Look as She Steps Into a New Chapter: Here's What's Behind It",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-25T01:24:13Z",
-      "first_seen": "2026-09-25T02:06:30Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31928/kelly-clarkson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
