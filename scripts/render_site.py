@@ -1620,12 +1620,19 @@ def render_originals() -> list[dict]:
                     '<iframe src="https://www.youtube.com/embed/%s" title="%s" '
                     'loading="lazy" allowfullscreen '
                     'referrerpolicy="strict-origin-when-cross-origin"></iframe></div>'
-                    '<figcaption>%s</figcaption></figure>'
+                    '<figcaption>%s <a href="https://youtu.be/%s" rel="noopener">Watch on YouTube</a></figcaption></figure>'
                     % (short, vid, g.esc(v.get("title", "Video")),
-                       g.esc(v.get("caption", ""))))
+                       g.esc(v.get("caption", "")), vid))
             if frames:
                 vid_html = ('<section class="story__vids"><h2>Watch</h2>%s</section>'
                             % "".join(frames))
+
+        credits_html = ""
+        if a.get("credits"):
+            rows = "".join("<dt>%s</dt><dd>%s</dd>" % (g.esc(c.get("role", "")), g.esc(c.get("names", "")))
+                           for c in a["credits"] if c.get("role") and c.get("names"))
+            if rows:
+                credits_html = '<section class="story__credits"><h2>Credits</h2><dl>%s</dl></section>' % rows
 
         img_html = ""
         if a.get("image"):
@@ -1640,6 +1647,7 @@ def render_originals() -> list[dict]:
 {img_html}
 {body_html}
 {vid_html}
+{credits_html}
 {corr_html}
 """
         prose_page("story/%s.html" % a["slug"], "news", a["title"],

@@ -493,3 +493,10 @@ a:hover{text-decoration:underline;}
 .story__photo{margin:28px 0}
 .story__photo img{width:100%;height:auto;display:block}
 .story__photo figcaption{font-size:.85rem;opacity:.72;padding-top:8px;line-height:1.5}
+
+/* Full credits at the foot of a story. */
+.story__credits{margin:38px 0 8px;padding-top:18px;border-top:1px solid currentColor}
+.story__credits dl{display:grid;grid-template-columns:minmax(120px,max-content) 1fr;gap:6px 22px;margin:0}
+.story__credits dt{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;opacity:.7}
+.story__credits dd{margin:0}
+@media (max-width:520px){.story__credits dl{grid-template-columns:1fr}.story__credits dt{padding-top:8px}}
