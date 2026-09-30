@@ -171,6 +171,7 @@ def footer(depth: int = 0) -> str:
         <ul>
           <li><a href="{r('about.html')}">About &amp; Ownership</a></li>
           <li><a href="{r('masthead.html')}">Masthead</a></li>
+          <li><a href="{r('pressroom.html')}">Press Room</a></li>
           <li><a href="{r('contact.html')}">Contact</a></li>
           <li><a href="{r('corrections.html')}">Corrections Policy</a></li>
           <li><a href="{r('privacy.html')}">Privacy</a></li>

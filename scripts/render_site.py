@@ -1684,11 +1684,72 @@ STATIC_PAGES = [
     ("churches.html", "weekly", "0.7"),
     ("churches/join.html", "monthly", "0.5"),
     ("about.html", "monthly", "0.6"),
+    ("pressroom.html", "weekly", "0.6"),
     ("contact.html", "monthly", "0.5"),
     ("masthead.html", "monthly", "0.5"),
     ("corrections.html", "monthly", "0.5"),
     ("privacy.html", "yearly", "0.3"),
 ]
+
+
+def press_releases() -> list[dict]:
+    """Published releases from data/press-releases.json. Missing file = none."""
+    try:
+        with open("data/press-releases.json", encoding="utf-8") as f:
+            d = json.load(f)
+    except (OSError, ValueError):
+        return []
+    return [r for r in d.get("releases", []) if r.get("status") == "published"]
+
+
+def render_press() -> list[dict]:
+    """The press room, and one page per release. A release is copy, never
+    markup: every field is escaped, and a contact line is printed only when
+    the data actually holds one."""
+    import re as _re
+    rels = press_releases()
+
+    def para(t):
+        t = t.strip()
+        if t.startswith("## "):
+            return "<h2>%s</h2>" % g.esc(t[3:].strip())
+        return "<p>%s</p>" % g.esc(t)
+
+    for r in rels:
+        img = ""
+        src = r.get("image") or ""
+        if _re.fullmatch(r"assets/img/[A-Za-z0-9._-]+\.(jpe?g|png|webp)", src):
+            img = ('<figure class="hero__fig"><img src="../%s" alt="%s">'
+                   '<figcaption class="hero__credit">%s</figcaption></figure>'
+                   % (g.esc(src), g.esc(r.get("image_alt", "")), g.esc(r.get("image_caption", ""))))
+        contact = ""
+        if r.get("contact_name") or r.get("contact_phone") or r.get("contact_email"):
+            bits = [x for x in (r.get("contact_name"), r.get("contact_phone"), r.get("contact_email")) if x]
+            contact = ('<div class="note"><h3>Media contact</h3><p>%s</p></div>'
+                       % " &middot; ".join(g.esc(b) for b in bits))
+        body = (
+            '<p class="kicker">Press release</p>'
+            '<h1>%s</h1><p class="lede">%s</p>'
+            '<p class="dateline">FOR IMMEDIATE RELEASE &middot; %s &middot; %s</p>'
+            '%s%s<p class="dateline">&mdash; ENDS &mdash;</p>%s'
+            '<p><a href="../pressroom.html">All press releases</a></p>'
+            % (g.esc(r["title"]), g.esc(r.get("subhead", "")), g.esc(r.get("dateline", "")),
+               g.esc(r.get("date", "")), img, "".join(para(t) for t in r.get("body", [])), contact))
+        prose_page("press/%s.html" % r["slug"], "about", r["title"],
+                   r.get("subhead") or r["title"], body, 1,
+                   [("Front Page", SITE + "/"), ("Press Room", SITE + "/pressroom.html"),
+                    (r["title"], SITE + "/press/%s.html" % r["slug"])])
+
+    items = "".join(
+        '<li><p class="dateline">%s</p><h3><a href="press/%s.html">%s</a></h3><p>%s</p></li>'
+        % (g.esc(r.get("date", "")), g.esc(r["slug"]), g.esc(r["title"]), g.esc(r.get("subhead", "")))
+        for r in rels) or "<li><p>No releases at the moment.</p></li>"
+    prose_page("pressroom.html", "about", "Press Room",
+               "Press releases from Gospel News Access.",
+               '<h1>Press Room</h1><p class="lede">Announcements from Gospel News Access, '
+               'for editors, publicists and partners.</p><ul class="press-list">%s</ul>' % items,
+               0, [("Front Page", SITE + "/"), ("Press Room", SITE + "/pressroom.html")])
+    return rels
 
 
 def render_sitemaps(arts: list[dict]) -> None:
@@ -1699,6 +1760,10 @@ def render_sitemaps(arts: list[dict]) -> None:
         urls.append("  <url><loc>%s</loc><lastmod>%s</lastmod>"
                     "<changefreq>%s</changefreq><priority>%s</priority></url>"
                     % (g.esc(loc), today, freq, pri))
+    for r in press_releases():
+        urls.append("  <url><loc>%s/press/%s.html</loc><lastmod>%s</lastmod>"
+                    "<changefreq>monthly</changefreq><priority>0.6</priority></url>"
+                    % (SITE, g.esc(r["slug"]), today))
     for a in arts:
         urls.append("  <url><loc>%s/story/%s.html</loc><lastmod>%s</lastmod>"
                     "<changefreq>monthly</changefreq><priority>0.8</priority></url>"
@@ -1806,6 +1871,7 @@ def render_all() -> None:
     render_churches()
     render_eeat()
     arts = render_originals()
+    render_press()
     render_sitemaps(arts)
     render_feed(arts)
     render_404()
