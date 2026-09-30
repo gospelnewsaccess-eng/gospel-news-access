@@ -1,8 +1,82 @@
 {
-  "generated_at": "2026-09-30T18:43:38Z",
+  "generated_at": "2026-09-30T19:09:34Z",
   "story_count": 600,
   "with_photo": 446,
   "items": [
+    {
+      "id": "f390ffe0e6a188f4",
+      "title": "Evangelical Press Association to vote on dropping the ‘e-word’",
+      "link": "https://religionnews.com/2026/09/30/evangelical-journalists-lose-faith-in-the-e-word/",
+      "summary": "(RNS) — The group of journalists wants to change its name to the Christian Communicators Network, saying the word 'evangelical' has too many political overtones and a bad public image.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T18:56:38Z",
+      "first_seen": "2026-09-30T19:09:34Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T19:09:34Z"
+    },
+    {
+      "id": "8d777090c150ea8d",
+      "title": "California Braces for ‘Quintuple Whammy’ as Massive Kelvin Wave Approaches",
+      "link": "https://mycharisma.com/news/california-braces-for-quintuple-whammy-as-massive-kelvin-wave-approaches/",
+      "summary": "California was already staring down the barrel of what could become a punishing winter. Now, scientists are watching another potentially dangerous development unfolding across the Pacific. A massive pulse of warm ocean water stretching thousands of miles is…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T18:39:37Z",
+      "first_seen": "2026-09-30T19:09:34Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a6bda9e754fc5f4e",
+      "title": "Massachusetts report reveals ‘nearly 1,000 children’ abused by hundreds of priests across 3 dioceses",
+      "link": "https://www.ewtnnews.com/world/us/massachusetts-report-reveals-nearly-1-000-children-abused-by-hundreds-of-clerics-across-3",
+      "summary": "A “culture of reverence” in decades past helped priests avoid scrutiny for abuse, the lengthy report found.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T18:39:35Z",
+      "first_seen": "2026-09-30T19:09:34Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614463/images/shutterstock-2005162769.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8babeb77d1b0c93b",
+      "title": "Da’ T.R.U.T.H. Tackles Hard Faith Conversations in New Book ‘Forgive Me If I Was Rude’",
+      "link": "https://rapzilla.com/2026-09-da-t-r-u-t-h-forgive-me-if-i-was-rude/",
+      "summary": "Hip-hop artist and apologist Emanuel Lambert, better known as Da’ T.R.U.T.H., expands his ministry beyond music with a new book. On October 6, 2026, he releases Forgive Me If I Was Rude: The Art of Having Complicated, Faith-Based Conversations. It’s published…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T18:35:37Z",
+      "first_seen": "2026-09-30T19:09:34Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/30143243/Man-in-the-year-2026-faith-based-conversations-can-be-extremely-difficult.Theres-more-skepti-e1790793207622.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3af38191b84fe775",
       "title": "Dinesh D’Souza Warns of 3 Forces Destroying America",
@@ -37,6 +111,25 @@
       "image": {
         "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Carl-Ruby1.jpg",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6f4c19bdca9d850c",
+      "title": "Ashley Flynn's family says she 'wanted her life to point people to Jesus' after husband's guilty verdict",
+      "link": "https://www.christianpost.com/news/ashley-flynn-wanted-her-life-to-point-people-to-jesus-family.html",
+      "summary": "The family of the late Ashley Flynn is remembering the slain mother of two as someone who “loved Jesus with her whole heart” after her husband Caleb was found guilty of murdering her as the defendant’s family maintains his innocence.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:38:00Z",
+      "first_seen": "2026-09-30T19:09:34Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272121_w_550_385_420_114.jpg?v=20260930134230",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -10998,99 +11091,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27739/chris-tomlin.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ab62e6709b380151",
-      "title": "Michael W. Smith’s \"Worship\" Turns 25: Why Did These Songs Outlast the Moment That Shaped Its Release?",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUFNXb0JhN2lSaEp1aVFKb2F6bjFIN1FwdVpfdXNidGFDSUtDMko3b3R4dW9OQXRIYkJqZ2E2X056ZS1uN2M2aEhhV09MRk54S0lzV2h1NHp6ellTd1NJZXJWSk1tZTBWOVBWOHNTWFJ2WEg3dXhlMldZNXV2aGVUQnYwQlhRTDN0WWl1eXN3RU1RS241TlRieHI5XzZIdU44aDFaSzlMcjJEeG1ZcHZVNVR3WU9SM0ZqWTdsMDlYY3lBTGNRZEhpZ3NvWFhYT042TjRFWEQ1SjR5LWdjVW8xOEZpUnFudHlW?oc=5",
-      "summary": "Michael W. Smith’s \"Worship\" Turns 25: Why Did These Songs Outlast the Moment That Shaped Its Release? JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-24T20:15:00Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/21450/michael-w-smith.jpg",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T08:39:20Z"
-    },
-    {
-      "id": "ab101d90fa02b816",
-      "title": "Caleb Flynn’s Former Lover Reads Her Own Disturbing Text in Court—What Did She Mean?",
-      "link": "https://www.jubileecast.com/articles/39692/20260924/caleb-flynn-s-former-lover-reads-her-own-disturbing-text-in-court—what-did-she-mean.htm",
-      "summary": "Caleb Flynn’s Former Lover Reads Her Own Disturbing Text in Court—What Did She Mean?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T20:10:27Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28977/alleigha-botner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6197574836832aaf",
-      "title": "Megachurches draw 17% of Protestant churchgoers",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUUJUbGZ2Z3AwZ251UjJaLU5jbmlkREtCNmJraEdVUFZBbmZUbmZvdU5mVlpGMU5MR1BOQm9fX3VzMEY5eWdOX2VQUmNhSjEzeV9nX3hZbkctOVBvSFZWdkpKY090M0JxQ19HamZrQng3OUFKdHQwWnZGZ2hYQ3BOdjBoQ29WZS1DeVlRRk42bmtGMGRkeU1mdEFpMS1TSnRNMTQtSi02M2FDdDlIaGEzQXdKN1F5d3RGdXlnY0NPNElOYTJuNkZJVDZieVVVNnJGbEpLd2JR?oc=5",
-      "summary": "Megachurches draw 17% of Protestant churchgoers Kentucky Today",
-      "outlet": "Kentucky Today",
-      "outlet_url": "https://www.kentuckytoday.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-24T20:04:00Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T08:39:20Z",
-      "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "4bb725f1af862951",
-      "title": "Report: Suspected Site of Noah’s Ark ‘100 Percent Confirmed’ to Be a ‘Manmade Object’",
-      "link": "https://mycharisma.com/news/report-suspected-site-of-noahs-ark-100-percent-confirmed-to-be-a-manmade-object/",
-      "summary": "A new report says that the group of researchers hoping to find the remains of Noah’s Ark beneath a Turkish rock formation have found initial evidence that the site has more than rock beneath the surface. According to the Daily Mail, the researchers have “100…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T20:03:54Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1adecac8e321ef24",
-      "title": "Xi Jinping Wants 100,000 Young Americans to Study in Communist China",
-      "link": "https://mycharisma.com/news/xi-jinping-wants-100000-young-americans-to-study-in-communist-china/",
-      "summary": "Chinese President Xi Jinping made history this week as the first Chinese leader to make two formal state visits to the United States, and he arrived with a bold proposal: send 100,000 American young people to study in his communist nation. The invitation…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T20:02:32Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
