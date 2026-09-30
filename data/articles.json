@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T16:10:05Z",
+  "generated_at": "2026-09-30T16:28:26Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 449,
   "items": [
     {
       "id": "aec67decab3cb30b",
@@ -55,7 +55,25 @@
       "first_seen": "2026-09-30T16:10:05Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
+    },
+    {
+      "id": "2525ff61a534d2c0",
+      "title": "Megachurch pastor Adam Hamilton said Jesus would have backed DEI. Is he too woke for Kansas?",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV09neHFibndmejc3a0tBU2tscFJXVDFsV0tWUXN1YjNQTUhZVEtfLUpTWUlITERjVUdrQXVvSWgxOW1KWVNwRDJ6REhsZzcyNnBlQzRfTHdOVUNPd19ZTEFpWkUyVjhFdDRjaUFQd2hZak1zZS1nTGtkTVZJeWZSSWpnUWZKOHE0bUQ4ZU1LSFVLT3NvZkY5ZWFTelh5T0FLd2w4THh5QnZFMDBCemsxQVdTZmtrS1hza0dvQ1p4djY0SDg?oc=5",
+      "summary": "Megachurch pastor Adam Hamilton said Jesus would have backed DEI. Is he too woke for Kansas? Washington Examiner",
+      "outlet": "Washington Examiner",
+      "outlet_url": "https://www.washingtonexaminer.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T15:45:00Z",
+      "first_seen": "2026-09-30T16:28:26Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T04:28:26Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "0bb1804fffa29657",
@@ -71,7 +89,8 @@
       "first_seen": "2026-09-30T15:42:51Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-10-01T03:42:51Z"
+      "breaking_expires_at": "2026-10-01T03:42:51Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "a140c5c6159299e4",
@@ -87,7 +106,8 @@
       "first_seen": "2026-09-30T16:10:05Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "8334268a2618e3ca",
@@ -122,7 +142,8 @@
       "first_seen": "2026-09-30T15:42:51Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-10-01T03:42:51Z"
+      "breaking_expires_at": "2026-10-01T03:42:51Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "4d04493940d072ea",
@@ -138,7 +159,8 @@
       "first_seen": "2026-09-30T15:11:49Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "365b8563aceabfda",
@@ -230,7 +252,8 @@
       "first_seen": "2026-09-30T14:48:16Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-10-01T02:48:16Z"
+      "breaking_expires_at": "2026-10-01T02:48:16Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "e9ae61d41248d13a",
@@ -265,7 +288,8 @@
       "first_seen": "2026-09-30T14:11:12Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-10-01T02:11:12Z"
+      "breaking_expires_at": "2026-10-01T02:11:12Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "1127a070a01be256",
@@ -281,7 +305,8 @@
       "first_seen": "2026-09-30T14:48:16Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-10-01T02:48:16Z"
+      "breaking_expires_at": "2026-10-01T02:48:16Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "0688dfebd5620ed6",
@@ -373,7 +398,8 @@
       "first_seen": "2026-09-30T14:48:16Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "a625b9aa91a8fc4d",
@@ -465,7 +491,8 @@
       "first_seen": "2026-09-30T14:11:12Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "657c975abeb52113",
@@ -766,7 +793,8 @@
       "first_seen": "2026-09-30T07:41:18Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T19:41:18Z"
+      "breaking_expires_at": "2026-09-30T19:41:18Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "43f48130f6dc68a3",
@@ -782,7 +810,8 @@
       "first_seen": "2026-09-30T07:41:18Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T19:41:18Z"
+      "breaking_expires_at": "2026-09-30T19:41:18Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "0c94354dd7a73bab",
@@ -893,7 +922,8 @@
       "first_seen": "2026-09-30T05:40:25Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T17:40:25Z"
+      "breaking_expires_at": "2026-09-30T17:40:25Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "11d20e80a2d1e8c3",
@@ -1023,7 +1053,8 @@
       "first_seen": "2026-09-30T04:40:53Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T16:40:53Z"
+      "breaking_expires_at": "2026-09-30T16:40:53Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "c2bf5e3805d03ca8",
@@ -1267,7 +1298,8 @@
       "first_seen": "2026-09-30T12:48:14Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "8b4b065452c0db32",
@@ -1302,7 +1334,8 @@
       "first_seen": "2026-09-30T00:10:22Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T12:10:22Z"
+      "breaking_expires_at": "2026-09-30T12:10:22Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "41f03dd726173f4a",
@@ -1337,7 +1370,8 @@
       "first_seen": "2026-09-30T09:42:23Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "0dd9008c48ef643f",
@@ -1448,7 +1482,8 @@
       "first_seen": "2026-09-29T21:39:00Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T09:39:00Z"
+      "breaking_expires_at": "2026-09-30T09:39:00Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "855bb81535449b0c",
@@ -1464,7 +1499,8 @@
       "first_seen": "2026-09-29T21:39:00Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T09:39:00Z"
+      "breaking_expires_at": "2026-09-30T09:39:00Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "e4edc3ea8a975a38",
@@ -1499,7 +1535,8 @@
       "first_seen": "2026-09-29T21:39:00Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T09:39:00Z"
+      "breaking_expires_at": "2026-09-30T09:39:00Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "93ce5be5ac668619",
@@ -1572,7 +1609,8 @@
       "first_seen": "2026-09-29T21:06:48Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "5aab4feb168dbc93",
@@ -1607,7 +1645,8 @@
       "first_seen": "2026-09-29T20:40:23Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T08:40:23Z"
+      "breaking_expires_at": "2026-09-30T08:40:23Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "a0519fd220b4cd9e",
@@ -1699,7 +1738,8 @@
       "first_seen": "2026-09-29T20:40:23Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T08:40:23Z"
+      "breaking_expires_at": "2026-09-30T08:40:23Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "7fc8fa04a6ae5bda",
@@ -1772,7 +1812,8 @@
       "first_seen": "2026-09-29T20:08:06Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "020c98b4cbd64f08",
@@ -1788,7 +1829,8 @@
       "first_seen": "2026-09-30T03:41:29Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "67cf1e63e4fa043a",
@@ -1861,7 +1903,8 @@
       "first_seen": "2026-09-29T19:39:32Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T07:39:32Z"
+      "breaking_expires_at": "2026-09-30T07:39:32Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "b723592b658d492d",
@@ -1915,7 +1958,8 @@
       "first_seen": "2026-09-29T19:39:32Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T07:39:32Z"
+      "breaking_expires_at": "2026-09-30T07:39:32Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "e6952d930da5291c",
@@ -2045,7 +2089,8 @@
       "first_seen": "2026-09-29T17:07:35Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "dccced30bb31e1ea",
@@ -2061,7 +2106,8 @@
       "first_seen": "2026-09-29T17:07:35Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "fb79f6e91b6ac17a",
@@ -2077,7 +2123,8 @@
       "first_seen": "2026-09-29T16:09:20Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "bfc3b10753476989",
@@ -2169,7 +2216,8 @@
       "first_seen": "2026-09-30T00:46:23Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "1b136cb7d260a2bb",
@@ -2185,7 +2233,8 @@
       "first_seen": "2026-09-29T16:09:20Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "292197d74ddec04f",
@@ -2296,7 +2345,8 @@
       "first_seen": "2026-09-29T15:10:25Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-30T03:10:25Z"
+      "breaking_expires_at": "2026-09-30T03:10:25Z",
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "be0fa2ceb303f04b",
@@ -2350,7 +2400,8 @@
       "first_seen": "2026-09-29T15:10:25Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "4a4571e68eb5973d",
@@ -2385,7 +2436,8 @@
       "first_seen": "2026-09-29T15:10:25Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "813111f0b7d36982",
@@ -2401,7 +2453,8 @@
       "first_seen": "2026-09-29T15:10:25Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "e78326ce0c2823b1",
@@ -2436,7 +2489,8 @@
       "first_seen": "2026-09-29T15:10:25Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "010a9d4c1b5b471a",
@@ -2509,7 +2563,8 @@
       "first_seen": "2026-09-29T16:41:25Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "5db99f637988a6e5",
@@ -2544,7 +2599,8 @@
       "first_seen": "2026-09-29T14:41:28Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T16:28:26Z"
     },
     {
       "id": "3cc9c52c5f24689d",
@@ -10933,25 +10989,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-25T05:36:55Z"
-    },
-    {
-      "id": "c2c27fb4c0241ad2",
-      "title": "Trump Blasts ‘Evil’ International Criminal Court in Front of UN Globalists",
-      "link": "https://mycharisma.com/news/trump-blasts-evil-international-criminal-court-in-front-of-un-globalists/",
-      "summary": "President Donald Trump didn’t mince words when he called the International Criminal Court an “evil group of people” and demanded every member nation resign from the tribunal immediately during his Tuesday address to the United Nations General Assembly. The…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:59:01Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
