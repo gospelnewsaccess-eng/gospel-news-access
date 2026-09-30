@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-30T07:41:18Z",
+  "generated_at": "2026-09-30T08:09:39Z",
   "story_count": 600,
-  "with_photo": 451,
+  "with_photo": 452,
   "items": [
+    {
+      "id": "a9ee75eeca7b83b2",
+      "title": "Gallagher: Amid severe test to world order, religions can conribute to peace",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/archbishop-gallagher-religions-diplomacy-conference-rome.html",
+      "summary": "Archbishop Paul Richard Gallagher and Cardinal Baldo Reina highlight religious communities’ contribution to peace at a conference in Rome, emphasizing religious freedom and respect for human dignity while rejecting the use of faith to justify war. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T07:38:00Z",
+      "first_seen": "2026-09-30T08:09:39Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/29/02.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "79e3d3f9ddbda74e",
       "title": "Gospel star’s dramatic comeback!",
@@ -3393,6 +3412,25 @@
       "category": "faith",
       "published": "2026-09-28T15:37:00Z",
       "first_seen": "2026-09-28T16:09:06Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790557034/ewtn-news/en/Photo_1_-_Pro-Life_advocates_marching_down_Gedinimas_Avenue_in_Vilnius_City_Centre_hrcl0i.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "50cdf2369a559b04",
+      "title": "More than 3,000 join March for Life in Vilnius, Lithuania",
+      "link": "https://www.ewtnnews.com/world/europe/more-than-3-000-join-march-for-life-in-vilnius-lithuania",
+      "summary": "Families, young people, and international advocates joined Lithuania’s second March for Life, calling for practical support for mothers, fathers, and vulnerable people.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-28T15:37:00Z",
+      "first_seen": "2026-09-30T08:09:39Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790557034/ewtn-news/en/Photo_1_-_Pro-Life_advocates_marching_down_Gedinimas_Avenue_in_Vilnius_City_Centre_hrcl0i.jpg",
         "via": "media:content"
@@ -10916,41 +10954,6 @@
       "first_seen": "2026-09-24T10:38:53Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31912/nene-royal.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3d9e7fc5cde15c09",
-      "title": "From gospel rehearsals to overseas stages, meet Jackson’s Maya Kyles",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ1ZjUW9UMlVlb3BERFJ3b2NwSmJvMG5USlZXMm9NUmFIcS14WXlRRTV0QjQwUEl3cU94TkhKSGdVdmp0T3oyWXV2VVVPOUhPay1MR2pLQkgzT3o0ZV9mODlkbjc0TExhakNfVk52RDNxU1FRVmxuT2NZTEJwM1lheUpXUXJkeVlWWnZraXlPajZNQ211UzlOaFBrUHhvNERaeVh6NmNjZnVKM3BTdU5LVnlMQlFqRFRUTDhXY3FSb2ZMU2h4bHJGUHlleEZMWWdwTTc2aUlZdlAydw?oc=5",
-      "summary": "From gospel rehearsals to overseas stages, meet Jackson’s Maya Kyles clarionledger.com",
-      "outlet": "clarionledger.com",
-      "outlet_url": "https://www.clarionledger.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-24T10:15:00Z",
-      "first_seen": "2026-09-24T10:38:53Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T22:38:53Z"
-    },
-    {
-      "id": "6ac90b704f44dd96",
-      "title": "Ghana’s Bishops call for action against drug menace",
-      "link": "https://www.vaticannews.va/en/africa/news/2026-09/ghana-s-bishops-call-for-action-against-drug-menace.html",
-      "summary": "The Ghana Catholic Bishops’ Conference warn that the country may be facing a much wider drug-trafficking crisis. The Bishops are calling for stronger action at Ghana’s borders while urging churches, schools, families and communities to confront the growing…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T10:02:00Z",
-      "first_seen": "2026-09-24T14:40:47Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/24/39.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
