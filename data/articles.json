@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-30T05:07:50Z",
+  "generated_at": "2026-09-30T05:40:25Z",
   "story_count": 600,
-  "with_photo": 455,
+  "with_photo": 454,
   "items": [
+    {
+      "id": "6255bbb7e42e21f8",
+      "title": "How megapastor Adam Hamilton could break the GOP's hold on Kansas",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVRXUmU0VV9UM3pVZUw0Y3hSaURxRnZJdkd5RHdHVW1yb3NjU1FrdFNrNjVLb3U5OEFaV3J2YWoteWphRU9YSUMtd2ZDWkJiZjdENkpnQUYxQWNPSkQybVBjLVRvUk4yS2l6bnYwY0ltQUhnY0hweDQzU0dwMWhyX0R1dGZ5QTJDTHFkM01ueGwtX092VXB5V1JUQ0c?oc=5",
+      "summary": "How megapastor Adam Hamilton could break the GOP's hold on Kansas The Christian Century",
+      "outlet": "The Christian Century",
+      "outlet_url": "https://www.christiancentury.org",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T05:33:48Z",
+      "first_seen": "2026-09-30T05:40:25Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-30T17:40:25Z"
+    },
     {
       "id": "fdbe0a5efdab1495",
       "title": "Transgender Actor Elliot Page Covers New York’s First Men’s Style Issue—What Should Christians Make Of It?",
@@ -10944,25 +10960,6 @@
       "first_seen": "2026-09-24T08:40:00Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f3055e86513f906a",
-      "title": "Koryn Hawthorne On \"Big Gospel,\" God’s Favor, And The Songs She’s Still Learning To Live",
-      "link": "https://www.jubileecast.com/articles/39683/20260924/koryn-hawthorne-on-big-gospel-god-s-favor-and-the-songs-she-s-still-learning-to-live.htm",
-      "summary": "Koryn Hawthorne On Big Gospel, God’s Favor, And The Songs She’s Still Learning To Live",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T08:35:25Z",
-      "first_seen": "2026-09-24T08:40:00Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31918/koryn-hawthorne.jpg",
         "via": "media:content"
       },
       "breaking": false,
