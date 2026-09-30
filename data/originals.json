@@ -204,7 +204,10 @@
           "role": "Photographs",
           "names": "Terry Bryant"
         }
-      ]
+      ],
+      "feature": true,
+      "feature_image": "assets/img/freda-catalina-hero-wide.jpg",
+      "feature_focus": "50% 20%"
     },
     {
       "slug": "vmas-2026-taylor-swift-madonna-winners",

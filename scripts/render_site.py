@@ -250,6 +250,34 @@ def video_row(depth: int = 0, limit: int = 3) -> str:
 # ---------------------------------------------------------------------------
 # PAGE: front page
 # ---------------------------------------------------------------------------
+def featured_html(ours: list[dict]) -> tuple[str, str]:
+    """An editor-pinned story shown large at the very top of the front page.
+    A story opts in with "feature": true. The wire's lead slot keeps its own
+    rule (a fresh faith story); this is the publisher choosing to lead with
+    something. Returns (html, slug) - the slug so the grid below can skip it.
+    Image path and focal point are validated; everything is escaped."""
+    import re as _re
+    for a in ours:
+        if not a.get("feature"):
+            continue
+        img = (a.get("feature_image") or a.get("image") or "").strip()
+        if not _re.fullmatch(r"assets/img/[A-Za-z0-9._-]+\.(jpe?g|png|webp)", img):
+            continue
+        focus = (a.get("feature_focus") or "").strip()
+        style = ' style="object-position:%s"' % focus if _re.fullmatch(r"\d{1,3}% \d{1,3}%", focus) else ""
+        href = "story/%s.html" % g.esc(a["slug"])
+        html = (
+            '<section class="feature" aria-label="Featured story">'
+            '<a class="feature__img" href="%s"><img src="%s"%s alt="%s"></a>'
+            '<div class="feature__copy"><p class="feature__tag">Featured</p>'
+            '<h2><a href="%s">%s</a></h2><p class="feature__dek">%s</p>'
+            '<p class="feature__by">%s</p></div></section>'
+            % (href, g.esc(img), style, g.esc(a.get("image_alt", "")), href,
+               g.esc(a["title"]), g.esc(a.get("standfirst", "")), g.esc(a.get("byline", ""))))
+        return html, a["slug"]
+    return "", ""
+
+
 def render_index() -> None:
     now = g.now_utc()
     all_items = stories()
@@ -320,6 +348,9 @@ def render_index() -> None:
         L.nav("home", 0),
         '<main id="main" class="wrap">',
     ]
+    feat_html, feat_slug = featured_html(originals())
+    if feat_html:
+        html.append(feat_html)
     if breaking and len(breaking) > 1:
         html.append(L.srule("Breaking"))
         html.append('<div class="grid">%s</div>'
@@ -338,7 +369,7 @@ def render_index() -> None:
     if ours:
         html.append(L.srule("Our Reporting", "news.html", "All our reporting"))
         html.append('<div class="grid">%s</div>'
-                    % "".join(L.original_card(a, 0, now) for a in ours[:4]))
+                    % "".join(L.original_card(a, 0, now) for a in [x for x in ours if x['slug'] != feat_slug][:4]))
 
     if grid_html:
         html.append(L.srule("The Wire", "news.html", "Full wire"))
