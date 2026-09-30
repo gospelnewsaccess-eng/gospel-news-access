@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T00:10:22Z",
+  "generated_at": "2026-09-30T00:46:23Z",
   "story_count": 600,
-  "with_photo": 459,
+  "with_photo": 458,
   "items": [
     {
       "id": "8f8c77b74d442e89",
@@ -930,6 +930,22 @@
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272093_w_550_373.jpg?v=20260929125418",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "61e6d0090978f565",
+      "title": "Natalie Harp Was Devoted to Controversial Pastor David Jeremiah Before Trump Obsession",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUU9KanpTZzVCRG41WHNkRmJiWU56WTNNa2ItekFtY1NKQWdDaEtKZE91bzRFZVFYaWNVTVAzWlVsRmRxVVlWbm44LWIxX1J5dlhUVEhoR3Q3VHpHX0o4NmdiYmFfOU9HS3pUZTBLVnlKNnRqcWxWaU1paXd6UThVSWw3clBVellTRjNzU0c4ZUdsenNHVzZDZHU0Ni0ya3BiYi1kQm54QjZrSVNjU1NMbVp2cGVZcTBT?oc=5",
+      "summary": "Natalie Harp Was Devoted to Controversial Pastor David Jeremiah Before Trump Obsession The Daily Beast",
+      "outlet": "The Daily Beast",
+      "outlet_url": "https://www.thedailybeast.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-29T15:53:00Z",
+      "first_seen": "2026-09-30T00:46:23Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10956,25 +10972,6 @@
       "first_seen": "2026-09-24T04:39:00Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272044_w_550_309.jpg?v=20260924000528",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "741ffaccc5be3559",
-      "title": "Charles Haywood and how 'no enemies to the right' shields the woke right",
-      "link": "https://www.christianpost.com/voices/charles-haywoods-no-enemies-to-the-right-shields-woke-right.html",
-      "summary": "When Erick Erickson exposed Charles Haywood's patronage network, prominent conservatives accused him of inciting violence. Their overwrought reactions were telling. They made it hard to argue that Haywood is just an isolated pundit with a blog.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T04:02:00Z",
-      "first_seen": "2026-09-24T04:39:00Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272039_w_550_213.jpg?v=20260924000451",
         "via": "media:content"
       },
       "breaking": false,
