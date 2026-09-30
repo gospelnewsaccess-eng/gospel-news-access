@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T09:07:55Z",
+  "generated_at": "2026-09-30T09:42:23Z",
   "story_count": 600,
-  "with_photo": 451,
+  "with_photo": 450,
   "items": [
     {
       "id": "638db66ebe879866",
@@ -587,6 +587,22 @@
         "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/image-17.png",
         "via": "content:encoded"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "638785bf6a3c49f1",
+      "title": "Natalie Harp was ‘devoted’ to Christian minister before finding Trump, brother reveals",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYXpNRGwwdDVHWEhrTDRmM1FzSVBGREdWdU9WaUg2WEJwSmhydk81a2RlWHBFdHhfX0hmdklaUnVhb0h6QmZSa2hSQ0UtU3RFMmRaS1UxVUo3UWtkVDNkbDhBU25tQWNfSVhvZXNRSlVxWlVUczJDOFFaNlVpT3FGbE5JNHpkWV9Cbnh2ZWd4UlpxVE9Ic0xQQ0RNN3pHQjA0TDlwcHkzbGw0enJqMGdpR0hYcHVXclU?oc=5",
+      "summary": "Natalie Harp was ‘devoted’ to Christian minister before finding Trump, brother reveals The Independent",
+      "outlet": "The Independent",
+      "outlet_url": "https://www.independent.co.uk",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-29T22:41:00Z",
+      "first_seen": "2026-09-30T09:42:23Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10932,25 +10948,6 @@
       "first_seen": "2026-09-24T11:38:33Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/08/05/2026-08-05-udienza-generale/1785919204167.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "71eb66d99909c28e",
-      "title": "Chris Tomlin’s Daughter Is Making Her Film Debut—Why Is This Christmas Movie So Personal to His Family?",
-      "link": "https://www.jubileecast.com/articles/39686/20260924/chris-tomlin-s-daughter-is-making-her-film-debut—why-is-this-christmas-movie-so-personal-to-his-family.htm",
-      "summary": "Chris Tomlin’s Daughter Makes Her Film Debut in Christmas Drama About a Teen Aging Out of Foster Care",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T10:33:11Z",
-      "first_seen": "2026-09-24T10:38:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31920/the-one.jpeg",
         "via": "media:content"
       },
       "breaking": false,
