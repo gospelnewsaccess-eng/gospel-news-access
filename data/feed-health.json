@@ -293,7 +293,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:19Z",
+      "last_checked": "2026-09-30T21:07:06Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -301,7 +301,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:20Z",
+      "last_checked": "2026-09-30T21:07:06Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -309,7 +309,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:21Z",
+      "last_checked": "2026-09-30T21:07:07Z",
       "last_item_count": 30,
       "last_status": "ok"
     },
@@ -317,7 +317,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:23Z",
+      "last_checked": "2026-09-30T21:07:09Z",
       "last_item_count": 50,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -326,7 +326,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:30Z",
+      "last_checked": "2026-09-30T21:07:13Z",
       "last_item_count": 25,
       "last_status": "ok"
     },
@@ -334,7 +334,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:31Z",
+      "last_checked": "2026-09-30T21:07:14Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -342,7 +342,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:31Z",
+      "last_checked": "2026-09-30T21:07:15Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -350,7 +350,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:32Z",
+      "last_checked": "2026-09-30T21:07:15Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -359,7 +359,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:34Z",
+      "last_checked": "2026-09-30T21:07:17Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -367,7 +367,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:34Z",
+      "last_checked": "2026-09-30T21:07:17Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -375,20 +375,21 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:35Z",
+      "last_checked": "2026-09-30T21:07:17Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
     "Black Christian News Network": {
       "consecutive_zero": 0,
-      "consecutive_error": 0,
+      "consecutive_error": 1,
       "flagged": false,
-      "last_checked": "2026-09-30T20:12:35Z",
-      "last_item_count": 10,
-      "last_status": "ok",
-      "flagged_since": "2026-09-18T12:45:12Z"
+      "last_checked": "2026-09-30T21:07:57Z",
+      "last_item_count": 0,
+      "last_status": "error",
+      "flagged_since": "2026-09-18T12:45:12Z",
+      "last_error": "URL error: [Errno 101] Network is unreachable"
     }
   },
-  "updated_at": "2026-09-30T20:39:39Z",
+  "updated_at": "2026-09-30T21:07:05Z",
   "flagged_feeds": []
 }
