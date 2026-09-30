@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-30T21:41:17Z",
+  "generated_at": "2026-09-30T22:07:04Z",
   "story_count": 600,
   "with_photo": 444,
   "items": [
+    {
+      "id": "a480f5964eaea016",
+      "title": "Lindsay Clancy holdout juror speaks out about trial, says '3 angels' can't 'speak for themselves'",
+      "link": "https://www.christianpost.com/news/michael-desronvil-speaks-out-about-lindsay-clancy-case.html",
+      "summary": "Michael Desronvil, the holdout juror in the Lindsay Clancy case, is standing by his view that the mother of three is guilty of killing her children. He described the children as “three angels” who cannot “speak for themselves” and is publicly proclaiming his…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T21:28:00Z",
+      "first_seen": "2026-09-30T22:07:04Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272124_w_550_369_555_336.jpg?v=20260930172854",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "89bd36e871e5fe9b",
+      "title": "U.S. bishops post $43.6M gain despite refugee-program revenue plunge",
+      "link": "https://www.ewtnnews.com/world/us/u-s-bishops-post-usd43-6m-gain-despite-refugee-program-revenue-plunge",
+      "summary": "Suspended federal funding made the refugee‑resettlement program grants financially unsustainable and forced staff cuts, the U.S. bishops’ financial report said.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T20:53:23Z",
+      "first_seen": "2026-09-30T22:07:04Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790797708/ewtn-news/en/GettyImages-977060272_n4n4p0.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e7e4788304d3b712",
       "title": "‘Effectively Sharia Law’: Newsom Signs Law Prioritizing Muslim State Holidays",
@@ -11049,44 +11087,6 @@
       "first_seen": "2026-09-25T02:06:30Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31928/kelly-clarkson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ce24948dbd8dfd02",
-      "title": "CAIN Announces New Album PARADISE for 2027, Releases “My Victory’s Coming”",
-      "link": "https://www.jubileecast.com/articles/39698/20260924/cain-paradise-album-my-victorys-coming.htm",
-      "summary": "CAIN Announces New Album PARADISE for 2027, Releases “My Victory’s Coming”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-25T01:15:06Z",
-      "first_seen": "2026-09-25T02:06:30Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31927/cain.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cd81342789b6740d",
-      "title": "Blessed Fulton J. Sheen: His beatification in photos",
-      "link": "https://www.ewtnnews.com/world/us/blessed-fulton-j-sheen-the-beatification-in-photos",
-      "summary": "Archbishop Fulton J. Sheen was declared “blessed” by Pope Leo XIV on Sept. 24.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T00:47:27Z",
-      "first_seen": "2026-09-25T02:06:30Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790277572/ewtn-news/en/SheenBeatificationMassProcession3092426_musbbu.jpg",
         "via": "media:content"
       },
       "breaking": false,
