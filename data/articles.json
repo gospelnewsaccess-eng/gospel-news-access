@@ -1,8 +1,84 @@
 {
-  "generated_at": "2026-09-30T12:48:14Z",
+  "generated_at": "2026-09-30T13:10:45Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 455,
   "items": [
+    {
+      "id": "a625b9aa91a8fc4d",
+      "title": "Brian Doerksen’s Song ‘Whisper’ Arrives Ahead of Posthumous Final Album",
+      "link": "https://www.ccmmagazine.com/news/brian-doerksens-song-whisper-arrives-ahead-of-posthumous-final-album/",
+      "summary": "Just one month after the passing of beloved worship songwriter Brian Doerksen, his first posthumous song has arrived ahead of his final album. And all it begins with a Whisper. “Whisper,” the first song from Doerksen’s forthcoming final album, is available…",
+      "outlet": "CCM Magazine",
+      "outlet_url": "",
+      "source_feed": "CCM Magazine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T13:00:57Z",
+      "first_seen": "2026-09-30T13:10:45Z",
+      "image": {
+        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Brian-Doerksen-Web-Banner.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f71cae2916cae63c",
+      "title": "Woman on Death Row for Satanic Murder Says She Feels ‘a Kinship’ with Lindsay Clancy",
+      "link": "https://mycharisma.com/news/woman-on-death-row-for-satanic-murder-says-she-feels-a-kinship-with-lindsay-clancy/",
+      "summary": "A Tennessee woman on death row for a satanic murder said she feels a “kinship” with Lindsay Clancy, who killed her three children, during an interview with the United Kingdom newspaper The Times. Christa Pike, who is scheduled to die by lethal injection on…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T12:55:14Z",
+      "first_seen": "2026-09-30T13:10:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1f99b3bc49d64a46",
+      "title": "Possible Terror Attack on Israel-Bound Flight Triggers Hijacking Scare Across Region",
+      "link": "https://mycharisma.com/news/possible-terror-attack-on-israel-bound-flight-triggers-hijacking-scare-across-region/",
+      "summary": "A possible hijacking of an Israel-bound passenger jet triggered a major security alert across the region. Fly Dubai Flight 1073 was traveling from Dubai to Tel Aviv when the aircraft suddenly transmitted “7500,” the international emergency code for possible…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T12:35:28Z",
+      "first_seen": "2026-09-30T13:10:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "256ea2a706945519",
+      "title": "Historic Los Angeles Cross and Nativity Will Not Be Torn Down, Appeals Court Rules",
+      "link": "https://mycharisma.com/news/historic-los-angeles-cross-and-nativity-will-not-be-torn-down-appeals-court-rules/",
+      "summary": "A Christmas nativity and a century-old cross at the center of a historic display in Los Angeles will not be banned or torn down, thanks to a ruling by a federal appeals court. An angry atheist filed a lawsuit in 2025 complaining about the 10-foot-tall wooden…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T12:15:38Z",
+      "first_seen": "2026-09-30T13:10:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-152935.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "657c975abeb52113",
       "title": "Pope Leo XIV says ‘rebirth’ is key to understanding France trip",
@@ -370,7 +446,10 @@
       "category": "gospel-trade",
       "published": "2026-09-30T06:00:22Z",
       "first_seen": "2026-09-30T06:09:09Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2023/09/13155423/79550987-8719-fd22-b382-231af9b4e436-e1694634928438.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -570,7 +649,10 @@
       "category": "gospel-trade",
       "published": "2026-09-30T04:03:08Z",
       "first_seen": "2026-09-30T04:07:40Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/29235946/1K-Phew-Timbaland-SAFE-Official-Music-Video-2-6-screenshot-e1790740851631.png",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -1999,7 +2081,10 @@
       "category": "gospel-trade",
       "published": "2026-09-29T13:44:07Z",
       "first_seen": "2026-09-29T14:09:20Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/21102148/photo_5003714136696884451_y-e1790000630175.jpg",
+        "via": "og:image"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10880,76 +10965,6 @@
       "published": "2026-09-24T14:20:44Z",
       "first_seen": "2026-09-24T14:40:47Z",
       "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "45839247c68a7c7d",
-      "title": "Pope Leo calls for climate action before disaster strikes",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-calls-for-climate-action-before-disaster-strikes",
-      "summary": "Addressing the Pontifical Academy of Sciences, the pontiff linked climate preparedness to justice for vulnerable communities.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T14:09:00Z",
-      "first_seen": "2026-09-24T14:40:47Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790254169/ewtn-news/en/_MAR9489_1_fntyv5.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c09b382d4a1821c2",
-      "title": "CONGRATULATIONS TO EARNEST PUGH! “YOUR GLORY 2 C U” IS #1 ON BILLBOARD AND MEDIABASE AIRPLAY CHARTS",
-      "link": "https://pathmegazine.com/articles/congratulations-to-earnest-pugh-your-glory-2-c-u-is-1-on-billboard-and-mediabase-airplay-charts/",
-      "summary": "Earnest Pugh continues his remarkable chart legacy as his powerful worship anthem “Your Glory 2 C U” reaches the #1 position on Billboard and Mediabase, marking his … The post CONGRATULATIONS TO EARNEST PUGH! “YOUR GLORY 2 C U” IS #1 ON BILLBOARD AND…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T14:04:35Z",
-      "first_seen": "2026-09-24T14:40:47Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a12e0598a00b17f4",
-      "title": "Central Texas Christian music artist Whitlee Casey returning to Troy for EP release and worship event",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcHFMWkY1NXpkbllDSUYxOWplOWdsUTFwNzB6QzFuYlVqbHkzRXEyRUFEUS1OcFI2bTBfVy1YeE9sVkxwbExfV04xdGxpei11bFRBNURud0ZEM0RCQjQ3TGxHUk5HX19vcHU2Zm5mMkRGTGxiOEY1NXBfUjFyTmlWa1NRZ3F1MzV3aWM3QWJYSEZKcEtEZnBJUFlRekxsUnhTeEU2OXhlVmgycVRuX1V4Tm4xd0p0ckRtN08zMmw5Y1ZBak1ZYXQyWEpUOW0xeGpBY1JoNzRUeTFwOVh1MS1FYXQ3WTg1ZnlrUkNwbWdxSkY?oc=5",
-      "summary": "Central Texas Christian music artist Whitlee Casey returning to Troy for EP release and worship event KXXV",
-      "outlet": "KXXV",
-      "outlet_url": "https://www.kxxv.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-24T13:56:43Z",
-      "first_seen": "2026-09-24T14:40:47Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T02:40:47Z"
-    },
-    {
-      "id": "c80826821570c160",
-      "title": "Engineer behind Chilean mine rescue recalls race to save 33 trapped men: ‘I cried like a baby’",
-      "link": "https://www.christianpost.com/news/engineer-behind-chilean-mine-rescue-recalls-rescue-efforts.html",
-      "summary": "Ahead of the National Geographic documentary, a young engineer who helped devise the drilling plan that rescued 33 Chilean miners reflects on the extraordinary engineering effort, planning, teamwork and faith that defined the historic 2010 rescue.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T13:42:00Z",
-      "first_seen": "2026-09-24T14:40:47Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272011_w_550_270.jpg?v=20260924100219",
-        "via": "media:content"
-      },
       "breaking": false,
       "breaking_expires_at": null
     }
