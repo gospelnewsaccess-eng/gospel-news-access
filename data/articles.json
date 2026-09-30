@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-09-30T16:40:44Z",
+  "generated_at": "2026-09-30T17:07:59Z",
   "story_count": 600,
   "with_photo": 449,
   "items": [
+    {
+      "id": "38657c5ce6653829",
+      "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules",
+      "link": "https://religionnews.com/2026/09/30/us-can-deport-the-leader-of-wisconsins-largest-mosque-on-national-security-grounds-judge-rules/",
+      "summary": "CHICAGO (AP) — Salah Sarsour was detained in Milwaukee in March by U.S. Immigration and Customs Enforcement officers.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:11:13Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
+    },
+    {
+      "id": "94d921be7505ed7c",
+      "title": "Pope Leo’s visit to France shows how the church and country are changing",
+      "link": "https://religionnews.com/2026/09/30/pope-leo-welcomed-as-rockstar-world-leader-and-pastor-in-france/",
+      "summary": "(RNS) — While the youth greeted the pope like a rockstar, European representatives welcomed him as a respected leader who supports multilateralism, reconciliation, justice and peace.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:00:37Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Leo-Lourdes1.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9a56c18ac6b230fe",
+      "title": "Photos of the Week: Pope Leo in France, Meskel celebrations",
+      "link": "https://religionnews.com/2026/09/30/photos-of-the-week-pope-leo-in-france-meskel-celebrations/",
+      "summary": "(RNS) — This week’s photo selection includes Pope Leo XIV's trip to France, the Orthodox holiday of Meskel and more.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T16:43:19Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
+    },
+    {
+      "id": "f5f79869bfb0382d",
+      "title": "CeCe Winans On Four Decades Of Faith, Fame, & The Future Of Gospel Music (Exclusive)",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQek8tYzh0NEpvV0xRT0VUQks1TF9nWnd0ak1hWUw4REl0ekZpTUp6V1hiTktIRXBBWFltSjBWdnl4NnBFamhpZWVUcUFQbEx5QTd2aFBJVkdZUTVzWmRUZkNRRlk4cVFhN2Fnbm93RGwyaElMMU55QW1WTDh3YnEyanpXWDVkRWxSWGI0bHlqem80N1hOc2pobjBPdERfTVhSS29TU2NJOEVlc0Y5RDRzYXZpdzF2UFE?oc=5",
+      "summary": "CeCe Winans On Four Decades Of Faith, Fame, & The Future Of Gospel Music (Exclusive) Pollstar News",
+      "outlet": "Pollstar News",
+      "outlet_url": "https://news.pollstar.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T16:32:40Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T05:07:59Z",
+      "image_tried": "2026-09-30T17:07:59Z"
+    },
+    {
+      "id": "bf8b45a68d49b40f",
+      "title": "Judge dismisses most of David Sills’ claims against SBC leaders, orders settlement conference",
+      "link": "https://religionnews.com/2026/09/30/judge-dismisses-most-sills-claims-against-sbc-leaders-orders-settlement-conference/",
+      "summary": "(RNS) — A federal judge ruled a defamation claim filed by former professor David Sills, who lost his job to sexual misconduct allegations, could go forward against the SBC's Executive Committee, Guidepost Solutions, Al Mohler and Southern Seminary.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T16:29:50Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2025/06/webRNS-Lyell-Funeral4.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "45b4ff4d1e238d28",
+      "title": "Final report of Synod's canon law commission published",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/final-report-of-synod-s-canon-law-commission-published.html",
+      "summary": "The canon law commission's final report proposes amendments to the Code of Canon Law of the Latin Church, based on the work carried out by the two General Assemblies of the Synod of Bishops in October 2023 and October 2024. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T16:02:00Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2024/10/26/2024-10-26-sinodo-dei-vescovi---xvi-congregazione-generale/1729928616475.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "aec67decab3cb30b",
       "title": "Caleb Flynn Faces Life in Prison After Guilty Verdict in Wife’s Murder",
@@ -91,6 +199,25 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-01T03:42:51Z",
       "image_tried": "2026-09-30T16:28:26Z"
+    },
+    {
+      "id": "2f11ce97e3efa734",
+      "title": "Judge sides with Anglican Church in North America against breakaway chaplains group",
+      "link": "https://www.christianpost.com/news/judge-sides-with-acna-against-breakaway-chaplains-group.html",
+      "summary": "A federal judge has dismissed a lawsuit filed against the Anglican Church in North America (ACNA) by a chaplains group trying to break away from the denomination.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T15:35:46Z",
+      "first_seen": "2026-09-30T17:07:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272119_w_550_275_661_203.jpg?v=20260930113905",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "a140c5c6159299e4",
@@ -5348,7 +5475,8 @@
       "first_seen": "2026-09-28T06:09:48Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-28T18:09:48Z"
+      "breaking_expires_at": "2026-09-28T18:09:48Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "6a7795fc51d46f3b",
@@ -5421,7 +5549,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "31bf2ce07f0a7304",
@@ -5437,7 +5566,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "c7cd5090e57118e5",
@@ -5453,7 +5583,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "2c4bd401bd5ab221",
@@ -5488,7 +5619,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "7f7bc9f6cd1f73fe",
@@ -5504,7 +5636,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "e7d1dae4b89145f1",
@@ -5520,7 +5653,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "aca01db846be6663",
@@ -5536,7 +5670,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "c4d1a756b6c93ade",
@@ -5552,7 +5687,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "ef025395c0a3ea05",
@@ -5587,7 +5723,8 @@
       "first_seen": "2026-09-28T08:40:55Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "8ca10a67e59dd564",
@@ -5641,7 +5778,8 @@
       "first_seen": "2026-09-28T04:41:56Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "96a030601e11591b",
@@ -5771,7 +5909,8 @@
       "first_seen": "2026-09-28T22:07:02Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "d520b19495201651",
@@ -5787,7 +5926,8 @@
       "first_seen": "2026-09-27T22:06:30Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-28T10:06:30Z"
+      "breaking_expires_at": "2026-09-28T10:06:30Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "16e02b49dca3da75",
@@ -5822,7 +5962,8 @@
       "first_seen": "2026-09-27T21:06:40Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-28T09:06:40Z"
+      "breaking_expires_at": "2026-09-28T09:06:40Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "200976bc26fff94c",
@@ -6199,7 +6340,8 @@
       "first_seen": "2026-09-28T17:39:17Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "5421d42056456d0a",
@@ -6386,7 +6528,8 @@
       "first_seen": "2026-09-27T18:40:43Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "f1fc47b285777298",
@@ -6535,7 +6678,8 @@
       "first_seen": "2026-09-27T10:06:58Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T22:06:58Z"
+      "breaking_expires_at": "2026-09-27T22:06:58Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "0323c108876496bd",
@@ -6703,7 +6847,8 @@
       "first_seen": "2026-09-27T07:37:39Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T19:37:39Z"
+      "breaking_expires_at": "2026-09-27T19:37:39Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "a81150153af0ac36",
@@ -6719,7 +6864,8 @@
       "first_seen": "2026-09-27T05:37:35Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T17:37:35Z"
+      "breaking_expires_at": "2026-09-27T17:37:35Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "cc83f128654fedb7",
@@ -6906,7 +7052,8 @@
       "first_seen": "2026-09-26T23:06:45Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "84b76da82739f09d",
@@ -6941,7 +7088,8 @@
       "first_seen": "2026-09-26T22:37:06Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T10:37:06Z"
+      "breaking_expires_at": "2026-09-27T10:37:06Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "90d50555f5d35227",
@@ -6976,7 +7124,8 @@
       "first_seen": "2026-09-26T20:06:25Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T08:06:25Z"
+      "breaking_expires_at": "2026-09-27T08:06:25Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "37999afe27f60f48",
@@ -7068,7 +7217,8 @@
       "first_seen": "2026-09-29T02:06:51Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "e79e14df6505d308",
@@ -7084,7 +7234,8 @@
       "first_seen": "2026-09-26T17:37:15Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T05:37:15Z"
+      "breaking_expires_at": "2026-09-27T05:37:15Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "2350b518d6fa2d5c",
@@ -7176,7 +7327,8 @@
       "first_seen": "2026-09-26T16:07:09Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T04:07:09Z"
+      "breaking_expires_at": "2026-09-27T04:07:09Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "2f722e27f547e596",
@@ -7192,7 +7344,8 @@
       "first_seen": "2026-09-26T15:06:29Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T03:06:29Z"
+      "breaking_expires_at": "2026-09-27T03:06:29Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "dec7cd4fcd9a9427",
@@ -7322,7 +7475,8 @@
       "first_seen": "2026-09-26T13:36:31Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-27T01:36:31Z"
+      "breaking_expires_at": "2026-09-27T01:36:31Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "c024eb96d875522d",
@@ -7585,7 +7739,8 @@
       "first_seen": "2026-09-26T10:06:34Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T22:06:34Z"
+      "breaking_expires_at": "2026-09-26T22:06:34Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "c3748a657ffdddb9",
@@ -7601,7 +7756,8 @@
       "first_seen": "2026-09-26T10:06:34Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T22:06:34Z"
+      "breaking_expires_at": "2026-09-26T22:06:34Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "90a3e07160c7b3e5",
@@ -7921,7 +8077,8 @@
       "first_seen": "2026-09-26T10:37:29Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "0a9111f7802fca39",
@@ -7975,7 +8132,8 @@
       "first_seen": "2026-09-26T07:37:11Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T19:37:11Z"
+      "breaking_expires_at": "2026-09-26T19:37:11Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "dd3a035000599092",
@@ -8029,7 +8187,8 @@
       "first_seen": "2026-09-26T03:38:39Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T15:38:39Z"
+      "breaking_expires_at": "2026-09-26T15:38:39Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "d5523eae3540cd4f",
@@ -8064,7 +8223,8 @@
       "first_seen": "2026-09-26T03:06:33Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T15:06:33Z"
+      "breaking_expires_at": "2026-09-26T15:06:33Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "ee230bceea4fdda2",
@@ -8080,7 +8240,8 @@
       "first_seen": "2026-09-26T01:36:58Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T13:36:58Z"
+      "breaking_expires_at": "2026-09-26T13:36:58Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "ff9cc75c3cf5e621",
@@ -8096,7 +8257,8 @@
       "first_seen": "2026-09-26T00:08:50Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T12:08:50Z"
+      "breaking_expires_at": "2026-09-26T12:08:50Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "e10a5fb394a39d41",
@@ -8188,7 +8350,8 @@
       "first_seen": "2026-09-26T00:08:50Z",
       "image": null,
       "breaking": false,
-      "breaking_expires_at": null
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "fdc16acf7de5d99e",
@@ -8280,7 +8443,8 @@
       "first_seen": "2026-09-25T21:06:55Z",
       "image": null,
       "breaking": true,
-      "breaking_expires_at": "2026-09-26T09:06:55Z"
+      "breaking_expires_at": "2026-09-26T09:06:55Z",
+      "image_tried": "2026-09-30T17:07:59Z"
     },
     {
       "id": "f363c98afee89c10",
@@ -10905,130 +11069,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "20c223587fe78c05",
-      "title": "Half of Americans say they witness a miracle at least a few times a year: study",
-      "link": "https://www.christianpost.com/news/half-of-americans-witness-a-miracle-at-a-few-times-a-year-study.html",
-      "summary": "About half of Americans say they experience or witness a miracle at least a few times a year even as they hold a variety of views about organized religion and the afterlife, according to a new study.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T18:04:00Z",
-      "first_seen": "2026-09-24T18:40:41Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272051_w_550_367_550_271.jpg?v=20260924140459",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1e9cc3a7e318bc4c",
-      "title": "Lecrae – NEED YOU (Bless the Mic)",
-      "link": "https://rapzilla.com/2026-09-lecrae-need-you-bless-the-mic/",
-      "summary": "Lecrae came through to Bless the Mic with his verse from Ryan Trey’s song “NEED YOU.” Filmed at Dafixx Radio in Atlanta, GA, by Will Thomas, and it was sponsored by Faith Over Fear. He also performed “Nothing Left to Hide” as a free verse. Watch Lecrae – NEED…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T18:02:25Z",
-      "first_seen": "2026-09-24T18:40:41Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/24135811/Lecrae-_NEED-YOU_-_-Bless-The-Mic-0-8-screenshot-e1790272767477.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ea6b067c8bdeb4a",
-      "title": "Polish police make arrest after stabbing at Catholic convent leaves 1 dead, 4 injured",
-      "link": "https://www.ewtnnews.com/world/europe/polish-police-make-arrest-after-stabbing-at-catholic-convent-leaves-1-dead-4-injured",
-      "summary": "Police arrested a 31-year-old Ukrainian man for the stabbing. Some local media outlets in Poland report that the deceased man is a Catholic priest.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T17:58:00Z",
-      "first_seen": "2026-09-24T18:40:41Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790269528/ewtn-news/en/JaroslawPoland092426_s2knr3.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b88e576eaec0394c",
-      "title": "2 worship songs crack Billboard Hot 100 in rare feat for Christian music",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVVdpS3J2YmlrR1A2UlNjaF93M0pTYUVRMk93ZWxudHhRU3YwME92OXRpSzlXV1ZaU1Z6Rk1ZdFVTdVlXZDlUMkZlU0RTY2MyeU1LRS11V3lBdF9ZaS12c2hCVk5FXzNBRnpQRmJBMHBNZW8yUEgzVWM2UVVmZGR2eEhNaHZYS3BfUzRGZHhRUkY5QzZFWGYyOUZ3NzhzOXAyZEsw?oc=5",
-      "summary": "2 worship songs crack Billboard Hot 100 in rare feat for Christian music Heartlander News",
-      "outlet": "Heartlander News",
-      "outlet_url": "https://heartlandernews.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-24T17:49:47Z",
-      "first_seen": "2026-09-24T18:08:37Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T06:08:37Z"
-    },
-    {
-      "id": "ca660edb50e313a2",
-      "title": "55th ALC Day of Healing Prayer Breakfast encourages attendees to ‘fight back’",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRzI3dlhFdEVGUThXaEo2enJ6aDkwalpIcHROdkN4RTRZclNIMDNOdnZEZmwwTVdiMWliUmtISnNtdldOMWlKX3lDU1l4ZGZEVzhUdDhvUHlpaUE5Nm1JcjNaQ2RCWjBxWm51T0dZV0VmY0tNWks3S1JfY0dmNWVxWEt1V2E4ZWJUZjFERkszLUM1aEpBOHlyZXEzTlh4d09rSWNRR1VyVWIwTEY3VDJYVjhlSW1kZk92end3?oc=5",
-      "summary": "55th ALC Day of Healing Prayer Breakfast encourages attendees to ‘fight back’ AFRO News",
-      "outlet": "AFRO News",
-      "outlet_url": "https://www.afro.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-24T17:35:56Z",
-      "first_seen": "2026-09-24T18:08:37Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T06:08:37Z"
-    },
-    {
-      "id": "87c341ee4fb30aa0",
-      "title": "Sheen Foundation gathering information on ‘instantaneous’ cancer case, 5 other purported miracles",
-      "link": "https://www.ewtnnews.com/world/us/sheen-foundation-gathering-information-on-instantaneous-cancer-case-5-other-purported-miracles",
-      "summary": "Any purported miracle attributed to Sheen’s intercession since Pope Francis announced his beatification in July 2019 can count toward canonization, which normally requires a second confirmed miracle.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T17:18:00Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790267113/ewtn-news/en/SheenPatronUnborn092426_t6ru2h.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dee94921ce582243",
-      "title": "Peoria’s oldest African American church marks 180 years",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0MxMEJ3VW5jV3pzaGdjbXd5QjFra3pyWnBuLWMzMF9pYkJ0Zmp6anJDOXVrN3hlT2xsdnAwaU96YV93T2JoODl5VGdMR3JqUmRIdURrOUQwSHEwYWQyZ012MUZKNGtMckpJaS1EdWh6VUlkSFlJQk9sR0dRMWY1STV0d0NxLUJsUGlpYk1KRdIBlAFBVV95cUxNZFJDT2lGU1NVNTZrSDRFcERveE85b2pHV2xUOXJmMlgxTWoyU1d4cjNFMV8wZlRaclJTVjcxSVBVRkR4V1VDbkNGSnFmRWUxTExVR183NVJiOWxxazdjdEd1c1lwaHVLX0dSNmw0UEJYOE16bWdMSkdrZnlMaWY4M2ZjbEp5U1ROQlFaWWRSWmNOZkVM?oc=5",
-      "summary": "Peoria’s oldest African American church marks 180 years CIProud.com",
-      "outlet": "CIProud.com",
-      "outlet_url": "https://www.centralillinoisproud.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-24T17:16:40Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T05:36:55Z"
     }
   ]
 }
