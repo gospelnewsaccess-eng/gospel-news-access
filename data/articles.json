@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-09-30T00:46:23Z",
+  "generated_at": "2026-09-30T01:08:43Z",
   "story_count": 600,
   "with_photo": 458,
   "items": [
+    {
+      "id": "b5f15a2f6c19cc04",
+      "title": "Micah Tyler’s “Perfectly” Hits No. 1 at Christian Radio, Marking His Eighth Chart-Topper",
+      "link": "https://www.jubileecast.com/articles/39830/20260929/micah-tyler-perfectly-no-1-christian-radio.htm",
+      "summary": "Micah Tyler’s “Perfectly” Hits No. 1 at Christian Radio, Marking His Eighth Chart-Topper",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T00:49:53Z",
+      "first_seen": "2026-09-30T01:08:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31989/micah-tyler.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ca10d0e9e09592b7",
+      "title": "The Voice Season 30: Standout Auditions, New Coaches and When the Battles Begin",
+      "link": "https://www.jubileecast.com/articles/39829/20260929/the-voice-season-30-standout-auditions-coaches-schedule.htm",
+      "summary": "The Voice Season 30: Standout Auditions, New Coaches and When the Battles Begin",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T00:42:43Z",
+      "first_seen": "2026-09-30T01:08:43Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31894/the-voice-coaches.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "8f8c77b74d442e89",
       "title": "Tallulah Willis Shares Rare New Photo of Dad Bruce Willis Weeks After Her Wedding",
@@ -10938,44 +10976,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-24T19:38:48Z"
-    },
-    {
-      "id": "e91fa5a93c8267ec",
-      "title": "UNESCO Deputy Director: Pope’s visit is timely for our world",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-unesco-peace-multilateralism-artificial-intelligence.html",
-      "summary": "UNESCO’s Deputy Director-General, Åsa Regnér, speaks to Vatican News about the importance of Pope Leo XIV’s visit to the UN agency on September 25, during his Apostolic Journey to France, and emphasizes how multilateral institutions can continue to help build…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T06:36:00Z",
-      "first_seen": "2026-09-24T08:40:00Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/08/the-pope-will-visit-the-headquarters-of-unesco-in-paris.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d1943bb71c6d2992",
-      "title": "More Wiccans than Presbyterians? What's driving the witch revival",
-      "link": "https://www.christianpost.com/voices/more-wiccans-than-presbyterians-whats-driving-witch-revival.html",
-      "summary": "\"Practical Magic 2\" portrays witches as misunderstood healers. Real-world witchcraft today tells a different story, one where curses are for sale and revenge is justified by grievance.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T04:04:36Z",
-      "first_seen": "2026-09-24T04:39:00Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272044_w_550_309.jpg?v=20260924000528",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
