@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-09-30T20:08:02Z",
+  "generated_at": "2026-09-30T20:39:39Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 442,
   "items": [
+    {
+      "id": "d43b0d623fbc6398",
+      "title": "Phil Keaggy talks Jesus Music roots, Guns N’ Roses riff, 'Reagan' director's cut: ‘Our main mission’ was the Gospel",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZkVfTUMyTXlKaDZ3QXZKeS1ETEVLSTU0WEJMLWFqcVAzRmVueGxYN204VXZGUk5INk5UMGRRaG9TY1d4ekdLZlJxUHZFY05McHFZY0dXa3lMd1g0UWQtaTdIZlpoVkZEcXh5d2Q5MmdteGtnSzJYcEJDRlZfTkdjTjFEc1FSNEhlb1R1b3VKRFI?oc=5",
+      "summary": "Phil Keaggy talks Jesus Music roots, Guns N’ Roses riff, 'Reagan' director's cut: ‘Our main mission’ was the Gospel Christian Post",
+      "outlet": "Christian Post",
+      "outlet_url": "https://www.christianpost.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T20:14:00Z",
+      "first_seen": "2026-09-30T20:39:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T08:39:39Z",
+      "image_tried": "2026-09-30T20:39:39Z"
+    },
     {
       "id": "789f21b7fdb65917",
       "title": "Candace Cameron Bure’s Grandson Arrived 10 Weeks Early—Inside The Family’s Emotional Wait To Bring Him Home",
@@ -11069,25 +11086,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "81989ff9082457ee",
-      "title": "Televangelist Archbishop Fulton Sheen beatified in St Louis — one step closer to sainthood",
-      "link": "https://religionnews.com/2026/09/24/televangelist-archbishop-fulton-sheen-beatified-in-st-louis-one-step-closer-to-sainthood/",
-      "summary": "ST. LOUIS (RNS) — In his homily, Cardinal Luis Antonio Tagle preached about Sheen's attention to poverty in the Global South.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T23:01:37Z",
-      "first_seen": "2026-09-24T23:36:35Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Sheen-Beatification4.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
