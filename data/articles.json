@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T19:09:34Z",
+  "generated_at": "2026-09-30T19:38:38Z",
   "story_count": 600,
-  "with_photo": 446,
+  "with_photo": 441,
   "items": [
     {
       "id": "f390ffe0e6a188f4",
@@ -19,6 +19,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T19:09:34Z"
+    },
+    {
+      "id": "f8d163f5171a4f11",
+      "title": "1 in 6 Protestant churchgoers attends a megachurch",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmNCcFBtQ3h1ZWtPc2E1WWZjTm1FdV9ZQlBfd1B2ZlVzcTUtamlmYk1Scjl3QnNJMDZqckpROVU4czk0aUFpd0V0clNiajNqMjlkZExfbGthRzlQUGp1WTMtdHB0SVVLOWtqY09RSHdaelVRVzJUcWx4c1FobjVaOWRwYzdqX3Rac0V0ejNiMllaeHNOS2NuTkhtT0d4XzVZVmJVVA?oc=5",
+      "summary": "1 in 6 Protestant churchgoers attends a megachurch Baptist Press",
+      "outlet": "Baptist Press",
+      "outlet_url": "https://www.baptistpress.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T18:43:08Z",
+      "first_seen": "2026-09-30T19:38:38Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T07:38:38Z",
+      "image_tried": "2026-09-30T19:38:38Z"
     },
     {
       "id": "8d777090c150ea8d",
@@ -228,6 +245,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "8082494f1bdc2e83",
+      "title": "The Black Church in Detroit series examines the future of leadership in the church, 'Faith in Detroit' | American Black Journal",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmpOSm5hZW9hb1I1RTdoTmEyaU51bFVibzFTeHhsWmNPZG80eGtPcE9jeThPQzBFVGtqYkNrV3FsUVp4V2dKV1JRYlRUUHoxbU1mbGozM1VySVhCU3VJcFFDX3hVRnZfM2pGQnhwb29hc1FCY21vVXpZMUVwOFVsVnlwR3UwQnBFZlVTa2x6S1FfS1NWdEhNeFZPQmFQZnBvWXBLVm9NMDFQMERXblpzNF9XZnd1ZWZZdFFTRW93VVQxRURlSTFqQ3dDQXZLd3JWZjlpR0xXeVVEaERiaUhYbDhXeFZWWEYw?oc=5",
+      "summary": "The Black Church in Detroit series examines the future of leadership in the church, 'Faith in Detroit' | American Black Journal BridgeDetroit",
+      "outlet": "BridgeDetroit",
+      "outlet_url": "https://www.bridgedetroit.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T17:11:32Z",
+      "first_seen": "2026-09-30T19:38:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T19:38:38Z"
+    },
+    {
       "id": "38657c5ce6653829",
       "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules",
       "link": "https://religionnews.com/2026/09/30/us-can-deport-the-leader-of-wisconsins-largest-mosque-on-national-security-grounds-judge-rules/",
@@ -351,6 +385,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "a7e6846e6b0c301b",
+      "title": "Music Services Welcomes Nick LaPointe, Elevates Jay Sudarma",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX29vUnNfRDU0VnpTOGdnWXdpS2hsT09JU1Q1QnBHQ0NlYUppb2VjVFlLekZONHFzbXRuT2hobHJrNE5uNFNPeDZQTlN1blJSeUZOaVQ5c3hVUXRFaUpkTWhubFRVcWEtNm5hc05XcmI3Q1d0bDZYMkl5RllxeVAwaFpGUGVfazRLd182NlpfMmw?oc=5",
+      "summary": "Music Services Welcomes Nick LaPointe, Elevates Jay Sudarma Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T16:02:01Z",
+      "first_seen": "2026-09-30T19:38:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T19:38:38Z"
     },
     {
       "id": "45b4ff4d1e238d28",
@@ -478,6 +529,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "5692222d4e56b8ab",
+      "title": "Grammy-Winning Rock Band Switchfoot Extends 'Forever Now Tour' Internationally in 2027",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdnBxNHpMc0RvUkFRRTNWQjBBXzVBRGtRSmlDampHbTNyMldxcHI2M1VHXzRxNlRkdDdBVUt5VDBPQUJfTVdaNTdkSmV5aTM3dmlGZVNrWkFXRGtIZGU1ZVp1VE1tNTZmZVhiR2JQWlBoUHZmbVpHU3JUa3Y2bHB3a3VGU0JBY0NFZjExV193a01RbjBkOUZPQ19KVkp1SUczczZHM19ZNmVPcWl1eDdDVGgtdw?oc=5",
+      "summary": "Grammy-Winning Rock Band Switchfoot Extends 'Forever Now Tour' Internationally in 2027 Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T15:31:57Z",
+      "first_seen": "2026-09-30T19:38:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T19:38:38Z"
     },
     {
       "id": "a140c5c6159299e4",
@@ -3533,6 +3601,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "333fb6dc8b08a8b9",
+      "title": "Stitchie: A legacy that connected dancehall, gospel",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGZaemVJNUd0dzFZQ1NVMHp5eDZvZnNVR2s1U25sRkMwejJpT1VBaGpoa1BZV3ZzNkVQSXgwejc2MGxfbEVCLUJYbzMtUUNpemFjTHplSC04SU5qRjdiZGpFNTZLWGFjYVBfQkU2VjNLTHZnSUVWdjFHcVhBa2VORzNUeE1YOU90c0dMNEtMNA?oc=5",
+      "summary": "Stitchie: A legacy that connected dancehall, gospel Jamaica Observer",
+      "outlet": "Jamaica Observer",
+      "outlet_url": "https://www.jamaicaobserver.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-29T09:02:03Z",
+      "first_seen": "2026-09-30T19:38:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T19:38:38Z"
+    },
+    {
       "id": "5c65a628cd879037",
       "title": "Netflix's Narnia is an attack on Aslan's Christ figure",
       "link": "https://www.christianpost.com/voices/netflixs-narnia-is-an-attack-on-aslans-christ-figure.html",
@@ -4358,6 +4443,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "9f77467f2cbdce6d",
+      "title": "Lt Stitchie, dancehall icon who found new calling in gospel, dies at 60",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZEFiLUJVVHZIMzBuVFZjNzdUME1pcHZMdDUwTFFtZnBralRFMWpXZjR4dWcyMTJKX3hQNjFHaEMtWUJKMXlTV1VFTzVOR3hFTjhfb1dHUDZRQVFSRnRiNjhJVlVPUjVfRmZ2RlpJc3dPNjQteENHSGxnZmYtOFBseHhyek5lT0QwOEl0VHY1U0g3M2ZWdzFkSkJpbFlYUlZoVGNxV0xn?oc=5",
+      "summary": "Lt Stitchie, dancehall icon who found new calling in gospel, dies at 60 Jamaica Observer",
+      "outlet": "Jamaica Observer",
+      "outlet_url": "https://www.jamaicaobserver.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-28T18:30:20Z",
+      "first_seen": "2026-09-30T19:38:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T19:38:38Z"
     },
     {
       "id": "aa44ad15d7ab9c83",
@@ -10978,118 +11080,6 @@
       "first_seen": "2026-09-24T21:36:39Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272061_w_550_367_545_316.jpg?v=20260924165641",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cb8b51c97060926b",
-      "title": "Florida Demands School Fire Teacher After She Went After Conservative Student",
-      "link": "https://mycharisma.com/news/florida-demands-school-fire-teacher-after-she-went-after-conservative-student/",
-      "summary": "Florida Attorney General James Uthmeier is calling for Sarasota County Schools to fire a teacher after she allegedly harassed an eighth-grader over his conservative views. Pine View School history teacher Liz Ballard allegedly called the student a…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T20:51:17Z",
-      "first_seen": "2026-09-24T21:36:39Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec3623bba794fb13",
-      "title": "Biblical themes take center stage in new ‘Heart of the Beast’ featurette",
-      "link": "https://www.christianpost.com/news/biblical-themes-take-center-stage-in-heart-of-the-beast.html",
-      "summary": "A new featurette for “Heart of the Beast,” the upcoming survival thriller starring Brad Pitt, highlights the film’s biblical themes of faith, sacrifice, unconditional love and perseverance, drawing parallels between its story and Psalm 23.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T20:37:00Z",
-      "first_seen": "2026-09-24T21:36:39Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272052_w_550_309.jpg?v=20260924163740",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a517b584905d2404",
-      "title": "Brad Pitt’s New Survival Thriller Invokes Psalm 23—But How Central Is Faith to \"Heart of the Beast\"?",
-      "link": "https://www.jubileecast.com/articles/39695/20260924/brad-pitt-s-new-survival-thriller-invokes-psalm-23—but-how-central-is-faith-to-heart-of-the-beast.htm",
-      "summary": "Brad Pitt’s New Survival Thriller Invokes Psalm 23—But How Central Is Faith to Heart of the Beast?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T20:35:05Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31351/brad-pitt.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0947cd1d9c87f713",
-      "title": "Opinion | Are Lynchings Really Happening?",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFhvSFduRC1OS0R1TG5EeS1lS19Td05aTEtWdWx3ODZYZS1TVG9rR0U1RmdteDdBaFZrQjBRVFZLVWR5b1lsZFkxREltN29QYmgwQ25hUS1OVEYxcHp2TUZjaEl4TFkxNjJLYUdzMWxFSW9VajBEdVJWTklEdk8yalBCamo4Rk1QVllVTFBITHE?oc=5",
-      "summary": "Opinion | Are Lynchings Really Happening? nytimes.com",
-      "outlet": "nytimes.com",
-      "outlet_url": "https://www.nytimes.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-24T20:30:03Z",
-      "first_seen": "2026-09-25T14:08:03Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "eb0e37a956b3af9c",
-      "title": "Cardinal Tagle: Fulton Sheen’s mission was to bring people to Christ",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/cardinal-tagle-homily-beatification-mass-fulton-sheen-missionary.html",
-      "summary": "At the beatification of Archbishop Fulton J. Sheen in St Louis, Cardinal Luis Antonio Tagle reflects on the missionary vocation of the American bishop, whose preaching reached millions through radio and television. But, he says, Sheen’s blessedness lay not in…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T20:30:00Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/07/06/Fulton_J._Sheen_1956.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6981030461fdc0d1",
-      "title": "Chris Tomlin Lets 3,100 Voices Take Over at AWAKE Houston—What Happens After the Singing Stops?",
-      "link": "https://www.jubileecast.com/articles/39694/20260924/chris-tomlin-lets-3-100-voices-take-over-at-awake-houston—what-happens-after-the-singing-stops.htm",
-      "summary": "Chris Tomlin Lets 3,100 Voices Take Over at AWAKE Houston—What Happens After the Singing Stops?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T20:23:44Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27739/chris-tomlin.jpg",
         "via": "media:content"
       },
       "breaking": false,
