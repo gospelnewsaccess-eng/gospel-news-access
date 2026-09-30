@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-30T04:07:40Z",
+  "generated_at": "2026-09-30T04:40:53Z",
   "story_count": 600,
-  "with_photo": 456,
+  "with_photo": 455,
   "items": [
+    {
+      "id": "3722afe0fe622961",
+      "title": "7th Annual Hudson Valley Gospel Festival Uplifts",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTZhckZxYkNLQ201ckNCbk5XdDZCc0lJOUFRUG1xYWxvYlRpc19UaEZpWlQzVkxHY25INTV1V3k1cjVxeFZNRFgxLTRPZ2t3ekVqeVJhOEVZYVpmcEo4cUNYOWpIN1Bmc09DclN3MUVZT2tIWVJ2WWVkSk14ZE1qS0xOdkJRTjVWYXRYdmpYb2NIY1Jj?oc=5",
+      "summary": "7th Annual Hudson Valley Gospel Festival Uplifts Hudson Valley Press",
+      "outlet": "Hudson Valley Press",
+      "outlet_url": "https://hudsonvalleypress.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T04:04:11Z",
+      "first_seen": "2026-09-30T04:40:53Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-09-30T16:40:53Z"
+    },
     {
       "id": "c2bf5e3805d03ca8",
       "title": "Timbaland Reveals How God Led Him to 1K Phew for ‘Seven Trumpets’ Album",
@@ -10947,25 +10963,6 @@
       "first_seen": "2026-09-24T08:40:00Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30938/brian-doerksen.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "41b4f22aab86f756",
-      "title": "Presley Gerber Was Found in a Bedroom at a Santa Monica Recovery Facility—What Have Investigators Learned?",
-      "link": "https://www.jubileecast.com/articles/39671/20260924/presley-gerber-was-found-in-a-bedroom-at-a-santa-monica-recovery-facility—what-have-investigators-learned.htm",
-      "summary": "Presley Gerber Was Found in a Bedroom at a Santa Monica Recovery Facility—What Have Investigators Learned?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T07:49:12Z",
-      "first_seen": "2026-09-24T08:40:00Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31889/presley-gerber.jpg",
         "via": "media:content"
       },
       "breaking": false,
