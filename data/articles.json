@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-09-30T14:59:59Z",
+  "generated_at": "2026-09-30T15:11:49Z",
   "story_count": 600,
-  "with_photo": 454,
+  "with_photo": 453,
   "items": [
+    {
+      "id": "4d04493940d072ea",
+      "title": "Tauren Wells on how pastoring has changed him, burnout, and rediscovering God’s Presence",
+      "link": "https://pathmegazine.com/articles/tauren-wells-on-how-pastoring-has-changed-him-burnout-and-rediscovering-gods-presence/",
+      "summary": "For Tauren Wells, planting a church initially seemed like an opportunity to pour his gifts and vision into serving God. But the experience ultimately became a deeply … The post Tauren Wells on how pastoring has changed him, burnout, and rediscovering God’s…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T15:11:27Z",
+      "first_seen": "2026-09-30T15:11:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a44f3700f5b60f3b",
+      "title": "Breaking: Christa Pike Execution Halted at the Eleventh Hour",
+      "link": "https://mycharisma.com/news/breaking-christa-pike-execution-halted-at-the-eleventh-hour/",
+      "summary": "In a stunning eleventh-hour turn, Christa Pike will not be executed Wednesday—at least not yet. Right after Charisma reported on the Tennessee death row inmate’s unusual comments about feeling a “kinship” with Lindsay Clancy, a federal appeals court stepped…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T15:07:13Z",
+      "first_seen": "2026-09-30T15:11:49Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7bf3119df624df31",
+      "title": "Documentary about St. Carlo Acutis premieres at the Vatican",
+      "link": "https://www.ewtnnews.com/vatican/documentary-about-st-carlo-acutis-premieres-at-the-vatican",
+      "summary": "“Carlo Acutis: The Young Saint” is set to premiere in North America in February 2027.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T14:39:00Z",
+      "first_seen": "2026-09-30T15:11:49Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790772002/ewtn-news/en/ACUTIS_Repertorio_01_fvna39.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "92c8c63edad11c82",
+      "title": "Seattle Earthquake Strikes Near Fault Capable of Magnitude 9.0 ‘Big One’",
+      "link": "https://mycharisma.com/news/seattle-earthquake-strikes-near-fault-capable-of-magnitude-9-0-big-one/",
+      "summary": "A magnitude 4.2 earthquake shook the Seattle area Tuesday evening, prompting thousands of reports across Puget Sound and drawing renewed attention to a nearby fault capable of producing a catastrophic magnitude 9.0 earthquake. The earthquake struck…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T14:34:53Z",
+      "first_seen": "2026-09-30T15:11:49Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "b530a831bd858bc2",
       "title": "Christmas with Dublin Gospel Choir",
@@ -10884,82 +10957,6 @@
       "first_seen": "2026-09-24T16:39:03Z",
       "image": {
         "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-United-Nations-Protests2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "68ec842ea62630bc",
-      "title": "‘A foretaste of heaven’: Sheen beatification organizers eager for Mass",
-      "link": "https://www.ewtnnews.com/world/us/sheen-beatification-organizers-eager",
-      "summary": "The Sept. 24 beatification Mass will include 89 bishops, about 1,000 priests, about 850 each of seminarians and religious, and 250 deacons, along with about 50,000 total attendees, organizers said.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:08:32Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790263972/ewtn-news/en/SheenBeatificationPresser1092426_qvrmhi.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "14beb4976c19ec90",
-      "title": "Philip Anthony Mitchell: ‘Biblical Christianity’ is losing influence in US, warns against ‘soft’ Jesus",
-      "link": "https://www.christianpost.com/news/philip-anthony-mitchell-christianity-is-losing-influence-in-us.html",
-      "summary": "Philip Anthony Mitchell, pastor of one of the fastest-growing churches in the United States, is warning that biblical illiteracy has helped create a generation of Christians attracted to spirituality but increasingly disconnected from Scripture.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:03:09Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272047_w_550_420_670_367.jpg?v=20260924120953",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "db684b816a40ba8b",
-      "title": "Actor David Henrie says he 'lost everyone' after embracing Christ",
-      "link": "https://www.christianpost.com/news/actor-david-henrie-i-lost-everyone-after-becoming-christian.html",
-      "summary": "Actor David Henrie is opening up about how he “lost everyone” in his inner circle after becoming a Christian in Hollywood before making new friends in addition to reflecting on what caused him to become a Catholic.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:03:00Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272041_w_550_315_539_173.jpg?v=20260924120409",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bc97ee27eccb31f9",
-      "title": "Triple Murderer’s Last Words Point to the Unmatched Mercy of Jesus",
-      "link": "https://mycharisma.com/news/triple-murderers-last-words-point-to-the-unmatched-mercy-of-jesus/",
-      "summary": "Ker’Sean Ramey praised God and thanked his fellow death row inmates moments before Texas executed him Wednesday for the brutal murders of three people. Ramey, 41, received a lethal injection at the state penitentiary in Huntsville and was pronounced dead at…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T15:33:41Z",
-      "first_seen": "2026-09-24T15:39:02Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
         "via": "content:encoded"
       },
       "breaking": false,
