@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T03:07:45Z",
+  "generated_at": "2026-09-30T03:41:29Z",
   "story_count": 600,
-  "with_photo": 458,
+  "with_photo": 457,
   "items": [
     {
       "id": "6fd25540b9c7a29b",
@@ -640,6 +640,22 @@
       "category": "faith",
       "published": "2026-09-29T19:56:30Z",
       "first_seen": "2026-09-29T20:08:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "020c98b4cbd64f08",
+      "title": "Dem rally at Boynton Beach Black church shows their voters are engaged",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMUpEaDNrc3E0NE5yMEh3UVR3bEdnR3JSMEVBTlFDek00c01VQW5NM0xEQ1FiejY3bjZuV0RsUE5VaWNGM2ZPamtkNTRWUzRDemRZSEhzaFVIZW9MZlZWNDlqNUMzUFhGbEN0aXJyQ0FydzhkMXoxOUF1ejlYVl80VEpYTTJlbm1xNTg4?oc=5",
+      "summary": "Dem rally at Boynton Beach Black church shows their voters are engaged Yahoo",
+      "outlet": "Yahoo",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-29T19:31:06Z",
+      "first_seen": "2026-09-30T03:41:29Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10953,25 +10969,6 @@
       "first_seen": "2026-09-24T07:38:48Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/21507/kelly-price.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8db5209a830fdfcc",
-      "title": "Meryl Streep Will Voice Aslan in Netflix’s New Narnia Movie—Why Are Fans Divided?",
-      "link": "https://www.jubileecast.com/articles/39669/20260924/meryl-streep-will-voice-aslan-in-netflix-s-new-narnia-movie—why-are-fans-divided.htm",
-      "summary": "Meryl Streep Will Voice Aslan in Netflix’s New Narnia Movie—Why Are Fans Divided?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T07:41:08Z",
-      "first_seen": "2026-09-24T07:38:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31865/meryl-streep.jpg",
         "via": "media:content"
       },
       "breaking": false,
