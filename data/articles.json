@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T12:10:03Z",
+  "generated_at": "2026-09-30T12:48:14Z",
   "story_count": 600,
-  "with_photo": 451,
+  "with_photo": 450,
   "items": [
     {
       "id": "657c975abeb52113",
@@ -780,6 +780,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31987/u2-band.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6664455030280158",
+      "title": "Dolly, a force for good",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LOFNTak5CTFZRYWRNcUxBMXZkZFZoUWQ1Q3JSZ1puUmRFYzdCWEpfQ2RpVXdGaEtFQnlOQWhDeDZkQkl0cnF5Ym0zSjBqQUxPSVpQLXlIRkZoRDh4RnRnVE9ua3h0UDYtalFKVFpQb2dNdw?oc=5",
+      "summary": "Dolly, a force for good johnsoncitypress.com",
+      "outlet": "johnsoncitypress.com",
+      "outlet_url": "https://johnsoncitypress.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-29T23:30:00Z",
+      "first_seen": "2026-09-30T12:48:14Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10932,25 +10948,6 @@
       "first_seen": "2026-09-24T14:40:47Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272011_w_550_270.jpg?v=20260924100219",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "40c0d6662f6a50cd",
-      "title": "Pope meets with Hungarian PM, Portuguese President",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-meets-with-hungarian-pm-portuguese-president.html",
-      "summary": "Pope Leo meets separately with the Prime Minister of Hungary and the President of Portugal, discussing topics such as global conflict, multilateralism, and the situation of Christian minorities around the world. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T13:38:00Z",
-      "first_seen": "2026-09-24T14:40:47Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/24/13/1790247604603.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
