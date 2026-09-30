@@ -1,8 +1,139 @@
 {
-  "generated_at": "2026-09-30T17:39:37Z",
+  "generated_at": "2026-09-30T18:09:09Z",
   "story_count": 600,
-  "with_photo": 447,
+  "with_photo": 446,
   "items": [
+    {
+      "id": "3af38191b84fe775",
+      "title": "Dinesh D’Souza Warns of 3 Forces Destroying America",
+      "link": "https://mycharisma.com/news/dinesh-dsouza-warns-of-3-forces-destroying-america/",
+      "summary": "Dinesh D’Souza came to the United States from India at 17 and discovered a nation where ordinary people could prosper, innovate and determine the course of their lives. Speaking alongside scholar Stanley Fish at New College of Florida, D’Souza described the…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:57:57Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1ada384d9e72c7ad",
+      "title": "As Springfield prepares to bury Haitian student, sympathy surges and deportations continue",
+      "link": "https://religionnews.com/2026/09/30/as-springfield-prepares-to-bury-haitian-student-sympathy-surges-and-deportations-continue/",
+      "summary": "(RNS) — From US senators to John Legend, many are voicing support for the city’s Haitian community, even as neo-Nazis marched downtown Saturday.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:39:38Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Carl-Ruby1.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "39af99964441f774",
+      "title": "‘The Lord Roars from Zion’: Christians Representing 70 Nations in Jerusalem for Biblical Feast of Tabernacles",
+      "link": "https://mycharisma.com/news/the-lord-roars-from-zion-christians-representing-70-nations-in-jerusalem-for-biblical-feast-of-tabernacles/",
+      "summary": "JERUSALEM, Israel – After nearly three years of war, both airlines and tourists are returning to Israel. In this holiday season of Sukkot, also known as the Feast of Tabernacles, Christians are returning to celebrate. Against the hostile backdrop of U.N…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:37:50Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-152935.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "72bbc78b9b03b618",
+      "title": "Are religious charter schools constitutional? After deadlocked SCOTUS decision, another Oklahoma case is trying to find out",
+      "link": "https://religionnews.com/2026/09/30/are-religious-charter-schools-constitutional-after-deadlocked-scotus-decision-another-oklahoma-case-is-trying-to-find-out/",
+      "summary": "(The Conversation) — A new application for a religious charter school is stirring up far-reaching questions about the constitutionality of public aid to faith-based institutions.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:32:15Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "https://images.theconversation.com/files/762544/original/file-20260928-50-6osizn.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e1ae9af6a88f8aa8",
+      "title": "Bishop Barron in Rome: Despite tension, Catholicism is deeply aligned with American ideals",
+      "link": "https://www.ewtnnews.com/vatican/bishop-barron-despite-tension-catholicism-is-aligned-deeply-to-american-ideals",
+      "summary": "The Catholic evangelist discussed America’s 250th anniversary at the Pontifical North American College on Sept. 30.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:29:02Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790781069/ewtn-news/en/887_4977.MXF.00_01_09_18.Still002_mus3gf.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "81811d50042f43d3",
+      "title": "Mediators are working to broker a US-Iran deal, but major hurdles remain",
+      "link": "https://religionnews.com/2026/09/30/mediators-are-working-to-broker-a-us-iran-deal-but-major-hurdles-remain/",
+      "summary": "CAIRO (AP) —The indirect talks come as the conflict, which is entering its eighth month, has caused global economic damage and badly battered Iran.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:25:09Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T18:09:09Z"
+    },
+    {
+      "id": "67b7140a8b5aaf5f",
+      "title": "Tony Blair Lays Out Prerequisites for a ‘Free Palestine’ at Board of Peace Gathering",
+      "link": "https://mycharisma.com/news/tony-blair-lays-out-prerequisites-for-a-free-palestine-at-board-of-peace-gathering/",
+      "summary": "Former British Prime Minister and senior member of the Board of Peace, Sir Tony Blair, made a speech on Wednesday about what would be necessary for Palestinians living in Gaza to be free. Speaking at the Board of Peace gathering held during the UN General…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T17:12:55Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "38657c5ce6653829",
       "title": "US can deport the leader of Wisconsin’s largest mosque on national security grounds, judge rules",
@@ -55,6 +186,25 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T17:07:59Z"
+    },
+    {
+      "id": "0d654e10dd59e161",
+      "title": "'Dr. Dino' Kent Hovind calls prison system unbiblical in resurfaced podcast",
+      "link": "https://www.christianpost.com/news/dr-dino-kent-hovind-calls-modern-prison-system-unbiblical.html",
+      "summary": "Creationism evangelist Kent Hovind, who served nearly nine years in federal prison on tax-related convictions, says that the U.S. prison system should be abolished in favor of biblical punishments such as restitution, corporal punishment or execution.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T16:33:00Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272060_w_550_284.jpg?v=20260930123732",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "f5f79869bfb0382d",
@@ -3455,6 +3605,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "6da8266609b10d74",
+      "title": "Kirk Franklin Faces Backlash Over New Song With GloRilla - Foxy 107.1-104.3",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUR3emFONjhpS1FhMEpxTHRMZzdBUzg1UFJLa3NHbXdDaExOMUI5VmI2SFFIS1F0dVpfWTV1LUFhVFlOam8tbDRDTUIzWFdRczFaeHBKY0RjaUU2c1U0blRJWm9jd2RIU1FQaTVTYnk2d0xYeEU0aDFwSkpZVVlsb1JTUzJUd0ZuRzhfRA?oc=5",
+      "summary": "Kirk Franklin Faces Backlash Over New Song With GloRilla Foxy 107.1-104.3",
+      "outlet": "Foxy 107.1-104.3",
+      "outlet_url": "https://foxync.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-29T03:29:36Z",
+      "first_seen": "2026-09-30T18:09:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-09-30T18:09:09Z"
     },
     {
       "id": "6039212511b9e488",
@@ -10924,175 +11091,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ba7f29b7cefdc0fe",
-      "title": "The Black Church Enters ‘AI is the Apocalypse’ Debate",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdVd6N3FSYnRSWjFwMk5mcUhQMVFVU0kyLWNsaUt4MkdfQlkzQmR5WHFIQVZ5c1hTSU1nRHRuWXdla05taWtYV1lQMjNkdjJKdzctWld1X0JRdnBhelA1c0FPNjVZQkxXd2JMWHlhNTFjcDdnZjFrY2lFUXZIUTZqX25ab2VfV1RsTE13VWZFRQ?oc=5",
-      "summary": "The Black Church Enters ‘AI is the Apocalypse’ Debate The Root",
-      "outlet": "The Root",
-      "outlet_url": "https://www.theroot.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-24T20:02:26Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T08:39:20Z",
-      "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "469470a3d35b0d37",
-      "title": "\"Daniel and the Fiery Furnace\" Adds Showtimes After $3.3 Million Opening—Will Audiences Keep Showing Up?",
-      "link": "https://www.jubileecast.com/articles/39691/20260924/daniel-and-the-fiery-furnace-adds-showtimes-after-3-3-million-opening—will-audiences-keep-showing-up.htm",
-      "summary": "Daniel and the Fiery Furnace Adds Showtimes After $3.3 Million Opening—Will Audiences Keep Showing Up?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T20:01:17Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31849/daniel-the-fiery-furnace.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bc11911b6cce4540",
-      "title": "What Did Dolly Parton’s Nephew Bryan Seaver Allegedly Do? New Lawsuit Describes Threats and Staff Fears",
-      "link": "https://www.jubileecast.com/articles/39690/20260924/what-did-dolly-parton-s-nephew-bryan-seaver-allegedly-do-new-lawsuit-describes-threats-and-staff-fears.htm",
-      "summary": "What Did Dolly Parton’s Nephew Bryan Seaver Allegedly Do? New Lawsuit Describes Threats and Staff Fears",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T19:52:42Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31924/bryan-seaver.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "af431509f6962cb9",
-      "title": "50 pro-life leaders call on FDA nominee Dr. Heidi Overton to restore 'minimal safeguards' on mifepristone",
-      "link": "https://www.christianpost.com/news/50-pro-life-leaders-ask-fda-to-restore-safeguards-on-mifepristone.html",
-      "summary": "A coalition of 50 pro-life leaders, including pastors, released a joint statement on Thursday calling on FDA Commissioner nominee Dr. Heidi Overton to restore earlier safeguards on the abortion drug mifepristone while the agency finishes a long-running safety…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T19:48:57Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272054_w_550_367.jpg?v=20260924155030",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d51f98198c915458",
-      "title": "Taylor Swift Teases a Family Death in “Patient Zero” Preview—What Is Happening in Her New Video?",
-      "link": "https://www.jubileecast.com/articles/39689/20260924/taylor-swift-teases-a-family-death-in-patient-zero-preview—what-is-happening-in-her-new-video.htm",
-      "summary": "Taylor Swift Teases a Family Death in “Patient Zero” Preview—What Is Happening in Her New Video?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T19:45:56Z",
-      "first_seen": "2026-09-24T20:39:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31923/taylor-swift.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "10fbf2fffd1b5705",
-      "title": "NEEDTOBREATHE Surprises Fans With New Songs and Mystery Collaborations on \"The Fellow Passengers of Pain\"",
-      "link": "https://www.jubileecast.com/articles/39688/20260924/needtobreathe-surprises-fans-with-new-songs-and-mystery-collaborations-on-the-fellow-passengers-of-pain.htm",
-      "summary": "NEEDTOBREATHE Surprises Fans With New Songs and Mystery Collaborations on The Fellow Passengers of Pain",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T19:40:54Z",
-      "first_seen": "2026-09-24T19:36:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31922/needtobreathe.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "691cf11735d99200",
-      "title": "Lucas Miles Says Preaching “Just Jesus” Is Not Enough—What Does He Want Pastors to Say About Politics?",
-      "link": "https://www.jubileecast.com/articles/39687/20260924/lucas-miles-says-preaching-just-jesus-is-not-enough—what-does-he-want-pastors-to-say-about-politics.htm",
-      "summary": "Lucas Miles Says Preaching “Just Jesus” Is Not Enough—What Does He Want Pastors to Say About Politics?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T19:36:45Z",
-      "first_seen": "2026-09-24T19:36:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31921/lucas-miles.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2deb599fc7e6055f",
-      "title": "Venezuelan DACA recipient among 16 arrested in illegal voting crackdown",
-      "link": "https://www.christianpost.com/news/daca-recipient-among-16-arrested-in-illegal-voting-crackdown.html",
-      "summary": "The U.S. Department of Justice DOJ has charged 16 individuals as part of a broader federal crackdown on election integrity ahead of the November midterms.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T18:56:35Z",
-      "first_seen": "2026-09-24T19:36:22Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272045_w_550_313.jpg?v=20260924140835",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4b153fa78b0ed42d",
-      "title": "Federal judge rules Oklahoma can't ban Jewish charter school over religion",
-      "link": "https://www.christianpost.com/news/judge-rules-oklahoma-cant-ban-jewish-charter-school-over-religion.html",
-      "summary": "A district court has ruled that Oklahoma officials cannot require a proposed Jewish charter school to be non-religious.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T18:49:33Z",
-      "first_seen": "2026-09-24T19:36:22Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272053_w_550_367_564_356.jpg?v=20260924145400",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
