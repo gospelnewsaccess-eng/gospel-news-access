@@ -1,8 +1,24 @@
 {
-  "generated_at": "2026-09-30T14:11:12Z",
+  "generated_at": "2026-09-30T14:48:16Z",
   "story_count": 600,
-  "with_photo": 456,
+  "with_photo": 454,
   "items": [
+    {
+      "id": "b530a831bd858bc2",
+      "title": "Christmas with Dublin Gospel Choir",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aRjRveTR5Q1BjcjlycGw0OUdzc3NJekU0ME9Wc3lCRjBzeWQ0SzFObU16c0hPcXU1dXpCX29sUFhOa0ptNGxSX3c1SFJrRVNidVNEbVc5Y2NIM2JaV3hyWXpqVVFQc2hFOEJLOEpuN3VZbzdOank4emNBd0lGUQ?oc=5",
+      "summary": "Christmas with Dublin Gospel Choir journalofmusic.com",
+      "outlet": "journalofmusic.com",
+      "outlet_url": "https://journalofmusic.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T14:33:40Z",
+      "first_seen": "2026-09-30T14:48:16Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T02:48:16Z"
+    },
     {
       "id": "e9ae61d41248d13a",
       "title": "Vatican nuncio to German bishops: Pope and Eucharist prevent a ‘Christian-flavored NGO’",
@@ -37,6 +53,22 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T02:11:12Z"
+    },
+    {
+      "id": "1127a070a01be256",
+      "title": "Campaign snapshot: Jolly, Nixon bring energy to South Florida rally",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTBvX0JTQkFWekp5eFZraTIybFJPUENSUE92NjBUb3k4dkt5OGZWSUZsTnVFUnBWeWRFeDdLRlpMQ181dTd2Q2ZkRVRNTVJBeXBSRF95cjhNOF9qajBfdXRDTUQwTm14TFJJek5vVFZrdnFlTEVGT1FHS2FTLTZCOFI2OHV1RzE3WVJPdHJmSC1rcXFSUW9Kc3B0aEc2Ti1TejJVMWdRY01zRE1fa0kyV2lQUEVNU3BRdkdacjhOMVIwcHNsUk5Ga0xBQTFHdUMxeGt4TFlTaw?oc=5",
+      "summary": "Campaign snapshot: Jolly, Nixon bring energy to South Florida rally The Palm Beach Post",
+      "outlet": "The Palm Beach Post",
+      "outlet_url": "https://www.palmbeachpost.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T13:43:45Z",
+      "first_seen": "2026-09-30T14:48:16Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T02:48:16Z"
     },
     {
       "id": "0688dfebd5620ed6",
@@ -111,6 +143,22 @@
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31255/nancy-guthrie.jpg",
         "via": "media:content"
       },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9577dae22fb9df4c",
+      "title": "Wilson Idol returns with Oct. 17 celebration",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNG8xYkpCOXNvcXlSWmt1Mjh4cG9Fb2xBTjc3MjFQekNYV1pkVUpPYTFXNnhBUW1YTVM5ZFIxdnRqejFtdjFpRlJHc05TZ3FqZGczTmEzY0FhNHZKTTlVTTJ4UUljN192Yng1NFNmT2I3UHpwMmVBLTY4R1REaDUza0hmTVdnTjNiOTBxbWhB?oc=5",
+      "summary": "Wilson Idol returns with Oct. 17 celebration The Wilson Times",
+      "outlet": "The Wilson Times",
+      "outlet_url": "https://www.wilsontimes.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-30T13:03:14Z",
+      "first_seen": "2026-09-30T14:48:16Z",
+      "image": null,
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10913,60 +10961,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1d755d8e43bc2126",
-      "title": "‘That Ambiguity Is Where Faith Is Born’: T.D. Jakes on the Danger of Being Too Sure",
-      "link": "https://relevantmagazine.com/faith/t-d-jakes-on-healing-hope-and-the-power-of-community/",
-      "summary": "Earlier this month, The Potter’s House in Dallas marked T.D. Jakes’ 50 years in ministry by playing clips of his sermons from across five decades. Jakes, 69, told the congregation they sounded different to him than to everyone else in the room. “When you all…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T15:32:50Z",
-      "first_seen": "2026-09-24T15:39:02Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2025/06/td-jakes-featured.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6314e1f2bc56dffd",
-      "title": "Anne Wilson's Story to Become a Movie: 'My Jesus' Will Chronicle Faith amid Tragedy",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMHM5cGI3d2NvSXg4QTNxdFczYUtLMXNJMjB6emp1bnVRNVAzOC1ZRk1OU2Y3WWVWR0NYQ2Z3cVNDNmJVcWNNaWpFN2lpMFhhLUc5em5qRjlGeWU2UEh4eEJDa0lYZGtsSjliUzZXT0tYanVaclRYRGdVUjlHOW5wRWlZMG9SOVVZUEc5WjBYMmxxWFNIcFFidDRpWEl0QWRIMWRvNDc2aWIzRlBpZUF4Z0ZNMmxMMUpiUm92WEZhUjl6NGFSMkctX1JnMTdLTWdoYUh0Yy1GVUNvTkRfMWpvOQ?oc=5",
-      "summary": "Anne Wilson's Story to Become a Movie: 'My Jesus' Will Chronicle Faith amid Tragedy Crosswalk.com",
-      "outlet": "Crosswalk.com",
-      "outlet_url": "https://www.crosswalk.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-24T15:18:00Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T04:39:03Z"
-    },
-    {
-      "id": "1dfc7d64caca2b3b",
-      "title": "Philip Anthony Mitchell says biblical illiteracy, soft sermons are weakening the Church",
-      "link": "https://www.christianpost.com/video/philip-anthony-mitchell-warns-soft-sermons-weakening-the-church.html",
-      "summary": "Philip Anthony Mitchell warns that biblical illiteracy, cultural Christianity and a growing appetite for comfortable messages are weakening the Church.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T15:17:59Z",
-      "first_seen": "2026-09-24T15:39:02Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272048_w_550_420.jpg?v=20260924111742",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
