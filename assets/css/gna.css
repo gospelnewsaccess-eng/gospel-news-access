@@ -488,3 +488,8 @@ a:hover{text-decoration:underline;}
   .story__vid--short{display:inline-block;width:calc(50% - 12px);vertical-align:top}
   .story__vid--short + .story__vid--short{margin-left:16px}
 }
+
+/* Photographs placed inside a story body. */
+.story__photo{margin:28px 0}
+.story__photo img{width:100%;height:auto;display:block}
+.story__photo figcaption{font-size:.85rem;opacity:.72;padding-top:8px;line-height:1.5}

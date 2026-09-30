@@ -42,9 +42,9 @@
       "byline": "Gospel News Access Staff",
       "published": "2026-09-30T16:00:00Z",
       "updated": null,
-      "image": "assets/img/freda-catalina-fever.jpg",
-      "image_alt": "Freda Payne performing at Catalina Jazz Club in Los Angeles",
-      "image_credit": "Terry Bryant / Newswire Hollywood",
+      "image": "assets/img/freda-catalina-hero.jpg",
+      "image_alt": "Freda Payne in a black lace gown with a sheer neckline, microphone in hand, smiling out at the room at Catalina Jazz Club",
+      "image_credit": "Freda Payne at Catalina Jazz Club, Los Angeles, September 26, 2026. Photo by Terry Bryant / Newswire Hollywood.",
       "body": [
         "There is a moment near the end of the evening that tells you what kind of woman Freda Payne is.",
         "She had just spent ninety minutes at the Catalina Jazz Club on Sunset Boulevard singing the women who made her — Ella Fitzgerald, Sarah Vaughan, Lena Horne, Nancy Wilson, Dinah Washington, Peggy Lee, Gloria Lynne, Dakota Staton, Eartha Kitt. The house was sold out. Her son was announcing from the wings. It was the weekend of her birthday.",
@@ -57,11 +57,15 @@
         "What separates the evening from every other tribute show is that Payne is not performing history. She lived it. She met Sarah Vaughan and came to know her, and describes her voice the way a musician would — “like listening to a violin or a viola. Very soothing.” She met Dinah Washington as a young woman and was frightened of her, and won her over by refusing to be pushed around.",
         "She sang “How High the Moon” for Ella, “Body and Soul” for Sarah, “Guess Who I Saw Today” for Nancy Wilson, “I Wish You Love” for Gloria Lynne, and “The Late Late Show” for Dakota Staton.",
         "That last one carried her sixty years back in four bars. She was sixteen, she said, spending a summer at Idlewild, the Black resort in Michigan, allowed into the matinees because she was too young for the nightclubs at night. She heard Dakota Staton sing it there, and something about her own life was settled.",
+        "Then, for Peggy Lee, she sang “Fever.” She brought two men up onto the stage with her, in gold lamé, on her own birthday weekend, and worked the song between them at exactly the tempo she wanted. The room came apart.",
+        "{{photo:fever}}",
         "## The company",
         "Her son, Gregory Abbott Jr., hosted and announced the evening. Payne made a point of his name twice, unprompted, the second time cutting herself off mid-sentence to make sure he was properly credited.",
+        "{{photo:gregory}}",
         "Thomasina Gross opened the show portraying Eartha Kitt, in a performance Payne called “spot on” — and it was, right down to a staged scene at a candlelit table that she held by doing almost nothing at all.",
         "The band was led by musical director and pianist Josh Nelson, with Chris Colangelo on bass, Ricky Woodard on saxophone and Marcello Carelli on drums. Actors Terryl DaLuz and Kyrel Jaundoo appeared, with Chuka Aruh and Mi-cha-El Wat as escorts.",
         "Stefanie Powers and Loretta Devine were in the audience, among many other familiar faces from the industry, on a weekend when the MTV Video Music Awards had every camera in Los Angeles pointed across town.",
+        "{{photo:powers}}",
         "## What it was really about",
         "Tribute shows are usually about the dead. This one was about gratitude — for the women who went first, for a voice that still works after six decades, and for another year to use it.",
         "Payne sails at the end of October aboard Holland America, performing on a cruise from Fort Lauderdale to Puerto Rico and back, on a bill that also carries Darlene Love and Wayne Newton.",
@@ -86,6 +90,26 @@
           "short": true,
           "title": "Freda Payne at Catalina — performance clip",
           "caption": "From the performance."
+        }
+      ],
+      "photos": [
+        {
+          "id": "fever",
+          "src": "assets/img/freda-catalina-fever.jpg",
+          "alt": "Freda Payne in gold sings Fever at Catalina Jazz Club between two dancers under red light",
+          "caption": "“Fever.” Peggy Lee’s song, worked between two dancers on Payne’s birthday weekend. Photo by Terry Bryant / Newswire Hollywood."
+        },
+        {
+          "id": "gregory",
+          "src": "assets/img/freda-catalina-gregory.jpg",
+          "alt": "Freda Payne in a rose satin robe with feather cuffs beside her son Gregory Abbott Jr. at Catalina Jazz Club",
+          "caption": "Freda Payne with her son, host and announcer Gregory Abbott Jr. Photo by Terry Bryant / Newswire Hollywood."
+        },
+        {
+          "id": "powers",
+          "src": "assets/img/freda-catalina-powers.jpg",
+          "alt": "Thomasina Gross, Stefanie Powers and Freda Payne together at Catalina Jazz Club",
+          "caption": "Thomasina Gross, Stefanie Powers and Freda Payne at Catalina. Photo by Terry Bryant / Newswire Hollywood."
         }
       ]
     },

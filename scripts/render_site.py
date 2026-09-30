@@ -1558,10 +1558,38 @@ def render_originals() -> list[dict]:
         pub = g.parse_dt(a["published"]) or now
         byline = a.get("byline") or "Gospel News Access Staff"
         dateline_bits = [x for x in [a.get("dateline"), pub.astimezone(g.PACIFIC).strftime("%B %-d, %Y at %-I:%M %p Pacific")] if x]
+        import re as _re
+        depth_prefix = "../"   # story pages live one folder down
+
+        def _src(path):
+            # A relative asset path written in a story file must resolve from
+            # story/, so it needs the step back up. Absolute URLs pass through.
+            if path.startswith(("http://", "https://", "/", "../")):
+                return path
+            return depth_prefix + path
+
+        photo_map = {}
+        for ph in a.get("photos", []):
+            pid = (ph.get("id") or "").strip()
+            src = (ph.get("src") or "").strip()
+            # ids and paths are validated, never trusted: a story file is copy.
+            if (_re.fullmatch(r"[a-z0-9-]{1,40}", pid)
+                    and _re.fullmatch(r"assets/img/[A-Za-z0-9._-]+\.(jpe?g|png|webp)", src)):
+                photo_map[pid] = ph
+
         def _para(t):
+            t = t.strip()
+            # "{{photo:id}}" places a photo listed under "photos" right here.
+            m = _re.fullmatch(r"\{\{photo:([a-z0-9-]{1,40})\}\}", t)
+            if m:
+                ph = photo_map.get(m.group(1))
+                if not ph:
+                    return ""     # unknown id - drop it rather than emit it
+                return ('<figure class="story__photo"><img src="%s" alt="%s" loading="lazy">'
+                        '<figcaption>%s</figcaption></figure>'
+                        % (g.esc(_src(ph["src"])), g.esc(ph.get("alt", "")), g.esc(ph.get("caption", ""))))
             # "## Heading" gives a real subheading. Everything stays escaped:
             # a story body is copy, never markup.
-            t = t.strip()
             if t.startswith("## "):
                 return "<h2>%s</h2>" % g.esc(t[3:].strip())
             return "<p>%s</p>" % g.esc(t)
@@ -1603,7 +1631,7 @@ def render_originals() -> list[dict]:
         if a.get("image"):
             img_html = ('<figure class="hero__fig"><img src="%s" alt="%s">'
                         '<figcaption class="hero__credit">%s</figcaption></figure>'
-                        % (g.esc(a["image"]), g.esc(a.get("image_alt", "")),
+                        % (g.esc(_src(a["image"])), g.esc(a.get("image_alt", "")),
                            g.esc(a.get("image_credit", ""))))
 
         body = f"""<h1>{g.esc(a['title'])}</h1>
