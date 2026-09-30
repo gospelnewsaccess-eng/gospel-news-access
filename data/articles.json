@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-30T05:40:25Z",
+  "generated_at": "2026-09-30T06:09:09Z",
   "story_count": 600,
-  "with_photo": 454,
+  "with_photo": 453,
   "items": [
+    {
+      "id": "6a054ad3e47fd7a1",
+      "title": "Future Legacy Hip-Hop Showcase Hits Nashville for Dove Awards Week",
+      "link": "https://rapzilla.com/2026-09-future-legacy-hip-hop-showcase-nashville-dove-awards-week/",
+      "summary": "Nashville is getting ready for a major night of music. The Future Legacy Hip-Hop Showcase arrives at Cannery Hall on Sunday, October 4. Sponsored by VYB, the event spotlights some of the top artists in hip-hop. DJ Focus and Keal K will host the evening’s…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T06:00:22Z",
+      "first_seen": "2026-09-30T06:09:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9fb94910c7c6d99f",
+      "title": "Country Trio Lady A And R&B Icons Boyz II Men Unite For ‘The Chosen’—Why This Collaboration Gets Personal",
+      "link": "https://www.jubileecast.com/articles/39835/20260930/country-trio-lady-a-and-r-b-icons-boyz-ii-men-unite-for-the-chosen-—why-this-collaboration-gets-personal.htm",
+      "summary": "Country Trio Lady A And R&B Icons Boyz II Men Unite For ‘The Chosen’—Why This Collaboration Gets Personal",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T05:40:48Z",
+      "first_seen": "2026-09-30T06:09:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28057/the-chosen.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7a353d424e1844c9",
+      "title": "Former Oklahoma Baptist University President Bob Agee Dies At 87—What Makes A Christian University Truly Christian?",
+      "link": "https://www.jubileecast.com/articles/39834/20260930/former-oklahoma-baptist-university-president-bob-agee-dies-at-87—what-makes-a-christian-university-truly-christian.htm",
+      "summary": "Former Oklahoma Baptist University President Bob Agee Dies At 87—What Makes A Christian University Truly Christian?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T05:33:53Z",
+      "first_seen": "2026-09-30T06:09:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31991/bob-agee.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6255bbb7e42e21f8",
       "title": "How megapastor Adam Hamilton could break the GOP's hold on Kansas",
@@ -18,6 +72,25 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T17:40:25Z"
+    },
+    {
+      "id": "11d20e80a2d1e8c3",
+      "title": "Tauren Wells on church scandal, burnout and rediscovering God’s presence",
+      "link": "https://www.christianpost.com/news/tauren-wells-on-church-scandal-burnout-and-new-album.html",
+      "summary": "Grammy-nominated artist and pastor Tauren Wells opens up about how planting a church transformed his faith, navigating burnout and his hope that his new album \"Here Comes the Church\" will help Christians rediscover the beauty, diversity and importance of…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T05:18:24Z",
+      "first_seen": "2026-09-30T06:09:09Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272115_w_550_370.jpg?v=20260930011906",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "fdbe0a5efdab1495",
@@ -160,6 +233,25 @@
       "first_seen": "2026-09-30T05:07:50Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272111_w_550_367_577_120.jpg?v=20260930000748",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6cc6c7bb32552c2c",
+      "title": "Ex-youth pastor pleads guilty to transporting minor across state lines for sex",
+      "link": "https://www.christianpost.com/news/ex-youth-pastor-pleads-guilty-to-transporting-minor-for-sex.html",
+      "summary": "A former Mississippi youth pastor accused of using her position to groom a teenager under the age of 18 and transporting a child across state lines for illicit sexual purposes has accepted a plea deal, according to reports.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T04:00:14Z",
+      "first_seen": "2026-09-30T06:09:09Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272116_w_550_341.jpg?v=20260930011258",
         "via": "media:content"
       },
       "breaking": false,
@@ -10865,101 +10957,6 @@
       "first_seen": "2026-09-24T10:38:53Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1789760677/ewtn-news/en/Ciudad-Juarez-El-Paso-Shutterstock-170926_beunxl_cpap7d.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9710efba28165876",
-      "title": "12 things to know ahead of Pope Leo XIV’s trip to France",
-      "link": "https://www.ewtnnews.com/vatican/12-things-to-know-ahead-of-pope-leo-xiv-s-trip-to-france",
-      "summary": "Pope Leo XIV will visit the cities of Paris, Lourdes, and Metz from Sept. 25–28 during his trip to France.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T10:00:00Z",
-      "first_seen": "2026-09-24T10:38:53Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790113291/ewtn-news/en/popeleofrancetrip_duqlv1.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "445be8cc289ef453",
-      "title": "Archbishop Fulton Sheen: A 'master of modern media'",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/beyond-noise-ahead-of-archbishop-fulton-sheens-beatification.html",
-      "summary": "Amid the noise of our media-driven world, Bishop Louis Tylka of Peoria, Illinois, reflects on what Archbishop Fulton Sheen called “the most important conversation in a human life”—the one that takes place “in the depths of the heart.” Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T09:32:00Z",
-      "first_seen": "2026-09-24T11:38:33Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/08/18/archbp-fulton-sheen.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "73819c8d3d56abbe",
-      "title": "Who was Archbishop Fulton J. Sheen?",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/who-was-archbishop-fulton-sheen-jason-gray-beatification.html",
-      "summary": "On the eve of his beatification, the Executive Director of the Archbishop Fulton J. Sheen Foundation explores the life and legacy of this famous evangelizer. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T09:12:00Z",
-      "first_seen": "2026-09-24T09:39:04Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/23/fulton-j-sheen.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "170ec94144f41a03",
-      "title": "Live, Laugh, Love … and Submit? + Kristin Kobes Du Mez",
-      "link": "https://religionnews.com/2026/09/24/live-laugh-submit-kristin-kobes-du-mez/",
-      "summary": "Kicking off a new season with a deep dive into shiplap, essential oil, Sandi Patty, and various and sundry staples of Christian womanhood.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T09:05:50Z",
-      "first_seen": "2026-09-24T10:38:53Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/1201.sx_.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cbf407c4ab45e9ab",
-      "title": "Caleb Flynn’s Former Mistress Takes The Stand: What Did His Message “I Choose You. I’m Free” Mean Hours Before His Wife Was Killed?",
-      "link": "https://www.jubileecast.com/articles/39684/20260924/caleb-flynn-s-former-mistress-takes-the-stand-what-did-his-message-mean-hours-before-his-wife-was-killed.htm",
-      "summary": "Caleb Flynn’s Former Mistress Takes The Stand: What Did His Message Mean Hours Before His Wife Was Killed?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T08:42:00Z",
-      "first_seen": "2026-09-24T08:40:00Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
         "via": "media:content"
       },
       "breaking": false,
