@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T22:40:17Z",
+  "generated_at": "2026-09-30T23:06:13Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 444,
   "items": [
     {
       "id": "7dc770b5425e93db",
@@ -19,6 +19,25 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-01T10:40:17Z",
       "image_tried": "2026-09-30T22:40:17Z"
+    },
+    {
+      "id": "0f84781e50c6349f",
+      "title": "Being a businessman is a vocation and a path to holiness, Catholic expert says",
+      "link": "https://www.ewtnnews.com/world/americas/being-a-businessman-is-a-vocation-and-a-path-to-holiness-catholic-expert-says",
+      "summary": "In the business vocation, “God invites the entrepreneur to assist in his creation, to improve it, and to make it more habitable for humanity,” noted Luis Fernando Calvo.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T21:51:41Z",
+      "first_seen": "2026-09-30T23:06:13Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790785680/ewtn-news/en/Equipo-empresa-Shutterstock-290926_nwm59n_pp5txa.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "a480f5964eaea016",
@@ -11072,23 +11091,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "f6bfe17643a26b3e",
-      "title": "Granddaughter retraces Oklahoma roots of gospel hit “I’ll Fly Away”",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS2wzNmMzSTVOU2NPejhVeDJfODNlZ2h5MDdDeHhzQXJETmx3bzdXeXBxN2M0T2hPUEpIRkpJZDlLd3lWcUhjbVlhQm53c05KQThtNERxMFdNYTk2ellLRF9HQWhQS0EweDU2SWxTX1VsN2JsUU1NWEVIc0FqQzYzeUpSM2tKclhESU1UbFNSY2J0ZTVM?oc=5",
-      "summary": "Granddaughter retraces Oklahoma roots of gospel hit “I’ll Fly Away” News 9",
-      "outlet": "News 9",
-      "outlet_url": "https://www.news9.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-25T01:31:25Z",
-      "first_seen": "2026-09-25T05:39:03Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:39:37Z"
     }
   ]
 }
