@@ -42,9 +42,9 @@
       "byline": "Gospel News Access Staff",
       "published": "2026-09-30T14:42:00Z",
       "updated": null,
-      "image": "assets/img/freda-catalina-gospel-lead.jpg",
-      "image_alt": "Freda Payne in a rose satin robe with feather cuffs and gold chandelier earrings, smiling beside her son Gregory Abbott Jr. at Catalina Jazz Club",
-      "image_credit": "Freda Payne with her son, host Gregory Abbott Jr., at Catalina Jazz Club, Los Angeles. Photo by Terry Bryant.",
+      "image": "assets/img/freda-catalina-gold-lead.jpg",
+      "image_alt": "Freda Payne in a gold lame halter and flared trousers, leaning into the microphone under red stage light at Catalina Jazz Club",
+      "image_credit": "Freda Payne at Catalina Jazz Club, Los Angeles, September 26, 2026. Photo by Terry Bryant.",
       "body": [
         "One week after her eighty-fourth birthday, Freda Payne walked out at the Catalina Jazz Club in Los Angeles and made time stand still.",
         "That is not a figure of speech. For as long as the show ran, the room stopped being a room on a Saturday night in Hollywood and became something older and softer, a place where the great women of American song were, for a while, present again.",
@@ -57,7 +57,6 @@
         "She opened with “How High the Moon,” Ella Fitzgerald’s signature, and sang “I Wish You Love” for Gloria Lynne, “Body and Soul” for Sarah Vaughan and “Guess Who I Saw Today” for Nancy Wilson. Each one arrived like a letter from an old friend.",
         "## A voice that soothes",
         "Soothing is the word that keeps coming back. Payne’s voice is unhurried and warm, and it works on a room the way a hand works on a shoulder. It is the voice of a woman who has sung for six decades and has nothing left to prove and nothing left to hide.",
-        "{{photo:gold}}",
         "She described Sarah Vaughan’s voice the same way, as “like listening to a violin or a viola. Very soothing.” The two singers met, and Payne came to know her. The compliment runs both directions.",
         "## A girl at Idlewild",
         "The number that carried her furthest back was Dakota Staton’s “The Late Late Show.” Payne was sixteen, living in Detroit, and spending summers at Idlewild, the Black resort community in Michigan, where her mother had a cottage.",
@@ -66,6 +65,7 @@
         "Dinah Washington, whom Payne met young and feared at first, is the other side of that memory. “I think it’s because I kind of stood up to her,” Payne said of how the older singer came around. “She could tell I was no pushover.” Washington died at thirty-nine.",
         "## A mother and her son",
         "The evening was announced by Payne’s son, Gregory Abbott Jr., who introduced the special guest and then his mother. He did it with the ease of a man who knows the room. She named him twice in conversation afterward, and each time it was plain which credit mattered most to her. “Most important of all too, my son.”",
+        "{{photo:robe}}",
         "{{photo:portrait}}",
         "## The company",
         "Thomasina Gross opened the show as Eartha Kitt, a portrayal Payne called “spot on,” and it is. In one staged scene Gross sat at a candlelit table with two martinis and a man in a suit, and held the whole room with a stillness that the photographs catch better than any description.",
@@ -109,12 +109,6 @@
           "caption": "Freda Payne in black lace. Photo by Terry Bryant."
         },
         {
-          "id": "gold",
-          "src": "assets/img/freda-catalina-stage-02.jpg",
-          "alt": "Freda Payne in a gold lame halter and flares singing under red stage light",
-          "caption": "In gold. Photo by Terry Bryant."
-        },
-        {
           "id": "portrait",
           "src": "assets/img/freda-catalina-gregory-portrait.jpg",
           "alt": "Gregory Abbott Jr. in a blue satin shirt at Catalina Jazz Club",
@@ -137,6 +131,12 @@
           "src": "assets/img/freda-catalina-powers.jpg",
           "alt": "Thomasina Gross, Stefanie Powers and Freda Payne together at Catalina Jazz Club",
           "caption": "Thomasina Gross, Stefanie Powers and Freda Payne. Photo by Terry Bryant."
+        },
+        {
+          "id": "robe",
+          "src": "assets/img/freda-catalina-gospel-lead.jpg",
+          "alt": "Freda Payne in a rose satin robe with feather cuffs and gold chandelier earrings, smiling beside her son Gregory Abbott Jr.",
+          "caption": "Freda Payne with her son, host Gregory Abbott Jr. Photo by Terry Bryant."
         }
       ],
       "credits": [
@@ -206,8 +206,9 @@
         }
       ],
       "feature": true,
-      "feature_image": "assets/img/freda-catalina-hero-wide.jpg",
-      "feature_focus": "50% 20%"
+      "feature_image": "assets/img/freda-catalina-gold-lead.jpg",
+      "feature_focus": "50% 20%",
+      "feature_layout": "portrait"
     },
     {
       "slug": "vmas-2026-taylor-swift-madonna-winners",

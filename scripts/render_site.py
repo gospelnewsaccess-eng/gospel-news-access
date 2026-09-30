@@ -267,12 +267,13 @@ def featured_html(ours: list[dict]) -> tuple[str, str]:
         style = ' style="object-position:%s"' % focus if _re.fullmatch(r"\d{1,3}% \d{1,3}%", focus) else ""
         href = "story/%s.html" % g.esc(a["slug"])
         html = (
-            '<section class="feature" aria-label="Featured story">'
+            '<section class="feature%s" aria-label="Featured story">'
             '<a class="feature__img" href="%s"><img src="%s"%s alt="%s"></a>'
             '<div class="feature__copy"><p class="feature__tag">Featured</p>'
             '<h2><a href="%s">%s</a></h2><p class="feature__dek">%s</p>'
             '<p class="feature__by">%s</p></div></section>'
-            % (href, g.esc(img), style, g.esc(a.get("image_alt", "")), href,
+            % (" feature--portrait" if a.get("feature_layout") == "portrait" else "",
+               href, g.esc(img), style, g.esc(a.get("image_alt", "")), href,
                g.esc(a["title"]), g.esc(a.get("standfirst", "")), g.esc(a.get("byline", ""))))
         return html, a["slug"]
     return "", ""

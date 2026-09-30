@@ -512,3 +512,8 @@ a:hover{text-decoration:underline;}
 .feature__dek{font-size:1.02rem;line-height:1.5;opacity:.9;margin:0 0 14px}
 .feature__by{font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;opacity:.65;margin:0}
 @media (max-width:760px){.feature{grid-template-columns:1fr}.feature__img img{min-height:0}.feature__copy{padding:20px 18px 24px}}
+
+/* Portrait lead: a tall photograph beside the headline instead of a wide strip. */
+.feature--portrait{grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr)}
+.feature--portrait .feature__img img{aspect-ratio:3/4;min-height:0;height:auto}
+@media (max-width:760px){.feature--portrait{grid-template-columns:1fr}}
