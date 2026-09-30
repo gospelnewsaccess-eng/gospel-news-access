@@ -1558,7 +1558,42 @@ def render_originals() -> list[dict]:
         pub = g.parse_dt(a["published"]) or now
         byline = a.get("byline") or "Gospel News Access Staff"
         dateline_bits = [x for x in [a.get("dateline"), pub.astimezone(g.PACIFIC).strftime("%B %-d, %Y at %-I:%M %p Pacific")] if x]
-        body_html = "".join("<p>%s</p>" % g.esc(p) for p in a.get("body", []))
+        import re as _re
+        depth_prefix = "../"   # story pages live one folder down
+
+        def _src(path):
+            # A relative asset path written in a story file must resolve from
+            # story/, so it needs the step back up. Absolute URLs pass through.
+            if path.startswith(("http://", "https://", "/", "../")):
+                return path
+            return depth_prefix + path
+
+        photo_map = {}
+        for ph in a.get("photos", []):
+            pid = (ph.get("id") or "").strip()
+            src = (ph.get("src") or "").strip()
+            # ids and paths are validated, never trusted: a story file is copy.
+            if (_re.fullmatch(r"[a-z0-9-]{1,40}", pid)
+                    and _re.fullmatch(r"assets/img/[A-Za-z0-9._-]+\.(jpe?g|png|webp)", src)):
+                photo_map[pid] = ph
+
+        def _para(t):
+            t = t.strip()
+            # "{{photo:id}}" places a photo listed under "photos" right here.
+            m = _re.fullmatch(r"\{\{photo:([a-z0-9-]{1,40})\}\}", t)
+            if m:
+                ph = photo_map.get(m.group(1))
+                if not ph:
+                    return ""     # unknown id - drop it rather than emit it
+                return ('<figure class="story__photo"><img src="%s" alt="%s" loading="lazy">'
+                        '<figcaption>%s</figcaption></figure>'
+                        % (g.esc(_src(ph["src"])), g.esc(ph.get("alt", "")), g.esc(ph.get("caption", ""))))
+            # "## Heading" gives a real subheading. Everything stays escaped:
+            # a story body is copy, never markup.
+            if t.startswith("## "):
+                return "<h2>%s</h2>" % g.esc(t[3:].strip())
+            return "<p>%s</p>" % g.esc(t)
+        body_html = "".join(_para(p) for p in a.get("body", []))
 
         # Corrections print inline at the bottom of the corrected story, dated.
         corr_html = ""
@@ -1571,11 +1606,39 @@ def render_originals() -> list[dict]:
                          '<p>Our full <a href="../corrections.html">corrections '
                          'policy</a>.</p></div>' % items)
 
+        vid_html = ""
+        if a.get("videos"):
+            import re as _re
+            frames = []
+            for v in a["videos"]:
+                vid = (v.get("id") or "").strip()
+                if not _re.fullmatch(r"[A-Za-z0-9_-]{6,20}", vid):
+                    continue   # not a YouTube id - drop it rather than emit it
+                short = " story__vid--short" if v.get("short") else ""
+                frames.append(
+                    '<figure class="story__vid%s"><div class="story__frame">'
+                    '<iframe src="https://www.youtube.com/embed/%s" title="%s" '
+                    'loading="lazy" allowfullscreen '
+                    'referrerpolicy="strict-origin-when-cross-origin"></iframe></div>'
+                    '<figcaption>%s <a href="https://youtu.be/%s" rel="noopener">Watch on YouTube</a></figcaption></figure>'
+                    % (short, vid, g.esc(v.get("title", "Video")),
+                       g.esc(v.get("caption", "")), vid))
+            if frames:
+                vid_html = ('<section class="story__vids"><h2>Watch</h2>%s</section>'
+                            % "".join(frames))
+
+        credits_html = ""
+        if a.get("credits"):
+            rows = "".join("<dt>%s</dt><dd>%s</dd>" % (g.esc(c.get("role", "")), g.esc(c.get("names", "")))
+                           for c in a["credits"] if c.get("role") and c.get("names"))
+            if rows:
+                credits_html = '<section class="story__credits"><h2>Credits</h2><dl>%s</dl></section>' % rows
+
         img_html = ""
         if a.get("image"):
             img_html = ('<figure class="hero__fig"><img src="%s" alt="%s">'
                         '<figcaption class="hero__credit">%s</figcaption></figure>'
-                        % (g.esc(a["image"]), g.esc(a.get("image_alt", "")),
+                        % (g.esc(_src(a["image"])), g.esc(a.get("image_alt", "")),
                            g.esc(a.get("image_credit", ""))))
 
         body = f"""<h1>{g.esc(a['title'])}</h1>
@@ -1583,6 +1646,8 @@ def render_originals() -> list[dict]:
 <p class="dateline">{g.esc(' &middot; '.join(dateline_bits))} &middot; By {g.esc(byline)}</p>
 {img_html}
 {body_html}
+{vid_html}
+{credits_html}
 {corr_html}
 """
         prose_page("story/%s.html" % a["slug"], "news", a["title"],

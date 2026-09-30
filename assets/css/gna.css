@@ -474,3 +474,29 @@ a:hover{text-decoration:underline;}
   body{background:#fff;color:#000;}
   .nav,.breaking,.foot{display:none;}
 }
+
+
+/* Performance clips under a story. 16:9 by default, 9:16 for Shorts. */
+.story__vids{margin:34px 0 8px}
+.story__vid{margin:0 0 22px}
+.story__frame{position:relative;width:100%;padding-top:56.25%;background:#000}
+.story__vid--short .story__frame{padding-top:177.78%;max-width:340px}
+.story__frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.story__vid figcaption{font-size:.85rem;opacity:.72;padding-top:8px}
+@media (min-width:700px){
+  .story__vids{display:block}
+  .story__vid--short{display:inline-block;width:calc(50% - 12px);vertical-align:top}
+  .story__vid--short + .story__vid--short{margin-left:16px}
+}
+
+/* Photographs placed inside a story body. */
+.story__photo{margin:28px 0}
+.story__photo img{width:100%;height:auto;display:block}
+.story__photo figcaption{font-size:.85rem;opacity:.72;padding-top:8px;line-height:1.5}
+
+/* Full credits at the foot of a story. */
+.story__credits{margin:38px 0 8px;padding-top:18px;border-top:1px solid currentColor}
+.story__credits dl{display:grid;grid-template-columns:minmax(120px,max-content) 1fr;gap:6px 22px;margin:0}
+.story__credits dt{font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;opacity:.7}
+.story__credits dd{margin:0}
+@media (max-width:520px){.story__credits dl{grid-template-columns:1fr}.story__credits dt{padding-top:8px}}
