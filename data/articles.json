@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:08:43Z",
+  "generated_at": "2026-09-30T01:39:41Z",
   "story_count": 600,
   "with_photo": 458,
   "items": [
@@ -2351,6 +2351,22 @@
       "category": "faith",
       "published": "2026-09-28T20:33:42Z",
       "first_seen": "2026-09-28T21:07:18Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5b5a53dc0be15990",
+      "title": "CeCe Winans tickets on sale in Seattle",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcFVGeXRUeTdSVGNLZHBmb2NDZTlBS3pJMTRBa0tnRVh6UldCMzJlSFR3dWpqbHh3MHR1MzRyQnBJRUhFbTMxcmNsLXZVVGEzdUVwVEZ4QVFpSnJNS1BjN01fUF8ybVF6Qlk5WXdrMXlNdHVITWNUVWhNYzhlaTg?oc=5",
+      "summary": "CeCe Winans tickets on sale in Seattle TicketNews",
+      "outlet": "TicketNews",
+      "outlet_url": "https://www.ticketnews.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-28T20:31:01Z",
+      "first_seen": "2026-09-30T01:39:41Z",
       "image": null,
       "breaking": false,
       "breaking_expires_at": null
@@ -10960,22 +10976,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "31dd334a88e1a544",
-      "title": "Gospel artist Tsako nominated for best newcomer in Crown awards",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOX0JHS3p5dmJ6NlJIZmFRYzdXWUowS3V3YW1CdUl4M0d6aFp3OUZzYnVPMHBySGl5TVo2NloxQ3dpZVRzLThuOFFURTRzbUdrNFdTcFNIQU9CbVByUmJuNFJPQ2JodkpYTzFBTktwY2tIbnJlbmM4MUNtMm5ncW5GZVJEYkNEeUtvZmx4VEhjQWpNNms4UGg5ZFdsQ195Q21NZGxvaWFHalVkUWJGdGMwamRB?oc=5",
-      "summary": "Gospel artist Tsako nominated for best newcomer in Crown awards dailydispatch.co.za",
-      "outlet": "dailydispatch.co.za",
-      "outlet_url": "https://www.dailydispatch.co.za",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-24T06:38:36Z",
-      "first_seen": "2026-09-24T07:38:48Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-24T19:38:48Z"
     }
   ]
 }
