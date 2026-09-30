@@ -1558,7 +1558,14 @@ def render_originals() -> list[dict]:
         pub = g.parse_dt(a["published"]) or now
         byline = a.get("byline") or "Gospel News Access Staff"
         dateline_bits = [x for x in [a.get("dateline"), pub.astimezone(g.PACIFIC).strftime("%B %-d, %Y at %-I:%M %p Pacific")] if x]
-        body_html = "".join("<p>%s</p>" % g.esc(p) for p in a.get("body", []))
+        def _para(t):
+            # "## Heading" gives a real subheading. Everything stays escaped:
+            # a story body is copy, never markup.
+            t = t.strip()
+            if t.startswith("## "):
+                return "<h2>%s</h2>" % g.esc(t[3:].strip())
+            return "<p>%s</p>" % g.esc(t)
+        body_html = "".join(_para(p) for p in a.get("body", []))
 
         # Corrections print inline at the bottom of the corrected story, dated.
         corr_html = ""
@@ -1570,6 +1577,27 @@ def render_originals() -> list[dict]:
             corr_html = ('<div class="note note--warn"><h3>Corrections</h3>%s'
                          '<p>Our full <a href="../corrections.html">corrections '
                          'policy</a>.</p></div>' % items)
+
+        vid_html = ""
+        if a.get("videos"):
+            import re as _re
+            frames = []
+            for v in a["videos"]:
+                vid = (v.get("id") or "").strip()
+                if not _re.fullmatch(r"[A-Za-z0-9_-]{6,20}", vid):
+                    continue   # not a YouTube id - drop it rather than emit it
+                short = " story__vid--short" if v.get("short") else ""
+                frames.append(
+                    '<figure class="story__vid%s"><div class="story__frame">'
+                    '<iframe src="https://www.youtube.com/embed/%s" title="%s" '
+                    'loading="lazy" allowfullscreen '
+                    'referrerpolicy="strict-origin-when-cross-origin"></iframe></div>'
+                    '<figcaption>%s</figcaption></figure>'
+                    % (short, vid, g.esc(v.get("title", "Video")),
+                       g.esc(v.get("caption", ""))))
+            if frames:
+                vid_html = ('<section class="story__vids"><h2>Watch</h2>%s</section>'
+                            % "".join(frames))
 
         img_html = ""
         if a.get("image"):
@@ -1583,6 +1611,7 @@ def render_originals() -> list[dict]:
 <p class="dateline">{g.esc(' &middot; '.join(dateline_bits))} &middot; By {g.esc(byline)}</p>
 {img_html}
 {body_html}
+{vid_html}
 {corr_html}
 """
         prose_page("story/%s.html" % a["slug"], "news", a["title"],
