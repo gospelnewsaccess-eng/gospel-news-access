@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-09-30T08:41:58Z",
+  "generated_at": "2026-09-30T09:07:55Z",
   "story_count": 600,
   "with_photo": 451,
   "items": [
+    {
+      "id": "638db66ebe879866",
+      "title": "Pope at Audience: Apostolic Journey to France was 'sign of rebirth'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-apostolic-journey-france-rebirth-faith-peace-life-paris.html",
+      "summary": "During his weekly General Audience, Pope Leo XIV recalls various highlights from his recent Apostolic Journey to France from September 25 to 28, and points to the theme of rebirth as a guiding thread. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T08:41:00Z",
+      "first_seen": "2026-09-30T09:07:55Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/30/2026-09-30-udienza-generale/1790756999439.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a9ee75eeca7b83b2",
       "title": "Gallagher: Amid severe test to world order, religions can conribute to peace",
@@ -10932,25 +10951,6 @@
       "first_seen": "2026-09-24T10:38:53Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31920/the-one.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3150fd298b694ce9",
-      "title": "Hayley Williams Breaks Her Silence on Ex-Husband Chad Gilbert's Death: \"I Will Forever Be Grateful\"",
-      "link": "https://www.jubileecast.com/articles/39675/20260924/hayley-williams-tribute-chad-gilbert-death.htm",
-      "summary": "Hayley Williams Breaks Her Silence on Ex-Husband Chad Gilbert's Death: \"I Will Forever Be Grateful\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-24T10:21:56Z",
-      "first_seen": "2026-09-24T10:38:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31913/hayley-williams.jpg",
         "via": "media:content"
       },
       "breaking": false,
