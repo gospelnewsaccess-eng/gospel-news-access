@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-09-30T15:48:06Z",
+  "generated_at": "2026-09-30T16:10:05Z",
   "story_count": 600,
   "with_photo": 450,
   "items": [
+    {
+      "id": "aec67decab3cb30b",
+      "title": "Caleb Flynn Faces Life in Prison After Guilty Verdict in Wife’s Murder",
+      "link": "https://mycharisma.com/news/caleb-flynn-faces-life-in-prison-after-guilty-verdict-in-wifes-murder/",
+      "summary": "The verdict is in, and the jury did not buy Caleb Flynn’s defense. After months of disturbing allegations, explosive text messages and questions surrounding the death of his wife, Ashley, former worship leader and “American Idol” contestant Caleb Flynn has…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T15:58:28Z",
+      "first_seen": "2026-09-30T16:10:05Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1ab332db3e4e4595",
+      "title": "150 Virginia Pastors Take Biblical Stand Against Radical Amendments",
+      "link": "https://mycharisma.com/news/150-virginia-pastors-take-biblical-stand-against-radical-amendments/",
+      "summary": "More than 150 Virginia pastors are taking biblical truth beyond the walls of their churches and into the public square, urging voters to reject two proposed constitutional amendments involving abortion and same-sex marriage. The pastors signed an open letter…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T15:48:41Z",
+      "first_seen": "2026-09-30T16:10:05Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8ab3832554a98a5f",
+      "title": "DR. BOYCE WATKINS ANNOUNCES 2026 ALL BLACK NATIONAL CONVENTION IN JERSEY CITY",
+      "link": "https://pathmegazine.com/articles/dr-boyce-watkins-announces-2026-all-black-national-convention-in-jersey-city/",
+      "summary": "Finance professor, author, and Black Business School founder Dr. Boyce Watkins will convene the 2026 All Black National Convention October 15-18 in Jersey City, New Jersey, bringing … The post DR. BOYCE WATKINS ANNOUNCES 2026 ALL BLACK NATIONAL CONVENTION IN…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T15:47:55Z",
+      "first_seen": "2026-09-30T16:10:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0bb1804fffa29657",
       "title": "Rooted Discipleship Expands into Christian Music Through The Bearded Disciple",
@@ -18,6 +72,41 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T03:42:51Z"
+    },
+    {
+      "id": "a140c5c6159299e4",
+      "title": "From hip-hop Psalms to the Ten Commandments in jazz: AI turns entire Bible into 30,000 songs — without changing a word",
+      "link": "https://pathmegazine.com/articles/from-hip-hop-psalms-to-the-ten-commandments-in-jazz-ai-turns-entire-bible-into-30000-songs-without-changing-a-word/",
+      "summary": "The Bible can now be heard in hip-hop, jazz and country after AI was used to turn every verse of Scripture to music – without changing one … The post From hip-hop Psalms to the Ten Commandments in jazz: AI turns entire Bible into 30,000 songs — without…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-09-30T15:27:42Z",
+      "first_seen": "2026-09-30T16:10:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8334268a2618e3ca",
+      "title": "Vatican official says Vatican finances need more scrutiny despite progress",
+      "link": "https://www.ewtnnews.com/vatican/vatican-official-says-vatican-finances-need-more-scrutiny-despite-progress",
+      "summary": "Monsignor Anthony Ekpo, a Nigerian official at the Secretariat of State, spoke at a Rome conference on financial reform on Sept. 29.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T15:19:00Z",
+      "first_seen": "2026-09-30T16:10:05Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790774089/ewtn-news/en/PXL_20260730_152101772_hhtse3.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "6cf5d89868d926ad",
@@ -48,6 +137,25 @@
       "published": "2026-09-30T15:11:27Z",
       "first_seen": "2026-09-30T15:11:49Z",
       "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "365b8563aceabfda",
+      "title": "Russia, Ukraine continue to exchange deadly strikes",
+      "link": "https://www.vaticannews.va/en/world/news/2026-09/russia-ukraine-continue-to-exchange-deadly-strikes.html",
+      "summary": "Russia and Ukraine have exchanged deadly aerial attacks, killing and injuring numerous people, as energy infrastructure increasingly becomes a target with winter approaching. The latest strikes also affected neighboring countries amid new Russian nuclear…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-09-30T15:10:00Z",
+      "first_seen": "2026-09-30T16:10:05Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/30/12/1790763034518.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null
     },
@@ -10841,114 +10949,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "72fb4ea328173460",
-      "title": "Pope Leo, Hungarian prime minister discuss Ukraine, Middle East, and AI",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-hungarian-prime-minister-discuss-ukraine-middle-east-and-ai",
-      "summary": "The pontiff also met Portugal’s president to discuss conflicts, migration, multilateralism, and international law.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:48:00Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790265704/ewtn-news/en/_TOM4706_vefbto.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "00420ad8ff696ec0",
-      "title": "Centricity Music signs Rachael Lampa; first single, 'Permission,' set for release",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaktsOFhQaTYyV2kwVEJLRTlvUnd3YUl1MHY2a1VLcE8wTlNDMDVadGltb1IzQS1SdjcwbEwySzBKVzV0eUlwampOYmZYbWd3X2w5MG8yTTRIeDB5NjByOUdELWp5WEdaMEwyTERRMDZSejAzOHFyTTZYc1hOa3pndDJkeTJDZ19fdVdTa25UMGp5ZW5CNThVcWJOOVdXdkZyZ0xYaVFfbUxsM3htR3Y3Yl9oLWs4Mnp6TXNic09DVVNpV092QU56YktJcnRLdUw0V3dzYW5BdnQ?oc=5",
-      "summary": "Centricity Music signs Rachael Lampa; first single, 'Permission,' set for release Niagara Frontier Publications",
-      "outlet": "Niagara Frontier Publications",
-      "outlet_url": "https://www.wnypapers.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-24T16:43:44Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T05:36:55Z"
-    },
-    {
-      "id": "adb3dd9e21542dd2",
-      "title": "Gospel Orchestrated",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDMGwteFhIX2RIRzBLQUpueGtpZlZ2REZPRWJnXzVlcXhyS1UzYllHWHpCMkpaQmo5LVRHLTVXRVVYWWV3VVNhd0NFNEo1VkhKeGs3cm9oVXdZQm02RnlHb0p3Y3lrSTQ?oc=5",
-      "summary": "Gospel Orchestrated southlondon.co.uk",
-      "outlet": "southlondon.co.uk",
-      "outlet_url": "https://southlondon.co.uk",
-      "source_feed": "Google News: Fred Hammond",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-24T16:41:40Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T05:36:55Z"
-    },
-    {
-      "id": "b4548ba6141780f0",
-      "title": "Sri Lankan court sentences 15 men to life in prison for roles in deadly 2019 Easter bombings",
-      "link": "https://religionnews.com/2026/09/24/sri-lankan-court-sentences-15-men-to-life-in-prison-for-roles-in-deadly-2019-easter-bombings/",
-      "summary": "COLOMBO, Sri Lanka (AP) — The April 21 attacks, which were inspired by the Islamic State group, were among the deadliest attacks in Sri Lanka’s history.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:38:47Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-30-807x538.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f0d4b7cca641ca8b",
-      "title": "Suspect in Yom Kippur shooting outside Ontario synagogue dies from his injuries",
-      "link": "https://religionnews.com/2026/09/24/suspect-in-yom-kippur-shooting-outside-ontario-synagogue-dies-from-his-injuries/",
-      "summary": "BELLEVILLE, Ontario (AP) — Belleville police identified the man as Sean Ward of Quinte West. Ontario’s Special Investigations Unit, an independent civilian agency that investigates police shootings, said Ward died Monday night.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:32:38Z",
-      "first_seen": "2026-09-24T16:39:03Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/main-29-scaled.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8ff25ce5ca46b34c",
-      "title": "SBC President Willy Rice calls for marriage, gender amendment to Baptist Faith & Message",
-      "link": "https://www.christianpost.com/news/willy-rice-calls-for-baptist-faith-message-amendment-on-gender.html",
-      "summary": "Southern Baptist Convention President Willy Rice has proposed amending the Baptist Faith & Message in response to what he considers cultural confusion over gender and marriage.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-24T16:30:35Z",
-      "first_seen": "2026-09-24T17:36:55Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272050_w_550_308_478_62.jpg?v=20260924123507",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
