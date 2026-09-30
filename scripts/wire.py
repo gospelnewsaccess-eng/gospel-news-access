@@ -25,6 +25,7 @@ Usage:  python3 scripts/wire.py [--force-all] [--no-render] [--dry-run]
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from datetime import timedelta
 
@@ -38,6 +39,8 @@ HERO_MAX_AGE_HOURS = 72       # nothing older may ever hold the lead slot
 RETENTION_DAYS = 21           # how long a story stays in the store
 MAX_STORED = 600              # hard ceiling so the data file cannot balloon
 OG_FETCH_BUDGET = 30          # article pages fetched per run for og:image
+BACKFILL_BUDGET = 40          # older photo-less stories retried per run
+BACKFILL_RETRY_DAYS = 3       # a failed lookup is not repeated for this long
 FEED_TIMEOUT = 20
 
 
@@ -165,6 +168,54 @@ def apply_breaking(story: dict) -> None:
 
 
 # ---------------------------------------------------------------------------
+_YT_RE = re.compile(r"(?:youtube\.com/watch\?(?:[^#]*&)?v=|youtu\.be/)([A-Za-z0-9_-]{11})")
+
+
+def backfill_photos(existing, run_at, budget=BACKFILL_BUDGET):
+    """Give older stories that arrived without a photo another chance.
+
+    A story is only ever checked for a photo when its feed is polled, so one that
+    arrived bare stayed bare until it aged out. This walks the stored stories,
+    newest first, and looks again: YouTube links get YouTube's own thumbnail (no
+    fetch needed); anything else gets the article page's og:image, which is the
+    preview image the publisher offers for exactly this use. Nothing is copied
+    or stored - the publisher's own address is hotlinked and the card names the
+    publisher under it, the same rule as every other wire photo.
+
+    Politeness: at most `budget` page fetches per run, a pause between them, and
+    a story whose lookup failed is not tried again for BACKFILL_RETRY_DAYS.
+    Returns how many stories gained a photo.
+    """
+    import time as _time
+    retry_before = run_at - timedelta(days=BACKFILL_RETRY_DAYS)
+    todo = [x for x in existing.values() if not x.get("image")]
+    todo.sort(key=lambda x: x.get("published", ""), reverse=True)
+    found = fetched = 0
+    for st in todo:
+        tried = g.parse_dt(st.get("image_tried")) if st.get("image_tried") else None
+        if tried and tried > retry_before:
+            continue
+        m = _YT_RE.search(st.get("link", ""))
+        if m:
+            st["image"] = {"url": "https://i.ytimg.com/vi/%s/hqdefault.jpg" % m.group(1), "via": "youtube"}
+            found += 1
+            continue
+        if fetched >= budget:
+            continue
+        fetched += 1
+        img = g.extract_image({"link": st.get("link", ""), "media": [],
+                               "content_html": "", "summary_html": ""}, allow_page_fetch=True)
+        if img:
+            st["image"] = img
+            st.pop("image_tried", None)
+            found += 1
+        else:
+            st["image_tried"] = g.iso(run_at)
+        _time.sleep(0.25)
+    return found
+
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--force-all", action="store_true",
@@ -260,6 +311,10 @@ def main() -> int:
         if new_here:
             print("  +%-3d %-44s (%d in feed)" % (new_here, src["name"][:44], len(entries)))
 
+    backfilled = 0
+    if not args.dry_run:
+        backfilled = backfill_photos(existing, run_at)
+
     # --- prune: age out old stories, then cap the total ---------------------
     cutoff = run_at - timedelta(days=RETENTION_DAYS)
     items = [
@@ -279,7 +334,7 @@ def main() -> int:
     with_photo = sum(1 for s in items if s.get("image"))
 
     print("\n  %d feeds polled | %d new | %d photos backfilled | %d aged out"
-          % (polled, added, updated, dropped))
+          % (polled, added, updated + backfilled, dropped))
     print("  %d stories stored | %d with a photo (%d%%) | %d live breaking"
           % (len(items), with_photo,
              round(100 * with_photo / len(items)) if items else 0, live_breaking))

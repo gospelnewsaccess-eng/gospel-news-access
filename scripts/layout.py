@@ -215,6 +215,16 @@ def _byline(story: dict, now) -> str:
     return '<p class="byline">%s</p>' % "".join(bits)
 
 
+def _photo_credit(story: dict) -> str:
+    """Who to name under a wire photo. It is always the outlet whose photograph
+    it is - never Gospel News Access - and a YouTube thumbnail says so."""
+    img = story.get("image") or {}
+    who = (story.get("outlet") or story.get("source_feed") or "the publisher").strip()
+    if img.get("via") == "youtube":
+        return "Thumbnail: YouTube"
+    return "Photo: %s" % who
+
+
 def card(story: dict, now=None) -> str:
     """
     One story on the grid.
@@ -232,7 +242,7 @@ def card(story: dict, now=None) -> str:
 
     if img:
         return f"""<article class="card">
-  <figure class="card__fig"><a href="{link}" rel="noopener" target="_blank"><img src="{g.esc(img['url'])}" alt="" loading="lazy" referrerpolicy="no-referrer"></a></figure>
+  <figure class="card__fig"><a href="{link}" rel="noopener" target="_blank"><img src="{g.esc(img['url'])}" alt="" loading="lazy" referrerpolicy="no-referrer"></a><figcaption class="card__credit">{g.esc(_photo_credit(story))}</figcaption></figure>
   <h3 class="card__hd"><a href="{link}" rel="noopener" target="_blank">{title}</a></h3>
   {dek}
   {_byline(story, now)}
