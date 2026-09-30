@@ -30,11 +30,30 @@
         "Payne sails at the end of October aboard Holland America, performing on a cruise from Fort Lauderdale, Florida to Puerto Rico and back. Darlene Love and Wayne Newton are also on the bill.",
         "## Photographs and video",
         "Photographs by Terry Bryant are available for editorial use with credit. Performance video from the evening is at youtu.be/MsRGnm458fo, youtu.be/Iu58ZFcRw6Q and youtu.be/mISIKPyYvig.",
+        "## About Freda Payne",
+        "Freda Payne is a singer and actress whose career spans six decades, best known internationally for “Band of Gold.” For information on Payne, her memoir and her appearances, visit her official website, fredapayne.net.",
         "## About Gospel News Access",
         "Gospel News Access is a news and music publication covering gospel, faith and culture, with reporting, charts, a video desk and a community development section."
       ],
       "contact_name": "Terry Bryant",
-      "contact_phone": "646-315-2942"
+      "contact_phone": "646-315-2942",
+      "contact_email": "info@newswirehollywood.com",
+      "contact_note": "Gospel News Access is an independent publication. Press inquiries are currently handled through the contact above.",
+      "publicist": "PR STARPOWER",
+      "links": [
+        {
+          "label": "Freda Payne, official website: fredapayne.net",
+          "url": "https://www.fredapayne.net/"
+        },
+        {
+          "label": "Freda Payne on Instagram: @iamfredapayne",
+          "url": "https://www.instagram.com/iamfredapayne/"
+        },
+        {
+          "label": "Read the review: Freda Payne Made Time Stand Still",
+          "url": "https://gospelnewsaccess.com/story/freda-payne-catalina-legendary-ladies.html"
+        }
+      ]
     }
   ]
 }

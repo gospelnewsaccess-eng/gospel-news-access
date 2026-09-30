@@ -1725,16 +1725,27 @@ def render_press() -> list[dict]:
         contact = ""
         if r.get("contact_name") or r.get("contact_phone") or r.get("contact_email"):
             bits = [x for x in (r.get("contact_name"), r.get("contact_phone"), r.get("contact_email")) if x]
-            contact = ('<div class="note"><h3>Media contact</h3><p>%s</p></div>'
-                       % " &middot; ".join(g.esc(b) for b in bits))
+            contact = '<div class="note"><h3>Media contact</h3><p>%s</p>' % " &middot; ".join(g.esc(b) for b in bits)
+            if r.get("contact_note"):
+                contact += "<p>%s</p>" % g.esc(r["contact_note"])
+            if r.get("publicist"):
+                contact += "<p>Publicity: %s</p>" % g.esc(r["publicist"])
+            contact += "</div>"
+        links = ""
+        good = [l for l in r.get("links", [])
+                if str(l.get("url", "")).startswith("https://") and l.get("label")]
+        if good:
+            links = ('<div class="note"><h3>More information</h3><ul>%s</ul></div>'
+                     % "".join('<li><a href="%s" rel="noopener">%s</a></li>' % (g.esc(l["url"]), g.esc(l["label"]))
+                               for l in good))
         body = (
             '<p class="kicker">Press release</p>'
             '<h1>%s</h1><p class="lede">%s</p>'
             '<p class="dateline">FOR IMMEDIATE RELEASE &middot; %s &middot; %s</p>'
-            '%s%s<p class="dateline">&mdash; ENDS &mdash;</p>%s'
+            '%s%s<p class="dateline">&mdash; ENDS &mdash;</p>%s%s'
             '<p><a href="../pressroom.html">All press releases</a></p>'
             % (g.esc(r["title"]), g.esc(r.get("subhead", "")), g.esc(r.get("dateline", "")),
-               g.esc(r.get("date", "")), img, "".join(para(t) for t in r.get("body", [])), contact))
+               g.esc(r.get("date", "")), img, "".join(para(t) for t in r.get("body", [])), links, contact))
         prose_page("press/%s.html" % r["slug"], "about", r["title"],
                    r.get("subhead") or r["title"], body, 1,
                    [("Front Page", SITE + "/"), ("Press Room", SITE + "/pressroom.html"),
