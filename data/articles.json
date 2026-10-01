@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-01T10:09:23Z",
+  "generated_at": "2026-10-01T10:40:54Z",
   "story_count": 600,
-  "with_photo": 438,
+  "with_photo": 436,
   "items": [
+    {
+      "id": "53ab9a23af269f1e",
+      "title": "Craig Groeschel exits Life Surge events after ethics investigation",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaDhWeE9qQmRFdVBzSTJfME5hNGZmVTFkTGlqR0hvc0k5RjlZdk11eXA2TkR4a3F2eVFlT1dydE02U0IzWVVJek1vTG94R1l4cXE3ejUzYlVpZzUwRHM4bnloekdxenJQd0w0TUhmZEs3MjcyUmpsSlVhcDJUWTA3dmxSaURhQlhvTWxyLTZ5RndsU29ab3dtYll5VEI3ZjlKQXdSV0xKcmVrZzhQZkJBSUpOenZ5emhFT1Y5dDJBMlpPOUFYdURkamRTeDNCM1cyVkVDck5Ib2wwRExWNHpWTGVyUHk3X3pLVWc?oc=5",
+      "summary": "Craig Groeschel exits Life Surge events after ethics investigation The Oklahoman",
+      "outlet": "The Oklahoman",
+      "outlet_url": "https://www.oklahoman.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-01T10:07:00Z",
+      "first_seen": "2026-10-01T10:40:54Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T22:40:54Z",
+      "image_tried": "2026-10-01T10:40:54Z"
+    },
+    {
+      "id": "8c801ad84476c9b0",
+      "title": "Kid Rock releases Christian song 'James 1:17 (Jesus Is King)'",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnV1WEJZRVhTMnQwUGRnNy12OTNwNHNVTnpndDhTYmRvYjA2VjMxRDg0bTZfMHlieXdsSDlTRlJzQ2FRYTI5ZEJBUnZvbGoxWTdzZ2o4cTl4UHhtRzBJdGpTZmhRczMyRHZpWDI0b2hTODQtY0tkQlVtd0dPQkNrVzZpRDh6T0VkOWt3elU1Skl0eE93VHRDVE1fQ1hYVVl3VVhKdGJBMjZ1WXpRRTJWZXYxVjhjTzRXRHNYRw?oc=5",
+      "summary": "Kid Rock releases Christian song 'James 1:17 (Jesus Is King)' Detroit Free Press",
+      "outlet": "Detroit Free Press",
+      "outlet_url": "https://www.freep.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-01T10:05:00Z",
+      "first_seen": "2026-10-01T10:40:54Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T22:40:54Z",
+      "image_tried": "2026-10-01T10:40:54Z"
+    },
     {
       "id": "9cc16f170f21c0ac",
       "title": "Caring for Life in an Inhuman Age",
@@ -11038,44 +11072,6 @@
       "first_seen": "2026-09-25T15:07:39Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---visita-unesco/1790346606027.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fe4191ffb04a945a",
-      "title": "CS Lewis' family 'very upset' at Meryl Streep as Aslan, friend says: 'Going to destroy the brand'",
-      "link": "https://www.christianpost.com/news/cs-lewis-family-upset-at-meryl-streep-as-aslan-friend-says.html",
-      "summary": "A friend of C.S. Lewis' stepson said in an interview this week that members of the late author's family are \"very upset\" by Meryl Streep's casting as Aslan in Netflix's upcoming Narnia adaptation and are attempting to \"regain control\" of the company that…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T13:16:00Z",
-      "first_seen": "2026-09-25T14:08:03Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272064_w_550_309.jpg?v=20260925091716",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ef9395ef4bffba73",
-      "title": "Stryper: “No One Buys Albums Anymore” Is No Excuse to Quit Making Music",
-      "link": "https://www.ccmmagazine.com/news/stryper-no-one-buys-albums-anymore-is-no-excuse-to-quit-making-music/",
-      "summary": "Why are you still making new albums? The economics have changed. Album sales certainly aren’t what they once were. For a band with a catalog stretching back more than 40 years, there is a perfectly viable business model that involves getting on a bus, playing…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-25T13:00:27Z",
-      "first_seen": "2026-09-25T13:08:53Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Stryper-Web-Banner.jpg",
         "via": "media:content"
       },
       "breaking": false,
