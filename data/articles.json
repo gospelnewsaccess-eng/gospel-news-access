@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-01T16:08:07Z",
+  "generated_at": "2026-10-01T16:40:11Z",
   "story_count": 600,
-  "with_photo": 442,
+  "with_photo": 440,
   "items": [
+    {
+      "id": "2b1e50ad2229c45c",
+      "title": "Grooves: Gospel Choir Led by Daniel Thomas; Mavis Staples; Aretha Franklin",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPa2ltTFZ5X0tPWXVlajI5cHNraEVKcklya2kwT3VzbVZKa01CSTZPRmc5eEdMbEdRbFlSSGtiamk3WEgzWFAtVmMtVk1EbHhkQVVBRUZYQTgteFluSTNNMFBvM0tWMUJ4ek0tZ3NvSEhScW9uMWg5UlpfWFZlTFVZYTYtZFBxTkc1ZUludEpZWU9LUl9hY0d3ZGlwQnlWanNzZFpTR0lEMFVQeE82bGlfeTNMVUI?oc=5",
+      "summary": "Grooves: Gospel Choir Led by Daniel Thomas; Mavis Staples; Aretha Franklin Westminster Extra",
+      "outlet": "Westminster Extra",
+      "outlet_url": "https://www.westminsterextra.co.uk",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-01T16:34:54Z",
+      "first_seen": "2026-10-01T16:40:11Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-02T04:40:11Z",
+      "image_tried": "2026-10-01T16:40:11Z"
+    },
     {
       "id": "791d0c47525c3066",
       "title": "CEN founder Aaron Baer praises Trump’s new Education Freedom Tax Credit",
@@ -19,6 +36,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-01T16:08:07Z"
+    },
+    {
+      "id": "6c6f44d357b45298",
+      "title": "Kid Rock's New Christian Rock Song Is Exactly What You Expect [LISTEN]",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2U2NlSTAwWi1kd2ZMUFF1TU5BM2JMakFTNm9pcVFGYktnb2I0SFJfY2F5bXg0ZE5Ia0Y1UGYtRDFITlRyUUw4SUNjYlBPLXcwS3UtTDFNbEVsYnhIWlNua2FyeUowS1libmkxZjdTeXRvNTllbTM0eVpxTTZuUQ?oc=5",
+      "summary": "Kid Rock's New Christian Rock Song Is Exactly What You Expect [LISTEN] Taste of Country",
+      "outlet": "Taste of Country",
+      "outlet_url": "https://tasteofcountry.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-01T16:03:13Z",
+      "first_seen": "2026-10-01T16:40:11Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-02T04:40:11Z",
+      "image_tried": "2026-10-01T16:40:11Z"
     },
     {
       "id": "7ea257938f273c84",
@@ -11046,44 +11080,6 @@
       "first_seen": "2026-09-25T21:06:55Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1781122996/ewtn-news/en/MonsignorJosephBuh061026_t9yszl.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "601135845ab60621",
-      "title": "PHOTOS: Pope Leo XIV visits France’s restored Notre-Dame Cathedral",
-      "link": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-visits-france-s-restored-notre-dame-cathedral",
-      "summary": "Pope Leo XIV is visiting France from Sept. 25–28 and elebrated Vespers at Notre-Dame Cathedral in Paris Friday evening, becoming the first pope to visit the church since it was rebuilt.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T19:54:00Z",
-      "first_seen": "2026-09-25T20:06:18Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790362257/ewtn-news/en/_TEO1138_uxnp44.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "be251d53899c60b5",
-      "title": "Evangelical body presses Israel at UN to stop settler violence",
-      "link": "https://www.christianpost.com/news/evangelical-body-presses-israel-at-un-to-stop-settler-violence.html",
-      "summary": "The World Evangelical Alliance urged Israel on Tuesday to rein in settler violence and halt settlement expansion in the occupied West Bank, telling the United Nations Human Rights Council it was particularly concerned about Taybeh, which the group described…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T19:45:00Z",
-      "first_seen": "2026-09-25T21:06:55Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272072_w_550_413_416_224.jpg?v=20260925154602",
         "via": "media:content"
       },
       "breaking": false,
