@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T06:11:13Z",
+  "generated_at": "2026-10-01T06:46:29Z",
   "story_count": 600,
-  "with_photo": 438,
+  "with_photo": 437,
   "items": [
     {
       "id": "adc60cf9d0ae8f6b",
@@ -11025,6 +11025,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "9a5f17b5c1bceb2e",
+      "title": "Franni Cash Believes the Best is Yet to Come",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hLTFZZnFTUTZwU3BGNF9ZQ09GcWNXQ3BmSWVIOHdLWE5CQlI1V3lrLXVJZThwUGhRRWJHYk0xcEctVG55dUdWZ0VlMW1kdUE1YlNJRDF3cjBETVEwcHFNeS1vVGY4VVB4VUlycFpJM290Zw?oc=5",
+      "summary": "Franni Cash Believes the Best is Yet to Come Christianity Today",
+      "outlet": "Christianity Today",
+      "outlet_url": "https://www.christianitytoday.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-09-25T10:16:13Z",
+      "first_seen": "2026-10-01T06:46:29Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-01T06:46:29Z"
+    },
+    {
       "id": "07e24499abf4c46e",
       "title": "Inside the restoration of Notre-Dame: a labor of love and faith",
       "link": "https://www.vaticannews.va/en/pope/news/2026-09/inside-the-restoration-of-notre-dame.html",
@@ -11057,25 +11074,6 @@
       "first_seen": "2026-09-25T10:06:58Z",
       "image": {
         "url": "https://religionnews.com/wp-content/uploads/2026/09/webRNS-Pendragon-Cycle-Merlin.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e152840e1f09ea5c",
-      "title": "Send Me a Receipt Signed by the Lord",
-      "link": "https://www.christianitytoday.com/2026/09/send-me-a-receipt-signed-by-the-lord/",
-      "summary": "This piece was adapted from CT’s books newsletter. Subscribe here. Nathaniel Philbrick, The Rush: California Gold, the Civil War, and the Making of the Modern World (Viking, October 2026) Nathaniel Philbrick is one of the most engaging history writers today…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T10:00:00Z",
-      "first_seen": "2026-09-25T10:06:58Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/books-column-kidd-history-purple.jpg?resize=1200,628",
         "via": "og:image"
       },
       "breaking": false,
