@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T03:41:57Z",
+  "generated_at": "2026-10-01T04:08:29Z",
   "story_count": 600,
-  "with_photo": 438,
+  "with_photo": 439,
   "items": [
     {
       "id": "c0749cb571db6eb6",
@@ -1178,7 +1178,10 @@
       "category": "gospel",
       "published": "2026-09-30T15:23:31Z",
       "first_seen": "2026-09-30T17:39:37Z",
-      "image": null,
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32000/petra.jpeg",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T17:39:37Z"
