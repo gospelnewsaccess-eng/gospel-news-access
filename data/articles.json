@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-10-01T14:42:33Z",
+  "generated_at": "2026-10-01T15:08:54Z",
   "story_count": 600,
-  "with_photo": 441,
+  "with_photo": 443,
   "items": [
+    {
+      "id": "8ddf1c7671093a07",
+      "title": "Christa Pike Survives Execution as Victim’s Furious Mother Says, ‘It Was a Mess’",
+      "link": "https://mycharisma.com/news/christa-pike-survives-execution-as-victims-furious-mother-says-it-was-a-mess/",
+      "summary": "What was supposed to bring an end to one of Tennessee’s most notorious murder cases instead descended into chaos Wednesday night when the state attempted to execute Christa Pike, and she survived. Pike, 50, remained alive after receiving two doses of…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T14:50:43Z",
+      "first_seen": "2026-10-01T15:08:54Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c668f3c2a6c7e14c",
+      "title": "Exposed: School District Used Secret Gender-Transition Database to Keep Parents in the Dark",
+      "link": "https://mycharisma.com/news/exposed-school-district-used-secret-gender-transition-database-to-keep-parents-in-the-dark/",
+      "summary": "A Pennsylvania school district has scrapped a policy that reportedly used a database to track whether parents knew about their children’s at-school gender transitions, allowing employees to determine which families should be kept in the dark. Teachers were…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T14:50:30Z",
+      "first_seen": "2026-10-01T15:08:54Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "970c6c4099bc9d80",
+      "title": "David Gieser’s 70 Year Relationship with Christianity Today",
+      "link": "https://www.christianitytoday.com/about/stories/david-giesers-70-year-relationship-with-christianity-today/",
+      "summary": "Christianity Today has been part of David Gieser’s life since its very beginning. His family knew Billy Graham before Graham ever conceived of the magazine—and that connection gave David a front-row seat to the ministry and vision that would become…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T14:46:06Z",
+      "first_seen": "2026-10-01T15:08:54Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/Adobe-Express-file-4.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e03d5ef2de07fc8",
+      "title": "Synod proposes reforming canon law to give greater weight to laity, women in the Church",
+      "link": "https://www.ewtnnews.com/vatican/synod-proposes-reforming-canon-law-to-give-greater-weight-to-laity-women-in-the-church",
+      "summary": "The report, prepared by one of the study groups created after the Synod on Synodality, must now be examined by Pope Leo XIV.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T14:26:57Z",
+      "first_seen": "2026-10-01T15:08:54Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614649/images/vatican-media-synod-minor-circles-oct-24-2023-4.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1add980072736e07",
+      "title": "A Million Children Praying with the Pope is 'a dream come true’",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/a-million-children-praying-with-the-pope-is-a-dream-come-true.html",
+      "summary": "Aid to the Church in Need Executive President Regina Lynch says the “Million Children Praying the Rosary” initiative hopes to promote prayer in families. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T13:52:00Z",
+      "first_seen": "2026-10-01T15:08:54Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/settembre/25/1-milione-di-bambini-pregano-il-rosario-aiuto-alla-chiesa-che-soffre.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "088829c2e7d95d6b",
+      "title": "Christian boy pepper-sprayed while riding bike on Israel’s holiest holiday; suspect arrested",
+      "link": "https://www.christianpost.com/news/christian-boy-pepper-sprayed-while-riding-bike-on-yom-kippur.html",
+      "summary": "A 9-year-old Christian boy was pepper-sprayed while riding his bike in Jerusalem on Yom Kippur last month, the most sacred day in the Jewish calendar. Police have arrested a man suspected in the attack.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T13:51:00Z",
+      "first_seen": "2026-10-01T15:08:54Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272132_w_550_363_526_307.jpg?v=20261001095538",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a32e35d26d73f628",
       "title": "Building CHH in Hungary: How Rapper Tibes is Pioneering a Movement in Budapest",
@@ -10976,116 +11090,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "b369701db0dff379",
-      "title": "Roy Cohn was an American Jewish Darth Vader",
-      "link": "https://religionnews.com/2026/09/25/roy-cohn-was-an-american-jewish-darth-vader/",
-      "summary": "(RNS) — Why he still matters.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T17:28:43Z",
-      "first_seen": "2026-09-25T18:07:45Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Roy-Cohn2-252x369.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "770f86ebab827376",
-      "title": "Kirk Franklin Previews Track With GloRilla Sampling Shawty Lo Hit",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVGc4RERLUHI0RGxkYm5DeWdhT0RsXzFyZEIzZEpSd3lqdDI3eERkMnNZSDRwLTRoTngtM05KZ1gzdGxra2FqSy12MjlnbE5xUGtaTWtZajloOWxCQmIxUlB3WlNXRE5XY0NYOE1DcDdzcTFaZlNrWVNmYjk1NzZwblFwa1VLd0Zja2NDdVlKT3RmOEExVThTdWhFMzc?oc=5",
-      "summary": "Kirk Franklin Previews Track With GloRilla Sampling Shawty Lo Hit foxy99.com",
-      "outlet": "foxy99.com",
-      "outlet_url": "https://foxy99.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-25T17:10:38Z",
-      "first_seen": "2026-09-25T17:38:34Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-26T05:38:34Z",
-      "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "be9468baa333e665",
-      "title": "Kirk Franklin & GloRilla Team Up For New Uplifting Gospel Track ‘This Time’ - WGCI-FM",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2pBZWJFUFUxWUNvS0g5SDJKLWhkMTdCUjR2a2xDTE42Um1LYTRvX2EwVmhnOS1ud1lDNGVjZVF1azRXYW5yaFBQYTVYeWlFN2kyS2VROEhiXzlYYlBIaWRoU1kwOEpnMUVjQjNBdDRZUWZnWVpyR1h1RVRJYk43U1hvMzlsbFRkXzZvVzF6S0lQVHktT0ppVWYzN2NUT1hFU3B5eDBBMTc3SUxxakNzdURvN2hWZw?oc=5",
-      "summary": "Kirk Franklin & GloRilla Team Up For New Uplifting Gospel Track ‘This Time’ WGCI-FM",
-      "outlet": "WGCI-FM",
-      "outlet_url": "https://wgci.iheart.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-25T17:04:00Z",
-      "first_seen": "2026-09-25T17:38:34Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-26T05:38:34Z",
-      "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "b7b2320286ddab25",
-      "title": "Mississippi DA challenges Crump to show evidence, stop 'playing games' in Nolan Wells case",
-      "link": "https://www.christianpost.com/news/da-challenges-crump-to-stop-playing-games-in-nolan-wells-case.html",
-      "summary": "Angel Myers McIlrath, the district attorney for the 19th Circuit Court District of Mississippi, slammed prominent civil rights attorney Ben Crump as “not worthy of our trust” after he challenged a grand jury’s finding that there is insufficient evidence to…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T16:59:00Z",
-      "first_seen": "2026-09-25T18:07:45Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272067_w_550_382.jpg?v=20260925125945",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "67255c0b8eda02a2",
-      "title": "Where light meets heaven: Pope Leo XIV at Notre-Dame",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-vespers-notre-dame-paris-france-apostolic-visit.html",
-      "summary": "In the iconic Parisian Cathedral flooded with light, Pope Leo XIV celebrates Vespers with the French Church calling it, like Notre Dame, to be reborn, to bring light out of the darkness of ashes. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T16:58:00Z",
-      "first_seen": "2026-09-25T18:07:45Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---celebrazione-dei-vesp/1790352298886.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ad5ada657e4fce65",
-      "title": "Pope calls clergy, religious of France to missionary conversion",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-calls-clergy-religious-of-france-to-missionary-conversion.html",
-      "summary": "At the Cathedral Basilica of Notre Dame de Paris Pope Leo XIV celebrates Vespers with bishops, priests, deacons, seminarians, and consecrated men and women. In his homily, the Pope calls them to missionary conversion, to cultivate an authentic love for the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T16:55:00Z",
-      "first_seen": "2026-09-25T18:07:45Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---celebrazione-dei-vesp/1790351409027.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
