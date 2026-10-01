@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-01T00:10:29Z",
+  "generated_at": "2026-10-01T00:48:03Z",
   "story_count": 600,
   "with_photo": 438,
   "items": [
+    {
+      "id": "f5b3141cf811ccc0",
+      "title": "Kid Rock set to launch Christian era with new single 'James 1:17'",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMy10WkFxODFWYlVVZEVmczFTRGYydVRFMjFpR0pZVWZkdVBGM2VIWnM5QnNoVUtxcUtjT2lCbVdUcEQ4Z3NzLU9fbXVJUzBaQVhxQXFTa19fQ0VNeXJKc1pyTWt2NlQ0ZkNmNGJhMjdIZ1VqNVVuMy1xak5CSFQ5d2FDcHRMZHdOT2toT3d3Tm5XZXdyRFFzcENMZXlkLUU0NV9oeGZtbnM5dnRNZ3lpaGVxUGcwQXNFdm92cnoyRXdGVXY3WENTdjBkUmdZa0J0NldaTDVNdnh1UzE2?oc=5",
+      "summary": "Kid Rock set to launch Christian era with new single 'James 1:17' The Detroit News",
+      "outlet": "The Detroit News",
+      "outlet_url": "https://www.detroitnews.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-01T00:07:00Z",
+      "first_seen": "2026-10-01T00:48:03Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-01T12:48:03Z",
+      "image_tried": "2026-10-01T00:48:03Z"
+    },
     {
       "id": "41b6c7df1008a9cd",
       "title": "Daughter of Heather Thompson Day and Seth Day reported alleged abuse, leading to arrest",
@@ -11062,23 +11079,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "57b34bd13ec0ea1a",
-      "title": "Free gospel concerts in Mammoth, Bridgeport churches this month",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcmU0OHZKNFR1SFdnZzJMUjQ4eUp6U1hLSWpjZnA4ZDBJQlNMQzhVNXV4VTRoVUhlNW9tazBDWllSTk1GeF96eUNXMlpmaGQzTGlUUUd4cTFxZV9HMVFlYUFvNFR3eThDeDZVamFBZGZ4T25peVpTamhaN3hPVGNqdE82RWxzQkptaHNYRlBKWUFUaGVhMGIyMmNOZUc2OExOUnRySWFSalhCWXg4Y2RHeE8wdXZ4VGs3MS1XQk1KSWs1ZEFQSlk4aU9DaVVuaHJXWlJzUjJMWTFtSG5wN0Qw?oc=5",
-      "summary": "Free gospel concerts in Mammoth, Bridgeport churches this month Mammoth Times",
-      "outlet": "Mammoth Times",
-      "outlet_url": "https://www.mammothtimes.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-25T04:04:00Z",
-      "first_seen": "2026-09-25T04:40:24Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-25T16:40:24Z",
-      "image_tried": "2026-09-30T17:39:37Z"
     }
   ]
 }
