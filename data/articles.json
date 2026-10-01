@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-01T13:10:55Z",
+  "generated_at": "2026-10-01T13:42:18Z",
   "story_count": 600,
   "with_photo": 440,
   "items": [
+    {
+      "id": "d7286b02cb2a8ec4",
+      "title": "If Jesus Didn’t Do It Alone, Maybe We Shouldn’t Either, Says Toni Collier",
+      "link": "https://relevantmagazine.com/life5/if-jesus-didnt-do-it-alone-maybe-we-shouldnt-either-says-toni-collier/",
+      "summary": "When a mentor told Toni Collier to start praying for friends, she thought it sounded like something a kid would pray. “What a weak, weird prayer,” she remembers thinking. “What am I, a child?” When Collier started following Jesus in earnest, she wanted to…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T13:28:01Z",
+      "first_seen": "2026-10-01T13:42:18Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/toni.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "9f0eaeafc40eef52",
       "title": "Florida Woman Allegedly Went on a Days-Long Carnival Cruise and Left Her Young Children Home Alone",
@@ -11065,25 +11084,6 @@
       "breaking": true,
       "breaking_expires_at": "2026-09-26T04:40:37Z",
       "image_tried": "2026-09-30T17:39:37Z"
-    },
-    {
-      "id": "d2dbe1f7e8255739",
-      "title": "Newsom vetoes California abortion bill amid 2028 speculation",
-      "link": "https://www.christianpost.com/news/newsom-vetoes-california-abortion-bill-amid-2028-speculation.html",
-      "summary": "California’s Democratic Gov. Gavin Newsom has vetoed a bill that would have required the governor to decline extradition requests for those who perform or assist in the performance of abortions and gender transition surgeries in states where the procedures…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T16:00:00Z",
-      "first_seen": "2026-09-25T17:06:01Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272066_w_550_367_567_279.jpg?v=20260925120219",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
