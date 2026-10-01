@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-01T13:42:18Z",
+  "generated_at": "2026-10-01T14:10:14Z",
   "story_count": 600,
-  "with_photo": 440,
+  "with_photo": 441,
   "items": [
+    {
+      "id": "a32e35d26d73f628",
+      "title": "Building CHH in Hungary: How Rapper Tibes is Pioneering a Movement in Budapest",
+      "link": "https://rapzilla.com/2026-10-tibes-building-chh-hungary-budapest-scene/",
+      "summary": "When Tibor Csaba, known on stage as Tibes, took the stage at Budapest’s famed Dürer Kert earlier this year, the milestone was 10 years in the making. Performing for over 800 fans, the 35-year-old artist spent two hours blending high-energy rap with live…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-01T13:48:13Z",
+      "first_seen": "2026-10-01T14:10:14Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/01093414/Meg-mindig-nem-teljesen-tertunk-magunkhoz-nehany-foto-a-tegnapi-telthazas-Durerrol-%F0%9F%A4%AF%F0%9F%94%A5Minden--e1790861683493.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d7286b02cb2a8ec4",
       "title": "If Jesus Didn’t Do It Alone, Maybe We Shouldn’t Either, Says Toni Collier",
@@ -18,6 +37,44 @@
       "image": {
         "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/toni.jpg",
         "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "48e4e087d017da64",
+      "title": "Captain Smit Machchhar Update: Pilot in Stable Condition as Hometown Celebrates Him as a Hero",
+      "link": "https://www.jubileecast.com/articles/39866/20261001/captain-smit-machchhar-update-stable-condition-hometown-hero.htm",
+      "summary": "Captain Smit Machchhar Update: Pilot in Stable Condition as Hometown Celebrates Him as a Hero",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-01T13:27:27Z",
+      "first_seen": "2026-10-01T14:10:14Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32011/captain-smit.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cffbc2b74e80a6f7",
+      "title": "Vatican calls for a renewal of attention in the age of clickbait",
+      "link": "https://www.ewtnnews.com/vatican/vatican-calls-for-a-renewal-of-attention-in-the-age-of-clickbait",
+      "summary": "The World Day of Social Communications will be celebrated on May 9, 2027, the Sunday before Pentecost.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T13:20:32Z",
+      "first_seen": "2026-10-01T14:10:14Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790845669/ewtn-news/en/260909_GA_Daniel_Iba%CC%81n%CC%83ez_7_jd7bap.jpg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -11029,61 +11086,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "c79f849a02c27d31",
-      "title": "Pope Leo prays at Notre-Dame Cathedral: ‘where heaven and earth meet’",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-prays-at-notre-dame-cathedral-where-heaven-and-earth-meet",
-      "summary": "The prayer service at the famous Gothic cathedral was Pope Leo’s first meeting with the Catholic Church of Paris during his Sept. 25-28 visit to France.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T16:45:58Z",
-      "first_seen": "2026-09-25T17:06:01Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790352572/ewtn-news/en/WhatsApp_Image_2026-09-25_at_5.58.17_PM_nik2at.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f0d470c106c2b001",
-      "title": "Shroud of Turin Breakthrough: DNA Discovery Points Back to the Holy Land",
-      "link": "https://mycharisma.com/news/shroud-of-turin-breakthrough-dna-discovery-points-back-to-the-holy-land/",
-      "summary": "Just when it seems the mystery of the Shroud of Turin cannot get any deeper, scientists uncover another clue. New DNA research on the burial cloth believed by many to have wrapped the body of Jesus Christ has uncovered a rare genetic lineage tied to the Near…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-25T16:31:30Z",
-      "first_seen": "2026-09-25T17:06:01Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0b75912b25f58f00",
-      "title": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVnlmWWdpOVRkakZVdm1adG5VYVkyeFktMFNtY0N5dUZSSkhJVTJxd2paWFVkUkpVYURfRVZJeWNuUTMxNlU5TmR0NThoMTk4dEFSUnd6OExXQ2o1X0lnclUzdTJPeWZabnJZbnVkX2dVV041MGtpcjFRZmhtWE9PTEE3SmcyYjZBamNF?oc=5",
-      "summary": "At This Black Church Cafe, Your Brunch Helps Feed Someone Else The San Diego Voice & Viewpoint",
-      "outlet": "The San Diego Voice & Viewpoint",
-      "outlet_url": "https://sdvoice.info",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-25T16:00:00Z",
-      "first_seen": "2026-09-25T16:40:37Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-26T04:40:37Z",
-      "image_tried": "2026-09-30T17:39:37Z"
     }
   ]
 }
