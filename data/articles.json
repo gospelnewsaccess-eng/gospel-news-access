@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-01T23:05:45Z",
+  "generated_at": "2026-10-01T23:38:35Z",
   "story_count": 600,
-  "with_photo": 431,
+  "with_photo": 429,
   "items": [
+    {
+      "id": "c8c81be971766db7",
+      "title": "Eminem joins Kid Rock on new Christian album",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV2ktbzlOM1RDQndQY19sMU16QmNxdHdqbnJ2bGw1ZE82d0JaUXVNb2FOckZwaWJ2V085dGlva1dJZXpCdDNWYk4wS0lscnREd2J6RnBKcUl3WWxrdHJmUVptX3gxX1NJVDRfNV9kVk05c1M5YmJOYW5YV05oZzFJTWNpMkdXODNZbXA0N2M4QnRoWlJzbktjSnFmNHZ0UGxvN0p2T1c5YWNPaDNIYWdHaGdGTW9sclFGZUJqVkRWdFE?oc=5",
+      "summary": "Eminem joins Kid Rock on new Christian album The Detroit News",
+      "outlet": "The Detroit News",
+      "outlet_url": "https://www.detroitnews.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-01T23:10:27Z",
+      "first_seen": "2026-10-01T23:38:35Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-02T11:38:35Z",
+      "image_tried": "2026-10-01T23:38:35Z"
+    },
+    {
+      "id": "00918f45207b0025",
+      "title": "GMA & Amazon Music Bring Artists & Influencers Together for “Curated By Creators”",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV19LbzRQTVFlc0dUWkJQclFobm1pNWlxT2NSekJBTWt6Q0FiUkdLUFhHTHk2MERVZk5HZ3VoQjRmVERuVGtfYW9HYUlqSlhmS1p2clZJZ1o2ZTR3V1VlS1VtVzNCNHdIbHlUbzl0dGNPbGZ1NE96czk2cjFQZW1ZYWtuT2cyNTFiVEUya0ZGbU0yVlpsNWJobGdQZFN1eE0?oc=5",
+      "summary": "GMA & Amazon Music Bring Artists & Influencers Together for “Curated By Creators” Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-01T22:41:15Z",
+      "first_seen": "2026-10-01T23:38:35Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-02T11:38:35Z",
+      "image_tried": "2026-10-01T23:38:35Z"
+    },
     {
       "id": "4f48386e9dbf3cce",
       "title": "Here’s what to know about Pete Hegseth’s new Office of Religious Affairs",
@@ -1265,6 +1299,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "97ef9368dafe605e",
+      "title": "Kid Rock Turns Scripture Into Song With \"John 1:17 (Jesus Is King)\"",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPX1lwMXhxZldnbzVOYXBnczk4WmpTQWxIeTNjcm44cE9sLXN3Z0w1V2Y0eWZjcGowZE4zbjRQVjRzbGdQeXRkcEZyTm5BWFlPU2I5YmItVTBUZGgtOTFjQ3FTV09XR1FrRlpkc1RvMGR2ZHo2OVFCcw?oc=5",
+      "summary": "Kid Rock Turns Scripture Into Song With \"John 1:17 (Jesus Is King)\" Country Rebel",
+      "outlet": "Country Rebel",
+      "outlet_url": "https://countryrebel.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-01T14:29:25Z",
+      "first_seen": "2026-10-01T23:38:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-01T23:38:35Z"
     },
     {
       "id": "3e03d5ef2de07fc8",
@@ -8770,6 +8821,23 @@
       "image_tried": "2026-10-01T20:41:53Z"
     },
     {
+      "id": "ffa14fdeb8c95862",
+      "title": "Donnie McClurkin | Biography, Early Life, Stand, Homosexuality, & Facts",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82c3lyX3ZkSVV0Z3hHdG9yc3lXd09pTU9XenhmWktMNmc2R2EwUllUZFh3cXpCNlBDdTdOWUw5cjF0LU4tdFVQblctSnU5N1BWWEozWW5YeW9oUFV2Rm1wU1UxUQ?oc=5",
+      "summary": "Donnie McClurkin | Biography, Early Life, Stand, Homosexuality, & Facts Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-09-28T05:00:00Z",
+      "first_seen": "2026-10-01T23:38:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-01T23:38:35Z"
+    },
+    {
       "id": "ba45240221c8e21d",
       "title": "Police monitoring public concerns over gospel artist Israel Houghton’s proposed Sabah concerts",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTFNFSmw1YkZrVHc4bzN6ZHg0YUExanBZYWlkR1N4czBOalJCN0I4S1UwQ0VFN2gxRTc1WlJ3Yy1yTFRKNXV4R2swZTFqVVhVcnFFb1lkUEdFdGhtQzdFeW85MXRZdldzMTBKTnN4WDBkZXdCWEYzaXpBaS1faTR0RUg0Sl9jZ05DZG1XaDVfc0ZtTUdzaG50bW5pM0dtdDZTQmJSd04xQkI3bXZ5MU1xOER2N1BfalFBTDR0Rzd1YXVrRmpaWEhrZFk5TDdXQzFtUFZ0dFdmMWdiTm8?oc=5",
@@ -10994,78 +11062,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "ba4605cf5f4044e8",
-      "title": "Actress Susan Sarandon, NYC Mayor Mamdani’s Advisor Among Over 100 Detained at Anti-Netanyahu Protest",
-      "link": "https://mycharisma.com/news/actress-susan-sarandon-nyc-mayor-mamdanis-advisor-among-over-100-detained-at-anti-netanyahu-protest/",
-      "summary": "Oscar-winning American actress Susan Sarandon and New York City Mayor Zohran Mamdani’s advisor Linda Sarsour were among more than 100 anti-Israel protesters detained in New York on Thursday ahead of Israeli Prime Minister Benjamin Netanyahu’s address to the…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T11:00:00Z",
-      "first_seen": "2026-09-26T11:36:57Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2a7ba5f8eda3f121",
-      "title": "Newly baptized Catholic: France moving from inherited to a chosen Christianity",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/paris-catechumens-newly-baptized-share-faith-journey-pope-leo.html",
-      "summary": "A newly baptized Catholic and two catechumens preparing to receive the Sacraments of Initiation share with Vatican News their stories of discovering the faith, saying that seeing the Pope gives them hope for the future. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T10:21:00Z",
-      "first_seen": "2026-09-26T11:36:57Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---incontro-con-i-membri/1790415319967.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "056173a9137d2113",
-      "title": "Past is Present, presented by Sumter Museum: Shonda English carries forward the music, ministry and memories her father left behind",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlNobkRwZ2tuTDFRX2RiUmgxVkdtXzZjUEtGLVdval9FYjdlS1R2TGRTVHRXbEIyRks0UVhCM01UZENwckdPa01qQ3pCRlhQZGdnVTNzU0dDT3pKaW1yN3NjY2Y5YlY3RDBqT0l2ZkpoR0xkNjlXV0JBMFpDSTlEQ1BzM0lwbWRuYjQ3WVRrMUpPdk1rMzMwOG1rVkNqdnNnTXZlWmtsNDlyS3BHNHg5MTJWeThhdlBVcXRYY0gwU2FtVmVxb0dJTFJmbVV5U3M?oc=5",
-      "summary": "Past is Present, presented by Sumter Museum: Shonda English carries forward the music, ministry and memories her father left behind The Sumter Item",
-      "outlet": "The Sumter Item",
-      "outlet_url": "http://www.theitem.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-26T10:00:00Z",
-      "first_seen": "2026-09-26T10:06:34Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-26T22:06:34Z",
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "c3748a657ffdddb9",
-      "title": "First United Methodist Church Valdese presents 'A Month of Sundays' in October",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWpVZ3JrR3FnbnZKX1lDbU9RVG82dWloNWdNWnhJUmMwX0lWTlotVE85TGFlRnd4eTlxdWJzUHNBRlJtOWJuN1B4Xy1wOFRCVWFNM1N2a2RMaDBpbVhKcjVJNjNaejZCNFF2ckUzMGdPMzhwQXBiT1hWWkNLaU5JaUZfWjhVeUZteWdSc2JGOWNNaWdmSXdtb0tHNXM5MlF5WGcyM0xaalY5enlFOGE5TjNSTQ?oc=5",
-      "summary": "First United Methodist Church Valdese presents 'A Month of Sundays' in October Hickory Daily Record",
-      "outlet": "Hickory Daily Record",
-      "outlet_url": "https://hickoryrecord.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-26T10:00:00Z",
-      "first_seen": "2026-09-26T10:06:34Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-26T22:06:34Z",
-      "image_tried": "2026-09-30T17:07:59Z"
     }
   ]
 }
