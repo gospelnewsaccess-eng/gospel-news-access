@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-02T00:09:55Z",
+  "generated_at": "2026-10-02T00:45:39Z",
   "story_count": 600,
   "with_photo": 429,
   "items": [
+    {
+      "id": "dfc0bbe77666f84f",
+      "title": "Anne Hathaway's \"Verity\" Eyes a $35M Opening: What Critics and Faith Reviewers Are Saying",
+      "link": "https://www.jubileecast.com/articles/39873/20261001/verity-box-office-35-million-opening-critics-faith-reviewers.htm",
+      "summary": "Anne Hathaway's \"Verity\" Eyes a $35M Opening: What Critics and Faith Reviewers Are Saying",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T00:43:48Z",
+      "first_seen": "2026-10-02T00:45:39Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32016/verity.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "c8c81be971766db7",
       "title": "Eminem joins Kid Rock on new Christian album",
@@ -11040,25 +11059,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "99400a7d92eee782",
-      "title": "Prayer vigils for unborn babies kick off across nation",
-      "link": "https://www.ewtnnews.com/world/us/prayer-vigils-for-unborn-babies-kick-off-across-nation",
-      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T11:05:00Z",
-      "first_seen": "2026-09-26T11:36:57Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790367458/ewtn-news/en/Image-1_wdaxbf.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
