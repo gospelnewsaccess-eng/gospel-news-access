@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-02T11:07:05Z",
+  "generated_at": "2026-10-02T11:41:02Z",
   "story_count": 600,
-  "with_photo": 432,
+  "with_photo": 431,
   "items": [
+    {
+      "id": "8549d3d16de0c06e",
+      "title": "Jonathan McReynolds Says His Mother and Grandmother Inspired ‘Echo’",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOczVJUmVNMFZwNWpsSFcxX0QxT05xRUY3UlRRcktxeG5sMkJRMUd0OTBLTW1lRUhjVUhVaGdGanRLSmRFVmQzSTB4QXNEd3hPT3NyNTUxMy12LWdHNXNYd2VOWUFDVTRxTEFTc19hZU1OT21uUW8xQ0dvNndvWTRTMkVZcGh1dWdFcDZrdzVIX3lRSzd5dmF4OHI2ZmRWdw?oc=5",
+      "summary": "Jonathan McReynolds Says His Mother and Grandmother Inspired ‘Echo’ Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: Jonathan McReynolds",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-02T11:41:32Z",
+      "first_seen": "2026-10-02T11:41:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T11:41:02Z"
+    },
     {
       "id": "bbc5f48f0aa1ea5c",
       "title": "Disciple Celebrates 20 Years of 'Scars Remain' With a Merch Drop and Fall Tour, Starting Tonight",
@@ -11045,25 +11062,6 @@
       "first_seen": "2026-09-27T09:38:20Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31955/katseye.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "34fc3ba28c91db0d",
-      "title": "What Happened to Oregon QB Dante Moore? Star Hospitalized After Brutal Hit vs. USC",
-      "link": "https://www.jubileecast.com/articles/39748/20260927/oregon-qb-dante-moore-hospitalized-usc-hit-injury-update.htm",
-      "summary": "What Happened to Oregon QB Dante Moore? Star Hospitalized After Brutal Hit vs. USC",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T08:38:40Z",
-      "first_seen": "2026-09-27T08:38:58Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31954/dante-moore.jpg",
         "via": "media:content"
       },
       "breaking": false,
