@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-02T14:09:13Z",
+  "generated_at": "2026-10-02T14:42:37Z",
   "story_count": 600,
-  "with_photo": 427,
+  "with_photo": 425,
   "items": [
+    {
+      "id": "6fab5ba7a1ba4c1a",
+      "title": "Nashville showcase will spotlight Christian hip-hop stars | Exclusive",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTE2MTJJUF9iS2Juc21MbDNRMndhSDNEU1NxeDJ6a3ZwcGpaZzBFZTl3RE5BaDVveGtva0o0VnpfaERHaTVTbTFlT1FySHlHU2JPQzRYMWpPZGhwM0F6eFhpeFVwV182LVh6VGtWR25ZOG4tczliTGJnTFBDOUdDZWg2V3RYa1l6RTBXbTRMZHRkSHNRY2Q4dk1qQXJFel9LVjlvWkw3NVRtclNINUpiTlFKVGYzQlMxc1NHdw?oc=5",
+      "summary": "Nashville showcase will spotlight Christian hip-hop stars | Exclusive The Tennessean",
+      "outlet": "The Tennessean",
+      "outlet_url": "https://www.tennessean.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T14:14:00Z",
+      "first_seen": "2026-10-02T14:42:37Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T02:42:37Z",
+      "image_tried": "2026-10-02T14:42:37Z"
+    },
     {
       "id": "e9d9393fe2dd943a",
       "title": "The “Spiritual Example” Who Preyed on Teens: Inside the Kenny Baldwin Sexual Abuse Investigation",
@@ -38,6 +55,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-02T14:09:13Z"
+    },
+    {
+      "id": "0a66e5f13135915b",
+      "title": "Kid Rock on Eminem: 'We differ politically, but we've stayed friends'",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUHpQbzFOYXR6WHZMcjYwOWhRSGVwR2NWVnI1amJkcGt6aFFlMGdDMlZKZnJndDRpSHlyTkJrbm9Qc19pajdfb1gtSVE5dWN5dmc4ZTBfSmpKc3Nudk5BVDdudTJHcWFVWVVFUXpocVJ4TDNVM09iNzBkQWZhVmt4NE5iQmZuVnFtdVg5S25GOHhhQlBHa1E1dU9VR0Q1eHJsMGo1bXduMHN1dU9jVGNRWmhCZkJwVWNrRG5KQjkyVGI2WF9hNG1nQUozQlp2emxlUk5IcGtacjNZMGs?oc=5",
+      "summary": "Kid Rock on Eminem: 'We differ politically, but we've stayed friends' detroitnews.com",
+      "outlet": "detroitnews.com",
+      "outlet_url": "https://www.detroitnews.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T14:01:00Z",
+      "first_seen": "2026-10-02T14:42:37Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T02:42:37Z",
+      "image_tried": "2026-10-02T14:42:37Z"
     },
     {
       "id": "a11efa25234c6534",
@@ -11016,44 +11050,6 @@
       "first_seen": "2026-09-27T18:40:43Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31961/vma-awards-2026.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3a4fe0ae58e925ae",
-      "title": "This week in Christian history: Megachurch dedicates a 62-foot statue of Jesus; Damasus becomes pope",
-      "link": "https://www.christianpost.com/news/this-week-in-christian-history-lux-mundi-statue-dedicated.html",
-      "summary": "Events from this week in Christian history include Damasus becoming pope, Charles Finney contracting cholera, and the dedication of the Lux Mundi statue.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T16:23:30Z",
-      "first_seen": "2026-09-27T16:38:58Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272049_w_550_352.jpg?v=20260927122426",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1b3c41a8fa0f74af",
-      "title": "Christians are companions on journey for the wounded and lonely",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/editorial-tornielli-pope-leo-xiv-lourdes-france-sick-lonely.html",
-      "summary": "Our Editorial Director reflects on Pope Leo XIV’s words in France, saying the Pope urges every Christian community to live in a spirit of closeness and compassion, never closing themselves off from the present age. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T15:31:00Z",
-      "first_seen": "2026-09-27T16:38:58Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-gli-oper/1790518515767.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
