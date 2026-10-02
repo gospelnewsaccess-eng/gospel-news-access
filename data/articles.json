@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-02T17:07:35Z",
+  "generated_at": "2026-10-02T17:39:54Z",
   "story_count": 600,
-  "with_photo": 420,
+  "with_photo": 418,
   "items": [
+    {
+      "id": "5e373b658ccc44e5",
+      "title": "Sean Parker Spreads the Gospel of AI Music",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPckoxYm1MaEFkYkF1VmZGQWJHRkxtQUNRVEp0c3RMNk5VaUh1azJGN3FuYW85MDVNTnFxTzVMenVoSkRDQU9ZM0dvS2FrRGgxWklGaVpubjdVZ3BhV1ZPcG5UcDFxUWs5MTR1c2FwNV9TajViUWZ2NUt2OHNGVXNOVg?oc=5",
+      "summary": "Sean Parker Spreads the Gospel of AI Music The Information",
+      "outlet": "The Information",
+      "outlet_url": "https://www.theinformation.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T16:54:00Z",
+      "first_seen": "2026-10-02T17:39:54Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T05:39:54Z",
+      "image_tried": "2026-10-02T17:39:54Z"
+    },
     {
       "id": "1d42700a6b473e92",
       "title": "Shields up! Evasive maneuvers! How the LDS Church responds to perceived criticism",
@@ -296,6 +313,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "63f8171c996ab6f4",
+      "title": "Joseph Habedank: NQC Main Stage | 5:30 PM",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcW83UGJxeUdITFNOX1JlckVLZXZWUmh3UkJPaG0wNFdycmVHR3BjUy1zcGI1RzhhTWZOaXJTdTQ4d1RUVW5ZRlJQODAtLXBnd2dIN2xKWFVndzRBSHhDVHZLbVhHb09NdDFrUGxyTWJKdnJXcFdjeVllU0N6WnBXZVNUbmhKNW1fQzlIVmxPeEpadEhqRVo4WEYtbThIWTF3d3dFbXlsQ29nczFMaTIxMFZWV0wyZw?oc=5",
+      "summary": "Joseph Habedank: NQC Main Stage | 5:30 PM The Sylva Herald",
+      "outlet": "The Sylva Herald",
+      "outlet_url": "https://thesylvaherald.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T14:25:50Z",
+      "first_seen": "2026-10-02T17:39:54Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T17:39:54Z"
     },
     {
       "id": "14d126936dc9b50a",
@@ -11002,44 +11036,6 @@
       "first_seen": "2026-09-27T22:06:30Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---preghiera-del-santo-r/1790539808445.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c226d49d7b9cc7c1",
-      "title": "Chandler Moore Sings About Rehab: Do Churches Make It Harder to Ask for Help?",
-      "link": "https://www.jubileecast.com/articles/39773/20260927/chandler-moore-sings-about-rehab-do-churches-make-it-harder-to-ask-for-help.htm",
-      "summary": "Chandler Moore Sings About Rehab: Do Churches Make It Harder to Ask for Help?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T20:23:18Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27866/chandler-moore.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8fa456719fa96454",
-      "title": "Pope Leo a 'pilgrim among pilgrims' in Lourdes",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-candlelit-procession-lourdes-prayer.html",
-      "summary": "Pope Leo brings his visit to Lourdes to an end with a candlelit procession through the heart of the Marian shrine, urging the faithful to persevere on their journey, inspired by the Immaculate Conception. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T20:23:00Z",
-      "first_seen": "2026-09-27T22:06:30Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---preghiera-del-santo-r/1790538302692.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
