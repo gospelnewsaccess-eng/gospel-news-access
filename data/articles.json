@@ -1,8 +1,118 @@
 {
-  "generated_at": "2026-10-02T14:42:37Z",
+  "generated_at": "2026-10-02T15:09:16Z",
   "story_count": 600,
-  "with_photo": 425,
+  "with_photo": 424,
   "items": [
+    {
+      "id": "22f8171051b11d63",
+      "title": "Christina Bell Releases A Feel-Good Anthem of God’s Faithfulness -“Still That Good” Featuring Darrel Walls",
+      "link": "https://pathmegazine.com/articles/christina-bell-releases-a-feel-good-anthem-of-gods-faithfulness-still-that-good-featuring-darrel-walls/",
+      "summary": "Stellar Award-winning Gospel recording artist and actress Christina Bell returns with a powerful reminder of God’s faithfulness with her new single, “Still That Good,” featuring GRAMMY® Award-winning … The post Christina Bell Releases A Feel-Good Anthem of…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T14:35:52Z",
+      "first_seen": "2026-10-02T15:09:16Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T15:09:16Z"
+    },
+    {
+      "id": "fbcf4d7b2f794a81",
+      "title": "Lawsuit: Virginia State Controls Christian Ministries While Exempting Muslim Group",
+      "link": "https://mycharisma.com/news/lawsuit-virginia-state-controls-christian-ministries-while-exempting-muslim-group/",
+      "summary": "Two Christian student ministries are suing Virginia State University, alleging the public university stripped them of their independence, placed them under the authority of a university-appointed minister and exempted a Muslim organization from the same…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T14:33:55Z",
+      "first_seen": "2026-10-02T15:09:16Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "96ca8992be68b92c",
+      "title": "Pope Leo on AI art: Beyond aesthetics, ‘there is an ontological difference’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-on-ai-art-beyond-aesthetics-there-is-an-ontological-difference",
+      "summary": "The pontiff said the Catholic Church wishes to renew its alliance with artists.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T14:32:00Z",
+      "first_seen": "2026-10-02T15:09:16Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790944688/ewtn-news/en/_SIM1278_zwe9ui.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "14d126936dc9b50a",
+      "title": "City Mayor proclaims September 29 Earnest Pugh Day – Pugh Scores 7th Billboard/Media Base #1 Single",
+      "link": "https://pathmegazine.com/articles/city-mayor-proclaims-september-29-earnest-pugh-day-pugh-scores-7th-billboard-media-base-1-single/",
+      "summary": "Tuesday night, the City of Houston came out to celebrate Dr. Earnest Pugh for a historical chart achievement. Pugh recently scored his seventh career No. 1 radio … The post City Mayor proclaims September 29 Earnest Pugh Day – Pugh Scores 7th Billboard/Media…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T14:25:46Z",
+      "first_seen": "2026-10-02T15:09:16Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T15:09:16Z"
+    },
+    {
+      "id": "a17a8624defb4494",
+      "title": "Hyde Amendment at 50: The law that may have saved millions",
+      "link": "https://www.christianpost.com/voices/hyde-amendment-at-50-the-law-that-may-have-saved-millions.html",
+      "summary": "Henry Hyde told me personally that he considered passing the Hyde Amendment his greatest achievement as a legislator. I agree with him.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T14:25:16Z",
+      "first_seen": "2026-10-02T15:09:16Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272151_w_550_309.jpg?v=20261002102830",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1e308e815b5990b2",
+      "title": "Hegseth quotes Psalm 33 in 'Office of Religious Affairs' announcement",
+      "link": "https://www.christianpost.com/news/hegseth-quotes-psalm-33-in-office-of-religious-affairs-launch.html",
+      "summary": "Secretary of War Pete Hegseth heralded the creation of the Pentagon's new Office of Religious Affairs by quoting from the Psalms, an announcement that drew criticism from secularist advocates and support from a Catholic archdiocese.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T14:22:00Z",
+      "first_seen": "2026-10-02T15:09:16Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272146_w_550_367_426_155.jpg?v=20261002102302",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6fab5ba7a1ba4c1a",
       "title": "Nashville showcase will spotlight Christian hip-hop stars | Exclusive",
@@ -10938,118 +11048,6 @@
       "first_seen": "2026-09-27T18:40:43Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790331021/ewtn-news/en/WhatsApp_Image_2026-09-25_at_12.04.51_PM_1_usjifg.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cc294cfe9fd2223e",
-      "title": "Jamie MacDonald Drops New Song \"Used to Be\": Here's What to Know",
-      "link": "https://www.jubileecast.com/articles/39755/20260927/jamie-macdonald-used-to-be-new-single-release.htm",
-      "summary": "Jamie MacDonald Drops New Song \"Used to Be\": Here's What to Know",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T18:17:51Z",
-      "first_seen": "2026-09-27T18:40:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28306/jamie-macdonald.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c0ffe43ec1907926",
-      "title": "Why Travis Kelce Won't Be at the 2026 VMAs Tonight: Even as Wife Taylor Swift Makes History",
-      "link": "https://www.jubileecast.com/articles/39764/20260927/why-travis-kelce-not-attending-2026-vmas-taylor-swift.htm",
-      "summary": "Why Travis Kelce Won't Be at the 2026 VMAs Tonight: Even as Wife Taylor Swift Makes History",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T18:14:22Z",
-      "first_seen": "2026-09-27T18:40:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30820/taylor-swift.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "01e4a2cbbe930c4d",
-      "title": "Kirk Franklin Admits It Was ‘Wrong’ to Curse Out Son During Phone Call",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3o4Y0Y4YmFkSy1uSzRQWC1TZkpwN1BqcHdMSEpQVVNhVTR5MDZHRnZUdE01SG5RQm9TQ2hZOC1oNTB5MVcyekhtaVB0TGtITTM4ZFFmS1hYeG9NUzFhNnZOQWY5U0Y2czVFN2lmUEpxVENxQko0RVBnM2oySHZNak0yeFRsTEMzU0haNGdpa2NqVGpOaGt4aVRhWUNsS3h5X1Y1bw?oc=5",
-      "summary": "Kirk Franklin Admits It Was ‘Wrong’ to Curse Out Son During Phone Call Yahoo",
-      "outlet": "Yahoo",
-      "outlet_url": "https://www.yahoo.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-27T18:03:55Z",
-      "first_seen": "2026-09-28T17:39:17Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "5421d42056456d0a",
-      "title": "Angela Stribling: New Details Emerge on Her Final Hours, Husband, and Decades-Long Legacy Beyond BET",
-      "link": "https://www.jubileecast.com/articles/39763/20260927/angela-stribling-husband-ken-washington-beya-legacy.htm",
-      "summary": "Angela Stribling: New Details Emerge on Her Final Hours, Husband, and Decades-Long Legacy Beyond BET",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T18:01:08Z",
-      "first_seen": "2026-09-27T18:40:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31963/angela-stribling.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e2f6e5e9aae323c8",
-      "title": "How to Watch the 2026 VMAs Tonight: Every Way to Stream It Live, Even Without Cable",
-      "link": "https://www.jubileecast.com/articles/39762/20260927/how-to-watch-2026-vmas-live-without-cable.htm",
-      "summary": "How to Watch the 2026 VMAs Tonight: Every Way to Stream It Live, Even Without Cable",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T17:50:50Z",
-      "first_seen": "2026-09-27T18:40:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31962/vma-2026.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3bdb3f1ed0c6d1c5",
-      "title": "What Time Are the 2026 VMAs Tonight? Taylor Swift's Record-Breaking Night, Full Lineup Inside",
-      "link": "https://www.jubileecast.com/articles/39761/20260927/2026-vmas-what-time-taylor-swift-record-performers.htm",
-      "summary": "What Time Are the 2026 VMAs Tonight? Taylor Swift's Record-Breaking Night, Full Lineup Inside",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T17:43:35Z",
-      "first_seen": "2026-09-27T18:40:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31961/vma-awards-2026.jpg",
         "via": "media:content"
       },
       "breaking": false,
