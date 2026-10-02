@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-02T13:09:27Z",
+  "generated_at": "2026-10-02T13:41:59Z",
   "story_count": 600,
-  "with_photo": 430,
+  "with_photo": 427,
   "items": [
+    {
+      "id": "2ab2166362c7d7ca",
+      "title": "Gospel singer, Josiah Russell talks about his music & what’s next",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSU9CMmEwTE9lc1F4cGd4eTloSnVaWHI2dlA1T00zZ1FBWU1iX0xFTGtJZWVRTmhEcnlhb1ZlZ0ZlaXVQUzNMMngtRkl3T2tDcUtoMF94M282eHJBMC1YSmkzMVhPNVJaM0NQYkxKYmVKdnlZTXNybU1tazdiVGVJUjNBTU83eWJ4NlpOLTA2bWZiTGV3Z1NoR1ZKVlUtYzYwMnd4dVdn?oc=5",
+      "summary": "Gospel singer, Josiah Russell talks about his music & what’s next WCCB Charlotte",
+      "outlet": "WCCB Charlotte",
+      "outlet_url": "https://www.wccbcharlotte.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T13:16:23Z",
+      "first_seen": "2026-10-02T13:41:59Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T01:41:59Z",
+      "image_tried": "2026-10-02T13:41:59Z"
+    },
+    {
+      "id": "540be08e3887d18d",
+      "title": "Plattsburgh State gospel choir to perform in Malone | Malone | nny360.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWVpSUIzcDA3ei1MYUdQeFNQZXdFRFk5SW9XNGxIdURYdEt6OXZ1R0JkTmpfSWE4d3hTamRIdFBYNnZua2FZM1FSODBVdFpOOGJvMURPTjIzcW9FcDBybjA3SFladXRSSHBLT044TGZPX0lkOEIyOXRBZFFBaS13VGZGcUZja1RuTHNCSTNoQ3NIeWh5OFFZSktVQ3h3eFZXeUJuamRYNjdfT0xaaFlKTGRnU0dkX0RIVWJXT3BPQTFUUWUwd0JuZ3N0M19YdVdMV1E?oc=5",
+      "summary": "Plattsburgh State gospel choir to perform in Malone | Malone | nny360.com nny360.com",
+      "outlet": "nny360.com",
+      "outlet_url": "https://www.nny360.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T12:59:11Z",
+      "first_seen": "2026-10-02T13:41:59Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T01:41:59Z",
+      "image_tried": "2026-10-02T13:41:59Z"
+    },
     {
       "id": "3184e28bb179418d",
       "title": "Democratic Senate Candidate Begs Kamala Harris to Stay Away from His Campaign",
@@ -395,6 +429,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "7aab9ae34b1a480c",
+      "title": "Kid Rock’s Christian album: Are controversial lyrics about young girls fueling haters?",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMGVFMG96eGxKaHZLZlVfMmN2N3JMV3RfSjVsUmlNakIwZlc3NVJ3VGZJMFF5Wjd6QW9oMmxGalZ0YzNpdzhGajhWQnlKNFBiaTJtX25GU1E0YUFxcUlqc09iZFZqTnU4N2V0TUFUVnJGWnVaU3doUmtnbTEyREtQZVBuYmtpakNGSlo2TEZBRkE2N3oyRExzaGF2cVV4TGRrdzBDSER6d21JdjZHNEM4dkwxa3VuZEo0WVVraGlraFFCSnhSLXVpQjdIWlRVOFdi0gHkAUFVX3lxTE5VZ1RlM25rM0dEUlVib3VqRXVYUFRkczR6emlCYXVxQ3NfVG1aUlVkRTUwVWJWTlFnMlF6a0ZzanZGRjBhbGJSandCenhjZGJjaFJqcUk0WnVYM2xWQlhyY1dRZmlyVU5oRWJISWVkdDktbTFWMC1nMEF6UXZkT2ZHNUtyMVA1bzhyakI5aEtTamtMZTZhWDZxU0U3YjVkal9fTnh4RzFQaVFKSTFQb1hqa1oxZ1dMQlBvWExQejBHRGphOUl0V0tta0pkSEJfaG1WV0RHNURjUVoxUnVRcWhrWmM5eQ?oc=5",
+      "summary": "Kid Rock’s Christian album: Are controversial lyrics about young girls fueling haters? PennLive.com",
+      "outlet": "PennLive.com",
+      "outlet_url": "https://www.pennlive.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T10:00:00Z",
+      "first_seen": "2026-10-02T13:41:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T13:41:59Z"
     },
     {
       "id": "a35a9ea39faf462e",
@@ -11003,63 +11054,6 @@
       "first_seen": "2026-09-27T13:37:14Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790505300068.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b25ad2fa5709ad41",
-      "title": "Lourdes: A place of comfort, healing and gratitude",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/lourdes-pilgrims-faithful-mass-pope-leo-xiv-healing-france.html",
-      "summary": "The faithful attending Pope Leo XIV’s Mass in Lourdes share what the Shrine of Our Lady of Lourdes means to them and reflect on the significance of the Pope’s visit. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T10:41:00Z",
-      "first_seen": "2026-09-27T13:37:14Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790497497754.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "def8dba21a91b386",
-      "title": "President Trump Pays Tribute After Man Shot at Butler Dies",
-      "link": "https://mycharisma.com/news/president-trump-pays-tribute-after-man-shot-at-butler-dies/",
-      "summary": "Jim Copenhaver, one of two attendees shot during the 2024 assassination attempt on President Trump at Butler, Pennsylvania, has passed away. He was stuck by two bullets. While he lived, he was left with bullet fragments in his body and nerve damage. President…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T10:00:00Z",
-      "first_seen": "2026-09-27T10:37:38Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "51f71c235e70658c",
-      "title": "For Iraq’s Christians, Archbishop Warda says long-term stability requires jobs",
-      "link": "https://www.ewtnnews.com/world/middle-east/iraqi-christians-require-jobs-and-education-for-long-term-stability-erbil-archbishop-says",
-      "summary": "Archbishop Bashar Warda of Erbil called for investment in the future of young Christians in Iraq, pointing to the structure of the country’s economy as part of the problem.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T10:00:00Z",
-      "first_seen": "2026-09-27T10:37:38Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790351502/ewtn-news/en/mkas-ghlaf-61-1789986755.5028.png_jps3rs.webp",
         "via": "media:content"
       },
       "breaking": false,
