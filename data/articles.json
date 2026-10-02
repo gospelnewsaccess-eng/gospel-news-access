@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-02T03:41:47Z",
+  "generated_at": "2026-10-02T04:07:36Z",
   "story_count": 600,
-  "with_photo": 427,
+  "with_photo": 428,
   "items": [
+    {
+      "id": "9fdeee57d6176959",
+      "title": "Tim Tebow Pauses Life Surge Ties After Pablo Torre Investigation — A Biblical Stand Against the Prosperity Gospel",
+      "link": "https://blackchristiannews.com/tim-tebow-pauses-life-surge-ties-after-pablo-torre-investigation-a-biblical-stand-against-the-prosperity-gospel/?utm_source=rss&utm_medium=rss&utm_campaign=tim-tebow-pauses-life-surge-ties-after-pablo-torre-investigation-a-biblical-stand-against-the-prosperity-gospel",
+      "summary": "Tim Tebow is backing away from Life Surge after a Pablo Torre investigation put the Christian events organization — and The post Tim Tebow Pauses Life Surge Ties After Pablo Torre Investigation — A Biblical Stand Against the Prosperity Gospel appeared first…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T03:54:49Z",
+      "first_seen": "2026-10-02T04:07:36Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/browser-download-20261002T034341.362587103Z-0-Tim_Tebow_on_May_15__2017__cropped_.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "046d592ade11a5d9",
       "title": "ZOEgirl Announces October 30 Release of New Single “I Still Believe”",
@@ -11041,23 +11060,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "4667075819a88033",
-      "title": "Kirk Franklin Reunites with GloRilla on Gospel-HipHop Banger ‘This Time’ | WATCH",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIQUFBLVFwcm5wQm94ME1BMmtlT09lcDNUQkFmcUhaWk92N1oza3VScmMxNWJCSmx4a2dXSjBxTkxUd3pmX2dCelp2ZWo5TzVPQm9ONA?oc=5",
-      "summary": "Kirk Franklin Reunites with GloRilla on Gospel-HipHop Banger ‘This Time’ | WATCH EURweb",
-      "outlet": "EURweb",
-      "outlet_url": "https://eurweb.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-26T13:02:33Z",
-      "first_seen": "2026-09-26T13:36:31Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-27T01:36:31Z",
-      "image_tried": "2026-09-30T17:07:59Z"
     }
   ]
 }
