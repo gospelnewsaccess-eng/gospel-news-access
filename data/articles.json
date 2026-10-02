@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-10-02T12:46:19Z",
+  "generated_at": "2026-10-02T13:09:27Z",
   "story_count": 600,
   "with_photo": 430,
   "items": [
+    {
+      "id": "3184e28bb179418d",
+      "title": "Democratic Senate Candidate Begs Kamala Harris to Stay Away from His Campaign",
+      "link": "https://mycharisma.com/news/democratic-senate-candidate-begs-kamala-harris-to-stay-away-from-his-campaign/",
+      "summary": "In certain parts of the country, prominent Democrats appear toxic even to other Democrats. For instance, in a recent interview on Politico’s “The Conversation with Dasha Burns,” Kansas Democratic Senate nominee Adam Hamilton made it clear that he does not…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T12:54:57Z",
+      "first_seen": "2026-10-02T13:09:27Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "acf35adf46ab403a",
+      "title": "Democrats Eye Power in Washington – and a Crackdown on Israeli Settlements in Judea and Samaria",
+      "link": "https://mycharisma.com/news/democrats-eye-power-in-washington-and-a-crackdown-on-israeli-settlements-in-judea-and-samaria/",
+      "summary": "The battle over Israel could look dramatically different on Capitol Hill next year if Democrats win control of the House – and Judea and Samaria could become ground zero. House Democratic leaders are signaling that if they take the majority in November…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T12:18:38Z",
+      "first_seen": "2026-10-02T13:09:27Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "fa7db27865aef85e",
       "title": "Kid Rock Searching For Salvation on Upcoming ‘Halfway to Jesus’ Christian Rock Album Featuring Eminem Collab",
@@ -11022,44 +11060,6 @@
       "first_seen": "2026-09-27T10:37:38Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790351502/ewtn-news/en/mkas-ghlaf-61-1789986755.5028.png_jps3rs.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "24f7971d64646c41",
-      "title": "Pope to pilgrims in Lourdes: ‘You will leave as missionaries of hope'",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-lourdes-mass-apostolic-visit-france.html",
-      "summary": "In Lourdes, Pope Leo XIV calls pilgrims to conversion and penance, urges the Church to conversion, and invites the sick to see their suffering as part of Christ’s redemptive action. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T09:58:08Z",
-      "first_seen": "2026-09-27T10:37:38Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790502617911.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9e3b41ae2d7aa08c",
-      "title": "Brandon Lake Surprise-Drops Live Version of \"How Good God Is\"",
-      "link": "https://www.jubileecast.com/articles/39754/20260927/brandon-lake-how-good-god-is-in-the-room-live-release.htm",
-      "summary": "Brandon Lake Surprise-Drops Live Version of \"How Good God Is\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T09:53:10Z",
-      "first_seen": "2026-09-27T10:37:38Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31581/brandon-lake.jpg",
         "via": "media:content"
       },
       "breaking": false,
