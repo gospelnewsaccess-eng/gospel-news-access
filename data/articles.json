@@ -1,8 +1,160 @@
 {
-  "generated_at": "2026-10-02T07:40:57Z",
+  "generated_at": "2026-10-02T08:08:54Z",
   "story_count": 600,
-  "with_photo": 427,
+  "with_photo": 429,
   "items": [
+    {
+      "id": "e37a1f19034e92aa",
+      "title": "Album Review: Amy Grant’s ‘The Me That Remains (Deluxe Edition)’ Finds More Beauty In The Becoming",
+      "link": "https://www.jubileecast.com/articles/39888/20261002/album-review-amy-grant-s-the-me-that-remains-deluxe-edition-finds-more-beauty-in-the-becoming.htm",
+      "summary": "Amy Grant’s ‘The Me That Remains (Deluxe Edition)’ Finds More Beauty In The Becoming",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T08:00:35Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28809/amy-grant.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b2126c1a2898e0c0",
+      "title": "Charles Spencer’s ‘Swan Song: Diana, My Sister’ Tops Bestseller List With Ari Emanuel’s ‘Roll The Calls’ Close Behind",
+      "link": "https://www.jubileecast.com/articles/39887/20261002/charles-spencer-s-swan-song-diana-my-sister-tops-bestseller-list-with-ari-emanuel-s-roll-the-calls-close-behind.htm",
+      "summary": "Who Kept Hollywood Super-Agent Ari Emanuel’s Tell-All From The No. 1 Spot?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T07:52:43Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32023/swan-song-diana-my-sister.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dc1fdeee96d9322a",
+      "title": "Album Review: Charles Billingsley’s “Replay” Finds New Purpose In Christian Music’s Past",
+      "link": "https://www.jubileecast.com/articles/39886/20261002/album-review-charles-billingsley-s-replay-finds-new-purpose-in-christian-music-s-past.htm",
+      "summary": "Charles Billingsley’s “Replay” Finds New Purpose In Christian Music’s Past",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T07:47:23Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32022/charles-billingsley.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e0bb416b50bc4fe",
+      "title": "Bishops urge Tennessee to commute death sentence after botched execution",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/usa-tennessee-catholic-episcopal-bishops-christa-pike-execution.html",
+      "summary": "Following the botched execution of Christa Pike, the Catholic and Episcopal Bishops of Tennessee call for the US state’s Governor to commute her death sentence and uphold their opposition to the death penalty. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T07:43:00Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/01/09/1790841598359.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9e9aeae612100419",
+      "title": "Joseph Anthony On ‘YES LORD,’ Heart Failure, And The Yes That Changed His Life",
+      "link": "https://www.jubileecast.com/articles/39885/20261002/joseph-anthony-on-yes-lord-heart-failure-and-the-yes-that-changed-his-life.htm",
+      "summary": "Joseph Anthony On ‘YES LORD,’ Heart Failure, And The Yes That Changed His Life",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T07:36:09Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32021/joseph-anthony.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e92fc6f4b2b33e0",
+      "title": "What Did Former Youth Pastor Caleb Flynn Say About His Wife During His ‘American Idol’ Days?",
+      "link": "https://www.jubileecast.com/articles/39884/20261002/what-did-former-youth-pastor-caleb-flynn-say-about-his-wife-during-his-american-idol-days.htm",
+      "summary": "What Did Caleb Flynn Say About His Wife During His ‘American Idol’ Days?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T07:27:32Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5aa81a16c12e3868",
+      "title": "Chad Lowe’s Daughter Fiona Dies At 13: How Should Christians Respond To The Family’s Heartbreak?",
+      "link": "https://www.jubileecast.com/articles/39883/20261002/chad-lowe-s-daughter-fiona-dies-at-13-how-should-christians-respond-to-the-family-s-heartbreak.htm",
+      "summary": "Chad Lowe’s Daughter Fiona Dies At 13: How Should Christians Respond To The Family’s Heartbreak?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T07:20:27Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31993/chad-lowe-and-family.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cfaf7ed9bd7a7e0d",
+      "title": "What Whitney Capps Said About Faith As Cancer Changed Her Life",
+      "link": "https://www.jubileecast.com/articles/39882/20261002/what-whitney-capps-said-about-faith-as-cancer-changed-her-life.htm",
+      "summary": "What Whitney Capps Said About Faith As Cancer Changed Her Life",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T07:14:46Z",
+      "first_seen": "2026-10-02T08:08:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32020/whitney-capps.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "b830ede99ad6c2f4",
       "title": "Why Is Nicole C. Mullen Bringing ‘Call On Jesus’ Home After 25 Years?",
@@ -10910,154 +11062,6 @@
       "breaking": true,
       "breaking_expires_at": "2026-09-27T08:06:25Z",
       "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "37999afe27f60f48",
-      "title": "Pope Leo, a pilgrim in prayer at Lourdes",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-pilgrim-lourdes-peace-our-lady-prayer-solemn-crowd.html",
-      "summary": "At the Grotto of the Shrine of Our Lady of Lourdes, Pope Leo entrusts France, its people and its Church to Our Lady. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T19:14:00Z",
-      "first_seen": "2026-09-26T20:06:25Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---preghiera-alla-grotta/1790448609872.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "412b204b9bd6a746",
-      "title": "In Lourdes Pope Leo entrusts France to the Virgin Mary",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/in-lourdes-pope-leo-entrusts-france-to-the-virgin-mary.html",
-      "summary": "Just after arriving in the Marian pilgrimage city of Lourdes, Pope Leo XIV went to the heart of the shrine to pray to the Virgin Mary at the Grotto of Massabielle, surrounded by thousands of faithful. Kneeling in prayer, the Pope asked for “the gift of…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T19:08:00Z",
-      "first_seen": "2026-09-26T20:06:25Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---preghiera-alla-grotta/1790447699945.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e7a4af81b2dd70aa",
-      "title": "Illinois bishop announces first-ever parish to be named after Blessed Fulton Sheen",
-      "link": "https://www.ewtnnews.com/world/us/illinois-bishop-announces-first-ever-parish-to-be-named-after-blessed-fulton-sheen",
-      "summary": "The combined parish of St. Mary in El Paso, Illinois, and St. John in Benson, Illinois, will be the first parish in the world to be named after the new blessed.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T18:10:34Z",
-      "first_seen": "2026-09-26T19:05:56Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790447238/ewtn-news/en/StMaryElPasoIllinois092626_a4s019.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3d7f4cb7bbd8a949",
-      "title": "From foster care to Lourdes: Young convert leaves job to see pope, embrace monastic life",
-      "link": "https://www.ewtnnews.com/world/europe/from-foster-care-to-lourdes-young-convert-leaves-job-to-see-pope-embrace-monastic-life",
-      "summary": "Among the throngs of pilgrims in Lourdes this weekend will be a 27-year-old woman who be there with a group of Cistercian nuns, hoping the visit will confirm her call to contemplative life.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T17:00:00Z",
-      "first_seen": "2026-09-26T18:07:49Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790197402/ewtn-news/en/bb94b293-9d00-46a1-b4da-5daba09a346b_tq4dh2.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "abcfd1ada19832f3",
-      "title": "Tank is giving fans more than an album- he’s giving an “Experience”",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdmphZU13REhFVlB0YV94Yms1M2Q4NjRVOEZ3eVhNOGcybVpYQk5iOWZFTnowVDZ6SkdKOUp3SHRZNHZVZmFzNVVSVmZkRFhoRl9GUjIzMXVxVzRtRHlDbm1ZaEdiLWV6ZjRNXy1WXzRiY1pTOVNtT21xcXlrQlB4ZXJhNWM1b1NnVTI0T1lxMHY0TkRMTTE2T3Fn?oc=5",
-      "summary": "Tank is giving fans more than an album- he’s giving an “Experience” ThisisRnB.com",
-      "outlet": "ThisisRnB.com",
-      "outlet_url": "https://thisisrnb.com",
-      "source_feed": "Google News: Zacardi Cortez",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-26T16:58:43Z",
-      "first_seen": "2026-09-29T02:06:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "e79e14df6505d308",
-      "title": "Kirk Franklin and GloRilla team up again for new gospel track ‘This Time’",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTWFXYlRDa0NyaWRUU3BTYnFNbUh0eTZ5NEpUaXRyMzRyQm5McjBkYnpHdFU3LUZKXzZyZTgxX0hXR3hVZW5VcjBXd3l2ejhxbGNqRHJHaHcyUndudnFkN0djNWZHNTZwQUpaTkNwOGhidFJIVDdaNy1zYTNyYlk5RVNEcGtheXJJOGk0bEs5ZU1UeDhRVklSR1MxLVdzbXF3?oc=5",
-      "summary": "Kirk Franklin and GloRilla team up again for new gospel track ‘This Time’ Yahoo",
-      "outlet": "Yahoo",
-      "outlet_url": "https://www.yahoo.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-26T16:47:04Z",
-      "first_seen": "2026-09-26T17:37:15Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-27T05:37:15Z",
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "2350b518d6fa2d5c",
-      "title": "Pope Leo XIV in Paris: No one ‘is merely a number’",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-catholics-in-paris-no-one-is-merely-a-number",
-      "summary": "An estimated 800,000 people attended the pontiff’s open-air Mass.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T16:27:54Z",
-      "first_seen": "2026-09-26T17:06:22Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790439831/ewtn-news/en/_RIS6775_jnmbhm.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f728a614390a4a6a",
-      "title": "Cardinal Parolin at UN: ‘Restore trust’ through dialogue, justice and peace",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/cardinal-parolin-un-general-assembly-appeal-dialogue-justice-pea.html",
-      "summary": "Addressing the General Assembly in New York, the Vatican Secretary of State calls for an end to wars, respect for international law, responsible use of artificial intelligence and renewed multilateralism. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T16:02:00Z",
-      "first_seen": "2026-09-26T17:06:22Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/26/16/1790433031294.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
