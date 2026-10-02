@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-02T06:09:35Z",
+  "generated_at": "2026-10-02T06:46:03Z",
   "story_count": 600,
   "with_photo": 427,
   "items": [
+    {
+      "id": "85cdfb572dd39c63",
+      "title": "UK's Wings Music Group signs joint venture deal with Capitol Christian Music Group & Capitol Records",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTRxOWNJUXVMa2dSNDFYVXpBYnZodERUakd2RzdpRU95X0V4eWVlVkJiWmd2RjV4dXAwTXFQQVZ2WlVVbXl6RHM1czAyeURjeFRZVjd0bmlQZU5NbjU0ZFJoR1Fsc0FuSXR4MGl0MGxGc0dDXzdlSzc2dU5ZRmhLSW1pWFU5RzFKMmxiVUFsNk1YQUxKemdET2ljVDdaTlFJRGdCNGFidUZFaWl4WVdVaDNfVG9QY0Vkd0NOT1RvLUtxZUgtaExBZW1nV3B6U09MbzlQd2JETTZpQ2M?oc=5",
+      "summary": "UK's Wings Music Group signs joint venture deal with Capitol Christian Music Group & Capitol Records musicweek.com",
+      "outlet": "musicweek.com",
+      "outlet_url": "https://www.musicweek.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T06:00:00Z",
+      "first_seen": "2026-10-02T06:46:03Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-02T18:46:03Z",
+      "image_tried": "2026-10-02T06:46:03Z"
+    },
     {
       "id": "6d9cc4247db9dde7",
       "title": "Rapzilla Artist Drop 10/2/26: QEW – 777 (No Wish)",
@@ -133,6 +150,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-02T16:41:30Z",
       "image_tried": "2026-10-02T04:41:30Z"
+    },
+    {
+      "id": "ecebe8e01947365c",
+      "title": "57th Annual Dove Awards Pre-Telecast Lineup Announced",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTNHdUxRa2hGVTRRVk9oazREM0xZMmZxWUwtcDZPc3dTQ2swX0RGSWNud3pTQjE2NVFMQXN2eElYWHdvNnBZRjN1VkJEdE5tUHlENnNtSVV4RlozR1YxOW1pTTRWTmFtVDVnQWo4TEt6Q1JfMHFnWHBybTNSbENyQU1SaTBjQWpQUkE?oc=5",
+      "summary": "57th Annual Dove Awards Pre-Telecast Lineup Announced Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T03:01:48Z",
+      "first_seen": "2026-10-02T06:46:03Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T06:46:03Z"
     },
     {
       "id": "046d592ade11a5d9",
@@ -11024,40 +11058,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "d4c430320d36c7a2",
-      "title": "Kirk Franklin is making moves with GloRilla, New Music, & Uptown Records",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZktGQ2NLQXV5TTZyQ25LX0NPUV80cGpZb0RtdWlEa3FnNFdiTXpBVVlXVVZteFpULW03akRjTl9FdmV2VTJOS09mMEZZbW1YLTdoN3oxa19mNENzRnNnOTVDLVZmNnBYZkVNYlVkbmNnOG9WbVRZaGtwV1VLdl9EOWZ2VUZWZlcyM2lQVEtFdTlJLTdvaGpRUURNakk4LXhn?oc=5",
-      "summary": "Kirk Franklin is making moves with GloRilla, New Music, & Uptown Records ThisisRnB.com",
-      "outlet": "ThisisRnB.com",
-      "outlet_url": "https://thisisrnb.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-26T15:43:10Z",
-      "first_seen": "2026-09-26T16:07:09Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-27T04:07:09Z",
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "2f722e27f547e596",
-      "title": "How Prayer Carried This Christian Artist and His Wife Through Grief",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOemwxaFpTeTBGM1RISFN4bllvRWhXbzF4RGItQ3FEaHFaZ09kTnJ0anRIa0dzQy1JbjFqR1hIY2hJY1ZRcWh4SExkZ1ZaR1hTUEs1X2FYSC1QZy1BWVdndEVNbGgyQS1zbGpCaXlMUVFYOUw5MzhVd3NGc18tdGNiTjl1WGF0cW90a2xwUWZWMld0bWd2bDVCcDYtQXc2YmxvT0I3dmxRVEFnUVo4b0E?oc=5",
-      "summary": "How Prayer Carried This Christian Artist and His Wife Through Grief Movieguide",
-      "outlet": "Movieguide",
-      "outlet_url": "https://www.movieguide.org",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-26T15:00:00Z",
-      "first_seen": "2026-09-26T15:06:29Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-27T03:06:29Z",
-      "image_tried": "2026-09-30T17:07:59Z"
     }
   ]
 }
