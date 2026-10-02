@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T02:07:54Z",
+  "generated_at": "2026-10-02T02:39:59Z",
   "story_count": 600,
-  "with_photo": 429,
+  "with_photo": 428,
   "items": [
     {
       "id": "b9980f132d0da3e5",
@@ -1373,6 +1373,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "b5a27c7a1aaa8898",
+      "title": "Testimony Trio: Singing News TV NQC Artist Spotlight Featuring Testimony - hazard-herald.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcVVwbkdQdk5JSWFwVEtmcVFvaWFwbHhHZVp0Znp4OFdmazhibk5TR1pxSG13eHZKOWhMZEEwdFBZRDlJREp3VnZJOGtvZUg5S1N6YmQtcW1tQkpkVDVyQVZGTVJtRXFiZWQzNlUybUFOVFpQUHF5a2pKNVI4R2ZVMEZ4WXRmWjFpVFBVcWhMaS1aZlJlU2g5aHUzSWM1V3JQZmJEUmJsclJpV01lRGtfbUNFajA2V0FtNlhRQlJXeGVTWUdkWUNteTRqaHl0VTZQMUNiOExPS18tbDlKck1iRQ?oc=5",
+      "summary": "Testimony Trio: Singing News TV NQC Artist Spotlight Featuring Testimony hazard-herald.com",
+      "outlet": "hazard-herald.com",
+      "outlet_url": "https://hazard-herald.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-01T14:06:57Z",
+      "first_seen": "2026-10-02T02:39:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T02:39:59Z"
     },
     {
       "id": "1add980072736e07",
@@ -11040,25 +11057,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2d6be095a3f7660a",
-      "title": "Olivia Rodrigo, Charlie Puth, and Jonas Brothers Headline iHeartRadio's 2026 Jingle Ball Tour: See the Full Lineup by City",
-      "link": "https://www.jubileecast.com/articles/39739/20260926/iheartradio-jingle-ball-2026-lineup-cities-tickets.htm",
-      "summary": "Olivia Rodrigo, Charlie Puth, and Jonas Brothers Headline iHeartRadio's 2026 Jingle Ball Tour: See the Full Lineup by City",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-26T11:38:34Z",
-      "first_seen": "2026-09-26T11:36:57Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31947/iheart-radio-jingle-ball.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
