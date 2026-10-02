@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-02T12:09:17Z",
+  "generated_at": "2026-10-02T12:46:19Z",
   "story_count": 600,
   "with_photo": 430,
   "items": [
+    {
+      "id": "fa7db27865aef85e",
+      "title": "Kid Rock Searching For Salvation on Upcoming ‘Halfway to Jesus’ Christian Rock Album Featuring Eminem Collab",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWWFaMmJEUHV0aF84RFU5djVtZmVBQW5mVnhCNnZWSXM4ejNQc3Q2ejItd3ctcWRMXzh5MmFpZzBEN05BTVdFS1lWVUh3SlRZREM4ZXpDZWktSl9kcWJSNDBjazF6OVN2cmRIWHY5NmZuRWw4Ykw2QWEtNmIwUVpUcnFzU3RxRkIxc0hvX0RUNEZkbWtYTzIwVm5waUVOSXh5STIzTW5B?oc=5",
+      "summary": "Kid Rock Searching For Salvation on Upcoming ‘Halfway to Jesus’ Christian Rock Album Featuring Eminem Collab yahoo.com",
+      "outlet": "yahoo.com",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T12:16:36Z",
+      "first_seen": "2026-10-02T12:46:19Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T00:46:19Z",
+      "image_tried": "2026-10-02T12:46:19Z"
+    },
     {
       "id": "86ea30921576ddf4",
       "title": "As anti-Hindu rhetoric grows, Texas Hindus rethink public celebrations",
@@ -11047,23 +11064,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "6fe237ffc7710bfc",
-      "title": "Black Church hosts Organ Nights on 3 October",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ0Fpd0Y3ZGJZYmxmcUNZZlZSZFJUbzJXTkF1U2FqT0V0b1IxTkh0Um5RQTk4TFRyZ0Iwdm42R0RPc3dqQWxEWVZBNjBsM2s2cDZpRnJyS18zaFliVmltbElvRVhwTDJpLU84RVVvRkJJdnQwUkYzTXBFdEJuZDcxVm5rRGY4REd1NGFuQThqdjRLcEVaNEpMWHFnX3ZKUzZRSUE?oc=5",
-      "summary": "Black Church hosts Organ Nights on 3 October AD HOC NEWS",
-      "outlet": "AD HOC NEWS",
-      "outlet_url": "https://www.ad-hoc-news.de",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-27T09:51:23Z",
-      "first_seen": "2026-09-27T10:06:58Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-27T22:06:58Z",
-      "image_tried": "2026-09-30T17:07:59Z"
     }
   ]
 }
