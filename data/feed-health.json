@@ -186,12 +186,11 @@
     },
     "Google News: Melvin Crispell III": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-10-02T20:42:53Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "no <item> or <entry> elements found"
+      "last_checked": "2026-10-02T21:07:10Z",
+      "last_item_count": 52,
+      "last_status": "ok"
     },
     "Google News: The Clark Sisters": {
       "consecutive_zero": 0,
@@ -390,6 +389,6 @@
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-10-02T20:40:54Z",
+  "updated_at": "2026-10-02T21:07:10Z",
   "flagged_feeds": []
 }
