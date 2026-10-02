@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-10-02T18:43:32Z",
+  "generated_at": "2026-10-02T19:08:47Z",
   "story_count": 600,
-  "with_photo": 418,
+  "with_photo": 420,
   "items": [
+    {
+      "id": "ccc1fedd7d828559",
+      "title": "America: Don’t be a stranger",
+      "link": "https://religionnews.com/2026/10/02/america-dont-be-a-stranger/",
+      "summary": "(RNS) — All told, only 34% of Americans — barely a third — say most people can be trusted. There is a path to a more neighborly America.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T18:39:46Z",
+      "first_seen": "2026-10-02T19:08:47Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2025/02/webRNS-Gender-Diversity2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d2114a5610cd8707",
+      "title": "‘Islamist Indoctrination’: Iran Suspected of Ties to FlyDubai Attack, Terror Threat at UK Air Base",
+      "link": "https://mycharisma.com/news/islamist-indoctrination-iran-suspected-of-ties-to-flydubai-attack-terror-threat-at-uk-air-base/",
+      "summary": "JERUSALEM, Israel – Questions are growing about possible Iranian involvement in two terrorism-related incidents: the attempted hijacking of FlyDubai flight 1073 and a security incident near a U.S.-operated base in Britain. Meanwhile, the U.S. is moving…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T18:28:32Z",
+      "first_seen": "2026-10-02T19:08:47Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2c445885b6c2f4c1",
+      "title": "Pastor Marvin Winans denies receiving $545K salary for part-time work at nonprofit",
+      "link": "https://www.christianpost.com/news/marvin-winans-denies-collecting-545k-for-part-time-work.html",
+      "summary": "Grammy-winning Pastor Marvin Winans, who IRS records show was paid nearly $540,000 last year for working 20 hours per week at his Perfecting Community Development Corporation in Detroit, Michigan, denied receiving a “dime” and insists his accountant made an…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T18:20:08Z",
+      "first_seen": "2026-10-02T19:08:47Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272112_w_550_309.jpg?v=20261002142123",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dd4f2eaa4f2baf99",
+      "title": "Trump's week in review: The dawn of 'Super intelligence'; troops exit Iraq; new refugee ceiling draws concern",
+      "link": "https://www.christianpost.com/news/trumps-week-in-review-the-dawn-of-super-intelligence.html",
+      "summary": "Here are five highlights from the past week, including a new determination on the number of refugees that will be admitted to the United States and the withdrawal of the remaining U.S. troops from Iraq.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T18:16:00Z",
+      "first_seen": "2026-10-02T19:08:47Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272147_w_550_367_780_264.jpg?v=20261002141621",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "207dd15795f59450",
+      "title": "Louisiana United Methodists launch $15M initiative to erase church debt, fund ministry projects",
+      "link": "https://www.christianpost.com/news/umc-conference-to-give-5m-in-relief-debt-to-at-least-25-churches.html",
+      "summary": "The Louisiana Conference of The United Methodist Church is preparing to put $15 million behind its remaining congregations, including $5 million to erase church debt and another $10 million for new and expanded ministry projects.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T17:51:31Z",
+      "first_seen": "2026-10-02T19:08:47Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272153_w_550_366_475_299.jpg?v=20261002135200",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "07aedbbc2e2583e5",
       "title": "Critics Melt Down Over Pentagon’s New Religious Affairs Office",
@@ -10945,97 +11040,6 @@
       "first_seen": "2026-09-27T23:06:26Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31965/vmas.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "76a51b62125612be",
-      "title": "Hillsong Founders’ Children Gather for Parable Conference as Bobbie Houston Waits for Joel to Arrive",
-      "link": "https://www.jubileecast.com/articles/39775/20260927/hillsong-founders-children-gather-for-parable-conference-as-bobbie-houston-waits-for-joel-to-arrive.htm",
-      "summary": "Hillsong Founders’ Children Gather for Parable Conference as Bobbie Houston Waits for Joel to Arrive",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T22:37:06Z",
-      "first_seen": "2026-09-27T23:06:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/25965/brian-and-bobbie-houston.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9d7e0767b36839e4",
-      "title": "Highlights of Pope Leo's third day in France",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/highlights-pope-leo-third-day-france-lourdes-video.html",
-      "summary": "Highlights from Pope Leo's third day in France, in which he met with bishops, the sick, and abuse victims, celebrated Mass, and took part in a torchlight procession with 50,000 pilgrims. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T22:20:00Z",
-      "first_seen": "2026-09-27T23:06:26Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790501398269.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fc37939dea507938",
-      "title": "Mariah Carey - \"Jesus I Do\" Writing Session with The Clark Sisters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vV0E4OW9XQ3pkMlBnUmw3WlVTWEVPQ3hjRFBiXzQzd1BjeVY1OXoxamhFZ2xEd0dxN0M2b3B1UmtnU3dzbUlKZW5tbXJRWXRNN2VUTC1YV2d0aFlr?oc=5",
-      "summary": "Mariah Carey - \"Jesus I Do\" Writing Session with The Clark Sisters YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: The Clark Sisters",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-27T21:49:41Z",
-      "first_seen": "2026-09-28T22:07:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "d520b19495201651",
-      "title": "The Other Side Village celebrates second chances and recovery with a gospel brunch",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZUUydEtwdmVHTnVOdW1hN054ZU1GaDRlM0piZkktQ3JjTldRTEN5NWxXVktSOUdveVFZRGM4RktwRTF0eFhkMFZFaWVjVUpwOWZ6LXpjRUtKU1FxYWdMVHd5T3JCdEk5YzhHTzQzdGhBaTJBWFlUdVY1Tl9kVUdTVlpyVk5JXzJ1SkZROFhrVVp4SHRITlptRmhCaFBsVmZoeVZyQXJLS3lQc0pRY013RVllQ09xdmVvWmVlTkRPbk94SmNBNWFuRkNjQTc3Q1R6WlczUg?oc=5",
-      "summary": "The Other Side Village celebrates second chances and recovery with a gospel brunch FOX 13 News Utah",
-      "outlet": "FOX 13 News Utah",
-      "outlet_url": "https://www.fox13now.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-27T21:40:57Z",
-      "first_seen": "2026-09-27T22:06:30Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-28T10:06:30Z",
-      "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "16e02b49dca3da75",
-      "title": "Abuse victims in Lourdes: ‘Pope listened deeply, was pained by our stories’",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/france-church-abuse-victims-after-meeting-pope-leo.html",
-      "summary": "After meeting for two hours with Pope Leo XIV in Lourdes, seven survivors of clerical sexual abuse speak to the press about their experiences and the Pope’s empathy and concern for those who have suffered the scrouge of abuse. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T21:18:00Z",
-      "first_seen": "2026-09-28T10:08:36Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/27/whatsapp-image-2026-09-27-at-21-12-55-1.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
