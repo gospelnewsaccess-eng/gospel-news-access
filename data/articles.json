@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-02T19:08:47Z",
+  "generated_at": "2026-10-02T19:40:58Z",
   "story_count": 600,
-  "with_photo": 420,
+  "with_photo": 418,
   "items": [
+    {
+      "id": "dddab9c1c280b85e",
+      "title": "Industry Ink: Brooks & Dunn, Zach Top, Wings Music Group, Ryman, More",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR0NKTS1IWENFUzI2UmpDUmNENjk1ZTB3NGY3VnM3cHI4UU4yRjZ0ZV9uY0txT2tYM1RTSzZ5RWZxOUlLZzBIUGxQS2N3dXE4eExsZldJZE5yWkNDT2dLZU9Xakh1Z29seUE5NzR1Wl9mNzVFV0RCYkNpRk1BckZRQmUtcUtsb1hEcXRxbHdSQ1FBaHRmak5r?oc=5",
+      "summary": "Industry Ink: Brooks & Dunn, Zach Top, Wings Music Group, Ryman, More MusicRow.com",
+      "outlet": "MusicRow.com",
+      "outlet_url": "https://musicrow.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T19:33:18Z",
+      "first_seen": "2026-10-02T19:40:58Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T07:40:58Z",
+      "image_tried": "2026-10-02T19:40:58Z"
+    },
+    {
+      "id": "c867a72c24a9dddf",
+      "title": "Oklahoma pastor Craig Groeschel, Tim Tebow cut ties with Life Surge. What to know.",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMTljWnpqalFiM0ZuZk5XbGVsa2Zqc05DVkUwWGpwNHRhRDVqdGNXbkFKRGZlRDdyM09lc2pRWW9iOER4YnFkR1V1cEZhQm03Z3hERDU0anBIUWlETVdLRmRvWW4yOHdkTFVjN2MwTHdmLTNBbnp1T0stMWFHLTlJTXlJR25TaTBtRWx4eFByQVR2NGRZT01wQk5GaG9fbzZCY01fTjhVZjhiY29maXlFVkdYS0JOUUVTZDk5R045ZGRFOUlQaDRlSXJnVm1aQQ?oc=5",
+      "summary": "Oklahoma pastor Craig Groeschel, Tim Tebow cut ties with Life Surge. What to know. The Oklahoman",
+      "outlet": "The Oklahoman",
+      "outlet_url": "https://www.oklahoman.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-02T19:01:00Z",
+      "first_seen": "2026-10-02T19:40:58Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T07:40:58Z",
+      "image_tried": "2026-10-02T19:40:58Z"
+    },
     {
       "id": "ccc1fedd7d828559",
       "title": "America: Don’t be a stranger",
@@ -11002,44 +11036,6 @@
       "first_seen": "2026-09-28T01:38:59Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31964/mtv-vma.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "09c076cf64bda77f",
-      "title": "Would Melissa Barrera Return to Scream? Her Latest Comments Put Spyglass on the Spot",
-      "link": "https://www.jubileecast.com/articles/39777/20260927/would-melissa-barrera-return-to-scream-her-latest-comments-put-spyglass-on-the-spot.htm",
-      "summary": "Would Melissa Barrera Return to Scream? Her Latest Comments Put Spyglass on the Spot",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T22:47:58Z",
-      "first_seen": "2026-09-27T23:06:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31966/melissa-barrera.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "df895236b8077820",
-      "title": "Stars Arrive at 2026 MTV VMAs Red Carpet as Taylor Swift’s “Patient Zero” Premiere Draws Near",
-      "link": "https://www.jubileecast.com/articles/39776/20260927/stars-arrive-at-2026-mtv-vmas-red-carpet-as-taylor-swift-s-patient-zero-premiere-draws-near.htm",
-      "summary": "Stars Arrive at 2026 MTV VMAs Red Carpet as Taylor Swift’s “Patient Zero” Premiere Draws Near",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T22:40:20Z",
-      "first_seen": "2026-09-27T23:06:26Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31965/vmas.jpeg",
         "via": "media:content"
       },
       "breaking": false,
