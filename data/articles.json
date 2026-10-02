@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-10-02T22:06:22Z",
+  "generated_at": "2026-10-02T22:40:02Z",
   "story_count": 600,
-  "with_photo": 426,
+  "with_photo": 424,
   "items": [
+    {
+      "id": "b8e429913dd075fb",
+      "title": "What did St. Josemaría see on the day Opus Dei was founded?",
+      "link": "https://www.ewtnnews.com/world/europe/what-did-st-josemaria-see-on-the-day-opus-dei-was-founded",
+      "summary": "On the feast of the Guardian Angels in 1928, the saint received “general enlightenment” about his mission, which later coalesced into a specific form.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T22:15:00Z",
+      "first_seen": "2026-10-02T22:40:02Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790975010/ewtn-news/en/Josemaria-Escriva-Santuario-Torreciudad-011026_z497ld_y1bcgp.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8e9edc0cf6345c98",
+      "title": "Brazilian court rules posts making false claims about conservative candidate must be removed",
+      "link": "https://www.ewtnnews.com/world/americas/court-in-brazil-rules-posts-making-false-claims-about-conservative-candidate-must-be-removed",
+      "summary": "Days before Brazil’s presidential election, social media posts made or insinuated false claims about candidate Flávio Bolsonaro.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T21:35:00Z",
+      "first_seen": "2026-10-02T22:40:02Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790967879/ewtn-news/en/shutterstock_1919661086_btiqqy_mm7hb4.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d862ce958f4ec103",
       "title": "Lorenza Izzo, Francia Raisa & More Join Betches CEO Aleen Dreksler for Mahjong Night",
@@ -19,6 +57,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-03T09:40:44Z",
       "image_tried": "2026-10-02T21:40:44Z"
+    },
+    {
+      "id": "2037e50dc0aaddfc",
+      "title": "“We Have to Face the Pain to Unlock Healing”: Jeff Darko Reveals His Soul on Daring Debut ‘Heavy Water Blues,’ a Spellbinding Vision of Psychedelic Gospel",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVkyQkRYTDJLX0VzcV9TOHpkYUlzWTdkcXVuOGtoeE40M3NQNGRRQXhZRnRINXplb2M4dkN5eUFndWdOQ3M4QWJaQnMwV283V2g1UkZiTExqLVpweGJZa3hCYjlHZkFldlM0SGZuSHpSaVdueUQtcmllMjB0N2I0UlpJTmFjaHB6OGxjZWtWTWp5Q1ZOSmFN?oc=5",
+      "summary": "“We Have to Face the Pain to Unlock Healing”: Jeff Darko Reveals His Soul on Daring Debut ‘Heavy Water Blues,’ a Spellbinding Vision of Psychedelic Gospel Atwood Magazine",
+      "outlet": "Atwood Magazine",
+      "outlet_url": "https://atwoodmagazine.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T21:20:14Z",
+      "first_seen": "2026-10-02T22:40:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T10:40:02Z",
+      "image_tried": "2026-10-02T22:40:02Z"
     },
     {
       "id": "96b62c8ba151c656",
@@ -6583,6 +6638,23 @@
       "image_tried": "2026-10-02T18:43:32Z"
     },
     {
+      "id": "e19439b79821d406",
+      "title": "CeCe Winans",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTnMwMnpKZ0Yyb1NYRXpPelQ2LWRoY2NseWUtZ0RpdWMzSEVaeGNJVUlEOXdWRS1QNGVtU2dRa3dnY08tSk5RdXVVcEZKMjNrN1FfRmozWGxxc2Jm?oc=5",
+      "summary": "CeCe Winans Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-30T05:00:00Z",
+      "first_seen": "2026-10-02T22:40:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T22:40:02Z"
+    },
+    {
       "id": "fdbe0a5efdab1495",
       "title": "Transgender Actor Elliot Page Covers New York’s First Men’s Style Issue—What Should Christians Make Of It?",
       "link": "https://www.jubileecast.com/articles/39833/20260930/transgender-actor-elliot-page-covers-new-york-s-first-men-s-style-issue—what-should-christians-make-of-it.htm",
@@ -10976,82 +11048,6 @@
       "first_seen": "2026-09-28T08:09:33Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/06/22/South%20Sudanese%20refugees%20at%20the%20MassAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "93f5255a0c8f92e8",
-      "title": "Discovering Robert Schuman's work for peace and unity as Pope arrives in Metz",
-      "link": "https://www.vaticannews.va/en/church/news/2026-09/robert-schuman-pope-leo-xiv-france-metz-europe-peace-borders.html",
-      "summary": "As Pope Leo XIV visits the French border city of Metz, we recall the legacy of Venerable Robert Schuman, one of the founders of the European Union, who worked tirelessly for peace and the common good after World War II. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T05:41:50Z",
-      "first_seen": "2026-09-28T06:46:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/07/93.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "722b6e35abc20698",
-      "title": "‘I think Pope Leo truly cares about young Catholics’",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/metz-interview-henry-young-professional-on-pope-visit.html",
-      "summary": "As Metz welcomes Pope Leo XIV, a young Catholic professional who lives and works in the eastern French city tells Vatican News that Pope Leo is especially appreciated for 'truly caring for young Catholics,' and for his commitment to peace in Europe and…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T05:40:00Z",
-      "first_seen": "2026-09-28T06:46:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/27/motion-photo-3938363508107607265.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4d7eec04a911cd51",
-      "title": "Forgetting how to blush",
-      "link": "https://www.christianpost.com/voices/forgetting-how-to-blush.html",
-      "summary": "There was a time when being caught celebrating something wicked made people turn red with embarrassment. That shame worked as a kind of social restraint. So what happens when it disappears?",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T05:33:44Z",
-      "first_seen": "2026-09-28T08:09:33Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272068_w_550_350_490_176.jpg?v=20260928032021",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1d74f673cbe1dd0b",
-      "title": "AEW Star PAC Dies at 40 After \"All Out:\" What Happened to Benjamin Satterley?",
-      "link": "https://www.jubileecast.com/articles/39784/20260928/aew-star-pac-dies-at-40-after-all-out-what-happened-to-benjamin-satterley.htm",
-      "summary": "AEW Star PAC Dies at 40 After All Out: What Happened to Benjamin Satterley?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-28T05:26:32Z",
-      "first_seen": "2026-09-28T05:40:07Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31969/benjamin-satterley.jpeg",
         "via": "media:content"
       },
       "breaking": false,
