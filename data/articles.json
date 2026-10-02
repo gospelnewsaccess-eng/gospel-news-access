@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-02T11:41:02Z",
+  "generated_at": "2026-10-02T12:09:17Z",
   "story_count": 600,
-  "with_photo": 431,
+  "with_photo": 430,
   "items": [
+    {
+      "id": "86ea30921576ddf4",
+      "title": "As anti-Hindu rhetoric grows, Texas Hindus rethink public celebrations",
+      "link": "https://religionnews.com/2026/10/02/as-anti-hindu-rhetoric-grows-texas-hindus-rethink-public-celebrations/",
+      "summary": "DALLAS (RNS) — ‘I enjoy celebrating your culture, religion, whatever your faith is, but everything has a limit,’ said Irving resident Seema Ashar. ‘You cannot disturb other people, and it’s getting wilder and wilder every year. You have to respect everybody…",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T12:05:13Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Ganesh-Hindu-Texas3.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b3e6c673f9ed2b1e",
+      "title": "Pittsburgh diocesan consultant reports rising exorcism requests",
+      "link": "https://www.ewtnnews.com/world/us/pittsburgh-diocesan-consultant-reports-rising-exorcism-requests",
+      "summary": "Adam Blai, a Pittsburgh‑based lay member of the International Association of Exorcists, said the diocese has seen a sharp rise in cases over the past five years.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T12:00:00Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790895347/ewtn-news/en/ENNExcorcist100126_qkvlnn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ef947e20054657f1",
+      "title": "Opus Dei spokesman aims to address misconceptions surrounding apostolate",
+      "link": "https://www.ewtnnews.com/world/europe/opus-dei-spokesman-seeks-to-address-misconceptions-surrounding-apostolate",
+      "summary": "In his new book, Jack Valero, the spokesman for Opus Dei in the U.K., provides an inside look at the apostolate based on the experiences of members themselves.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T12:00:00Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790703231/ewtn-news/en/Jack_Valero__crop_px6o9k_w04jc4.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "8549d3d16de0c06e",
       "title": "Jonathan McReynolds Says His Mother and Grandmother Inspired ‘Echo’",
@@ -21,6 +78,61 @@
       "image_tried": "2026-10-02T11:41:02Z"
     },
     {
+      "id": "4e664c20c3af880b",
+      "title": "KID ROCK Announces Christian Music Album 'Halfway To Jesus', Shares First Single 'James 1:17 (Jesus Is King)'",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTFRZcUV6MDZ5M1hQYTNZQ3hZRUF1R2otczZPMHJVRlNBSnNoek10NUlUQzNQbUFPR3F1d0k5dzEyNFJoRGVrXzdWOThCNmtTSEVZS08zQUY5aTB5YlhqbFBYdEdMa2xlZ3U4eFA5ZlpYN04tbmRRTmdta2U0OF9VOE9KUW11dnE4SklDSkdsOFc2cEkzZXFtc25SXzhQb0M4MFJteVNxLXY0MUNOVlJnWlFWb0xNdjdjNnZ5VDctUXJfOW1VZFItSF8zNA?oc=5",
+      "summary": "KID ROCK Announces Christian Music Album 'Halfway To Jesus', Shares First Single 'James 1:17 (Jesus Is King)' BLABBERMOUTH.NET",
+      "outlet": "BLABBERMOUTH.NET",
+      "outlet_url": "https://blabbermouth.net",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T11:39:19Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T00:09:17Z",
+      "image_tried": "2026-10-02T12:09:17Z"
+    },
+    {
+      "id": "39c4950c33407601",
+      "title": "The Coming Tsunami of Church Closings Will Change America and Evangelical Church Leaders Must Take the Brunt of the Blame",
+      "link": "https://blackchristiannews.com/the-coming-tsunami-of-church-closings-will-change-america-and-evangelical-church-leaders-must-take-the-brunt-of-the-blame/?utm_source=rss&utm_medium=rss&utm_campaign=the-coming-tsunami-of-church-closings-will-change-america-and-evangelical-church-leaders-must-take-the-brunt-of-the-blame",
+      "summary": "Daniel Whyte III, President of Gospel Light Society International, says the Evangelical intelligentsia and the Evangelical industrial complex must humble The post The Coming Tsunami of Church Closings Will Change America and Evangelical Church Leaders Must…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T11:34:13Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/media-generation-traditional-evangelical-church-0-354b432a-a690-44b5-af8b-844ba87e87d5.webp",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "06d1dae162056746",
+      "title": "For Sukkot, etrogim purveyors find a lively, lucrative market in Brooklyn",
+      "link": "https://religionnews.com/2026/10/02/for-sukkot-etrogim-purveyors-find-a-lively-lucrative-market-in-brooklyn/",
+      "summary": "(RNS) —The most expensive fruit sold in New York City today is not for consumption. A single etrog, a pithy, lemon-like citrus fruit, can cost thousands of dollars for religious Jews willing to pay for perfection.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T11:05:24Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Sukkot-Fruit3.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "bbc5f48f0aa1ea5c",
       "title": "Disciple Celebrates 20 Years of 'Scars Remain' With a Merch Drop and Fall Tour, Starting Tonight",
       "link": "https://www.jubileecast.com/articles/39894/20261002/disciple-scars-remain-20th-anniversary-merch-fall-tour-2026.htm",
@@ -34,6 +146,25 @@
       "first_seen": "2026-10-02T11:07:05Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32027/disciple.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "79ce5c1f43f30a55",
+      "title": "U.S. bishops urge Catholic voters to put faith before politics",
+      "link": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-to-put-faith-before-politics",
+      "summary": "Video messages ahead of the 2026 midterm elections asked voters to approach civic life with prayer, charity, and a commitment to the common good.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T11:00:00Z",
+      "first_seen": "2026-10-02T12:09:17Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614481/images/shutterstock_1047600649.jpg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10933,139 +11064,6 @@
       "breaking": true,
       "breaking_expires_at": "2026-09-27T22:06:58Z",
       "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "0323c108876496bd",
-      "title": "Jon Watts to Direct New Star Wars Trilogy: Here's What We Know",
-      "link": "https://www.jubileecast.com/articles/39753/20260927/jon-watts-star-wars-trilogy-director-simon-kinberg.htm",
-      "summary": "Jon Watts to Direct New Star Wars Trilogy: Here's What We Know",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T09:46:47Z",
-      "first_seen": "2026-09-27T10:37:38Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31957/star-wars.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "566857c61d333118",
-      "title": "Pope Leo in Lourdes: The Church must heal her ‘wounds, infidelities, and painful errors’",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-in-lourdes-the-church-must-heal-her-wounds-infidelities-and-painful-errors",
-      "summary": "The pontiff spoke about the urgency of repentance and conversion at a Mass on the third day of his visit to France.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T09:44:48Z",
-      "first_seen": "2026-09-27T10:37:38Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790502147/ewtn-news/en/WhatsApp_Image_2026-09-27_at_11.41.27_AM_pgjpvc.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bdfd9f38b7425b30",
-      "title": "Nancy Guthrie Update: Family Friend Asks Public to \"Leave Annie and Tommaso Alone\"",
-      "link": "https://www.jubileecast.com/articles/39752/20260927/nancy-guthrie-update-friend-annie-tommaso-cioni-back-in-town.htm",
-      "summary": "Nancy Guthrie Update: Family Friend Asks Public to \"Leave Annie and Tommaso Alone\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T09:40:44Z",
-      "first_seen": "2026-09-27T09:38:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28542/annie-guthrie-and-tommaso-cioni.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "edb898b6b268f844",
-      "title": "Did They Just Find Noah's Ark? Drilling Begins at Mysterious Turkey Site",
-      "link": "https://www.jubileecast.com/articles/39751/20260927/noahs-ark-turkey-durupinar-drilling-discovery-update.htm",
-      "summary": "Did They Just Find Noah's Ark? Drilling Begins at Mysterious Turkey Site",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T09:22:26Z",
-      "first_seen": "2026-09-27T09:38:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31956/noahs-ark.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "95e997bd09085798",
-      "title": "Kanye West Makes Surprise Appearance at Chris Brown and Usher's LA Concert",
-      "link": "https://www.jubileecast.com/articles/39750/20260927/kanye-west-surprise-appearance-chris-brown-usher-la-concert.htm",
-      "summary": "Kanye West Makes Surprise Appearance at Chris Brown and Usher's LA Concert",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T09:14:47Z",
-      "first_seen": "2026-09-27T09:38:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31583/chris-brown-and-usher.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7dd40236951d61f6",
-      "title": "Pope to French Bishops: Church bears prophetic authority in public square",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-apostolic-journey-france-bishops.html",
-      "summary": "Meeting with the Bishops of France in Lourdes, Pope Leo XIV upholds the Church’s voice in French society and encourages them to support the spiritual life of families. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T09:09:45Z",
-      "first_seen": "2026-09-27T09:38:20Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-i-vescov/1790493303827.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8a4de67e640cb0f9",
-      "title": "KATSEYE Makes SNL Debut for Season 52 Premiere: Here's What They Performed",
-      "link": "https://www.jubileecast.com/articles/39749/20260927/katseye-snl-season-52-premiere-debut-animal-hootie-frutti.htm",
-      "summary": "KATSEYE Makes SNL Debut for Season 52 Premiere: Here's What They Performed",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T09:05:57Z",
-      "first_seen": "2026-09-27T09:38:20Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31955/katseye.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
