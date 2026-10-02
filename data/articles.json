@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-02T23:06:20Z",
+  "generated_at": "2026-10-02T23:37:47Z",
   "story_count": 600,
-  "with_photo": 424,
+  "with_photo": 423,
   "items": [
+    {
+      "id": "1a156eec1bca1242",
+      "title": "Kid Rock Enlists Accused Sexual Assaulter for New Christian Album",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGd6cFNUQ0IxOUJ1WmtrczMyNVFrQkJyR1JqQ1FuNDV4WWlpVXpaYUN6ZFIteWRROFF4anoyNUMzR1EtYW1HSUpIS2hGbHZwa1VxQzlFN1prS2ZzUERMdXYzWHh3S0N0eXVHb1FxVi1LTXZMV1k5ZS05NURZVTNESjRtRF9zWWkxcGRzY0pDS2NqazNXeGUwMVBWaHlvUQ?oc=5",
+      "summary": "Kid Rock Enlists Accused Sexual Assaulter for New Christian Album Rolling Stone Australia",
+      "outlet": "Rolling Stone Australia",
+      "outlet_url": "https://au.rollingstone.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-02T22:59:02Z",
+      "first_seen": "2026-10-02T23:37:47Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T11:37:47Z",
+      "image_tried": "2026-10-02T23:37:47Z"
+    },
     {
       "id": "b8e429913dd075fb",
       "title": "What did St. Josemaría see on the day Opus Dei was founded?",
@@ -11033,25 +11050,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "296bc53e7a3d85e4",
-      "title": "Kenya: Church urges protection for refugee and migrant minors",
-      "link": "https://www.vaticannews.va/en/africa/news/2026-09/kenya-church-urges-protection-for-refugee-and-migrant-minors.html",
-      "summary": "On World Day of Migrants and Refugees, the Catholic Church in Kenya has called for renewed commitment to the dignity, protection and rights of refugees, migrants and displaced children, urging society to see every child not as a statistic but as a person…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T06:25:00Z",
-      "first_seen": "2026-09-28T08:09:33Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/06/22/South%20Sudanese%20refugees%20at%20the%20MassAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
