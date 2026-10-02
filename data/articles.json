@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:09:45Z",
+  "generated_at": "2026-10-02T18:43:32Z",
   "story_count": 600,
   "with_photo": 418,
   "items": [
@@ -6012,6 +6012,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "d7595f4ff3f8053b",
+      "title": "Why did BeBe & CeCe Winans split up?",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53UTdyakw1MnV4c0g2UVl3OURNRHJqd25JU1VrN3JicnBBUmdUb2Zqek5sQVJaaVZrMDVFV3QyYkNud0VBQjRxWXgyMXlUQldCQW41S2xMbTF2bkNDeHluNGI0UWt3bHJtQ2tTTUlqeEZnbzZvZDJ2Sg?oc=5",
+      "summary": "Why did BeBe & CeCe Winans split up? Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-30T05:00:00Z",
+      "first_seen": "2026-10-02T18:43:32Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T18:43:32Z"
+    },
+    {
       "id": "fdbe0a5efdab1495",
       "title": "Transgender Actor Elliot Page Covers New York’s First Men’s Style Issue—What Should Christians Make Of It?",
       "link": "https://www.jubileecast.com/articles/39833/20260930/transgender-actor-elliot-page-covers-new-york-s-first-men-s-style-issue—what-should-christians-make-of-it.htm",
@@ -11023,23 +11040,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "092fb629df8aef3a",
-      "title": "New hymn ‘Peace, Peace, Be Still’ brings hope through the Savior to face life’s storms",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDVTVEpNNFFENjJ2aTJlWjRQS0Qwd1BhWTVNaU1tLVRiYkZJR2lkWGNQQk9xSzBtLTNXSGRwNjhWOXBnLVpDeURIbWNSN1BNUXpIcm16UUVEaU5fYUthajdlcGU1YnZycklHM1JpQThLamdSdXBYdHgzN2ljVzRQTVlicDZiLWg2XzZXNGdwNjVSa0VnWGl5N0h5bks4ODRxSUZDNUZjQ3pNVzcxRzdyWlQ5MmNqYzVjYkdscGJzWTZraTVCSVZv?oc=5",
-      "summary": "New hymn ‘Peace, Peace, Be Still’ brings hope through the Savior to face life’s storms Church News",
-      "outlet": "Church News",
-      "outlet_url": "https://www.thechurchnews.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-27T21:00:00Z",
-      "first_seen": "2026-09-27T21:06:40Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-28T09:06:40Z",
-      "image_tried": "2026-09-30T17:07:59Z"
     }
   ]
 }
