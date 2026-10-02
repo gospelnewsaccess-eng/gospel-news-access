@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T03:08:21Z",
+  "generated_at": "2026-10-02T03:41:47Z",
   "story_count": 600,
-  "with_photo": 428,
+  "with_photo": 427,
   "items": [
     {
       "id": "046d592ade11a5d9",
@@ -154,6 +154,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "84e12b76971b23ee",
+      "title": "Virginia State University Uses New Song to Promote Suicide Prevention",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzZwVmZPdjBaLTZpa21jQWdyeEJjY25ZZzZPYUhxSUhjM2dYbGI1Qk5vUDJRLW1zQmZTTmtVSGk2QmtqWWNXR0JPeVVzZnQwXzZ3SlRHdDl1RmMxYklORld2Zlp4cm1jZHhtcGo3eFNVWEpNbEw4UEpQNlQzWEwxYVVfM3o0ZVlreDlyTmI3dlR2X0pTeDFnM3BjQnQzQ01mY05v?oc=5",
+      "summary": "Virginia State University Uses New Song to Promote Suicide Prevention Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-01T23:36:35Z",
+      "first_seen": "2026-10-02T03:41:47Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T03:41:47Z"
     },
     {
       "id": "c8c81be971766db7",
@@ -11041,25 +11058,6 @@
       "breaking": true,
       "breaking_expires_at": "2026-09-27T01:36:31Z",
       "image_tried": "2026-09-30T17:07:59Z"
-    },
-    {
-      "id": "c024eb96d875522d",
-      "title": "Mark Consuelos Reveals He's Having \"Major\" Toe Surgery: Kelly Ripa Isn't Letting Him Live It Down",
-      "link": "https://www.jubileecast.com/articles/39742/20260926/mark-consuelos-toe-surgery-live-with-kelly-and-mark.htm",
-      "summary": "Mark Consuelos Reveals He's Having \"Major\" Toe Surgery: Kelly Ripa Isn't Letting Him Live It Down",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-26T12:39:22Z",
-      "first_seen": "2026-09-26T12:41:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31183/kelly-ripa-and-mark.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
