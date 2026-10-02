@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T04:07:36Z",
+  "generated_at": "2026-10-02T04:41:30Z",
   "story_count": 600,
-  "with_photo": 428,
+  "with_photo": 427,
   "items": [
     {
       "id": "9fdeee57d6176959",
@@ -21,6 +21,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "2d760de2028e5ddc",
+      "title": "Testimony Trio: Singing News TV NQC Artist Spotlight Featuring Testimony",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPb3FmQ3lsNWVxbVhmMTdqNTVVZ0hlX3Z1YXNON1RBTjh2dTJwOE02Tkpsd2VxbWo4bUZvbVZzaTNYeUtEaHlHTHBBdC15dkxMMmRHYXk5RldYTi1od0wteUd6Y3lYR25pYnRxM0xlOW5SbjE0dTBELUM2cEV6eG1BS1VmSDJUbUlpSGVCY3FtcHN5ZXRMR1lTX2w1Tm95M3FTclppcFVsSm1MQllQblRkWDJxRUJnUzZzUXlRREx5cXE2dGRKS0VsQ01OcWktRE1vUFBYVHF4dW93QjJpazJTUFZn?oc=5",
+      "summary": "Testimony Trio: Singing News TV NQC Artist Spotlight Featuring Testimony The Sylva Herald",
+      "outlet": "The Sylva Herald",
+      "outlet_url": "https://thesylvaherald.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T03:46:25Z",
+      "first_seen": "2026-10-02T04:41:30Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-02T16:41:30Z",
+      "image_tried": "2026-10-02T04:41:30Z"
     },
     {
       "id": "046d592ade11a5d9",
@@ -11037,25 +11054,6 @@
       "first_seen": "2026-09-26T15:06:29Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---santa-messa-place-de-/1790432400917.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4b93250bda478e3f",
-      "title": "Pope addresses ‘surprising’ Catholic growth in secular France",
-      "link": "https://www.ewtnnews.com/vatican/pope-addresses-surprising-catholic-growth-in-secular-france",
-      "summary": "Leo met members of a Church assembly examining a decade-long rise in Catholic baptisms.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-26T13:34:17Z",
-      "first_seen": "2026-09-26T14:06:41Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790413392/ewtn-news/en/WhatsApp_Image_2026-09-26_at_10.58.05_AM_oxu5sf.jpg",
         "via": "media:content"
       },
       "breaking": false,
