@@ -1,8 +1,154 @@
 {
-  "generated_at": "2026-10-02T16:42:32Z",
+  "generated_at": "2026-10-02T17:07:35Z",
   "story_count": 600,
-  "with_photo": 423,
+  "with_photo": 420,
   "items": [
+    {
+      "id": "1d42700a6b473e92",
+      "title": "Shields up! Evasive maneuvers! How the LDS Church responds to perceived criticism",
+      "link": "https://religionnews.com/2026/10/02/shields-up-evasive-maneuvers-how-the-lds-church-responds-to-perceived-criticism/",
+      "summary": "(RNS) — The church’s insatiable need for public approval means we are supposed to emphasize how the church’s internal records show our metrics going up, up, up.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T16:47:42Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/10/LDS-newsroom-large-9.22.26-807x419.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e92b200a5ce70cce",
+      "title": "Ghana’s Religious Superiors seek sustainable funding for Mission at 2026 Plenary",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-10/ghana-s-religious-superiors-seek-sustainable-funding-for-mission.html",
+      "summary": "Major Superiors of religious and consecrated persons in Ghana are expected to explore sustainable paths for their mission at this year's plenary assembly of the Conference of Major Superiors of Religious Ghana (CMSR-Gh), scheduled to begin this weekend. Read…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T16:32:00Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/img-20261002-wa0023aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3b6c681836c766ef",
+      "title": "A Colorado preschool case will be the Supreme Court’s latest to test boundaries of LGBTQ rights and religious freedom",
+      "link": "https://religionnews.com/2026/10/02/a-colorado-preschool-case-will-be-the-supreme-courts-latest-to-test-boundaries-of-lgbtq-rights-and-religious-freedom/",
+      "summary": "(The Conversation) — When the Supreme Court hears arguments in St. Mary Catholic Parish v. Roy, Colorado will defend antidiscrimination laws for the fourth time in 10 years.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T16:30:28Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": {
+        "url": "https://images.theconversation.com/files/762908/original/file-20260929-50-jv9gz6.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "98c132d2c78a430a",
+      "title": "Trump says Iran will be hit ‘very hard’ if it is behind copilot who tried to crash flight to Israel",
+      "link": "https://religionnews.com/2026/10/02/trump-says-iran-will-be-hit-very-hard-if-it-is-behind-copilot-who-tried-to-crash-flight-to-israel/",
+      "summary": "JERUSALEM (AP) — Trump issued the warning as investigators worked to determine why the copilot stabbed the flight's captain, causing the FlyDubai plane to plummet before others on board stopped the attack and landed the airliner in Saudi Arabia.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T16:25:44Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T17:07:35Z"
+    },
+    {
+      "id": "2a3adb948361b054",
+      "title": "White Sox win first postseason series in 2 decades after pope sent a letter of blessing",
+      "link": "https://www.christianpost.com/news/pope-leo-xiv-blessed-white-sox-in-letter-ahead-of-postseason-win.html",
+      "summary": "The Chicago White Sox have advanced in the Major League Baseball playoffs after receiving a letter from Pope Leo XIV blessing them as the team continues to tout and embrace the fact that the leader of the Roman Catholic Church is a major fan.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T16:25:00Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272155_w_550_367_543_320.jpg?v=20261002122539",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "066293b21d37b1bd",
+      "title": "In China’s Taoist martial arts schools, fighting is only part of the lesson",
+      "link": "https://religionnews.com/2026/10/02/in-chinas-taoist-martial-arts-schools-fighting-is-only-part-of-the-lesson/",
+      "summary": "SHIYAN, China (AP) — Physical training is less demanding and corporal punishment has been eliminated. New ways of motivating students have been introduced instead. Among them is the chanting of slogans aimed at building physical and inner strength.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T16:21:17Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T17:07:35Z"
+    },
+    {
+      "id": "743dbd13564a847d",
+      "title": "ZOEGIRL ANNOUNCES OCTOBER 30 RELEASE OF “I STILL BELIEVE” Twenty-Six Years After “I Believe,” The Pop Group Returns With a New Declaration of Enduring Faith",
+      "link": "https://pathmegazine.com/articles/zoegirl-announces-october-30-release-of-i-still-believe-twenty-six-years-after-i-believe-the-pop-group-returns-with-a-new-declaration-of-enduring-faith/",
+      "summary": "Christian pop group ZOEgirl, featuring Alisa Childers, Kristin Schweain and Chrissy Katina, has announced the upcoming release of “I Still Believe,” arriving on streaming platforms October 30, … The post ZOEGIRL ANNOUNCES OCTOBER 30 RELEASE OF “I STILL…",
+      "outlet": "Path MEGAzine",
+      "outlet_url": "",
+      "source_feed": "Path MEGAzine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T16:07:31Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-02T17:07:35Z"
+    },
+    {
+      "id": "e114c55afa3a9999",
+      "title": "One Last Time: BRIDE’s Final U.S. Show Is Almost Here.",
+      "link": "https://www.ccmmagazine.com/news/one-last-time-brides-final-u-s-show-is-almost-here/",
+      "summary": "After more than four decades of loud guitars, uncompromising faith, and a catalog that helped define Christian metal, BRIDE is getting ready to say goodbye to the American stage. The legendary band will play THE FINAL U.S. BRIDE SHOW on Saturday, October 10…",
+      "outlet": "CCM Magazine",
+      "outlet_url": "",
+      "source_feed": "CCM Magazine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-02T16:00:57Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": {
+        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/10/2-Band-Bride-Web-Banner.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "630d6ec89d070aa5",
       "title": "Unborn baby wins wrongful death lawsuit against abortionist",
@@ -38,6 +184,25 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-02T16:07:21Z"
+    },
+    {
+      "id": "db632f53ccd833ea",
+      "title": "Christian teacher, New Mexico school district reach settlement after firing, EEOC complaint",
+      "link": "https://www.christianpost.com/news/christian-teacher-new-mexico-school-district-reach-settlement.html",
+      "summary": "A retired Christian teacher who was allegedly fired due to religious discrimination has reached a settlement with the New Mexico school district that dismissed him.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-02T15:40:00Z",
+      "first_seen": "2026-10-02T17:07:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272136_w_550_369_611_344.jpg?v=20261002114054",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "93782befb6611a22",
@@ -10875,177 +11040,6 @@
       "first_seen": "2026-09-27T22:06:30Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---preghiera-del-santo-r/1790538302692.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8caebc32ce440651",
-      "title": "Pope Leo meets French abuse victims in Lourdes",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-meets-french-abuse-victims-in-lourdes",
-      "summary": "The pontiff “expressed his solidarity with them and, through them, with all those who have suffered and continue to suffer from the wounds of abuse,” the Vatican said.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-27T20:17:07Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790538388/ewtn-news/en/_SIM0827_xyliqf.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "092424bbf040ea1e",
-      "title": "Carrot Top Is Recovering at Home. What Did Fans Tell Him While He Was in the Hospital?",
-      "link": "https://www.jubileecast.com/articles/39772/20260927/carrot-top-is-recovering-at-home-what-did-fans-tell-him-while-he-was-in-the-hospital.htm",
-      "summary": "Carrot Top Is Recovering at Home. What Did Fans Tell Him While He Was in the Hospital?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T20:11:59Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "96221bb805dfccd0",
-      "title": "Could AI Start Shaping the Church’s Worship? Natalie Grant Asks Who Is Guiding Whom",
-      "link": "https://www.jubileecast.com/articles/39771/20260927/could-ai-start-shaping-the-church-s-worship-natalie-grant-asks-who-is-guiding-whom.htm",
-      "summary": "Could AI Start Shaping the Church’s Worship? Natalie Grant Asks Who Is Guiding Whom",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T20:04:11Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27892/natalie-grant.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a72a37ba515842ab",
-      "title": "Why Does Patrick Clancy Still Speak Tenderly About Lindsay Clancy After Their Children’s Deaths?",
-      "link": "https://www.jubileecast.com/articles/39770/20260927/why-does-patrick-clancy-still-speak-tenderly-about-lindsay-clancy-after-their-children-s-deaths.htm",
-      "summary": "Why Does Patrick Clancy Still Speak Tenderly About Lindsay Clancy After Their Children’s Deaths?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T19:59:45Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31882/patick-clancy.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4b81a08203f1a16d",
-      "title": "Why Did “SNL UK” Call Ed Sheeran a Puppet? Amelia Dimoldenberg’s Joke Has a Backstory",
-      "link": "https://www.jubileecast.com/articles/39769/20260927/why-did-snl-uk-call-ed-sheeran-a-puppet-amelia-dimoldenberg-s-joke-has-a-backstory.htm",
-      "summary": "Why Did “SNL UK” Call Ed Sheeran a Puppet? Amelia Dimoldenberg’s Joke Has a Backstory",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T19:50:43Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31840/ed-sheeran.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b23195bf2761d30",
-      "title": "Is Britney Spears Releasing “My Big Secret”—And Has Anyone Heard Her Say So?",
-      "link": "https://www.jubileecast.com/articles/39768/20260927/is-britney-spears-releasing-my-big-secret-—and-has-anyone-heard-her-say-so.htm",
-      "summary": "Is Britney Spears Releasing “My Big Secret”—And Has Anyone Heard Her Say So?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T19:45:18Z",
-      "first_seen": "2026-09-27T20:37:37Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29014/britney-spears.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ca121c93d92cd699",
-      "title": "Are Taylor Swift’s New Songs Getting Worse—or Has Marriage Changed What She Wants to Write About?",
-      "link": "https://www.jubileecast.com/articles/39767/20260927/are-taylor-swift-s-new-songs-getting-worse—or-has-marriage-changed-what-she-wants-to-write-about.htm",
-      "summary": "Are Taylor Swift’s New Songs Getting Worse—or Has Marriage Changed What She Wants to Write About?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T19:39:17Z",
-      "first_seen": "2026-09-27T19:36:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31923/taylor-swift.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f4c2cdf727ec6eb6",
-      "title": "2026 MTV VMAs Tonight: Taylor Swift’s “Patient Zero” Premiere, Dolly Parton Tribute and Madonna’s Return",
-      "link": "https://www.jubileecast.com/articles/39766/20260927/2026-mtv-vmas-tonight-taylor-swift-s-patient-zero-premiere-dolly-parton-tribute-and-madonna-s-return.htm",
-      "summary": "2026 MTV VMAs Tonight: Taylor Swift’s “Patient Zero” Premiere, Dolly Parton Tribute and Madonna’s Return",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T19:30:51Z",
-      "first_seen": "2026-09-27T19:36:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31964/mtv-vma.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f9e141c3dfb9322b",
-      "title": "Sandi Patty Will Sing a Favorite Chorus in Personalized Video Messages for Fans",
-      "link": "https://www.jubileecast.com/articles/39765/20260927/sandi-patty-will-sing-a-favorite-chorus-in-personalized-video-messages-for-fans.htm",
-      "summary": "Sandi Patty Will Sing a Favorite Chorus in Personalized Video Messages for Fans",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-27T19:28:47Z",
-      "first_seen": "2026-09-27T19:36:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31762/sandi-patty.jpeg",
         "via": "media:content"
       },
       "breaking": false,
