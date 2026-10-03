@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-03T00:09:39Z",
+  "generated_at": "2026-10-03T00:45:00Z",
   "story_count": 600,
   "with_photo": 423,
   "items": [
+    {
+      "id": "c69f7c02ff913fb2",
+      "title": "A Catalog of Disappearance: PW Talks with Ashon Thomas Crawley",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUnZUWm9mdUJSaXNuaXZsdFBvX0pGZHI3RHNEV0twdHBWeXdRaklOc3c4X2JxTm8wVEc2X0ZVUy1HeFhmLUFEMVM2R1A4ZWxNUUhadkVtS1NFUS01WWYxUWtPbUxvM0t3MnhCX2o0V05yQ3NpRFc0MnVzQ3hLNWQ1dUc0QWx1dkNZbldDLWllZnBDM2ExTFJBdHltcndhaWxqMVFDQm5iX1hoeE5ZRUtXdng2M29LU3VQREI4VHpibW1McjhiSjBUcXFYQXM2dVdaSVdKWU5JOXljMGxyQUE?oc=5",
+      "summary": "A Catalog of Disappearance: PW Talks with Ashon Thomas Crawley Publishers Weekly",
+      "outlet": "Publishers Weekly",
+      "outlet_url": "https://www.publishersweekly.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-02T23:37:30Z",
+      "first_seen": "2026-10-03T00:45:00Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-03T12:45:00Z",
+      "image_tried": "2026-10-03T00:45:00Z"
+    },
     {
       "id": "1a156eec1bca1242",
       "title": "Kid Rock Enlists Accused Sexual Assaulter for New Christian Album",
@@ -2256,6 +2273,25 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-02T03:41:47Z"
+    },
+    {
+      "id": "4a947e0849c8dcdb",
+      "title": "AI, Faith and Human Connection",
+      "link": "https://www.christianitytoday.com/2026/10/ai-faith-and-human-connection/",
+      "summary": "Pastor and scholar Greg Cootsona discusses his recent article in Christianity Today, It’s Not Good To Be Alone – With Chatbots, and explores if we are now exchanging conversation with connection. Watch the video interview here. (You will be leaving the CT…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-01T23:12:32Z",
+      "first_seen": "2026-10-03T00:45:00Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/not-good-be-alone-chatbots_v2.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "c8c81be971766db7",
@@ -11014,42 +11050,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "57478fcd36a2f5ff",
-      "title": "America once jailed people for blasphemy. Why don't we know?",
-      "link": "https://www.christianpost.com/voices/america-once-jailed-people-for-blasphemy-why-dont-we-know.html",
-      "summary": "In 1811, a New York man went to prison for insulting Jesus Christ, and the state's chief justice declared that Americans \"profess the general doctrines of Christianity.\" That wasn't a fringe ruling. It was the law, and it stayed that way in various states for…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T07:25:45Z",
-      "first_seen": "2026-09-28T08:09:33Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272079_w_550_309.jpg?v=20260928032553",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9e9fa681348703fa",
-      "title": "Sammy King: Gospel Music Is Ministry, Not Just a Career",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaC1lV3dvQUhwT052Y3I4OFZtLUw2RFRfNEhYY1NGRV9MR05RZ0tQb3pZclduMnc4bm1mV3Ria2pMQ3RkVE9LRVBubXBvbmJpQUtFcV96M2k4czQ5MXJ0cVM4TUhNcFBvLUZXVUEwS1l1WFdTZmdEcHJ3aWpnanBoNXFYQnZGTTdVVWswWkp3?oc=5",
-      "summary": "Sammy King: Gospel Music Is Ministry, Not Just a Career The Guardian Nigeria News",
-      "outlet": "The Guardian Nigeria News",
-      "outlet_url": "https://guardian.ng",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-28T07:00:00Z",
-      "first_seen": "2026-09-30T08:41:58Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
     }
   ]
 }
