@@ -1,8 +1,101 @@
 {
-  "generated_at": "2026-10-03T16:18:16Z",
+  "generated_at": "2026-10-03T20:09:59Z",
   "story_count": 600,
-  "with_photo": 437,
+  "with_photo": 435,
   "items": [
+    {
+      "id": "29b5e66d6444cf77",
+      "title": "Mississippi Mass Choir member Leah Angela Curry Williams dies at 61",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkxpT3F3cGJGY0tPdUNtYndvaFVWZFpzNG1WMUJiVHZlWGlvMUE1NkdqRnI2MW12am5lc3hUa0NOUjNPUktjRGF4ZlRSSXlkR3RFYnVYekE2UkpEbGFnY2tKRnRscnlzRjhxNWJCWDRYclpTa09nN09OTFd2UnZsOFc1aGtsLUVqR1kyYXdtajdjVlVFTWxUb29XdFh2a0JjTUlZYjdiXzQ?oc=5",
+      "summary": "Mississippi Mass Choir member Leah Angela Curry Williams dies at 61 WAPT",
+      "outlet": "WAPT",
+      "outlet_url": "https://www.wapt.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-03T18:51:00Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-04T08:09:59Z",
+      "image_tried": "2026-10-03T20:09:59Z"
+    },
+    {
+      "id": "2ad8b9b1a30e106e",
+      "title": "CNN Reported 100,000 Churches Could Close in a Decade. One Problem: The Data Doesn’t Back That Up",
+      "link": "https://relevantmagazine.com/faith/church/cnn-reports-100000-churches-could-close-in-a-decade-the-data-doesnt-back-that-up/",
+      "summary": "A CNN report this week on church closings carried a stark number: 100,000 churches gone within a decade. The story ties to Christianity at a Crossroads, a four-part PBS series from Journey Films, and filmmaker Martin Doblmeier is quoted saying, “The tsunami…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T18:22:21Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/churchesclose.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "89a733b26ac9dbfc",
+      "title": "Latin Patriarchate mourns two Christian women killed in Gaza City strike",
+      "link": "https://www.ewtnnews.com/world/middle-east/latin-patriarchate-mourns-two-christian-women-killed-in-gaza-city-strike",
+      "summary": "The two women had reportedly stayed at Holy Family Catholic Church before moving into the apartment where the strike was carried out.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T18:11:35Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791050033/ewtn-news/en/mkas-ghlaf-20-1791035602.5827.png_hzcv1l.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "32abf3b3226d5010",
+      "title": "Pope Leo celebrates Mass for members of the Vatican Gendarmerie Corps",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-celebrates-mass-members-vatican-gendarmerie-corps.html",
+      "summary": "During the Mass celebrated Saturday afternoon, October 3, at the Lourdes Grotto in the Vatican Gardens for the Vatican Gendarmerie Corps that operates within Vatican City State, the Pope urged them to be trustworthy, discreet, and loyal. He emphasized that…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T17:54:00Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2025/10/05/19/1759684629911.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8701db19cda4ccb2",
+      "title": "Century-old cross, Nativity can remain in Los Angeles despite atheist's objections: 9th Circuit",
+      "link": "https://www.christianpost.com/news/century-old-cross-can-remain-in-la-historic-district-9th-circuit.html",
+      "summary": "Los Angeles is free to keep displaying a cross and Nativity scene in one of its historic districts after a federal court declined to reverse a lower court decision rejecting a constitutional challenge to the displays in what a religious liberty law firm is…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T17:44:00Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272160_w_550_367_552_280.jpg?v=20261003134442",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5eaa3c908a298097",
       "title": "Pope Leo XIV appoints Cardinal Mauro Gambetti to lead the Archdiocese of Chieti-Vasto",
@@ -380,6 +473,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "b5f2c96bb45becf3",
+      "title": "Letter: Megachurch would destroy North Albany neighborhood - Corvallis Gazette-Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNU8xSUh4N0FoWDdRZ2h0R0pfUWRkTnNlNVROdmhKTml2cjMtVENWandGWEhWdnFUS1Q4aVhKQzA5M294VEFMWFBxQktPMTZRR0kxd3dlbFJoTTZvXzAwYVJDSFV6WE03WFdmaDZmZTU0ZFE5S29HM002bGNrQmhMc1NlMmlSOGJPNmNub0JxdnloakVw?oc=5",
+      "summary": "Letter: Megachurch would destroy North Albany neighborhood Corvallis Gazette-Times",
+      "outlet": "Corvallis Gazette-Times",
+      "outlet_url": "https://gazettetimes.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-03T11:16:00Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "e0778e80f9746b8a",
@@ -6294,7 +6404,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T19:09:34Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "f8d163f5171a4f11",
@@ -6311,7 +6421,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T07:38:38Z",
-      "image_tried": "2026-09-30T19:38:38Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "8d777090c150ea8d",
@@ -6516,7 +6626,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T18:09:09Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "67b7140a8b5aaf5f",
@@ -6552,7 +6662,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T19:38:38Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "38657c5ce6653829",
@@ -6569,7 +6679,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:07:59Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "6d11d90634a035a0",
@@ -6622,7 +6732,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T17:07:59Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "0d654e10dd59e161",
@@ -6658,7 +6768,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T05:07:59Z",
-      "image_tried": "2026-09-30T17:07:59Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "af6bcf50ed3a8b31",
@@ -6675,7 +6785,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T05:39:37Z",
-      "image_tried": "2026-09-30T17:39:37Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "bf8b45a68d49b40f",
@@ -6728,7 +6838,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T19:38:38Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "45b4ff4d1e238d28",
@@ -6802,7 +6912,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "2525ff61a534d2c0",
@@ -6819,7 +6929,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T04:28:26Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "0bb1804fffa29657",
@@ -6836,7 +6946,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T03:42:51Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "2f11ce97e3efa734",
@@ -6872,7 +6982,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T19:38:38Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "a140c5c6159299e4",
@@ -6889,7 +6999,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "2a07019c498b212d",
@@ -6945,7 +7055,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T03:42:51Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "4d04493940d072ea",
@@ -6962,7 +7072,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "365b8563aceabfda",
@@ -7055,7 +7165,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T02:48:16Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "e9ae61d41248d13a",
@@ -7091,7 +7201,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T02:11:12Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "1127a070a01be256",
@@ -7108,7 +7218,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T02:48:16Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "0688dfebd5620ed6",
@@ -7201,7 +7311,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "a625b9aa91a8fc4d",
@@ -7294,7 +7404,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "657c975abeb52113",
@@ -7425,7 +7535,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T20:08:02Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "378ceb260fa91df3",
@@ -7613,7 +7723,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T19:41:18Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "43f48130f6dc68a3",
@@ -7630,7 +7740,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T19:41:18Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "0c94354dd7a73bab",
@@ -7742,7 +7852,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T17:40:25Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "11d20e80a2d1e8c3",
@@ -7907,7 +8017,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T16:40:53Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "c2bf5e3805d03ca8",
@@ -8152,7 +8262,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "8b4b065452c0db32",
@@ -8188,7 +8298,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T12:10:22Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "41f03dd726173f4a",
@@ -8224,7 +8334,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "0dd9008c48ef643f",
@@ -8336,7 +8446,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T09:39:00Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "855bb81535449b0c",
@@ -8353,7 +8463,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T09:39:00Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "e4edc3ea8a975a38",
@@ -8389,7 +8499,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T09:39:00Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "93ce5be5ac668619",
@@ -8463,7 +8573,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "5aab4feb168dbc93",
@@ -8499,7 +8609,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T08:40:23Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "a70cb49acc78914f",
@@ -8609,7 +8719,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T08:40:23Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "7fc8fa04a6ae5bda",
@@ -8683,7 +8793,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "020c98b4cbd64f08",
@@ -8700,7 +8810,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "67cf1e63e4fa043a",
@@ -8774,7 +8884,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-30T07:39:32Z",
-      "image_tried": "2026-09-30T16:28:26Z"
+      "image_tried": "2026-10-03T20:09:59Z"
     },
     {
       "id": "b723592b658d492d",
@@ -10312,6 +10422,22 @@
       "image_tried": "2026-09-30T16:40:44Z"
     },
     {
+      "id": "62f152a4bdc56692",
+      "title": "Kirk Franklin Faces Backlash Over New Song With GloRilla",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3VZRjA1S2dyWGN4YlZPUS1Ma1dBamZZZXk5WVhnYWt2aVhWOFRjQWNxUkxBM1RicXRxRndoRTkyUk9zMmZVdHFJN0UwUS05dFM2WWViY09HREU5dTBQZEkxd0IxcFNMTmJEeGZVZGJ5VVpPY01KTDZ5bkNKcEdLcFZpclJ6eTBOTU5wWEhR?oc=5",
+      "summary": "Kirk Franklin Faces Backlash Over New Song With GloRilla 105.3 RnB",
+      "outlet": "105.3 RnB",
+      "outlet_url": "https://1053rnb.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-09-28T22:38:43Z",
+      "first_seen": "2026-10-03T20:09:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "2eee7d2c0f887518",
       "title": "Church leaders continue to urge Catholics to aid immigrants as government defends deportations",
       "link": "https://www.ewtnnews.com/world/us/church-leaders-continue-to-urge-catholics-to-aid-immigrants-as-government-defends-deportations",
@@ -10947,137 +11073,6 @@
       "breaking": true,
       "breaking_expires_at": "2026-09-29T06:43:04Z",
       "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "347d24472b8f828c",
-      "title": "JRR Tolkien to join CS Lewis in Westminster Abbey’s Poets’ Corner",
-      "link": "https://www.christianpost.com/news/jrr-tolkien-to-join-cs-lewis-in-westminster-abbeys-poets-corner.html",
-      "summary": "J.R.R. Tolkien, the devout Catholic author whose Christian beliefs helped shape The Hobbit and The Lord of the Rings, will be honored with a memorial in Westminster Abbey’s Poets’ Corner alongside his close friend and fellow Christian writer C.S. Lewis.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T17:53:00Z",
-      "first_seen": "2026-09-28T19:08:03Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272090_w_550_392.jpg?v=20260928135409",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "95c06f7953f67394",
-      "title": "'Vive le Pape!' - With Pope Leo in Metz",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-france-metz-report-28-september-2026.html",
-      "summary": "Vatican News correspondent Deborah Castellano Lubov brings us into the lively atmosphere outside St. Stephen’s Cathedral, where crowds gathered in celebration and prayer for Pope Leo's Mass in the heart of the city. She also reflects on the fruits of the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T17:40:00Z",
-      "first_seen": "2026-09-28T18:09:00Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/28/2026-09-28-lubov-cattedrale.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7792d6bfefb272d5",
-      "title": "Tommee Profitt Announces 2027 Easter Event, Sells Out in Presale",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3FEbk15UGxlLXVTZFFvakJmeEFxUnROT2dreVVCQkJMVm9FLXhSRG1SSnVkUjQ3ZzRxSkhadTdfaWZ4MG9tYnQ0YkJlWms0NDEwWnNxTFk2ZW9NWDBVbW5TWWVyczBhMk5ZZGVrRnBwMXpScVpFMG1xU09fV0habzk3RzB0ekZRcFVRZXZsSQ?oc=5",
-      "summary": "Tommee Profitt Announces 2027 Easter Event, Sells Out in Presale Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-28T17:30:23Z",
-      "first_seen": "2026-09-28T19:39:52Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "ec4425cbd0e33cff",
-      "title": "Pope Leo XIV bids farewell to France",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-xiv-departure-metz-apostolic-journey-france.html",
-      "summary": "Pope Leo XIV departs from France's northeastern city of Metz, bringing his fifth Apostolic Journey abroad to an end. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T17:30:00Z",
-      "first_seen": "2026-09-28T18:09:00Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/28/18/1790614558179.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2274a9e876081d79",
-      "title": "Evangelicals Urge Trump Administration to Release Frozen Global Health Funds",
-      "link": "https://www.christianitytoday.com/2026/09/evangelical-leaders-trump-usaid-russell-vought-omb-funding/",
-      "summary": "More than 120 Christian leaders, musicians, and authors, including both conservative and liberal-leaning evangelicals, have signed a letter urging President Donald Trump’s administration to spend $1.35 billion designated for global health initiatives before…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T17:15:29Z",
-      "first_seen": "2026-09-28T18:09:00Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/usaid-frozen-health-funds.jpeg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ea18f434704bb4f0",
-      "title": "Priest Goes Viral for ‘God Is Trans’ Speech: A Community Note Citing Luke Completely Destroyed Her Argument",
-      "link": "https://mycharisma.com/news/priest-goes-viral-for-god-is-trans-speech-a-community-note-citing-luke-completely-destroyed-her-argument/",
-      "summary": "A self-proclaimed transgender and nonbinary Episcopal priestess in New York City went viral for proclaiming that Jesus Christ is transgender. Flourish Klink delivered a homily in March at the Cathedral of St. John the Divine in New York City, and the footage…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T17:15:19Z",
-      "first_seen": "2026-09-28T18:09:00Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/02/Screenshot-2026-02-13-121734.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1e762a7447d3338f",
-      "title": "Josh Hawley says FDA turned 'every mailbox into a Planned Parenthood'",
-      "link": "https://www.christianpost.com/news/josh-hawley-calls-for-national-ban-on-abortion-pill.html",
-      "summary": "U.S. Sen. Josh Hawley, R-Mo., has called for a national ban on the abortion drug mifepristone, continuing to put pressure on the Trump administration to finish its long-anticipated review of mifepristone.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T17:04:00Z",
-      "first_seen": "2026-09-28T18:09:00Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272088_w_550_304.jpg?v=20260928130426",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
