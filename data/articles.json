@@ -1,8 +1,217 @@
 {
-  "generated_at": "2026-10-03T10:53:28Z",
+  "generated_at": "2026-10-03T12:10:07Z",
   "story_count": 600,
-  "with_photo": 429,
+  "with_photo": 432,
   "items": [
+    {
+      "id": "a4e1c88226adc5c3",
+      "title": "Former DHS Intelligence Chief Warns AI Could Shrink Attack Planning From Years to Hours",
+      "link": "https://mycharisma.com/news/former-dhs-intelligence-chief-warns-ai-could-shrink-attack-planning-from-years-to-hours/",
+      "summary": "WASHINGTON, D.C. – As artificial intelligence is already transforming how Americans work and live, questions remain about where this technology takes us next and what happens if it falls into the wrong hands. Former DHS head of intelligence John Cohen, now…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T12:00:00Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cb3ae71ed0e0bb68",
+      "title": "New film depicts the transformative power of Eucharistic adoration",
+      "link": "https://www.ewtnnews.com/world/us/new-film-depicts-the-transformative-power-of-eucharistic-adoration",
+      "summary": "“Adore Him: He Is Here” will be in theaters Oct. 4–8.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T12:00:00Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745615973/images/size680/shutterstock_1453604594.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6b1dceeeccbf1475",
+      "title": "Could Drake Be Coachella’s Biggest Surprise In 2027?",
+      "link": "https://www.jubileecast.com/articles/39928/20261003/could-drake-be-coachella-s-biggest-surprise-in-2027.htm",
+      "summary": "Could Drake Be Coachella’s Biggest Surprise In 2027?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T11:46:00Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31822/drake-fomo.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d1529d5d2a50360a",
+      "title": "What Persuaded The Oak Ridge Boys To Record “How Great Thou Art” Again?",
+      "link": "https://www.jubileecast.com/articles/39927/20261003/what-persuaded-the-oak-ridge-boys-to-record-how-great-thou-art-again.htm",
+      "summary": "What Persuaded The Oak Ridge Boys To Record “How Great Thou Art” Again?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T11:36:04Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/25201/the-oak-ridge-boys.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5cb0d61ca7a3459f",
+      "title": "Lindsay Lohan Films “Return To You” With Henry Golding—What Is Behind Her “Mean Girls” Reunion?",
+      "link": "https://www.jubileecast.com/articles/39926/20261003/lindsay-lohan-films-return-to-you-with-henry-golding—what-is-behind-her-mean-girls-reunion.htm",
+      "summary": "Lindsay Lohan Films “Return To You” With Henry Golding—What Is Behind Her “Mean Girls” Reunion?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T11:27:04Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30956/lindsay-lohan.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fc136b054b7f361b",
+      "title": "Pope Leo XIV receives the President of Montenegro",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-receives-president-of-montenegro.html",
+      "summary": "Pope Leo XIV meets the President of Montenegro, Mr. Jakov Milatović, on Saturday morning in the Vatican's Apostolic Palace. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T11:23:00Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/03/2026-10-03-s-e--il-signor-jakov-milatovic--presidente-del-monten/1791020704877.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "489f2c20b16a5fdc",
+      "title": "BRIDE Announces Final U.S. Concert After Four Decades—Why Is The Band Stepping Away?",
+      "link": "https://www.jubileecast.com/articles/39925/20261003/bride-announces-final-u-s-concert-after-four-decades—why-is-the-band-stepping-away.htm",
+      "summary": "BRIDE Announces Final U.S. Concert After Four Decades—Why Is The Band Stepping Away?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T11:19:30Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32042/bride.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e0778e80f9746b8a",
+      "title": "Marvin Winans Denies Receiving $545,736 Listed In Nonprofit Tax Filing—Why The Discrepancy?",
+      "link": "https://www.jubileecast.com/articles/39924/20261003/marvin-winans-denies-receiving-545-736-listed-in-nonprofit-tax-filing—why-the-discrepancy.htm",
+      "summary": "Marvin Winans Denies Receiving $545,736 Listed In Nonprofit Tax Filing—Why The Discrepancy?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T11:15:14Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27929/marvin-sapp.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "eca8343052603086",
+      "title": "Matt Rees’ “Death Like Yours” Album Review: What Happens When Worship Meets Church Hurt?",
+      "link": "https://www.jubileecast.com/articles/39923/20261003/matt-rees-death-like-yours-album-review-what-happens-when-worship-meets-church-hurt.htm",
+      "summary": "Matt Rees’ “Death Like Yours”: What Happens When Worship Meets Church Hurt?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T11:07:17Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32041/matt-rees.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bd4c1f6d11190c72",
+      "title": "Germany Threatens Russia, Russia Threatens To Use Nuclear Weapons, And Trump Threatens Iran With Annihilation",
+      "link": "https://mycharisma.com/news/germany-threatens-russia-russia-threatens-to-use-nuclear-weapons-and-trump-threatens-iran-with-annihilation/",
+      "summary": "A nuclear war is not going to start because everyone agrees that they want one to happen. Rather, a nuclear war will start because someone decides that the next escalation will still be manageable. At this moment leaders all over the world are engaged in a…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T11:00:00Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2a3aede93b307121",
+      "title": "Catholic bishop in Angola decries child abduction, exploitation risks in border region",
+      "link": "https://www.ewtnnews.com/world/africa/catholic-bishop-in-angola-decries-child-abduction-exploitation-risks-in-border-region",
+      "summary": "Bishop Vicente Carlos Kiaziku has decried the reported abduction of children in Zaire Province, warning they could become vulnerable to exploitation, including trafficking.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T11:00:00Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790796018/ewtn-news/en/untitled-design-56_1790770183.jpg_yd6dtt.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d99aa79e1328d30d",
       "title": "Why Was Dallas Jenkins In Tears At ‘The Chosen’ Wrap Party?",
@@ -17,6 +226,25 @@
       "first_seen": "2026-10-03T10:53:28Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27886/dallas-jenkins.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bf33afb5694970ed",
+      "title": "Pope to Pontifical Teutonic College: Preserve unity with the Pope and the faith",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-community-of-pontifical-teutonic-college-of-santa-maria.html",
+      "summary": "Addressing the community of the Pontifical Teutonic College of Santa Maria in Campo Santo on its 150th anniversary, Pope Leo XIV recalls the College’s long history and calls upon its community to preserve their closeness to the Successor of Peter and to bear…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-03T10:56:48Z",
+      "first_seen": "2026-10-03T12:10:07Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/03/2026-10-03-comunita-del-pontificio-collegio-teutonico-di-santa-m/1791025515205.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -10837,228 +11065,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9e5e3494716475c3",
-      "title": "Life Surge, wealth-building business featuring prominent Christian speakers, sparks concern",
-      "link": "https://www.christianpost.com/news/life-surge-sparks-concern-among-some-christians.html",
-      "summary": "Life Surge, a touring faith-based wealth-building seminar featuring prominent Christian speakers, has been accused of pressuring attendees to invest tens of thousands of dollars in real estate and stock courses.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T15:15:32Z",
-      "first_seen": "2026-09-28T16:09:06Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272071_w_550_309.jpg?v=20260928111557",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e5af728486c0a1a",
-      "title": "CRITICALLY ACCLAIMED SINGER/SONGWRITER SEPH SCHLUETER UNVEILS NEW SINGLE “ALL IN” & ANNOUNCES SOPHOMORE ALBUM",
-      "link": "https://pathmegazine.com/articles/critically-acclaimed-singer-songwriter-seph-schlueter-unveils-new-single-all-in-announces-sophomore-album/",
-      "summary": "Following the explosive success of his RIAA Platinum-certified hit “Counting My Blessings,” singer-songwriter Seph Schlueter is stepping boldly into a new chapter with the announcement of his … The post CRITICALLY ACCLAIMED SINGER/SONGWRITER SEPH SCHLUETER…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-28T15:14:50Z",
-      "first_seen": "2026-09-28T16:09:06Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "3612e72a16503d74",
-      "title": "Cardinal Zuppi begins three-day mission to Moscow",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/cardinal-zuppi-papal-envoy-humanitarian-mission-russia-ukraine.html",
-      "summary": "The Holy See’s special envoy for humanitarian issues is in Russia for three days of institutional meetings focused on prisoners of war and children transferred from their places of origin. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T14:58:00Z",
-      "first_seen": "2026-09-28T16:09:06Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/21/18/1790006736000.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "67c3fdf2cdda34bc",
-      "title": "Pope Leo: Let Europe’s wounds be ‘openings through which light shines’",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-let-europe-s-wounds-be-openings-through-which-light-shines",
-      "summary": "A Mass in Metz was the final event of the pontiff’s Sept. 25–28 trip to France.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T14:57:12Z",
-      "first_seen": "2026-09-28T15:10:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790606011/ewtn-news/en/WhatsApp_Image_2026-09-28_at_4.26.43_PM_l2mtfm.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5057960fc554e65d",
-      "title": "Boyz II Men & Lady-A Combine to Create New Song for Christian Series “The Chosen” – New Lyric Video out Now",
-      "link": "https://pathmegazine.com/articles/boyz-ii-men-lady-a-combine-to-create-new-song-for-christian-series-the-chosen-new-lyric-video-out-now/",
-      "summary": "The global hit series The Chosen is giving fans a new way to experience the story with Songs Inspired by The Chosen: Seasons 1–5, a new album … The post Boyz II Men & Lady-A Combine to Create New Song for Christian Series “The Chosen” – New Lyric Video out…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-28T14:48:56Z",
-      "first_seen": "2026-09-28T15:10:04Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "c87776e0cc986ecb",
-      "title": "Kirk Franklin Reveals New Album ‘I Am What I Am’ & Song Featuring GloRilla",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVkFoemVmU2xFVE12cVhEZUd3TFlDZDZyWTg0WmhPYzF0cUxQeXlVVVMtVFhWWmxvZGJRWTIydXVwcDdRWi1POWpxbUhLSXhTRndzRkRjd2hBZHlfejNlNVRZYjV0dmZvbWdnS2YteUdxVk9vSWZHcDdsMkFRaktHRDhJYWJJU3ZBcTVlUm91UDVUNkR3?oc=5",
-      "summary": "Kirk Franklin Reveals New Album ‘I Am What I Am’ & Song Featuring GloRilla Rapzilla",
-      "outlet": "Rapzilla",
-      "outlet_url": "https://rapzilla.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-28T14:45:25Z",
-      "first_seen": "2026-09-28T15:10:04Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/28104404/Kirk-Franklin-x-GloRilla-e1790606686280.jpeg",
-        "via": "og:image"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-09-29T03:10:04Z"
-    },
-    {
-      "id": "b52c0af7116b970b",
-      "title": "Noah’s Ark Researcher Reports Death Threats, Targeted Burglary",
-      "link": "https://mycharisma.com/news/noahs-ark-researcher-reports-death-threats-targeted-burglary/",
-      "summary": "Andrew Jones, founder of Noah’s Ark Scans, reportedly received repeated death threats before burglars ransacked his apartment and stole equipment believed to contain research from the Durupınar formation in eastern Turkey. Lauren Witzke, the organization’s…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T14:41:19Z",
-      "first_seen": "2026-09-28T15:10:04Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d410eb18261784e3",
-      "title": "Pope: The future of Europe is not found in uniformity but in the harmony of differences",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-in-metz-future-of-europe-not-found-in-uniformity-but-i.html",
-      "summary": "At the Cathedral of St. Stephen in Metz, Pope Leo celebrates Mass to close out his time in the city on the last day of his Apostolic Journey to France. In his homily, he stresses that choosing forgiveness and mercy over revenge and violence is not a path of…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T14:33:00Z",
-      "first_seen": "2026-09-28T15:10:04Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/28/2026-09-28-viaggio-apostolico-in-francia---santa-messa-cattedral/1790606121340.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "33b0c58622c4dac3",
-      "title": "Druski is Teaming Up With Mike Epps to Turn His Viral 'Mega Church Pastors Love Money' Sketch Into Netflix & Youtube Series 'Collect and Praise'",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZE9EZG44RWVSaG1SWDV2RUtTZ0ljNlRFYW9USUpnN3JDSy1kZ2xUaDFKbElYMTVjUXJocWVLZG9EaXdfeVFnSi1kcTR5Zy1WU1FqcGlURDB6azlQUUVva0RTcjA3a3hETDVCUUFFWU5ET1dPbEFfSnlrc0RxTFRvYVM4OW1RMG9KMnVTdmZhbElURXIwVnVuMW1zeERYZzJHSlE?oc=5",
-      "summary": "Druski is Teaming Up With Mike Epps to Turn His Viral 'Mega Church Pastors Love Money' Sketch Into Netflix & Youtube Series 'Collect and Praise' Blex Media",
-      "outlet": "Blex Media",
-      "outlet_url": "https://blexmedia.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-28T14:25:58Z",
-      "first_seen": "2026-09-28T16:40:01Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "e7c1e248539a16b3",
-      "title": "Venue selected for beatification of Georgia Martyrs",
-      "link": "https://www.ewtnnews.com/world/us/venue-beatification-georgia-martyrs-savannah-convention-center",
-      "summary": "The beatification Mass will be said at the Savannah Convention Center at 11 a.m. on Oct. 31. No ticket is needed, but organizers said registration is required.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T14:00:00Z",
-      "first_seen": "2026-09-28T15:10:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1771529505/georgia.martyrs_d4zqwi.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "47790a7c5d49af05",
-      "title": "Gifted Hands Joins Dax’s The Anger Management Tour",
-      "link": "https://rapzilla.com/2026-09-gifted-hands-joins-daxs-the-anger-management-tour/",
-      "summary": "Virginia Beach-based artist and songwriter Gifted Hands is set to join Dax on select dates of his 2026 The Anger Management Tour. Dax’s North American headline tour launched in September and is scheduled to continue through December 13. It has stops in cities…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-28T13:42:46Z",
-      "first_seen": "2026-09-28T14:09:51Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/28094135/3-Picture-Template-Article-59.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3fd6e9e961dbef24",
-      "title": "The grotto and the Gospel: Why the Church preserves Lourdes without adding to revelation",
-      "link": "https://www.ewtnnews.com/vatican/the-grotto-and-the-gospel-why-the-church-preserves-lourdes-without-adding-to-revelation",
-      "summary": "Standing as a pilgrim at the Grotto of Massabielle, Pope Leo XIV offered a visible reminder of why the Church upholds apparitions such as those at Lourdes.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T13:20:00Z",
-      "first_seen": "2026-09-28T14:09:51Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790539712/ewtn-news/en/WhatsApp_Image_2026-09-27_at_4.07.45_PM_aozbpk.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
