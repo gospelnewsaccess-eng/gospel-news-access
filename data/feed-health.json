@@ -146,12 +146,11 @@
     },
     "Google News: Ricky Dillard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-10-03T02:51:33Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "no <item> or <entry> elements found"
+      "last_checked": "2026-10-03T03:16:27Z",
+      "last_item_count": 80,
+      "last_status": "ok"
     },
     "Google News: JJ Hairston": {
       "consecutive_zero": 0,
@@ -384,12 +383,12 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-10-03T02:05:59Z",
+      "last_checked": "2026-10-03T03:16:31Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-10-03T02:49:23Z",
+  "updated_at": "2026-10-03T03:16:26Z",
   "flagged_feeds": []
 }
