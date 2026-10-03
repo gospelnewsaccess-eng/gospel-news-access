@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-03T06:14:23Z",
+  "generated_at": "2026-10-03T06:54:54Z",
   "story_count": 600,
-  "with_photo": 426,
+  "with_photo": 427,
   "items": [
+    {
+      "id": "5543185c8b5b432b",
+      "title": "Inscription on Ancient Tomb Chest Sheds New Light on the “Black Man” of Cyrene Who Helped Carry the Cross of Jesus Christ",
+      "link": "https://blackchristiannews.com/inscription-on-ancient-tomb-chest-sheds-new-light-on-the-black-man-of-cyrene-who-helped-carry-the-cross-of-jesus-christ/?utm_source=rss&utm_medium=rss&utm_campaign=inscription-on-ancient-tomb-chest-sheds-new-light-on-the-black-man-of-cyrene-who-helped-carry-the-cross-of-jesus-christ",
+      "summary": "The post Inscription on Ancient Tomb Chest Sheds New Light on the “Black Man” of Cyrene Who Helped Carry the Cross of Jesus Christ appeared first on Black Christian News Network One (BCNN1) .",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T06:54:59Z",
+      "first_seen": "2026-10-03T06:54:54Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/ossuary-alexander-simon.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2e01cc7f9e00b7c5",
       "title": "Tom Cruise Faces A Box Office Nightmare As ‘Verity’ Threatens To Bury ‘Digger’",
@@ -11038,23 +11057,6 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "9b930bc47aeb25b6",
-      "title": "Historic Springfield African American church will live on with Drury - Springfield News-Leader",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV3RPUEVONXh6blBmSDhXUFJtRHp4a0R5X0RBX1VjZXllM2RpWU9vaWtxZDg3aFpzVjR1VHVQc1ZBLUF4bEp4WURYTW9ZbGJFb1l3c1A1V0JPZlY4M3FZZVJyeXNYT3NXUy1UelpGbEJNbk9fUXR6Q3RwMTlhc0g3MFhLQlcyYUpKZ0lrRmdXSElSejQxYnVEQ2tWRkRhMFhEYVRRamp0VTNVTEQ0Rnc3eEV2d1VkVTVYWWlVTVlxaEJoRUVIUHpBTVl6bmJhVWs3VF9RWnlhZ0lfa28?oc=5",
-      "summary": "Historic Springfield African American church will live on with Drury Springfield News-Leader",
-      "outlet": "Springfield News-Leader",
-      "outlet_url": "https://www.news-leader.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-28T09:08:00Z",
-      "first_seen": "2026-09-28T09:41:02Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-28T21:41:02Z",
       "image_tried": "2026-09-30T16:40:44Z"
     }
   ]
