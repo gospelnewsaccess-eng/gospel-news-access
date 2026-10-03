@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-03T04:10:54Z",
+  "generated_at": "2026-10-03T04:41:01Z",
   "story_count": 600,
   "with_photo": 422,
   "items": [
+    {
+      "id": "2d66ef81b2b9a16b",
+      "title": "Daniel Whyte III Says: Good on Secretary of War Pete Hegseth for Announcing the Office of Religious Affairs With Teeth",
+      "link": "https://blackchristiannews.com/daniel-whyte-iii-says-good-on-secretary-of-war-pete-hegseth-for-announcing-the-office-of-religious-affairs-with-teeth/?utm_source=rss&utm_medium=rss&utm_campaign=daniel-whyte-iii-says-good-on-secretary-of-war-pete-hegseth-for-announcing-the-office-of-religious-affairs-with-teeth",
+      "summary": "Daniel Whyte III, President of Gospel Light Society International, says all Bible-believing pastors and churches, be they black or white, The post Daniel Whyte III Says: Good on Secretary of War Pete Hegseth for Announcing the Office of Religious Affairs With…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-03T03:41:11Z",
+      "first_seen": "2026-10-03T04:41:01Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/hegseth-quantico.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "e5f0bdf1cad814f7",
       "title": "DON’T GIVE YOUR HEART TO THE WORLD — Give It to Jesus | Deep Emotional Christian Gospel Song.",
@@ -11029,25 +11048,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "62781653d7dc0838",
-      "title": "Todd Meadows’ Final Call With His Children Airs on \"Deadliest Catch:\" What Did He Promise Them?",
-      "link": "https://www.jubileecast.com/articles/39786/20260928/todd-meadows-final-call-with-his-children-airs-on-deadliest-catch-what-did-he-promise-them.htm",
-      "summary": "Todd Meadows’ Final Call With His Children Airs on \"Deadliest Catch:\" What Did He Promise Them?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-28T08:07:53Z",
-      "first_seen": "2026-09-28T08:09:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31970/todd-meadows.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
