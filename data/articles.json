@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-04T23:05:49Z",
+  "generated_at": "2026-10-04T23:39:26Z",
   "story_count": 600,
-  "with_photo": 441,
+  "with_photo": 440,
   "items": [
+    {
+      "id": "698ee20fd32a5dfb",
+      "title": "Kid Rock Faces Questions Over “The Gambler” Similarities On New Christian Song",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNkx3V2dlRVlFU0t1OXNqX2hwQ0NOTElCSHc3MDFtSDBPMnR1U3dtS05ORS1RUndLa29TZ2lFUUV0TGZsQ0RZeWZwU2pCU2djVl9OZjByLXZnUzI1eDlQTEtzb00?oc=5",
+      "summary": "Kid Rock Faces Questions Over “The Gambler” Similarities On New Christian Song noise11.com",
+      "outlet": "noise11.com",
+      "outlet_url": "https://www.noise11.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-04T23:26:05Z",
+      "first_seen": "2026-10-04T23:39:26Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-05T11:39:26Z",
+      "image_tried": "2026-10-04T23:39:26Z"
+    },
     {
       "id": "95a040ffc968b00d",
       "title": "Kim Walker-Smith Takes Worship Into A Surprising New World With Children’s Album ‘Known And Loved’",
@@ -4774,7 +4791,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-02T11:38:35Z",
-      "image_tried": "2026-10-01T23:38:35Z"
+      "image_tried": "2026-10-04T23:39:26Z"
     },
     {
       "id": "00918f45207b0025",
@@ -4791,7 +4808,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-02T11:38:35Z",
-      "image_tried": "2026-10-01T23:38:35Z"
+      "image_tried": "2026-10-04T23:39:26Z"
     },
     {
       "id": "4f48386e9dbf3cce",
@@ -6090,7 +6107,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-01T23:38:35Z"
+      "image_tried": "2026-10-04T23:39:26Z"
     },
     {
       "id": "3e03d5ef2de07fc8",
@@ -11063,25 +11080,6 @@
       "first_seen": "2026-09-29T12:09:47Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2025/06/15/10/1749975122797.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "33afe48ef8716a51",
-      "title": "French priest: 'Many are deeply searching; we must serve this faith'",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/french-priest-metz-interview-church-faith-pope.html",
-      "summary": "While a secular society and declining numbers in the Church in France are a reality, a visit to the Parish of Notre Dame of the Assumption in Metz at Sunday evening Mass, full of young people and all pews taken, is an example of young people's longing for…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T11:11:00Z",
-      "first_seen": "2026-09-29T13:10:22Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/27/pere-emmanuel-ecker-della-parrocchia-notre-dame-de-l-assumption-de-metz.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
