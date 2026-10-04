@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-04T22:07:48Z",
+  "generated_at": "2026-10-04T22:39:22Z",
   "story_count": 600,
-  "with_photo": 442,
+  "with_photo": 441,
   "items": [
+    {
+      "id": "cfbd331031765e83",
+      "title": "Black Baptist Pastors Take on Waymo: ‘God Created Us to Be Interdependent’",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SNEdXSWVfeXEwUlZBYzJmQjJDaVpuTFlzYTRRTVZVNTZPYzVnYWpwVDRmbzdZWlh3RElyeTNxUURTLTZ5OThnenNYZGIyMU5f?oc=5",
+      "summary": "Black Baptist Pastors Take on Waymo: ‘God Created Us to Be Interdependent’ eurweb.com",
+      "outlet": "eurweb.com",
+      "outlet_url": "https://eurweb.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-04T22:11:54Z",
+      "first_seen": "2026-10-04T22:39:22Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-05T10:39:22Z",
+      "image_tried": "2026-10-04T22:39:22Z"
+    },
     {
       "id": "59f92b360d6807f6",
       "title": "Christa Pike Still Unconscious After Failed Execution—Why Is Tennessee Calling Back Its Previous Investigator?",
@@ -11065,25 +11082,6 @@
       "first_seen": "2026-09-29T11:07:29Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31889/presley-gerber.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c6f4e60389160da5",
-      "title": "Darlene Zschech Urges Christians to Expect a “Suddenly”—But What About Those Still Waiting?",
-      "link": "https://www.jubileecast.com/articles/39812/20260929/darlene-zschech-urges-christians-to-expect-a-suddenly-—but-what-about-those-still-waiting.htm",
-      "summary": "Darlene Zschech Urges Christians to Expect a “Suddenly”—But What About Those Still Waiting?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T10:46:52Z",
-      "first_seen": "2026-09-29T11:07:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31453/darlene-zschech.jpg",
         "via": "media:content"
       },
       "breaking": false,
