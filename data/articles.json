@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T21:07:52Z",
+  "generated_at": "2026-10-04T21:46:49Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 442,
   "items": [
     {
       "id": "3eb695d3a94c99e6",
@@ -7012,6 +7012,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "3db994026cf006bd",
+      "title": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeTBkRW5uLVFxV2pqeXBLQjQzR0ZPZGVscXl0Uk9UWllXUVlINnJib05FdDc2Y2t4b21kU2xTb0dzQkh4OHRyUEFieUpLOFBrTlp1RzJveUxieHBQNHVvOXpRMUpyUGlpNy1BRGpKOXVNc2syWW56NVVCUXMxdFM2Q2syVTB3ckN6dk5JeWs1bmcya3ZINmgwd2IyRlJPVVFkVmQ4NjBTay1RRU4xaVpzX3VNUzdRcmpnTGtsM0xiZTdSN0pxZFJVNWlTM3ZaczU2OThSX1RvQXhXVUlBbnVCdklxeWpVY3hhN3NFVFl4clI3LWd3eHVpVGZyc1JYa0k5bmxSb3JrVFFxN29m?oc=5",
+      "summary": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead Daytona Times",
+      "outlet": "Daytona Times",
+      "outlet_url": "https://www.daytonatimes.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-01T02:12:00Z",
+      "first_seen": "2026-10-04T21:46:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-04T21:46:49Z"
+    },
+    {
       "id": "e190f5d584d77f07",
       "title": "What Is Morgan Wallen's \"Last Thing You Need\" About? The GTA VI Song, Explained",
       "link": "https://www.jubileecast.com/articles/39848/20260930/morgan-wallen-last-thing-you-need-meaning-gta-vi-song.htm",
@@ -11067,25 +11084,6 @@
       "first_seen": "2026-09-29T11:07:29Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/28/r-nathalie-becquart-a-metz.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f869f4ff29784ea",
-      "title": "Eric Idle Has “No Sympathy” For Nick Reiner As Fight Over Family Money Intensifies",
-      "link": "https://www.jubileecast.com/articles/39807/20260929/eric-idle-has-no-sympathy-for-nick-reiner-as-fight-over-family-money-intensifies.htm",
-      "summary": "Eric Idle Has “No Sympathy” For Nick Reiner As Fight Over Family Money Intensifies",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T10:13:53Z",
-      "first_seen": "2026-09-29T11:07:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31980/eric-idle.jpg",
         "via": "media:content"
       },
       "breaking": false,
