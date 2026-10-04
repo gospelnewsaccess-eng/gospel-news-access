@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-10-04T02:42:48Z",
+  "generated_at": "2026-10-04T04:35:08Z",
   "story_count": 600,
   "with_photo": 436,
   "items": [
+    {
+      "id": "b29329385a5b2166",
+      "title": "I was an atheist. Quantum physics set me on the path to Jesus",
+      "link": "https://www.christianpost.com/voices/i-was-an-atheist-quantum-physics-set-me-on-the-path-to-jesus.html",
+      "summary": "As a young atheist, he saw the universe as one big machine. Then he studied quantum physics, read the New Testament for the first time, and noticed something startling: Jesus talked like a quantum physicist.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-04T04:07:15Z",
+      "first_seen": "2026-10-04T04:35:08Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272142_w_550_381_543_314.jpg?v=20261003235332",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c2b7274bb3557b52",
+      "title": "Trump needs Reagan's human rights playbook for China",
+      "link": "https://www.christianpost.com/voices/trump-needs-reagans-human-rights-playbook-for-china.html",
+      "summary": "When President Trump hosted Xi Jinping in Washington, the two leaders discussed trade, AI, Taiwan, and Iran. Missing from the agenda was China's egregious human rights record. Reagan would not have left it off.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-04T04:00:47Z",
+      "first_seen": "2026-10-04T04:35:08Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272143_w_550_367_495_201.jpg?v=20261003235232",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0bbe105ccdb5e512",
       "title": "Is Olivia Dean Being Sued Over \"I've Seen It\"? What Bill Withers' Publisher Is Claiming",
@@ -410,6 +448,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "12af7bdcfe5345a9",
+      "title": "Third annual Gospel Hymn Sing planned in Utica | Content Exchange",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMVlRdFhRanM3WEVaNUl1MkZmb2dBUWl1eXF5RUdVQkZ2aldRZE50eHliUnVtYXdseU1STDdkc2VxY29tVGJXMXc4Q093QTJZX2FBMHZtR3cxODRRMVItSDdXNVM0RERZN0IxUXJsbmwwQjJ1dDNPX1NjX0ZRa213d2l0ODFjSlE5aXNmUUx4aUZjOU44ZDVhOWZpLXhCazRkaTlCSmphUkNnWHJKNzJBMFBEbVJFVzRudFJpZ3Q5aVVtVjQ?oc=5",
+      "summary": "Third annual Gospel Hymn Sing planned in Utica | Content Exchange Rome Sentinel",
+      "outlet": "Rome Sentinel",
+      "outlet_url": "https://www.romesentinel.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-03T13:00:00Z",
+      "first_seen": "2026-10-04T04:35:08Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-04T04:35:08Z"
     },
     {
       "id": "aa7cb8d3de135ff7",
@@ -10728,7 +10783,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-29T09:38:19Z",
-      "image_tried": "2026-09-30T16:40:44Z"
+      "image_tried": "2026-10-04T04:35:08Z"
     },
     {
       "id": "51f1a1af70db6787",
@@ -10745,7 +10800,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
+      "image_tried": "2026-10-04T04:35:08Z"
     },
     {
       "id": "deb51c60c0c45051",
@@ -10819,7 +10874,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
+      "image_tried": "2026-10-04T04:35:08Z"
     },
     {
       "id": "5b5a53dc0be15990",
@@ -10836,7 +10891,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-09-30T16:40:44Z"
+      "image_tried": "2026-10-04T04:35:08Z"
     },
     {
       "id": "6c860996a683d8a8",
@@ -10948,7 +11003,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-29T08:40:21Z",
-      "image_tried": "2026-09-30T16:40:44Z"
+      "image_tried": "2026-10-04T04:35:08Z"
     },
     {
       "id": "342f7b24957c8039",
@@ -11020,62 +11075,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-09-29T07:39:52Z",
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "3d154b311a35cad9",
-      "title": "Veteran Jamaican deejay Lieutenant Stitchie dies at 60",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclMxUzRXQ0VoVTNGb2ppMmVMQlNyRmZRQkVET3Y4X0FwczNlUHg0dC1taVhPekV6Y3JGYVBkMU9tZHRrd2x0enVNSDMxbWItX0RWUGFBM1dTSnliX3k1SFFQYVBtMEZCQVJIcUtfaTlHM2tIb3FxUjY2bFU2eWMyT0dMR1ZuRHJFWURNMkhZTXY2QmJFeVhXT0xreHBwS0xMS1E?oc=5",
-      "summary": "Veteran Jamaican deejay Lieutenant Stitchie dies at 60 Caribbean National Weekly",
-      "outlet": "Caribbean National Weekly",
-      "outlet_url": "https://www.caribbeannationalweekly.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-28T19:15:13Z",
-      "first_seen": "2026-09-28T20:40:21Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-29T08:40:21Z",
-      "image_tried": "2026-09-30T16:40:44Z"
-    },
-    {
-      "id": "4351b58e63c32b37",
-      "title": "Church officials urge ‘care for workers’ amid AI race",
-      "link": "https://www.ewtnnews.com/world/us/church-officials-urge-care-for-workers-amid-ai-race",
-      "summary": "“Catholic social teaching says that companies, that investors and management, owe care to the workers,” said Cardinal Michael Czerny, head of the Vatican’s Commission on AI.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T19:15:09Z",
-      "first_seen": "2026-09-28T20:06:22Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790620737/ewtn-news/en/Image_27_egzvwg.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2fe9fd393d2ba131",
-      "title": "The enigmatic Bayeux Tapestry — a bothsidesism for the ages",
-      "link": "https://religionnews.com/2026/09/28/what-the-enigmatic-bayeux-tapestry-has-to-teach-us/",
-      "summary": "(RNS) — The monks' efforts were not employed, as today, to rationalize bad behavior on one's own side, but as bona fide criticism of both.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-28T19:08:51Z",
-      "first_seen": "2026-09-28T20:06:22Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Bayeux-Tapestry1.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
+      "image_tried": "2026-10-04T04:35:08Z"
     }
   ]
 }
