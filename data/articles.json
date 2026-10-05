@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:09:18Z",
+  "generated_at": "2026-10-05T01:41:17Z",
   "story_count": 600,
   "with_photo": 439,
   "items": [
@@ -7355,6 +7355,23 @@
       "image_tried": "2026-10-04T02:42:48Z"
     },
     {
+      "id": "17a72ed777da1db7",
+      "title": "Woman sues suburban megachurch over alleged sexual abuse decades ago - WGN-TV",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeHdESHZTWWliWHJ5NmRRNUZxb25VcUtKcmtsa3lOM2xSTGJhbC1SZzBwYWNCQnJ3Q1c0eUxrLXVZd2d0elFEZDBvMXhjeTR1VnB0MHRzN3loeTFRX2R3MTkxVnd2UDgxWmI0TWxPcml6bTIxbTc4c2hUWmJuUFRMWnQtVm1raC1xZjFhTDkwRjdLaVZXY0E4RDJIbWNRSVlKOENIQg?oc=5",
+      "summary": "Woman sues suburban megachurch over alleged sexual abuse decades ago WGN-TV",
+      "outlet": "WGN-TV",
+      "outlet_url": "https://wgntv.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-09-30T23:15:00Z",
+      "first_seen": "2026-10-05T01:41:17Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T01:41:17Z"
+    },
+    {
       "id": "fc33378d3c1a78c6",
       "title": "Museum of Christian & Gospel Music Prepares to Celebrate First Anniversary in October",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUFxTEt4ejNQUWhTMGdHM3NXdjF6NHNJUEpIeHdNYnhaRWNMRFcyZmFVaE5HekFLTDVBaWVSNHhuUUNlZXN6SE82SWRZUlZmQmdIdEdFSzhHd3RGX29XMkpCSGdUNkNaeTJRZGpTeDBIR1RBUEViNkU4N2dJcGItbjJGX0pxX09ybGlWbG0yamV0UmxDYUZlZDFBaE5uMHZyWXBBZENLb2V2QURIckptdVNGNldkWTlRYU1WOUpnSFdGSEQ5M0tPdDBn?oc=5",
@@ -11064,23 +11081,6 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "d477da9298673674",
-      "title": "Sexual abuse trial set to begin for son of New Albany megachurch leaders",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWWl0dGpYT3AtbnU5UXNISUtsMlNfMmNSMWFrSGhkZE14QVVMR29pbmFLNENTWDRyUVUzaDg2QVl0UE1kTnRvdmdiOE5BaGVEVy1namZrU1hzbkhRQ0duX0luY2gydF8zaEdIdjdseFNUWkVlbldiamZ3aWJ1VTg2dlpac1VqVTZVZ1JpVEhseFpGazdVZmRuNkx2MmQ5NUZNTTNSUzJvOGRsRnB2ZTlnWlY2WTJ3MFl4TEROVFVHeHFFdEM0WElFeUlJelFqNEhTLVVKV0I5N1d1WFRJTG5rd0RXVVpLQQ?oc=5",
-      "summary": "Sexual abuse trial set to begin for son of New Albany megachurch leaders 10tv.com",
-      "outlet": "10tv.com",
-      "outlet_url": "https://www.10tv.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-29T12:00:00Z",
-      "first_seen": "2026-09-29T12:09:47Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T00:09:47Z",
       "image_tried": "2026-10-04T02:42:48Z"
     }
   ]
