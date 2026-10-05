@@ -1,8 +1,46 @@
 {
-  "generated_at": "2026-10-05T06:51:44Z",
+  "generated_at": "2026-10-05T07:13:09Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 444,
   "items": [
+    {
+      "id": "5bc08985d0b969dc",
+      "title": "Chris Harrison Returns With Faith-Focused Dating Show ‘The Vow’—Why Are ‘The Bachelor’ Producers Objecting?",
+      "link": "https://www.jubileecast.com/articles/39968/20261005/chris-harrison-returns-with-faith-focused-dating-show-the-vow-—why-are-the-bachelor-producers-objecting.htm",
+      "summary": "Chris Harrison Returns With Faith-Focused Dating Show ‘The Vow’—Why Are ‘The Bachelor’ Producers Objecting?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T07:08:19Z",
+      "first_seen": "2026-10-05T07:13:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31881/chris-harrison.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "95b343dc51be2c35",
+      "title": "Queen Latifah Steals A Four-Chair Standout On ‘The Voice’—What Did Adam Levine Say Next?",
+      "link": "https://www.jubileecast.com/articles/39967/20261005/queen-latifah-steals-a-four-chair-standout-on-the-voice-—what-did-adam-levine-say-next.htm",
+      "summary": "Queen Latifah Steals A Four-Chair Standout On ‘The Voice’—What Did Adam Levine Say Next?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T07:02:42Z",
+      "first_seen": "2026-10-05T07:13:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30025/queen-latifah-riley-green-kelly-clarkson-and-adam-levine.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "225008a7b0164fcf",
       "title": "Mississippi Mass Choir honors Leah Angela Curry Williams at final farewell",
@@ -11054,42 +11092,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "813111f0b7d36982",
-      "title": "Mission Increase expands nonprofit training to Canada through S.A. Foundation partnership",
-      "link": "https://religionnews.com/2026/09/29/mission-increase-expands-nonprofit-training-to-canada-through-s-a-foundation-partnership/",
-      "summary": "Mission Increase",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T14:28:54Z",
-      "first_seen": "2026-09-29T15:10:25Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "e78326ce0c2823b1",
-      "title": "15 men sentenced for deadly Sri Lanka Easter Sunday bombings",
-      "link": "https://www.christianpost.com/news/15-men-sentenced-for-deadly-sri-lanka-easter-sunday-bombings.html",
-      "summary": "Christians in Sri Lanka have cautiously welcomed the sentencing of 15 men to more than two centuries each behind bars for their roles in the 2019 Easter Sunday suicide bombings, which killed at least 267 people at churches and hotels.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T14:20:00Z",
-      "first_seen": "2026-09-29T15:10:25Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272104_w_550_375_483_182.jpg?v=20260929102040",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
