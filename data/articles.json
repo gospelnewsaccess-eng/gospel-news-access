@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-05T13:12:10Z",
+  "generated_at": "2026-10-05T13:44:26Z",
   "story_count": 600,
   "with_photo": 444,
   "items": [
+    {
+      "id": "99343883476db6ef",
+      "title": "Pope Leo prays for Gaza victims: ‘How long, O Lord?’",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-message-gaza-parish-priest-romanelli.html",
+      "summary": "Pope Leo XIV sends a message of condolence to the parish priest of Holy Family Catholic Church in Gaza City after an Israeli strike kills five people, including two Christian women. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T13:32:00Z",
+      "first_seen": "2026-10-05T13:44:26Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/12/05/2025-12-05-predica-di-avvento/1764924716456.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b5528b786667c7a1",
+      "title": "Amy Grant Adds Jon Foreman and Live Ryman Tracks to The Me That Remains",
+      "link": "https://www.ccmmagazine.com/news/amy-grant-adds-jon-foreman-and-live-ryman-tracks-to-the-me-that-remains/",
+      "summary": "Amy Grant’s The Me That Remains (Deluxe Edition) is out now via Thirty Tigers, expanding Grant’s first album of original songs in 13 years with seven additional tracks, including new collaborations, alternate mixes and four live performances recorded during…",
+      "outlet": "CCM Magazine",
+      "outlet_url": "",
+      "source_feed": "CCM Magazine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T13:00:21Z",
+      "first_seen": "2026-10-05T13:44:26Z",
+      "image": {
+        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Amy-Deluxe-Web-Banner.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8d9096127b1050f7",
+      "title": "Vatican to release “The Private Diary of Pope Francis”, a book by Cardinal Fernández",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/pope-francis-personal-diary-a-book-by-cardinal-fernandez.html",
+      "summary": "The Vatican Publishing House will release The Private Diary of Pope Francis, a book by Cardinal Víctor Manuel Fernández, on 24 November in five languages across 94 countries. It will offer insight into the late Pope’s inner life through notes he kept between…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T12:35:00Z",
+      "first_seen": "2026-10-05T13:44:26Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2024/01/13/2024-01-13-incontro-con-il-clero-romano/1705137473394.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "39ab67c84d66d0a6",
       "title": "Ex-Muslim Leads 100,000 to Jesus: ‘There Is Hunger in the Muslim World to Hear About Christ’",
@@ -21,6 +78,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "c23ed4b60709581c",
+      "title": "Roger Marshall slams megachurch challenger for living in a 'bubble'",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUzFSc2tJbEN3YXd2NGExU3VYaG9Qd0pZRGxOQm1jaGV0Q2s3TWJZd0VFdWlRQmpZYUZYZ1FBWGdnSmxoWTh5UWVQTGZwa3JpejF2NHJWcHdjMzhSck0zS1lWWnhMRGRjd3hfLVB0TE1BcHhMN19aanViNmVueVhoNC1oSVVic01DODM2cWpyVmJxeUNIaEdlRDF0RmNfbUlxM1Z1X0hIV3lEVEFYUXVhU0pJN0lrc0hub0l6MnViUGxqVEhJUmIwWWtqVndzcVRv?oc=5",
+      "summary": "Roger Marshall slams megachurch challenger for living in a 'bubble' Washington Examiner",
+      "outlet": "Washington Examiner",
+      "outlet_url": "https://www.washingtonexaminer.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-05T12:10:00Z",
+      "first_seen": "2026-10-05T13:44:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T13:44:26Z"
     },
     {
       "id": "535b58645fad8ba2",
@@ -4401,7 +4475,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T01:41:59Z",
-      "image_tried": "2026-10-02T13:41:59Z"
+      "image_tried": "2026-10-05T13:44:26Z"
     },
     {
       "id": "a46bb677a22ecb46",
@@ -4456,7 +4530,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T01:41:59Z",
-      "image_tried": "2026-10-02T13:41:59Z"
+      "image_tried": "2026-10-05T13:44:26Z"
     },
     {
       "id": "3184e28bb179418d",
@@ -4900,7 +4974,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-02T13:41:59Z"
+      "image_tried": "2026-10-05T13:44:26Z"
     },
     {
       "id": "a35a9ea39faf462e",
@@ -11016,80 +11090,6 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272108_w_550_411_414_186.jpg?v=20260929143807",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8afc52d9534c0ec6",
-      "title": "Final Lineup Announced for the 57th Annual GMA Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0hSZVVUb25iZFFrdE9KcUc0WC1WZ3BSNXViQjgxeEZXcHRxa2pQNGgyemQ3aWJGY1lia3NBWEJfcmpIaEpBelUxX0JUUC1QYl9nZjVfTkYyWnk1NlBrQUFJYUZ0bTA4cHphWFZkVDRQTkdVVmpiRG1CT3VqTllSV2VTUWw1UllHbEtZVldyZ1I?oc=5",
-      "summary": "Final Lineup Announced for the 57th Annual GMA Dove Awards Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-29T18:33:45Z",
-      "first_seen": "2026-09-29T19:39:32Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T07:39:32Z",
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "e6952d930da5291c",
-      "title": "From Historic US Revival Site to Jerusalem, Christians Rally for Communion 250: ‘Mighty Move of God’",
-      "link": "https://mycharisma.com/news/from-historic-us-revival-site-to-jerusalem-christians-rally-for-communion-250-mighty-move-of-god/",
-      "summary": "Christians around the world gathered in 156 locations to take communion at college campuses, state capitols, public parks, and open fields where they worshipped, prayed, and evangelized for up to 50 hours. Fifty people gave their lives to Jesus Christ in…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T18:18:13Z",
-      "first_seen": "2026-09-29T19:08:16Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-152935.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cd1beaf7a07e1b2f",
-      "title": "Federal court rules in favor of Oklahoma Jewish charter school amid public funding lawsuit",
-      "link": "https://www.ewtnnews.com/world/us/federal-court-rules-in-favor-of-oklahoma-jewish-charter-school-amid-public-funding-lawsuit",
-      "summary": "A Catholic charter school had previously brought a similar lawsuit against the state but had failed to secure a ruling from the Supreme Court.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T18:05:00Z",
-      "first_seen": "2026-09-29T19:08:16Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790687803/ewtn-news/en/JfqId8ty-2_qrfap7.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "94fa993e85f3ca9e",
-      "title": "Repent for Eating Beef? Senate Candidate’s Climate Sermon Resurfaces Amid Campaign Scrutiny",
-      "link": "https://mycharisma.com/news/repent-for-eating-beef-senate-candidates-climate-sermon-resurfaces-amid-campaign-scrutiny/",
-      "summary": "Democratic U.S. Senate nominee Adam Hamilton once called his congregation to “repentance” for contributing to climate change, urging worshippers to reconsider their driving, fossil-fuel consumption and even the food they eat. Hamilton, the longtime United…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T18:02:33Z",
-      "first_seen": "2026-09-29T18:09:52Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
