@@ -1,8 +1,177 @@
 {
-  "generated_at": "2026-10-05T18:10:20Z",
+  "generated_at": "2026-10-05T18:46:45Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 444,
   "items": [
+    {
+      "id": "1c186bf486d33e06",
+      "title": "Founding Pastor Brian Tome Steps Down After Suspension—What Will Change At Crossroads?",
+      "link": "https://www.jubileecast.com/articles/39985/20261005/founding-pastor-brian-tome-steps-down-after-suspension—what-will-change-at-crossroads.htm",
+      "summary": "Brian Tome Steps Down After Suspension—What Will Change At Crossroads?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T18:47:51Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28959/brian-tome.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8d6be4acf548141f",
+      "title": "Ancient Tomb Discovery May Point to Simon of Cyrene, the Man Who Carried Jesus’ Cross",
+      "link": "https://mycharisma.com/news/ancient-tomb-discovery-may-point-to-simon-of-cyrene-the-man-who-carried-jesus-cross/",
+      "summary": "What if the name of the man who helped carry Jesus’ cross has been sitting on an ancient burial chest for nearly 2,000 years? An intriguing archaeological find from Jerusalem is once again drawing attention because of its striking parallels to the Gospel of…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T18:36:08Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "be71465450161fc0",
+      "title": "Erica Campbell Quickly Settles Litigation Against SRG Over Alleged Non-Payments",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0kzdHUzN0pucVFRNElrQ1JiQ2FYd3F3YWJoTVlIRWNnOUY3dU5LWlV3cDNaV2Q4ZERVNUppRE9wZXlWcHU5VDRWbGFGSmxtYmhSb1FIenpxc3BJaTFFREtrTkhuTGYwZTlnbWMwN18wMGkyaWd3OGpZNURTbmkxdUV1NjhHQQ?oc=5",
+      "summary": "Erica Campbell Quickly Settles Litigation Against SRG Over Alleged Non-Payments Digital Music News",
+      "outlet": "Digital Music News",
+      "outlet_url": "https://www.digitalmusicnews.com",
+      "source_feed": "Google News: Erica Campbell",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-05T18:34:39Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T06:46:45Z",
+      "image_tried": "2026-10-05T18:46:45Z"
+    },
+    {
+      "id": "e4ede4243b9869e4",
+      "title": "Christy Nockels Opens Up About Her Hardest Year Of Marriage—And What Came Next",
+      "link": "https://www.jubileecast.com/articles/39984/20261005/christy-nockels-opens-up-about-her-hardest-year-of-marriage—and-what-came-next.htm",
+      "summary": "Christy Nockels Opens Up About Her Hardest Year Of Marriage—And What Came Next",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T18:34:26Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27106/christy-nockels.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d87cf892eba74169",
+      "title": "Bryce Crawford tells Liberty U students not to trade in their 'inheritance' for sin, passivity",
+      "link": "https://www.christianpost.com/news/bryce-crawford-tells-liberty-u-students-not-to-fall-into-sin.html",
+      "summary": "Christian influencer Bryce Crawford urged students at Liberty University not to “take the bait” by trading their “inheritance” from God for the short-term satisfaction of sin and warned about the perils of \"passivity\" when it comes to sharing Jesus Christ…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T18:32:00Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272184_w_550_399_530_93.jpg?v=20261005143251",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2b14264133d22047",
+      "title": "Carrot Top’s First Public Appearance After Hospitalization Raises A New Question About Faith",
+      "link": "https://www.jubileecast.com/articles/39983/20261005/carrot-top-s-first-public-appearance-after-hospitalization-raises-a-new-question-about-faith.htm",
+      "summary": "Carrot Top’s First Public Appearance After Hospitalization Raises A New Question About Faith",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T18:31:39Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4c5e39bbeea7613b",
+      "title": "Whitney Capps Admitted “I’m Not Fine” In One Of Her Last Released Interviews—Then Shared What Kept Her Going",
+      "link": "https://www.jubileecast.com/articles/39982/20261005/whitney-capps-admitted-i-m-not-fine-in-one-of-her-last-released-interviews—then-shared-what-kept-her-going.htm",
+      "summary": "Whitney Capps Admitted “I’m Not Fine” In One Of Her Last Released Interviews—Then Shared What Kept Her Going",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T18:14:03Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32073/whitney-capps.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "86069d099d95fd8e",
+      "title": "Pope Leo urges Vatican police to guard their hearts as they protect others",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-urges-vatican-police-to-guard-their-hearts-as-they-protect-others",
+      "summary": "At a Mass honoring their patron, St. Michael the Archangel, the pontiff called on gendarmes to exercise authority with humility and compassion.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T18:07:30Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791222220/ewtn-news/en/_SIM2343_go5l7r.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b35766882c7eb357",
+      "title": "Caleb Flynn Faces Sentencing: Will The Former Worship Leader Ever Walk Free?",
+      "link": "https://www.jubileecast.com/articles/39981/20261005/caleb-flynn-faces-sentencing-will-the-former-worship-leader-ever-walk-free.htm",
+      "summary": "Caleb Flynn Faces Sentencing: Will The Former Worship Leader Ever Walk Free?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T18:05:07Z",
+      "first_seen": "2026-10-05T18:46:45Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32032/caleb-flynn.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a10f288f653f5878",
       "title": "Matt Maher’s “Gonna Be Alright” Tops Five Christian Radio Charts",
@@ -10680,7 +10849,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-02T18:43:32Z"
+      "image_tried": "2026-10-05T18:46:45Z"
     },
     {
       "id": "e19439b79821d406",
@@ -10924,173 +11093,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "b5f15a2f6c19cc04",
-      "title": "Micah Tyler’s “Perfectly” Hits No. 1 at Christian Radio, Marking His Eighth Chart-Topper",
-      "link": "https://www.jubileecast.com/articles/39830/20260929/micah-tyler-perfectly-no-1-christian-radio.htm",
-      "summary": "Micah Tyler’s “Perfectly” Hits No. 1 at Christian Radio, Marking His Eighth Chart-Topper",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T00:49:53Z",
-      "first_seen": "2026-09-30T01:08:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31989/micah-tyler.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ca10d0e9e09592b7",
-      "title": "The Voice Season 30: Standout Auditions, New Coaches and When the Battles Begin",
-      "link": "https://www.jubileecast.com/articles/39829/20260929/the-voice-season-30-standout-auditions-coaches-schedule.htm",
-      "summary": "The Voice Season 30: Standout Auditions, New Coaches and When the Battles Begin",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T00:42:43Z",
-      "first_seen": "2026-09-30T01:08:43Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31894/the-voice-coaches.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f8c77b74d442e89",
-      "title": "Tallulah Willis Shares Rare New Photo of Dad Bruce Willis Weeks After Her Wedding",
-      "link": "https://www.jubileecast.com/articles/39828/20260929/tallulah-willis-rare-new-photo-bruce-willis-after-wedding.htm",
-      "summary": "Tallulah Willis Shares Rare New Photo of Dad Bruce Willis Weeks After Her Wedding",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T00:12:41Z",
-      "first_seen": "2026-09-30T00:10:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31988/tallulah-willis-and-bruce-willis.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e4c3dff74bddaa64",
-      "title": "Will Lindsay Clancy Be Retried? What the Judge and DA Said at the First Hearing After the Mistrial",
-      "link": "https://www.jubileecast.com/articles/39827/20260929/lindsay-clancy-lawyer-no-evidence-hearing-no-retrial-date-set.htm",
-      "summary": "Will Lindsay Clancy Be Retried? What the Judge and DA Said at the First Hearing After the Mistrial",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T23:50:14Z",
-      "first_seen": "2026-09-30T00:10:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28816/lindsay-clancy.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d4b3f85771de178e",
-      "title": "Will Reeve Banked Sperm the Day After His Cancer Diagnosis: Now He and Amanda Are Planning IVF",
-      "link": "https://www.jubileecast.com/articles/39826/20260929/will-reeve-amanda-ivf-sperm-banking-after-cancer.htm",
-      "summary": "Will Reeve Banked Sperm the Day After His Cancer Diagnosis: Now He and Amanda Are Planning IVF",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T23:40:35Z",
-      "first_seen": "2026-09-30T00:10:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31983/will-reeve-and-amanda.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "27d88f19c31c3932",
-      "title": "The Edge Says Dolly Parton's Final Note on U2's \"Torn\" Sounds Like an Irish Funeral Lament",
-      "link": "https://www.jubileecast.com/articles/39825/20260929/the-edge-dolly-parton-torn-keening-final-vocal-u2.htm",
-      "summary": "The Edge Says Dolly Parton's Final Note on U2's \"Torn\" Sounds Like an Irish Funeral Lament",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T23:35:36Z",
-      "first_seen": "2026-09-30T00:10:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31987/u2-band.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6664455030280158",
-      "title": "Dolly, a force for good",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LOFNTak5CTFZRYWRNcUxBMXZkZFZoUWQ1Q3JSZ1puUmRFYzdCWEpfQ2RpVXdGaEtFQnlOQWhDeDZkQkl0cnF5Ym0zSjBqQUxPSVpQLXlIRkZoRDh4RnRnVE9ua3h0UDYtalFKVFpQb2dNdw?oc=5",
-      "summary": "Dolly, a force for good johnsoncitypress.com",
-      "outlet": "johnsoncitypress.com",
-      "outlet_url": "https://johnsoncitypress.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-29T23:30:00Z",
-      "first_seen": "2026-09-30T12:48:14Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "8b4b065452c0db32",
-      "title": "Dolly Parton's Museum Opens in Nashville With a Video Welcome She Recorded Before Her Death",
-      "link": "https://www.jubileecast.com/articles/39824/20260929/dolly-parton-life-of-many-colors-museum-opens-nashville.htm",
-      "summary": "Dolly Parton's Museum Opens in Nashville With a Video Welcome She Recorded Before Her Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T23:26:21Z",
-      "first_seen": "2026-09-30T00:10:22Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31986/dolly-parton.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8b4980579eb71020",
-      "title": "I Choose Jesus — Above Everything | Powerful Christian Worship Song for Faith & Surrender.",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9haFhIU25oWXRpOGJLWmwyUEp1Um5MR1hKUEpIWmtQc25JRkNNNXdlcXFuTU9RWTZuWjR3R0VfX0ZDQQ?oc=5",
-      "summary": "I Choose Jesus — Above Everything | Powerful Christian Worship Song for Faith & Surrender. YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-29T23:17:23Z",
-      "first_seen": "2026-09-30T00:10:22Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T12:10:22Z",
-      "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
 }
