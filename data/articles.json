@@ -1,8 +1,414 @@
 {
-  "generated_at": "2026-10-05T18:46:45Z",
+  "generated_at": "2026-10-05T21:41:46Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 441,
   "items": [
+    {
+      "id": "8418d1052d17097d",
+      "title": "French bishop condemns ‘destructive’ protest violence, urges peaceful dialogue",
+      "link": "https://www.ewtnnews.com/world/europe/french-bishop-student-protests",
+      "summary": "Bishop Matthieu Rougé, who leads the French bishops’ conference’s Council for Catholic Education, said responsible adults must lead young people to express their concerns peacefully.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T21:21:06Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791234280/ewtn-news/en/GettyImages-2297472211_yaoj38.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a43021dd56dede6b",
+      "title": "I am a Christian in Texas. Putting the Ten Commandments in my kids’ classrooms alarms me.",
+      "link": "https://religionnews.com/2026/10/05/i-am-a-christian-in-texas-putting-the-ten-commandments-in-my-kids-classrooms-offends-me/",
+      "summary": "(RNS) — 'I don't want my children absorbing a watered-down cultural Christianity message. In many ways, the actions of our Texas politicians feel like an infringement on my religious liberty.'",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T21:05:49Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/04/webRNS-Texas-Ten-Commandments1.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "08a4946aa90377ee",
+      "title": "Christian mother, daughter killed in Gaza strike; Israel says it targeted Hamas leader",
+      "link": "https://www.christianpost.com/news/christian-mother-and-daughter-killed-in-gaza-strike.html",
+      "summary": "Two Palestinian Christian women, a mother and her daughter, were killed early Saturday when an Israeli airstrike hit the apartment building in Gaza City where they were living, church leaders said.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T21:03:22Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272191_w_550_371.jpg?v=20261005170400",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e51ea6a06a0765dd",
+      "title": "God Loves You Tour with Franklin Graham Reaches Manchester, England: Hundreds Respond to Gospel Message",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYW9Xc2JMczdjMUhPaW9CYWZ1TDlYaUh1cjFDYmluQmxCZE96b0ZaOENuSmZTWDJrel9TNTVCZGE2U0g0U093d21MR0FTZU81QldLbkxTdmxyMHNtY3BRX2FIMkJaNXhYdHBTNGtveU8wYzZhYzFJV1EzX3RXRDJjT2ttdkwteXFHWW13ejd0cDFWemItaTZVeG13T282aXdaY2kxT1pHUUtyTGY4TVMzMlgxa3ZxS3RSVFRMN2VlbWJtY2pxMGZ6ZFlJQ0w4MWxzZ2tJT2ZkT3A5UHBMWW5FcV9pdXM1OGc?oc=5",
+      "summary": "God Loves You Tour with Franklin Graham Reaches Manchester, England: Hundreds Respond to Gospel Message billygraham.org",
+      "outlet": "billygraham.org",
+      "outlet_url": "https://billygraham.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-05T21:00:46Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T09:41:46Z",
+      "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "1d128abc39f689e0",
+      "title": "‘God Is My Ultimate Judge’: Caleb Flynn Speaks Before Life Sentence for for Wife Ashley’s Murder",
+      "link": "https://mycharisma.com/news/god-is-my-ultimate-judge-caleb-flynn-speaks-before-life-sentence-for-for-wife-ashleys-murder/",
+      "summary": "Caleb Flynn invoked God, broke down while speaking to his daughters and continued to insist he did not murder his wife, Ashley, moments before a judge sentenced the former worship pastor to spend the rest of his life behind bars. Flynn, 40, was sentenced…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:56:53Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "643af2748816cd6c",
+      "title": "Wheaton is the Cornell of evangelical schools",
+      "link": "https://religionnews.com/2026/10/05/wheaton-is-the-cornell-of-evangelical-schools/",
+      "summary": "(RNS) — Our Homecoming protest this past weekend highlighted a frustrating reality.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:47:06Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Wheaton-Protest2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "21b8f47a31bd3390",
+      "title": "Caleb Flynn Has Been Sentenced—But His Daughter’s Message Delivers The Most Devastating Blow",
+      "link": "https://www.jubileecast.com/articles/39988/20261005/caleb-flynn-has-been-sentenced—but-his-daughter-s-message-delivers-the-most-devastating-blow.htm",
+      "summary": "Caleb Flynn Breaks Down In Court—But His Daughter’s Message Delivers The Most Devastating Blow",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T20:36:04Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32075/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "db403b9e27a57408",
+      "title": "Bishop Mariann Budde, in new election ad, urges people to vote",
+      "link": "https://religionnews.com/2026/10/05/bishop-budde-urges-people-to-vote-in-new-ad/",
+      "summary": "(RNS) — 'I am asking for your courage to love your neighbor, to respect the dignity of every human being, and now, to vote,' Budde says in the new ad, which references her headline-grabbing sermon to President Donald Trump last year.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:29:08Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "0f8ae9a4bdd5cf43",
+      "title": "Supreme Court Justice Alito talks landmark abortion ruling, suggests gay marriage won't be overturned",
+      "link": "https://www.christianpost.com/news/alito-suggests-gay-marriage-ruling-wont-be-overturned.html",
+      "summary": "U.S. Supreme Court Justice Samuel Alito has reflected on the court’s 2022 landmark abortion ruling, calling it “the leading example” of a case that required courage from the justices. But he doesn't believe that the court will overturn the court's 2015 ruling…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:27:00Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272187_w_550_367_724_229.jpg?v=20261005163100",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2cf85f5993825456",
+      "title": "Christa Pike’s Attorney Calls for Death Penalty to Be ‘Taken Off the Table’ After Botched Execution Attempt",
+      "link": "https://mycharisma.com/news/christa-pikes-attorney-calls-for-death-penalty-to-be-taken-off-the-table-after-botched-execution-attempt/",
+      "summary": "Christa Pike’s lawyer wants Tennessee to respond to her botched execution by agreeing not to try to execute her again. “The least that could happen now is that we at least take death off the table and start looking for what the future could be for her,”…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:25:16Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "47394b26728b82aa",
+      "title": "Our Savior Lutheran Church \"Ignite\" Christian Music Festival",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHV5OGVhc0k1RDJlWXY5LVJsQWdVcEtCd2otejVYaE5qeDQzbXhoRlVldm94SXFHN2x4cHdpQmR5TUUySXd5QnpqN255TnFQcDdMekFHSGJrTkRaUEpEWmFnMHB2SVpSaHhYd2cyaDE2UEhaZS1xZGJsNG03QWt1cW5oUkROVE12TjNaeWNuaVN1VUxGQ0U1X21tYnQxdw?oc=5",
+      "summary": "Our Savior Lutheran Church \"Ignite\" Christian Music Festival WBNG",
+      "outlet": "WBNG",
+      "outlet_url": "https://www.wbng.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-05T20:24:00Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T09:41:46Z",
+      "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "26b641fb35fce455",
+      "title": "Music leaders tackle ‘great divide’ in worship",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeFBlZzh6a2FkWWdNY2lqN3dGWHlDMUE4b0YwY1BwRkRaUE54SjhlWGoyelZaT2RoaDVWamM2YU9lLUpzakcwcmRiVThORGQtYm5DajQtSFd4UlpIaDZqUk15TEp3dWFmY0l4R1dHSlBzRXlSR3FNM3prRmtuVExxbg?oc=5",
+      "summary": "Music leaders tackle ‘great divide’ in worship UM News",
+      "outlet": "UM News",
+      "outlet_url": "https://www.umnews.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-05T20:16:16Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T09:41:46Z",
+      "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "0e71678288b8be63",
+      "title": "Investigators: FlyDubai Co-Pilot Planned to Crash Jet into Israel’s Ben-Gurion Airport; PM Speaks with ‘Hero’ Captain",
+      "link": "https://mycharisma.com/news/investigators-flydubai-co-pilot-planned-to-crash-jet-into-israels-ben-gurion-airport-pm-speaks-with-hero-captain/",
+      "summary": "JERUSALEM, Israel – New details are emerging about the attempted hijacking of a FlyDubai flight bound for Israel. Investigators say the Omani co-pilot planned to use the plane as a weapon against Israel. The co-pilot, Hamam al-Hammami, told officials he…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:09:11Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fae97d68b28726c0",
+      "title": "From The Pulpit To Prison: Seven Pastors Whose Murder Cases Exposed Chilling Secrets",
+      "link": "https://www.jubileecast.com/articles/39987/20261005/from-the-pulpit-to-prison-seven-pastors-whose-murder-cases-exposed-chilling-secrets.htm",
+      "summary": "From The Pulpit To Prison: Seven Pastors Whose Murder Cases Exposed Chilling Secrets",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T20:04:41Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32075/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9a436acb1f304d00",
+      "title": "Argentine auxiliary bishop removed from office following allegations by 2 adults",
+      "link": "https://www.ewtnnews.com/world/americas/argentine-auxiliary-bishop-removed-from-office-following-allegations-by-2-adults",
+      "summary": "The prelate was barred from receiving formal appointments or new offices and from administering the sacrament of penance for five years. He may celebrate Mass and administer the other sacraments.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:04:00Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791220461/ewtn-news/en/Catedral-Cordoba-Shutterstock-031026_scqk8z_spmocf.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4896b8481da6e57d",
+      "title": "Noah’s Ark Researchers Say Long-Awaited Confirmation Could Come This Winter",
+      "link": "https://mycharisma.com/news/noahs-ark-researchers-say-long-awaited-confirmation-could-come-this-winter/",
+      "summary": "Could the mystery surrounding Noah’s Ark finally be inching toward an answer? After decades of questions, skepticism and intense debate surrounding the boat-shaped Durupınar Formation in Turkey, researchers investigating the site say this winter could bring a…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:03:22Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "774ba5fcad0c5822",
+      "title": "Spiritual Readiness, Pentagon-Style: Who Measures a Soldier’s Soul?",
+      "link": "https://religionnews.com/2026/10/05/spiritual-readiness-pentagon-style-who-measures-a-soldiers-soul/",
+      "summary": "Pete Hegseth wants faith treated like physical fitness. But whose beliefs will define a soldier’s readiness?",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T20:00:59Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "2f573acce44a999a",
+      "title": "Steven Hickerson Opens Up About The Personal Battles Behind “Free”",
+      "link": "https://www.jubileecast.com/articles/39986/20261005/steven-hickerson-opens-up-about-the-personal-battles-behind-free.htm",
+      "summary": "Steven Hickerson Opens Up About The Personal Battles Behind “Free”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T19:55:01Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32074/steven-hickerson.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "11db9b06ecbe06e0",
+      "title": "Florida School Bus Crash Kills 2; Governor’s Office Urges Prayer",
+      "link": "https://mycharisma.com/news/florida-school-bus-crash-kills-2-governors-office-urges-prayer/",
+      "summary": "A 10th-grade girl and a Jeep driver were killed Monday morning when a school bus carrying Winter Haven High School students overturned in a crash in Polk County, Florida, according to the sheriff’s office. The office of Gov. Ron DeSantis offered state…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T19:46:22Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d339c9b878420563",
+      "title": "Red Mass marks opening of Supreme Court term in Washington",
+      "link": "https://www.ewtnnews.com/world/us/red-mass-marks-opening-of-supreme-court-term-in-washington",
+      "summary": "Washington Cardinal Robert McElroy was the principal celebrant of the Mass, and Archbishop Timothy Broglio of the Archdiocese for the Military Services, USA, offered the homily.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T19:24:34Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791222873/ewtn-news/en/IMG_4295_jydpz3.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "36d05f8beab9d184",
+      "title": "John P. Kee Defends Kirk Franklin’s Collaboration With GloRilla, “Leave Kirk Alone”",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16NF85Y2lFRkN6T2xtLW1JU0haSDRYeFR3Ql9jQUNhN0dvS19KZ2w5T2hwVkFmZkJVQnVoNXU2VHIyOTVsaC1iNlVSNktsQWgwVUQyQksycERubmgwWVpzamVRbGVIakNoSGZHSTVDUHdvRk5K?oc=5",
+      "summary": "John P. Kee Defends Kirk Franklin’s Collaboration With GloRilla, “Leave Kirk Alone” hiphopwired.com",
+      "outlet": "hiphopwired.com",
+      "outlet_url": "https://hiphopwired.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-05T19:23:06Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "fc22d6dc09e228f4",
+      "title": "5 faith-filled, family-friendly movies streaming this fall",
+      "link": "https://www.christianpost.com/news/5-faith-filled-family-friendly-movies-streaming-this-fall.html",
+      "summary": "For viewers looking for faith-filled and family-friendly entertainment as the weather cools down, here are five films making their way to streaming platforms, with stories of faith and courage.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T19:13:00Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272179_w_550_373.jpg?v=20261005151436",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "1c186bf486d33e06",
       "title": "Founding Pastor Brian Tome Steps Down After Suspension—What Will Change At Crossroads?",
@@ -21,6 +427,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "ab50a6cc1569d926",
+      "title": "As Jihadists Slaughter Middle Belt Christians, Nigeria’s Wealthiest Megachurches Maintain a Politically Profitable Silence",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdW4wRjhCZXg2QkRuUndteUNjSlFuWGhZdnRUbTlpeFV2TXdVazhGTDZEUjAyQnl0blBtbThQcWppRk4yS0Z0NXY0aDFpaW5uN205b3R5OGRBa2YzSjkyOGtHanBCNDI0MHRudi1pOWoycW5ob0MtR3NkYWdKaUNvRTlRTnVEcDY3ZFlKWDl5YUNDNm9jTzRQTVpTeU5uTzJzRExHYmNnM1NaYzd4MmozTVN0S3I0eFBrWEhjcWJRRW5VRDdqbGJhZ1RPX0xycVcyQW5XZVVwZFg4SEhuLWR2T0ppb0gtWlFtc3c?oc=5",
+      "summary": "As Jihadists Slaughter Middle Belt Christians, Nigeria’s Wealthiest Megachurches Maintain a Politically Profitable Silence Truth Nigeria",
+      "outlet": "Truth Nigeria",
+      "outlet_url": "https://truthnigeria.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-05T18:47:39Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "8d6be4acf548141f",
@@ -76,6 +499,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "bbcece2ebf1a8ca6",
+      "title": "Black Metal’s Dark Descent: Church Burnings, Escalating Violence and a 1993 Murder That Shocked a Scene",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOXZBLVhRRzB0Yjdjc2FHaE4wTkRqeU5yaGFyV0Z3cndQV3RVa2RCVTZhMU1VYWZfR1gyY0Y5TTA5THRaWjFzalpmOGJnejExZ0tSTnhZakJJdGp4emVKZGpxMGpCYkd5bU15MEhR?oc=5",
+      "summary": "Black Metal’s Dark Descent: Church Burnings, Escalating Violence and a 1993 Murder That Shocked a Scene People.com",
+      "outlet": "People.com",
+      "outlet_url": "https://people.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-05T18:33:16Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "d87cf892eba74169",
@@ -573,6 +1013,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-05T15:43:32Z"
+    },
+    {
+      "id": "bf4adf22dc877562",
+      "title": "Nigeria Music Community Mourns as Popular Gospel Singer Dies Suddenly, Details Emerge",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPczFHRnRwRWtrdE1LckZOd0piTGxINTVxVW9CMTc2bjhBdEx3dXU3ejRuMnNsVGhnNzQ3a3pNTVpwdmg2UnFDVGVtS09JbVlpc2wxQ3E4RHBNZU80VkY0X29DUVdxVTluU1FzcUFCWXRLZGZCdlNlUHl1bHVhZHlReFVBR1Z2WU5WOHJWU0F1aUg0RmxLcW5CVHZWRG5FLUZ3d05OZ3V1eTNjQkNyZ25BbHNZcUlCNDFoN0dKQkpQQXdqMmxfdDNwTGpsSmxqVEJZRk1Z?oc=5",
+      "summary": "Nigeria Music Community Mourns as Popular Gospel Singer Dies Suddenly, Details Emerge Legit News",
+      "outlet": "Legit News",
+      "outlet_url": "https://www.legit.ng",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-05T15:02:28Z",
+      "first_seen": "2026-10-05T21:41:46Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "d02955fa87f78894",
@@ -4166,7 +4623,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T09:40:44Z",
-      "image_tried": "2026-10-02T21:40:44Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "2037e50dc0aaddfc",
@@ -4236,7 +4693,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T09:40:44Z",
-      "image_tried": "2026-10-02T21:40:44Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "a9dc68990a034d7d",
@@ -4272,7 +4729,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T09:40:44Z",
-      "image_tried": "2026-10-02T21:40:44Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "795b66915df74a2a",
@@ -4289,7 +4746,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T09:40:44Z",
-      "image_tried": "2026-10-02T21:40:44Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "89f4cfc8a64b3d79",
@@ -4458,7 +4915,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T07:40:58Z",
-      "image_tried": "2026-10-02T19:40:58Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "d4fb1387b17c05de",
@@ -4551,7 +5008,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T07:40:58Z",
-      "image_tried": "2026-10-02T19:40:58Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "0bdc0b2972ad9804",
@@ -4701,7 +5158,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-02T20:40:54Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "07aedbbc2e2583e5",
@@ -5412,7 +5869,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-02T20:40:54Z"
+      "image_tried": "2026-10-05T21:41:46Z"
     },
     {
       "id": "b3e6c673f9ed2b1e",
@@ -10627,469 +11084,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28515/tauren-wells.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "638db66ebe879866",
-      "title": "Pope at Audience: Apostolic Journey to France was 'sign of rebirth'",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-apostolic-journey-france-rebirth-faith-peace-life-paris.html",
-      "summary": "During his weekly General Audience, Pope Leo XIV recalls various highlights from his recent Apostolic Journey to France from September 25 to 28, and points to the theme of rebirth as a guiding thread. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T08:41:00Z",
-      "first_seen": "2026-09-30T09:07:55Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/30/2026-09-30-udienza-generale/1790756999439.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a9ee75eeca7b83b2",
-      "title": "Gallagher: Amid severe test to world order, religions can conribute to peace",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/archbishop-gallagher-religions-diplomacy-conference-rome.html",
-      "summary": "Archbishop Paul Richard Gallagher and Cardinal Baldo Reina highlight religious communities’ contribution to peace at a conference in Rome, emphasizing religious freedom and respect for human dignity while rejecting the use of faith to justify war. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T07:38:00Z",
-      "first_seen": "2026-09-30T08:09:39Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/29/02.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "79e3d3f9ddbda74e",
-      "title": "Gospel star’s dramatic comeback!",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xMmo5d2V4RWdpa1NMeHlhbXVueDhUV0ZoSVRGOTdiNTNPNEh0Q0NrcGcxWGpwSUlwX2RESzZFN0hpdWlMSlR1OU5jcWR6Tl9lUDc5R1JNOFRSSmpoZ2JONUFMQV9Rc0R2eDdoMnlqZkFwYk1nVFEtRg?oc=5",
-      "summary": "Gospel star’s dramatic comeback! snl24.com",
-      "outlet": "snl24.com",
-      "outlet_url": "https://www.snl24.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T07:00:00Z",
-      "first_seen": "2026-09-30T07:41:18Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T19:41:18Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "43f48130f6dc68a3",
-      "title": "Concerns over gospel singer's KK shows should be managed and not made a barrier, says former CM Salleh",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSENPZFAwcjk3TDczUk9CNzBreUllU0ljY0Q3SXJsZ1h1QVU1VTEyd2ZGU1RNUUxVQUp4X0JuWHRISmV4ZzVuQWo3UGpjWWpEUUhnUTVWT2dsOG81U3lwWmNOQ3JxMENEdjZXYmM2bWFxNDFYUmc5Q19pN1g1WDl4NDl2ZUhlTDg2YVVTTDkyMmZPVzV3THQzQklWRWlqQmhIbTNTWUdNYVItWWJxdjhpM1pTNUZlWlpNbW9hM3NUanpuVmpmWnB0bGhkSWlHSm9vUmhpdWdaaklzdjNnUXM1emYwRHczTjN0?oc=5",
-      "summary": "Concerns over gospel singer's KK shows should be managed and not made a barrier, says former CM Salleh The Star",
-      "outlet": "The Star",
-      "outlet_url": "https://www.thestar.com.my",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T06:59:00Z",
-      "first_seen": "2026-09-30T07:41:18Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T19:41:18Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "0c94354dd7a73bab",
-      "title": "Actor Chad Lowe’s Daughter Fiona Dies At 13—How Can Fans Support A Grieving Family?",
-      "link": "https://www.jubileecast.com/articles/39836/20260930/actor-chad-lowe-s-daughter-fiona-dies-at-13—how-can-fans-support-a-grieving-family.htm",
-      "summary": "Actor Chad Lowe’s Daughter Fiona Dies At 13—How Can Fans Support A Grieving Family?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T06:18:00Z",
-      "first_seen": "2026-09-30T07:09:21Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31992/chad-lowe.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9127a9b29f22b118",
-      "title": "James Talarico accused of trivializing deity of Jesus Christ: Same as Buddha, Mr. Rogers, other 'prophetic voices'",
-      "link": "https://www.christianpost.com/news/james-talarico-trivializes-deity-of-jesus-christ-in-church-sermon.html",
-      "summary": "Texas’ Democratic U.S. Senate candidate James Talarico has been accused of trivializing the deity of Jesus Christ, likening him to Buddha, Toni Morrison, Mr. Rogers and other “prophetic voices” during a past sermon at his church that's making the rounds on…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T06:08:54Z",
-      "first_seen": "2026-09-30T07:09:21Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272102_w_550_367_324_276.jpg?v=20260930021242",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6a054ad3e47fd7a1",
-      "title": "Future Legacy Hip-Hop Showcase Hits Nashville for Dove Awards Week",
-      "link": "https://rapzilla.com/2026-09-future-legacy-hip-hop-showcase-nashville-dove-awards-week/",
-      "summary": "Nashville is getting ready for a major night of music. The Future Legacy Hip-Hop Showcase arrives at Cannery Hall on Sunday, October 4. Sponsored by VYB, the event spotlights some of the top artists in hip-hop. DJ Focus and Keal K will host the evening’s…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T06:00:22Z",
-      "first_seen": "2026-09-30T06:09:09Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2023/09/13155423/79550987-8719-fd22-b382-231af9b4e436-e1694634928438.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9fb94910c7c6d99f",
-      "title": "Country Trio Lady A And R&B Icons Boyz II Men Unite For ‘The Chosen’—Why This Collaboration Gets Personal",
-      "link": "https://www.jubileecast.com/articles/39835/20260930/country-trio-lady-a-and-r-b-icons-boyz-ii-men-unite-for-the-chosen-—why-this-collaboration-gets-personal.htm",
-      "summary": "Country Trio Lady A And R&B Icons Boyz II Men Unite For ‘The Chosen’—Why This Collaboration Gets Personal",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T05:40:48Z",
-      "first_seen": "2026-09-30T06:09:09Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28057/the-chosen.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7a353d424e1844c9",
-      "title": "Former Oklahoma Baptist University President Bob Agee Dies At 87—What Makes A Christian University Truly Christian?",
-      "link": "https://www.jubileecast.com/articles/39834/20260930/former-oklahoma-baptist-university-president-bob-agee-dies-at-87—what-makes-a-christian-university-truly-christian.htm",
-      "summary": "Former Oklahoma Baptist University President Bob Agee Dies At 87—What Makes A Christian University Truly Christian?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T05:33:53Z",
-      "first_seen": "2026-09-30T06:09:09Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31991/bob-agee.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6255bbb7e42e21f8",
-      "title": "How megapastor Adam Hamilton could break the GOP's hold on Kansas",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVVRXUmU0VV9UM3pVZUw0Y3hSaURxRnZJdkd5RHdHVW1yb3NjU1FrdFNrNjVLb3U5OEFaV3J2YWoteWphRU9YSUMtd2ZDWkJiZjdENkpnQUYxQWNPSkQybVBjLVRvUk4yS2l6bnYwY0ltQUhnY0hweDQzU0dwMWhyX0R1dGZ5QTJDTHFkM01ueGwtX092VXB5V1JUQ0c?oc=5",
-      "summary": "How megapastor Adam Hamilton could break the GOP's hold on Kansas The Christian Century",
-      "outlet": "The Christian Century",
-      "outlet_url": "https://www.christiancentury.org",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-30T05:33:48Z",
-      "first_seen": "2026-09-30T05:40:25Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T17:40:25Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "11d20e80a2d1e8c3",
-      "title": "Tauren Wells on church scandal, burnout and rediscovering God’s presence",
-      "link": "https://www.christianpost.com/news/tauren-wells-on-church-scandal-burnout-and-new-album.html",
-      "summary": "Grammy-nominated artist and pastor Tauren Wells opens up about how planting a church transformed his faith, navigating burnout and his hope that his new album \"Here Comes the Church\" will help Christians rediscover the beauty, diversity and importance of…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T05:18:24Z",
-      "first_seen": "2026-09-30T06:09:09Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272115_w_550_370.jpg?v=20260930011906",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d7595f4ff3f8053b",
-      "title": "Why did BeBe & CeCe Winans split up?",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53UTdyakw1MnV4c0g2UVl3OURNRHJqd25JU1VrN3JicnBBUmdUb2Zqek5sQVJaaVZrMDVFV3QyYkNud0VBQjRxWXgyMXlUQldCQW41S2xMbTF2bkNDeHluNGI0UWt3bHJtQ2tTTUlqeEZnbzZvZDJ2Sg?oc=5",
-      "summary": "Why did BeBe & CeCe Winans split up? Britannica",
-      "outlet": "Britannica",
-      "outlet_url": "https://www.britannica.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-30T05:00:00Z",
-      "first_seen": "2026-10-02T18:43:32Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-05T18:46:45Z"
-    },
-    {
-      "id": "e19439b79821d406",
-      "title": "CeCe Winans",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUTnMwMnpKZ0Yyb1NYRXpPelQ2LWRoY2NseWUtZ0RpdWMzSEVaeGNJVUlEOXdWRS1QNGVtU2dRa3dnY08tSk5RdXVVcEZKMjNrN1FfRmozWGxxc2Jm?oc=5",
-      "summary": "CeCe Winans Britannica",
-      "outlet": "Britannica",
-      "outlet_url": "https://www.britannica.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-09-30T05:00:00Z",
-      "first_seen": "2026-10-02T22:40:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-02T22:40:02Z"
-    },
-    {
-      "id": "fdbe0a5efdab1495",
-      "title": "Transgender Actor Elliot Page Covers New York’s First Men’s Style Issue—What Should Christians Make Of It?",
-      "link": "https://www.jubileecast.com/articles/39833/20260930/transgender-actor-elliot-page-covers-new-york-s-first-men-s-style-issue—what-should-christians-make-of-it.htm",
-      "summary": "Transgender Actor Elliot Page Covers New York’s First Men’s Style Issue—What Should Christians Make Of It?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T04:54:24Z",
-      "first_seen": "2026-09-30T05:07:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31990/elliot-page.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "53055d2110e04787",
-      "title": "Smaahing Pumpkins' Billy Corgan Says He Believes In Jesus—Why Was He Willing To Risk His Career?",
-      "link": "https://www.jubileecast.com/articles/39832/20260930/smaahing-pumpkins-billy-corgan-says-he-believes-in-jesus—why-was-he-willing-to-risk-his-career.htm",
-      "summary": "Billy Corgan Says He Believes In Jesus—Why Was He Willing To Risk His Career?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T04:46:04Z",
-      "first_seen": "2026-09-30T05:07:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31974/billy-corgan.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "be937deb5317d8a8",
-      "title": "Caleb Flynn’s Murder Conviction: Five Questions Christians Cannot Ignore",
-      "link": "https://www.jubileecast.com/articles/39831/20260930/caleb-flynn-s-murder-conviction-five-questions-christians-cannot-ignore.htm",
-      "summary": "Caleb Flynn’s Murder Conviction: Five Questions Christians Cannot Ignore",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T04:29:32Z",
-      "first_seen": "2026-09-30T05:07:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31936/caleb-flynn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bf79c5ebbdaeb369",
-      "title": "3 ways to thrive in your Christian faith when doubt creeps in",
-      "link": "https://www.christianpost.com/voices/3-ways-to-thrive-in-your-faith-when-doubt-creeps-in.html",
-      "summary": "Every believer will face temptation, intellectual challenges and doubt. But being challenged to doubt the Christian faith is not the same as unbelieving it, and knowing the difference is the first step toward a flourishing walk with Christ.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T04:10:26Z",
-      "first_seen": "2026-09-30T05:07:50Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272110_w_550_413.jpg?v=20260930001025",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1d2de0a0b3f004bc",
-      "title": "How do you recognize God's voice?",
-      "link": "https://www.christianpost.com/voices/how-do-you-recognize-gods-voice.html",
-      "summary": "There are so many voices competing for our attention, from social media feeds to the fears and desires in our own hearts. If you are a follower of Christ, only one voice truly matters, but we must learn to recognize His voice above all the others.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T04:05:32Z",
-      "first_seen": "2026-09-30T05:07:50Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272114_w_550_367_533_340.jpg?v=20260930000921",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3722afe0fe622961",
-      "title": "7th Annual Hudson Valley Gospel Festival Uplifts",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTZhckZxYkNLQ201ckNCbk5XdDZCc0lJOUFRUG1xYWxvYlRpc19UaEZpWlQzVkxHY25INTV1V3k1cjVxeFZNRFgxLTRPZ2t3ekVqeVJhOEVZYVpmcEo4cUNYOWpIN1Bmc09DclN3MUVZT2tIWVJ2WWVkSk14ZE1qS0xOdkJRTjVWYXRYdmpYb2NIY1Jj?oc=5",
-      "summary": "7th Annual Hudson Valley Gospel Festival Uplifts Hudson Valley Press",
-      "outlet": "Hudson Valley Press",
-      "outlet_url": "https://hudsonvalleypress.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T04:04:11Z",
-      "first_seen": "2026-09-30T04:40:53Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T16:40:53Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "c2bf5e3805d03ca8",
-      "title": "Timbaland Reveals How God Led Him to 1K Phew for ‘Seven Trumpets’ Album",
-      "link": "https://rapzilla.com/2026-09-timbaland-and-1k-phew-seven-trumpets-album/",
-      "summary": "Timbaland and 1K Phew recently pulled up to The Morning Hustle to discuss faith, culture, and their joint project. The duo teamed up for Seven Trumpets, a “street gospel” album that blends street sound with a deeper message. “I’m saved, not soft,” 1K Phew…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T04:03:08Z",
-      "first_seen": "2026-09-30T04:07:40Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/09/29235946/1K-Phew-Timbaland-SAFE-Official-Music-Video-2-6-screenshot-e1790740851631.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "49152a766c8c9a28",
-      "title": "School choice without transparency isn't really a choice",
-      "link": "https://www.christianpost.com/voices/school-choice-without-transparency-isnt-really-a-choice.html",
-      "summary": "When you choose a school, you're choosing an environment that will shape your child during some of their most formative years. Parents deserve to know what happens there.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T04:00:42Z",
-      "first_seen": "2026-09-30T05:07:50Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272111_w_550_367_577_120.jpg?v=20260930000748",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6cc6c7bb32552c2c",
-      "title": "Ex-youth pastor pleads guilty to transporting minor across state lines for sex",
-      "link": "https://www.christianpost.com/news/ex-youth-pastor-pleads-guilty-to-transporting-minor-for-sex.html",
-      "summary": "A former Mississippi youth pastor accused of using her position to groom a teenager under the age of 18 and transporting a child across state lines for illicit sexual purposes has accepted a plea deal, according to reports.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T04:00:14Z",
-      "first_seen": "2026-09-30T06:09:09Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272116_w_550_341.jpg?v=20260930011258",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b20b183e7fa57693",
-      "title": "Beijing Police Detained a Pastor and Seven Church Members as They Set Up Their 20th Anniversary Service",
-      "link": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
-      "summary": "A Beijing pastor and seven members of his church have been held in criminal detention for nearly a month after police broke up preparations for the underground church’s 20th anniversary celebration, according to a letter from the pastor’s wife published this…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T03:54:02Z",
-      "first_seen": "2026-09-30T04:07:40Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/beijing.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6fd25540b9c7a29b",
-      "title": "Nathan Fielder Spent a Season of ‘The Rehearsal’ on Pilot Mental Health. The Senate Just Passed Two Bills About It.",
-      "link": "https://relevantmagazine.com/life5/wellness/mentalhealth/nathan-fielder-spent-a-season-of-the-rehearsal-on-pilot-mental-health-the-senate-just-passed-two-bills-about-it/",
-      "summary": "Most comedy shows end with a season finale. Nathan Fielder’s ended with him flying a Boeing 737 full of actors over the Mojave Desert, because he’d decided the only honest way to make a point about pilots was to become one. The point was mental health. Season…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T01:26:29Z",
-      "first_seen": "2026-09-30T02:07:25Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/nathan.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2fda1b929104a9f7",
-      "title": "Jonathan Isaac Was One of the NBA’s Most Outspoken Christians. He’s Been Quieter Lately, and It’s on Purpose.",
-      "link": "https://relevantmagazine.com/culture/sports/jonathan-isaac-was-one-of-the-nbas-most-outspoken-christians-hes-been-quieter-lately-and-its-on-purpose/",
-      "summary": "Near the end of his interview on the new RELEVANT Podcast, Jonathan Isaac was asked for the sound bite: one way the Lord’s been encouraging him lately, the kind of clip that does numbers on Instagram, a professional athlete saying something encouraging about…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T01:13:00Z",
-      "first_seen": "2026-09-30T02:07:25Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/JI.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
