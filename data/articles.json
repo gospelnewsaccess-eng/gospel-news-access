@@ -1,8 +1,173 @@
 {
-  "generated_at": "2026-10-05T10:10:22Z",
+  "generated_at": "2026-10-05T10:42:22Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 443,
   "items": [
+    {
+      "id": "18bb407e1c971430",
+      "title": "Spain, Faith in Malaga and the Peripheries",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/sisters-project-spain-faith-peripheries-malaga-religious-charity.html",
+      "summary": "The Gospel is not proclaimed only from pulpits. It is lived on school playgrounds, in conversations after class, and in the quiet accompaniment of young people searching for their worth. Rather than relying on grand words, Sr. Lucía López Álvarez-Ossorio, a…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T10:22:00Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/31/ps-199-copertina-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "468d28038681a5b6",
+      "title": "Nancy Guthrie Update: Luke Daley Denies Link to Nancy Guthrie Case as His Name Resurfaces After Jail Booking",
+      "link": "https://www.jubileecast.com/articles/39974/20261005/nancy-guthrie-update-luke-daley-denies-link-jail-booking-october-2026.htm",
+      "summary": "Nancy Guthrie Update: Luke Daley Denies Link to Nancy Guthrie Case as His Name Resurfaces After Jail Booking",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T10:09:50Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30582/nancy-guthrie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9125b26768e632a2",
+      "title": "Skillet talks new EP 'After the Storm,' heavier sound",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLWxxSlpkRlVtZ2RuY2dmZV95dXZCd0E0d2Z4ck5BNkwwWlZxM083ODN6enVUREpTcjBPMm9oRi1nVzNwOEoxa05QZ3k2MXZEcDhYdy1GYWk4VjNHUWk5OWV4dWRHSWlQTUFvY0ItWmZwNzRQMjVVRVhZcmk4NnlBeUY0NE5uaTZPYnZjN19jSE5VSHMzSzJrbkNkakM2MS1xSjJfbEluRWEwQ3ZyY3VLZXlBRVJVN2dsbUVxY3UzdWZDQ2s2aEE?oc=5",
+      "summary": "Skillet talks new EP 'After the Storm,' heavier sound The Tennessean",
+      "outlet": "The Tennessean",
+      "outlet_url": "https://www.tennessean.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-05T10:07:30Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-05T22:42:22Z",
+      "image_tried": "2026-10-05T10:42:22Z"
+    },
+    {
+      "id": "145ec648db806817",
+      "title": "Christian rock band Skillet defines 'After the Storm' era",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPanRxcHkzSHV0R18zbjRMWElFZGZCZ0U2ZWY4VFI4YWJjbGlmLUlBWnBaaHlnajNoRWpTUXFPQnh6Y25tLU03QlRTdGFaeDRTbkk5T05Rb1I2MHB4R0ladjFncWtiSDUzXzg3cldFLWw0OWo2NmR4MzdfVS1FdElJUjBhNnZfaW9SNVoybTZRMTIxamhueHljRHl5LUwxTHdXS1BtYjRhN0VUMVZiaVhEQThqMFZwYWIwT01FSmlOcWR3SWNIRUEtQ1hBbmRBQWhBdkkzcUo2SkZCaDZHN2c?oc=5",
+      "summary": "Christian rock band Skillet defines 'After the Storm' era The Tennessean",
+      "outlet": "The Tennessean",
+      "outlet_url": "https://amp.tennessean.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-05T10:05:21Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-05T22:42:22Z",
+      "image_tried": "2026-10-05T10:42:22Z"
+    },
+    {
+      "id": "3bf85773bf78c84f",
+      "title": "The Borromean Sisters in Jerusalem sow the seeds of peace",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/sisters-project-jerusalem-holy-land-peace-st-charles-borromeo.html",
+      "summary": "Since 1989, the Sisters of Mercy of St. Charles Borromeo in Jerusalem have been running a kindergarten where children from Muslim and Christian families learn and play together. Their example is a testament to the fact that it is possible to be \"artisans of…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T10:02:00Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/05/sp200-foto-copertina.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1a98ffbce417ec12",
+      "title": "How Skillet became a billion-stream Christian rock anomaly",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTVmLWhfel9yWDRnQ1pNZGphUWQxQnpUV1JVVWlPc2pIV013UWpPM2lTazgxbXUtRWFTOGdRZzMwUjR6c0tTRFR1Tk0ya0NYSHRuZkt2NERjZHhjeko0bmFiTjhJOGhTR3E0enVGQzVLVTM2ZXVzSVNSSmpFSmhiMUlkdUh5MUQ3MnViVEU0S1VuUVcwYTEzSUpETDNZZE0tNGQwWDVMZ01YSHdyb2hZSQ?oc=5",
+      "summary": "How Skillet became a billion-stream Christian rock anomaly The Tennessean",
+      "outlet": "The Tennessean",
+      "outlet_url": "https://www.tennessean.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-05T10:00:00Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-05T22:42:22Z",
+      "image_tried": "2026-10-05T10:42:22Z"
+    },
+    {
+      "id": "41355ec564343810",
+      "title": "AI Is Weakening Pastors’ Authority",
+      "link": "https://www.christianitytoday.com/2026/10/ai-is-weakening-pastors-authority/",
+      "summary": "A California pastor named Justin Lester has built a digital twin of himself using nearly 2 million words from his sermons, books, and other messages. The artificial intelligence–generated clone offers counsel around the clock to hundreds of people in Vallejo…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T10:00:00Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/ai-weakening-pastor-authority.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a8309be5208ac176",
+      "title": "Even in Many Churches, India’s Caste System Lasts Into the Grave",
+      "link": "https://www.christianitytoday.com/2026/10/dalit-christian-church-discrimination-india/",
+      "summary": "When A. Raju died July 17 in the southern Indian state of Tamil Nadu, a three-day standoff over his rights as a Dalit held up his burial. As the family of the 89-year-old Catholic grieved, higher-caste Christian groups objected to having him laid to rest in…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T10:00:00Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/caste-discrimination-churches-india.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "acc4a92c16628234",
+      "title": "Catholics and Public Life Congress extols the faith that unites Spain and the Americas",
+      "link": "https://www.ewtnnews.com/world/europe/catholics-and-public-life-congress-to-reclaim-the-faith-that-unites-spain-and-the-americas",
+      "summary": "The Nov. 13–15 conference in Spain seeks to showcase the achievements of the Hispanic civilization that was formed by the Catholic faith and build upon it for the future.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T10:00:00Z",
+      "first_seen": "2026-10-05T10:42:22Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790793318/ewtn-news/en/Pablo_Velasco_ACDP_CCVP_NC_qnbc6y_yuhqdg.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "f8ff9cde84157614",
       "title": "James Gunn Is 'Already' Writing His Next Film: What We Know About \"Man of Tomorrow\"",
@@ -10926,173 +11091,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "bfc3b10753476989",
-      "title": "Cardinal Parolin tells UN: Self-defense does not justify an arms race",
-      "link": "https://www.ewtnnews.com/vatican/cardinal-parolin-tells-un-we-must-set-aside-culture-of-power-for-dialogue",
-      "summary": "The Vatican secretary of state addressed the United Nations in New York on Sept. 26.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T16:05:00Z",
-      "first_seen": "2026-09-29T17:07:35Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614678/images/whatsapp-image-2022-03-22-at-13.13.35.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5038b76296b8804a",
-      "title": "NJ man gets nearly 6 years in prison for taking over 100 explosives to church hosting mass for Supreme Court justices",
-      "link": "https://www.christianpost.com/news/nj-man-sentenced-nearly-6-years-for-trying-to-attack-red-mass.html",
-      "summary": "A New Jersey man was sentenced to nearly six years in prison for bringing more than 100 homemade explosive devices to a church in the nation's capital that was preparing to host a Mass traditionally attended by U.S. Supreme Court justices.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T16:01:32Z",
-      "first_seen": "2026-09-29T17:07:35Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272106_w_550_367.jpg?v=20260929120249",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "470de5ef58b3f742",
-      "title": "Abducted by the LRA as a teen, he now turns to faith to heal his trauma",
-      "link": "https://religionnews.com/2026/09/29/abducted-by-the-lra-as-a-teen-he-now-turns-to-faith-to-heal-his-trauma/",
-      "summary": "NAIROBI (RNS) — More than 2,000 former LRA captives and returnees gathered in northern Uganda for prayer and reconciliation, confronting a painful question: How do communities receive people who are both victims and victimizers?",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T15:58:40Z",
-      "first_seen": "2026-09-29T16:09:20Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-LRA-Kony2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f585e625f1f820db",
-      "title": "Former Baptist pastor charged in assassination of Haitian president goes on trial",
-      "link": "https://www.christianpost.com/news/former-baptist-pastor-is-on-trial-for-death-of-haitian-president.html",
-      "summary": "Christian Emmanuel Sanon, a 67-year-old Haitian American pastor and medical doctor who formerly served as director of the Haitian Church Planting Department for the Florida Baptist Convention, has pleaded not guilty to conspiring to assassinate late Haitian…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T15:57:33Z",
-      "first_seen": "2026-09-29T18:09:52Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272093_w_550_373.jpg?v=20260929125418",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "61e6d0090978f565",
-      "title": "Natalie Harp Was Devoted to Controversial Pastor David Jeremiah Before Trump Obsession",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUU9KanpTZzVCRG41WHNkRmJiWU56WTNNa2ItekFtY1NKQWdDaEtKZE91bzRFZVFYaWNVTVAzWlVsRmRxVVlWbm44LWIxX1J5dlhUVEhoR3Q3VHpHX0o4NmdiYmFfOU9HS3pUZTBLVnlKNnRqcWxWaU1paXd6UThVSWw3clBVellTRjNzU0c4ZUdsenNHVzZDZHU0Ni0ya3BiYi1kQm54QjZrSVNjU1NMbVp2cGVZcTBT?oc=5",
-      "summary": "Natalie Harp Was Devoted to Controversial Pastor David Jeremiah Before Trump Obsession The Daily Beast",
-      "outlet": "The Daily Beast",
-      "outlet_url": "https://www.thedailybeast.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-29T15:53:00Z",
-      "first_seen": "2026-09-30T00:46:23Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "1b136cb7d260a2bb",
-      "title": "Word of Faith religious group leader gets probation in assault case in North Carolina",
-      "link": "https://religionnews.com/2026/09/29/word-of-faith-religious-group-leader-gets-probation-in-assault-case-in-north-carolina/",
-      "summary": "Prosecutors said Word of Faith Fellowship leader Brooke Covington led a group of church members in 2013 who choked and beat a young man for two hours while they prayed to expel “homosexual demons.”",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T15:47:46Z",
-      "first_seen": "2026-09-29T16:09:20Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "292197d74ddec04f",
-      "title": "Malawi: 125 years of faith, rooted in Christ, serving justice",
-      "link": "https://www.vaticannews.va/en/africa/news/2026-09/malawi-125-years-of-faith-rooted-in-christ-serving-justice.html",
-      "summary": "Malawi has just celebrated 125 years since the Gospel first arrived. Years of faith have built schools, hospitals, and consciences, and it is still growing stronger. The Catholic Lawyers Association of Malawi (CLAM) recently organised what was dubbed a ‘Red…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T15:45:00Z",
-      "first_seen": "2026-09-29T16:09:20Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/29/img-20260928-wa0099.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e6d96155e974b448",
-      "title": "Would-be attacker of 2025 DC Red Mass sentenced to 5 years",
-      "link": "https://www.ewtnnews.com/world/us/would-be-attacker-of-2025-dc-red-mass-sentenced-to-5-years",
-      "summary": "Louis Geri had previously pleaded guilty to federal charges after police said his attack was directed specifically at Catholics and Supreme Court justices.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T15:25:00Z",
-      "first_seen": "2026-09-29T16:09:20Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778252173/ewtn-news/en/gavel_mjmf2t.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6caf7a1e26234046",
-      "title": "Lindsay Clancy Returns to Court as Defense Pushes to Dismiss Murder Case",
-      "link": "https://mycharisma.com/news/lindsay-clancy-returns-to-court-as-defense-pushes-to-dismiss-murder-case/",
-      "summary": "The Lindsay Clancy case is far from over. Nearly one month after her explosive murder trial ended in a mistrial, Clancy returned to a Massachusetts courtroom Tuesday. What happens next could send the case in several dramatically different directions…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T15:24:34Z",
-      "first_seen": "2026-09-29T16:09:20Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
