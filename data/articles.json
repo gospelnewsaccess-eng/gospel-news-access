@@ -1,8 +1,101 @@
 {
-  "generated_at": "2026-10-05T14:11:39Z",
+  "generated_at": "2026-10-05T14:44:24Z",
   "story_count": 600,
   "with_photo": 444,
   "items": [
+    {
+      "id": "2cb71eb54dbc74f0",
+      "title": "‘Hamas-Ideology’ – Israel Slams UK Greens for Declaring ‘Zionism is Racism,’ Advocating End of Israel",
+      "link": "https://mycharisma.com/news/hamas-ideology-israel-slams-uk-greens-for-declaring-zionism-is-racism-advocating-end-of-israel/",
+      "summary": "Israel harshly criticized the Green Party in the United Kingdom on Sunday, after it declared Zionism to be a form of racism and called for replacing Israel with a Palestinian state in a binding declaration. “Today, the Green Party in Britain ceased to act as…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T14:16:45Z",
+      "first_seen": "2026-10-05T14:44:24Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "203d868648612d62",
+      "title": "Russian Lab Worker Dead After Breaking Virus Vial at Plague Research Facility; Quarantine Active",
+      "link": "https://mycharisma.com/news/russian-lab-worker-dead-after-breaking-virus-vial-at-plague-research-facility-quarantine-active/",
+      "summary": "The Russian government has instituted a quarantine in response to a lab worker at a research facility dying from an unknown illness. The Irkutsk Research Anti-Plague Institute of Siberia lab worker, a 28-year-old woman whom some have identified as Darya…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T14:10:21Z",
+      "first_seen": "2026-10-05T14:44:24Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ab58a86127436e7e",
+      "title": "Pope Leo XIV meets USCCB leadership and other prominent American bishops",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-meets-usccb-leadership-and-other-prominent-american-bishops",
+      "summary": "The pontiff met with several American bishops from Oct. 1–5, and three U.S. cardinals are set to be in Rome for a major fall conference on the family.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T14:07:48Z",
+      "first_seen": "2026-10-05T14:44:24Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787168265/ewtn-news/en/archbishopcoakley_m1r8gp.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3c9e3faa13a56cbb",
+      "title": "Former New Jersey Lt. Gov. Dale Caldwell suspended as UMC pastor amid misconduct investigation",
+      "link": "https://www.christianpost.com/news/ex-new-jersey-lt-gov-dale-caldwell-suspended-as-pastor.html",
+      "summary": "Dale Caldwell, the former New Jersey lieutenant governor who resigned last month, has been suspended from his duties as a pastor while the United Methodist Church investigates allegations against him.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T13:55:00Z",
+      "first_seen": "2026-10-05T14:44:24Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272170_w_550_371_622_376.jpg?v=20261005100303",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f2cf809d19c39384",
+      "title": "Gospel singer Israel Houghton's concert is a no-go in Indonesia over security concerns",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUEladmZXOVNtMzJUS1RVWU45WGlrRnE2WVJ4ZXlHNWctQi1lQmZkY0daR1l0V3dvZkVsVm9VZmRhQXB3MjJxaWxqWmtueXVYUE5ETndrc19qZF96X1FBcEl2S09JeWFSVHJOUXBXSjhmS2l6NDR3Sm1OaDFjdVJRZ01xQ3ZtQ1Q3d3NONnNmWXh4WTQwUDBXb3lxdy1oM1dIRUxtZUhQWDVCUkJMeTJMZV9JVWVzcDI1U20wMnBQMkxPSDNJaVo4VkVVMDJIejZvbGw1LWZUZlFwNEJBSXc1LXczWEZGdw?oc=5",
+      "summary": "Gospel singer Israel Houghton's concert is a no-go in Indonesia over security concerns The Star",
+      "outlet": "The Star",
+      "outlet_url": "https://www.thestar.com.my",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-05T13:42:00Z",
+      "first_seen": "2026-10-05T14:44:24Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T02:44:24Z",
+      "image_tried": "2026-10-05T14:44:24Z"
+    },
     {
       "id": "99343883476db6ef",
       "title": "Pope Leo prays for Gaza victims: ‘How long, O Lord?’",
@@ -4348,7 +4441,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T02:42:37Z",
-      "image_tried": "2026-10-02T14:42:37Z"
+      "image_tried": "2026-10-05T14:44:24Z"
     },
     {
       "id": "e9d9393fe2dd943a",
@@ -4401,7 +4494,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T02:42:37Z",
-      "image_tried": "2026-10-02T14:42:37Z"
+      "image_tried": "2026-10-05T14:44:24Z"
     },
     {
       "id": "a11efa25234c6534",
@@ -10997,99 +11090,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "33b334242c2d8ac8",
-      "title": "About 3,000 people gather in Washington, DC, for rosary pilgrimage",
-      "link": "https://www.ewtnnews.com/world/us/washington-d-c-rosary-pilgrimage",
-      "summary": "The Dominican Friars of the Province of St. Joseph hosted the Sept. 26 event.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T19:25:00Z",
-      "first_seen": "2026-09-29T20:08:06Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790619367/ewtn-news/en/JB1_6137_v6bcit.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6e15675e5c3af74c",
-      "title": "Heather Thompson Day and Seth Day, Christian authors, arrested for alleged abuse",
-      "link": "https://religionnews.com/2026/09/29/heather-thompson-day-and-seth-day-christian-authors-arrested-for-alleged-abuse/",
-      "summary": "(RNS) — The Days are co-authors of a best-selling Christian book on relationships.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T19:19:02Z",
-      "first_seen": "2026-09-29T20:08:06Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-Heather-Thompson-Day1.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0940b262aeb70cda",
-      "title": "How Toronto Jews spread the Gospel of ‘Godspell’",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUZXUFlYZ0h4MlZ3YkdVSXBsVGkyTHhLbHNUd2xza0xscHM2ZlU3WjFiQmIwRUx4SDhmajYxYnFnb1U5VW9hbG5HRnFrQjMyZnRsNnF3V1lfeHBHZE9wbkxKRzZNWkVOYU4xLXdBTF9kOGNSbl9jV3gwcmFneFJOa09vMm1PUjdybWE4dS1lMHJqLXpkLTFvZDNYUE5zRDhPQUIxUTRn?oc=5",
-      "summary": "How Toronto Jews spread the Gospel of ‘Godspell’ The Forward",
-      "outlet": "The Forward",
-      "outlet_url": "https://forward.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-29T18:51:45Z",
-      "first_seen": "2026-09-29T19:39:32Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-09-30T07:39:32Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "b723592b658d492d",
-      "title": "Federal appeals court says historic cross, Nativity can remain in Los Angeles public square",
-      "link": "https://www.ewtnnews.com/world/us/federal-appeals-court-says-historic-cross-can-remain-in-los-angeles-public-square",
-      "summary": "Local merchants had rallied to save the historic monument alongside a Nativity display in Los Angeles’ 300-year-old historic center.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T18:45:00Z",
-      "first_seen": "2026-09-29T19:08:16Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1787755818/ewtn-news/en/RckMEQwQ_qc6abi.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6e472a724e50c0b4",
-      "title": "Former Oklahoma Baptist University President Bob Agee dies at 87",
-      "link": "https://www.christianpost.com/news/former-oklahoma-baptist-university-president-bob-agee-dies-at-87.html",
-      "summary": "Bob Agee, a former pastor and president of Oklahoma Baptist University who oversaw record enrollment at the academic institution, has died at the age of 87.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T18:37:00Z",
-      "first_seen": "2026-09-29T20:08:06Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272108_w_550_411_414_186.jpg?v=20260929143807",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
