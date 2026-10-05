@@ -1,8 +1,82 @@
 {
-  "generated_at": "2026-10-05T12:10:43Z",
+  "generated_at": "2026-10-05T12:48:32Z",
   "story_count": 600,
   "with_photo": 444,
   "items": [
+    {
+      "id": "39ab67c84d66d0a6",
+      "title": "Ex-Muslim Leads 100,000 to Jesus: ‘There Is Hunger in the Muslim World to Hear About Christ’",
+      "link": "https://mycharisma.com/news/ex-muslim-leads-100000-to-jesus-there-is-hunger-in-the-muslim-world-to-hear-about-christ/",
+      "summary": "Harun Ibrahim was born in Israel to Arab-Muslim parents, studied in a Jewish school, and married a devout Christian woman. After years of examining these religions, he was faced with a choice: Judaism, Christianity, or Islam. Ibrahim ultimately made a…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T12:33:12Z",
+      "first_seen": "2026-10-05T12:48:32Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "535b58645fad8ba2",
+      "title": "‘Not all of us end up divorcing our husbands’ — Mabel Okyere defends female gospel musicians",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYW02dV8tS0FQWUxsZ2J2SDBCRXVzLVoyVE1meFJXSkVaU3JrWkFwQ3NiWVBrWVlwMkZwS3ZiM2tucXJTUWQxM1JJaHZqX0w3SFZPTGM2QlhpYl8zclo5T3BVUTlNZHBDazg5QkQ1ajlMYmhMT1didlQzUFJjXy1DODdhaEJvU0FjcGxuR1dDZmhsSVhjdVgxcVctVm3SAZsBQVVfeXFMTjJ5NlZVcEpLTUZOX0tHN1V3X040YTR1Ykp2SXNjWFhZZWdncEtFTXZYc0o3eVJVeFU1czBmazQ2MjRRaHRlRlF5TEU1NWVIN2lEOGRneVBZN1dyNTYxUDZ4NFpCWUduLWloeG9qQmEwQ0JWa3RVR0YwLTQ5LUVoMklYb0h0ZVlYWDVfQ1ROTjVrUzZGZVVKUXJGVTg?oc=5",
+      "summary": "‘Not all of us end up divorcing our husbands’ — Mabel Okyere defends female gospel musicians Modern Ghana",
+      "outlet": "Modern Ghana",
+      "outlet_url": "https://www.modernghana.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-05T12:03:07Z",
+      "first_seen": "2026-10-05T12:48:32Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T00:48:32Z",
+      "image_tried": "2026-10-05T12:48:32Z"
+    },
+    {
+      "id": "ca80666778adb5c1",
+      "title": "Pope: Women’s contributions to Vatican must be increasingly recognized, valued",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-women-s-contributions-to-vatican-must-be-valued.html",
+      "summary": "Pope Leo XIV emphasises the importance of dialogue in resolving issues that arise in the workplace and highlights the need to recognize and appreciate the presence of women in the Vatican. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T12:03:00Z",
+      "first_seen": "2026-10-05T12:48:32Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2020/03/14/rome-4031866.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ecfc6817ef403d75",
+      "title": "Pope urges Korean priests and religious to ‘bear witness to reconciliation'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-korean-priests-religious-wyd-martyrs-reconciliation.html",
+      "summary": "In a meeting with Korean priests and religious, Pope Leo expresses his hope that those attending the 2027 Seoul World Youth Day will receive the faith of the Korean martyrs and “carry it out onto the roads of the world”. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-05T11:35:00Z",
+      "first_seen": "2026-10-05T12:48:32Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/05/13/1791198605119.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "47ec1e588229cac4",
       "title": "Faith-Based Movies Coming This Fall 2026: Release Dates and What Each Film Is About",
@@ -4437,7 +4511,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T00:46:19Z",
-      "image_tried": "2026-10-02T12:46:19Z"
+      "image_tried": "2026-10-05T12:48:32Z"
     },
     {
       "id": "86ea30921576ddf4",
@@ -11019,80 +11093,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "2f7a6406b7cffab9",
-      "title": "Vatican confirms abuse by founder of Institute of the Incarnate Word, orders renewal",
-      "link": "https://www.ewtnnews.com/vatican/vatican-confirms-abuse-by-founder-of-institute-of-the-incarnate-word-orders-renewal",
-      "summary": "The congregation must undertake a process of institutional purification after a canonical process determined that its founder, Carlos Miguel Buela, committed abuse against multiple victims.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T17:25:00Z",
-      "first_seen": "2026-09-29T18:09:52Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778178444/ewtn-news/en/cruz-shutterstock-060526-1778078178_fadip2.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2d76fbb441fa0c6a",
-      "title": "Michael, Gabriel, and Raphael: Meet the 3 great archangels of the Bible",
-      "link": "https://www.ewtnnews.com/world/us/the-three-great-archangels-of-the-bible-michael-gabriel-and-raphael",
-      "summary": "Today, on the feast of the archangels, we celebrate the powerful helpers sent by God throughout salvation history.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T16:45:00Z",
-      "first_seen": "2026-09-29T18:09:52Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/images/archangels092525",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cbc91f543a45403e",
-      "title": "Lindsay Clancy defense attorney Kevin Reddington accused of violating Constitution, likely faces bar complaint",
-      "link": "https://www.christianpost.com/news/lindsay-clancy-defense-attorney-accused-of-violating-constitution.html",
-      "summary": "The attorney for the lone holdout juror in the Lindsay Clancy murder trial argued that his client based his decision on a “mountain of evidence,” pushing back against the claim that the juror broke the law by refusing to side with the other eleven jurors.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T16:43:00Z",
-      "first_seen": "2026-09-29T18:09:52Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272100_w_550_309.jpg?v=20260929125929",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a41df420a7b2597c",
-      "title": "Highlander Studios Receives Dual Honors at 2026 CONTENT Christian Media Conference",
-      "link": "https://pathmegazine.com/articles/highlander-studios-receives-dual-honors-at-2026-content-christian-media-conference/",
-      "summary": "Highlander Studios, a Nashville-based media production company founded by veteran producers Marion MacKenzie and Russell Pyle, received two honors at the 2026 CONTENT Christian Media Conference, recognizing … The post Highlander Studios Receives Dual Honors…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T16:30:38Z",
-      "first_seen": "2026-09-29T17:07:35Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
     }
   ]
 }
