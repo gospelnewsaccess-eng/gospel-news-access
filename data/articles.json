@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T00:10:17Z",
+  "generated_at": "2026-10-05T00:49:28Z",
   "story_count": 600,
-  "with_photo": 440,
+  "with_photo": 439,
   "items": [
     {
       "id": "698ee20fd32a5dfb",
@@ -7027,6 +7027,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "96d1730c327197f7",
+      "title": "Should you have to pay to hear the Gospel?",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNejMwQUptT0poSUpjdldqWjltYnRkMUxlXzVVV2dlMTJhNG16LVNJRFJyUG5Rb0Yydk9VbnlCZHRBbEpyc01lNU1DeUZDUHg2cVd4TE1DVXdUa0F2VllSSXhJS004cS1pcE10MEpXY1VpYWVZMHRPSTRvT1B5RzRCQkNTYzNIQQ?oc=5",
+      "summary": "Should you have to pay to hear the Gospel? St. Louis American",
+      "outlet": "St. Louis American",
+      "outlet_url": "https://www.stlamerican.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-01T04:05:04Z",
+      "first_seen": "2026-10-05T00:49:28Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T00:49:28Z"
+    },
+    {
       "id": "00614f24fab40432",
       "title": "Same-sex marriage arguments are now selling polyamory",
       "link": "https://www.christianpost.com/voices/same-sex-marriage-arguments-are-now-selling-polyamory.html",
@@ -11062,25 +11079,6 @@
       "image": {
         "url": "https://blackchristiannews.com/wp-content/uploads/2026/09/image-15-1024x813.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9db585805b861626",
-      "title": "‘Paying attention in age of clickbait’ – 2027 World Communications Day theme",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-09/vatican-dicastery-releases-2027-world-communications-day-theme.html",
-      "summary": "The Vatican Dicastery for Communication releases the theme for the 2027 World Communications Day, which is “A New Gaze: Paying Attention in the Age of Clickbait.” Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T11:19:00Z",
-      "first_seen": "2026-09-29T12:09:47Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2025/06/15/10/1749975122797.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
