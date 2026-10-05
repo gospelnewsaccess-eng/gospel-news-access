@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-05T08:10:22Z",
+  "generated_at": "2026-10-05T08:44:11Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 444,
   "items": [
+    {
+      "id": "f743be56d5f45c85",
+      "title": "Joann Askoff Dies At 89: Pastor Rod Parsley Honors A Woman Who Helped Shape Generations At World Harvest",
+      "link": "https://www.jubileecast.com/articles/39970/20261005/joann-askoff-dies-at-89-pastor-rod-parsley-honors-a-woman-who-helped-shape-generations-at-world-harvest.htm",
+      "summary": "Joann Askoff Dies At 89: Rod Parsley Honors A Woman Who Helped Shape Generations At World Harvest",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-05T07:23:04Z",
+      "first_seen": "2026-10-05T08:44:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32066/joann-askoff.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6e35eb6bdd7bbbbe",
       "title": "Kirk Franklin, Josiah Queen, Skillet and More: What’s Coming In Christian Music This October?",
@@ -15,7 +34,10 @@
       "category": "gospel",
       "published": "2026-10-05T07:15:00Z",
       "first_seen": "2026-10-05T07:43:45Z",
-      "image": null,
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28617/josiah-queen.jpg",
+        "via": "media:content"
+      },
       "breaking": true,
       "breaking_expires_at": "2026-10-05T19:43:45Z",
       "image_tried": "2026-10-05T07:43:45Z"
@@ -279,6 +301,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-05T11:39:26Z",
       "image_tried": "2026-10-04T23:39:26Z"
+    },
+    {
+      "id": "a204eb71bb7b1b54",
+      "title": "Dr. Kathryn Kemp Presents a Program about Thomas A. Dorsey October 5",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaFNKR1NIVURLajA1dGc4cmIxd3pfbGVKV3U4WU5NdFlVU2dkVjB1M1ZSc2hCVjUyMWJ1YUdFclo4d19jc09hanFJOFBDQU5jNEpIektrcGVlNFhCQ2dRU3EzbC1ZY2gtWl9jT3NsSmxMTHJuOWo3SE9XMTMyM0VqT1RNcjVxUWZzRFpRemZodC1Td09aRmFEcjRtR1dMLXdjN1pGb2ExcG9rZw?oc=5",
+      "summary": "Dr. Kathryn Kemp Presents a Program about Thomas A. Dorsey October 5 Journal of Gospel Music",
+      "outlet": "Journal of Gospel Music",
+      "outlet_url": "https://journalofgospelmusic.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-04T23:21:36Z",
+      "first_seen": "2026-10-05T08:44:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-05T08:44:11Z"
     },
     {
       "id": "95a040ffc968b00d",
@@ -10334,7 +10373,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-02T08:40:09Z"
+      "image_tried": "2026-10-05T08:44:11Z"
     },
     {
       "id": "a0519fd220b4cd9e",
@@ -11054,42 +11093,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "a31eb99ac0377537",
-      "title": "Cardinal Zuppi visits Russia to urge release of Ukrainian prisoners",
-      "link": "https://www.ewtnnews.com/vatican/cardinal-zuppi-visits-russia-to-urge-release-of-ukrainian-prisoners",
-      "summary": "Pope Leo XIV appointed the Italian cardinal to lead a humanitarian peace mission in Russia from Sept. 28–30.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-29T14:45:55Z",
-      "first_seen": "2026-09-29T15:10:25Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745613466/images/dsc5258.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "635d2562ab40dc95",
-      "title": "CEDRIC BALLARD DELIVERS POWERFUL LIVE PERFORMANCE IN NEW “HE WON’T FAIL” OFFICIAL MUSIC VIDEO",
-      "link": "https://pathmegazine.com/articles/cedric-ballard-delivers-powerful-live-performance-in-new-he-wont-fail-official-music-video/",
-      "summary": "Cedric Ballard is bringing his powerful message of faith to the screen with the release of the official music video for “He Won’t Fail,” the title track … The post CEDRIC BALLARD DELIVERS POWERFUL LIVE PERFORMANCE IN NEW “HE WON’T FAIL” OFFICIAL MUSIC VIDEO…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-29T14:43:09Z",
-      "first_seen": "2026-09-29T15:10:25Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
     }
   ]
 }
