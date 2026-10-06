@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-06T15:10:26Z",
+  "generated_at": "2026-10-06T15:41:13Z",
   "story_count": 600,
   "with_photo": 450,
   "items": [
+    {
+      "id": "421f520dd3638a65",
+      "title": "A look at the progress, process and power of the ongoing, sacred project to update the Church’s music collection",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQkNIUlVHTUppYUZTSHZra0dfLVFqUS05LWNxRnJvQ0JxZVZHTFBRMTBjZUxxS3VVU0l4RWhwcWhkQnh6b2E5elM4Nm5PUWdMZDhmSE1QTEVtUnVCRlRtWEZqTkxIekctMzZ5NUpibmhyVjdKdHFOOTkxMjg5WUU3dEplcjFqQzkyMzVYaDhlRHEtQXY1RGpJZGd4b0ZHaTFtUzBZa0N5TWRBLVk5YkxsYmp0THNkMUdMekhaQ2taUEE1N21SNXh0THlVcXd0eTB0RXFF?oc=5",
+      "summary": "A look at the progress, process and power of the ongoing, sacred project to update the Church’s music collection thechurchnews.com",
+      "outlet": "thechurchnews.com",
+      "outlet_url": "https://www.thechurchnews.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-06T15:30:28Z",
+      "first_seen": "2026-10-06T15:41:13Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-07T03:41:13Z",
+      "image_tried": "2026-10-06T15:41:13Z"
+    },
     {
       "id": "50878aa6da7107de",
       "title": "Swastikas, racist slurs painted on a playground and a golf course outside Philadelphia",
@@ -11086,23 +11103,6 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "f8d163f5171a4f11",
-      "title": "1 in 6 Protestant churchgoers attends a megachurch",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYmNCcFBtQ3h1ZWtPc2E1WWZjTm1FdV9ZQlBfd1B2ZlVzcTUtamlmYk1Scjl3QnNJMDZqckpROVU4czk0aUFpd0V0clNiajNqMjlkZExfbGthRzlQUGp1WTMtdHB0SVVLOWtqY09RSHdaelVRVzJUcWx4c1FobjVaOWRwYzdqX3Rac0V0ejNiMllaeHNOS2NuTkhtT0d4XzVZVmJVVA?oc=5",
-      "summary": "1 in 6 Protestant churchgoers attends a megachurch Baptist Press",
-      "outlet": "Baptist Press",
-      "outlet_url": "https://www.baptistpress.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-30T18:43:08Z",
-      "first_seen": "2026-09-30T19:38:38Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-01T07:38:38Z",
       "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
