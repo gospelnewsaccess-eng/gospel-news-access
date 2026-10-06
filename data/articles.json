@@ -1,8 +1,122 @@
 {
-  "generated_at": "2026-10-06T20:06:53Z",
+  "generated_at": "2026-10-06T20:41:54Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 449,
   "items": [
+    {
+      "id": "5aabb8f3500bfd6f",
+      "title": "1,000 Christian Leaders Gather in Israel to Honor Oct 7 Victims, Stand With Survivors",
+      "link": "https://mycharisma.com/news/1000-christian-leaders-gather-in-israel-to-honor-oct-7-victims-stand-with-survivors/",
+      "summary": "More than 1,000 Christian leaders, community leaders and influencers from 117 countries are arriving in Israel to stand with Oct. 7 survivors, visit massacre sites and carry their testimonies home, Israel365 News reported. The Friends of Zion Ambassador…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T20:13:54Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "db512dabfbc3b792",
+      "title": "Andy Beshear wants Americans to emulate the Good Samaritan, not Trump",
+      "link": "https://religionnews.com/2026/10/06/andy-beshear-wants-americans-to-emulate-the-good-samaritan-not-trump/",
+      "summary": "NAPERVILLE, Illinois (RNS) — Beshear's book tour to promote 'Go and Do Likewise,' a book about faith and politics, has been seen as a precursor to a run for president in 2028.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T20:11:41Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": {
+        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Beshear-Book1-243x369.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6514eb475d3595d3",
+      "title": "Robert Jeffress says Talarico 'not a Christian;' Democratic Party advocates 'evil'",
+      "link": "https://www.christianpost.com/news/robert-jeffress-says-talarico-not-a-christian.html",
+      "summary": "First Baptist Dallas Pastor Robert Jeffress recently reiterated his assertion that the Democratic Party has been reduced to openly advocating for sin and offered U.S. Senate candidate James Talarico as a particular example.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T20:03:52Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272202_w_550_370_561_238.jpg?v=20261006160710",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "926c3b41b575a9ef",
+      "title": "Caleb Flynn’s Daughters Confront Him Over Their Mother’s Murder: “I Don’t Plan On Coming To See You”",
+      "link": "https://www.jubileecast.com/articles/40013/20261006/caleb-flynn-s-daughters-confront-him-over-their-mother-s-murder-i-don-t-plan-on-coming-to-see-you.htm",
+      "summary": "Caleb Flynn’s Daughters Confront Him Over Their Mother’s Murder: “I Don’t Plan On Coming To See You”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T19:59:44Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31936/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "818fecaa4c287d93",
+      "title": "Erwin Lutzer’s New Book On Marx And Moody Raises A Hard Question For Today’s Church",
+      "link": "https://www.jubileecast.com/articles/40012/20261006/erwin-lutzer-s-new-book-on-marx-and-moody-raises-a-hard-question-for-today-s-church.htm",
+      "summary": "Erwin Lutzer’s New Book On Marx And Moody Raises A Hard Question For Today’s Church",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T19:49:58Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/20054/erwin-w-lutzer.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "322d2cc2a7e50648",
+      "title": "Tennessee bishops call for end to death penalty; Trump approves military firing squad execution",
+      "link": "https://www.ewtnnews.com/world/us/tennessee-bishops-call-for-ending-death-penalty-trump-approves-military-firing-squad-execution",
+      "summary": "“Accountability for grave wrongdoing is necessary, but it does not require the taking of another life,” the bishops wrote.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T19:40:00Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745612431/images/Death%20penalty%20felipe%20caparros%20Shutterstock.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "da57bc9a9564f3a0",
       "title": "Marjoe Gortner Dies At 82: What Did The Child Preacher’s Rise And Exposé Reveal About Religious Fame?",
@@ -338,6 +452,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-07T05:40:50Z",
       "image_tried": "2026-10-06T17:40:50Z"
+    },
+    {
+      "id": "cde8b1f97f2a8bd1",
+      "title": "Harlem-born R&B singer Freddie Jackson dies at 70",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT1ZHeGpJV1BaU21qNEpENzljUExvbkdRZWh0VER0NUhtTFFSRm9YalA0WXJ3T1VaU2dZeFl0aVZUMElPUTdXbWFmR25MSkVBVkV5dW83R0t6UmMtcF9DSGgyVEhKYml1b1pobi1oaWN6ZG9TNE95a0Vfa0czTmdhTU54a0pVeU45UXViZlU2bTZ5bVBPenc?oc=5",
+      "summary": "Harlem-born R&B singer Freddie Jackson dies at 70 New York Amsterdam News",
+      "outlet": "New York Amsterdam News",
+      "outlet_url": "https://amsterdamnews.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T16:55:30Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T20:41:54Z"
     },
     {
       "id": "6ca75975f48bc7f6",
@@ -3691,6 +3822,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "937c315f23279077",
+      "title": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Gdk82YldxaGxwQkxJdXJUbXBrMVd6RkZHY255VVYxQ05tV05nckN4RUxrTS1xZ25oTVJKS2tTMnhNSjJxZXAyTWR5WTBKV0JsWkRocjJ3WVFmRmdPQTN1S1hiRmQ?oc=5",
+      "summary": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead The San Diego Voice & Viewpoint",
+      "outlet": "The San Diego Voice & Viewpoint",
+      "outlet_url": "https://sdvoice.info",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-05T06:00:00Z",
+      "first_seen": "2026-10-06T20:41:54Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T20:41:54Z"
+    },
+    {
       "id": "2876e4c919d63014",
       "title": "More Sabah leaders want gospel concert to go on",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVDFqUnBhbUlmOEF5TGd5NVdJTVVXa0tYOGZoZ0EtZlZNWEhWTWVYdl83T2p4MGlLU3JsQUVIU0E3NW5YNG02dkQtRFhEblE4QkZ3eHRnR0xXMUdWUWxZQi1MdmtyR2ZqNlhxbG04Y2l0YjZqVUtHb2RCamlySDFUbnRCOVltWDhSSXZja1JnMVlRWWZ4M1lZd0lYc0FRZw?oc=5",
@@ -5290,7 +5438,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-04T08:09:59Z",
-      "image_tried": "2026-10-03T20:09:59Z"
+      "image_tried": "2026-10-06T20:41:54Z"
     },
     {
       "id": "2ad8b9b1a30e106e",
@@ -5778,7 +5926,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
+      "image_tried": "2026-10-06T20:41:54Z"
     },
     {
       "id": "e0778e80f9746b8a",
@@ -10949,156 +11097,6 @@
       "first_seen": "2026-10-01T06:11:13Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29055/rihanna.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f7f4d4e7d0366dbd",
-      "title": "Are DWTS Stars Adele Zaikman And Allen Genkin More Than Dance Partners? A Birthday Post Fuels The Romance Buzz",
-      "link": "https://www.jubileecast.com/articles/39856/20261001/are-dwts-stars-adele-zaikman-and-allen-genkin-more-than-dance-partners-a-birthday-post-fuels-the-romance-buzz.htm",
-      "summary": "Are DWTS Stars Adele Zaikman And Allen Genkin More Than Dance Partners? A Birthday Post Fuels The Romance Buzz",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T05:05:19Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32004/adele-zaikman-and-allen-genkin.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "765cc444ac2015b0",
-      "title": "What Is Farrah Abraham Facing After Major Jaw Surgery? Inside The Teen Mom Star’s Difficult Recovery",
-      "link": "https://www.jubileecast.com/articles/39855/20261001/what-is-farrah-abraham-facing-after-major-jaw-surgery-inside-the-teen-mom-star-s-difficult-recovery.htm",
-      "summary": "What Is Farrah Abraham Facing After Major Jaw Surgery? Inside The Teen Mom Star’s Difficult Recovery",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T05:00:36Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32003/farrah-abraham.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0c3577a0b5f703a4",
-      "title": "Jim Carrey Once Said He Wouldn’t Marry Again—What Changed With Min Ah?",
-      "link": "https://www.jubileecast.com/articles/39854/20261001/jim-carrey-once-said-he-wouldn-t-marry-again—what-changed-with-min-ah.htm",
-      "summary": "Jim Carrey Once Said He Wouldn’t Marry Again—What Changed With Min Ah?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T04:50:31Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32002/jim-carrey.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b3f2c5921b36daa1",
-      "title": "Golf Legend Phil Mickelson Sought Addiction Treatment—What Is Known About His Private Struggle?",
-      "link": "https://www.jubileecast.com/articles/39853/20261001/golf-legend-phil-mickelson-sought-addiction-treatment—what-is-known-about-his-private-struggle.htm",
-      "summary": "Golf Legend Phil Mickelson Sought Addiction Treatment—What Is Known About His Private Struggle?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T04:39:31Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32001/phil-mickelson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5e4397d45479fa95",
-      "title": "3 pollution threats deadlier than climate change in Asia",
-      "link": "https://www.christianpost.com/voices/3-pollution-threats-deadlier-than-climate-change-in-asia.html",
-      "summary": "For much of Asia, the environmental emergency is not a hypothetical projection for the year 2100. It is the daily reality of polluted land, air and water, and the poor are paying for leaders' misplaced priorities.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T04:05:30Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272128_w_550_367_621_396.jpg?v=20261001000634",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "96d1730c327197f7",
-      "title": "Should you have to pay to hear the Gospel?",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNejMwQUptT0poSUpjdldqWjltYnRkMUxlXzVVV2dlMTJhNG16LVNJRFJyUG5Rb0Yydk9VbnlCZHRBbEpyc01lNU1DeUZDUHg2cVd4TE1DVXdUa0F2VllSSXhJS004cS1pcE10MEpXY1VpYWVZMHRPSTRvT1B5RzRCQkNTYzNIQQ?oc=5",
-      "summary": "Should you have to pay to hear the Gospel? St. Louis American",
-      "outlet": "St. Louis American",
-      "outlet_url": "https://www.stlamerican.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-01T04:05:04Z",
-      "first_seen": "2026-10-05T00:49:28Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-05T00:49:28Z"
-    },
-    {
-      "id": "00614f24fab40432",
-      "title": "Same-sex marriage arguments are now selling polyamory",
-      "link": "https://www.christianpost.com/voices/same-sex-marriage-arguments-are-now-selling-polyamory.html",
-      "summary": "The same arguments once made for same-sex marriage (the Bible isn't clear, God is on the side of love) are now being used to normalize polyamory. Christians should recognize the playbook and be ready to answer it.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T04:04:17Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272117_w_550_412_373_206.jpg?v=20261001000538",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a5fc490f52bab883",
-      "title": "Why is God silent?",
-      "link": "https://www.christianpost.com/voices/why-is-god-silent.html",
-      "summary": "We all love when God answers prayers quickly. But silence is the great test of faith, and waiting time is not wasted time. It's when we truly develop our relationship with the Lord.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T04:02:45Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272122_w_550_367_391_334.jpg?v=20261001000446",
         "via": "media:content"
       },
       "breaking": false,
