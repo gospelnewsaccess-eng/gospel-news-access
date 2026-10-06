@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-06T08:41:43Z",
+  "generated_at": "2026-10-06T09:09:10Z",
   "story_count": 600,
-  "with_photo": 438,
+  "with_photo": 439,
   "items": [
+    {
+      "id": "1870f28b24c722d3",
+      "title": "Pope Leo XIV: Marital love is tireless and faithful ‘Yes’ for a lifetime",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-foreword-youcat-love-forever-marriage.html",
+      "summary": "Pope Leo XIV pens the foreword for a new edition of “YOUCAT: Love Forever,” a book to accompany young people in reflecting on love, relationships, and marriage in the light of the Catholic faith. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T08:21:00Z",
+      "first_seen": "2026-10-06T09:09:10Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/09/2026-09-09-udienza-generale/1788949522599.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "dc28732c9f52f17f",
       "title": "BREAKING! The Scandal-Machine Preacher, Jim Bakker, has met his Maker",
@@ -4824,7 +4843,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T20:43:39Z",
-      "image_tried": "2026-10-03T08:43:39Z"
+      "image_tried": "2026-10-06T09:09:10Z"
     },
     {
       "id": "a3f362ab4ff352bb",
@@ -4898,7 +4917,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T20:43:39Z",
-      "image_tried": "2026-10-03T08:43:39Z"
+      "image_tried": "2026-10-06T09:09:10Z"
     },
     {
       "id": "5543185c8b5b432b",
@@ -11063,23 +11082,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T03:42:51Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "4d04493940d072ea",
-      "title": "Tauren Wells on how pastoring has changed him, burnout, and rediscovering God’s Presence",
-      "link": "https://pathmegazine.com/articles/tauren-wells-on-how-pastoring-has-changed-him-burnout-and-rediscovering-gods-presence/",
-      "summary": "For Tauren Wells, planting a church initially seemed like an opportunity to pour his gifts and vision into serving God. But the experience ultimately became a deeply … The post Tauren Wells on how pastoring has changed him, burnout, and rediscovering God’s…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T15:11:27Z",
-      "first_seen": "2026-09-30T15:11:49Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
       "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
