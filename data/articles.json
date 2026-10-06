@@ -1,8 +1,139 @@
 {
-  "generated_at": "2026-10-06T17:07:42Z",
+  "generated_at": "2026-10-06T17:40:50Z",
   "story_count": 600,
-  "with_photo": 441,
+  "with_photo": 444,
   "items": [
+    {
+      "id": "bc3e5837e13f260b",
+      "title": "Freddie Jackson Dies: What His Family Has Confirmed About the \"You Are My Lady\" Singer",
+      "link": "https://www.jubileecast.com/articles/40003/20261006/freddie-jackson-dies-family-confirms-you-are-my-lady-singer.htm",
+      "summary": "Freddie Jackson Dies: What His Family Has Confirmed About the \"You Are My Lady\" Singer",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T17:42:39Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32083/freddie-jackson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1185970a2d485e9b",
+      "title": "Stunning Biblical Discoveries Emerge Near Jerusalem’s Temple Mount",
+      "link": "https://mycharisma.com/news/stunning-biblical-discoveries-emerge-near-jerusalems-temple-mount/",
+      "summary": "The deeper archaeologists dig beneath Jerusalem, the more of the Bible comes to life. From the Pool of Siloam to the ancient Pilgrimage Road leading toward the Temple Mount, discoveries across Jerusalem’s City of David are revealing a physical landscape…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T17:40:54Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a1378807e40b09a1",
+      "title": "BLUE POINT CHURCH TO CELEBRATE 129TH HOMECOMING SUNDAY",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnJjWTBXckxwT01OOUpPSF9iNTdxYUEwV2QwSkRaQUFoVFo4WnBlbHA2SmFqOURycUxJSEJoNHg0ZDQ1RGk5RTRjRXNMTkpPcFJqallVcDBqVng2c29QWnFDX3B6Sm02MFJDOW5qdzRoYnNwNWFfejNJSVdRTVJYaWNpcWdrXzBWSnJORG5xZGc2V3lQTTNr?oc=5",
+      "summary": "BLUE POINT CHURCH TO CELEBRATE 129TH HOMECOMING SUNDAY WFIW",
+      "outlet": "WFIW",
+      "outlet_url": "https://www.wfiwradio.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-06T17:05:20Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-07T05:40:50Z",
+      "image_tried": "2026-10-06T17:40:50Z"
+    },
+    {
+      "id": "6ca75975f48bc7f6",
+      "title": "‘Not a happy result’: Federal bankruptcy court rejects Diocese of Oakland settlement plan",
+      "link": "https://www.ewtnnews.com/world/us/not-a-happy-result-federal-bankruptcy-court-rejects-diocese-of-oakland-settlement-plan",
+      "summary": "Judge William Lafferty said the diocese had not settled bankruptcy requirements and did not qualify for a special religious dispensation in the proceedings.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T16:54:44Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1777562460/OaklandCA_tavwe1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8ab98d130e886f6f",
+      "title": "Republicans try to protect ministry students from losing federal aid under new Trump rules",
+      "link": "https://www.christianpost.com/news/republicans-try-to-protect-ministry-students-from-losing-aid.html",
+      "summary": "The United States Senate is considering a proposed bill that would stop college students pursuing religious vocations from being denied access to federal aid via a new earnings test.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T16:54:00Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272198_w_550_367_600_402.jpg?v=20261006131024",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "18fce56db93da912",
+      "title": "The Soviet Union Possessed The Most Sophisticated Offensive Biological Weapons Program In Human History And They Weaponized The Plague",
+      "link": "https://mycharisma.com/most-recent/the-soviet-union-possessed-the-most-sophisticated-offensive-biological-weapons-program-in-human-history-and-they-weaponized-the-plague/",
+      "summary": "Pneumonic plague is extremely deadly and it is the only form of the plague that can spread from person to person. If it were to start spreading around the globe, the level of panic that we would witness would be off the charts. The death of a Russian…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T16:44:27Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9cc6e60d19afa11e",
+      "title": "Pope Leo to visit Assisi 40 years after historic prayer meeting",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-assisi-40-years-john-paul-2-religions-peace-prayer.html",
+      "summary": "From October 25 to 27, Assisi will host an interreligious peace prayer, the 40th annual meeting in a series initiated by Pope St John Paul II. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T16:20:00Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/06/30/01526_PERUGIA-ASSISI1986.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "daf94d7260ce11a1",
       "title": "What does it mean to be made in God’s image?",
@@ -36,6 +167,44 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-07T04:09:45Z",
       "image_tried": "2026-10-06T16:09:45Z"
+    },
+    {
+      "id": "b64f9d2634308825",
+      "title": "Erwin Lutzer contrasts competing ‘gospels’ of Karl Marx, Dwight Moody in new book",
+      "link": "https://www.christianpost.com/books/erwin-lutzer-contrasts-competing-gospels-of-marx-dwight-moody.html",
+      "summary": "Erwin Lutzer, the 85-year-old author and former longtime senior pastor of The Moody Church of Chicago, Illinois, has coauthored a book contrasting the very different lives, legacies, and worldviews of 19th century contemporaries Karl Marx and Dwight L. Moody.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T15:59:36Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272189_w_550_541_386_129.jpg?v=20261006120155",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bf248d15f2075410",
+      "title": "Michael Tait accuser responds after pastor posed for photo with former Newsboys frontman",
+      "link": "https://www.christianpost.com/news/michael-tait-accuser-responds-after-pastor-posts-photo.html",
+      "summary": "One of the men who accused former Newsboys lead singer Michael Tait of sexual assault is criticizing a pastor who posed for a photo with the contemporary Christian musician and called the Christian artist's actions a “stumble.”",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T15:43:00Z",
+      "first_seen": "2026-10-06T17:40:50Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272193_w_550_367_586_340.jpg?v=20261006114432",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "e2b1281d5d065ead",
@@ -10922,169 +11091,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-05T01:41:17Z"
-    },
-    {
-      "id": "fc33378d3c1a78c6",
-      "title": "Museum of Christian & Gospel Music Prepares to Celebrate First Anniversary in October",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUFxTEt4ejNQUWhTMGdHM3NXdjF6NHNJUEpIeHdNYnhaRWNMRFcyZmFVaE5HekFLTDVBaWVSNHhuUUNlZXN6SE82SWRZUlZmQmdIdEdFSzhHd3RGX29XMkpCSGdUNkNaeTJRZGpTeDBIR1RBUEViNkU4N2dJcGItbjJGX0pxX09ybGlWbG0yamV0UmxDYUZlZDFBaE5uMHZyWXBBZENLb2V2QURIckptdVNGNldkWTlRYU1WOUpnSFdGSEQ5M0tPdDBn?oc=5",
-      "summary": "Museum of Christian & Gospel Music Prepares to Celebrate First Anniversary in October EIN Presswire",
-      "outlet": "EIN Presswire",
-      "outlet_url": "https://www.einpresswire.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T22:38:00Z",
-      "first_seen": "2026-09-30T23:38:13Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-01T11:38:13Z",
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "7dc770b5425e93db",
-      "title": "Victim testimony begins in sexual abuse trial for son of New Albany megachurch leaders",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTGF6cGV3WkRBcFVvcGtUcE44QXhubm1Cak1wNXEyeFhJdXZja3RMX05SS2FrUkFOZU52YjlxN2tvTFdRNndydkRsSDJjakE2Ymk3OWxYVXEyZXdmOUl4U0loYzJaWWtkWEp4OXhIT1B6bGVSaFJCYlZLaUFjSlVHUjlYOTlOVnpoUmYydm5pSFVsa2lXN3BTYWluNS1uUFdkUkVhWGdVR2dHc2lOS2EzdHNEbHZHeUwySlZ4OTg0ckRsLWRSV213U0tuMWktRHdqVDRrWW1kM0Ntdktxemg4UEVOZ1kyTVFo?oc=5",
-      "summary": "Victim testimony begins in sexual abuse trial for son of New Albany megachurch leaders 10TV",
-      "outlet": "10TV",
-      "outlet_url": "https://www.10tv.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-30T22:12:00Z",
-      "first_seen": "2026-09-30T22:40:17Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-01T10:40:17Z",
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "0f84781e50c6349f",
-      "title": "Being a businessman is a vocation and a path to holiness, Catholic expert says",
-      "link": "https://www.ewtnnews.com/world/americas/being-a-businessman-is-a-vocation-and-a-path-to-holiness-catholic-expert-says",
-      "summary": "In the business vocation, “God invites the entrepreneur to assist in his creation, to improve it, and to make it more habitable for humanity,” noted Luis Fernando Calvo.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T21:51:41Z",
-      "first_seen": "2026-09-30T23:06:13Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790785680/ewtn-news/en/Equipo-empresa-Shutterstock-290926_nwm59n_pp5txa.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a480f5964eaea016",
-      "title": "Lindsay Clancy holdout juror speaks out about trial, says '3 angels' can't 'speak for themselves'",
-      "link": "https://www.christianpost.com/news/michael-desronvil-speaks-out-about-lindsay-clancy-case.html",
-      "summary": "Michael Desronvil, the holdout juror in the Lindsay Clancy case, is standing by his view that the mother of three is guilty of killing her children. He described the children as “three angels” who cannot “speak for themselves” and is publicly proclaiming his…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T21:28:00Z",
-      "first_seen": "2026-09-30T22:07:04Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272124_w_550_369_555_336.jpg?v=20260930172854",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3aad5cc17138bd6d",
-      "title": "Motown Gospel/TAMLA Promotes Justin Tomlinson to VP of Marketing",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnZfT2NPUHFaMVByYkhuS0JpaE1uUHJuRlN3THhYRDVWQUhKWHhhSFMyMjVWcHhCeFhBOHN4SENQcFRzZ0haTkdHRFllQW5Ybjh5RnRjTmpVMVNVNUw1VVhSbXB3eG82VkgxaDI2SnBxcGNLVWV0WXFyMmVjTmFUM0F0N1Q2R3JsTUFwRTBiY0NpaTluMlE2Sw?oc=5",
-      "summary": "Motown Gospel/TAMLA Promotes Justin Tomlinson to VP of Marketing Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T21:28:00Z",
-      "first_seen": "2026-09-30T23:38:13Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "b0ff45da957bee74",
-      "title": "27th Annual NSAI Song Contest Now Open, Matthew West Among Grand Prize Mentors",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2VqOUIxaVpMbmVwY0NFVVV5WHdBZDdFbll2YVNESFBNN2V0UG5JNmpneTJDY1I2SVZaekpRblZ6S1JKQkZwanlnNUlmdGM2WDJwVVBUdEg0dmU0alI0dFR2ekJpdWFGLUhQck15M21mUS1mejFvaFVjX3BGTUs2NnREaUZWanpOYWZTb1M0SFhRNTA2akJQTzlRUm1DcjdzRnlXVnFnR1pUZw?oc=5",
-      "summary": "27th Annual NSAI Song Contest Now Open, Matthew West Among Grand Prize Mentors Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T21:28:00Z",
-      "first_seen": "2026-09-30T23:38:13Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "89bd36e871e5fe9b",
-      "title": "U.S. bishops post $43.6M gain despite refugee-program revenue plunge",
-      "link": "https://www.ewtnnews.com/world/us/u-s-bishops-post-usd43-6m-gain-despite-refugee-program-revenue-plunge",
-      "summary": "Suspended federal funding made the refugee‑resettlement program grants financially unsustainable and forced staff cuts, the U.S. bishops’ financial report said.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T20:53:23Z",
-      "first_seen": "2026-09-30T22:07:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790797708/ewtn-news/en/GettyImages-977060272_n4n4p0.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e7e4788304d3b712",
-      "title": "‘Effectively Sharia Law’: Newsom Signs Law Prioritizing Muslim State Holidays",
-      "link": "https://mycharisma.com/news/effectively-sharia-law-newsom-signs-law-prioritizing-muslim-state-holidays/",
-      "summary": "California is now officially recognizing two Islamic holidays after Gov. Gavin Newsom signed legislation making Eid al-Fitr and Eid al-Adha official state holidays. The law gives Muslim state workers the right to take those days off, and public schools may…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T20:45:24Z",
-      "first_seen": "2026-09-30T21:07:05Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1b0ae66171256d3f",
-      "title": "Do federal immigration agents make arrests at churches? Depends on what day you ask.",
-      "link": "https://religionnews.com/2026/09/30/trump-officials-insist-immigration-agents-havent-arrested-people-at-churches-they-have/",
-      "summary": "(RNS) — Over the past year, the Trump administration has issued contradictory and, at times, seemingly false statements about whether federal agents have conducted operations at churches.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T20:26:53Z",
-      "first_seen": "2026-09-30T21:07:05Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2025/06/webRNS-LA-Pastor-Immigration2-223x369.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
