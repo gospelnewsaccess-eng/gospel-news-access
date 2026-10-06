@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-06T11:41:04Z",
+  "generated_at": "2026-10-06T12:09:41Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 445,
   "items": [
+    {
+      "id": "0cd106bc4c59d5a7",
+      "title": "Is the Russian Plague Scare Another COVID? What WHO Says, and How Christians Can Respond With Faith, Not Fear",
+      "link": "https://www.jubileecast.com/articles/40002/20261006/russia-plague-scare-who-says-risk-low-how-christians-should-respond.htm",
+      "summary": "Is the Russian Plague Scare Another COVID? What WHO Says, and How Christians Can Respond With Faith, Not Fear",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T11:31:35Z",
+      "first_seen": "2026-10-06T12:09:41Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32082/personal-protective-equipment.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "fdd6d92f8d2e4826",
       "title": "Ben Affleck Confirms AI Was Used in Netflix's \"Animals\": What He Said and What He Won't Reveal",
@@ -42,6 +61,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "ce2fe949fac2c2fe",
+      "title": "EU bishops warn about risks of deleting names from baptismal records",
+      "link": "https://www.ewtnnews.com/world/europe/eu-bishops-warn-of-the-risk-of-deleting-names-from-baptismal-regcords",
+      "summary": "The case involves a Belgian citizen who has left the Church and has requested his name be deleted from the baptismal records and whether the Church under EU law has the right to decline to do so.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T11:00:00Z",
+      "first_seen": "2026-10-06T12:09:41Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791226776/ewtn-news/en/bautizo-01-1760355114_bsg3uq.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "3f3e5ccf5b37738b",
       "title": "Meteor Shower This Week: When to Watch the Draconids Peak Thursday Night",
       "link": "https://www.jubileecast.com/articles/40000/20261006/meteor-shower-this-week-when-to-watch-draconids-peak-thursday-night-2026.htm",
@@ -55,6 +93,25 @@
       "first_seen": "2026-10-06T11:08:14Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32080/draconids-meteor-shower.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9cc701f8c3dc28fb",
+      "title": "Televangelist Jim Bakker dies at 86",
+      "link": "https://www.christianpost.com/news/controversial-televangelist-jim-bakker-dies-at-86.html",
+      "summary": "Jim Bakker, the controversial televangelist who once owned one of the most popular theme parks in the United States but later went to prison for his financial misconduct, has died at age 86.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T10:50:47Z",
+      "first_seen": "2026-10-06T12:09:41Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272197_w_550_300.jpg?v=20261006073516",
         "via": "media:content"
       },
       "breaking": false,
@@ -11036,59 +11093,6 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-01T05:39:37Z",
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "bf8b45a68d49b40f",
-      "title": "Judge dismisses most of David Sills’ claims against SBC leaders, orders settlement conference",
-      "link": "https://religionnews.com/2026/09/30/judge-dismisses-most-sills-claims-against-sbc-leaders-orders-settlement-conference/",
-      "summary": "(RNS) — A federal judge ruled a defamation claim filed by former professor David Sills, who lost his job to sexual misconduct allegations, could go forward against the SBC's Executive Committee, Guidepost Solutions, Al Mohler and Southern Seminary.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T16:29:50Z",
-      "first_seen": "2026-09-30T17:07:59Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2025/06/webRNS-Lyell-Funeral4.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "123fd9d2834021d4",
-      "title": "NC Trend: A Christian music festival grows in a rural setting, helping reach souls and fill hotel rooms.",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaXpYRVoyUk5mdEZQdVRFVzJaZEtKNVZrdTBtTUQ2VGJCSFdQM1lCM3E4R1lyODEzNWV4ZmV5OC1qOUtxcGRhQ0tOOE9JM2tvZnRDV0JTTmpQV2VmUnB1Z3A5QzlGaUxuUEdjZEdlcWJ2TjBJdGVXUGJON2lUQS0xenEyTUwtXzRfckpJSTNoMUZ0U3h2OXdQRFVrSW5YMmhXZndTTFN0WnNld1R4MDlZYUJ6dnVrQUlQbTFCZklWNzAyQlk?oc=5",
-      "summary": "NC Trend: A Christian music festival grows in a rural setting, helping reach souls and fill hotel rooms. Business North Carolina",
-      "outlet": "Business North Carolina",
-      "outlet_url": "https://businessnc.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-30T16:04:49Z",
-      "first_seen": "2026-09-30T23:38:13Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "a7e6846e6b0c301b",
-      "title": "Music Services Welcomes Nick LaPointe, Elevates Jay Sudarma",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX29vUnNfRDU0VnpTOGdnWXdpS2hsT09JU1Q1QnBHQ0NlYUppb2VjVFlLekZONHFzbXRuT2hobHJrNE5uNFNPeDZQTlN1blJSeUZOaVQ5c3hVUXRFaUpkTWhubFRVcWEtNm5hc05XcmI3Q1d0bDZYMkl5RllxeVAwaFpGUGVfazRLd182NlpfMmw?oc=5",
-      "summary": "Music Services Welcomes Nick LaPointe, Elevates Jay Sudarma Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T16:02:01Z",
-      "first_seen": "2026-09-30T19:38:38Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
       "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
