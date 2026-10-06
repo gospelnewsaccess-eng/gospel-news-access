@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-10-06T04:41:52Z",
+  "generated_at": "2026-10-06T05:07:54Z",
   "story_count": 600,
-  "with_photo": 435,
+  "with_photo": 436,
   "items": [
+    {
+      "id": "0965d08cdc6363a0",
+      "title": "Jim Bakker, Christian Television Pioneer, Enters Heaven at 86",
+      "link": "https://www.ccmmagazine.com/news/jim-bakker-christian-television-pioneer-enters-heaven-at-86/",
+      "summary": "The PTL founder and one of the original architects of Christian television leaves behind a undeniable legacy of innovation, technology, entertainment and ministry. Jim Bakker, one of the last remaining pioneers from the original generation of Christian…",
+      "outlet": "CCM Magazine",
+      "outlet_url": "",
+      "source_feed": "CCM Magazine",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T04:34:38Z",
+      "first_seen": "2026-10-06T05:07:54Z",
+      "image": {
+        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/10/jimbaker.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5935f173ceaef676",
+      "title": "Megachurch pastor Josh Howerton takes flak for climbing ladders during sermon",
+      "link": "https://www.christianpost.com/news/josh-howerton-takes-flak-for-climbing-ladders-during-sermon.html",
+      "summary": "Pastor Josh Howerton, senior pastor of Lakepointe Church in Rockwall, Texas, faced criticism on social media for using two large ladders as an object lesson during a recent sermon about the Christian life.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T04:28:09Z",
+      "first_seen": "2026-10-06T05:07:54Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272186_w_550_309.jpg?v=20261006003220",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e0abe0093f35f166",
+      "title": "Why are Christians leaving for Islam?",
+      "link": "https://www.christianpost.com/voices/why-are-christians-leaving-for-islam.html",
+      "summary": "When Christians leave the faith for Islam, it's tempting to say they were never truly believers. A former Muslim argues that this response lets the Church off the hook, and that real renewal starts with repentance inside the Church, not with political battles…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T04:10:02Z",
+      "first_seen": "2026-10-06T05:07:54Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272167_w_550_360_556_325.jpg?v=20261005235751",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5cc825ab04bc6099",
+      "title": "How endless scrolling is quietly discipling Christians",
+      "link": "https://www.christianpost.com/voices/how-endless-scrolling-is-quietly-discipling-christians.html",
+      "summary": "Christians have spent years asking whether particular technologies are good or bad. That question is not useless, but it is becoming too small. The more urgent question is what these technologies are teaching us to notice.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T04:05:57Z",
+      "first_seen": "2026-10-06T05:07:54Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272185_w_550_309_599_321.jpg?v=20261005235650",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9a39ec2ea1eb13c3",
+      "title": "God isn't punishing you. He's pruning you.",
+      "link": "https://www.christianpost.com/voices/god-isnt-punishing-you-hes-pruning-you.html",
+      "summary": "expect God to deal with our sin and selfishness. But what happens when He begins asking for things that aren't wrong, like a cherished relationship, a role that gave us purpose, or a future we thought was settled? Jesus said the Father prunes the branches…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T04:00:31Z",
+      "first_seen": "2026-10-06T05:07:54Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272168_w_550_367_533_340.jpg?v=20261005235553",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "691e369826bfbb58",
       "title": "New Video: Kirk Franklin – ‘This Time’ (featuring GloRilla)",
@@ -10979,99 +11074,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1f99b3bc49d64a46",
-      "title": "Possible Terror Attack on Israel-Bound Flight Triggers Hijacking Scare Across Region",
-      "link": "https://mycharisma.com/news/possible-terror-attack-on-israel-bound-flight-triggers-hijacking-scare-across-region/",
-      "summary": "A possible hijacking of an Israel-bound passenger jet triggered a major security alert across the region. Fly Dubai Flight 1073 was traveling from Dubai to Tel Aviv when the aircraft suddenly transmitted “7500,” the international emergency code for possible…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T12:35:28Z",
-      "first_seen": "2026-09-30T13:10:45Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "256ea2a706945519",
-      "title": "Historic Los Angeles Cross and Nativity Will Not Be Torn Down, Appeals Court Rules",
-      "link": "https://mycharisma.com/news/historic-los-angeles-cross-and-nativity-will-not-be-torn-down-appeals-court-rules/",
-      "summary": "A Christmas nativity and a century-old cross at the center of a historic display in Los Angeles will not be banned or torn down, thanks to a ruling by a federal appeals court. An angry atheist filed a lawsuit in 2025 complaining about the 10-foot-tall wooden…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T12:15:38Z",
-      "first_seen": "2026-09-30T13:10:45Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-152935.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "28fe8c074fc2bf3a",
-      "title": "Rock Star Won’t Hide His Christian Faith, Even If It Costs His Career",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZEVTX3o3TWF1c1J0MF9TbHlIUGt0bzNOaENpMmJfdmg4Q096NmxnSTRhODR1V0dWcEdLVTBfMTZ4ZGhsZzJ0ZGZMUjJBWFlqcTRoSTNEbjRrVERpSmx6azU1NVhWQ0pQZkVCSHZ0WFNteUxDdlFkTVVnTWotTEZ5c25ITnFYM3lId2lPMTlHT2huRHJoY1ZJQ0ozWTA?oc=5",
-      "summary": "Rock Star Won’t Hide His Christian Faith, Even If It Costs His Career Movieguide",
-      "outlet": "Movieguide",
-      "outlet_url": "https://www.movieguide.org",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-09-30T12:02:18Z",
-      "first_seen": "2026-09-30T14:11:12Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "657c975abeb52113",
-      "title": "Pope Leo XIV says ‘rebirth’ is key to understanding France trip",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-says-rebirth-is-key-to-understanding-france-trip",
-      "summary": "Reflecting on his four-day pastoral visit, the pope highlighted Notre-Dame’s restoration, rising baptisms, youthful faith, care for abuse victims, and Europe’s vocation to peace.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T11:33:06Z",
-      "first_seen": "2026-09-30T12:10:03Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790767590/ewtn-news/en/260930_GA_Daniel_Iba%CC%81n%CC%83ez_4_dzhuzs.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3c7e33cdb7123ef0",
-      "title": "Digital distractions could erode silence needed for prayer, Nigerian Catholic bishop warns",
-      "link": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
-      "summary": "At the seventh annual general assembly of the Archdiocese of Abuja, Bishop Anselm Umoren challenged Christians to reflect on how they can preserve their faith amid rapid technological changes.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T11:00:00Z",
-      "first_seen": "2026-09-30T12:10:03Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790713581/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-09-28t180340_1790630760.jpg_wmta3h.webp",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
