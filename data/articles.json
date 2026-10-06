@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:09:10Z",
+  "generated_at": "2026-10-06T09:42:02Z",
   "story_count": 600,
   "with_photo": 439,
   "items": [
@@ -21,6 +21,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "0e84f3839cda967a",
+      "title": "Escaping Into The Cultural Capital Of Transylvania",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbUJhbFJqSGRJSWlzamlYMTU0Um95NDN1Z1c2WXRvUDhLSVFKV3Vrdjh0NWM4ZmJ6WTlDcUJWZFh3NHRXT2Q5aXU1eXEwX3lDeWptX21VVGQ4ZVdDcVQtVDVfQ25VSXNiU3ZVQWRIX2FYekxWeF9ZSm81dm1zSENQd0lDV2wtWFFhdXNuZFNBTkhKbFZ6WnQxUndJS2l3UQ?oc=5",
+      "summary": "Escaping Into The Cultural Capital Of Transylvania WorldAtlas",
+      "outlet": "WorldAtlas",
+      "outlet_url": "https://www.worldatlas.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-06T08:00:00Z",
+      "first_seen": "2026-10-06T09:42:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T09:42:02Z"
     },
     {
       "id": "dc28732c9f52f17f",
@@ -4807,7 +4824,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T21:39:53Z",
-      "image_tried": "2026-10-03T09:39:53Z"
+      "image_tried": "2026-10-06T09:42:02Z"
     },
     {
       "id": "949c4e0d830e3771",
@@ -5266,7 +5283,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-03T09:39:53Z"
+      "image_tried": "2026-10-06T09:42:02Z"
     },
     {
       "id": "96b62c8ba151c656",
@@ -11066,23 +11083,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "6cf5d89868d926ad",
-      "title": "Andy Beshear: A faith that governs differently",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRF9Tb1k4cUw2aHRpcktQYktHTmx1b0xvREFDS3E5eFBYRmhXYW9Kam5ldGJMcVU3Um1QOW5IVVFscXZaUmxKWVFxWnMxQVRLbi1kU0ZqdzFKUW83RDk4R1NNTEJlWXMyTUpDRnBjVHU5U1RsVVk3UlNzc3VEaWszZUY4STI?oc=5",
-      "summary": "Andy Beshear: A faith that governs differently Baptist News Global",
-      "outlet": "Baptist News Global",
-      "outlet_url": "https://baptistnews.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-30T15:11:35Z",
-      "first_seen": "2026-09-30T15:42:51Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-01T03:42:51Z",
-      "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
 }
