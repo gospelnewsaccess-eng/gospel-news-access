@@ -1,8 +1,156 @@
 {
-  "generated_at": "2026-10-06T13:42:01Z",
+  "generated_at": "2026-10-06T14:10:38Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 451,
   "items": [
+    {
+      "id": "f8019179fa657d81",
+      "title": "Sone G wants to take gospel reggae global",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS3E2VnNlcWZuczg3eVpueURMX1AzUEZvTXJWaFBUZ1pSVFhERFJLUDdJTmVaX0Fzb25Xa2pUblMxSEM1d1pwNDNqWDgtRkZ2TmhKSUdjcEh1N0pVemtOWmNzdVozQk5ta2xqeG9nZEpKMjI1b25UcFo1YkFIaS1Fc2ZYSWZWcW5jbWZlS3BUV0w?oc=5",
+      "summary": "Sone G wants to take gospel reggae global Caribbean National Weekly",
+      "outlet": "Caribbean National Weekly",
+      "outlet_url": "https://www.caribbeannationalweekly.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T14:01:07Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-07T02:10:38Z",
+      "image_tried": "2026-10-06T14:10:38Z"
+    },
+    {
+      "id": "ef29221047e40a08",
+      "title": "Unitarian Universalist Association releases historic statement on religious practice of faithful dissent, noncompliance, and civil disobedience",
+      "link": "https://religionnews.com/2026/10/06/unitarian-universalist-association-releases-historic-statement-on-religious-practice-of-faithful-dissent-noncompliance-and-civil-disobedience/",
+      "summary": "Unitarian Universalist Association",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:59:01Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T14:10:38Z"
+    },
+    {
+      "id": "7a1a69a62b93bea1",
+      "title": "Hundreds pray after Virgin Mary statue desecrated in French Island of Corsica",
+      "link": "https://www.ewtnnews.com/world/europe/hundreds-pray-after-virgin-mary-statue-desecrated-in-french-island-of-corsica",
+      "summary": "Corsican Catholics answered the destruction of a Marian statue with a public rosary and prayers for the accused men’s conversion.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:33:17Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791286889/ewtn-news/en/2297791665_kshndk.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c07a3b77a8a1f13c",
+      "title": "Died: Jim Bakker, Pioneering Televangelist Later Caught in Crimes",
+      "link": "https://www.christianitytoday.com/2026/10/died-jim-bakker-televangelist-tammy-faye/",
+      "summary": "Jim Bakker, a pioneering televangelist later caught in scandal and financial crimes, died Oct. 5 at the age of 86, according to a statement from his second wife Lori Bakker. She did not share his cause of death. Bakker rose to fame in the 1970s and 1980s as…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:29:16Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/Bakker_Jim.png?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2044c6549c39fadc",
+      "title": "Congregation Leader of the Holy Rosary Sisters calls for ecological consciousness",
+      "link": "https://www.vaticannews.va/en/africa/news/2026-10/congregation-leader-of-the-holy-rosary-sisters-calls-for-ecologi.html",
+      "summary": "The annual Season of Creation commemoration ended on Sunday, 4 October 2026, Feast Day of Saint Francis of Assisi, Patron Saint of Ecology. On the Feast Day of the Missionary Sisters of Our Lady of the Holy Rosary (MSHR), Congregational Leader Sr. Franca…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:28:00Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/06/img-20261004-wa0005aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "aa437c949b691b9d",
+      "title": "Zachary Levi, Neal McDonough revive family-friendly Western with ‘Angel and the Badman’",
+      "link": "https://www.christianpost.com/news/angel-and-the-badman-revives-family-friendly-western.html",
+      "summary": "\"Angel and the Badman\" stars Neal McDonough and Zachary Levi share why stories of redemption are among the most important Hollywood can tell, particularly at a time when audiences are looking for entertainment that offers something more than violence and…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:27:31Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272181_w_550_313.jpg?v=20261006093008",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "037dad9e0fccdfba",
+      "title": "Zachary Levi, Neal McDonough talk redemption, mercy in ‘Angel and the Badman’",
+      "link": "https://www.christianpost.com/video/zachary-levi-neal-mcdonough-on-angel-and-the-badman.html",
+      "summary": "Zachary Levi and Neal McDonough discuss how “Angel and the Badman” revives the classic family-friendly Western while exploring the biblical themes of redemption, mercy and the courage to change.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:03:45Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272182_w_550_313.jpg?v=20261006090426",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "039888490f70e055",
+      "title": "Holy See: The use of AI in agrifood systems needs to place humans at the center",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/holy-see-mission-un-artificial-intelligence-agriculture-tech.html",
+      "summary": "Archbishop Ettore Balestrero, the Permanent Observer of the Holy See to the United Nations in Geneva, insists on the importance of human dignity and development when using artificial intelligence in agrifood systems, at an event jointly organized by the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T13:03:00Z",
+      "first_seen": "2026-10-06T14:10:38Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/06/83.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "201f8eabb9d16225",
       "title": "Muslim Flydubai Hijack Suspect Cited Quran, Repeatedly Called for Women to Be Abused",
@@ -10958,152 +11106,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "6f4c19bdca9d850c",
-      "title": "Ashley Flynn's family says she 'wanted her life to point people to Jesus' after husband's guilty verdict",
-      "link": "https://www.christianpost.com/news/ashley-flynn-wanted-her-life-to-point-people-to-jesus-family.html",
-      "summary": "The family of the late Ashley Flynn is remembering the slain mother of two as someone who “loved Jesus with her whole heart” after her husband Caleb was found guilty of murdering her as the defendant’s family maintains his innocence.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T17:38:00Z",
-      "first_seen": "2026-09-30T19:09:34Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272121_w_550_385_420_114.jpg?v=20260930134230",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "39af99964441f774",
-      "title": "‘The Lord Roars from Zion’: Christians Representing 70 Nations in Jerusalem for Biblical Feast of Tabernacles",
-      "link": "https://mycharisma.com/news/the-lord-roars-from-zion-christians-representing-70-nations-in-jerusalem-for-biblical-feast-of-tabernacles/",
-      "summary": "JERUSALEM, Israel – After nearly three years of war, both airlines and tourists are returning to Israel. In this holiday season of Sukkot, also known as the Feast of Tabernacles, Christians are returning to celebrate. Against the hostile backdrop of U.N…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T17:37:50Z",
-      "first_seen": "2026-09-30T18:09:09Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-152935.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "72bbc78b9b03b618",
-      "title": "Are religious charter schools constitutional? After deadlocked SCOTUS decision, another Oklahoma case is trying to find out",
-      "link": "https://religionnews.com/2026/09/30/are-religious-charter-schools-constitutional-after-deadlocked-scotus-decision-another-oklahoma-case-is-trying-to-find-out/",
-      "summary": "(The Conversation) — A new application for a religious charter school is stirring up far-reaching questions about the constitutionality of public aid to faith-based institutions.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T17:32:15Z",
-      "first_seen": "2026-09-30T18:09:09Z",
-      "image": {
-        "url": "https://images.theconversation.com/files/762544/original/file-20260928-50-6osizn.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=754&fit=clip",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0de61b4a2467f851",
-      "title": "Hastings Salvation Army to feature gospel artist Billy Walker Jr. on October 9",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUXAtRDc3ZEdFbkN1N3JOWjNYTWZnZkFJX08wTjNYanFQckg5NWZGTklXcVNrYXhaZVVVUUZySmUwTnA4NXJaN2pOMXFVdXl1SEpwUVhiSkN6dVFFQy1PLTJBaDZUdVNXak1tYUY0Q3FXdlJyNmVlZFg4eUh6Q0dGZ2U4cmhfS2R2NXFsX1J4S1J4R3VXSnU3d3liYzdKSGxJUThUMndYUHkyRFM4bVZPRGlaYVYzTmc?oc=5",
-      "summary": "Hastings Salvation Army to feature gospel artist Billy Walker Jr. on October 9 KSNB",
-      "outlet": "KSNB",
-      "outlet_url": "https://www.ksnblocal4.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T17:30:00Z",
-      "first_seen": "2026-09-30T21:41:17Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T02:42:48Z"
-    },
-    {
-      "id": "e1ae9af6a88f8aa8",
-      "title": "Bishop Barron in Rome: Despite tension, Catholicism is deeply aligned with American ideals",
-      "link": "https://www.ewtnnews.com/vatican/bishop-barron-despite-tension-catholicism-is-aligned-deeply-to-american-ideals",
-      "summary": "The Catholic evangelist discussed America’s 250th anniversary at the Pontifical North American College on Sept. 30.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T17:29:02Z",
-      "first_seen": "2026-09-30T18:09:09Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790781069/ewtn-news/en/887_4977.MXF.00_01_09_18.Still002_mus3gf.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "81811d50042f43d3",
-      "title": "Mediators are working to broker a US-Iran deal, but major hurdles remain",
-      "link": "https://religionnews.com/2026/09/30/mediators-are-working-to-broker-a-us-iran-deal-but-major-hurdles-remain/",
-      "summary": "CAIRO (AP) —The indirect talks come as the conflict, which is entering its eighth month, has caused global economic damage and badly battered Iran.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T17:25:09Z",
-      "first_seen": "2026-09-30T18:09:09Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "67b7140a8b5aaf5f",
-      "title": "Tony Blair Lays Out Prerequisites for a ‘Free Palestine’ at Board of Peace Gathering",
-      "link": "https://mycharisma.com/news/tony-blair-lays-out-prerequisites-for-a-free-palestine-at-board-of-peace-gathering/",
-      "summary": "Former British Prime Minister and senior member of the Board of Peace, Sir Tony Blair, made a speech on Wednesday about what would be necessary for Palestinians living in Gaza to be free. Speaking at the Board of Peace gathering held during the UN General…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T17:12:55Z",
-      "first_seen": "2026-09-30T18:09:09Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8082494f1bdc2e83",
-      "title": "The Black Church in Detroit series examines the future of leadership in the church, 'Faith in Detroit' | American Black Journal",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUmpOSm5hZW9hb1I1RTdoTmEyaU51bFVibzFTeHhsWmNPZG80eGtPcE9jeThPQzBFVGtqYkNrV3FsUVp4V2dKV1JRYlRUUHoxbU1mbGozM1VySVhCU3VJcFFDX3hVRnZfM2pGQnhwb29hc1FCY21vVXpZMUVwOFVsVnlwR3UwQnBFZlVTa2x6S1FfS1NWdEhNeFZPQmFQZnBvWXBLVm9NMDFQMERXblpzNF9XZnd1ZWZZdFFTRW93VVQxRURlSTFqQ3dDQXZLd3JWZjlpR0xXeVVEaERiaUhYbDhXeFZWWEYw?oc=5",
-      "summary": "The Black Church in Detroit series examines the future of leadership in the church, 'Faith in Detroit' | American Black Journal BridgeDetroit",
-      "outlet": "BridgeDetroit",
-      "outlet_url": "https://www.bridgedetroit.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-30T17:11:32Z",
-      "first_seen": "2026-09-30T19:38:38Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
 }
