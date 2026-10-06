@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T23:06:23Z",
+  "generated_at": "2026-10-06T23:39:41Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 443,
   "items": [
     {
       "id": "f5f871be57dfbd0a",
@@ -545,6 +545,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "c3504a3352d60cfe",
+      "title": "Deborah Allen & Friends Gospel Matinee Returns to Franklin Theatre Oct. 11",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYzFqTkVraHA2eS1jeFZEU2htZjRTN0UyYUJQa0p6ZW5DUnlobTItaUN5VC1ZUzlfU25WbHpVRkdYMlhVV0VRTWM0Q2NEWmNJeFJCVFdaWnM3S3VzWHdxR3RxT2p2Q1NIWkNraTVSMDRQRkwxTXo5TTNialliTGZfcXpsbFRoRk9WRXpNZkgtOXdob24zSklyYU00RWxMZTlXMXQ0?oc=5",
+      "summary": "Deborah Allen & Friends Gospel Matinee Returns to Franklin Theatre Oct. 11 Williamson Source",
+      "outlet": "Williamson Source",
+      "outlet_url": "https://williamsonsource.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T17:30:41Z",
+      "first_seen": "2026-10-06T23:39:41Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T23:39:41Z"
     },
     {
       "id": "a1378807e40b09a1",
@@ -11068,25 +11085,6 @@
       "first_seen": "2026-10-01T11:08:29Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790707544/ewtn-news/en/RespectLifeMonth092926_fbal2c.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "525aa43cedc4d2a7",
-      "title": "New “Donum Missionis” Foundation to oversee Dicastery for Evangelization Colleges",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/donum-missionis-foundation-to-oversee-dicastery-evangelization.html",
-      "summary": "Pope Leo XIV establishes the “Donum Missionis” Foundation with a Rescript, which will be responsible for the maintenance of properties owned by the Dicastery for Evangelization that provide accommodation and formation for seminarians and religious from…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T09:58:00Z",
-      "first_seen": "2026-10-01T12:11:26Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/01/21/2019.01.21%20Piazza%20di%20Spagna,%20Propaganda%20Fide,%20Congregazione%20per%20l'evangelizzazione%20dei%20popoli%20(4).JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
