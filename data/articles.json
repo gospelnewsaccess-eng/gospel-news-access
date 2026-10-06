@@ -1,8 +1,141 @@
 {
-  "generated_at": "2026-10-06T05:41:11Z",
+  "generated_at": "2026-10-06T06:09:28Z",
   "story_count": 600,
-  "with_photo": 436,
+  "with_photo": 437,
   "items": [
+    {
+      "id": "0a404440def17603",
+      "title": "Lady A’s Song About Cancer Takes On Personal Meaning After Charles Kelley’s Diagnosis",
+      "link": "https://www.jubileecast.com/articles/39996/20261006/lady-a-s-song-about-cancer-takes-on-personal-meaning-after-charles-kelley-s-diagnosis.htm",
+      "summary": "Lady A’s Song About Cancer Takes On Personal Meaning After Charles Kelley’s Diagnosis",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T06:11:56Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31984/charles-kelley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e8ec03a437d17136",
+      "title": "Kirk Franklin Brings Gospel To Monday Night Football—Why This Superdome Moment Matters",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQmlhTVB0aEpuQWlSWWM5M09oeWI0TDZveDhULWhVbm9VeUZXUnRQZXRhNjZmUFpmM1VtbzNkeFVNODRfSF9lbEdUZHVPbi1mbVkzd3VSMXN5dm9JOWpMLXBkNl9acHhROER0ajJnVXN6ejJNTTRnLWpJX2ZMdkxraVRmWXNpQ21yUU5TR3hRWFctdXNfQ2Y0cGtzSllZVnhRXzE1dGV4VWE1cXBTUEl5RDBjRk5fUHRRdjRQVDl1dVUyOEw2U1hJUTVkYk41X0NBck5vNkFZVDRmcXpCd0p4NVJDRks?oc=5",
+      "summary": "Kirk Franklin Brings Gospel To Monday Night Football—Why This Superdome Moment Matters JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-06T05:58:00Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28327/kirk-franklin.jpg",
+        "via": "media:content"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T18:09:28Z"
+    },
+    {
+      "id": "82fa8958110d44d7",
+      "title": "Taylor Swift And Ella Langley’s Chart Showdown Raises A Bigger Question: Who Can Hold The Crown?",
+      "link": "https://www.jubileecast.com/articles/39994/20261006/taylor-swift-and-ella-langley-s-chart-showdown-raises-a-bigger-question-who-can-hold-the-crown.htm",
+      "summary": "Taylor Swift And Ella Langley’s Chart Showdown Raises A Bigger Question: Who Can Hold The Crown?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T05:51:03Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31527/taylor-swift.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2fac23966b5a0eb5",
+      "title": "Robin Williams’ Son Revisits His Father’s Final Months—What Still Haunts Zak?",
+      "link": "https://www.jubileecast.com/articles/39993/20261006/robin-williams-son-revisits-his-father-s-final-months—what-still-haunts-zak.htm",
+      "summary": "Robin Williams’ Son Revisits His Father’s Final Months—What Still Haunts Zak?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T05:47:41Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/3351/robin-williams.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b7246b8f13559b08",
+      "title": "Jim Bakker Dies At 86: What Should The Church Remember About His Scandal And Comeback?",
+      "link": "https://www.jubileecast.com/articles/39992/20261006/jim-bakker-dies-at-86-what-should-the-church-remember-about-his-scandal-and-comeback.htm",
+      "summary": "Jim Bakker Dies At 86: What Should The Church Remember About His Scandal And Comeback?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T05:42:59Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32078/jim-bakker.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "75b9e5b8cf520ddb",
+      "title": "Russell Tusing, Who Pleaded Guilty To Child Cruelty, Returns To Pulpit—And His Sermon Topic Raises Eyebrows",
+      "link": "https://www.jubileecast.com/articles/39991/20261006/russell-tusing-who-pleaded-guilty-to-child-cruelty-returns-to-pulpit—and-his-sermon-topic-raises-eyebrows.htm",
+      "summary": "Russell Tusing, Who Pleaded Guilty To Child Cruelty, Returns To Pulpit—And His Sermon Topic Raises Eyebrows",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T05:38:30Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32077/russell-tusing.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a50a3c978dde1929",
+      "title": "Grok AI chatbot affirms divinity of Christ, citing historical record: 'Jesus is not a fake god'",
+      "link": "https://www.christianpost.com/news/grok-ai-affirms-divinity-of-christ-citing-historical-record.html",
+      "summary": "Grok, an artificial intelligence conversational assistant built by Elon Musk's company xAI, has drawn widespread attention in recent days for affirming the divinity of Jesus Christ by citing the biblical and historical record.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T04:53:41Z",
+      "first_seen": "2026-10-06T06:09:28Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272190_w_550_367_644_186.jpg?v=20261006005405",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0965d08cdc6363a0",
       "title": "Jim Bakker, Christian Television Pioneer, Enters Heaven at 86",
@@ -10946,137 +11079,6 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-01T02:48:16Z",
       "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "0688dfebd5620ed6",
-      "title": "57th Annual GMA Dove Awards Announces Final Performer and Presenter Lineup",
-      "link": "https://www.jubileecast.com/articles/39840/20260930/57th-gma-dove-awards-final-lineup.htm",
-      "summary": "57th Annual GMA Dove Awards Announces Final Performer and Presenter Lineup",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T13:34:14Z",
-      "first_seen": "2026-09-30T14:11:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31383/gma-dove-awards.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ef32f6cce3d4e165",
-      "title": "How Did Chad Lowe's Daughter Fiona Die? Family Shares 988 Lifeline Message and Asks for Prayers",
-      "link": "https://www.jubileecast.com/articles/39839/20260930/chad-lowe-daughter-fiona-death-family-988-lifeline-message-prayers.htm",
-      "summary": "How Did Chad Lowe's Daughter Fiona Die? Family Shares 988 Lifeline Message and Asks for Prayers",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T13:30:43Z",
-      "first_seen": "2026-09-30T14:11:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31993/chad-lowe-and-family.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92018f4637af1cb9",
-      "title": "Pope Leo XIV to contemplative nuns: In a world of speed, silence is precious",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-contemplative-nuns-in-a-world-of-speed-silence-is-precious",
-      "summary": "The pontiff held a private audience with the International Commission of Nuns on Sept. 30.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T13:19:36Z",
-      "first_seen": "2026-09-30T14:11:12Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790772346/ewtn-news/en/_SIM5930_kz3ogk.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e83e659097544f74",
-      "title": "Nancy Guthrie Update: New Ransom Text Says She's Alive in Mexico, Sheriff Says It's Not Credible",
-      "link": "https://www.jubileecast.com/articles/39838/20260930/nancy-guthrie-update-new-ransom-text-not-credible-scam-warning.htm",
-      "summary": "Nancy Guthrie Update: New Ransom Text Says She's Alive in Mexico, Sheriff Says It's Not Credible",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T13:16:44Z",
-      "first_seen": "2026-09-30T14:11:12Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31255/nancy-guthrie.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9577dae22fb9df4c",
-      "title": "Wilson Idol returns with Oct. 17 celebration",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNG8xYkpCOXNvcXlSWmt1Mjh4cG9Fb2xBTjc3MjFQekNYV1pkVUpPYTFXNnhBUW1YTVM5ZFIxdnRqejFtdjFpRlJHc05TZ3FqZGczTmEzY0FhNHZKTTlVTTJ4UUljN192Yng1NFNmT2I3UHpwMmVBLTY4R1REaDUza0hmTVdnTjNiOTBxbWhB?oc=5",
-      "summary": "Wilson Idol returns with Oct. 17 celebration The Wilson Times",
-      "outlet": "The Wilson Times",
-      "outlet_url": "https://www.wilsontimes.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T13:03:14Z",
-      "first_seen": "2026-09-30T14:48:16Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "a625b9aa91a8fc4d",
-      "title": "Brian Doerksen’s Song ‘Whisper’ Arrives Ahead of Posthumous Final Album",
-      "link": "https://www.ccmmagazine.com/news/brian-doerksens-song-whisper-arrives-ahead-of-posthumous-final-album/",
-      "summary": "Just one month after the passing of beloved worship songwriter Brian Doerksen, his first posthumous song has arrived ahead of his final album. And all it begins with a Whisper. “Whisper,” the first song from Doerksen’s forthcoming final album, is available…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-09-30T13:00:57Z",
-      "first_seen": "2026-09-30T13:10:45Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Brian-Doerksen-Web-Banner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f71cae2916cae63c",
-      "title": "Woman on Death Row for Satanic Murder Says She Feels ‘a Kinship’ with Lindsay Clancy",
-      "link": "https://mycharisma.com/news/woman-on-death-row-for-satanic-murder-says-she-feels-a-kinship-with-lindsay-clancy/",
-      "summary": "A Tennessee woman on death row for a satanic murder said she feels a “kinship” with Lindsay Clancy, who killed her three children, during an interview with the United Kingdom newspaper The Times. Christa Pike, who is scheduled to die by lethal injection on…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T12:55:14Z",
-      "first_seen": "2026-09-30T13:10:45Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
