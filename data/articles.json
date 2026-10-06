@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T11:08:14Z",
+  "generated_at": "2026-10-06T11:41:04Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 443,
   "items": [
     {
       "id": "fdd6d92f8d2e4826",
@@ -97,6 +97,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "ab42bab5a29871b5",
+      "title": "Kid Rock’s Christian album comes after controversy over his lyrics about underage girls",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajk3RHZPcXk3Q3FORjVIUm5pb3BJWk12VXQ4a1N0cEtTcUFMRkxjWG1xU29SQVpxdWZvS0h3Vy1lTElVdF9PbE1weVlUTWhSUkdESS0wVE9oV1YzYjJEbW5VemwxdkVsaHNtOGxoMnI0Y1N1N0Qxc1R6WGR0RXlvN3JBSEtqOXdSYzhTM3FBVEFUNGFOYmFHTnVwaGtaSXhRTmw1c0czcXk2SGJNRGZ0YWQ3WlhOcWl4X2RvblpzXzB5SllKX0t5bkRZNTQ5Szl3aFcxZtIB6AFBVV95cUxQbmRtX2tiWEhKVHJkcWY3S1NGcF9SQWU2VEhjQndTYm5jdUNIUzNEUkZQaDFhdzFsX25XOC04dWpBYzh1Q2o0MFR6MWkxZ19CQ09IMmpYd05IZnJNdW9yb00zQXVLQTVzVHBteGJnc0Z1YV9RNGR6c040UFNGcEM2OGt5TEFsZFJaSjh2MzA1dW5rSElHeXNnaVpMZ3lNM2R3VlBkTVNvcmNDRk1YSWRuaEs4Y2V5SkNjMVQtQ1NOVjNoTno4VUhEZkhQTGJScDZKOVowbWhob3dLcW93eXY0Q3hkbjE5ZUFF?oc=5",
+      "summary": "Kid Rock’s Christian album comes after controversy over his lyrics about underage girls PennLive.com",
+      "outlet": "PennLive.com",
+      "outlet_url": "https://www.pennlive.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-06T10:30:00Z",
+      "first_seen": "2026-10-06T11:41:04Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T23:41:04Z",
+      "image_tried": "2026-10-06T11:41:04Z"
     },
     {
       "id": "01ce1265e5863e59",
@@ -11073,25 +11090,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-03T20:09:59Z"
-    },
-    {
-      "id": "45b4ff4d1e238d28",
-      "title": "Final report of Synod's canon law commission published",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/final-report-of-synod-s-canon-law-commission-published.html",
-      "summary": "The canon law commission's final report proposes amendments to the Code of Canon Law of the Latin Church, based on the work carried out by the two General Assemblies of the Synod of Bishops in October 2023 and October 2024. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T16:02:00Z",
-      "first_seen": "2026-09-30T17:07:59Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2024/10/26/2024-10-26-sinodo-dei-vescovi---xvi-congregazione-generale/1729928616475.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
