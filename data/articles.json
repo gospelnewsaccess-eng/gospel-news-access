@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-10-06T01:39:21Z",
+  "generated_at": "2026-10-06T02:07:27Z",
   "story_count": 600,
-  "with_photo": 438,
+  "with_photo": 437,
   "items": [
+    {
+      "id": "ed6885eca238f2b5",
+      "title": "Jim Bakker, Televangelist and PTL Founder, Dies at 86, Wife Lori Bakker Announces",
+      "link": "https://mycharisma.com/news/jim-bakker-televangelist-and-ptl-founder-dies-at-86-wife-lori-bakker-announces/",
+      "summary": "Televangelist Jim Bakker, a longtime Christian broadcaster and founder of the PTL television ministry, has died at 86, according to an announcement from his wife, Lori Bakker. The Jim Bakker Show announced his death Monday evening, sharing a statement from…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T01:17:00Z",
+      "first_seen": "2026-10-06T02:07:27Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/10/Bakker-book-600x600.webp",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "027a281902b22c59",
       "title": "Beth Moore Speaks Out After Heather Thompson Day’s Arrest—And Reveals A Major Change",
@@ -497,6 +516,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "8067c30d49e6d088",
+      "title": "Inspirational Chorale carries Black sacred music into new era",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLTBPdXQ0WkttdU5iOU1CMXFuSHZjcU5NR3BrTmVhSkMweldpQnk2MVFpVnZiZTVvY0xxQWFVRnlOeW9xNTBWY3F5bVlFRGN1WXozMmJzVlhUalA5RnlEeGl1VElQdC1RUHJLNTctVVVtU0lJOVF1OElWOHlxTzFHX3RsdTd4OUU5cnFLS0Q4Q2M1blMxd0ZIbzBGdzI1YkdKLXVOWVU3eFVGS1BXRVhZcjZ3?oc=5",
+      "summary": "Inspirational Chorale carries Black sacred music into new era uatrav.com",
+      "outlet": "uatrav.com",
+      "outlet_url": "https://www.uatrav.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-05T19:29:23Z",
+      "first_seen": "2026-10-06T02:07:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T02:07:27Z"
     },
     {
       "id": "d339c9b878420563",
@@ -4678,7 +4714,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-03T01:39:57Z"
+      "image_tried": "2026-10-06T02:07:27Z"
     },
     {
       "id": "c69f7c02ff913fb2",
@@ -11039,44 +11075,6 @@
       "first_seen": "2026-09-30T11:07:53Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/30/vinc.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "31c60850c73c0057",
-      "title": "Cardinal Aveline: French Church will have to “water the seeds” of Pope’s visit",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/cardinal-aveline-pope-leo-visit-france-impact-reflection.html",
-      "summary": "The Archbishop of Marseille and president of the French Bishops’ Conference, Cardinal Jean-Marc Aveline, reflects on Pope Leo’s four days in France. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T10:17:00Z",
-      "first_seen": "2026-09-30T11:07:53Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/28/12/1790591461419.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "887907dde104ffe6",
-      "title": "Pope appeals for dialogue in Tigray region",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-appeals-for-dialogue-in-tigray-region.html",
-      "summary": "At the conclusion of the General Audience, Pope Leo XIV appealed to all sides in the Tigray region to halt hostilities, recalling that only sincere commitment can lay the foundations for lasting peace. Speaking to Polish pilgrims, he recalled the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T10:11:00Z",
-      "first_seen": "2026-09-30T11:07:53Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/24/07/1790229328601.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
