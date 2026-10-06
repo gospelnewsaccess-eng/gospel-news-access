@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:37:35Z",
+  "generated_at": "2026-10-06T00:10:29Z",
   "story_count": 600,
   "with_photo": 438,
   "items": [
@@ -332,6 +332,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-06T09:41:46Z",
       "image_tried": "2026-10-05T21:41:46Z"
+    },
+    {
+      "id": "1970b7f2071cb35d",
+      "title": "Our Savior Lutheran Church presents “Ignite” Christian Music Festival",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUpYamxCRFJMRDk5Y2tYbHhqZDc1azdRZnRxTGpUR2hiNXMxR2Q5V3FKZkRqS0h2WlF1aVpsa1MxSXN6a3RxWWlZLUhwcFpMVVdIOUdHOXJQNzdmaVJldUhVa1REZG8yYzlYWHhRRjdGOFBobFVGeUhuOEF2UmQ0NVprRF9WbHZzaGxOOVFiRHFUNy10TmNZMDJjSHBFaGxRWUHSAbYBQVVfeXFMT011cHFEZXVYWDB4b1lyckRsRlJmR1Q1eHBGZWNMdTdib0V3aTZ0d3JIRV9FNFNVRk5hVXVLZ1F1ZEw2NUZfMWJZSW1aaW5heUtnMTRyQlk2VHRQbVU2SDJwdjR6aUxnb3p6dzlWSUVFekdHYmdhcGZ2MXlEN25CY29IclBGZHZ4dDgwWVM3TEFGaTZRTURIei1Gc3F2TnJfRzI5cWE2MHI0NHk4aWdTaUYtb1V6UWc?oc=5",
+      "summary": "Our Savior Lutheran Church presents “Ignite” Christian Music Festival wbng.com",
+      "outlet": "wbng.com",
+      "outlet_url": "https://www.wbng.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-05T20:24:00Z",
+      "first_seen": "2026-10-06T00:10:29Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T00:10:29Z"
     },
     {
       "id": "26b641fb35fce455",
@@ -4695,7 +4712,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-03T11:37:47Z",
-      "image_tried": "2026-10-02T23:37:47Z"
+      "image_tried": "2026-10-06T00:10:29Z"
     },
     {
       "id": "b8e429913dd075fb",
@@ -11064,23 +11081,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "36bd1d27ad6c2ddf",
-      "title": "After redistricting, Memphis voters on a national stage during midterms",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcU1xNVVxTk1sV0RMY2U5VmxYYVJmRGJ3eXdBTEZ5NEtwUDB2OHVxTVVaRG00X1ExS0ZMcGVmeUM5cnNMMnlIZ3RJSXZfVlZoZjJhVnFpS2lhSDVQa05IMWF4TmhUMGU1NHFtaUp0SExzWFF4aXN5Z1VKYWVIZ214bmxOeldHTnlSU0tpajk1NThqQ3RieEpOLUU1SjdLeV9EcEpnUUdqRzYzdURxZ1NOZjVNU05TTXIxa2p0Y2VNZzlrZFlPal9uWnhB?oc=5",
-      "summary": "After redistricting, Memphis voters on a national stage during midterms The Commercial Appeal",
-      "outlet": "The Commercial Appeal",
-      "outlet_url": "https://www.commercialappeal.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-09-30T10:01:00Z",
-      "first_seen": "2026-09-30T20:08:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
 }
