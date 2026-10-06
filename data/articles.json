@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-06T04:08:58Z",
+  "generated_at": "2026-10-06T04:41:52Z",
   "story_count": 600,
-  "with_photo": 436,
+  "with_photo": 435,
   "items": [
+    {
+      "id": "691e369826bfbb58",
+      "title": "New Video: Kirk Franklin – ‘This Time’ (featuring GloRilla)",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWjdDcVRZMXEtNUp0NXRyT3dzd0F1WGI1VTQ4eld4c0E0d2RqdW05azFzUHQ3cjV4azczN3pnR0dDQWJCb3YyNlF2ZnN0LTMtRENSQWx4ZkZVZVhvX2huSjd2Y25kUTVnZEE1amxYYnN4azg2clQzelRJOE54NzhTdWxjcXFNTlpQRzlZTmZwQ1Z5QdIBlwFBVV95cUxPVEFxOUFzWXRnOTlHWWpNSUtGQnI1dlZnY2hnQXNjMGcxNVRJOHhZZk12VWJzSWZ4N1BNd0tUbEJEX0NOcmUtMFoxWU5aaHlMUTBITmF3b1BXbjh6YkZXYVBWY25LTkNYeWliV0xxVkUyU0ZpMkIxV1Z6aTVRWXdtZkcxQ0d5MGFZbVFLWVRaRzAyb2U1V3NV?oc=5",
+      "summary": "New Video: Kirk Franklin – ‘This Time’ (featuring GloRilla) thatgrapejuice.net",
+      "outlet": "thatgrapejuice.net",
+      "outlet_url": "https://thatgrapejuice.net",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-06T01:51:21Z",
+      "first_seen": "2026-10-06T04:41:52Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T04:41:52Z"
+    },
     {
       "id": "d701433b20e690bc",
       "title": "The forest Rev. Jeremiah Wright planted is still growing",
@@ -11054,25 +11071,6 @@
       "first_seen": "2026-09-30T12:10:03Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1790713581/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-09-28t180340_1790630760.jpg_wmta3h.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92db6fcb9f84ec34",
-      "title": "‘Second 9/11 prevented’: Israel suspects pilot tried to hijack flight to Tel Aviv in attempted terror attack",
-      "link": "https://www.christianpost.com/news/israel-suspects-pilot-tried-to-hijack-flight-to-tel-aviv.html",
-      "summary": "After a plane en route to Tel Aviv from Dubai sent an emergency signal before landing in Saudi Arabia's Tabuk, Israel is treating the incident as a suspected terror attack, while working on bringing the around 180 passengers home in an air force plane.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T10:43:58Z",
-      "first_seen": "2026-09-30T12:10:03Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272118_w_550_367_699_222.jpg?v=20260930070053",
         "via": "media:content"
       },
       "breaking": false,
