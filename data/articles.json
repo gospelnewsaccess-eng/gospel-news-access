@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-10-06T19:07:03Z",
+  "generated_at": "2026-10-06T19:40:34Z",
   "story_count": 600,
   "with_photo": 450,
   "items": [
+    {
+      "id": "da57bc9a9564f3a0",
+      "title": "Marjoe Gortner Dies At 82: What Did The Child Preacher’s Rise And Exposé Reveal About Religious Fame?",
+      "link": "https://www.jubileecast.com/articles/40011/20261006/marjoe-gortner-dies-at-82-what-did-the-child-preacher-s-rise-and-exposé-reveal-about-religious-fame.htm",
+      "summary": "Marjoe Gortner Dies At 82: What Did The Child Preacher’s Rise And Exposé Reveal About Religious Fame?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T19:39:19Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32087/marjoe-gortner.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "353a625822795519",
+      "title": "Whitney Capps’ Family Announces Final Farewell After Bible Teacher’s Death At 48",
+      "link": "https://www.jubileecast.com/articles/40010/20261006/whitney-capps-family-announces-final-farewell-after-bible-teacher-s-death-at-48.htm",
+      "summary": "Whitney Capps’ Family Announces Final Farewell After Bible Teacher’s Death At 48",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T19:23:16Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32073/whitney-capps.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "144a2b87c41521ce",
+      "title": "Miley Cyrus’ No. 1 Album Takes A Stunning Plunge—Which Stars Have Faced Similar Chart Drama?",
+      "link": "https://www.jubileecast.com/articles/40009/20261006/miley-cyrus-no-1-album-takes-a-stunning-plunge—which-stars-have-faced-similar-chart-drama.htm",
+      "summary": "Miley Cyrus’ No. 1 Album Takes A Stunning Plunge—Which Stars Have Faced Similar Chart Drama?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-06T19:20:56Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31832/miley-cyrus.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3ffec58d07bec6b6",
+      "title": "Is the Church Ready for Battle? 58% of Practicing Christians Report Spiritual Attacks",
+      "link": "https://mycharisma.com/news/is-the-church-ready-for-battle-58-of-practicing-christians-report-spiritual-attacks/",
+      "summary": "Spiritual warfare may sound like an ancient concept to a skeptical culture, but new data suggests a striking number of Americans, and an even greater percentage of practicing Christians, believe they have experienced it firsthand. In a recent CBN interview…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T19:20:15Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c837fbfbd5153a44",
+      "title": "Fort Worth Diocese presses FedEx on risk of shipping mifepristone to states that restrict abortion",
+      "link": "https://www.ewtnnews.com/world/us/fort-worth-diocese-presses-fedex-on-risk-of-shipping-mifepristone-to-states-that-restrict",
+      "summary": "Bishop Michael Olson said he hopes to “further the culture of life” by urging the company to consider whether it’s violating federal law by mailing abortion pills to pro-life states.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T19:00:00Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745613214/images/bishop_olson_red_choir_cassock_official_photo_1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "49c8059c53161f54",
       "title": "57th Annual Dove Awards: How To Watch",
@@ -19,6 +114,42 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-07T06:45:01Z",
       "image_tried": "2026-10-06T18:45:01Z"
+    },
+    {
+      "id": "b4ec683a1e9ea265",
+      "title": "TUNE IN ALERT: Dove Awards Pre-Telecast This Friday",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IeFhLYTA2bHdpRkcxOFB0RUhnellNRS1hMkNvQ0pNaWNWNmdoQnBRNVNzbDhObzFoV0VnZi1Gc3RIMmdHM2JFdXR0UXBNaEdIT0ZRQU1kYkxSTWlZLUNQaVlPYWdkZ3hkSEtheDFIZXBhM1lpMm45Mg?oc=5",
+      "summary": "TUNE IN ALERT: Dove Awards Pre-Telecast This Friday Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T18:44:14Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-07T07:40:34Z",
+      "image_tried": "2026-10-06T19:40:34Z"
+    },
+    {
+      "id": "24db4dcfb3e62246",
+      "title": "“YOUCAT Love Forever”: A roadmap for young people",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/youcat-love-forever-roadmap-young-in-making-important-decisions.html",
+      "summary": "A new edition of YOUCAT, the youth Catechism, described by its creator as “marriage handbook for young people”, is presented in Rome. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-06T18:30:00Z",
+      "first_seen": "2026-10-06T19:40:34Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/06/64.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "95c4d1d9db733247",
@@ -10972,137 +11103,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "bd58ddb503f2620c",
-      "title": "1-year-old euthanized under new rules in the Netherlands allowing termination for sick children",
-      "link": "https://www.christianpost.com/news/1-year-old-child-euthanized-under-new-rules-in-netherlands.html",
-      "summary": "Doctors in the Netherlands euthanized a severely disabled 1-year-old child, the first case reported by Dutch authorities under rules introduced in 2024 that allow ending the lives of seriously ill children between the ages of 1 and 12.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T04:00:44Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272130_w_550_367.jpg?v=20261001000330",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dbcb52089d548bf1",
-      "title": "Christian radio network marks 70 years of broadcasting the Gospel into North Korea and beyond",
-      "link": "https://www.christianpost.com/news/christian-radio-network-marks-70-years-of-broadcasting-the-gospel.html",
-      "summary": "Far East Broadcasting Company-Korea, a Christian radio network whose signals have reached listeners in North Korea, China and Russia for decades, is marking its 70th anniversary with a series of events running through December.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T03:59:39Z",
-      "first_seen": "2026-10-01T05:07:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272131_w_550_363_577_341.jpg?v=20261001001117",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dcacb9a333a0a2a4",
-      "title": "Churchgoing Married Couples Are Having More Sex. Apparently They’re Happier With It, Too.",
-      "link": "https://relevantmagazine.com/life5/relationships/churchgoing-married-couples-are-having-more-sex-apparently-theyre-happier-with-it-too/",
-      "summary": "There’s a long-running assumption that the most religious people in the room are probably having the least fun in bed. A new report has some inconvenient numbers for that theory. The Devout Difference, from the pro-marriage Institute for Family Studies, draws…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-01T03:52:54Z",
-      "first_seen": "2026-10-01T04:42:21Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/09/churchgoing-couples.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c0749cb571db6eb6",
-      "title": "The Woman Who Saved Lives by Speaking Up About the Unabomber Is Remembered by Her Family",
-      "link": "https://www.jubileecast.com/articles/39851/20260930/linda-patrik-woman-who-helped-catch-unabomber-remembered-david-kaczynski.htm",
-      "summary": "The Woman Who Saved Lives by Speaking Up About the Unabomber Is Remembered by Her Family",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T02:52:43Z",
-      "first_seen": "2026-10-01T03:07:40Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31999/linda-patrik-unabomber.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ff34863678ce5a82",
-      "title": "Ella Langley Addresses Critics in Columbus After \"Choosin' Texas\" Beats Mariah Carey's Hot 100 Record",
-      "link": "https://www.jubileecast.com/articles/39850/20260930/ella-langley-critics-columbus-choosin-texas-mariah-carey-record.htm",
-      "summary": "Ella Langley Addresses Critics in Columbus After \"Choosin' Texas\" Beats Mariah Carey's Hot 100 Record",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T02:28:20Z",
-      "first_seen": "2026-10-01T03:07:40Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30100/ella-langley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f370732ffeb8d8b6",
-      "title": "Manuel Seal, Grammy-Winning Producer Behind Mariah Carey's 'We Belong Together,' Dies at 66",
-      "link": "https://www.jubileecast.com/articles/39849/20260930/manuel-seal-dies-at-66-mariah-carey-we-belong-together-producer.htm",
-      "summary": "Manuel Seal, Grammy-Winning Producer Behind Mariah Carey's 'We Belong Together,' Dies at 66",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-01T02:19:51Z",
-      "first_seen": "2026-10-01T03:07:40Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31998/manuel-seal.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3db994026cf006bd",
-      "title": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPeTBkRW5uLVFxV2pqeXBLQjQzR0ZPZGVscXl0Uk9UWllXUVlINnJib05FdDc2Y2t4b21kU2xTb0dzQkh4OHRyUEFieUpLOFBrTlp1RzJveUxieHBQNHVvOXpRMUpyUGlpNy1BRGpKOXVNc2syWW56NVVCUXMxdFM2Q2syVTB3ckN6dk5JeWs1bmcya3ZINmgwd2IyRlJPVVFkVmQ4NjBTay1RRU4xaVpzX3VNUzdRcmpnTGtsM0xiZTdSN0pxZFJVNWlTM3ZaczU2OThSX1RvQXhXVUlBbnVCdklxeWpVY3hhN3NFVFl4clI3LWd3eHVpVGZyc1JYa0k5bmxSb3JrVFFxN29m?oc=5",
-      "summary": "Baptist Minister Says Black Church Champions for Civil Rights to Reign but Hesitates to Let Black Women Lead Daytona Times",
-      "outlet": "Daytona Times",
-      "outlet_url": "https://www.daytonatimes.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-01T02:12:00Z",
-      "first_seen": "2026-10-04T21:46:49Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-04T21:46:49Z"
     }
   ]
 }
