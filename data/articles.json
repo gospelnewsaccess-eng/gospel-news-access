@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-10-06T03:42:29Z",
+  "generated_at": "2026-10-06T04:08:58Z",
   "story_count": 600,
-  "with_photo": 437,
+  "with_photo": 436,
   "items": [
+    {
+      "id": "d701433b20e690bc",
+      "title": "The forest Rev. Jeremiah Wright planted is still growing",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVmV2d1JXQkRaeGJaZWJXZDUwOV9WSS1scEpUMkVMU3FBX2puSkZia0ZGVEU0eDRpc0JDTHlQUW8tendmejVacE5rQ1UtOWh4TGYwbHVKN2R6ZmJHRjlrbnN4cWVGODBqaEU4U2ZXMXZYdlkydG00NDRCbjNBZmRNV29OOUFDWjc1SzZ0c1hGSW5fYUhpcUNLVW5YZTFSRmo4?oc=5",
+      "summary": "The forest Rev. Jeremiah Wright planted is still growing afro.com",
+      "outlet": "afro.com",
+      "outlet_url": "https://www.afro.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-06T01:35:27Z",
+      "first_seen": "2026-10-06T04:08:58Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-06T04:08:58Z"
+    },
     {
       "id": "ed6885eca238f2b5",
       "title": "Jim Bakker, Televangelist and PTL Founder, Dies at 86, Wife Lori Bakker Announces",
@@ -11056,25 +11073,6 @@
       "first_seen": "2026-09-30T12:10:03Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272118_w_550_367_699_222.jpg?v=20260930070053",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dee36ceedfe76098",
-      "title": "Pope at Audience remembers Polish martyrs",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-09/pope-at-audience-remembers-polish-martyrs.html",
-      "summary": "Pope Leo XIV on Wednesday remembered Polish martyrs Blessed Wincenty Lewoniuk and 12 companions from Pratulin. The martyrs were Byzantine-rite Catholics (Greek Catholics) who were killed by the Tsar's soldiers in the 19th century because they refused to…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T10:41:00Z",
-      "first_seen": "2026-09-30T11:07:53Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/30/vinc.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
