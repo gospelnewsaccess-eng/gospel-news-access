@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-06T07:09:23Z",
+  "generated_at": "2026-10-06T07:41:39Z",
   "story_count": 600,
-  "with_photo": 439,
+  "with_photo": 438,
   "items": [
+    {
+      "id": "07da0afbf86ad698",
+      "title": "Indonesia bans US gospel singer Israel Houghton concert",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGY2cHpSeFFUT3M5bmVxN1BFSHdGS2J4RXpYNUdJOWVtREl1cDNndXhRZ0hrajlMMXRZLS1KMF8wMnB6YU9tZVJKWEFtNHh5dTN5R3dHcnRDTnAwY3dGQUVSVjJXMmVoSnRJblh4T25PRXBPNGZ6N1FYMTJaQTZsb3FDM1IzZXZRZml5Y3RZdkJhdw?oc=5",
+      "summary": "Indonesia bans US gospel singer Israel Houghton concert yahoo.com",
+      "outlet": "yahoo.com",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T07:03:32Z",
+      "first_seen": "2026-10-06T07:41:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T19:41:39Z",
+      "image_tried": "2026-10-06T07:41:39Z"
+    },
+    {
+      "id": "83667064e34f2301",
+      "title": "Washington Worship Composer Keith Johnson Brings Original Christian Music to Listeners Through Music For His Majesty - 24-7 Press Release",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc1hXTmRyLU1PLWhULUQzdE1vRll6QWdZZ1JLMGxRMUNSSVY1V0JyTFc0d2c1dmwyRnIwYkhuWGN0cWp2RFB6WDlRUnhtcEdrdE8tSTlTczg5bmR1NF83Q3F0QzhyT3dQOUczakIxU3RYTTZneHlMSmVrVVdVa1EyUDRjN0dZRHN0czI4aDJUcUlKSWxmX1RSS21qa1NSNjdlVHJkdDRyTklGUmhHZ3otV2VSOVQydk1ULWxWWFltN243NmcwWGxHOTZzbDNSYkcwYU1hS3g2Qzg1amtGbWMxZHJyVEk0U2hicFRhVWdSUV9jbWNfWnRzV0JiV2xjNk0?oc=5",
+      "summary": "Washington Worship Composer Keith Johnson Brings Original Christian Music to Listeners Through Music For His Majesty 24-7 Press Release",
+      "outlet": "24-7 Press Release",
+      "outlet_url": "https://www.24-7pressrelease.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-06T07:00:29Z",
+      "first_seen": "2026-10-06T07:41:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-06T19:41:39Z",
+      "image_tried": "2026-10-06T07:41:39Z"
+    },
     {
       "id": "a6646f999d96288a",
       "title": "Televangelist Jim Bakker, once imprisoned for scandal, dies at 87",
@@ -11047,42 +11081,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "92c8c63edad11c82",
-      "title": "Seattle Earthquake Strikes Near Fault Capable of Magnitude 9.0 ‘Big One’",
-      "link": "https://mycharisma.com/news/seattle-earthquake-strikes-near-fault-capable-of-magnitude-9-0-big-one/",
-      "summary": "A magnitude 4.2 earthquake shook the Seattle area Tuesday evening, prompting thousands of reports across Puget Sound and drawing renewed attention to a nearby fault capable of producing a catastrophic magnitude 9.0 earthquake. The earthquake struck…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-09-30T14:34:53Z",
-      "first_seen": "2026-09-30T15:11:49Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b530a831bd858bc2",
-      "title": "Christmas with Dublin Gospel Choir",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9aRjRveTR5Q1BjcjlycGw0OUdzc3NJekU0ME9Wc3lCRjBzeWQ0SzFObU16c0hPcXU1dXpCX29sUFhOa0ptNGxSX3c1SFJrRVNidVNEbVc5Y2NIM2JaV3hyWXpqVVFQc2hFOEJLOEpuN3VZbzdOank4emNBd0lGUQ?oc=5",
-      "summary": "Christmas with Dublin Gospel Choir journalofmusic.com",
-      "outlet": "journalofmusic.com",
-      "outlet_url": "https://journalofmusic.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-09-30T14:33:40Z",
-      "first_seen": "2026-09-30T14:48:16Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-01T02:48:16Z",
-      "image_tried": "2026-10-03T20:09:59Z"
     }
   ]
 }
