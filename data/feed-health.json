@@ -365,12 +365,11 @@
     },
     "CCM Magazine": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-10-06T21:43:44Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 522"
+      "last_checked": "2026-10-06T22:06:36Z",
+      "last_item_count": 10,
+      "last_status": "ok"
     },
     "JubileeCast": {
       "consecutive_zero": 0,
@@ -384,12 +383,12 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-10-06T21:06:31Z",
+      "last_checked": "2026-10-06T22:06:36Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-10-06T21:40:02Z",
+  "updated_at": "2026-10-06T22:06:35Z",
   "flagged_feeds": []
 }
