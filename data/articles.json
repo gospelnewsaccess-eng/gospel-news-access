@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T01:10:28Z",
+  "generated_at": "2026-10-07T01:41:49Z",
   "story_count": 600,
   "with_photo": 443,
   "items": [
@@ -414,6 +414,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "62cb04ec4feb3f9e",
+      "title": "Grammy-nominated R&B singer Freddie Jackson, known for ’80s hits like ‘You Are My Lady,’ dies at 70",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQnlocEdFXzhMX1J2T2hPUnhkRU5WSWRaRm51Qi1tWHRBczFTUTFMeVdjR3Y3amFLM083VjM2SUdGYUdSa0xZQVVwemJYNGY1eTh1RHRCeXdtNUxKSHg2Mm5pbFRTRU1hZVdVektR?oc=5",
+      "summary": "Grammy-nominated R&B singer Freddie Jackson, known for ’80s hits like ‘You Are My Lady,’ dies at 70 Reading Eagle",
+      "outlet": "Reading Eagle",
+      "outlet_url": "https://www.readingeagle.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T18:45:10Z",
+      "first_seen": "2026-10-07T01:41:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-07T01:41:49Z"
     },
     {
       "id": "49c8059c53161f54",
@@ -11072,23 +11089,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "53ab9a23af269f1e",
-      "title": "Craig Groeschel exits Life Surge events after ethics investigation",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaDhWeE9qQmRFdVBzSTJfME5hNGZmVTFkTGlqR0hvc0k5RjlZdk11eXA2TkR4a3F2eVFlT1dydE02U0IzWVVJek1vTG94R1l4cXE3ejUzYlVpZzUwRHM4bnloekdxenJQd0w0TUhmZEs3MjcyUmpsSlVhcDJUWTA3dmxSaURhQlhvTWxyLTZ5RndsU29ab3dtYll5VEI3ZjlKQXdSV0xKcmVrZzhQZkJBSUpOenZ5emhFT1Y5dDJBMlpPOUFYdURkamRTeDNCM1cyVkVDck5Ib2wwRExWNHpWTGVyUHk3X3pLVWc?oc=5",
-      "summary": "Craig Groeschel exits Life Surge events after ethics investigation The Oklahoman",
-      "outlet": "The Oklahoman",
-      "outlet_url": "https://www.oklahoman.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-01T10:07:00Z",
-      "first_seen": "2026-10-01T10:40:54Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-01T22:40:54Z",
-      "image_tried": "2026-10-04T10:58:58Z"
     }
   ]
 }
