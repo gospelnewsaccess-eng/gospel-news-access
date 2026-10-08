@@ -208,7 +208,29 @@
       "feature": true,
       "feature_image": "assets/img/freda-catalina-gold-lead.jpg",
       "feature_focus": "50% 20%",
-      "feature_layout": "portrait"
+      "feature_layout": "portrait",
+      "facts": [
+        {
+          "label": "Show",
+          "value": "Freda Payne Portrays and Honors Legendary Ladies of Song"
+        },
+        {
+          "label": "Date",
+          "value": "Saturday, September 26, 2026"
+        },
+        {
+          "label": "Venue",
+          "value": "Catalina Jazz Club, 6725 Sunset Blvd., Los Angeles"
+        },
+        {
+          "label": "Written and directed by",
+          "value": "Donald B. Welch"
+        },
+        {
+          "label": "Status",
+          "value": "Sold out"
+        }
+      ]
     },
     {
       "slug": "vmas-2026-taylor-swift-madonna-winners",
@@ -231,7 +253,33 @@
         "Reported by the Music Desk of Newswire Hollywood and carried here by arrangement. Full coverage, including the red carpet, is at newswirehollywood.com."
       ],
       "corrections": [],
-      "status": "published"
+      "status": "published",
+      "facts": [
+        {
+          "label": "Event",
+          "value": "2026 MTV Video Music Awards"
+        },
+        {
+          "label": "Date",
+          "value": "Sunday, September 27, 2026"
+        },
+        {
+          "label": "Venue",
+          "value": "Peacock Theater, Los Angeles"
+        },
+        {
+          "label": "Host",
+          "value": "Snoop Dogg"
+        },
+        {
+          "label": "Video of the Year",
+          "value": "Taylor Swift, “The Fate of Ophelia”"
+        },
+        {
+          "label": "Biggest winner",
+          "value": "Madonna, 7 awards"
+        }
+      ]
     },
     {
       "slug": "yom-kippur-2026-day-of-atonement",
@@ -254,7 +302,29 @@
         "Sources for the dates and the practices in this report: Hebcal's Jewish calendar, Chabad.org, Reform Judaism and the Jewish Virtual Library entries for Yom Kippur 5787."
       ],
       "corrections": [],
-      "status": "published"
+      "status": "published",
+      "facts": [
+        {
+          "label": "Observance",
+          "value": "Yom Kippur, the Day of Atonement"
+        },
+        {
+          "label": "Began",
+          "value": "Sundown, Sunday, September 20, 2026"
+        },
+        {
+          "label": "Ended",
+          "value": "Nightfall, Monday, September 21, 2026"
+        },
+        {
+          "label": "Fast",
+          "value": "About 25 hours"
+        },
+        {
+          "label": "Scripture",
+          "value": "Leviticus 16 and 23"
+        }
+      ]
     },
     {
       "slug": "stellar-awards-41-syndication-dove-awards-october",
@@ -280,7 +350,33 @@
         "How this was sourced: the Stellar winners and ceremony details are drawn from the Gospel Music Association (gospelmusic.org), Billboard's published winners list, the Stellar Awards' own site and the Journal of Gospel Music. The Dove Awards date, venue, broadcast details, performers and presenters are drawn from the Gospel Music Association's announcements and Bridgestone Arena's event listing. Gospel News Access did not attend either ceremony and does not report as though it did."
       ],
       "corrections": [],
-      "status": "published"
+      "status": "published",
+      "facts": [
+        {
+          "label": "Event",
+          "value": "41st Annual Stellar Gospel Music Awards"
+        },
+        {
+          "label": "Taped",
+          "value": "August 15, 2026, Spectrum Center, Charlotte, N.C."
+        },
+        {
+          "label": "Host",
+          "value": "Kirk Franklin"
+        },
+        {
+          "label": "Premiered",
+          "value": "The Stellar Network, Aug. 29; BET, Aug. 30"
+        },
+        {
+          "label": "Syndication",
+          "value": "September 5–27, 2026"
+        },
+        {
+          "label": "Next",
+          "value": "57th GMA Dove Awards, October 6"
+        }
+      ]
     },
     {
       "slug": "stellar-awards-41-syndication-closes-september-27",
@@ -304,7 +400,29 @@
         "How this was sourced: the syndication window, ceremony details and winners are drawn from the Gospel Music Association, Billboard's published winners list, the Stellar Awards' own site and Central City Productions, which distributes the show. Gospel News Access did not attend the ceremony and does not report as though it did. We do not hold a market-by-market broadcast schedule and are not publishing one, because a wrong airtime is worse than none."
       ],
       "corrections": [],
-      "status": "published"
+      "status": "published",
+      "facts": [
+        {
+          "label": "Event",
+          "value": "41st Annual Stellar Gospel Music Awards"
+        },
+        {
+          "label": "Taped",
+          "value": "August 15, 2026, Spectrum Center, Charlotte, N.C."
+        },
+        {
+          "label": "Host",
+          "value": "Kirk Franklin"
+        },
+        {
+          "label": "Premiered",
+          "value": "The Stellar Network, Aug. 29; BET, Aug. 30"
+        },
+        {
+          "label": "Syndication ends",
+          "value": "Sunday, September 27, 2026"
+        }
+      ]
     },
     {
       "slug": "gospel-week-september-26-2026",

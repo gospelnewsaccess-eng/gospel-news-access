@@ -521,3 +521,9 @@ a:hover{text-decoration:underline;}
 /* Every wire photograph names whose it is. */
 .card__fig{position:relative}
 .card__credit{position:absolute;left:0;right:0;bottom:0;padding:16px 10px 6px;font-size:.68rem;line-height:1.2;letter-spacing:.03em;color:#fff;background:linear-gradient(0deg,rgba(0,0,0,.72),rgba(0,0,0,0));pointer-events:none}
+/* "At a glance" fact box on event stories */
+.story__facts{margin:26px 0 30px;border:1px solid currentColor;padding:18px 20px}
+.story__facts h2{margin:0 0 12px;font-size:.8rem;letter-spacing:.14em;text-transform:uppercase}
+.story__facts dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px 22px;margin:0}
+.story__facts dt{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;opacity:.7;margin-bottom:3px}
+.story__facts dd{margin:0;font-weight:600;line-height:1.3}

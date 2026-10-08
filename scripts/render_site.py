@@ -1666,6 +1666,15 @@ def render_originals() -> list[dict]:
             if rows:
                 credits_html = '<section class="story__credits"><h2>Credits</h2><dl>%s</dl></section>' % rows
 
+        # "At a glance" fact box: who, what, when, where. Search and AI
+        # answer engines quote these, so every event story should carry one.
+        facts_html = ""
+        if a.get("facts"):
+            rows = "".join("<div><dt>%s</dt><dd>%s</dd></div>" % (g.esc(f.get("label", "")), g.esc(f.get("value", "")))
+                           for f in a["facts"] if f.get("label") and f.get("value"))
+            if rows:
+                facts_html = '<section class="story__facts" aria-label="At a glance"><h2>At a glance</h2><dl>%s</dl></section>' % rows
+
         img_html = ""
         if a.get("image"):
             img_html = ('<figure class="hero__fig"><img src="%s" alt="%s">'
@@ -1675,8 +1684,9 @@ def render_originals() -> list[dict]:
 
         body = f"""<h1>{g.esc(a['title'])}</h1>
 <p class="lede">{g.esc(a.get('standfirst',''))}</p>
-<p class="dateline">{g.esc(' &middot; '.join(dateline_bits))} &middot; By {g.esc(byline)}</p>
+<p class="dateline">{g.esc(' · '.join(dateline_bits))} · By {g.esc(byline)}</p>
 {img_html}
+{facts_html}
 {body_html}
 {vid_html}
 {credits_html}
@@ -1848,6 +1858,11 @@ def render_sitemaps(arts: list[dict]) -> None:
     g.write_text("robots.txt",
                  "# Gospel News Access\n"
                  "User-agent: *\n"
+                 "Allow: /\n\n"
+                 "# AI search engines are welcome: they cite and link our reporting.\n"
+                 "User-agent: OAI-SearchBot\nUser-agent: ChatGPT-User\n"
+                 "User-agent: PerplexityBot\nUser-agent: Perplexity-User\n"
+                 "User-agent: Claude-SearchBot\nUser-agent: Claude-User\n"
                  "Allow: /\n\n"
                  "# Our own reporting, for Google News\n"
                  "Sitemap: %s/sitemap.xml\n"

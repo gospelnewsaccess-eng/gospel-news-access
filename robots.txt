@@ -2,6 +2,15 @@
 User-agent: *
 Allow: /
 
+# AI search engines are welcome: they cite and link our reporting.
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+Allow: /
+
 # Our own reporting, for Google News
 Sitemap: https://gospelnewsaccess.com/sitemap.xml
 Sitemap: https://gospelnewsaccess.com/sitemap-news.xml
