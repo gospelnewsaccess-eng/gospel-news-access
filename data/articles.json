@@ -1,8 +1,342 @@
 {
-  "generated_at": "2026-10-08T01:30:09Z",
+  "generated_at": "2026-10-08T08:18:19Z",
   "story_count": 600,
-  "with_photo": 440,
+  "with_photo": 437,
   "items": [
+    {
+      "id": "2d2763675e0a38df",
+      "title": "Meryl Streep’s Aslan Casting Sparked Christian Backlash—Now C.S. Lewis’ Family Has Entered The Debate",
+      "link": "https://www.jubileecast.com/articles/40052/20261008/meryl-streep-s-aslan-casting-sparked-christian-backlash—now-c-s-lewis-family-has-entered-the-debate.htm",
+      "summary": "Meryl Streep’s Aslan Casting Sparked Christian Backlash—Now C.S. Lewis’ Family Has Entered The Debate",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T06:16:08Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31865/meryl-streep.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "80dc7c33e66557b8",
+      "title": "Caleb Flynn’s Mother Cited His “Awards And Accomplishments” In Mercy Plea After Ashley’s Murder",
+      "link": "https://www.jubileecast.com/articles/40051/20261008/caleb-flynn-s-mother-cited-his-awards-and-accomplishments-in-mercy-plea-after-ashley-s-murder.htm",
+      "summary": "Caleb Flynn’s Mother Cited His “Awards And Accomplishments” In Mercy Plea After Ashley’s Murder",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T06:10:44Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31936/caleb-flynn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f48c00f35cfe71c2",
+      "title": "JGM Pick of the Week – October 7, 2026",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjJxVTlHdU9XWV95cVdEZHhYV05nT2VyaXNQMERObEphQ19uSGJ3eHlaNlp6cUo1LVlXa3NnQ3diN3pYOHZFUnNmamxLOHdGMC1MUlJmUE9LWHRtN1NYbUdLaGRuYldjT05lTFdpMVdHSjdZem9fWDZaRUt2VEMzemNZRW1la2hfM2c?oc=5",
+      "summary": "JGM Pick of the Week – October 7, 2026 Journal of Gospel Music",
+      "outlet": "Journal of Gospel Music",
+      "outlet_url": "https://journalofgospelmusic.com",
+      "source_feed": "Google News: Zacardi Cortez",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-08T06:09:51Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T08:18:19Z"
+    },
+    {
+      "id": "c66b3654d5cdd71a",
+      "title": "Royal Family Doctor Found Dead During Children’s Sleepover—Husband Charged As Court Hears Disturbing Details",
+      "link": "https://www.jubileecast.com/articles/40050/20261008/royal-family-doctor-found-dead-during-children-s-sleepover—husband-charged-as-court-hears-disturbing-details.htm",
+      "summary": "Royal Family Doctor Found Dead During Children’s Sleepover—Husband Charged As Court Hears Disturbing Details",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T06:04:25Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32102/hannah-cain.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "eea9e2d00fd40789",
+      "title": "Christa Pike Is Speaking After Failed Execution—But Her Doctor’s Account Raises New Questions",
+      "link": "https://www.jubileecast.com/articles/40049/20261008/christa-pike-is-speaking-after-failed-execution—but-her-doctor-s-account-raises-new-questions.htm",
+      "summary": "Christa Pike Is Speaking After Failed Execution—But Her Doctor’s Account Raises New Questions",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T05:59:09Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31994/christa-pike.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ed0fcb60bb6279d3",
+      "title": "7 News Belize",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hUXljLW45NlNkdm9ia2NQYzE1SVRpZF9BM1NwRFQ0LXUyMUdCNFVtN0FnaUJSRktpWTYtTzZsaS1yWmJWVFV2aF8zdG40bWd5T21heDEwMkMxUmNO?oc=5",
+      "summary": "7 News Belize 7 News Belize",
+      "outlet": "7 News Belize",
+      "outlet_url": "https://www.7newsbelize.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-08T05:49:21Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T08:18:19Z"
+    },
+    {
+      "id": "271fab14477e6a42",
+      "title": "Billboard Hot Gospel Songs: Kirk Franklin Extends Record With 10th No. 1 as GloRilla Collab Debuts on Top",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeEM4bTAyd1dVcGJuQ0txMnVfRmZpZlkxNDFvc3QzOGJrNHpJWi1ZZmFhRkJPMmUtZ3RRZ2xWY3IyalFOdzlueVFoUlUxOEN3X2wxQ3VkZkVEb0Nablh4TXBLZFA4ZS1lSTVSazFVY044Qy1NazZrOG9iLU9UaS1sUDVCLWw3VmsyT3UzVjBZMFNNWjBMNld6M0FsakJoUnU5U09Jd2JQdHBlemR6dWYxd0RtcHlOc3pEU1ZpRzNaVTNiU0NfUGZPZHFGbDg5VnlJVVMwcFNKdkQzM3M?oc=5",
+      "summary": "Billboard Hot Gospel Songs: Kirk Franklin Extends Record With 10th No. 1 as GloRilla Collab Debuts on Top Rockum",
+      "outlet": "Rockum",
+      "outlet_url": "https://www.rockumweb.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-08T05:21:37Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T08:18:19Z"
+    },
+    {
+      "id": "7ebaee009abe3791",
+      "title": "Superchick’s ‘Last One Picked’ Turns 24—Why Its Message About Being Left Out Still Hits Home",
+      "link": "https://www.jubileecast.com/articles/40048/20261008/superchick-s-last-one-picked-turns-24—why-its-message-about-being-left-out-still-hits-home.htm",
+      "summary": "Superchick’s ‘Last One Picked’ Turns 24—Why Its Message About Being Left Out Still Hits Home",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T04:54:56Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32101/superchick.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c175e113978cf065",
+      "title": "Kirk Franklin Reaches A Billboard Milestone No Other Artist Has Achieved On Hot Gospel Songs",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObFhiS2MxYWNyTmxqMGk2TG8yQ3NXUGpSLWlUdUh0b05DY0s5Zmo2VmVPM0N3Ty1GUWVwQ3M2dzdyb3J6Mzl3aTNzS3hhazQ5NUllM3RQZnpzX0xwX2dTSnZMZkdEemhqRDhXNlpBQlhlbXBYRTNHd3lNUGVPX0d4YUpULTBzOGZLTGtnVVd4eEN0Wm1jZVFBcWlsd3VHMC1ZZUpxUktKNXJUV0NTR3NKbTJvSGRoN2tSdUd1eXBRZU94eXZTb2ZRQVdFWV9paW5lSWdtY1hJUFdReVJCN1lTRThR?oc=5",
+      "summary": "Kirk Franklin Reaches A Billboard Milestone No Other Artist Has Achieved On Hot Gospel Songs JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-08T04:44:00Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27107/kirk-franklin.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "814d6e481e064a62",
+      "title": "America hides death. That's why euthanasia seems acceptable",
+      "link": "https://www.christianpost.com/voices/america-hides-death-thats-why-euthanasia-seems-acceptable.html",
+      "summary": "American culture works hard to hide death, from body bags to lethal injection. But obscuring death obscures essential truths about human nature, and it has made an oxymoron like \"euthanasia\" seem plausible.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T04:08:56Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272218_w_550_367_223_224.jpg?v=20261008000318",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a1bf4a0e1c0a8120",
+      "title": "Pornography isn't just a private sin. It's a spiritual system",
+      "link": "https://www.christianpost.com/voices/pornography-isnt-just-a-private-sin-its-a-spiritual-system.html",
+      "summary": "Two responses dominate the Church's approach to pornography. One says it's a sin to resist, and the other says it's a compulsion to treat. Both describe something real, and both fall short, because neither can see what the Church is actually fighting.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T04:07:35Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272223_w_550_367.jpg?v=20261008000231",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e4057f4ba0c24ee7",
+      "title": "Bakker and Gortner died days apart. Their lives are a warning",
+      "link": "https://www.christianpost.com/voices/jim-bakker-and-marjoe-gortner-religion-without-redemption.html",
+      "summary": "In October 2026, America lost two men whose names became shorthand for religious showmanship. Their lives leave a question every thinking person should ponder: Is ritual without redemption possible?",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T04:01:30Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272221_w_550_363.jpg?v=20261008000130",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cfb2a1eabc27b3e8",
+      "title": "Churches must help 'recapture' worldview driving marriage, fertility crisis in US, author says",
+      "link": "https://www.christianpost.com/news/churches-must-recapture-views-driving-marriage-fertility-crisis.html",
+      "summary": "Churches, more than the government, can remedy America’s marriage and fertility crisis by restoring a vision of marriage and family as the richest source of human meaning, starting with the people in the pews, one Christian leader argues.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T04:00:15Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272225_w_550_367.jpg?v=20261008000202",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8acbbd42bcaf5d1b",
+      "title": "6 things to know about Cornell University gang rape allegations, reopened investigation",
+      "link": "https://www.christianpost.com/news/6-things-to-know-about-cornell-university-gang-rape-allegations.html",
+      "summary": "A former Cornell University student’s lawsuit alleging that she was drugged and gang-raped inside a fraternity house has led to the reopening of a criminal investigation into the woman’s claims and raised questions about how the university responded to the…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T03:26:00Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272208_w_550_367_413_507.jpg?v=20261008015914",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "78e556e339644f77",
+      "title": "Top 25 Classic Christian Songs: The Full Countdown",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMTRycG5KUk5ORzJoSlh6MTl1NzA5eWI5Vjh3SkdES0IxVHJ0SHBMOGZ2Wl9mWXBoOU1fYThNWDRLUVJaM3B5TF9kY3pzNEZDRkdzMHFmQnF1NkdJb3Q3V0NoV3c4bjZic3RkSzRob2xETGwxOGdDbjZfbk9ZV1kyN2RFMEcyeEMxWlBxQU9qUHI?oc=5",
+      "summary": "Top 25 Classic Christian Songs: The Full Countdown Hope 103.2",
+      "outlet": "Hope 103.2",
+      "outlet_url": "https://hope1032.com.au",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-08T02:46:19Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T08:18:19Z"
+    },
+    {
+      "id": "3761806f02d3eb2f",
+      "title": "Grace Graber Launches Season 2 of “Breaking Through” Podcast With K-LOVE, Announces New Album",
+      "link": "https://www.jubileecast.com/articles/40046/20261007/grace-graber-breaking-through-season-2-k-love-podcast-news-keywords.htm",
+      "summary": "Grace Graber Launches Season 2 of “Breaking Through” Podcast With K-LOVE, Announces New Album",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T02:27:43Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32100/grace-graber.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bf8a2542b4f3abac",
+      "title": "Bette Davis Saw Batman's Poster and Said Her Era Was Over",
+      "link": "https://www.jubileecast.com/articles/40045/20261007/bette-davis-batman-poster-era-over-michael-keaton.htm",
+      "summary": "Bette Davis Saw Batman's Poster and Said Her Era Was Over",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T02:24:16Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32099/bette-davis.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6edbd4facbe9e071",
+      "title": "Ben Affleck Explains Shared Custody Schedule With Jennifer Garner",
+      "link": "https://www.jubileecast.com/articles/40044/20261007/ben-affleck-shared-custody-schedule-jennifer-garner-animals.htm",
+      "summary": "Ben Affleck Explains Shared Custody Schedule With Jennifer Garner",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T01:56:27Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29507/ben-affleck-and-jennifer-garner.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "76556af93d57b82a",
       "title": "New details emerge in abuse allegations against author Heather Thompson Day and Seth Day",
@@ -298,6 +632,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "7942a28606279b02",
+      "title": "Perrys Announce Booking In-House",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDeE9hTmdpMThoVy1JZ0J0aTdCVWVGaHViVTloWWRSVTJEMVZrUUdTbFFVRDZwUTNEbFM0Q2pfWjJXQTZKZVhkaUZObHkyY3EwOUZyNm12S3N5S3VHVTZLWk1HUmdpdlBxZlE0Rjk3UQ?oc=5",
+      "summary": "Perrys Announce Booking In-House Singing News Magazine",
+      "outlet": "Singing News Magazine",
+      "outlet_url": "https://singingnews.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-07T20:29:57Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T08:18:19Z"
     },
     {
       "id": "a37ba7f869cca50f",
@@ -739,6 +1090,25 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dcbf21127047e81b",
+      "title": "Amoris laetitia: Rediscovering Gospel through challenges facing families",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/amoris-laetitia-tenth-anniversary-meeting-vatican-meditations.html",
+      "summary": "On the first day of the meeting dedicated to the 10th anniversary of Amoris laetitia, Sr. Helen Alford calls for ways to encourage young people to embrace the “great challenge” of family life. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-07T16:36:00Z",
+      "first_seen": "2026-10-08T08:18:19Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791384620339.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -6423,7 +6793,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T07:43:45Z"
+      "image_tried": "2026-10-08T08:18:19Z"
     },
     {
       "id": "d4ff323cd737c706",
@@ -6457,7 +6827,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-05T16:59:43Z",
-      "image_tried": "2026-10-05T04:59:43Z"
+      "image_tried": "2026-10-08T08:18:19Z"
     },
     {
       "id": "0b5b1eb7163ce6ef",
@@ -10703,382 +11073,6 @@
       "first_seen": "2026-10-02T11:07:05Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32027/disciple.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "79ce5c1f43f30a55",
-      "title": "U.S. bishops urge Catholic voters to put faith before politics",
-      "link": "https://www.ewtnnews.com/world/us/u-s-bishops-urge-catholic-voters-to-put-faith-before-politics",
-      "summary": "Video messages ahead of the 2026 midterm elections asked voters to approach civic life with prayer, charity, and a commitment to the common good.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T11:00:00Z",
-      "first_seen": "2026-10-02T12:09:17Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614481/images/shutterstock_1047600649.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cd41b5cee6418d64",
-      "title": "Minno Premieres 'Jesus Stories' Today, With a New Animated Bible Story Planned Every Week in 2027",
-      "link": "https://www.jubileecast.com/articles/39893/20261002/minno-laugh-and-grow-bible-for-kids-jesus-stories-premieres-weekly-bible-stories-2027.htm",
-      "summary": "Minno Premieres 'Jesus Stories' Today, With a New Animated Bible Story Planned Every Week in 2027",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T10:57:46Z",
-      "first_seen": "2026-10-02T11:07:05Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32026/minno.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "171431230a344c62",
-      "title": "Nancy Guthrie Update: Luke Daley Booked Into Jail, But Is There Any Link to Her Case?",
-      "link": "https://www.jubileecast.com/articles/39892/20261002/nancy-guthrie-update-luke-daley-booked-jail-porch-guy-october-2026.htm",
-      "summary": "Nancy Guthrie Update: Luke Daley Booked Into Jail, But Is There Any Link to Her Case?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T10:47:13Z",
-      "first_seen": "2026-10-02T11:07:05Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28968/luke-daley-and-nancy-guthrie.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4f5587bb03f4a32a",
-      "title": "Bruno Mars Serenades Karol G in 'Dance With Me' Video, and Fans Spot a Hidden \"Still\" Callback",
-      "link": "https://www.jubileecast.com/articles/39891/20261002/bruno-mars-dance-with-me-music-video-karol-g.htm",
-      "summary": "Bruno Mars Serenades Karol G in 'Dance With Me' Video, and Fans Spot a Hidden \"Still\" Callback",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T10:38:25Z",
-      "first_seen": "2026-10-02T11:07:05Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32025/bruno-mars.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3fb622109449a501",
-      "title": "Halle Berry Denies Abuse Claims After Judge Grants Ex Olivier Martinez a Temporary Restraining Order",
-      "link": "https://www.jubileecast.com/articles/39890/20261002/halle-berry-denies-abuse-claims-restraining-order-olivier-martinez.htm",
-      "summary": "Halle Berry Denies Abuse Claims After Judge Grants Ex Olivier Martinez a Temporary Restraining Order",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T10:33:01Z",
-      "first_seen": "2026-10-02T11:07:05Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32024/halle-berry.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d18bd6e939b35038",
-      "title": "Yays and Boos",
-      "link": "https://www.christianitytoday.com/2026/10/yays-and-boos/",
-      "summary": "This summer, CT started running an occasional feature on reader responses. Here’s a new installment. Creation from Nothing Is Not the Big Bang I appreciate Brad East’s article asserting God’s creating heaven and earth from nothing. I also recommend…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T10:00:00Z",
-      "first_seen": "2026-10-02T10:06:52Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/04/behind-the-story-article.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "45db02c0e3bb2ac6",
-      "title": "‘The Shack’ Sequel Is as Provocative as the Original",
-      "link": "https://www.christianitytoday.com/2026/10/return-to-the-shack-sequel-provocative-review/",
-      "summary": "This piece was adapted from CT’s books newsletter. Subscribe here. William Paul Young, Return to the Shack: A Journey Into Redemption (Apiary, 2026) The enormously successful, highly controversial novel The Shack (2007) spotlit the problem of suffering…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T10:00:00Z",
-      "first_seen": "2026-10-02T10:06:52Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/shack-sequel-provocative-original.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a7f318c98e9058cc",
-      "title": "How Great Is Our Claude",
-      "link": "https://www.christianitytoday.com/2026/10/ai-claude-worship-leader-setlist-lyric-evaluation/",
-      "summary": "One of the most common questions Tyler Anson Newberry hears from young worship leaders is “How do I know if a song is good?” For Newberry, a Houston-based worship leader who has been in ministry for over 30 years, evaluating a new song takes only a few…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T10:00:00Z",
-      "first_seen": "2026-10-02T10:06:52Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/claude-ai-worship-songs.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec1336984e796f32",
-      "title": "Christianity Today Announces New Editorial Leadership Team as the Ministry Celebrates Its 70th Year",
-      "link": "https://www.christianitytoday.com/news-releases/erik-petrik-office-of-content-editor-in-chief/",
-      "summary": "Celebrating the 70th anniversary of its founding, Christianity Today announced a new editorial leadership team to bring together the full scope of its various media platforms. The announcement comes at the conclusion of The One Kingdom Campaign and launches…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T10:00:00Z",
-      "first_seen": "2026-10-02T10:06:52Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/erik-petrik-eoc.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bc25f05316117a63",
-      "title": "Archdiocese of Baltimore set to ordain highest number of seminarians in 50 years",
-      "link": "https://www.ewtnnews.com/world/us/archdiocese-of-baltimore-set-to-ordain-highest-number-of-seminarians-in-50-years",
-      "summary": "Overall, the numbers have grown from 28 seminarians in 2007, 52 in 2020, and 66 this year — the largest single-year class in half a century.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T10:00:00Z",
-      "first_seen": "2026-10-02T11:07:05Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790887536/ewtn-news/en/Image_10-1-26_at_3.44_PM_vdjq34.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7aab9ae34b1a480c",
-      "title": "Kid Rock’s Christian album: Are controversial lyrics about young girls fueling haters?",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMGVFMG96eGxKaHZLZlVfMmN2N3JMV3RfSjVsUmlNakIwZlc3NVJ3VGZJMFF5Wjd6QW9oMmxGalZ0YzNpdzhGajhWQnlKNFBiaTJtX25GU1E0YUFxcUlqc09iZFZqTnU4N2V0TUFUVnJGWnVaU3doUmtnbTEyREtQZVBuYmtpakNGSlo2TEZBRkE2N3oyRExzaGF2cVV4TGRrdzBDSER6d21JdjZHNEM4dkwxa3VuZEo0WVVraGlraFFCSnhSLXVpQjdIWlRVOFdi0gHkAUFVX3lxTE5VZ1RlM25rM0dEUlVib3VqRXVYUFRkczR6emlCYXVxQ3NfVG1aUlVkRTUwVWJWTlFnMlF6a0ZzanZGRjBhbGJSandCenhjZGJjaFJqcUk0WnVYM2xWQlhyY1dRZmlyVU5oRWJISWVkdDktbTFWMC1nMEF6UXZkT2ZHNUtyMVA1bzhyakI5aEtTamtMZTZhWDZxU0U3YjVkal9fTnh4RzFQaVFKSTFQb1hqa1oxZ1dMQlBvWExQejBHRGphOUl0V0tta0pkSEJfaG1WV0RHNURjUVoxUnVRcWhrWmM5eQ?oc=5",
-      "summary": "Kid Rock’s Christian album: Are controversial lyrics about young girls fueling haters? PennLive.com",
-      "outlet": "PennLive.com",
-      "outlet_url": "https://www.pennlive.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-02T10:00:00Z",
-      "first_seen": "2026-10-02T13:41:59Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-05T13:44:26Z"
-    },
-    {
-      "id": "a35a9ea39faf462e",
-      "title": "Pope Leo: the Church needs artists",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-the-church-needs-artists.html",
-      "summary": "Especially in “the age of search engines,” the Church stands in need of artists,” who can aid pastors in making the Gospel “accessible and understandable,” Pope Leo told artists on Friday, in an address to participants in a meeting on “The Art of Possibility…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T09:31:00Z",
-      "first_seen": "2026-10-02T11:07:05Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/08/Vatikanischer-Pavillon-Biennale-Arte-2026_The-ear-is-the-eye-of-the-soul_Giradino-mistico_.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "33a0e2c6d8fa9570",
-      "title": "Brian Doerksen's final album speaks to sleepless nights, grief and pain",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNajVFY21qZFFoMkhweVk4TVd5V0VDcm83ZUczMFA4TU5VV0tSR3BkNUNNdUlmcXBzaWNqNzExLWdaOVRNVVlIS1lGT0pHdWdhOXZnWW9NUUJYU2ZjbHhjd2dPanpkTXRpVF9Cb2c2SHVYVG5QTE5xanpsRU9RNFFaQVJnOFM3eTUwMm9aMDkwc0FudlRmWnFoZWF6VEl0eUdYU0Z3MnBhSQ?oc=5",
-      "summary": "Brian Doerksen's final album speaks to sleepless nights, grief and pain CHVN Radio",
-      "outlet": "CHVN Radio",
-      "outlet_url": "https://www.chvnradio.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-02T09:21:27Z",
-      "first_seen": "2026-10-02T09:41:35Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-02T21:41:35Z",
-      "image_tried": "2026-10-05T09:43:47Z"
-    },
-    {
-      "id": "d0d3962091336445",
-      "title": "A former SSPX priest embraces life as a gay man and tattoo artist",
-      "link": "https://religionnews.com/2026/10/02/life-after-sspx-a-former-priest-comes-out-as-gay-and-becomes-a-tattoo-artist/",
-      "summary": "EXTON, Pennsylvania — In some traditionalist circles, Palmquist’s story — from SSPX priest to talking on YouTube about his faith and being gay — is already infamous.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T09:00:27Z",
-      "first_seen": "2026-10-02T09:08:51Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/09/webRNS-SSPX-Tattoo03.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "79fa7b7fd8e0f0de",
-      "title": "Can Pawleys Island Community Church Rebuild Trust As Criminal Cases Move To State Prosecutors?",
-      "link": "https://www.jubileecast.com/articles/39889/20261002/can-pawleys-island-community-church-rebuild-trust-as-criminal-cases-move-to-state-prosecutors.htm",
-      "summary": "Can Pawleys Island Community Church Rebuild Trust As Criminal Cases Move To State Prosecutors?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T08:11:54Z",
-      "first_seen": "2026-10-02T09:08:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31220/pawleys-island-church.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "94f27dd70a41a053",
-      "title": "Zuppi in Russia: Strengthen and speed up checks to reunite families",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/zuppi-in-russia-strengthen-and-speed-up-checks-to-reunite.html",
-      "summary": "Cardinal Matteo Zuppi has returned from Moscow after his third mission to Russia. During the visit, he meets Ukrainian prisoners of war, whose situation was a key focus of his talks, alongside the search for missing persons and the return of children to…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T08:02:00Z",
-      "first_seen": "2026-10-02T09:08:51Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2023/06/29/18/1688054493116.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e37a1f19034e92aa",
-      "title": "Album Review: Amy Grant’s ‘The Me That Remains (Deluxe Edition)’ Finds More Beauty In The Becoming",
-      "link": "https://www.jubileecast.com/articles/39888/20261002/album-review-amy-grant-s-the-me-that-remains-deluxe-edition-finds-more-beauty-in-the-becoming.htm",
-      "summary": "Amy Grant’s ‘The Me That Remains (Deluxe Edition)’ Finds More Beauty In The Becoming",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T08:00:35Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28809/amy-grant.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b2126c1a2898e0c0",
-      "title": "Charles Spencer’s ‘Swan Song: Diana, My Sister’ Tops Bestseller List With Ari Emanuel’s ‘Roll The Calls’ Close Behind",
-      "link": "https://www.jubileecast.com/articles/39887/20261002/charles-spencer-s-swan-song-diana-my-sister-tops-bestseller-list-with-ari-emanuel-s-roll-the-calls-close-behind.htm",
-      "summary": "Who Kept Hollywood Super-Agent Ari Emanuel’s Tell-All From The No. 1 Spot?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:52:43Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32023/swan-song-diana-my-sister.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dc1fdeee96d9322a",
-      "title": "Album Review: Charles Billingsley’s “Replay” Finds New Purpose In Christian Music’s Past",
-      "link": "https://www.jubileecast.com/articles/39886/20261002/album-review-charles-billingsley-s-replay-finds-new-purpose-in-christian-music-s-past.htm",
-      "summary": "Charles Billingsley’s “Replay” Finds New Purpose In Christian Music’s Past",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:47:23Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32022/charles-billingsley.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e0bb416b50bc4fe",
-      "title": "Bishops urge Tennessee to commute death sentence after botched execution",
-      "link": "https://www.vaticannews.va/en/church/news/2026-10/usa-tennessee-catholic-episcopal-bishops-christa-pike-execution.html",
-      "summary": "Following the botched execution of Christa Pike, the Catholic and Episcopal Bishops of Tennessee call for the US state’s Governor to commute her death sentence and uphold their opposition to the death penalty. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T07:43:00Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/01/09/1790841598359.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
