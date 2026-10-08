@@ -1,8 +1,232 @@
 {
-  "generated_at": "2026-10-07T21:43:37Z",
+  "generated_at": "2026-10-08T01:30:09Z",
   "story_count": 600,
-  "with_photo": 442,
+  "with_photo": 440,
   "items": [
+    {
+      "id": "76556af93d57b82a",
+      "title": "New details emerge in abuse allegations against author Heather Thompson Day and Seth Day",
+      "link": "https://religionnews.com/2026/10/07/charges-against-seth-day-detailed-in-court-documents-heather-thompson-day-denies-abuse/",
+      "summary": "(RNS) — A criminal complaint alleges that Seth Day sexually assaulted the couple's daughter. The couple has been barred from seeing their children by an emergency protective order.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T01:30:47Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T01:30:09Z"
+    },
+    {
+      "id": "1bd8b9a246b02a48",
+      "title": "Actress Minka Kelly and Imagine Dragons Singer Dan Reynolds Split After 4 Years, Report Says",
+      "link": "https://www.jubileecast.com/articles/40043/20261007/minka-kelly-dan-reynolds-split-after-4-years.htm",
+      "summary": "Actress Minka Kelly and Imagine Dragons Singer Dan Reynolds Split After 4 Years, Report Says",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T01:16:50Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32098/minka-kelly-and-dan-reynolds.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c847cc30a6980d3c",
+      "title": "Joe Manganiello Illness: What He Says Nearly Killed Him",
+      "link": "https://www.jubileecast.com/articles/40042/20261007/joe-manganiello-illness-bloodlines-memoir-autoimmune.htm",
+      "summary": "Joe Manganiello Illness: What He Says Nearly Killed Him",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T01:08:42Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32097/joe-manganiello.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "53d68638855af3b5",
+      "title": "Rand Paul releases new batch of Fauci diary entries: 'Early-onset Trump derangement syndrome'",
+      "link": "https://www.christianpost.com/news/rand-paul-releases-new-batch-of-fauci-diary-entries.html",
+      "summary": "Sen. Rand Paul, R-Ky., released another batch of entries from Dr. Anthony Fauci's personal diary Wednesday dating from between 2015 and 2019, some of which expressed criticism for President Donald Trump.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T00:05:49Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272224_w_550_367_632_216.jpg?v=20261007201255",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dfef507c492c3933",
+      "title": "Top Recording Artists Headline Music Stages at 2026 Taste of Soul",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYnp6MXJmVC1GRTE0T0tFejRwdGtVaEJreTVhMVcxd0JVWXBDNHA5VjM3UDBKZHl3WXF6WFNfS3dTLTlCbnhLeEFRTllWM0dlVU41RWlreTl5eHJGZU13QUJka3JrWFB4REFXZENMX09lNHRVWlRUd3pDTEdvNXdQOWNuMTJjbGJCakN5RG44d0lGR3JfQmJ0bQ?oc=5",
+      "summary": "Top Recording Artists Headline Music Stages at 2026 Taste of Soul Los Angeles Sentinel",
+      "outlet": "Los Angeles Sentinel",
+      "outlet_url": "https://lasentinel.net",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-07T23:54:55Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T01:30:09Z"
+    },
+    {
+      "id": "daef61663b6876ba",
+      "title": "Michael Tait Accuser Challenges Pastor’s Public Hug As Fears Of A Comeback Intensify",
+      "link": "https://www.jubileecast.com/articles/40040/20261007/michael-tait-accuser-challenges-pastor-s-public-hug-as-fears-of-a-comeback-intensify.htm",
+      "summary": "Michael Tait Accuser Challenges Pastor’s Public Hug As Fears Of A Comeback Intensify",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-07T23:19:11Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27121/michael-tait.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1aa17140da57c2db",
+      "title": "Youth Pastor Trey Lara’s Final Kiss Before Portland Marathon Death Leaves A Family Facing Unanswered Questions",
+      "link": "https://www.jubileecast.com/articles/40039/20261007/youth-pastor-trey-lara-s-final-kiss-before-portland-marathon-death-leaves-a-family-facing-unanswered-questions.htm",
+      "summary": "Youth Pastor Trey Lara’s Final Kiss Before Portland Marathon Death Leaves A Family Facing Unanswered Questions",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-07T23:13:29Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32096/trey-lara.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c4e0b649e73e917a",
+      "title": "Travis Barker’s Hospital Bed Photos Leave Questions As Kourtney Kardashian And Alabama Stay Close",
+      "link": "https://www.jubileecast.com/articles/40038/20261007/travis-barker-s-hospital-bed-photos-leave-questions-as-kourtney-kardashian-and-alabama-stay-close.htm",
+      "summary": "Travis Barker’s Hospital Bed Photos Leave Questions As Kourtney Kardashian And Alabama Stay Close",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-07T23:11:59Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32095/travis-barker.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7f9f5451450b9e92",
+      "title": "Heather Thompson Day And Seth Day Abuse Case Deepens As New Allegations Raise Questions About Their Christian Platform",
+      "link": "https://www.jubileecast.com/articles/40037/20261007/heather-thompson-day-and-seth-day-abuse-case-deepens-as-new-allegations-raise-questions-about-their-christian-platform.htm",
+      "summary": "Heather Thompson Day And Seth Day Abuse Case Deepens As New Allegations Raise Questions About Their Christian Platform",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-07T23:10:13Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31985/heather-thompson-day.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "08be576e40fab47a",
+      "title": "Cornell Catholic Community issues letter after campus protests",
+      "link": "https://www.ewtnnews.com/world/us/cornell-catholic-community-issues-letter-after-campus-protests",
+      "summary": "Students protested the university's handling of alleged sexual assaults involving members of the Chi Phi fraternity in 2024.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-07T22:29:00Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791410536/ewtn-news/en/shutterstock_2545021135_j97wcc.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d6bda281eb098006",
+      "title": "Justice Amy Coney Barrett headlines Benedictine College library dedication",
+      "link": "https://www.ewtnnews.com/world/us/justice-amy-coney-barrett-headlines-benedictine-college-library-dedication",
+      "summary": "Justice Amy Coney Barrett speaks at Benedictine College, the Archdiocese of Chicago urges Illinois’ governor to opt in to an education tax program, and more in this week’s education roundup.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-07T21:49:39Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791408149/ewtn-news/en/2026_Dedication-Justice_Amy_Coney_Barrett_uxhe5m.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f8206c8af33b27db",
+      "title": "John Cooper says Skillet’s vulnerable new EP offers hope amid life’s ‘silent screams’",
+      "link": "https://www.christianpost.com/news/john-cooper-says-skillets-vulnerable-new-ep-offers-hope.html",
+      "summary": "Skillet frontman John Cooper says the band’s new EP, “After the Storm,” channels personal heartache into a message of hope as the veteran rock group returns to its heavier roots and reaches a new generation of fans.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-07T21:47:29Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272216_w_550_361.jpg?v=20261007174728",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "06444a8f7674b607",
       "title": "Bishop Emeritus Frank Dewane, who led Diocese of Venice in Florida for nearly 20 years, dies at 76",
@@ -6202,6 +6426,23 @@
       "image_tried": "2026-10-05T07:43:45Z"
     },
     {
+      "id": "d4ff323cd737c706",
+      "title": "Ohio megachurch leader Tom Keesee goes on trial for child sexual abuse",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNHBhNnpEWUlkYmVoejZLUTd0SWtyVVUzU1JvS3JxcU4zeW1MTElMdHM1VWd4YjUwMEVvV1VKWXR3UVpnU0k4RUhMUW02ZGJ6UE4tU05RcmJpNW9Pa0pSbzY1X0VrMURlLXlaOGNlU0RoU18zSFRvcGR3NFJ2b1hSYktkRTFGOW50N2NXcnItUlBCRjQzLWtvSGt3?oc=5",
+      "summary": "Ohio megachurch leader Tom Keesee goes on trial for child sexual abuse The Roys Report",
+      "outlet": "The Roys Report",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-05T04:17:31Z",
+      "first_seen": "2026-10-08T01:30:09Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-08T01:30:09Z"
+    },
+    {
       "id": "225008a7b0164fcf",
       "title": "Mississippi Mass Choir honors Leah Angela Curry Williams at final farewell",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcllmS3B3MGtQQVlrNzZ0SVdjOUQwaU9BcHVTY0ZUNU5tWl82Q0pzSXdJbFFRSUJPM1d6bE5MLW44c05VbVFnZGNRUGp6VjJHaWVQR0o5QXp2dWdPam1zT2JicWF6X0hPcnduSW50bE1EbnNTN3A2bzlMRjJCN1dnUTRlM0xPVzVVUzRPbWprTHNMY1pLUmNncXAwX01MRTJ4YTRwVFBRWHZSQV9mUE9pMlpR?oc=5",
@@ -6404,7 +6645,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-05T11:39:26Z",
-      "image_tried": "2026-10-04T23:39:26Z"
+      "image_tried": "2026-10-08T01:30:09Z"
     },
     {
       "id": "a204eb71bb7b1b54",
@@ -6495,7 +6736,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-05T10:39:22Z",
-      "image_tried": "2026-10-04T22:39:22Z"
+      "image_tried": "2026-10-08T01:30:09Z"
     },
     {
       "id": "59f92b360d6807f6",
@@ -10839,251 +11080,6 @@
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/01/09/1790841598359.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9e9aeae612100419",
-      "title": "Joseph Anthony On ‘YES LORD,’ Heart Failure, And The Yes That Changed His Life",
-      "link": "https://www.jubileecast.com/articles/39885/20261002/joseph-anthony-on-yes-lord-heart-failure-and-the-yes-that-changed-his-life.htm",
-      "summary": "Joseph Anthony On ‘YES LORD,’ Heart Failure, And The Yes That Changed His Life",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:36:09Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32021/joseph-anthony.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e92fc6f4b2b33e0",
-      "title": "What Did Former Youth Pastor Caleb Flynn Say About His Wife During His ‘American Idol’ Days?",
-      "link": "https://www.jubileecast.com/articles/39884/20261002/what-did-former-youth-pastor-caleb-flynn-say-about-his-wife-during-his-american-idol-days.htm",
-      "summary": "What Did Caleb Flynn Say About His Wife During His ‘American Idol’ Days?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:27:32Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29307/ashley-and-caleb-fylnn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5aa81a16c12e3868",
-      "title": "Chad Lowe’s Daughter Fiona Dies At 13: How Should Christians Respond To The Family’s Heartbreak?",
-      "link": "https://www.jubileecast.com/articles/39883/20261002/chad-lowe-s-daughter-fiona-dies-at-13-how-should-christians-respond-to-the-family-s-heartbreak.htm",
-      "summary": "Chad Lowe’s Daughter Fiona Dies At 13: How Should Christians Respond To The Family’s Heartbreak?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:20:27Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31993/chad-lowe-and-family.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cfaf7ed9bd7a7e0d",
-      "title": "What Whitney Capps Said About Faith As Cancer Changed Her Life",
-      "link": "https://www.jubileecast.com/articles/39882/20261002/what-whitney-capps-said-about-faith-as-cancer-changed-her-life.htm",
-      "summary": "What Whitney Capps Said About Faith As Cancer Changed Her Life",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:14:46Z",
-      "first_seen": "2026-10-02T08:08:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32020/whitney-capps.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b830ede99ad6c2f4",
-      "title": "Why Is Nicole C. Mullen Bringing ‘Call On Jesus’ Home After 25 Years?",
-      "link": "https://www.jubileecast.com/articles/39881/20261002/why-is-nicole-c-mullen-bringing-call-on-jesus-home-after-25-years.htm",
-      "summary": "Why Is Nicole C. Mullen Bringing ‘Call On Jesus’ Home After 25 Years?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T07:08:35Z",
-      "first_seen": "2026-10-02T07:09:09Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27911/nicole-c-mullen.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bb9cce43dc2ab851",
-      "title": "Christian Rap Song & Album Drops 10/2/26 (Listen Here)",
-      "link": "https://rapzilla.com/2026-10-christian-rap-song-album-drops-10-2-26-listen-here/",
-      "summary": "Check out the hottest Christian Rap Song & Album Drops 9/25/26! Our team scoured every platform to bring you the best new albums and singles for today. Who are you spinning today? Dive right into the embedded tracks and playlists below, and find more…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T06:56:00Z",
-      "first_seen": "2026-10-02T07:09:09Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/02022252/3-Picture-Template-Article-60.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "85cdfb572dd39c63",
-      "title": "UK's Wings Music Group signs joint venture deal with Capitol Christian Music Group & Capitol Records",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYTRxOWNJUXVMa2dSNDFYVXpBYnZodERUakd2RzdpRU95X0V4eWVlVkJiWmd2RjV4dXAwTXFQQVZ2WlVVbXl6RHM1czAyeURjeFRZVjd0bmlQZU5NbjU0ZFJoR1Fsc0FuSXR4MGl0MGxGc0dDXzdlSzc2dU5ZRmhLSW1pWFU5RzFKMmxiVUFsNk1YQUxKemdET2ljVDdaTlFJRGdCNGFidUZFaWl4WVdVaDNfVG9QY0Vkd0NOT1RvLUtxZUgtaExBZW1nV3B6U09MbzlQd2JETTZpQ2M?oc=5",
-      "summary": "UK's Wings Music Group signs joint venture deal with Capitol Christian Music Group & Capitol Records musicweek.com",
-      "outlet": "musicweek.com",
-      "outlet_url": "https://www.musicweek.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-02T06:00:00Z",
-      "first_seen": "2026-10-02T06:46:03Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-02T18:46:03Z",
-      "image_tried": "2026-10-05T06:51:44Z"
-    },
-    {
-      "id": "6d9cc4247db9dde7",
-      "title": "Rapzilla Artist Drop 10/2/26: QEW – 777 (No Wish)",
-      "link": "https://rapzilla.com/2026-10-rapzilla-artist-drop-10-2-26-qew-777-no-wish/",
-      "summary": "The Rapzilla Artist roster has one Rapzilla Artist Drop 10/2/26; we’re excited about today. This drop showcases some of the best in the space. More Rapzilla releases. QEW, Cyrus Sonata – 777 (No Wish) ft. N!x GENRE: Hip-Hop STREAM…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T05:03:45Z",
-      "first_seen": "2026-10-02T05:07:07Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2024/12/27014458/Snapinsta.app_431892190_843187393974416_5061567642522568751_n_1080-1-e1735281983134.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2af05526623f8df0",
-      "title": "Ignoring money problems? The Bible warns it will cost you",
-      "link": "https://www.christianpost.com/voices/ignoring-money-problems-the-bible-warns-it-will-cost-you.html",
-      "summary": "Small financial problems have a way of becoming big ones when we ignore them. Numbers 33 offers a sobering warning about \"thorns in your sides,\" and a reminder that what we tolerate today may trouble us tomorrow.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T04:10:00Z",
-      "first_seen": "2026-10-02T05:07:07Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272141_w_550_367_599_112.jpg?v=20261002001212",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "43053f2119d5ecf1",
-      "title": "Does forgiveness cover abortion? Many women aren't sure.",
-      "link": "https://www.christianpost.com/voices/does-forgiveness-cover-abortion-many-women-arent-sure.html",
-      "summary": "Every Sunday, women who have had abortions sit in church and hear that God forgives sin. But when abortion is never named, many conclude that the promise doesn't include them, and they take the pastor's silence as judgment.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T04:05:08Z",
-      "first_seen": "2026-10-02T05:07:07Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272140_w_550_367.jpg?v=20261002000758",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ed03787e312c8fb3",
-      "title": "Ezra Jin predicts 'enormous revival' in China amid crackdown; urges Xi to release 8 Zion Church leaders",
-      "link": "https://www.christianpost.com/news/ezra-jin-predicts-enormous-revival-in-china-amid-crackdown.html",
-      "summary": "Despite his newfound freedom, Pastor Ezra Jin's heart remains with the eight leaders from his Beijing Zion Church who remain imprisoned in China, where he prays long-suffering Christians will soon find relief and reap a spiritual harvest sown in persecution.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T04:03:20Z",
-      "first_seen": "2026-10-02T05:07:07Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/18/271825_w_550_367_557_153.jpg?v=20261002001424",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "835e4a372f34fe27",
-      "title": "Pastor Ezra Jin: 'God-poured words' sustained me through 266 days in a Chinese cell",
-      "link": "https://www.christianpost.com/news/pastor-ezra-jin-god-poured-words-sustained-me-in-chinese-cell.html",
-      "summary": "Pastor Ezra Jin offered new details of his testimony, reflections on the theology of suffering and insight into the plight of persecuted Christians during an interview with The Christian Post.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-02T04:00:00Z",
-      "first_seen": "2026-10-02T05:07:07Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/17/271784_w_550_309_643_235.jpg?v=20261002001959",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9fdeee57d6176959",
-      "title": "Tim Tebow Pauses Life Surge Ties After Pablo Torre Investigation — A Biblical Stand Against the Prosperity Gospel",
-      "link": "https://blackchristiannews.com/tim-tebow-pauses-life-surge-ties-after-pablo-torre-investigation-a-biblical-stand-against-the-prosperity-gospel/?utm_source=rss&utm_medium=rss&utm_campaign=tim-tebow-pauses-life-surge-ties-after-pablo-torre-investigation-a-biblical-stand-against-the-prosperity-gospel",
-      "summary": "Tim Tebow is backing away from Life Surge after a Pablo Torre investigation put the Christian events organization — and The post Tim Tebow Pauses Life Surge Ties After Pablo Torre Investigation — A Biblical Stand Against the Prosperity Gospel appeared first…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-02T03:54:49Z",
-      "first_seen": "2026-10-02T04:07:36Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/browser-download-20261002T034341.362587103Z-0-Tim_Tebow_on_May_15__2017__cropped_.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
