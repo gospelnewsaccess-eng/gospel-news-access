@@ -1,8 +1,272 @@
 {
-  "generated_at": "2026-10-08T20:58:19Z",
+  "generated_at": "2026-10-09T01:02:20Z",
   "story_count": 600,
-  "with_photo": 445,
+  "with_photo": 448,
   "items": [
+    {
+      "id": "10ade019106b799e",
+      "title": "Can Mariah Carey Take Back the Record? The December Test Facing Ella Langley’s 24 Weeks at No. 1",
+      "link": "https://www.jubileecast.com/articles/40070/20261008/mariah-carey-ella-langley-record-24-weeks-no-1-december-christmas-test.htm",
+      "summary": "Can Mariah Carey Take Back the Record? The December Test Facing Ella Langley’s 24 Weeks at No. 1",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-09T00:58:52Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31021/mariah-carey.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f590a11fa4cbc1c7",
+      "title": "Caring About Justice Isn’t an Optional Part of Following Jesus",
+      "link": "https://relevantmagazine.com/justice/caring-about-justice-isnt-an-optional-part-of-following-jesus/",
+      "summary": "Today, Reject Apathy returns to RELEVANT. Every Thursday from here on, we’ll be publishing a new story about an issue of justice and human dignity: reported carefully, told through the people living it, with real ways for you to respond. If the name is new to…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-09T00:37:07Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/RA-new.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "629889453ea9125f",
+      "title": "Draconid Meteor Shower Peaks Tonight Under a Nearly Moonless Sky: When and Where to Look",
+      "link": "https://www.jubileecast.com/articles/40069/20261008/draconid-meteor-shower-peaks-tonight-nearly-moonless-sky-when-where-to-look.htm",
+      "summary": "Draconid Meteor Shower Peaks Tonight Under a Nearly Moonless Sky: When and Where to Look",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-09T00:09:27Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32080/draconids-meteor-shower.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2e810e59594c3411",
+      "title": "Bad Bunny, Lana Del Rey and Morgan Wallen to Host GTA 6 Radio Stations: See the Full Lineup",
+      "link": "https://www.jubileecast.com/articles/40068/20261008/gta-6-radio-stations-hosts-bad-bunny-lana-del-rey-morgan-wallen-full-lineup.htm",
+      "summary": "Bad Bunny, Lana Del Rey and Morgan Wallen to Host GTA 6 Radio Stations: See the Full Lineup",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T23:54:50Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32112/bad-bunny-lana-de-ray-and-morgan-wallen.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dfe1d3740b1f4191",
+      "title": "Jackie Hill Perry: ‘Nobody’s Perfect’ Is a Weak Excuse for Staying the Same",
+      "link": "https://relevantmagazine.com/faith/jackie-hill-perry-nobodys-perfect-is-a-weak-excuse-for-staying-the-same/",
+      "summary": "We’ve all been there. You’re at small group and someone says the thing out loud: the habit they keep promising to quit, the temper, the way they talk about their coworker when she’s not around. There’s a pause. Then someone leans over and says, “Hey, nobody’s…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T22:19:40Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/jackie.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7c9d93549c9c73e",
+      "title": "Exclusive Interview: Grassy Creek Bluegrass Band’s Brian Eversole Reveals The Terrifying Night Behind “Fire On The Hill”",
+      "link": "https://www.jubileecast.com/articles/40067/20261008/exclusive-interview-grassy-creek-s-brian-eversole-reveals-the-terrifying-night-behind-fire-on-the-hill.htm",
+      "summary": "Grassy Creek’s Brian Eversole Reveals The Terrifying Night Behind “Fire On The Hill”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T22:11:14Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32111/grassy-creek-bluegrass-band.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0096a108689c652c",
+      "title": "‘The enticement to become God’: Christian convert warns of spiritual danger of AI",
+      "link": "https://www.christianpost.com/books/ex-muslim-convert-sounds-warning-on-ai-we-are-being-diminished.html",
+      "summary": "A former Muslim who converted to Christianity after nearly a decade of investigating the faith warns that artificial intelligence is echoing one of Scripture’s oldest warnings about human nature.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T22:05:56Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/20/272099_w_550_367.jpg?v=20261008183258",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a901b9323b2f29f7",
+      "title": "Jana Kramer Opens Up About Divorce And Baptism—What Happened Behind The Scenes?",
+      "link": "https://www.jubileecast.com/articles/40066/20261008/jana-kramer-opens-up-about-divorce-and-baptism—what-happened-behind-the-scenes.htm",
+      "summary": "Jana Kramer Opens Up About Divorce And Baptism—What Happened Behind The Scenes?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T22:04:51Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32110/jana-kramer.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f1c72477157ba343",
+      "title": "U.S. bishops to elect secretary, committee chairs at November meeting",
+      "link": "https://www.ewtnnews.com/world/us/bishops-to-select-leadership-roles-nov-2026",
+      "summary": "The bishops will serve one year as chair-elect and assume the positions in the fall of 2027.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T21:53:00Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614642/images/usccbfall24.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c668c0f5e282a120",
+      "title": "Album Review: Megan Woods’ Self-Titled Debut Finds Its Strength In A Question Of Identity",
+      "link": "https://www.jubileecast.com/articles/40065/20261008/album-review-megan-woods-self-titled-debut-finds-its-strength-in-a-question-of-identity.htm",
+      "summary": "Megan Woods’ Self-Titled Debut Finds Its Strength In A Question Of Identity",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T21:52:19Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32109/megan-woods.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "340d40df837850aa",
+      "title": "Museum of African American History awarded $2.5M to study region’s Black religious history",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2U1YnNucHlDdDZOQnM4S1c0WlIta0VkbUQ2U1BpMDlMVG03X1VIQktrUmNBSjJCV2lOUlN0UXNXbXhKRjJqT3BJQ3Bod3pfNXZzc2lhYmNnTjd5TWtEc2hMeHp4d1lUQ3lFRnZ3MjBWVUVibE9oSi11bHZqaENqYkJwRk43UlVoQ0JFUDFnMFFRcjA5dnhCUW4tREZPRXNkb2RXaENFRjA3VUFDNkdUSktwUUpQd0tKSVNOdzRvT1NDVlBSR3c?oc=5",
+      "summary": "Museum of African American History awarded $2.5M to study region’s Black religious history The Bay State Banner",
+      "outlet": "The Bay State Banner",
+      "outlet_url": "https://baystatebanner.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-08T21:49:35Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-09T01:02:20Z"
+    },
+    {
+      "id": "ed57cae78b5e7618",
+      "title": "Chad Lowe Shares Faith-Themed Post After Daughter Fiona’s Death At 13",
+      "link": "https://www.jubileecast.com/articles/40064/20261008/chad-lowe-shares-faith-themed-post-after-daughter-fiona-s-death-at-13.htm",
+      "summary": "Chad Lowe Shares Faith-Themed Post After Daughter Fiona’s Death At 13",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T21:46:16Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31993/chad-lowe-and-family.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "be4f99f5e35c578a",
+      "title": "Skillet’s John Cooper Reveals The Personal Pain Behind ‘After The Storm’",
+      "link": "https://www.jubileecast.com/articles/40063/20261008/skillet-s-john-cooper-reveals-the-personal-pain-behind-after-the-storm.htm",
+      "summary": "Skillet’s John Cooper Reveals The Personal Pain Behind ‘After The Storm’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T21:37:29Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28049/skillet.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6a1bdaa18d6a60dd",
+      "title": "Archbishop of Dijon, France, asks for prayers for priest who died by suicide",
+      "link": "https://www.ewtnnews.com/world/europe/archbishop-of-dijon-france-asks-for-prayers-for-priest-who-died-by-suicide",
+      "summary": "“Let us entrust him to the merciful love of the Lord,” the archbishop wrote in a letter to the faithful. “Let us pray for his parishioners, shocked by this unexpected news.”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T21:13:00Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791490557/ewtn-news/en/Image_10-8-26_at_3.13_PM_xirlav.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "72a055bba2be09b2",
       "title": "‘Scream’ Actor C.W. Morgan’s Death At 72 Reveals A Heartbreaking Family Farewell",
@@ -78,6 +342,25 @@
       "image_tried": "2026-10-08T20:58:19Z"
     },
     {
+      "id": "68e225f67e91f33a",
+      "title": "FBI Arrests Somali-American Allegedly Planning ISIS Attack in Minnesota",
+      "link": "https://mycharisma.com/news/fbi-arrests-somali-american-allegedly-planning-isis-attack-in-minnesota/",
+      "summary": "The FBI arrested a Somali man in Minnesota on Tuesday who allegedly planned to attack the Mall of America later this month. CBS News, citing a criminal complaint, reported that 18-year-old Sheikhdoon Abdullahi Mohamud posted a video online pledging allegiance…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T20:47:36Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "79a5126a2f95d5c0",
       "title": "Prince Harry Says He \"Slipped Into Depression\" Days After Leaving Royal Life Behind",
       "link": "https://www.jubileecast.com/articles/40059/20261008/prince-harry-adrenaline-crash-depression-canada-move-masterclass.htm",
@@ -130,6 +413,63 @@
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272235_w_550_309.jpg?v=20261008163151",
         "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f33b190e42d3a406",
+      "title": "NASA Investigates Mysterious Moon Pit That Could Lead to Massive Underground Cave",
+      "link": "https://mycharisma.com/news/nasa-investigates-mysterious-moon-pit-that-could-lead-to-massive-underground-cave/",
+      "summary": "NASA is preparing to investigate one of the Moon’s strangest mysteries. This time, scientists aren’t just looking at what’s on the lunar surface. They want to know what’s hiding underneath it. According to the Daily Mail, NASA plans to investigate the Marius…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T20:27:44Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/03/Katie-Souza-Star-Gods-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "343e377efe216df1",
+      "title": "Rubio Defends the West Amid Globalist Rise",
+      "link": "https://mycharisma.com/news/rubio-defends-the-west-amid-globalist-rise/",
+      "summary": "Secretary of State Marco Rubio took aim at globalist actions that have eroded Western values in Athens, Greece, where he provided a defense of the West. “The word nationalism became a dirty word. And so we tore down our monuments, we condemned our own…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T20:12:51Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a5c85c0122a0596d",
+      "title": "Trump’s Board of Peace Refuses to Back Down From Gaza Peace Plan",
+      "link": "https://mycharisma.com/news/trumps-board-of-peace-refuses-to-back-down-from-gaza-peace-plan/",
+      "summary": "President Donald Trump’s Board of Peace is sending a clear message about its plans for Gaza: It is not backing down. According to The Jerusalem Post, a source within the Board of Peace told i24News diplomatic correspondent Guy Azriel that efforts to advance…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T19:56:26Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Mark-Biltz-book-406x600.jpg",
+        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -304,6 +644,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "51a9f8cad1554608",
+      "title": "Pope Francis’ Secret Diaries to Be Revealed in Stunning Vatican Release",
+      "link": "https://mycharisma.com/news/pope-francis-secret-diaries-to-be-revealed-in-stunning-vatican-release/",
+      "summary": "More than a year after his death, the world is about to hear from Pope Francis again. This time, through words he kept private for decades. The Vatican is preparing to publish The Private Diary of Pope Francis, a collection of personal writings spanning…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T17:56:18Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "e8574e6c0a8b9e6d",
       "title": "Pope Leo XIV urges pontifical university students to ‘guard your hearts’",
       "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-urges-pontifical-university-students-to-guard-your-hearts",
@@ -356,6 +715,25 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1777322777/ewtn-news/en/vaticano-1773065403_jdmyie.webp",
         "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "796c3e505c03ae7b",
+      "title": "Signs Removed From British Consulate in Jerusalem After Closure Due to Sanctions Over Judea & Samaria",
+      "link": "https://mycharisma.com/news/signs-removed-from-british-consulate-in-jerusalem-after-closure-due-to-sanctions-over-judea-samaria/",
+      "summary": "Israel and Britain have reached a compromise agreement on the closure of the British consulate in East Jerusalem, Foreign Minister Gideon Sa’ar announced on Thursday. According to that agreement, the British consulate will cease to function as an official…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T16:55:21Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -484,6 +862,25 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-08T20:58:19Z"
+    },
+    {
+      "id": "356d5cf3867464e3",
+      "title": "‘How Can I Leave the People?’ California Pastor Faces Food Pantry Shutdown",
+      "link": "https://mycharisma.com/news/how-can-i-leave-the-people-california-pastor-faces-food-pantry-shutdown/",
+      "summary": "A San Jose pastor who helps struggling families put food on the table now faces a city shutdown order and threatened fines of up to $20,000 a day. Pastor Ralph Olmos’ Lighthouse Food Rescue and Distribution received a Sept. 25 citation requiring it to remove…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-08T16:00:50Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "7a13add0b15b179e",
@@ -4630,6 +5027,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "87f658d8556c3783",
+      "title": "Freddie Jackson was trained as a gospel singer before becoming one of R&B's biggest stars",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOcFlPMlhLaWlIejBYY3lMQjJ4RlNVb2hKaVFFYzhTbkZLdGhFc0JqTWJ3ZUpIRjhNaTNfWGJZTjJzdTJySWhiSjVGbTBtOGlIMWlBTG95X2tudFZwcTB4Nk5iQTZEeTJpckxnMW9oa0l6a0I5VVNDMTBFUlU0bi1sMTlwdmlVU1Zpc01rVXlxRW9IX1UtaGdhTTc5OFBDX25lcU93NFZNSC1nUGswaHNsMXNfMHR0WnRWY29SUVBHcWVmRHV0ZlQ4WUhQbllnd0V0cExfdTV0UlNtaC05dlRtbkFlaXU4dHlNaloxZmtzUXdMcGp5X0JWSE9uclFacWhESzljY9IBigJBVV95cUxOSnNKV0RKMGVkdWFVQ21QcHl0LTZFcmt2dnZxRndUXzlRd1NfRGp4UE41anBiWU5aT2JiaWZSejg1cmVoaXlQQ2prQkNWTXZLMng1TlYwY0I4VG5OT0lmYVpQb0VVWGN1N0czQVlnWmFnRUJrcHpDSzhwTlo1Nko3am96X0NSaVNFcVhzeWR3Nm5ha2dibmVuNmZibmt5MGJ5eWdLVkpxRklUUm02aGhkRWRoVjM5QUVidk51WXUzT1lWSm9YQVZSR1FTMHgwNzRmTHFEV0VRUGpnbGZtMjZEV0hxQ0lYVFM0LXJOeVdJdFhrYVpfVTBlUVlWS3lCeHZmOHp2QUpKSkpEQQ?oc=5",
+      "summary": "Freddie Jackson was trained as a gospel singer before becoming one of R&B's biggest stars The Economic Times",
+      "outlet": "The Economic Times",
+      "outlet_url": "https://m.economictimes.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-06T17:47:06Z",
+      "first_seen": "2026-10-09T01:02:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-09T01:02:20Z"
+    },
+    {
       "id": "bc3e5837e13f260b",
       "title": "Freddie Jackson Dies: What His Family Has Confirmed About the \"You Are My Lady\" Singer",
       "link": "https://www.jubileecast.com/articles/40003/20261006/freddie-jackson-dies-family-confirms-you-are-my-lady-singer.htm",
@@ -6351,7 +6765,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-06T11:37:35Z",
-      "image_tried": "2026-10-05T23:37:35Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "07e03a151c99f18e",
@@ -6387,7 +6801,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-06T10:38:40Z",
-      "image_tried": "2026-10-05T22:38:40Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "0e7990c4605eaf48",
@@ -6423,7 +6837,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-06T10:38:40Z",
-      "image_tried": "2026-10-05T22:38:40Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "8418d1052d17097d",
@@ -6497,7 +6911,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-06T09:41:46Z",
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "86da91ee31dc78d1",
@@ -6588,7 +7002,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "0f8ae9a4bdd5cf43",
@@ -6643,7 +7057,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-06T09:41:46Z",
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "1970b7f2071cb35d",
@@ -6660,7 +7074,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-06T00:10:29Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "26b641fb35fce455",
@@ -6677,7 +7091,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-06T09:41:46Z",
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "0e71678288b8be63",
@@ -6770,7 +7184,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "2f573acce44a999a",
@@ -6861,7 +7275,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "fc22d6dc09e228f4",
@@ -6916,7 +7330,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "8d6be4acf548141f",
@@ -6988,7 +7402,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "d87cf892eba74169",
@@ -7519,7 +7933,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-05T21:41:46Z"
+      "image_tried": "2026-10-09T01:02:20Z"
     },
     {
       "id": "d02955fa87f78894",
@@ -10685,414 +11099,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "15290048007bbf1d",
-      "title": "Is \"The Man with the Bag\" Family-Friendly? PG Rating, Streaming Date and What Parents Should Know",
-      "link": "https://www.jubileecast.com/articles/39915/20261003/man-with-the-bag-family-friendly-pg-rating-streaming-date.htm",
-      "summary": "Is \"The Man with the Bag\" Family-Friendly? PG Rating, Streaming Date and What Parents Should Know",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T09:18:27Z",
-      "first_seen": "2026-10-03T09:39:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32010/alan-ritchson-and-arnold-s.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "77e673503f47fd6f",
-      "title": "How Long Is Anne Hathaway's \"Verity\"? Runtime, Streaming Status and Book vs. Movie Answers",
-      "link": "https://www.jubileecast.com/articles/39914/20261003/verity-movie-runtime-streaming-book-vs-movie.htm",
-      "summary": "How Long Is Anne Hathaway's \"Verity\"? Runtime, Streaming Status and Book vs. Movie Answers",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T09:09:03Z",
-      "first_seen": "2026-10-03T09:39:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32016/verity.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a6953b7ebc1afd87",
-      "title": "Southern Gospel's The LeFevre Quartet coming to Sugarcreek",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZDh2Z21JazFEdDVzNTRmSkFsbGhISm8zSFl1dkg1c05ZbDVJSklTektzcGk5cWJXbUlYREFxYmFfVFI1Y3g4VnZVN3A1MUNyVlZzOXBpRHI4WHVsT0xIU1JwazNCZk5xM0xjdFZjXzRfajRPQUdBM3dfMWc0SkswdUo4aThwZUlYNHdNM05YVEFfUGVHYTZlYXEzbUI2WXRnVFJMX3RhQjE0WkNVS1E0cUM3SnhKVnY3bmxBVjdSTFozNjJTSjZrbkVrR3UybnFHUE95dlVoNEQ0UjNhU0w1OEQ5bzk?oc=5",
-      "summary": "Southern Gospel's The LeFevre Quartet coming to Sugarcreek timesreporter.com",
-      "outlet": "timesreporter.com",
-      "outlet_url": "https://www.timesreporter.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-03T08:55:00Z",
-      "first_seen": "2026-10-03T09:39:53Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-03T21:39:53Z",
-      "image_tried": "2026-10-06T09:42:02Z"
-    },
-    {
-      "id": "949c4e0d830e3771",
-      "title": "Catherine Zeta-Jones Has A Dangerous Past In \"Kill Jackie\"—And Someone Wants Her Dead",
-      "link": "https://www.jubileecast.com/articles/39913/20261003/catherine-zeta-jones-has-a-dangerous-past-in-kill-jackie-—and-someone-wants-her-dead.htm",
-      "summary": "Catherine Zeta-Jones Has A Dangerous Past In Kill Jackie—And Someone Wants Her Dead",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T08:27:15Z",
-      "first_seen": "2026-10-03T08:43:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32035/kill-jackie.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8d185a8c8574056c",
-      "title": "Allow Christian music singer to perform in Sabah if all laws complied with, says Shafie",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ2lfc2xBakdJS2stR3psMHdNQllWcmszdnE5Q2RXODF1dUlaN2NwTDdDUFI1bXhxLUNPUkRIcmNRVjVNNUVrSkhQSlZSLVBUdm92aGR3OHp1Q2ZqSWFtXzVfa1hic0xBamQ5eDZ2NzN2MDlLUHFfb3loZGlKUE93WWhTUnVfZEZoQVhkSS1naFlhMjRsV3p6VWt6Q2VCckw0V2hZWnVTOWRPMVVxd1FON3pNZFFJWE9mSENrb1BzM2FVdW9GcWlpWGs2dExfZ0xZcmc?oc=5",
-      "summary": "Allow Christian music singer to perform in Sabah if all laws complied with, says Shafie The Star",
-      "outlet": "The Star",
-      "outlet_url": "https://www.thestar.com.my",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-03T08:19:00Z",
-      "first_seen": "2026-10-03T08:43:39Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-03T20:43:39Z",
-      "image_tried": "2026-10-06T09:09:10Z"
-    },
-    {
-      "id": "a3f362ab4ff352bb",
-      "title": "Florence Pugh’s \"East Of Eden\" Arrives On Netflix—Why Is This Family’s Darkness So Familiar?",
-      "link": "https://www.jubileecast.com/articles/39912/20261003/florence-pugh-s-east-of-eden-arrives-on-netflix—why-is-this-family-s-darkness-so-familiar.htm",
-      "summary": "Florence Pugh’s East Of Eden Arrives On Netflix—Why Is This Family’s Darkness So Familiar?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T08:11:17Z",
-      "first_seen": "2026-10-03T08:43:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32034/east-of-eden.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b5e7dc33caec2e36",
-      "title": "What Was Michael Tait Doing At A Pastors Gathering—And Why Is A Pastor Defending Him?",
-      "link": "https://www.jubileecast.com/articles/39911/20261003/what-was-michael-tait-doing-at-a-pastors-gathering—and-why-is-a-pastor-defending-him.htm",
-      "summary": "What Was Michael Tait Doing At A Pastors Gathering—And Why Is A Pastor Defending Him?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T08:05:59Z",
-      "first_seen": "2026-10-03T08:43:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27191/michael-tait.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a9fdd6ee1200d3f2",
-      "title": "Who Is Christa Pike? The Dark History Behind Tennessee’s Failed Execution",
-      "link": "https://www.jubileecast.com/articles/39910/20261003/who-is-christa-pike-the-dark-history-behind-tennessee-s-failed-execution.htm",
-      "summary": "Who Is Christa Pike? The Dark History Behind Tennessee’s Failed Execution",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T07:58:05Z",
-      "first_seen": "2026-10-03T08:43:39Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31994/christa-pike.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "94fd215b1c76844f",
-      "title": "A Little Light On | Peaceful Christian Worship Song for Hope, Faith & Comfort 🙏✨",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5scDBLRGFPWF9UeG1nOGRFSWZrVG1NY3VuRkhVMm5xaW1QVFkxS2N3YXVNZEE3RVVHb0NiNm80QzJWdw?oc=5",
-      "summary": "A Little Light On | Peaceful Christian Worship Song for Hope, Faith & Comfort 🙏✨ YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-03T07:38:56Z",
-      "first_seen": "2026-10-03T08:43:39Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-03T20:43:39Z",
-      "image_tried": "2026-10-06T09:09:10Z"
-    },
-    {
-      "id": "5543185c8b5b432b",
-      "title": "Inscription on Ancient Tomb Chest Sheds New Light on the “Black Man” of Cyrene Who Helped Carry the Cross of Jesus Christ",
-      "link": "https://blackchristiannews.com/inscription-on-ancient-tomb-chest-sheds-new-light-on-the-black-man-of-cyrene-who-helped-carry-the-cross-of-jesus-christ/?utm_source=rss&utm_medium=rss&utm_campaign=inscription-on-ancient-tomb-chest-sheds-new-light-on-the-black-man-of-cyrene-who-helped-carry-the-cross-of-jesus-christ",
-      "summary": "The post Inscription on Ancient Tomb Chest Sheds New Light on the “Black Man” of Cyrene Who Helped Carry the Cross of Jesus Christ appeared first on Black Christian News Network One (BCNN1) .",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T06:54:59Z",
-      "first_seen": "2026-10-03T06:54:54Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/ossuary-alexander-simon.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2e01cc7f9e00b7c5",
-      "title": "Tom Cruise Faces A Box Office Nightmare As ‘Verity’ Threatens To Bury ‘Digger’",
-      "link": "https://www.jubileecast.com/articles/39909/20261003/tom-cruise-faces-a-box-office-nightmare-as-verity-threatens-to-bury-digger.htm",
-      "summary": "Tom Cruise Faces A Box Office Nightmare As ‘Verity’ Threatens To Bury ‘Digger’",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T05:05:03Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31917/tom-cruise.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c8421901f5e194a0",
-      "title": "Christa Pike’s Chilling Prison Recording Emerges After Execution Goes Horribly Wrong",
-      "link": "https://www.jubileecast.com/articles/39908/20261003/christa-pike-s-chilling-prison-recording-emerges-after-execution-goes-horribly-wrong.htm",
-      "summary": "Christa Pike’s Chilling Prison Recording Emerges After Execution Goes Horribly Wrong",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T04:58:19Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31994/christa-pike.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "07420f759371363b",
-      "title": "Mary Louise Weller Dies At 79—A Heartbreaking Birthday Detail Makes The Loss Even Sadder",
-      "link": "https://www.jubileecast.com/articles/39907/20261003/mary-louise-weller-dies-at-79—a-heartbreaking-birthday-detail-makes-the-loss-even-sadder.htm",
-      "summary": "Mary Louise Weller Dies At 79—A Heartbreaking Birthday Detail Makes The Loss Even Sadder",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T04:52:41Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32033/mary-louise-weller.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6c57541246589220",
-      "title": "Eminem On Kid Rock’s Christian Album? Surprise Collaboration Sparks Backlash",
-      "link": "https://www.jubileecast.com/articles/39906/20261003/eminem-on-kid-rock-s-christian-album-surprise-collaboration-sparks-backlash.htm",
-      "summary": "Eminem On Kid Rock’s Christian Album? Surprise Collaboration Sparks Backlash",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T04:47:26Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28502/kid-rock.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8da9874afd3a311c",
-      "title": "Dolly Parton’s Second Posthumous Release Holds A Surprise—And A Poignant Family Connection",
-      "link": "https://www.jubileecast.com/articles/39905/20261003/dolly-parton-s-second-posthumous-release-holds-a-surprise—and-a-poignant-family-connection.htm",
-      "summary": "Dolly Parton’s Second Posthumous Release Holds A Surprise—And A Poignant Family Connection",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T04:42:46Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31599/dolly-parton.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f32c4cc25083ed50",
-      "title": "Caleb Flynn Found Guilty—Will He Break His Silence When Ashley’s Family Faces Him At Sentencing?",
-      "link": "https://www.jubileecast.com/articles/39904/20261003/caleb-flynn-found-guilty—will-he-break-his-silence-when-ashley-s-family-faces-him-at-sentencing.htm",
-      "summary": "Caleb Flynn Found Guilty—Will He Break His Silence When Ashley’s Family Faces Him At Sentencing?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T04:38:56Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32032/caleb-flynn.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "81391cff00f8b6e9",
-      "title": "Voter registration deadlines are closing. Don't miss yours.",
-      "link": "https://www.christianpost.com/voices/voter-registration-deadlines-are-closing-dont-miss-yours.html",
-      "summary": "Soon, the opportunity to register to vote will come to an end. In America, if we don't like the government we have, we have no one to blame but ourselves, so register now and vote in the 2026 midterms.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-03T04:05:43Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272156_w_550_341.jpg?v=20261003000858",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "497d9ce9d746508d",
-      "title": "Older members may be your church's best discipleship resource",
-      "link": "https://www.christianpost.com/voices/older-members-may-be-your-churchs-best-discipleship-resource.html",
-      "summary": "Churches rightly ask how to reach new people and disciple the next generation. Yet many overlook the faithful believers already sitting beside them, whose years of trusting Christ through loss and disappointment could encourage someone just beginning that…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-03T04:04:11Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272164_w_550_367.jpg?v=20261003000743",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "aa4e7ccccc049462",
-      "title": "Christa Pike's botched execution sparks debate on death penalty: 'This has to stop now'",
-      "link": "https://www.christianpost.com/news/christa-pikes-botched-execution-sparks-debate-on-death-penalty.html",
-      "summary": "Following the failed execution of death row inmate Christa Pike, Tennessee Gov. Bill Lee said an investigation is needed to determine what went wrong. The case has drawn reactions from pro-life advocates and from both opponents and supporters of the death…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-03T04:02:49Z",
-      "first_seen": "2026-10-03T05:06:41Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272165_w_550_347.jpg?v=20261003000555",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2d66ef81b2b9a16b",
-      "title": "Daniel Whyte III Says: Good on Secretary of War Pete Hegseth for Announcing the Office of Religious Affairs With Teeth",
-      "link": "https://blackchristiannews.com/daniel-whyte-iii-says-good-on-secretary-of-war-pete-hegseth-for-announcing-the-office-of-religious-affairs-with-teeth/?utm_source=rss&utm_medium=rss&utm_campaign=daniel-whyte-iii-says-good-on-secretary-of-war-pete-hegseth-for-announcing-the-office-of-religious-affairs-with-teeth",
-      "summary": "Daniel Whyte III, President of Gospel Light Society International, says all Bible-believing pastors and churches, be they black or white, The post Daniel Whyte III Says: Good on Secretary of War Pete Hegseth for Announcing the Office of Religious Affairs With…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-03T03:41:11Z",
-      "first_seen": "2026-10-03T04:41:01Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/hegseth-quantico.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e5f0bdf1cad814f7",
-      "title": "DON’T GIVE YOUR HEART TO THE WORLD — Give It to Jesus | Deep Emotional Christian Gospel Song.",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9XVHdPSHpXV1BYSjZuVGVmUmQ0cDJWZklqaDZwMlRwQk5uQXc2XzRtTEFaOFoyN0FHaGtWVG5HMWJYUQ?oc=5",
-      "summary": "DON’T GIVE YOUR HEART TO THE WORLD — Give It to Jesus | Deep Emotional Christian Gospel Song. YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-02T23:47:16Z",
-      "first_seen": "2026-10-03T01:39:57Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-06T02:07:27Z"
-    },
-    {
-      "id": "c69f7c02ff913fb2",
-      "title": "A Catalog of Disappearance: PW Talks with Ashon Thomas Crawley",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUnZUWm9mdUJSaXNuaXZsdFBvX0pGZHI3RHNEV0twdHBWeXdRaklOc3c4X2JxTm8wVEc2X0ZVUy1HeFhmLUFEMVM2R1A4ZWxNUUhadkVtS1NFUS01WWYxUWtPbUxvM0t3MnhCX2o0V05yQ3NpRFc0MnVzQ3hLNWQ1dUc0QWx1dkNZbldDLWllZnBDM2ExTFJBdHltcndhaWxqMVFDQm5iX1hoeE5ZRUtXdng2M29LU3VQREI4VHpibW1McjhiSjBUcXFYQXM2dVdaSVdKWU5JOXljMGxyQUE?oc=5",
-      "summary": "A Catalog of Disappearance: PW Talks with Ashon Thomas Crawley Publishers Weekly",
-      "outlet": "Publishers Weekly",
-      "outlet_url": "https://www.publishersweekly.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-02T23:37:30Z",
-      "first_seen": "2026-10-03T00:45:00Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-03T12:45:00Z",
-      "image_tried": "2026-10-06T00:49:17Z"
     }
   ]
 }
