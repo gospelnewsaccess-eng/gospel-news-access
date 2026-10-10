@@ -1,8 +1,291 @@
 {
-  "generated_at": "2026-10-10T10:22:25Z",
+  "generated_at": "2026-10-10T15:55:12Z",
   "story_count": 600,
-  "with_photo": 430,
+  "with_photo": 432,
   "items": [
+    {
+      "id": "9ef6633f99cadb01",
+      "title": "UK government blocks Northern Ireland unionist march through Catholic neighborhood",
+      "link": "https://www.ewtnnews.com/world/europe/uk-government-blocks-northern-ireland-unionist-march-through-catholic-neighborhood",
+      "summary": "“Nobody wants a return to the past,” MP Chris Bryant said in ruling against the planned march down Garvaghy Road.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T15:27:56Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791631007/ewtn-news/en/GettyImages-2298143710_x6cmzh.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b13378b53deaa8a3",
+      "title": "Pastor arrested during prayer protest outside Chinese embassy: 'A sad day in America'",
+      "link": "https://www.christianpost.com/news/pastor-arrested-while-praying-outside-chinese-embassy.html",
+      "summary": "A Christian pastor is facing a criminal charge after refusing to leave while praying on a sidewalk outside the Chinese Embassy in Washington to protest Chinese President Xi Jinping’s treatment of religious minorities.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T14:51:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272243_w_550_486_215_99.jpg?v=20261010105150",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2a35bed17031b8b2",
+      "title": "Jordan Hill announces worship and Gospel Choir Anniversary Celebration",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORlI0SGNwTVVtRXl4TFhtNWhEOFh4Z1NlR3ZjR2QtVzJCZ2NBUDVibGl0YW5PaG9hSDNvVUFWTnM3ZGl6M3haNVota3lnLWJhQk5wUmxkd3RUS1YxYUlEbm54Uzk3clVRNjhRei0zTGgweVlIT2NRNWZlMFdoQVQwQkFrM1FBVmstbDRj?oc=5",
+      "summary": "Jordan Hill announces worship and Gospel Choir Anniversary Celebration The Warren Record",
+      "outlet": "The Warren Record",
+      "outlet_url": "https://www.warrenrecord.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-10T14:00:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T15:55:12Z"
+    },
+    {
+      "id": "b9e03627ba9d0ec3",
+      "title": "Study: FDA allowed mail-order abortion pills without ‘sufficient evidence’ of safety",
+      "link": "https://www.ewtnnews.com/world/us/study-fda-allowed-mail-order-abortion-without-sufficient-evidence-of-its-safety",
+      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T14:00:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1760108778/images/abortionpill10925.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "69477a1cb63db048",
+      "title": "Is The Temperance Movement Back? Rock Band Releases New Album After 8 Years as Phil Campbell Opens Up About a Second Chance",
+      "link": "https://www.jubileecast.com/articles/40120/20261010/the-temperance-movement-new-album-new-promise-land-incorporated-phil-campbell.htm",
+      "summary": "Is The Temperance Movement Back? Rock Band Releases New Album After 8 Years as Phil Campbell Opens Up About a Second Chance",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-10T12:40:09Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32139/the-temperance-movement.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e27d90b9ce84373e",
+      "title": "Amoris laetitia: Marriage is a shared commitment to nurture each day",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/amoris-laetitia-fourth-day-cobo-cano-mazzini.html",
+      "summary": "On the fourth day of the Amoris laetitia meeting in the Vatican, Cardinal José Cobo Cano calls for ongoing pastoral accompaniment, while theologian María Marcela Mazzini emphasizes that the Sacrament of Marriage must be lived as well as celebrated. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T12:39:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791386403471.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6bf8f1e8cf2417c4",
+      "title": "After near-fatal crash, cyclist rides across America for homeless",
+      "link": "https://www.ewtnnews.com/world/us/after-near-fatal-crash-cyclist-rides-across-america-for-homeless",
+      "summary": "Tom Schwein is part of a 12-person team making a 3,000-mile trek with Samaritan Cycling USA to help raise money for the unhoused.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T12:00:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791236039/ewtn-news/en/5b8655_1c8f46b3e3484a43a5894d221887b636_mv2.jpg_kxu9vf.avif",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fcd8778747cc5e2a",
+      "title": "Nancy Guthrie Ransom Update: Which Ransom Notes Are Real? What Authorities Have Said About Each One",
+      "link": "https://www.jubileecast.com/articles/40119/20261010/nancy-guthrie-ransom-notes-real-or-fake-what-authorities-have-said.htm",
+      "summary": "Nancy Guthrie Ransom Update: Which Ransom Notes Are Real? What Authorities Have Said About Each One",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-10T11:35:48Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30524/nancy-guthrie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7691765e8f9707a8",
+      "title": "Pope Leo XIV rejects death penalty as attack on dignity of human person",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-tweet-death-penalty-inadmissible-dignity-person.html",
+      "summary": "Pope Leo XIV reaffirms the Catholic Church’s rejection of the death penalty, recalling that the common good can be “safeguarded and the requirements of justice can be met without recourse to capital punishment.” Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T11:31:27Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/09/19/2025-09-19-basilica-di-san-giovanni-in-laterano---assemblea-dioc/1758299497122.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "20c8671728e459c8",
+      "title": "What Happens Next in Halle Berry’s Custody Fight After Daughter Nahla’s Statement? What to Know Before the Oct. 16 Hearing",
+      "link": "https://www.jubileecast.com/articles/40118/20261010/halle-berry-custody-fight-what-happens-next-nahla-statement-oct-16-hearing.htm",
+      "summary": "What Happens Next in Halle Berry’s Custody Fight After Daughter Nahla’s Statement? What to Know Before the Oct. 16 Hearing",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-10T11:28:48Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32024/halle-berry.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b0b2abe60fdf5be6",
+      "title": "Pray for the Persecuted Church: Muslim Mob Burns Christian Family’s Home and Shop in Pakistan as Fulani Gunmen Kidnap Christians, Including a Baby, in Nigeria",
+      "link": "https://blackchristiannews.com/pray-for-the-persecuted-church-muslim-mob-burns-christian-familys-home-and-shop-in-pakistan-as-fulani-gunmen-kidnap-christians-including-a-baby-in-nigeria/?utm_source=rss&utm_medium=rss&utm_campaign=pray-for-the-persecuted-church-muslim-mob-burns-christian-familys-home-and-shop-in-pakistan-as-fulani-gunmen-kidnap-christians-including-a-baby-in-nigeria",
+      "summary": "Commentary by Daniel Whyte III, President of Gospel Light Society International: I am encouraging Christians and evangelicals all around the The post Pray for the Persecuted Church: Muslim Mob Burns Christian Family’s Home and Shop in Pakistan as Fulani…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-10T11:28:22Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/Protest_against_forced_conversion_of_Christian_girls_in_Pakistan.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bfda390b38f2ea8f",
+      "title": "Jim Jordan Sums Up Progressive Platform in Scathing Takedown: ‘The Left Hates 2 Countries – America and Israel’",
+      "link": "https://mycharisma.com/news/jim-jordan-sums-up-progressive-platform-in-scathing-takedown-the-left-hates-2-countries-america-and-israel/",
+      "summary": "Rep. Jim Jordan, a Republican from Ohio and the chairman of the House Judiciary Committee, bluntly summed up why left-wing agitators are so angry at New York City Mayor Zohran Mamdani. Appearing on Fox News late Thursday with host Harris Faulkner, Jordan…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T11:00:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "aaaf9605802d0f10",
+      "title": "EWTN News explains: What is the Religious Freedom Restoration Act?",
+      "link": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-is-the-religious-freedom-restoration-act",
+      "summary": "The 1993 law allows religious objectors to sue the government for “substantially burdening” their religious liberty.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T11:00:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1761359506/images/religiousfreedom.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ac41121ca80219e7",
+      "title": "Who Was Heidi Burge Horton? The 6-Foot-5 Twin Who Inspired Disney’s “Double Teamed” Dies at 54",
+      "link": "https://www.jubileecast.com/articles/40117/20261010/heidi-burge-horton-dies-54-double-teamed-wnba-twin-glioblastoma.htm",
+      "summary": "Who Was Heidi Burge Horton? The 6-Foot-5 Twin Who Inspired Disney’s “Double Teamed” Dies at 54",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-10T10:54:54Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32138/heidi-burge-horton.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "735514c4716e9f32",
+      "title": "Is the Usher and Chris Brown Tour Canceled? 4 Shows Are Out, and Here’s What Fans Need to Know",
+      "link": "https://www.jubileecast.com/articles/40116/20261010/usher-chris-brown-r-and-b-tour-canceled-shows-refunds.htm",
+      "summary": "Is the Usher and Chris Brown Tour Canceled? 4 Shows Are Out, and Here’s What Fans Need to Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-10T10:49:15Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31583/chris-brown-and-usher.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5b47ff86e51b61ab",
       "title": "Kyle Busch’s 11-Year-Old Son Brexton Honors His Dad With a Burnout and Bow at Charlotte Celebration of Life",
@@ -57,6 +340,25 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-10T22:22:25Z",
       "image_tried": "2026-10-10T10:22:25Z"
+    },
+    {
+      "id": "63381582909e775b",
+      "title": "Rome hosts mental health roundtable inspired by Pope’s prayer intention",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/mental-health-roundtable-in-rome-inspired-popes-prayer-intention.html",
+      "summary": "A meeting entitled “A Healing Presence: The Church’s Call to Mental Health Ministry,” organized by the Catholic Mental Health Ministers, opens in Rome to explore Pope Leo XIV’s October prayer intention, which focuses on mental health. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T10:04:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/09/i-panel-del-convegno-sulla-salute-mentale-a-roma.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "3aa17a07db9abd43",
@@ -435,6 +737,23 @@
       "image_tried": "2026-10-10T10:22:25Z"
     },
     {
+      "id": "cc01d743472bd7ee",
+      "title": "At Boston’s Jubilee Christian Church, a pastor’s elevation to bishop marks a full circle moment",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYzItZ0x2V1BlN1owelJFWUYxS3dvclNCTFVIZGZnRWpwcnBQVEZpU1hWNW5NSWFWMVZBc0tLMEtpcG1iemFZTkkyN0EzakZIc0twWUd1dHhQY1c2d2QwZ1lmVE5XZzQxbjFjQzIzbDV5TVpZbWtDbWljZGdlTTBMOXhDSWFPT3ZOTzltY05lMHFhLWxtdVg4YV9pWDdOX1lOMXh2aWFTMjBIRTdqbjhqS21rZm9VV255?oc=5",
+      "summary": "At Boston’s Jubilee Christian Church, a pastor’s elevation to bishop marks a full circle moment The Boston Globe",
+      "outlet": "The Boston Globe",
+      "outlet_url": "https://www.bostonglobe.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-10T04:45:49Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T15:55:12Z"
+    },
+    {
       "id": "d449eb1e15fe060a",
       "title": "Phil Wickham, Josiah Queen, Brandon Lake, Tasha Cobbs Leonard Top GMA Dove Awards Winners",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmMtcWxmOVBsbGhQanhTUkZ4cEFwcm9md3hONlFHMktRdUVLbGxhQ0ZWdTJjLXdFbWdpeWNfay1oOWw3ZnpKc3JrVnczZm4tMnRxWlZLRU5WMnpGZGlSWGFVaGtBSTUtTkNNZVlobE1XU05zckFuSWZLWWR4UGItRzZ4UHI5eGlSdVFWT3BZSHZObDJyNF92clRlYTBHbURsUGc?oc=5",
@@ -666,6 +985,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-10T15:54:05Z",
       "image_tried": "2026-10-10T03:54:05Z"
+    },
+    {
+      "id": "f7a3861d302480b2",
+      "title": "Phil Wickham tops winners list at 57th Annual GMA Dove Awards",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNM3BxeFNNTnE0UVVLY3B6VXhxYkdFUnJsenIwLXRFMGZmR0pKTDFWSE5GMWtNWXY0QlpjTHFxbUh6VXpMSHllZ1VGSlI0WUN6a0Y0LVNreElXV2FtRkdQOGFHX0h0UnlhQnZhWFplWXdpd1B0OUhUR2pDdjI4MnpfdDk4RjFKaEU4ZTZZcEp5QUo0VG5RMGJvcm1fQW1fMmVvRkR1LW1mNTFJbmQ1Y040bg?oc=5",
+      "summary": "Phil Wickham tops winners list at 57th Annual GMA Dove Awards The Tennessean",
+      "outlet": "The Tennessean",
+      "outlet_url": "https://www.tennessean.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-10T03:00:00Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T15:55:12Z"
     },
     {
       "id": "4768a7d36d3c2c39",
@@ -1829,6 +2165,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "a150a2c0f6266553",
+      "title": "Tasha Cobbs Leonard - Crazy + Crazy (Reprise) (Official Live Video)",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Ha2hPNEhxenI3bzFWQU1Ecm1YLV9mY0pvQ210NGtCd2VxZkFBbE1pYTdFa1hBVVN0SjBUNnloMFpkM0pvdTlZOWJNUnZuVXNqY2RldWRhdXk1alBO?oc=5",
+      "summary": "Tasha Cobbs Leonard - Crazy + Crazy (Reprise) (Official Live Video) YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Tasha Cobbs Leonard",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-09T16:00:08Z",
+      "first_seen": "2026-10-10T15:55:12Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T15:55:12Z"
     },
     {
       "id": "8eced9a185899af7",
@@ -10710,355 +11063,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32073/whitney-capps.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "86069d099d95fd8e",
-      "title": "Pope Leo urges Vatican police to guard their hearts as they protect others",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-urges-vatican-police-to-guard-their-hearts-as-they-protect-others",
-      "summary": "At a Mass honoring their patron, St. Michael the Archangel, the pontiff called on gendarmes to exercise authority with humility and compassion.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T18:07:30Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791222220/ewtn-news/en/_SIM2343_go5l7r.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b35766882c7eb357",
-      "title": "Caleb Flynn Faces Sentencing: Will The Former Worship Leader Ever Walk Free?",
-      "link": "https://www.jubileecast.com/articles/39981/20261005/caleb-flynn-faces-sentencing-will-the-former-worship-leader-ever-walk-free.htm",
-      "summary": "Caleb Flynn Faces Sentencing: Will The Former Worship Leader Ever Walk Free?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T18:05:07Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32032/caleb-flynn.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a10f288f653f5878",
-      "title": "Matt Maher’s “Gonna Be Alright” Tops Five Christian Radio Charts",
-      "link": "https://www.jubileecast.com/articles/39980/20261005/matt-maher-gonna-be-alright-five-christian-radio-number-ones.htm",
-      "summary": "Matt Maher’s “Gonna Be Alright” Tops Five Christian Radio Charts",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T17:25:02Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32072/matt-maher.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "01cbe05b04b7f14b",
-      "title": "Residents of West Bank’s last Christian village ‘living in fear’",
-      "link": "https://www.vaticannews.va/en/world/news/2026-10/taybeh-west-bank-christian-closed-military-zone-ihab-hassan.html",
-      "summary": "As olive harvest season begins, Palestinian Christian activist Ihab Hassan speaks to Vatican News about the situation in the village of Taybeh, which has been declared a ‘closed military zone’ by the Israeli army. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T17:21:00Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/06/10/10/1781081464556.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e48b39d2b357252",
-      "title": "Will Prince Harry and Meghan Meet King Charles Again Before Christmas? What Reports Say",
-      "link": "https://www.jubileecast.com/articles/39979/20261005/prince-harry-meghan-markle-king-charles-meeting-before-christmas.htm",
-      "summary": "Will Prince Harry and Meghan Meet King Charles Again Before Christmas? What Reports Say",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T17:16:36Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31024/king-charles-queen-camilla-prince-harry-and-family.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5eac8619e501b29d",
-      "title": "Crossroads Church founder Brian Tome steps down as senior pastor month after returning from suspension",
-      "link": "https://www.christianpost.com/news/crossroads-church-founder-brian-tome-steps-down-as-senior-pastor.html",
-      "summary": "A month after returning to teaching following a suspension over using a horse whip on a man who visited his church office more than a decade ago, Brian Tome, the founding and senior pastor of Crossroads Church in Cincinnati, Ohio, says he is transitioning out…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T17:15:00Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272183_w_550_331.jpg?v=20261005131541",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5c6596a4cfc812a4",
-      "title": "Noah's Ark Turkey Site Update: Drilling Went Down 60 Feet and Found No Solid Rock, Team Says",
-      "link": "https://www.jubileecast.com/articles/39978/20261005/noahs-ark-turkey-durupinar-drilling-results-lab-tests-winter.htm",
-      "summary": "Noah's Ark Turkey Site Update: Drilling Went Down 60 Feet and Found No Solid Rock, Team Says",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T17:12:33Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31956/noahs-ark.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ac77ea0139b5cf43",
-      "title": "A New Documentary Shows Why CCM Was Never Safe for the Whole Family",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcl94SWdqNno2WnlsbmZuZ3hjM1JvZmpfTV80MWJNVWFTeGI2YWl3a1FwQlF5WExoMldZU1cydE1CMXhNZk12WFpWYmllTmhFRnN6UHowQkhxR0NDVmx1S2dlZXdNLWxDLTB5Tmh3V3RWOFgwQ25DbWZqWDZsSDZmNEw0Z3pXdW1kYl92Vm03Q0pCY2ZrNEE?oc=5",
-      "summary": "A New Documentary Shows Why CCM Was Never Safe for the Whole Family Sojourners",
-      "outlet": "Sojourners",
-      "outlet_url": "https://sojo.net",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-05T17:07:23Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-06T05:41:29Z",
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "c469b8ec22be08ae",
-      "title": "King Charles Reportedly Considers Diana Service to Bring Prince William and Harry Together",
-      "link": "https://www.jubileecast.com/articles/39977/20261005/king-charles-diana-service-reunite-prince-william-harry.htm",
-      "summary": "King Charles Reportedly Considers Diana Service to Bring Prince William and Harry Together",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T17:06:41Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32071/prince-william-harry-and-king-charles-iii.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "79487f265d0e1251",
-      "title": "Who's Performing at CMA's Dolly Parton Tribute? Full Lineup, Date and How to Watch",
-      "link": "https://www.jubileecast.com/articles/39976/20261005/dolly-parton-tribute-lineup-cma-abc-oct-21.htm",
-      "summary": "Who's Performing at CMA's Dolly Parton Tribute? Full Lineup, Date and How to Watch",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T16:53:04Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32070/dolly-parton.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a8dfba5308f4b337",
-      "title": "15 parishioners killed in road accident on way to Kenya shrine for National Prayer Day",
-      "link": "https://www.ewtnnews.com/world/africa/15-parishioners-killed-in-road-accident-on-way-to-kenya-shrine-for-national-prayer-day",
-      "summary": "The Mombasa Archdiocese announced on Saturday that pilgrims from one parish had died as they traveled to Subukia National Marian Shrine.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T16:47:00Z",
-      "first_seen": "2026-10-05T17:41:29Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791208784/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-10-03t085148_1791013916.jpg_zzuq3x.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dc377fa854b6224c",
-      "title": "Florida pastor hailed as 'hero' after being killed in case of mistaken identity",
-      "link": "https://www.christianpost.com/news/florida-pastor-murdered-in-case-of-mistaken-identity-police-say.html",
-      "summary": "Akeem Moore, a 31-year-old Florida pastor, was shot and killed by a man who mistook Moore’s girlfriend for another woman, police say.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T16:18:00Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272180_w_550_299.jpg?v=20261005121840",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "78dae99d0c75a194",
-      "title": "Vatican to publish Pope Francis’ personal diary",
-      "link": "https://www.ewtnnews.com/vatican/vatican-to-publish-pope-francis-personal-diary",
-      "summary": "A collection of Pope Francis’ private writings will be available on Nov. 24.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T16:07:00Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745611898/images/01-140416.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a6c6d21305e505ab",
-      "title": "Prosecutor says 2 Iranian men scouted a UK synagogue for a chlorine bomb plot",
-      "link": "https://religionnews.com/2026/10/05/prosecutor-says-2-iranian-men-scouted-a-uk-synagogue-for-a-chlorine-bomb-plot/",
-      "summary": "LONDON (AP) — Salam Ahmadyan, 36, and Rahman Salehi, 34, researched attacking the Heaton Park Congregation Synagogue in Manchester in northwest England and the Jewish Museum in nearby Cheetham Hill, the court was told.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T16:03:17Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "27f08365eb784702",
-      "title": "FlyDubai co-pilot who nearly crashed plane was barred from flying by Oman over extremism concerns",
-      "link": "https://religionnews.com/2026/10/05/flydubai-co-pilot-who-nearly-crashed-plane-was-barred-from-flying-by-oman-over-extremism-concerns/",
-      "summary": "TEL AVIV, Israel (AP) — The attack left the region’s travel industry in crisis, raising questions about aviation security and further unsettling a Middle East already shaken by the U.S.-Iran war.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T15:58:18Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "01bafd58367b1c24",
-      "title": "Pope Leo seeks status update of Francis’ divisive opening to divorced and remarried Catholics",
-      "link": "https://religionnews.com/2026/10/05/pope-leo-seeks-status-update-of-francis-divisive-opening-to-divorced-and-remarried-catholics/",
-      "summary": "VATICAN CITY (AP) — Vatican officials on Friday stressed that Francis’ 2016 text “The Joy of Love” isn’t up for rewriting, amending or scrapping",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T15:56:06Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "223608a2034def7f",
-      "title": "Donor revives fraud claims against Christian worship leader Sean Feucht over a $250,000 donation",
-      "link": "https://religionnews.com/2026/10/05/donor-revives-fraud-claims-against-christian-worship-leader-sean-feucht-over-a-250000-donation/",
-      "summary": "LOS ANGELES (AP) — Steve Bray, an Orange County businessperson and Christian philanthropist, accused Feucht of soliciting a $250,000 donation for a 2023 concert tour that had already been fully financed by the late Charlie Kirk's Turning Point USA.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T15:52:53Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "2eb0d2aab09750e3",
-      "title": "Supreme Court will hear dispute over a Kentucky church’s plan to build a shrine on residential land",
-      "link": "https://religionnews.com/2026/10/05/supreme-court-will-hear-dispute-over-a-kentucky-churchs-plan-to-build-a-shrine-on-residential-land/",
-      "summary": "WASHINGTON (AP) — The nation's highest court will hear arguments in the coming months in its latest case involving religious rights.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T15:49:31Z",
-      "first_seen": "2026-10-05T16:43:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "0749411f4eec5f92",
-      "title": "Catholic Revival at Stanford University as Conversions More Than Triple",
-      "link": "https://mycharisma.com/news/catholic-revival-at-stanford-university-as-conversions-more-than-triple/",
-      "summary": "More Stanford University students are turning to God, with Catholic conversions more than tripling and hundreds gathering for worship on the California campus. Forty-six adults entered the Catholic Church at Easter this year, up from 14 the previous year, the…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T15:36:38Z",
-      "first_seen": "2026-10-05T15:43:32Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
