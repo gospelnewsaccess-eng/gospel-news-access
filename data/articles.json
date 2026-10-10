@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-10-10T15:55:12Z",
+  "generated_at": "2026-10-10T19:40:33Z",
   "story_count": 600,
   "with_photo": 432,
   "items": [
+    {
+      "id": "888204d7a87a194e",
+      "title": "Cyberattack on Korean megachurches may have exposed 850K members",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3Q1Tk1PWEN6Ty1xTlVHV21NZUpKemJFTC04NmdMdnJCR09TeDcyNTVZNFo3VDhXTTZjSmN6YW40VjI0UjM2ZmhWcl9ScjRxTmJ0emJRM1pkSkFYZkY1empTd21vMzdJbGJpRTk0NW11enpScUxyT0VkQjBLaW5yNjZORUFJb0RKTUZIa1Mxc0xSN2N5VGxXQVhhWlJzcFZiaXUzRHRzRQ?oc=5",
+      "summary": "Cyberattack on Korean megachurches may have exposed 850K members Christian Post",
+      "outlet": "Christian Post",
+      "outlet_url": "https://www.christianpost.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-10T19:09:00Z",
+      "first_seen": "2026-10-10T19:40:33Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-11T07:40:33Z",
+      "image_tried": "2026-10-10T19:40:33Z"
+    },
+    {
+      "id": "0fe4511e0d73feec",
+      "title": "Bishops from violence-stricken countries emphasize importance of mental health",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/mental-health-ministry-pope-prayer-intention-bishops-war-support.html",
+      "summary": "During a press conference at the Vatican at the end of the gathering, “A Healing Presence: The Church’s Call to Mental Health Ministry,” several bishops from countries faced with war, violence and poverty insisted on the importance of ministering to those…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T16:31:00Z",
+      "first_seen": "2026-10-10T19:40:33Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/10/mental-health-press-conference.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0e8a8ffaeda243da",
+      "title": "Understanding mental health through listening and sharing",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/di-liegro-foundation-mental-health-conference-listening-sharing.html",
+      "summary": "The second day of the conference, “A Healing Presence: The Church’s Call to Mental Health Ministry,” reflects on the state of mental health among young people and the relationship between psychological distress and drug use. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T16:01:00Z",
+      "first_seen": "2026-10-10T19:40:33Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/09/i-panel-del-convegno-sulla-salute-mentale-a-roma.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "9ef6633f99cadb01",
       "title": "UK government blocks Northern Ireland unionist march through Catholic neighborhood",
@@ -17,6 +72,25 @@
       "first_seen": "2026-10-10T15:55:12Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1791631007/ewtn-news/en/GettyImages-2298143710_x6cmzh.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6e9e1b621d24dbf6",
+      "title": "Cardinal Pizzaballa: Keep attention on the Holy Land, West Bank, and Gaza",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/cardinal-pizzaballa-on-holy-land-and-a-need-to-rediscover-hope.html",
+      "summary": "Three years after the October 7 attacks, the Latin Patriarch of Jerusalem describes a Holy Land gripped by mistrust in an interview with the Vatican's media outlets. He also expresses concern over the West Bank, where he denounces “a total absence of law,”…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-10T15:17:00Z",
+      "first_seen": "2026-10-10T19:40:33Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/10/img-6073.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -133,6 +207,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "0f5e5c09693f2c13",
+      "title": "Gary Church | Greenspace: Black Coral Elephant Ear will stop neighbors in their tracks",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbU5DWm9DSXJIRWxlX2I3RElyYVZFYnRMQU9qYmxaXy1MUXY4QjlmN3o0RFhvOWZudGs5NzN0YWd1bERqVXhjaDZsOWRXSWpQbm1SQjJhRTA0Qk9COUV3SDJvNkktMGJHNTNDMFMyQUFlQmtpTk5BOHhuQ1NLcWhMTWh3eUZYVkRsb1VUcWxOTWxFd2NsVFlTTkxMSEdrMkRkV0lvTGt5czFUUFRnVkNJanZITmpKbEZvV09IbXF2Vnh6VTJ2MGRadmFXOTZFT1RGdlVtcGU3Wi10VDlaOTE2dGJqaV9IUXloc0FQSzFnOVNHN25paC1fQm5mQnFDNmdrOVJ3bEVudzVqUQ?oc=5",
+      "summary": "Gary Church | Greenspace: Black Coral Elephant Ear will stop neighbors in their tracks New Castle News",
+      "outlet": "New Castle News",
+      "outlet_url": "https://www.ncnewsonline.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-10T12:00:00Z",
+      "first_seen": "2026-10-10T19:40:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "fcd8778747cc5e2a",
@@ -6615,7 +6706,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "490dc5d5755175d7",
@@ -6632,7 +6723,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "d628dff5b40d8fbb",
@@ -6687,7 +6778,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "1d4f193682e470e4",
@@ -6704,7 +6795,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "f6ca725814165b10",
@@ -6835,7 +6926,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "6fb6098c9495e0d7",
@@ -6852,7 +6943,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "f783eadbd46fa64d",
@@ -6924,7 +7015,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "286493ebb10855bf",
@@ -6941,7 +7032,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "31388854c92b1052",
@@ -6996,7 +7087,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "6f3c235a655dea6e",
@@ -7108,7 +7199,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "770e94b0ead99209",
@@ -7239,7 +7330,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "fad6a0638ea3accb",
@@ -7484,7 +7575,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "a2e1a7a0b75c4c9c",
@@ -7539,7 +7630,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "4525ca17cb92243a",
@@ -9766,7 +9857,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T16:44:27Z"
+      "image_tried": "2026-10-10T19:40:33Z"
     },
     {
       "id": "1870f28b24c722d3",
@@ -10971,97 +11062,6 @@
       "first_seen": "2026-10-05T18:46:45Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27106/christy-nockels.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bbcece2ebf1a8ca6",
-      "title": "Black Metal’s Dark Descent: Church Burnings, Escalating Violence and a 1993 Murder That Shocked a Scene",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOXZBLVhRRzB0Yjdjc2FHaE4wTkRqeU5yaGFyV0Z3cndQV3RVa2RCVTZhMU1VYWZfR1gyY0Y5TTA5THRaWjFzalpmOGJnejExZ0tSTnhZakJJdGp4emVKZGpxMGpCYkd5bU15MEhR?oc=5",
-      "summary": "Black Metal’s Dark Descent: Church Burnings, Escalating Violence and a 1993 Murder That Shocked a Scene People.com",
-      "outlet": "People.com",
-      "outlet_url": "https://people.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-05T18:33:16Z",
-      "first_seen": "2026-10-05T21:41:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-09T01:02:20Z"
-    },
-    {
-      "id": "d87cf892eba74169",
-      "title": "Bryce Crawford tells Liberty U students not to trade in their 'inheritance' for sin, passivity",
-      "link": "https://www.christianpost.com/news/bryce-crawford-tells-liberty-u-students-not-to-fall-into-sin.html",
-      "summary": "Christian influencer Bryce Crawford urged students at Liberty University not to “take the bait” by trading their “inheritance” from God for the short-term satisfaction of sin and warned about the perils of \"passivity\" when it comes to sharing Jesus Christ…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T18:32:00Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272184_w_550_399_530_93.jpg?v=20261005143251",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2b14264133d22047",
-      "title": "Carrot Top’s First Public Appearance After Hospitalization Raises A New Question About Faith",
-      "link": "https://www.jubileecast.com/articles/39983/20261005/carrot-top-s-first-public-appearance-after-hospitalization-raises-a-new-question-about-faith.htm",
-      "summary": "Carrot Top’s First Public Appearance After Hospitalization Raises A New Question About Faith",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T18:31:39Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31862/carrot-top.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "92787f34d7650ef5",
-      "title": "Take Me to the King – Tamela Mann Cover | Shelby Trenell 🎤🙏🏽",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RVlhEa3ZlVnhBLThTeXVNUm9pMUZzT0lRR2Z5QmtsQ0xFMTdYaGdWUDRSZ3NrZGtvSG03cGtudXVIUXV4Y2l5OTBvaVVLSjFWem9ucTQxYUs1TnF3?oc=5",
-      "summary": "Take Me to the King – Tamela Mann Cover | Shelby Trenell 🎤🙏🏽 YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Tamela Mann",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-05T18:26:05Z",
-      "first_seen": "2026-10-08T20:58:19Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "4c5e39bbeea7613b",
-      "title": "Whitney Capps Admitted “I’m Not Fine” In One Of Her Last Released Interviews—Then Shared What Kept Her Going",
-      "link": "https://www.jubileecast.com/articles/39982/20261005/whitney-capps-admitted-i-m-not-fine-in-one-of-her-last-released-interviews—then-shared-what-kept-her-going.htm",
-      "summary": "Whitney Capps Admitted “I’m Not Fine” In One Of Her Last Released Interviews—Then Shared What Kept Her Going",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T18:14:03Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32073/whitney-capps.jpg",
         "via": "media:content"
       },
       "breaking": false,
