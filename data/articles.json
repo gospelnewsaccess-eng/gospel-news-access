@@ -1,8 +1,59 @@
 {
-  "generated_at": "2026-10-10T19:40:33Z",
+  "generated_at": "2026-10-10T23:08:06Z",
   "story_count": 600,
-  "with_photo": 432,
+  "with_photo": 431,
   "items": [
+    {
+      "id": "5594bb93421bb5de",
+      "title": "Fantasia, Tank, CeCe Winans and more pack Tyler Perry’s ‘The Gospel of Christmas’",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01V2FxZ0dWa1l3RW0wdHRkai0wc2t0emo0R242MWR6ZU0xalQxSHFleWpjNnZfSnlUdTViWVVVRFFfWC1qUEVvU2hnMUdKZGRYaUlWRkp0ZVEyMHZucDFFVk0ta2lGOHo0Z2swOHVBNjhJek9EbTlGaGhCS0E?oc=5",
+      "summary": "Fantasia, Tank, CeCe Winans and more pack Tyler Perry’s ‘The Gospel of Christmas’ TheGrio",
+      "outlet": "TheGrio",
+      "outlet_url": "https://thegrio.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-10T20:56:54Z",
+      "first_seen": "2026-10-10T23:08:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T23:08:06Z"
+    },
+    {
+      "id": "a94442e72cb759da",
+      "title": "500 voices, one mission: Keep Baltimore’s gospel legacy aliv...",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2xQMkl6S1otRmlqN2lvZUYtUl9BUDFSMDhucEg2WmVkRTRMemh1UWZpbDRRSnVwdFZ0eHlkdFJRcExILVJ3Z3MyOF90a3FxY0FKZWppZU1hOXF5UU13aVoySUEyVTIyN3dseDU4alVxV24yODhscDdoRHVWaTVDNldxVWtUNFJwUVVfQ0l1Q283eWdOX0VRRThObjh6UQ?oc=5",
+      "summary": "500 voices, one mission: Keep Baltimore’s gospel legacy aliv... AFRO News",
+      "outlet": "AFRO News",
+      "outlet_url": "https://www.afro.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-10T20:37:47Z",
+      "first_seen": "2026-10-10T23:08:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T23:08:06Z"
+    },
+    {
+      "id": "bdce5d0294f550cd",
+      "title": "UFC Vegas 122 Entrance Music: What Songs Brendan Allen, Christian Leroy Duncan, Loopy Godinez, And Other Fighters Walked Out To",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pRHRqNkpOVllVWDBQZmFvbHdqdjVpYzlwWGFnd1M3dDQzYjRITTlYZjZjbWkwd2ZDVzRaLUxIRG9YM1Z6TlpXN3RITjFoSGJ4dFFTV3Q1N2tpaUlFeDNkVU1sM0NQdw?oc=5",
+      "summary": "UFC Vegas 122 Entrance Music: What Songs Brendan Allen, Christian Leroy Duncan, Loopy Godinez, And Other Fighters Walked Out To LowKickMMA.com",
+      "outlet": "LowKickMMA.com",
+      "outlet_url": "https://www.lowkickmma.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-10T20:36:21Z",
+      "first_seen": "2026-10-10T23:08:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T23:08:06Z"
+    },
     {
       "id": "888204d7a87a194e",
       "title": "Cyberattack on Korean megachurches may have exposed 850K members",
@@ -15,7 +66,10 @@
       "category": "church",
       "published": "2026-10-10T19:09:00Z",
       "first_seen": "2026-10-10T19:40:33Z",
-      "image": null,
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272263_w_550_367.jpg?v=20261010150942",
+        "via": "media:content"
+      },
       "breaking": true,
       "breaking_expires_at": "2026-10-11T07:40:33Z",
       "image_tried": "2026-10-10T19:40:33Z"
@@ -5438,6 +5492,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "d8f54637375a8a47",
+      "title": "Winnipeg church bringing 1970s and 80s worship songs back this weekend",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDB1VEhLMU15TlBldDU3ZGhnY3hWMzlDenNIQkxzUXNlQk9QMDhFTnpFYzlWd2FuRXNVTFdWRWpkLXB4MXV1UWpXMlgtOS1sQklsT2x2Z3hpNG83ek01ZDk2TVJfUDVzcGJhNW5KLWVGaW5yRXVZdkhkRnhENnhrMW05QkRZREJqTHFFLVVqdUlQaG9uSV94WjdpMUpLS2RIclVv?oc=5",
+      "summary": "Winnipeg church bringing 1970s and 80s worship songs back this weekend CHVN Radio",
+      "outlet": "CHVN Radio",
+      "outlet_url": "https://chvnradio.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-08T09:04:29Z",
+      "first_seen": "2026-10-10T23:08:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-10T23:08:06Z"
+    },
+    {
       "id": "670f0b925900d799",
       "title": "What Did Halle Berry's Daughter Nahla Tell the Court About the Abuse Claims?",
       "link": "https://www.jubileecast.com/articles/40053/20261008/halle-berry-daughter-nahla-aubry-court-statement-abuse-claims-olivier-martinez.htm",
@@ -6101,7 +6172,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "7dfd630ac92f8977",
@@ -6118,7 +6189,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-08T09:43:37Z",
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "ce1196734d2338b4",
@@ -6226,7 +6297,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "3d24233ca7ff24ff",
@@ -6300,7 +6371,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "6b6414b40a6d0994",
@@ -6317,7 +6388,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "9390ff699484113c",
@@ -6372,7 +6443,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "b3ebeb0a1f66d40d",
@@ -6408,7 +6479,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "914c5960218ee2f1",
@@ -6425,7 +6496,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "26f14de3de50fc74",
@@ -6979,7 +7050,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "223b9561408f197d",
@@ -8939,7 +9010,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-07T21:43:37Z"
+      "image_tried": "2026-10-10T23:08:06Z"
     },
     {
       "id": "14b6f51eee10694b",
@@ -10990,78 +11061,6 @@
       "first_seen": "2026-10-05T18:46:45Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28959/brian-tome.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ab50a6cc1569d926",
-      "title": "As Jihadists Slaughter Middle Belt Christians, Nigeria’s Wealthiest Megachurches Maintain a Politically Profitable Silence",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdW4wRjhCZXg2QkRuUndteUNjSlFuWGhZdnRUbTlpeFV2TXdVazhGTDZEUjAyQnl0blBtbThQcWppRk4yS0Z0NXY0aDFpaW5uN205b3R5OGRBa2YzSjkyOGtHanBCNDI0MHRudi1pOWoycW5ob0MtR3NkYWdKaUNvRTlRTnVEcDY3ZFlKWDl5YUNDNm9jTzRQTVpTeU5uTzJzRExHYmNnM1NaYzd4MmozTVN0S3I0eFBrWEhjcWJRRW5VRDdqbGJhZ1RPX0xycVcyQW5XZVVwZFg4SEhuLWR2T0ppb0gtWlFtc3c?oc=5",
-      "summary": "As Jihadists Slaughter Middle Belt Christians, Nigeria’s Wealthiest Megachurches Maintain a Politically Profitable Silence Truth Nigeria",
-      "outlet": "Truth Nigeria",
-      "outlet_url": "https://truthnigeria.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-05T18:47:39Z",
-      "first_seen": "2026-10-05T21:41:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-09T01:02:20Z"
-    },
-    {
-      "id": "8d6be4acf548141f",
-      "title": "Ancient Tomb Discovery May Point to Simon of Cyrene, the Man Who Carried Jesus’ Cross",
-      "link": "https://mycharisma.com/news/ancient-tomb-discovery-may-point-to-simon-of-cyrene-the-man-who-carried-jesus-cross/",
-      "summary": "What if the name of the man who helped carry Jesus’ cross has been sitting on an ancient burial chest for nearly 2,000 years? An intriguing archaeological find from Jerusalem is once again drawing attention because of its striking parallels to the Gospel of…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-05T18:36:08Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "be71465450161fc0",
-      "title": "Erica Campbell Quickly Settles Litigation Against SRG Over Alleged Non-Payments",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV0kzdHUzN0pucVFRNElrQ1JiQ2FYd3F3YWJoTVlIRWNnOUY3dU5LWlV3cDNaV2Q4ZERVNUppRE9wZXlWcHU5VDRWbGFGSmxtYmhSb1FIenpxc3BJaTFFREtrTkhuTGYwZTlnbWMwN18wMGkyaWd3OGpZNURTbmkxdUV1NjhHQQ?oc=5",
-      "summary": "Erica Campbell Quickly Settles Litigation Against SRG Over Alleged Non-Payments Digital Music News",
-      "outlet": "Digital Music News",
-      "outlet_url": "https://www.digitalmusicnews.com",
-      "source_feed": "Google News: Erica Campbell",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-05T18:34:39Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-06T06:46:45Z",
-      "image_tried": "2026-10-08T20:58:19Z"
-    },
-    {
-      "id": "e4ede4243b9869e4",
-      "title": "Christy Nockels Opens Up About Her Hardest Year Of Marriage—And What Came Next",
-      "link": "https://www.jubileecast.com/articles/39984/20261005/christy-nockels-opens-up-about-her-hardest-year-of-marriage—and-what-came-next.htm",
-      "summary": "Christy Nockels Opens Up About Her Hardest Year Of Marriage—And What Came Next",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-05T18:34:26Z",
-      "first_seen": "2026-10-05T18:46:45Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27106/christy-nockels.jpg",
         "via": "media:content"
       },
       "breaking": false,
