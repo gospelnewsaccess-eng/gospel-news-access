@@ -1,8 +1,196 @@
 {
-  "generated_at": "2026-10-11T15:51:24Z",
+  "generated_at": "2026-10-11T19:51:49Z",
   "story_count": 600,
-  "with_photo": 438,
+  "with_photo": 435,
   "items": [
+    {
+      "id": "6cefa471bc7eed36",
+      "title": "Bishops around the world ask for prayers for Pope Leo XIV’s health",
+      "link": "https://www.ewtnnews.com/vatican/bishops-around-the-world-ask-for-prayers-for-pope-leo-xiv-s-health",
+      "summary": "Prayers for the pope’s health have been pouring in from all over the world.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-11T19:40:29Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790875113/ewtn-news/en/Pope_Leo_rosary_children_b3basm.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1e07bce8865616ce",
+      "title": "What Is a Lung Nodule? What Doctors Say After Pope Leo XIV’s Announcement",
+      "link": "https://www.jubileecast.com/articles/40137/20261011/what-is-a-lung-nodule-pope-leo-xiv.htm",
+      "summary": "What Is a Lung Nodule? What Doctors Say After Pope Leo XIV’s Announcement",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T19:39:29Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32145/pope-leo-xiv.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7797167735c801e7",
+      "title": "Michael Strahan Opens Up on Helping Daughter Isabella Stay Hopeful Through Brain Cancer",
+      "link": "https://www.jubileecast.com/articles/40139/20261011/michael-strahan-helps-daughter-isabella-stay-hopeful-brain-cancer.htm",
+      "summary": "Michael Strahan Opens Up on Helping Daughter Isabella Stay Hopeful Through Brain Cancer",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T19:38:41Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32146/michael-strahan-and-isabelle.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a45b17755fc115c3",
+      "title": "Patrick Clancy Runs Chicago Marathon Weeks After Lindsay Clancy Mistrial: What We Know",
+      "link": "https://www.jubileecast.com/articles/40138/20261011/patrick-clancy-runs-chicago-marathon-weeks-after-lindsay-clancy-mistrial.htm",
+      "summary": "Patrick Clancy Runs Chicago Marathon Weeks After Lindsay Clancy Mistrial: What We Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T19:25:26Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31882/patick-clancy.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5b6ca7bc218dc65b",
+      "title": "Will Pope Leo XIV Still Visit Peru, Argentina and Uruguay After Surgery? What We Know",
+      "link": "https://www.jubileecast.com/articles/40136/20261011/pope-leo-xiv-south-america-trip-after-surgery.htm",
+      "summary": "Will Pope Leo XIV Still Visit Peru, Argentina and Uruguay After Surgery? What We Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T19:00:27Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26980/pope-leo-xiv.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0de14ab773add6a2",
+      "title": "George Clooney Speaks on Presley Gerber’s Death: “One of the Most Devastating Things”",
+      "link": "https://www.jubileecast.com/articles/40135/20261011/george-clooney-speaks-presley-gerber-death.htm",
+      "summary": "George Clooney Speaks on Presley Gerber’s Death: “One of the Most Devastating Things”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T18:50:12Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31929/george-amal-clooney-and-cindy-crawford-and-presley-gerber.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7b35f21c3c70628",
+      "title": "New Godzilla Minus Zero Trailer Spotlights King Ghidorah’s Gravity Beams",
+      "link": "https://www.jubileecast.com/articles/40134/20261011/godzilla-minus-zero-trailer-king-ghidorah-gravity-beams.htm",
+      "summary": "New Godzilla Minus Zero Trailer Spotlights King Ghidorah’s Gravity Beams",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T18:28:28Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32144/godzilla-minus-zero.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ad1d646fa9072665",
+      "title": "What we know about Pope Leo XIV’s health",
+      "link": "https://www.ewtnnews.com/vatican/what-we-know-about-pope-leo-xiv-s-health",
+      "summary": "Doctors comment on the pontiff’s news about his upcoming lung surgery.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-11T18:13:58Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614577/images/stjohnpauliistatuegemelli022525.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "006be7ebcdf7a7a8",
+      "title": "Pope Leo XIV Asks for Prayers Ahead of Lung Nodule Surgery This Week",
+      "link": "https://www.jubileecast.com/articles/40133/20261011/pope-leo-xiv-asks-prayers-lung-nodule-surgery.htm",
+      "summary": "Pope Leo XIV Asks for Prayers Ahead of Lung Nodule Surgery This Week",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T17:54:23Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29203/pope-leo-xiv.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a289086932b0c1b9",
+      "title": "David Living Ministers Through Gospel Music on Sunday Breakfast",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnMWZvTHBsRVg4UjlHUHlHeXBjaktJM3VBeFNHXzdzMG53Z0lwS3UxSnRNNURzcDRYVmliUUVTY1RuMU9pSDBrS24ybnRzazI3QkdLbmNFOFBwUndCVjRNM2Rzd9IBXEFVX3lxTE1oNTk5ejNPOVJXRnpGd1JpRHdKYXBHcF9VWVhrd1c1NTB6T3VGMlpjMy1pVWtrOVdHLWl0UlVyRW9VRG9zQXo5UDdic195Q28tQmEzMmdvVFkyY1hH?oc=5",
+      "summary": "David Living Ministers Through Gospel Music on Sunday Breakfast Modern Ghana",
+      "outlet": "Modern Ghana",
+      "outlet_url": "https://www.modernghana.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-11T16:48:11Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-11T19:51:49Z"
+    },
     {
       "id": "1223c9ff66a6522a",
       "title": "Josiah Queen and Phil Wickham big winners at 57th GMA Dove Awards",
@@ -539,6 +727,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-11T15:51:24Z"
+    },
+    {
+      "id": "e42d04076963e4d3",
+      "title": "Black Church hosts Organ Nights on 17 October - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGZxMEpjZnZpU29Fd1BBbEdKdEVEZXEzYjY4VE00WWFKWDZrdE5PLS12dlUwbFNqU09nbG9Wek8ydFFLRnpCN0F6bmFNSGpNOE1tbHBPUzQwc2dFM21xLWZYOEZsenBWb0g0aWxyZG42dGIwNUN2bVlyZTVzUHZ2SEcxa2FwMzB2MVd5b01RYTBfUjRzdVpqbC1QS05DV1lmcVk0?oc=5",
+      "summary": "Black Church hosts Organ Nights on 17 October ad-hoc-news.de",
+      "outlet": "ad-hoc-news.de",
+      "outlet_url": "https://www.ad-hoc-news.de",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-11T04:02:26Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-11T19:51:49Z"
     },
     {
       "id": "ec916fc7a1ca23d3",
@@ -6487,6 +6692,23 @@
       "image_tried": "2026-10-08T20:58:19Z"
     },
     {
+      "id": "caedbcc500abd815",
+      "title": "Megachurch pastor suspended for riding crop ‘joke’ will take new role with less responsibility",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNV9nTjVScWpfTmtKb1dfYXo3WndzZW9TMF84emJ4QlRBMGgtR1RWVVI2SXc2QXBiNzZLUlVWSkExdmUzVE94dHJ5R0hydWkxdWhabkhfVGxzVWxUbFVTa01WMlVVLUVSZmtuX2puR1lscHhlWkFTZy1BUnV6MUdqRWtaSHpLUUtNbk1GemlUWmU4T3VLYTFkWDBFeUpBUUMya2ZxQldTRlFlZkRodDkzX09qWDNIc3M?oc=5",
+      "summary": "Megachurch pastor suspended for riding crop ‘joke’ will take new role with less responsibility The Roys Report",
+      "outlet": "The Roys Report",
+      "outlet_url": "https://roysreport.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-08T04:11:39Z",
+      "first_seen": "2026-10-11T19:51:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-11T19:51:49Z"
+    },
+    {
       "id": "814d6e481e064a62",
       "title": "America hides death. That's why euthanasia seems acceptable",
       "link": "https://www.christianpost.com/voices/america-hides-death-thats-why-euthanasia-seems-acceptable.html",
@@ -10848,234 +11070,6 @@
       "first_seen": "2026-10-06T07:09:23Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2020/11/05/Bishop-Oballa.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "965f460b5adcfae0",
-      "title": "Who Is Caleb Flynn’s Mistress? Church Connection, Secret Tattoos And Explosive Testimony Raise Troubling Questions",
-      "link": "https://www.jubileecast.com/articles/39997/20261006/who-is-caleb-flynn-s-mistress-church-connection-secret-tattoos-and-explosive-testimony-raise-troubling-questions.htm",
-      "summary": "Who Is Caleb Flynn’s Mistress? Church Connection, Secret Tattoos And Explosive Testimony Raise Troubling Questions",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T06:26:10Z",
-      "first_seen": "2026-10-06T07:09:23Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28977/alleigha-botner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0a404440def17603",
-      "title": "Lady A’s Song About Cancer Takes On Personal Meaning After Charles Kelley’s Diagnosis",
-      "link": "https://www.jubileecast.com/articles/39996/20261006/lady-a-s-song-about-cancer-takes-on-personal-meaning-after-charles-kelley-s-diagnosis.htm",
-      "summary": "Lady A’s Song About Cancer Takes On Personal Meaning After Charles Kelley’s Diagnosis",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T06:11:56Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31984/charles-kelley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e8ec03a437d17136",
-      "title": "Kirk Franklin Brings Gospel To Monday Night Football—Why This Superdome Moment Matters",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQmlhTVB0aEpuQWlSWWM5M09oeWI0TDZveDhULWhVbm9VeUZXUnRQZXRhNjZmUFpmM1VtbzNkeFVNODRfSF9lbEdUZHVPbi1mbVkzd3VSMXN5dm9JOWpMLXBkNl9acHhROER0ajJnVXN6ejJNTTRnLWpJX2ZMdkxraVRmWXNpQ21yUU5TR3hRWFctdXNfQ2Y0cGtzSllZVnhRXzE1dGV4VWE1cXBTUEl5RDBjRk5fUHRRdjRQVDl1dVUyOEw2U1hJUTVkYk41X0NBck5vNkFZVDRmcXpCd0p4NVJDRks?oc=5",
-      "summary": "Kirk Franklin Brings Gospel To Monday Night Football—Why This Superdome Moment Matters JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-06T05:58:00Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28327/kirk-franklin.jpg",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-10-06T18:09:28Z"
-    },
-    {
-      "id": "82fa8958110d44d7",
-      "title": "Taylor Swift And Ella Langley’s Chart Showdown Raises A Bigger Question: Who Can Hold The Crown?",
-      "link": "https://www.jubileecast.com/articles/39994/20261006/taylor-swift-and-ella-langley-s-chart-showdown-raises-a-bigger-question-who-can-hold-the-crown.htm",
-      "summary": "Taylor Swift And Ella Langley’s Chart Showdown Raises A Bigger Question: Who Can Hold The Crown?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T05:51:03Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31527/taylor-swift.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2fac23966b5a0eb5",
-      "title": "Robin Williams’ Son Revisits His Father’s Final Months—What Still Haunts Zak?",
-      "link": "https://www.jubileecast.com/articles/39993/20261006/robin-williams-son-revisits-his-father-s-final-months—what-still-haunts-zak.htm",
-      "summary": "Robin Williams’ Son Revisits His Father’s Final Months—What Still Haunts Zak?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T05:47:41Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/3351/robin-williams.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b7246b8f13559b08",
-      "title": "Jim Bakker Dies At 86: What Should The Church Remember About His Scandal And Comeback?",
-      "link": "https://www.jubileecast.com/articles/39992/20261006/jim-bakker-dies-at-86-what-should-the-church-remember-about-his-scandal-and-comeback.htm",
-      "summary": "Jim Bakker Dies At 86: What Should The Church Remember About His Scandal And Comeback?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T05:42:59Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32078/jim-bakker.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "75b9e5b8cf520ddb",
-      "title": "Russell Tusing, Who Pleaded Guilty To Child Cruelty, Returns To Pulpit—And His Sermon Topic Raises Eyebrows",
-      "link": "https://www.jubileecast.com/articles/39991/20261006/russell-tusing-who-pleaded-guilty-to-child-cruelty-returns-to-pulpit—and-his-sermon-topic-raises-eyebrows.htm",
-      "summary": "Russell Tusing, Who Pleaded Guilty To Child Cruelty, Returns To Pulpit—And His Sermon Topic Raises Eyebrows",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T05:38:30Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32077/russell-tusing.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a50a3c978dde1929",
-      "title": "Grok AI chatbot affirms divinity of Christ, citing historical record: 'Jesus is not a fake god'",
-      "link": "https://www.christianpost.com/news/grok-ai-affirms-divinity-of-christ-citing-historical-record.html",
-      "summary": "Grok, an artificial intelligence conversational assistant built by Elon Musk's company xAI, has drawn widespread attention in recent days for affirming the divinity of Jesus Christ by citing the biblical and historical record.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T04:53:41Z",
-      "first_seen": "2026-10-06T06:09:28Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272190_w_550_367_644_186.jpg?v=20261006005405",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0965d08cdc6363a0",
-      "title": "Jim Bakker, Christian Television Pioneer, Enters Heaven at 86",
-      "link": "https://www.ccmmagazine.com/news/jim-bakker-christian-television-pioneer-enters-heaven-at-86/",
-      "summary": "The PTL founder and one of the original architects of Christian television leaves behind a undeniable legacy of innovation, technology, entertainment and ministry. Jim Bakker, one of the last remaining pioneers from the original generation of Christian…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T04:34:38Z",
-      "first_seen": "2026-10-06T05:07:54Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/10/jimbaker.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5935f173ceaef676",
-      "title": "Megachurch pastor Josh Howerton takes flak for climbing ladders during sermon",
-      "link": "https://www.christianpost.com/news/josh-howerton-takes-flak-for-climbing-ladders-during-sermon.html",
-      "summary": "Pastor Josh Howerton, senior pastor of Lakepointe Church in Rockwall, Texas, faced criticism on social media for using two large ladders as an object lesson during a recent sermon about the Christian life.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T04:28:09Z",
-      "first_seen": "2026-10-06T05:07:54Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272186_w_550_309.jpg?v=20261006003220",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e0abe0093f35f166",
-      "title": "Why are Christians leaving for Islam?",
-      "link": "https://www.christianpost.com/voices/why-are-christians-leaving-for-islam.html",
-      "summary": "When Christians leave the faith for Islam, it's tempting to say they were never truly believers. A former Muslim argues that this response lets the Church off the hook, and that real renewal starts with repentance inside the Church, not with political battles…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T04:10:02Z",
-      "first_seen": "2026-10-06T05:07:54Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272167_w_550_360_556_325.jpg?v=20261005235751",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5cc825ab04bc6099",
-      "title": "How endless scrolling is quietly discipling Christians",
-      "link": "https://www.christianpost.com/voices/how-endless-scrolling-is-quietly-discipling-christians.html",
-      "summary": "Christians have spent years asking whether particular technologies are good or bad. That question is not useless, but it is becoming too small. The more urgent question is what these technologies are teaching us to notice.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T04:05:57Z",
-      "first_seen": "2026-10-06T05:07:54Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272185_w_550_309_599_321.jpg?v=20261005235650",
         "via": "media:content"
       },
       "breaking": false,
