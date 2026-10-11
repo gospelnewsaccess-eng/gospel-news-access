@@ -1,8 +1,291 @@
 {
-  "generated_at": "2026-10-11T19:51:49Z",
+  "generated_at": "2026-10-11T23:22:54Z",
   "story_count": 600,
-  "with_photo": 435,
+  "with_photo": 439,
   "items": [
+    {
+      "id": "eb247ebf330a802b",
+      "title": "LIVE UPDATES: Pope Leo’s health and preparations for surgery",
+      "link": "https://www.ewtnnews.com/vatican/live-updates-pope-leo-s-health-and-preparations-for-surgery",
+      "summary": "Pope Leo XIV will have surgery at Rome’s Gemelli Hospital early this week to remove a small lung nodule found at a very early stage. Follow updates and reactions here.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-11T23:05:52Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790767590/ewtn-news/en/260930_GA_Daniel_Iba%CC%81n%CC%83ez_4_dzhuzs.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fced011500bb4dbf",
+      "title": "Ella Langley Defends Tulsa Cancellation As Police Account Raises Questions",
+      "link": "https://www.jubileecast.com/articles/40152/20261011/ella-langley-defends-tulsa-cancellation-as-police-account-raises-questions.htm",
+      "summary": "Ella Langley Defends Tulsa Cancellation As Police Account Raises Questions",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T22:15:31Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32036/ella-langley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4ce6bdb8522abf44",
+      "title": "Chad Lowe And Family Gather For Nephew’s Wedding Amid Heartbreak Over Fiona’s Death",
+      "link": "https://www.jubileecast.com/articles/40151/20261011/chad-lowe-and-family-gather-for-nephew-s-wedding-amid-heartbreak-over-fiona-s-death.htm",
+      "summary": "Chad Lowe And Family Gather For Nephew’s Wedding Amid Heartbreak Over Fiona’s Death",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T22:04:54Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31993/chad-lowe-and-family.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e56fb1d83dfed1e",
+      "title": "Tobey Maguire Officiates Ex-Wife Jennifer Meyer’s Hawaii Wedding",
+      "link": "https://www.jubileecast.com/articles/40150/20261011/tobey-maguire-officiates-ex-wife-jennifer-meyer-s-hawaii-wedding.htm",
+      "summary": "Tobey Maguire Officiates Ex-Wife Jennifer Meyer’s Hawaii Wedding",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T21:59:36Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32148/tobey-maguire.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e90f3d6abf94d38",
+      "title": "Phil Wickham’s Three Dove Wins Set The Stage For A Sold-Out Tour Run",
+      "link": "https://www.jubileecast.com/articles/40149/20261011/phil-wickham-s-three-dove-wins-set-the-stage-for-a-sold-out-tour-run.htm",
+      "summary": "Phil Wickham’s Three Dove Wins Set The Stage For A Sold-Out Tour Run",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T21:49:45Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31373/phil-wickham.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "207ba51f3d8ee890",
+      "title": "Sean “Diddy” Combs Faces Fresh Prison Setback After Reports Of VIP Treatment",
+      "link": "https://www.jubileecast.com/articles/40148/20261011/sean-diddy-combs-faces-fresh-prison-setback-after-reports-of-vip-treatment.htm",
+      "summary": "Sean “Diddy” Combs Faces Fresh Prison Setback After Reports Of VIP Treatment",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T21:43:27Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27012/diddy.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "df377ce1194b046a",
+      "title": "Keegan Allen Reveals Stitched Wounds After Armed Robbery—“My Life For A Watch”",
+      "link": "https://www.jubileecast.com/articles/40147/20261011/keegan-allen-reveals-stitched-wounds-after-armed-robbery—-my-life-for-a-watch.htm",
+      "summary": "Keegan Allen Reveals Stitched Wounds After Armed Robbery—“My Life For A Watch”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T21:40:24Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32133/keegan-allen.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "48f948c9597704a8",
+      "title": "Sandi Patty Honors “Because He Lives” At 55—And The Hope That Still Holds",
+      "link": "https://www.jubileecast.com/articles/40146/20261011/sandi-patty-honors-because-he-lives-at-55—and-the-hope-that-still-holds.htm",
+      "summary": "Sandi Patty Honors “Because He Lives” At 55—And The Hope That Still Holds",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T21:33:32Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31762/sandi-patty.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7c612d200c5fb29c",
+      "title": "Tom Cruise’s “Digger” Faces A Reported US$245 Million Loss",
+      "link": "https://www.jubileecast.com/articles/40145/20261011/tom-cruise-s-digger-faces-a-reported-us-245-million-loss.htm",
+      "summary": "Tom Cruise’s “Digger” Faces A Reported US$245 Million Loss",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T20:54:13Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31917/tom-cruise.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d14aa056162f8977",
+      "title": "Jessica Chastain’s “Other Mommy” Wins Despite A D+ Audience Grade",
+      "link": "https://www.jubileecast.com/articles/40144/20261011/jessica-chastain-s-other-mommy-delivers-a-box-office-shock-after-brutal-audience-verdict.htm",
+      "summary": "Jessica Chastain’s “Other Mommy” Delivers A Box Office Shock After Brutal Audience Verdict",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T20:50:18Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32130/other-mommy.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "26d1bf05ec37346f",
+      "title": "Gypsy Rose Blanchard Releases Private Ken Urker Texts Amid Rumors About Their Final Weeks",
+      "link": "https://www.jubileecast.com/articles/40143/20261011/gypsy-rose-blanchard-releases-private-ken-urker-texts-amid-rumors-about-their-final-weeks.htm",
+      "summary": "Gypsy Rose Blanchard Releases Private Ken Urker Texts Amid Rumors About Their Final Weeks",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T20:31:12Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32029/gypsy-rose-blanchard-and-ken-urker.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e3b0e16fe9d54f7",
+      "title": "Pastor Mark Driscoll Warns Of 11 Sex Acts Christians Are Forbidden To Do",
+      "link": "https://www.jubileecast.com/articles/40142/20261011/pastor-mark-driscoll-warns-of-11-sex-acts-christians-are-forbidden-to-do.htm",
+      "summary": "Mark Driscoll Warns Of 11 Sex Acts Christians Are Forbidden To Do",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T20:25:25Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23603/mark-driscoll.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4f59bcc2f5cdbe89",
+      "title": "Bob Mackie’s Death Certificate Raises Startling Questions About His Final Days",
+      "link": "https://www.jubileecast.com/articles/40141/20261011/bob-mackie-s-death-certificate-raises-startling-questions-about-his-final-days.htm",
+      "summary": "Bob Mackie’s Death Certificate Raises Startling Questions About His Final Days",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T20:18:48Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32147/bob-mackie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "47c31963001b84e4",
+      "title": "Franklin Graham And Robert Jeffress Ignite Fierce Debate Over Nidal Hasan Execution Livestream",
+      "link": "https://www.jubileecast.com/articles/40140/20261011/franklin-graham-and-robert-jeffress-ignite-fierce-debate-over-nidal-hasan-execution-livestream.htm",
+      "summary": "Franklin Graham And Robert Jeffress Ignite Fierce Debate Over Nidal Hasan Execution Livestream",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-11T20:12:13Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30110/franklin-graham.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "840d05b53722942b",
+      "title": "At 87, Sherman Holmes Carries the Holmes Brothers Legacy Forward on ‘One Step Ahead of the Blues’",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQemVfS0RMc2ZkYXVabGs5YXBmenFFSFI0TWQ0c2o0WjZNWUVtbVpEb0F1T3NwZXAzMW85U2pBaDZCQXRfYVNRbFhST0dtWFNtY2F6aVFIbWNic0RKSmlsYTNyY29pcWVYTi1fVVA5NjEtY1ZhMC1oQk5FaDh3czFGaWtqV3dYd2p2SnNv?oc=5",
+      "summary": "At 87, Sherman Holmes Carries the Holmes Brothers Legacy Forward on ‘One Step Ahead of the Blues’ https://www.thebluesmagazine.com/",
+      "outlet": "https://www.thebluesmagazine.com/",
+      "outlet_url": "https://www.thebluesmagazine.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-11T19:55:33Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-11T23:22:54Z"
+    },
     {
       "id": "6cefa471bc7eed36",
       "title": "Bishops around the world ask for prayers for Pope Leo XIV’s health",
@@ -4968,7 +5251,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-09T08:58:19Z",
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "68e225f67e91f33a",
@@ -5213,7 +5496,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "4e6d3befb66a675a",
@@ -5420,7 +5703,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "e80ddc6628c67328",
@@ -5437,7 +5720,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "df88b93e3a99dba6",
@@ -5454,7 +5737,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "9edb3b611a743d45",
@@ -5490,7 +5773,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "356d5cf3867464e3",
@@ -5545,7 +5828,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "93f00bca717d44c7",
@@ -5638,7 +5921,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "dcb6d9ad1969cb6e",
@@ -5655,6 +5938,25 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1776254214/ewtn-news/en/_SIM2737_1_5.JPG_y4s4ch.jpg",
         "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e284a9ac248f664a",
+      "title": "Grok AI Chatbot Affirms Divinity of Christ, Citing Historical Record: “Jesus Is Not a Fake God”",
+      "link": "https://blackchristiannews.com/grok-ai-chatbot-affirms-divinity-of-christ-citing-historical-record-jesus-is-not-a-fake-god/?utm_source=rss&utm_medium=rss&utm_campaign=grok-ai-chatbot-affirms-divinity-of-christ-citing-historical-record-jesus-is-not-a-fake-god",
+      "summary": "The post Grok AI Chatbot Affirms Divinity of Christ, Citing Historical Record: “Jesus Is Not a Fake God” appeared first on Black Christian News Network One (BCNN1) .",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-08T14:54:07Z",
+      "first_seen": "2026-10-11T23:22:54Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/Logo_Grok_AI_28xAI29_2025.png",
+        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -6006,7 +6308,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "bffe47973f28dbe0",
@@ -6378,7 +6680,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "16dcfc2975e39169",
@@ -6689,7 +6991,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-08T20:58:19Z"
+      "image_tried": "2026-10-11T23:22:54Z"
     },
     {
       "id": "caedbcc500abd815",
@@ -10776,300 +11078,6 @@
       "first_seen": "2026-10-06T11:08:14Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32079/batman-part-ii.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ab42bab5a29871b5",
-      "title": "Kid Rock’s Christian album comes after controversy over his lyrics about underage girls",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajk3RHZPcXk3Q3FORjVIUm5pb3BJWk12VXQ4a1N0cEtTcUFMRkxjWG1xU29SQVpxdWZvS0h3Vy1lTElVdF9PbE1weVlUTWhSUkdESS0wVE9oV1YzYjJEbW5VemwxdkVsaHNtOGxoMnI0Y1N1N0Qxc1R6WGR0RXlvN3JBSEtqOXdSYzhTM3FBVEFUNGFOYmFHTnVwaGtaSXhRTmw1c0czcXk2SGJNRGZ0YWQ3WlhOcWl4X2RvblpzXzB5SllKX0t5bkRZNTQ5Szl3aFcxZtIB6AFBVV95cUxQbmRtX2tiWEhKVHJkcWY3S1NGcF9SQWU2VEhjQndTYm5jdUNIUzNEUkZQaDFhdzFsX25XOC04dWpBYzh1Q2o0MFR6MWkxZ19CQ09IMmpYd05IZnJNdW9yb00zQXVLQTVzVHBteGJnc0Z1YV9RNGR6c040UFNGcEM2OGt5TEFsZFJaSjh2MzA1dW5rSElHeXNnaVpMZ3lNM2R3VlBkTVNvcmNDRk1YSWRuaEs4Y2V5SkNjMVQtQ1NOVjNoTno4VUhEZkhQTGJScDZKOVowbWhob3dLcW93eXY0Q3hkbjE5ZUFF?oc=5",
-      "summary": "Kid Rock’s Christian album comes after controversy over his lyrics about underage girls PennLive.com",
-      "outlet": "PennLive.com",
-      "outlet_url": "https://www.pennlive.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-06T10:30:00Z",
-      "first_seen": "2026-10-06T11:41:04Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-06T23:41:04Z",
-      "image_tried": "2026-10-09T14:53:11Z"
-    },
-    {
-      "id": "01ce1265e5863e59",
-      "title": "UNICEF: El Niño threatens 347 million children worldwide",
-      "link": "https://www.vaticannews.va/en/world/news/2026-10/unicef-el-nino-extreme-weather-events-children-affected-appeal.html",
-      "summary": "The United Nations agency for children, UNICEF, warns that one of the strongest El Niño events on record could bring floods, drought, displacement and disruption to education, urging governments to act before the crisis worsens. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T10:11:00Z",
-      "first_seen": "2026-10-06T11:08:14Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/30/13/1790767211681.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "eccda7b398d6c599",
-      "title": "This Orthodox Ascetic Made Me More Evangelical",
-      "link": "https://www.christianitytoday.com/2026/10/mark-the-monk-orthodox-evangelical/",
-      "summary": "“Why aren’t you Catholic?” my friend from divinity school asks. It’s a valid question. As a kid, I had my feet planted on both sides of the Tiber. I’d go to Mass with my dad on Saturdays and attend a Baptist church with my whole family on Sundays. Eventually…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T10:00:00Z",
-      "first_seen": "2026-10-06T10:08:25Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/mark-the-monk.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d879e4f87052905f",
-      "title": "Religion Is Not the Enemy of Reading",
-      "link": "https://www.christianitytoday.com/2026/10/religion-is-not-the-enemy-of-reading-new-dark-ages-marriott-review/",
-      "summary": "Reading is dead, and screens are the culprit. That’s one side of James Marriott’s thesis in The New Dark Ages: The Death of Reading and the Dawn of the Post-Literate Society. It’s a claim you’ve heard before, and you probably half agree. You’ve seen the teens…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T10:00:00Z",
-      "first_seen": "2026-10-06T10:08:25Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/religion-not-enemy-reading.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "875c49eab24d2f22",
-      "title": "We Need the Church to Face the Quiet",
-      "link": "https://www.christianitytoday.com/2026/10/we-need-the-church-to-face-into-the-quiet-john-mark-comer-review/",
-      "summary": "For several years, I taught an undergraduate course on spiritual formation. Part of the class included readings from the desert fathers and mothers, who, following the example of Jesus (Luke 5:16), withdrew from society and went into the wilderness, embracing…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T10:00:00Z",
-      "first_seen": "2026-10-06T10:08:25Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/need-church-face-quiet.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fccf8144c968722f",
-      "title": "Historic Catholic parish in Alabama marks 100 years with ecumenical tent revival",
-      "link": "https://www.ewtnnews.com/world/us/historic-catholic-parish-in-alabama-marks-100-years-with-ecumenical-tent-revival",
-      "summary": "Our Mother of Mercy Parish in Africatown celebrates 100 years of faith with an ecumenical revival bringing nearly 500 Christians together.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T10:00:00Z",
-      "first_seen": "2026-10-06T11:08:14Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791231789/ewtn-news/en/ourmotherofmercy_zrihga.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "afc9842dd814c7ac",
-      "title": "I Watched Abdul El-Sayed in a Room With Black Voters—and Saw Why He’s Had Trouble With Them",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMG9nV1VpUTNFWVJrb2FVeW96aG9KUTlFdjVQMEVQaGt1UWprZlM1ZkJsMVI3QWRseE9tdzNudUtYMlF5SU0tSmYtU21uQXg5Mk9VWWN1bFJSWUhfRjVGaEVFMUJKVmtfTmJzME9Zd0JCcGQzX2xaQk5rbFVWVzNrSVJMLXdIOUtONXc?oc=5",
-      "summary": "I Watched Abdul El-Sayed in a Room With Black Voters—and Saw Why He’s Had Trouble With Them Slate",
-      "outlet": "Slate",
-      "outlet_url": "https://slate.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-06T09:45:00Z",
-      "first_seen": "2026-10-07T16:44:27Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-10T19:40:33Z"
-    },
-    {
-      "id": "1870f28b24c722d3",
-      "title": "Pope Leo XIV: Marital love is tireless and faithful ‘Yes’ for a lifetime",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-foreword-youcat-love-forever-marriage.html",
-      "summary": "Pope Leo XIV pens the foreword for a new edition of “YOUCAT: Love Forever,” a book to accompany young people in reflecting on love, relationships, and marriage in the light of the Catholic faith. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T08:21:00Z",
-      "first_seen": "2026-10-06T09:09:10Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/09/2026-09-09-udienza-generale/1788949522599.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0e84f3839cda967a",
-      "title": "Escaping Into The Cultural Capital Of Transylvania",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbUJhbFJqSGRJSWlzamlYMTU0Um95NDN1Z1c2WXRvUDhLSVFKV3Vrdjh0NWM4ZmJ6WTlDcUJWZFh3NHRXT2Q5aXU1eXEwX3lDeWptX21VVGQ4ZVdDcVQtVDVfQ25VSXNiU3ZVQWRIX2FYekxWeF9ZSm81dm1zSENQd0lDV2wtWFFhdXNuZFNBTkhKbFZ6WnQxUndJS2l3UQ?oc=5",
-      "summary": "Escaping Into The Cultural Capital Of Transylvania WorldAtlas",
-      "outlet": "WorldAtlas",
-      "outlet_url": "https://www.worldatlas.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-06T08:00:00Z",
-      "first_seen": "2026-10-06T09:42:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-09T14:53:11Z"
-    },
-    {
-      "id": "dc28732c9f52f17f",
-      "title": "BREAKING! The Scandal-Machine Preacher, Jim Bakker, has met his Maker",
-      "link": "https://blackchristiannews.com/breaking-the-scandal-machine-preacher-jim-bakker-has-met-his-maker/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-the-scandal-machine-preacher-jim-bakker-has-met-his-maker",
-      "summary": "Daniel Whyte III, President of Gospel Light Society International, says the scandal-plagued Jim Bakker has met his Maker, God Almighty, The post BREAKING! The Scandal-Machine Preacher, Jim Bakker, has met his Maker appeared first on Black Christian News…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T07:25:29Z",
-      "first_seen": "2026-10-06T08:09:14Z",
-      "image": {
-        "url": "https://substackcdn.com/image/fetch/$s_!qmKn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a5b22cb-48fe-4ec5-b0a9-8c0a27cbddcf_634x954.jpeg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "83ef98931b3771fa",
-      "title": "Subukia Shrine: National Prayer Day calls Kenyans to peace and reconciliation",
-      "link": "https://www.vaticannews.va/en/africa/news/2026-10/subukia-shrine-national-prayer-day-calls-kenyans-to-peace-and-r.html",
-      "summary": "Over the weekend, thousands of Catholic faithful from across Kenya gathered at the Subukia National Marian Shrine in the Diocese of Nakuru for the 2026 National Prayer Day, placing the country, its families, Church and leaders before God in prayer as Kenya…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T07:20:00Z",
-      "first_seen": "2026-10-06T08:09:14Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/06/img-20261004-wa0084.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "086bc3da2b371aa6",
-      "title": "Kenya: The beautiful faces of Kibera and room to dream",
-      "link": "https://www.vaticannews.va/en/world/news/2026-10/kenya-kibera-nairobi-slum-visit-interviews-dreams.html",
-      "summary": "Walking through the Kibera neighborhood of Nairobi, the largest slum in Africa, not everything is as it seems: amidst the overcrowding, health issues, and crime, residents welcomed us with smiles, displaying their pride and identity and sharing their stories…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T07:11:00Z",
-      "first_seen": "2026-10-06T08:09:14Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/16/kibera3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "07da0afbf86ad698",
-      "title": "Indonesia bans US gospel singer Israel Houghton concert",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGY2cHpSeFFUT3M5bmVxN1BFSHdGS2J4RXpYNUdJOWVtREl1cDNndXhRZ0hrajlMMXRZLS1KMF8wMnB6YU9tZVJKWEFtNHh5dTN5R3dHcnRDTnAwY3dGQUVSVjJXMmVoSnRJblh4T25PRXBPNGZ6N1FYMTJaQTZsb3FDM1IzZXZRZml5Y3RZdkJhdw?oc=5",
-      "summary": "Indonesia bans US gospel singer Israel Houghton concert yahoo.com",
-      "outlet": "yahoo.com",
-      "outlet_url": "https://www.yahoo.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-06T07:03:32Z",
-      "first_seen": "2026-10-06T07:41:39Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-06T19:41:39Z",
-      "image_tried": "2026-10-09T14:53:11Z"
-    },
-    {
-      "id": "83667064e34f2301",
-      "title": "Washington Worship Composer Keith Johnson Brings Original Christian Music to Listeners Through Music For His Majesty - 24-7 Press Release",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPc1hXTmRyLU1PLWhULUQzdE1vRll6QWdZZ1JLMGxRMUNSSVY1V0JyTFc0d2c1dmwyRnIwYkhuWGN0cWp2RFB6WDlRUnhtcEdrdE8tSTlTczg5bmR1NF83Q3F0QzhyT3dQOUczakIxU3RYTTZneHlMSmVrVVdVa1EyUDRjN0dZRHN0czI4aDJUcUlKSWxmX1RSS21qa1NSNjdlVHJkdDRyTklGUmhHZ3otV2VSOVQydk1ULWxWWFltN243NmcwWGxHOTZzbDNSYkcwYU1hS3g2Qzg1amtGbWMxZHJyVEk0U2hicFRhVWdSUV9jbWNfWnRzV0JiV2xjNk0?oc=5",
-      "summary": "Washington Worship Composer Keith Johnson Brings Original Christian Music to Listeners Through Music For His Majesty 24-7 Press Release",
-      "outlet": "24-7 Press Release",
-      "outlet_url": "https://www.24-7pressrelease.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-06T07:00:29Z",
-      "first_seen": "2026-10-06T07:41:39Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-06T19:41:39Z",
-      "image_tried": "2026-10-09T14:53:11Z"
-    },
-    {
-      "id": "a6646f999d96288a",
-      "title": "Televangelist Jim Bakker, once imprisoned for scandal, dies at 87",
-      "link": "https://religionnews.com/2026/10/06/televangelist-jim-bakker-once-imprisoned-for-scandal-dies-at-87/",
-      "summary": "(RNS) — By the time Bakker, and his first wife Tammy Faye were forced to give up their Praise The Lord ministry — known as ‘PTL’ — in 1987, they were a well-known television couple with a loyal following.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T06:49:17Z",
-      "first_seen": "2026-10-06T07:09:23Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2017/08/webRNS-JIM-BAKKER2-080317-427x281.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "11878ab6b1c2cc20",
-      "title": "Kenyan Bishop: Church must get hands dirty to address people's problems",
-      "link": "https://www.vaticannews.va/en/church/news/2026-10/kenya-bishop-ngong-church-involved-peoples-lives.html",
-      "summary": "In a conversation with our correspondent Guglielmo Gallone, the Bishop of Ngong, a Kenyan Diocese spanning 39,000 square kilometers, says, \"We must get our hands dirty for the good of our brothers and sisters, for the love of God, and in the face of people's…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-06T06:40:00Z",
-      "first_seen": "2026-10-06T07:09:23Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2020/11/05/Bishop-Oballa.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
