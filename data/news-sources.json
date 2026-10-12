@@ -37,9 +37,9 @@
       "tier": 1,
       "category": "gospel",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-05T04:08:00Z",
+      "verified_newest_item": "2026-10-11T20:43:35Z",
       "last_error": null,
       "quiet": false
     },
@@ -49,9 +49,9 @@
       "tier": 1,
       "category": "church",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-05T06:00:00Z",
+      "verified_newest_item": "2026-10-12T03:37:17Z",
       "last_error": null,
       "quiet": false
     },
@@ -61,9 +61,9 @@
       "tier": 1,
       "category": "church",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-04T18:20:00Z",
+      "verified_newest_item": "2026-10-10T19:09:00Z",
       "last_error": null,
       "quiet": false
     },
@@ -73,9 +73,9 @@
       "tier": 1,
       "category": "christian-music",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-05T04:18:42Z",
+      "verified_newest_item": "2026-10-11T16:36:20Z",
       "last_error": null,
       "quiet": false
     },
@@ -85,9 +85,9 @@
       "tier": 1,
       "category": "gospel",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-03T14:20:00Z",
+      "verified_newest_item": "2026-10-12T01:58:40Z",
       "last_error": null,
       "quiet": false
     },
@@ -97,9 +97,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-01T15:02:23Z",
+      "verified_newest_item": "2026-10-10T20:53:40Z",
       "last_error": null,
       "quiet": false
     },
@@ -109,9 +109,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-09-30T16:32:40Z",
+      "verified_newest_item": "2026-10-11T15:01:04Z",
       "last_error": null,
       "quiet": false
     },
@@ -121,9 +121,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-09-11T07:00:00Z",
+      "verified_newest_item": "2026-10-11T08:14:49Z",
       "last_error": null,
       "quiet": false
     },
@@ -133,9 +133,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-08-04T07:00:00Z",
+      "verified_newest_item": "2026-08-21T07:00:00Z",
       "last_error": null,
       "last_checked": "2026-09-17",
       "quiet": true
@@ -146,11 +146,11 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-08-27T07:00:00Z",
+      "verified_newest_item": "2026-10-09T23:50:35Z",
       "last_error": null,
-      "quiet": true
+      "quiet": false
     },
     {
       "name": "Google News: Fred Hammond",
@@ -158,9 +158,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-09-28T01:31:45Z",
+      "verified_newest_item": "2026-09-27T07:00:00Z",
       "last_error": null,
       "quiet": false
     },
@@ -170,11 +170,11 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-05-29T10:42:07Z",
+      "verified_newest_item": "2026-10-05T18:26:05Z",
       "last_error": null,
-      "quiet": true
+      "quiet": false
     },
     {
       "name": "Google News: Travis Greene",
@@ -182,7 +182,7 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
       "verified_newest_item": "2026-07-17T07:00:00Z",
       "last_error": null,
@@ -195,9 +195,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-09-22T23:47:43Z",
+      "verified_newest_item": "2026-09-23T07:00:00Z",
       "last_error": null,
       "quiet": false
     },
@@ -207,9 +207,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-07-10T07:00:00Z",
+      "verified_newest_item": "2026-05-30T02:36:24Z",
       "last_error": null,
       "last_checked": "2026-09-17",
       "quiet": true
@@ -220,8 +220,8 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 72,
+      "verified": "2026-10-12",
+      "verified_item_count": 82,
       "verified_newest_item": "2026-06-16T07:00:00Z",
       "last_error": null,
       "quiet": true
@@ -232,9 +232,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-02T20:47:30Z",
+      "verified_newest_item": "2026-10-09T20:25:04Z",
       "last_error": null,
       "quiet": false
     },
@@ -244,7 +244,7 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 47,
       "verified_newest_item": "2026-09-24T08:35:00Z",
       "last_error": null,
@@ -256,11 +256,11 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 80,
-      "verified_newest_item": "2026-09-16T07:00:00Z",
+      "verified": "2026-10-12",
+      "verified_item_count": 85,
+      "verified_newest_item": "2026-08-30T07:00:00Z",
       "last_error": null,
-      "quiet": false
+      "quiet": true
     },
     {
       "name": "Google News: JJ Hairston",
@@ -268,8 +268,8 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 49,
+      "verified": "2026-10-12",
+      "verified_item_count": 50,
       "verified_newest_item": "2026-08-18T07:00:00Z",
       "last_error": null,
       "quiet": true
@@ -280,8 +280,8 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 88,
+      "verified": "2026-10-12",
+      "verified_item_count": 91,
       "verified_newest_item": "2026-10-04T11:01:22Z",
       "last_error": null,
       "quiet": false
@@ -292,7 +292,7 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
       "verified_newest_item": "2026-10-02T11:41:32Z",
       "last_error": null,
@@ -304,12 +304,12 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-08-16T07:00:00Z",
+      "verified_newest_item": "2026-10-02T07:00:00Z",
       "last_error": null,
       "last_checked": "2026-09-17",
-      "quiet": true
+      "quiet": false
     },
     {
       "name": "Google News: Melvin Crispell III",
@@ -317,9 +317,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 52,
-      "verified_newest_item": "2026-08-15T07:00:00Z",
+      "verified": "2026-10-12",
+      "verified_item_count": 53,
+      "verified_newest_item": "2026-08-12T07:00:00Z",
       "last_error": null,
       "last_checked": "2026-09-17",
       "quiet": true
@@ -330,9 +330,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-09-27T19:42:28Z",
+      "verified_newest_item": "2026-09-27T07:00:00Z",
       "last_error": null,
       "quiet": false
     },
@@ -342,7 +342,7 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-24T07:00:00Z",
       "last_error": null,
@@ -354,7 +354,7 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-22T07:00:00Z",
       "last_error": null,
@@ -366,12 +366,12 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-08-26T07:00:00Z",
+      "verified_newest_item": "2026-10-07T16:30:00Z",
       "last_error": null,
       "last_checked": "2026-09-17",
-      "quiet": true
+      "quiet": false
     },
     {
       "name": "Google News: Kierra Sheard",
@@ -379,11 +379,11 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-05T07:00:00Z",
       "last_error": null,
-      "quiet": false
+      "quiet": true
     },
     {
       "name": "Google News: Zacardi Cortez",
@@ -391,9 +391,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 50,
-      "verified_newest_item": "2026-09-26T16:58:43Z",
+      "verified": "2026-10-12",
+      "verified_item_count": 60,
+      "verified_newest_item": "2026-10-08T06:09:51Z",
       "last_error": null,
       "last_checked": "2026-09-17",
       "quiet": false
@@ -404,11 +404,11 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 47,
-      "verified_newest_item": "2026-05-29T14:30:08Z",
+      "verified": "2026-10-12",
+      "verified_item_count": 48,
+      "verified_newest_item": "2026-09-16T07:00:00Z",
       "last_error": null,
-      "quiet": true
+      "quiet": false
     },
     {
       "name": "Google News: Elevation Worship",
@@ -416,9 +416,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-01T01:24:06Z",
+      "verified_newest_item": "2026-10-09T06:21:00Z",
       "last_error": null,
       "quiet": false
     },
@@ -428,9 +428,9 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
-      "verified_item_count": 84,
-      "verified_newest_item": "2026-10-01T01:24:06Z",
+      "verified": "2026-10-12",
+      "verified_item_count": 85,
+      "verified_newest_item": "2026-10-10T06:49:57Z",
       "last_error": null,
       "quiet": false
     },
@@ -440,11 +440,11 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-08-17T07:00:00Z",
+      "verified_newest_item": "2026-10-11T21:49:00Z",
       "last_error": null,
-      "quiet": true
+      "quiet": false
     },
     {
       "name": "Google News: Lauren Daigle",
@@ -452,7 +452,7 @@
       "tier": 1,
       "category": "artist",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
       "verified_newest_item": "2026-09-17T07:00:00Z",
       "last_error": null,
@@ -464,9 +464,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 10,
-      "verified_newest_item": "2026-10-03T22:08:20Z",
+      "verified_newest_item": "2026-10-11T12:35:33Z",
       "last_error": null,
       "url_candidates": [
         "https://religionnews.com/feed/",
@@ -480,9 +480,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 10,
-      "verified_newest_item": "2026-10-02T10:00:00Z",
+      "verified_newest_item": "2026-10-09T10:00:00Z",
       "last_error": null,
       "url_candidates": [
         "https://www.christianitytoday.com/rss/",
@@ -497,9 +497,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 30,
-      "verified_newest_item": "2026-10-05T04:07:00Z",
+      "verified_newest_item": "2026-10-11T14:51:23Z",
       "last_error": null,
       "url_candidates": [
         "https://www.christianpost.com/rss/",
@@ -514,9 +514,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 50,
-      "verified_newest_item": "2026-10-04T22:48:50Z",
+      "verified_newest_item": "2026-10-09T14:50:34Z",
       "last_error": null,
       "url_candidates": [
         "https://relevantmagazine.com/feed/",
@@ -530,9 +530,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 25,
-      "verified_newest_item": "2026-10-04T10:45:00Z",
+      "verified_newest_item": "2026-10-11T11:00:00Z",
       "last_error": null,
       "url_candidates": [
         "https://charismanews.com/feed/",
@@ -556,7 +556,7 @@
         "https://premierchristian.news/en/rss",
         "https://www.premierchristian.news/rss"
       ],
-      "last_checked": "2026-10-05"
+      "last_checked": "2026-10-12"
     },
     {
       "name": "Baptist Press",
@@ -572,7 +572,7 @@
         "https://www.baptistpress.com/feed/",
         "https://www.baptistpress.com/rss/"
       ],
-      "last_checked": "2026-10-05"
+      "last_checked": "2026-10-12"
     },
     {
       "name": "Catholic News Agency",
@@ -580,9 +580,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 50,
-      "verified_newest_item": "2026-10-04T13:05:00Z",
+      "verified_newest_item": "2026-10-11T23:05:52Z",
       "last_error": null,
       "url_candidates": [
         "https://www.catholicnewsagency.com/rss/news.xml",
@@ -596,9 +596,9 @@
       "tier": 2,
       "category": "faith",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 50,
-      "verified_newest_item": "2026-10-04T13:07:00Z",
+      "verified_newest_item": "2026-10-11T13:07:00Z",
       "last_error": null,
       "url_candidates": [
         "https://www.vaticannews.va/en.rss.xml",
@@ -612,9 +612,9 @@
       "tier": 3,
       "category": "gospel-trade",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 10,
-      "verified_newest_item": "2026-10-02T16:07:31Z",
+      "verified_newest_item": "2026-10-09T15:26:09Z",
       "last_error": null,
       "url_candidates": [
         "https://pathmegazine.com/feed/",
@@ -628,9 +628,9 @@
       "tier": 3,
       "category": "gospel-trade",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 10,
-      "verified_newest_item": "2026-10-02T19:33:02Z",
+      "verified_newest_item": "2026-10-10T02:43:58Z",
       "last_error": null,
       "url_candidates": [
         "https://rapzilla.com/feed",
@@ -654,7 +654,7 @@
         "https://www.newreleasetoday.com/rss.php",
         "https://www.newreleasetoday.com/feed/"
       ],
-      "last_checked": "2026-10-05"
+      "last_checked": "2026-10-12"
     },
     {
       "name": "CCM Magazine",
@@ -662,9 +662,9 @@
       "tier": 3,
       "category": "gospel-trade",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 10,
-      "verified_newest_item": "2026-10-02T16:00:57Z",
+      "verified_newest_item": "2026-10-10T01:30:38Z",
       "last_error": null,
       "url_candidates": [
         "https://www.ccmmagazine.com/feed/",
@@ -678,9 +678,9 @@
       "tier": 3,
       "category": "gospel-trade",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 100,
-      "verified_newest_item": "2026-10-05T02:33:35Z",
+      "verified_newest_item": "2026-10-12T06:27:44Z",
       "last_error": null,
       "url_candidates": [
         "https://www.jubileecast.com/rss/",
@@ -697,9 +697,9 @@
       "tier": 3,
       "category": "gospel-trade",
       "status": "verified",
-      "verified": "2026-10-05",
+      "verified": "2026-10-12",
       "verified_item_count": 10,
-      "verified_newest_item": "2026-10-05T03:27:08Z",
+      "verified_newest_item": "2026-10-11T07:35:36Z",
       "last_error": null,
       "url_candidates": [
         "https://blackchristiannews.com/feed/",
@@ -708,7 +708,7 @@
       "quiet": false
     }
   ],
-  "last_verification_run": "2026-10-05T06:45:20Z",
+  "last_verification_run": "2026-10-12T06:48:14Z",
   "verification_summary": {
     "verified": 47,
     "failed": 3,
