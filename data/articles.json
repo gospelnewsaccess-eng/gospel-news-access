@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-11T23:22:54Z",
+  "generated_at": "2026-10-12T02:32:50Z",
   "story_count": 600,
-  "with_photo": 439,
+  "with_photo": 438,
   "items": [
+    {
+      "id": "ab53e2adc081ccf9",
+      "title": "A Word to Those Sleeping in the Parking Lot Tonight in Atlanta, Georgia",
+      "link": "https://blackchristiannews.com/a-word-to-those-sleeping-in-the-parking-lot-tonight-in-atlanta-georgia/?utm_source=rss&utm_medium=rss&utm_campaign=a-word-to-those-sleeping-in-the-parking-lot-tonight-in-atlanta-georgia",
+      "summary": "Pastor Daniel Whyte III shared this word during his October 9 sermon, ‘Prayer, Love, and Advice for the 144,000 Homeless The post A Word to Those Sleeping in the Parking Lot Tonight in Atlanta, Georgia appeared first on Black Christian News Network One…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-12T02:31:35Z",
+      "first_seen": "2026-10-12T02:32:50Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/quote-atlanta-1-fb.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2a17871cf8ca1d4b",
+      "title": "Piesie Esther: Celebrating the journey, ministry, and cross-border impact of Ghana's gospel star",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWGdZck05Qmlpdnp3N3A1X0EtZjNFMExOc1RsVmJuT2dMaU9WMXR5dHYyNnNjNlRUV19VYlN4d0V6VVRSSHBzSVZ5WUpqc2plSTBLZ08wMGE2dlRiZW1LOVJMa3BqOWtKamdITHRwem9ZMk9nalZGRG0tQVEtWXZidGlQaG01aFhTNG9aSUJvbUNHaWhlVHRqSWVEQl9Mc0NHNV9vSlVzN2d5VXNEdXk4SmJuRkpRVnFVeEc1SUhmdm0?oc=5",
+      "summary": "Piesie Esther: Celebrating the journey, ministry, and cross-border impact of Ghana's gospel star CediRates",
+      "outlet": "CediRates",
+      "outlet_url": "https://cedirates.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-12T01:58:40Z",
+      "first_seen": "2026-10-12T02:32:50Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-12T14:32:50Z",
+      "image_tried": "2026-10-12T02:32:50Z"
+    },
     {
       "id": "eb247ebf330a802b",
       "title": "LIVE UPDATES: Pope Leo’s health and preparations for surgery",
@@ -5103,7 +5139,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-09T01:02:20Z"
+      "image_tried": "2026-10-12T02:32:50Z"
     },
     {
       "id": "ed57cae78b5e7618",
@@ -10074,7 +10110,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-09T01:02:20Z"
+      "image_tried": "2026-10-12T02:32:50Z"
     },
     {
       "id": "bc3e5837e13f260b",
@@ -11040,44 +11076,6 @@
       "first_seen": "2026-10-06T12:09:41Z",
       "image": {
         "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/21/272197_w_550_300.jpg?v=20261006073516",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2f972ad4d9988c74",
-      "title": "King Won't Fund Andrew Mountbatten-Windsor's Legal Action Against Police: What the Palace Said",
-      "link": "https://www.jubileecast.com/articles/39999/20261006/king-will-not-fund-andrew-mountbatten-windsor-legal-action-against-police.htm",
-      "summary": "King Won't Fund Andrew Mountbatten-Windsor's Legal Action Against Police: What the Palace Said",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T10:50:08Z",
-      "first_seen": "2026-10-06T11:08:14Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28778/prince-andrew.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "96fa77c650eb2702",
-      "title": "Is \"The Batman Part II\" Still Coming in 2028? Production Paused as Matt Reeves Steps Away",
-      "link": "https://www.jubileecast.com/articles/39998/20261006/the-batman-part-ii-production-paused-matt-reeves-family-matter.htm",
-      "summary": "Is \"The Batman Part II\" Still Coming in 2028? Production Paused as Matt Reeves Steps Away",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-06T10:34:11Z",
-      "first_seen": "2026-10-06T11:08:14Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32079/batman-part-ii.jpg",
         "via": "media:content"
       },
       "breaking": false,
