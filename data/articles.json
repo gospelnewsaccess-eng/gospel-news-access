@@ -1,8 +1,498 @@
 {
-  "generated_at": "2026-10-14T05:43:08Z",
+  "generated_at": "2026-10-14T11:00:26Z",
   "story_count": 600,
-  "with_photo": 454,
+  "with_photo": 456,
   "items": [
+    {
+      "id": "3991cc045ef98b12",
+      "title": "Nancy Guthrie Ransom Emails: Ex-FBI Agent Says Senders Targeted Her Faith",
+      "link": "https://www.jubileecast.com/articles/40228/20261014/nancy-guthrie-ransom-emails-former-fbi-agent-targeted-faith.htm",
+      "summary": "Nancy Guthrie Ransom Emails: Ex-FBI Agent Says Senders Targeted Her Faith",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T10:56:24Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29105/nancy-guthrie.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "620d9ea9477e78ac",
+      "title": "Pope Leo XIV Has Lung Cancer, Vatican Confirms After Successful Surgery",
+      "link": "https://www.jubileecast.com/articles/40227/20261014/pope-leo-xiv-lung-cancer-vatican-confirms.htm",
+      "summary": "Pope Leo XIV Has Lung Cancer, Vatican Confirms After Successful Surgery",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T10:46:57Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29203/pope-leo-xiv.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "562544a45b5918e1",
+      "title": "Pope Leo: Take to heart the riches of ‘Amoris laetitia’",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-take-to-heart-the-riches-of-amoris-laetitia.html",
+      "summary": "Pope Leo XIV reflects on the legacy of ‘Amoris laetitia’ and calls on the Church to put its pastoral guidance into practice during the homily read at the concluding Mass of the Encounter marking the 10th anniversary of Francis’ Apostolic Exhortation. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T10:03:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/14/2026-10-14-celebrazione-eucaristica-alla-conclusione-dell-incont/1791969008299.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "42d32f0bec0f7dfd",
+      "title": "We Can Only Imagine. But Do We?",
+      "link": "https://www.christianitytoday.com/2026/10/beholding-christ-nancy-guthrie/",
+      "summary": "One spring, a friend called and asked my husband, our son, and me to be in a music video. It would be played at an upcoming awards show behind a relatively unknown band, MercyMe, as they sang a song that was climbing the charts, “I Can Only Imagine.” Sounds…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T10:00:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/09/can-only-imagine-do-we.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f787026ddfa322e8",
+      "title": "How to Survive the Intellectual Strait of Hormuz",
+      "link": "https://www.christianitytoday.com/2026/10/artificial-intelligence-human-training-bias/",
+      "summary": "Most of us have been reading headlines about the Strait of Hormuz, chokepoint for much of the world’s oil. Let’s talk about an intellectual strait likely to be the most significant epistemological shift in all of history. We are going from acquiring knowledge…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T10:00:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/survive-ai-strait-hormuz-intellectual.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d9d286fa8436c347",
+      "title": "No-Strings Housing for the Homeless Only Makes Sense on Paper",
+      "link": "https://www.christianitytoday.com/2026/10/no-strings-housing-first-homeless-policy-free-apartments/",
+      "summary": "Here’s a solution to homelessness: Give every homeless person an apartment! But the past and present of this approach suggest its simplicity is not paired with the realism, prudence, or community that will truly help many who are homeless. Throughout much of…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T10:00:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/no-strings-homeless-housing.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b27a410378f55a3c",
+      "title": "Sen. Hawley asks FDA to address concerns over incomplete data in abortion drug safety study",
+      "link": "https://www.ewtnnews.com/world/us/sen-hawley-asks-fda-to-address-concerns-over-incomplete-data-in-abortion-drug-safety-study",
+      "summary": "Here is a roundup of recent pro-life and abortion-related news.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T10:00:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791913514/ewtn-news/en/HawleyGetty_ilkaso.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "932b11639e5218ee",
+      "title": "Caedmon's Call's Derek Webb Drops F-Bombs At Shane Gillis As ‘SNL’ Gym Jokes Spark Backlash",
+      "link": "https://www.jubileecast.com/articles/40226/20261014/caedmons-calls-derek-webb-drops-f-bombs-at-shane-gillis-as-snl-gym-jokes-spark-backlash.htm",
+      "summary": "Derek Webb Drops F-Bombs At Shane Gillis As ‘SNL’ Gym Jokes Spark Backlash",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T09:55:27Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30229/derek-webb.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1d0d8d45c40bf742",
+      "title": "BCNN1 News Brief: 3,500 Christians Petition Trump on Refugees; Saudi Convert Urges Bold Evangelism; U.S. Diplomat Barred From Grandmother’s Funeral",
+      "link": "https://blackchristiannews.com/bcnn1-news-brief-3500-christians-petition-trump-on-refugees-saudi-convert-urges-bold-evangelism-u-s-diplomat-barred-from-grandmothers-funeral/?utm_source=rss&utm_medium=rss&utm_campaign=bcnn1-news-brief-3500-christians-petition-trump-on-refugees-saudi-convert-urges-bold-evangelism-u-s-diplomat-barred-from-grandmothers-funeral",
+      "summary": "3,500 Christians to Trump: Put Persecuted Christians First in Refugee Admissions World Relief and nearly 3,500 evangelical Christians have petitioned The post BCNN1 News Brief: 3,500 Christians Petition Trump on Refugees; Saudi Convert Urges Bold Evangelism…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T09:54:34Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/news-brief-2-featured.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6d0aec2bd372e71b",
+      "title": "Tyler Perry’s ‘Doing Life’ Draws Millions On Netflix With An Unlikely Second-Chance Romance",
+      "link": "https://www.jubileecast.com/articles/40225/20261014/tyler-perry-s-doing-life-draws-millions-on-netflix-with-an-unlikely-second-chance-romance.htm",
+      "summary": "Tyler Perry’s ‘Doing Life’ Draws Millions On Netflix With An Unlikely Second-Chance Romance",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T09:49:12Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27201/tyler-perry.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2f9af5c78ac1a9a5",
+      "title": "RJ Mitte’s Ex-Girlfriend Shares A Personal Revelation After ‘Breaking Bad’ Star’s Death At 34",
+      "link": "https://www.jubileecast.com/articles/40224/20261014/rj-mitte-s-ex-girlfriend-shares-a-personal-revelation-after-breaking-bad-star-s-death-at-34.htm",
+      "summary": "RJ Mitte’s Ex-Girlfriend Shares A Personal Revelation After ‘Breaking Bad’ Star’s Death At 34",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T09:45:43Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32162/rj-mitte.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8302607c2720a0bd",
+      "title": "Ella Langley’s Reaction To Riley Green’s ‘The Voice’ Remark Raises Eyebrows",
+      "link": "https://www.jubileecast.com/articles/40223/20261014/ella-langley-s-reaction-to-riley-green-s-the-voice-remark-raises-eyebrows.htm",
+      "summary": "Ella Langley’s Reaction To Riley Green’s ‘The Voice’ Remark Raises Eyebrows",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T09:43:53Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31025/ella-langley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c49cb7a3202149a7",
+      "title": "Is the LGBT fad fading?",
+      "link": "https://www.christianpost.com/voices/is-the-lgbt-fad-fading.html",
+      "summary": "When middle schoolers in Burlington, Massachusetts, skipped the rainbow colors on Pride Day, it wasn’t a random act of rebellion. New data shows LGBT identification among teens is falling sharply, especially among younger girls.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T08:56:16Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272283_w_550_367.jpg?v=20261014052131",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e3a75bdd70fbb61c",
+      "title": "We can win the next election and still lose the country",
+      "link": "https://www.christianpost.com/voices/winning-elections-wont-save-america-without-this.html",
+      "summary": "A police officer cannot stand beside every child. No legislature can make a husband faithful. Much of what holds a nation together happens when nobody is watching.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T08:16:02Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272295_w_550_341.jpg?v=20261014052219",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "24efa8feaf53039b",
+      "title": "LISTEN-PODCAST! THE DAY JESUS CHRIST THE SON OF GOD WAS DISHONORED AND DISRESPECTED BY HIS FAMILY AND COMMUNITY IN THE JUST JESUS EVANGELISTIC CAMPAIGN #2421 MARK 6:1-4, WITH DANIEL WHYTE III, PRESIDENT OF GOSPEL LIGHT SOCIETY INTERNATIONAL, PASTOR OF GOSPEL LIGHT HOUSE OF PRAYER INTERNATIONAL “CRYING IN THE WILDERNESS,” “EXILED ON THE ISLE OF PATMOS,” AND “PREACHING THE GOSPEL BY ANY MEANS NECESSARY.”",
+      "link": "https://blackchristiannews.com/listen-podcast-the-day-jesus-christ-the-son-of-god-was-dishonored-and-disrespected-by-his-family-and-community-in-the-just-jesus-evangelistic-campaign-2421-mark-61-4-with-daniel-whyte-iii-preside/?utm_source=rss&utm_medium=rss&utm_campaign=listen-podcast-the-day-jesus-christ-the-son-of-god-was-dishonored-and-disrespected-by-his-family-and-community-in-the-just-jesus-evangelistic-campaign-2421-mark-61-4-with-daniel-whyte-iii-preside",
+      "summary": "LISTEN-PODCAST! THE DAY JESUS CHRIST THE SON OF GOD WAS DISHONORED AND DISRESPECTED BY HIS FAMILY AND COMMUNITY IN THE The post LISTEN-PODCAST! THE DAY JESUS CHRIST THE SON OF GOD WAS DISHONORED AND DISRESPECTED BY HIS FAMILY AND COMMUNITY IN THE JUST JESUS…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T08:00:50Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/just-jesus-2421-featured.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1ff27aadfd2b069f",
+      "title": "Why criminal justice reform needs Christians’ voice",
+      "link": "https://www.christianpost.com/voices/why-criminal-justice-reform-needs-christians-voice.html",
+      "summary": "Nobody should be defined by their worst decision forever. As Christians, we are all beneficiaries of a second chance, so we should champion a justice system that holds people accountable and offers them a path home.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T07:55:15Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272297_w_550_336.jpg?v=20261014052307",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b74ea1c6dedd095d",
+      "title": "Cardinal Czerny: We must urgently adopt new behaviors to protect environment",
+      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-czerny-urgent-adopt-new-behaviors-protect-environment.html",
+      "summary": "Cardinal Michael Czerny, Prefect Emeritus of the Dicastery for Promoting Integral Human Development, receives the Pope Leo XIV Sustainability Medal from Villanova University at the Laudato Si’ Village in the Pontifical Villas of Castel Gandolfo, and calls for…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T07:52:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/13/img-5034.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "056d67c5135d8dcd",
+      "title": "No regrets for gospel singer!",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VckNGdllPWW5jZGNVWW1MandsNTVYU1hyd29SbFpjMDdHS3FFS2JYdkNkb3VuT25ER0hsMzZJN0Mxdkt6bVpkZENPejlBNFZuejJSVDVRU0NGQnhWb3NzeXN5eGNUSWxYVFFsVmo1VGtuNm02dUE?oc=5",
+      "summary": "No regrets for gospel singer! Daily Sun",
+      "outlet": "Daily Sun",
+      "outlet_url": "https://www.snl24.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-14T07:00:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-14T11:00:26Z"
+    },
+    {
+      "id": "ee612be33a403cb4",
+      "title": "2027 Grammy Awards Shake Things Up: 10 Changes That Could Affect Who Wins",
+      "link": "https://www.jubileecast.com/articles/40222/20261014/2027-grammy-awards-shake-things-up-10-changes-that-could-affect-who-wins.htm",
+      "summary": "2027 Grammy Awards Shake Things Up: 10 Changes That Could Affect Who Wins",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T06:53:15Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30252/grammy-awards.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "28e6c339ae492d1c",
+      "title": "Christa Pike’s Failed Execution: 911 Calls Reveal 31-Minute Delay After Emergency Plea Was Dismissed As “False”",
+      "link": "https://www.jubileecast.com/articles/40221/20261014/christa-pike-s-failed-execution-911-calls-reveal-31-minute-delay-after-emergency-plea-was-dismissed-as-false.htm",
+      "summary": "Christa Pike’s Failed Execution: 911 Calls Reveal 31-Minute Delay After Emergency Plea Was Dismissed As “False”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T06:50:42Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31994/christa-pike.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "df550001f97314c6",
+      "title": "Camp Electric Launches 4th Annual Rock the Camp Contest, Winner to Open for KB",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR0d6SThmdkZ6YUhNLU9EOU5XVG9sYlpwSFlidEdQUENiLUhpVmFnUWVKTnJUbk5paVZacllLNzd5XzMyUzBjWGp5TjhSYzF3bjNsVHE4Qi1sVk5LQ0Jway14VHhhMlhOS2ZGSHp4dTJKaFRpc1hPUHltbFFkMkZHQUdHczhFWUNEWWZsZEp4Yy1jd3FfMlNBQnlVX1Z6R1NqNUd4TnBVb2hsZw?oc=5",
+      "summary": "Camp Electric Launches 4th Annual Rock the Camp Contest, Winner to Open for KB Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-14T06:44:14Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-14T11:00:26Z"
+    },
+    {
+      "id": "b0097bae7ad8fd79",
+      "title": "Pope Leo has calm night in hospital after successful lung surgery",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-gemelli-hospital-holy-see-press-office-update-14-0ctobe.html",
+      "summary": "The Holy See Press Office says Pope Leo XIV had a calm first night in Rome's Gemelli Hospital after he underwent a successful lung operation without complications, adding that further information will be provided later in the day. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T06:41:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/14/08/1791960002975.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "68613c7cbfb90027",
+      "title": "Matt Boswell’s New Psalm 51 Hymn Has A Familiar Melody—And A Powerful Invitation",
+      "link": "https://www.jubileecast.com/articles/40220/20261014/matt-boswell-s-new-psalm-51-hymn-has-a-familiar-melody—and-a-powerful-invitation.htm",
+      "summary": "Matt Boswell’s New Psalm 51 Hymn Has A Familiar Melody—And A Powerful Invitation",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T06:05:33Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32180/matt-boswell.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0a8adc3ab1475002",
+      "title": "80,000 Believers Fill AT&T Stadium—What Happened At 2819 Church’s Gathering Has Pastors Talking",
+      "link": "https://www.jubileecast.com/articles/40219/20261014/80-000-believers-fill-at-t-stadium—what-happened-at-2819-church-s-gathering-has-pastors-talking.htm",
+      "summary": "80,000 Believers Fill AT&T Stadium—What Happened At 2819 Church’s Gathering Has Pastors Talking",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T06:01:00Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32179/2819-church-s-gathering.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2b6ef3abb88d1ae6",
+      "title": "Chris Brown’s Child-Support Drama Heats Up As Diamond Brown Makes A Personal Claim",
+      "link": "https://www.jubileecast.com/articles/40218/20261014/chris-brown-s-child-support-drama-heats-up-as-diamond-brown-makes-a-personal-claim.htm",
+      "summary": "Chris Brown’s Child-Support Drama Heats Up As Diamond Brown Makes A Personal Claim",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T05:55:37Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30230/chris-brown.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8f856ce4dfb41dfe",
+      "title": "Bryce Hall’s Las Vegas Arrest Sparks A Fierce Response As Domestic Violence Charges Surface",
+      "link": "https://www.jubileecast.com/articles/40217/20261014/bryce-hall-s-las-vegas-arrest-sparks-a-fierce-response-as-domestic-violence-charges-surface.htm",
+      "summary": "Bryce Hall’s Las Vegas Arrest Sparks A Fierce Response As Domestic Violence Charges Surface",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T05:48:44Z",
+      "first_seen": "2026-10-14T11:00:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32178/bryce-hall.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "3d1aecda29c79320",
       "title": "Kelly Clarkson’s $15,000 Bird Feud Takes A Stunning Turn As Security Footage Surfaces",
@@ -5292,7 +5782,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-11T09:08:07Z"
+      "image_tried": "2026-10-14T11:00:26Z"
     },
     {
       "id": "4265f0b06f3e9364",
@@ -5366,7 +5856,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-11T21:08:07Z",
-      "image_tried": "2026-10-11T09:08:07Z"
+      "image_tried": "2026-10-14T11:00:26Z"
     },
     {
       "id": "3dbeb0848a083599",
@@ -5601,7 +6091,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-11T09:08:07Z"
+      "image_tried": "2026-10-14T11:00:26Z"
     },
     {
       "id": "888204d7a87a194e",
@@ -9147,7 +9637,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-11T09:08:07Z"
+      "image_tried": "2026-10-14T11:00:26Z"
     },
     {
       "id": "95770e8c4317981a",
@@ -10626,492 +11116,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-13T16:40:04Z"
-    },
-    {
-      "id": "8026faedeea009a6",
-      "title": "Amoris Laetitia: ‘We have much to receive and learn’ from families",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/amoris-laetitia-we-have-much-receive-and-learn-from-families.html",
-      "summary": "On the second day of the meeting reflecting on ten years of Amoris Laetitia, the bishops dedicate time to “the reality, beauty, and challenges of families today”. Cardinal Kevin Farrell and Cardinal Mario Grech urge their fellow bishops to listen to the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T13:30:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791384623080.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a23c84e65c5d9102",
-      "title": "Vatican offers free eye exams and glasses to children in need",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/world-sight-day-vatican-dispensary-eye-checks-glasses-charity.html",
-      "summary": "Marking World Sight Day, the Santa Marta Pediatric Dispensary offers eye screenings and free prescription glasses to children in need. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T13:21:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/07/whatsapp-image-2026-10-07-at-12-44-11-10-aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "65a56c65c1a24487",
-      "title": "Megan Woods Returns to CCM to Debut Her First Album",
-      "link": "https://www.ccmmagazine.com/news/megan-woods-returns-to-ccm-to-debut-her-first-album/",
-      "summary": "When Megan came back to CCM recently, I joked that she had lived an entire lifetime since our last conversation. She has headlined her own tour, earned Dove Award nominations, watched “The Truth” become RIAA Gold certified, and is now taking her show coast to…",
-      "outlet": "CCM Magazine",
-      "outlet_url": "",
-      "source_feed": "CCM Magazine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-08T13:00:52Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/09/Megan-Woods-New-Album-Web-Banner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fe9315ab2ba0c5ca",
-      "title": "Amoris laetitia: Pastoral experiences in Asia and challenges of digital world",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/amoris-laetitia-meeting-asian-perspective-ferrao-rosito.html",
-      "summary": "On the second day of Pope Leo XIV's meeting marking the 10th anniversary of Amoris laetitia, Cardinal Neri Ferrão shares experiences from Asia and Vincenzo Rosito reflects on new digital technologies' transformation of how children are raised. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T12:57:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791384607332.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c929b9c10bd1137b",
-      "title": "Dr. Ruffini urges Church communicators to place human dignity at heart of AI",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/philippines-cebu-church-communicators-paolo-ruffini.html",
-      "summary": "Addressing a Catholic media congress in Cebu, Philippines, Dr. Paolo Ruffini, Prefect of the Dicastery for Communication, invites communicators to place human dignity, authentic relationships, and the common good at the heart of artificial intelligence and…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T12:44:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2025/06/15/10/1749975122797.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cd3db1a236310a05",
-      "title": "Pastor Fights Back as City Council Begins Meeting with Prayer to Satan",
-      "link": "https://mycharisma.com/news/pastor-fights-back-as-city-council-begins-meeting-with-prayer-to-satan/",
-      "summary": "A former Ottumwa councilman opened Tuesday’s city council meeting with a prayer that ended in the phrase “Hail Satan,” and a local pastor stood up and tried to undo it before the agenda started. Matt Dalbey, a resident and former member of the council, gave…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T12:42:21Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "533263d48b1a9859",
-      "title": "Mexican star Christian Nodal bags second billion-view YouTube video",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbzhiMnZIbVZ3ZVktZGJ4MUpoTmloaUFkUHFWaUhkVEctN2thX1dsWWY1VWstdC14WWNBTzVxR3VYZlIzYjZzYWZKTFcwa1ZIczdaYk9MU3lTc0lsUUZURldjRlJ6X0xzOWgwWDllVWlXbktnSWhZakJ3eXUtTkEyMmhieDZISjUtd21vZWhJcTVSVDY5Mlg4eGlWVlFKdkFVWFBj?oc=5",
-      "summary": "Mexican star Christian Nodal bags second billion-view YouTube video Music Ally",
-      "outlet": "Music Ally",
-      "outlet_url": "https://musically.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-08T12:30:00Z",
-      "first_seen": "2026-10-08T20:58:19Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-11T23:22:54Z"
-    },
-    {
-      "id": "bffe47973f28dbe0",
-      "title": "Holy See defends rights of indigenous peoples at UN",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/el-kassis-un-indigenous-rights-holy-see.html",
-      "summary": "The Holy See’s Permanent Observer to the United Nations, Archbishop Christophe El Kassis, insists on the need for the rights of indigenous peoples to be “respected, protected, and promoted as a matter of justice and of the common good.” Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T12:18:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/07/el-kassis-all-onu.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "02112c78f1c597b6",
-      "title": "South Sudan church leaders call for halt to hostilities, civilian protection",
-      "link": "https://www.ewtnnews.com/world/africa/south-sudan-church-leaders-call-for-halt-to-hostilities-civilian-protection",
-      "summary": "To protect civilians amid worsening insecurity, killings, abductions, and displacement, members of South Sudan Council of Churches say “silence is no longer an option.”",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T12:00:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791406854/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-10-07t163716_1791387924_j5f8rs.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ef23208fbcb81ba9",
-      "title": "Archbishop Samedi calls for a renewed push for peace in the Central African Republic",
-      "link": "https://www.vaticannews.va/en/africa/news/2026-10/archbishop-samedi-calls-for-a-renewed-push-for-peace-in-the-cent.html",
-      "summary": "As the Central African Republic continues its efforts to rebuild after years of crisis, the Coadjutor Archbishop of Bangui has underscored the Church’s role in promoting communion, dialogue and peace. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T11:48:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/12/20260514_173605aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ff7a4f72231e482",
-      "title": "Ohio Hindu temple vandalized, rattling worshippers",
-      "link": "https://religionnews.com/2026/10/08/ohio-hindu-temple-vandalized-rattling-worshippers/",
-      "summary": "(RNS) — Someone threw bricks at the windows of Shree Swaminarayan Vadtal Dham, shattering one and sending glass shards flying inside the Richmond Heights, Ohio, temple.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T11:35:25Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Temple-Vandalism2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "15679dea98dfe23e",
-      "title": "Tiny Marietta church is last trace of once-thriving Black community | Hidden History",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcWhpdFhjejNvQzNLaVphRUhCNWJjLWZrOVFLZHlKUElPNGQ1QW8tLW5xQkpFOFZpdkpRTXUxUnE5VWxYcnFUODhLSFRzWXFnMFAybTd2Yks1dmVMQ1l1ZGhEUFVmbmNuMlh1V1o0ZWNhSktmZFRtc2ZnMXdQNHZfbUU4cjBoVzdaNU9tTXBTN1M5UzlnUkRNc0VlRWx5VWdPdHlaMzVFVUh5V2cxbGpRT1RqVmNoTjczNEt0THBlcFQtdWpOQ3JxY1NmRG1zWXRQaVJmVFRFQW1NcUhJWDV2bFpHTzE5TTY2dXRsTmNHak5aVEItb2pUQTJB?oc=5",
-      "summary": "Tiny Marietta church is last trace of once-thriving Black community | Hidden History fox43.com",
-      "outlet": "fox43.com",
-      "outlet_url": "https://www.fox43.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-08T11:09:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-11T15:51:24Z"
-    },
-    {
-      "id": "563924d7c0a53969",
-      "title": "Lancaster County church stands as reminder of once-flourishing African American community | Hidden History",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPM0FJLUYxREpxdjRJZTI1NXZ2bnhTWWVHTnM2cENNbDdkUFlfMlg1V3lMMk1XOGFPaTkzYzZEX05BcEFvSEpCQ2xtSHFMbUIzZHpTb0hNMmFRMnlrYWtjcGxYZnh1cWRPa19RYWxkczlCNWVFQ0pzTkhOZlFreHlMVUZTRF9rWEN2WVVpUHdvSUVpTDlWV3VxMGxUT2ZVajVVYjI3YkVyVlN2OFZwTXJ5MnZscldtNm8yVEdvejNOdEdpYkdSbGV3U21EbXdQWDM0YUNyZkNZd21uOHh4Um84dzlXcVBxcWR3THU0aml3dXd2cWdBMDNxLWM2Sjl0OUsxY3JWajJLRVdydTBhM1Q1WlFVTTY?oc=5",
-      "summary": "Lancaster County church stands as reminder of once-flourishing African American community | Hidden History fox43.com",
-      "outlet": "fox43.com",
-      "outlet_url": "https://www.fox43.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-08T11:09:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-11T15:51:24Z"
-    },
-    {
-      "id": "a3bd489770e92ee7",
-      "title": "Jesse Jackson’s son Yusef Jackson marks late father’s birthday, continues civil rights legacy",
-      "link": "https://religionnews.com/2026/10/08/jesse-jacksons-son-yusef-jackson-marks-late-fathers-birthday-continues-civil-rights-legacy/",
-      "summary": "(RNS) — ‘I sat in the passenger seat of my father's car for a long time. That's very different than sitting in the driver's seat,’ Yusef Jackson said.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T11:05:38Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Yusef-Jackson2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "36a1360cd63b8a0e",
-      "title": "Violent Protests Sweep France as Conservatives Warn of Islamic Surge",
-      "link": "https://mycharisma.com/news/violent-protests-sweep-france-as-conservatives-warn-of-islamic-surge/",
-      "summary": "Hundreds of schools are closed across France as thousands of people have taken to the streets to demand education reform. According to Fox News, more than 6,000 people have been taken into custody since the protests first began in September. At least 715…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T11:00:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "42d6f200de4406dc",
-      "title": "Archbishop Weisenburger promotes poll chaplains as groups train for elections",
-      "link": "https://www.ewtnnews.com/world/us/weisenburger-discusses-poll-chaplains-ahead-of-election",
-      "summary": "Catholic organizations are participating in efforts to recruit and train poll chaplains, who serve an unofficial peacekeeping role at voting locations.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T11:00:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791407777/ewtn-news/en/shutterstock_2785995273_zs6hyw.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "925f885671ab6ba5",
-      "title": "Was Morgan Wallen on \"The Voice\"? Why a New Singer's \"Wasted on You\" Audition Has Fans Asking",
-      "link": "https://www.jubileecast.com/articles/40058/20261008/was-morgan-wallen-on-the-voice-evan-james-wasted-on-you-audition.htm",
-      "summary": "Was Morgan Wallen on \"The Voice\"? Why a New Singer's \"Wasted on You\" Audition Has Fans Asking",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-08T10:49:38Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32105/evan-james.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ec6a0a9cf5402e1c",
-      "title": "How Are Grammy Winners Chosen? What to Know About Voting and the Gospel and Christian Categories",
-      "link": "https://www.jubileecast.com/articles/40057/20261008/how-are-grammy-winners-chosen-voting-process-gospel-christian-categories.htm",
-      "summary": "How Are Grammy Winners Chosen? What to Know About Voting and the Gospel and Christian Categories",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-08T10:35:02Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32104/grammys.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "240d5fa5893c7f95",
-      "title": "The Kardashians’ Bizarre Season 8 Opening Takes A Swipe At AI—And Things Get Ugly",
-      "link": "https://www.jubileecast.com/articles/40056/20261008/the-kardashians-bizarre-season-8-opening-takes-a-swipe-at-ai—and-things-get-ugly.htm",
-      "summary": "The Kardashians’ Bizarre Season 8 Opening Takes A Swipe At AI—And Things Get Ugly",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-08T10:28:31Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32103/the-kardashians.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f79c32b85788c50e",
-      "title": "Danielle Ponder's favourite songs | Interview",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPc1U1N1BWMmsySmlGWnFfUm1zR0xldnRrTEtfWDNmSWh4UWhFTTZ4ZTM4azBtakxLS1kxWHV1bU1pMjdSWThqa2pFT3VjNVVmT2w0SHV5bjlvanROelhUcEtfU1U5dnZERlM3U3BBUDBMLUNsdnVDR2hKOE1tUzJHU0hWRHJlUQ?oc=5",
-      "summary": "Danielle Ponder's favourite songs | Interview The Line of Best Fit",
-      "outlet": "The Line of Best Fit",
-      "outlet_url": "https://www.thelineofbestfit.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-08T10:27:57Z",
-      "first_seen": "2026-10-09T14:53:11Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-12T19:54:56Z"
-    },
-    {
-      "id": "d4eaa569e8cff440",
-      "title": "Archbishop Gallagher in Pakistan to mark 75 years of  ties with Holy See",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/archbishop-gallagher-holy-see-diplomacy-pakistan-anniversary.html",
-      "summary": "The Secretary for Relations with States and International Organizations is in Islamabad from 8 to 10 October. He will meet with political and religious authorities, the country’s bishops and visit the Faisal Mosque. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T10:16:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/08/25/12/1787653797797.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cc39f5b24a15eaf6",
-      "title": "Pope appoints Sr. Barron as Adjunct Secretary of Dicastery for Evangelization",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-appoints-sr-mary-barron-dicastery-evangelization.html",
-      "summary": "Pope Leo XIV appoints Sister Mary Teresa Barron as Adjunct Secretary of the Dicastery for Evangelization and President of the Pontifical Mission Societies, beginning on January 4, 2027. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T10:09:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2023/12/23/MTBarron_.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ede4fdeaa796eb1c",
-      "title": "Meghan Markle’s London Dinner With Malala Raises Questions About Her Next Chapter In Britain",
-      "link": "https://www.jubileecast.com/articles/40055/20261008/meghan-markle-s-london-dinner-with-malala-raises-questions-about-her-next-chapter-in-britain.htm",
-      "summary": "Meghan Markle’s London Dinner With Malala Raises Questions About Her Next Chapter In Britain",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-08T10:08:09Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31490/meghan-markle.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1acba86a973b2db2",
-      "title": "How My Church Revived Our Sunday School",
-      "link": "https://www.christianitytoday.com/2026/10/how-my-church-revived-our-sunday-school/",
-      "summary": "Sunday school was nearly empty. Our teachers prepared lessons every week and announced them in the church newsletter. Yet three years after the pandemic, adult attendance averaged about 15 in a church with over 300 members. And sometimes, there were no…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T10:00:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/how-church-revived-sunday-school.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b4dcf89844622a4a",
-      "title": "Kenyan Churches Combat Abandonment, Suicide Among Older Men",
-      "link": "https://www.christianitytoday.com/2026/10/kenyan-churches-combat-abandonment-suicide-among-older-men/",
-      "summary": "When Victor Wanjala lost his job in 2010, he lost everything, including his marriage and savings. The father of eight from Trans-Nzoia County, Kenya, worked nearly four decades as a customs officer. His job enabled him to pay for his children’s education…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T10:00:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/kenya-elderly-abandoned-men.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6373ce385251ef20",
-      "title": "U.S. bishops call Catholics to prayer and action ahead of Mental Health Sunday",
-      "link": "https://www.ewtnnews.com/world/us/u-s-bishops-call-catholics-to-prayer-and-action-ahead-of-mental-health-sunday",
-      "summary": "Mental Health Sunday is part of the United States Catholic Conference of Bishops’ National Catholic Mental Health Campaign and falls on Oct. 11 this year.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T10:00:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745612596/images/Lonely_woman_Credit_Ekkasit_Rakrotchit_Shutterstock_CNA.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
