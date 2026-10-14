@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-10-14T00:48:41Z",
+  "generated_at": "2026-10-14T05:43:08Z",
   "story_count": 600,
-  "with_photo": 453,
+  "with_photo": 454,
   "items": [
+    {
+      "id": "3d1aecda29c79320",
+      "title": "Kelly Clarkson’s $15,000 Bird Feud Takes A Stunning Turn As Security Footage Surfaces",
+      "link": "https://www.jubileecast.com/articles/40216/20261014/kelly-clarkson-s-15-000-bird-feud-takes-a-stunning-turn-as-security-footage-surfaces.htm",
+      "summary": "Kelly Clarkson’s $15,000 Bird Feud Takes A Stunning Turn As Security Footage Surfaces",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-14T05:43:53Z",
+      "first_seen": "2026-10-14T05:43:08Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28276/kelly-clarkson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3e573c70f87bc0b6",
+      "title": "Greta Gerwig’s Narnia Looks Awesome: What We Saw and Heard at the IMAX Preview Event",
+      "link": "https://relevantmagazine.com/culture/movies/greta-gerwigs-narnia-looks-awesome-what-we-saw-and-heard-at-the-exclusive-imax-sneak-peek/",
+      "summary": "Netflix released the first trailer for Narnia: The Magician’s Nephew on Tuesday afternoon. A few hours before that, RELEVANT got a first look at the movie at an exclusive IMAX sneak peek event in New York featuring an in-person interview between Stephen…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T04:10:14Z",
+      "first_seen": "2026-10-14T05:43:08Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/greta1.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fba8226fe37070a7",
+      "title": "Faithful celebrate reconstruction of an old Black church",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWG5tUjBua0tIZmtxWExxOWRaVlAtSk1NMlJ5YXlDQWJpRnNrSy10Z3R1dV81aVBEc29TRUZvbUk1TVBfTGJxNmVMTy0wdXhWMjB3UjZGdHRqdmkwWlh5bE45WFFhcUh4QnlnX1IzdVpDckhzZ0JwTmw1RWFLUFJQbDA4VldZcWZPTjV0NllQYUE1Z3VWOW9XOV80Q0FLMk5zcjVIcVU4Vm5SdGwwNFpTMWxZV293allFbVlaODFJZVg2X0NoTHlnWFRya1l4RUNQam54a0ZVZjVVQ1lYM1lCZnoyMTl3QQ?oc=5",
+      "summary": "Faithful celebrate reconstruction of an old Black church The Enquirer Journal",
+      "outlet": "The Enquirer Journal",
+      "outlet_url": "https://enquirerjournal.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-14T04:00:00Z",
+      "first_seen": "2026-10-14T05:43:08Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-14T05:43:08Z"
+    },
     {
       "id": "66e9e7145709716d",
       "title": "Kouri Richins Hit With $55 Million Judgment As Two Sheriffs Are Charged: Could She Get A New Trial?",
@@ -656,6 +711,25 @@
       "image": {
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/13151921/01k99t6d4q91pv6thrfc.webp",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7e401669db79b023",
+      "title": "Shannon Bream reveals most challenging story she's ever covered and what she prayed for",
+      "link": "https://www.christianpost.com/video/shannon-bream-reveals-most-challenging-story-shes-ever-covered.html",
+      "summary": "Shannon Bream opens up about the terrifying moment she was live on air during the assassination attempt against President Donald Trump, and the prayer she was silently praying as the chaos unfolded.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-13T18:45:52Z",
+      "first_seen": "2026-10-14T05:43:08Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/19/271967_w_550_310_493_171.jpg?v=20261013224243",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -5640,7 +5714,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-11T02:02:07Z"
+      "image_tried": "2026-10-14T05:43:08Z"
     },
     {
       "id": "6e9e1b621d24dbf6",
@@ -6591,7 +6665,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-11T02:02:07Z"
+      "image_tried": "2026-10-14T05:43:08Z"
     },
     {
       "id": "d45fa7eea6106b87",
@@ -11034,78 +11108,6 @@
       "first_seen": "2026-10-08T15:45:50Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1745612596/images/Lonely_woman_Credit_Ekkasit_Rakrotchit_Shutterstock_CNA.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1d04d3fb74170701",
-      "title": "Best New Music Museum: Museum of Christian and Gospel Music",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdjloQy1vZ3hnajl6VlRnS2RYOFJqanZPRjg3MlM5UmpjOGNJVGl5Q0piMThaYVFBR0ptRmVpb1VhZ0QxOUlnNmZ5eVdWUGhnU1F5NTZFTk5lQlZvQmdrU1dGZjdnc1RIMzdmT01ubnBkX0tIcS1JcjViVmpXcG0yMmM5eWVJQWNGUUctUWowcjBKVVJPMHpDelZhcElCQ1VFQ19iNHRFZklrTGVPd0JpZGpTSElXR1huYnhhZnNuM1F1X3gwdGVrVGEtNWpEdDlRekFaaENMN0VadnNSTzBDU1hIMUJiMHk5dTEyMlljN1hSMVJBVmEwNjI4d24tanF4X1hvNDN3Zkh0ZmxCV3VDeFVR?oc=5",
-      "summary": "Best New Music Museum: Museum of Christian and Gospel Music Nashville Scene",
-      "outlet": "Nashville Scene",
-      "outlet_url": "https://www.nashvillescene.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-08T10:00:00Z",
-      "first_seen": "2026-10-08T20:58:19Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-11T23:22:54Z"
-    },
-    {
-      "id": "16dcfc2975e39169",
-      "title": "Brothers of St. Gabriel mark 125 years of education in Thailand",
-      "link": "https://www.vaticannews.va/en/church/news/2026-10/thailand-brothers-saint-gabriel-mark-125-anniversary.html",
-      "summary": "One hundred and twenty-five years after the passenger ship Annam carried five missionaries from France to Siam, the Brothers of St. Gabriel mark the anniversary of their educational mission in Thailand. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T09:40:00Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/08/21.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "694b700053044772",
-      "title": "The Bros Who Want to Replace Democracy with a Monarchy + Bradley B. Onishi",
-      "link": "https://religionnews.com/2026/10/08/the-bros-who-want-to-replace-democracy-with-a-monarchy-bradley-b-onishi/",
-      "summary": "A set of rather strange bedfellows is insisting the real solution to 'saving western civilization' is ... a king?",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-08T09:30:36Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-11T15:51:24Z"
-    },
-    {
-      "id": "8a3c3fee7fc2558d",
-      "title": "Drake Reportedly Won't Submit \"Iceman,\" \"Habibti\" or \"Maid of Honour\" for 2027 Grammys",
-      "link": "https://www.jubileecast.com/articles/40054/20261008/drake-reportedly-not-submitting-iceman-habibti-maid-of-honour-2027-grammys.htm",
-      "summary": "Drake Reportedly Won't Submit \"Iceman,\" \"Habibti\" or \"Maid of Honour\" for 2027 Grammys",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-08T09:13:39Z",
-      "first_seen": "2026-10-08T15:45:50Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31822/drake-fomo.jpg",
         "via": "media:content"
       },
       "breaking": false,
