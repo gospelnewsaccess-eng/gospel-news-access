@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-14T22:57:27Z",
+  "generated_at": "2026-10-15T01:15:01Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 449,
   "items": [
+    {
+      "id": "5c80c4903f5a4dc1",
+      "title": "Catholic lung cancer specialists weigh in on Pope Leo XIV’s diagnosis",
+      "link": "https://www.ewtnnews.com/world/us/catholic-lung-cancer-specialists-weigh-in-on-pope-leo-xiv-s-diagnosis",
+      "summary": "“It is the most common cause of lung cancer in smokers and nonsmokers,” said Jeff McGovern, a pulmonologist, about Pope Leo’s diagnosis.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-15T00:15:15Z",
+      "first_seen": "2026-10-15T01:15:01Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792023241/ewtn-news/en/Screenshot_2026-10-15_111335_yf9lx4.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "98bb17eeb09d370b",
+      "title": "Strengthen Your Congregation’s Song: October Worship Resources",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTZ3WmhTTzRyN0d3UXlNemtuMmNfLVBJcXlxZWZsNEtPVFhUdTJlWFhlRWc5dEhuTnJ5TnB3NFJSM3NiY05sNksxMEwzRWppZDhnU3pqUVJrSnRFRUkyaXRLNTIxb2t0OGV3YTZEaE5SdlhJLVNWREo1QnRkR3AxOXVGN3AwSjZ2QlMycHk0aUlPZFU?oc=5",
+      "summary": "Strengthen Your Congregation’s Song: October Worship Resources Grand Canyon Synod of the ELCA",
+      "outlet": "Grand Canyon Synod of the ELCA",
+      "outlet_url": "https://www.gcsynod.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-15T00:00:00Z",
+      "first_seen": "2026-10-15T01:15:01Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-15T13:15:01Z",
+      "image_tried": "2026-10-15T01:15:01Z"
+    },
     {
       "id": "ff95507ff766bca4",
       "title": "UMC church choir sings Backstreet Boys during worship service: 'Pretty awesome throwback jam'",
@@ -205,6 +241,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "6ff1d8aac2e75649",
+      "title": "Popular Nigerian Gospel Singer Toluwanisings Is Dead",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOU1ScG1qencyTFF6YmNNR01pVmkwNFZJYlhWTmJpdVozMFMwTjhlQkdfUHh1Z0NJcWU0bk5UQ1dCSVBmRGt0bFVkaDJ4ck81M0EtNUtpQTdJakUwZExtcy15X29Eb0p4UTRvV3kta2owNHpKT2U1ekZqWURvUm1OdVAzdzlpWDRHUlV6SmZaVWs5QQ?oc=5",
+      "summary": "Popular Nigerian Gospel Singer Toluwanisings Is Dead Sahara Reporters",
+      "outlet": "Sahara Reporters",
+      "outlet_url": "https://saharareporters.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-14T20:07:27Z",
+      "first_seen": "2026-10-15T01:15:01Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-15T01:15:01Z"
     },
     {
       "id": "097e74faa4e2abc6",
@@ -3146,6 +3199,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "4c48a78788fdd607",
+      "title": "Why Adam Hamilton Could Win in Kansas, as Explained by Trump Voters",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMG5mSWwzYWhPaUVGSjYxaFMyN3FPMzdvQ21pb3pIbWhDM1hicWJCVHMtV3RNSmRmT2J3clR2cE0ydWtVTzVqMFBjOTdHRHFkcHItYXhma0oxV01xOWFmb0Y5cjdlMTI5ZjdHXzhoRUVDcjBWN3JkVllhekRYSnN0YTlZcF9uWE5BVmRWNkNXMHRvZw?oc=5",
+      "summary": "Why Adam Hamilton Could Win in Kansas, as Explained by Trump Voters The Bulwark",
+      "outlet": "The Bulwark",
+      "outlet_url": "https://www.thebulwark.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-13T14:32:05Z",
+      "first_seen": "2026-10-15T01:15:01Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-15T01:15:01Z"
     },
     {
       "id": "cd050cb23f6ada5b",
@@ -6546,7 +6616,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-11T23:22:54Z"
+      "image_tried": "2026-10-15T01:15:01Z"
     },
     {
       "id": "6cefa471bc7eed36",
@@ -11032,78 +11102,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "9a9a28fc4aca1353",
-      "title": "Loretta Lynn’s ‘Van Lear Rose’ Returns—Why Did Her Jack White Triumph Disappear From Streaming?",
-      "link": "https://www.jubileecast.com/articles/40072/20261009/loretta-lynn-s-van-lear-rose-returns—why-did-her-jack-white-triumph-disappear-from-streaming.htm",
-      "summary": "Loretta Lynn’s ‘Van Lear Rose’ Returns—Why Did Her Jack White Triumph Disappear From Streaming?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-09T06:07:45Z",
-      "first_seen": "2026-10-09T07:40:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23851/loretta-lynn.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "541496a961a5ab25",
-      "title": "Michael Kearns Dies At 76—What Did His Final Planned Performance Mean To The Hollywood Pioneer?",
-      "link": "https://www.jubileecast.com/articles/40071/20261009/michael-kearns-dies-at-76—what-did-his-final-planned-performance-mean-to-the-hollywood-pioneer.htm",
-      "summary": "Michael Kearns Dies At 76—What Did His Final Planned Performance Mean To The Hollywood Pioneer?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-09T06:01:00Z",
-      "first_seen": "2026-10-09T07:40:16Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32113/michael-kearns.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c39510803d84c206",
-      "title": "Shirley Caesar | Biography, Songs, No Charge, Spouse, Gospel, & Facts",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Mc2ZWM09aVHhQTHRTMDJxb3p5N3NnX055SUlmYWt1dTBPU2ZtcWg2U0FGQUVUeG1DcHhhOXkyV1hFalgwRENQXzFXMXg0MmViUTRpT09oZ0FmdWs0cDlSTQ?oc=5",
-      "summary": "Shirley Caesar | Biography, Songs, No Charge, Spouse, Gospel, & Facts Britannica",
-      "outlet": "Britannica",
-      "outlet_url": "https://www.britannica.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-09T05:00:00Z",
-      "first_seen": "2026-10-11T09:08:07Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-14T11:00:26Z"
-    },
-    {
-      "id": "95770e8c4317981a",
-      "title": "It's the day that the Lord has made and we shall rejoice in it.",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVExcjNBeE9UM2FKLVBib2h2Q0cwM3FTR0lYQTdYMUdUS2NaYXNoQlM0OG5qVGxsaHVHUVRINFlpdWw5eURPV3FvUHZjbFhLUGFaalpOVE5sdWpZQ1VhOGZIVjZEeFU3a19zRG1mcWpsX2Q5aFdvT2ViWHZMNmhIVC13amtZdnpGTWI1N20wS3FDMnZIZk9SSGtZdFR6LUwxSmpkbVpNUmdmaDdEaFFjbkZPZGwwbXp4RnE4QVQyYlo2dkEweHpUeA?oc=5",
-      "summary": "It's the day that the Lord has made and we shall rejoice in it. Facebook",
-      "outlet": "Facebook",
-      "outlet_url": "https://www.facebook.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-09T04:24:12Z",
-      "first_seen": "2026-10-09T07:40:16Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-12T10:06:20Z"
     }
   ]
 }
