@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-10-15T22:54:45Z",
+  "generated_at": "2026-10-16T00:57:18Z",
   "story_count": 600,
-  "with_photo": 452,
+  "with_photo": 451,
   "items": [
+    {
+      "id": "d07a383710e99961",
+      "title": "GloRilla Has Another Gospel Hit. Where Does She Fit in the Genre?",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMUNtbVUwY2pNR2lJaXk0aUhvT1NjR1ZZeW5RMld5Q2Y1OXd0aFgyTjBoVFNxUzJSSHkzZjYtUzVNSklpb2d4S1hQVGU4cGpYWGRZRk5CdXlUT3hMbVZJYnJvUllKb25XZkx5Z1BmXzlBMFhOM3Z3MkU4ZTNmTzh4Sk5xbURBbWRObjhNVDFKR3E1UmQ0S3Q3YnZpOEFSSjRjT0lLdg?oc=5",
+      "summary": "GloRilla Has Another Gospel Hit. Where Does She Fit in the Genre? EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-16T00:53:13Z",
+      "first_seen": "2026-10-16T00:57:18Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-16T12:57:18Z",
+      "image_tried": "2026-10-16T00:57:18Z"
+    },
+    {
+      "id": "58abf2cad95112f9",
+      "title": "Nelly And Ashanti Clash Before Taylor Swift’s Wedding—And Cameras Catch The Awkward Exchange",
+      "link": "https://www.jubileecast.com/articles/40275/20261015/nelly-and-ashanti-clash-before-taylor-swift-s-wedding—and-cameras-catch-the-awkward-exchange.htm",
+      "summary": "Nelly And Ashanti Clash Before Taylor Swift’s Wedding—And Cameras Catch The Awkward Exchange",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-16T00:52:23Z",
+      "first_seen": "2026-10-16T00:57:18Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32207/nelly.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fd5850e5e3f55f14",
+      "title": "Talarico claims Bible is 'silent' on abortion, says 10-year-old girls 'need abortion care'",
+      "link": "https://www.christianpost.com/news/talarico-challenged-over-claim-that-bible-is-silent-on-abortion.html",
+      "summary": "Texas state Rep. James Talarico returned to the campaign trail Wednesday with a CNN town hall event in which he sat face-to-face with voters to respond to their toughest questions — including on the topic of life in the womb.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-16T00:19:30Z",
+      "first_seen": "2026-10-16T00:57:18Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272325_w_550_367_324_276.jpg?v=20261015202025",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e065d548bf9b3896",
+      "title": "When Nobody Understands You, Jesus Does ❤️ | Emotional Gospel Worship Song.🔥 🙏✨",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1jYTg3VU5WbUJJOEtUdEVoVnNxSDZuMUFBSDAzS2dYZFdWQXNsR3RhSk1NdExqTy1SX05TM2lPX29hdw?oc=5",
+      "summary": "When Nobody Understands You, Jesus Does ❤️ | Emotional Gospel Worship Song.🔥 🙏✨ YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-15T23:50:26Z",
+      "first_seen": "2026-10-16T00:57:18Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-16T12:57:18Z",
+      "image_tried": "2026-10-16T00:57:18Z"
+    },
+    {
+      "id": "d0e76cdc4cc3fcc1",
+      "title": "U.S. midterm elections spark multiple Catholic voting exhortations",
+      "link": "https://www.ewtnnews.com/world/us/catholic-leaders-urge-catholics-to-vote-in-upcoming-midterm-elections",
+      "summary": "The USCCB president called on Catholics to exercise their “right and responsibility” to vote while advocacy organization CatholicVote issued state voter guides.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-15T23:01:21Z",
+      "first_seen": "2026-10-16T00:57:18Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1778790309/ewtn-news/en/elecciones-rawpixel-1778535698_dheyls.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0030ae43a7f09069",
       "title": "Breaking News: This is a Praying Time: Another tragic shooting at an Elementary school in America.",
@@ -11010,99 +11101,6 @@
       "first_seen": "2026-10-10T10:22:25Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/09/rs26929-lettie-saidiaem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d06bfd1c201bf7c0",
-      "title": "Kid Rock Has a Message for Those Trying to Change His Gospel Album.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MUGdDZWk1U2RUSDBQUlpJUUNYR2ZyNEhOU3JKNzJabE1jNFctSVRaMnhBMy05dWJZalo5OF91UDVGSWJ4Wmp1YlVHNGQtZUFoQ0IyMjFQSDY1MWFKWUlCUG9mVXB6U3RQbFVpQ3EwaG1iZV9zdzkxNzJ3?oc=5",
-      "summary": "Kid Rock Has a Message for Those Trying to Change His Gospel Album. Taste of Country",
-      "outlet": "Taste of Country",
-      "outlet_url": "https://tasteofcountry.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-10T08:57:34Z",
-      "first_seen": "2026-10-10T10:22:25Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-10T22:22:25Z",
-      "image_tried": "2026-10-13T16:40:04Z"
-    },
-    {
-      "id": "740c88e5f9a931c9",
-      "title": "Skillet’s “After The Storm” Review: Big Hooks, Heavy Guitars, And A Familiar Fight For Hope",
-      "link": "https://www.jubileecast.com/articles/40114/20261010/skillet-s-after-the-storm-review-big-hooks-heavy-guitars-and-a-familiar-fight-for-hope.htm",
-      "summary": "Skillet’s “After The Storm” Review: Big Hooks, Heavy Guitars, And A Familiar Fight For Hope",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-10T08:17:33Z",
-      "first_seen": "2026-10-10T10:22:25Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32136/skillet.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7a047c938cd0dd1b",
-      "title": "‘Fight Like Jack’: Christian Students Win $120K At Gloo AI Hackathon After Team Leader’s Devastating Accident",
-      "link": "https://www.jubileecast.com/articles/40113/20261010/fight-like-jack-christian-students-win-120k-at-gloo-ai-hackathon-after-team-leader-s-devastating-accident.htm",
-      "summary": "‘Fight Like Jack’: Christian Students Win $120K At Gloo AI Hackathon After Team Leader’s Devastating Accident",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-10T08:08:43Z",
-      "first_seen": "2026-10-10T10:22:25Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32135/fight-like-jack.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7e69303a9278c35d",
-      "title": "Ella Langley Cancels Tulsa Concert After Threatening Call—Police Reveal What Their Searches Found",
-      "link": "https://www.jubileecast.com/articles/40112/20261010/ella-langley-cancels-tulsa-concert-after-threatening-call—police-reveal-what-their-searches-found.htm",
-      "summary": "Ella Langley Cancels Tulsa Concert After Threatening Call—Police Reveal What Their Searches Found",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-10T07:58:16Z",
-      "first_seen": "2026-10-10T10:22:25Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32036/ella-langley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "db88c07c21ae7c33",
-      "title": "Caroline Cobb Confronts Sleeplessness And Anxiety In New Single Ahead Of ‘Human Being’ Album",
-      "link": "https://www.jubileecast.com/articles/40111/20261010/caroline-cobb-confronts-sleeplessness-and-anxiety-in-new-single-ahead-of-human-being-album.htm",
-      "summary": "Caroline Cobb Confronts Sleep And Anxiety In New Single Ahead Of ‘Human Being’ Album",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-10T07:54:40Z",
-      "first_seen": "2026-10-10T10:22:25Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26076/caroline-cobb.jpg",
         "via": "media:content"
       },
       "breaking": false,
