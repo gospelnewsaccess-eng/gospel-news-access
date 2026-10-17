@@ -1,8 +1,175 @@
 {
-  "generated_at": "2026-10-17T12:44:29Z",
+  "generated_at": "2026-10-17T16:04:51Z",
   "story_count": 600,
   "with_photo": 437,
   "items": [
+    {
+      "id": "39d0aaf3bfa0fc8a",
+      "title": "Pope’s surgeon: No clinical reason to cancel visit to South America",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-interview-surgeon-stefano-margaritora.html",
+      "summary": "In an interview with Vatican News, Professor Stefano Margaritora, who operated on Pope Leo XIV on October 13, says the surgery was routine, though he experienced “a deep feeling I cannot describe.” The Pope needs about another ten days to recover fully and…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T15:18:26Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/2026-10-17-dimissioni-ss-leone-xiv-dal-policlinico-gemelli/1792246799050.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0ec3a33d60b9dec7",
+      "title": "UN highlights Gaza farming risks",
+      "link": "https://www.vaticannews.va/en/world/news/2026-10/un-highlights-gaza-farming-risks.html",
+      "summary": "The FAO warns that increasing restrictions on access to agricultural land in the Gaza increases risks to Palestinian farmers Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T15:14:00Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/14/10/1791965408721.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3a0a809dad28980d",
+      "title": "Pope Leo XIV returns to Vatican after being discharged from hospital",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-discharged-from-hospital-lung-surgery.html",
+      "summary": "Pope Leo XIV has been discharged from Gemelli Hospital and has returned to the papal apartments in Vatican City State, where he will lead the Angelus on Sunday. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T15:02:19Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/15/1792244706811.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "da9cdff99b29181f",
+      "title": "Pope Leo greets young Ukrainian cancer survivor as he departs hospital",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-greets-ukrainian-girl-cancer-survivor-gemelli.html",
+      "summary": "As he departs Rome’s Gemelli Hospital, Pope Leo XIV greets Varvara, a 13-year-old Ukrainian girl whom he met on December 31 as she awaited surgery for cancer. She offers him a photograph of their hug in St. Peter’s Square and a stuffed toy, similar to the one…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T14:12:00Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/17/15/1792244722270.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "27642953f5e41314",
+      "title": "A century of Church growth: From 10 million to 347 million in the mission territories",
+      "link": "https://www.ewtnnews.com/world/europe/a-century-of-church-growth-from-10-million-to-347-million-in-the-mission-territories",
+      "summary": "On average each day, over the last 100 years in mission territories, the Church has seen more than 9,000 people becoming Catholic, two priestly ordinations, and five women taking vows as religious.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T14:00:00Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792180742/ewtn-news/en/Misioneras_combonianas_Mozambique_1_fdzgfe_nq6nft.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "696ab483b7628931",
+      "title": "Pope Leo leaves Rome’s Gemelli hospital 4 days after lung cancer surgery",
+      "link": "https://religionnews.com/2026/10/17/pope-leo-leaves-romes-gemelli-hospital-4-days-after-lung-cancer-surgery/",
+      "summary": "VATICAN CITY (AP) — Dozens of well-wishers greeted the pope as he walked out of the hospital and into a waiting vehicle to return to the Vatican.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T13:57:32Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
+    },
+    {
+      "id": "c8cac8131c268393",
+      "title": "Pope Leo XIV leaves Gemelli Hospital, returns to Vatican",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-leaves-gemelli-hospital-returns-to-vatican",
+      "summary": "The 71-year-old pope had been admitted last Tuesday and underwent surgery to remove the lower lobe of his right lung.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T13:56:51Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792245820/ewtn-news/en/PopeLeoLeavesHospitalOct17_zl8i9d.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ef8b14f88149f46b",
+      "title": "Kid Rock Drops Christian Music Album with Eminem Collaboration \"Heal My Faith\"",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUalhOWEQ5QXRDVUs2Z20tRVkzbHhWcTh6QU5LSDBadnZFM3ZGUk5Kckx0cE13V2V4ckFLcFctMTJNN3JRRHpTR1pJWHhUeTEyM1dpZHR1U2hFSHIzQWc0YW5HclhycnBoMXh2YXc1Q2VEUQ?oc=5",
+      "summary": "Kid Rock Drops Christian Music Album with Eminem Collaboration \"Heal My Faith\" Consequence of Sound",
+      "outlet": "Consequence of Sound",
+      "outlet_url": "https://consequence.net",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-17T13:28:30Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
+    },
+    {
+      "id": "70ebafc3d43c1ee1",
+      "title": "For the first time in 5 years, the number of priests worldwide rose",
+      "link": "https://www.ewtnnews.com/vatican/for-the-first-time-in-5-years-the-number-of-priests-worldwide-rose",
+      "summary": "The Catholic Church has 407,421 priests, 425 more than the previous year. Africa and Asia are driving this growth, while Europe recorded another decline.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T13:00:00Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792168652/ewtn-news/en/Ordenacion-sacerdotal-Shutterstock-161026_x9hbhd_xwylcw.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d09ceca3843c3aaa",
       "title": "Richie Owens Releases New Book and Album Appalachia: Ballads, Bloodlines & the Long Journey Home, Vol. 2",
@@ -17,6 +184,25 @@
       "first_seen": "2026-10-17T12:44:29Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32232/richie-owens.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c85cbac7bd47c72d",
+      "title": "Cardinal Bernardin: An example for the Church and the world",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/cardinal-bernardin-an-example-for-the-church-and-the-world.html",
+      "summary": "Thirty years after the death of Joseph Louis Cardinal Bernardin, archbishop of Chicago from 1982 to 1996, the Italian archdiocese of Trento has organized various events in memory of the prelate, whose origins lie in the region. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T12:35:00Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/17/37.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -209,6 +395,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "e38430805d9df70b",
+      "title": "Phil Wickham, Brandon Lake and Josiah Queen lead Dove Awards winners",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWs1Yk1uaXlyMU8zUjFxZjRhSGlxalZqZUtDVkJhZjA2OS1SOTNkX2s0QlV4ZmhkX2tITlAtZW15aERBSGRpblpBQVZzZk9WUUhwQ2lqdXl4UkFqbnI5STRhdDlmSU44THNaNlY2SDlfQmlRaVRFdWZFdHVtSGJ6ODU1cVA3aEl4SFgza1dCbVlFWFdIMXRSb0NsYTZkYl95Tzl4UklLTENIRE44QktGc2pHcw?oc=5",
+      "summary": "Phil Wickham, Brandon Lake and Josiah Queen lead Dove Awards winners Premier Christian News",
+      "outlet": "Premier Christian News",
+      "outlet_url": "https://premierchristian.news",
+      "source_feed": "Google News: Phil Wickham",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-17T11:36:49Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "0c01c67fb254350a",
@@ -1477,6 +1680,23 @@
       "image_tried": "2026-10-16T18:52:53Z"
     },
     {
+      "id": "911c5c7ec84299e5",
+      "title": "The Black Church and Mental Health Care",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbVctREtBT2dUM3ItRG93dWI5V1ZfaUFVQjg5WVdVdURGY3hvaUFsM1J2a2tPZWJHY1M4M3NqVXNkMXQ3NnMwUnpwVHA1eHYyRDZ4U2dxOTNtT1FCNDRBZWwtWmtkd0hfLUwwaUJRUkk1Uno4Z0JndmFjclhaeTNrcHR2LXk5LVZwUGgwVVRSdlRuc0JUQ204WGdsZjBWY21h?oc=5",
+      "summary": "The Black Church and Mental Health Care EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-16T17:35:29Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
+    },
+    {
       "id": "05768e0ff4a92410",
       "title": "Australia’s antislavery chief, who praised Catholics as ‘national leader,’ says reforms fall short",
       "link": "https://www.ewtnnews.com/world/asia-pacific/australia-s-anti-slavery-chief-who-praised-catholic-sector-as-national-leader-says-reforms-fall",
@@ -2710,6 +2930,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "3e65ab88026d1a6d",
+      "title": "2026 Dove Awards: Phil Wickham, Josiah Queen Among Night's Big Winners as Artists Glorify God",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkV3cHVHZ2syMlJUTzJBSjZWNFQ2b3lFaUh3M2JIQ3puUEI0SEl3VThldG1oSG9kNjFzLW9DSnN2bllqbFN6dWZySWtnbVBvcmM1WWt0eThETjZ1MWlKZWdEd0JDN3BZMnhpbmRzSTFUUFY5bWRLNEJwcHVvVzFTU1c4MkU1T0wtTkpFdVBLd2V3Sy1Cb3B5djFGWEdMMGw1VlBXZnFyWGxUUElERjV5LXhmdDNfU1V0czNLTjE3R1ZsUVdXMFgyaW5YeTVVczRRanRORWJ6TVVzZzl0bFdidW5lNEhCMnc?oc=5",
+      "summary": "2026 Dove Awards: Phil Wickham, Josiah Queen Among Night's Big Winners as Artists Glorify God Beliefnet",
+      "outlet": "Beliefnet",
+      "outlet_url": "https://www.beliefnet.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-16T08:46:48Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
+    },
+    {
       "id": "557d02e508b30147",
       "title": "Val Chmerkovskiy’s Will Smith Remark Ignites A Bigger ‘DWTS’ Question",
       "link": "https://www.jubileecast.com/articles/40283/20261016/val-chmerkovskiy-s-will-smith-remark-ignites-a-bigger-dwts-question.htm",
@@ -3273,6 +3510,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-16T10:54:45Z",
       "image_tried": "2026-10-15T22:54:45Z"
+    },
+    {
+      "id": "77d500f15caf5241",
+      "title": "Tyler Perry Takes Netflix to Church With ‘The Gospel of Christmas’",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR2YxOFJSV2JGU1VxVnpwQWlWWnN3U1lxTjQ1bU9hMG9hTFc3eElFaWNabVJMMjcyOUNZQmw3SXhGS043M2ZBTmFVeWJXZEpKUDJsSXdMWG4wMDVFQ0g4S2x0N2Q0b2E1NDZHZy13ZllkVTNyRjM3MEhHTTBLVVR1cXdOcEd3Y2tHTzF2OXlGOU94N0UxaHhXZUJZUFpRQndaYXIzQ1hKUmUxS3FuR1ZBSW1n?oc=5",
+      "summary": "Tyler Perry Takes Netflix to Church With ‘The Gospel of Christmas’ EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-15T22:03:05Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "d34c10b5aa28cc8a",
@@ -5557,6 +5811,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "865b146b3c9265b1",
+      "title": "Kirk Franklin",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmUmZVMHlGMzU3b3AyRGdFbzc2c0lGc2Z5Snk2SlVkdWxUU0RobU90QWh6b2pkVGxpbzNUWDk0UGE1a1RvV01kdkcxS2dGNnpuaExrRXEySGNoTHFLS0ow?oc=5",
+      "summary": "Kirk Franklin Britannica",
+      "outlet": "Britannica",
+      "outlet_url": "https://www.britannica.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-15T05:00:00Z",
+      "first_seen": "2026-10-17T16:04:51Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T16:04:51Z"
+    },
+    {
       "id": "3bc8f3659f201f6d",
       "title": "Should you have to pay to hear the gospel?",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZlZrZ0Jva2pUZ01sUGJBaDZva1VjclhNaGYxMVpDVEx6bUt0Q1NpdmVkMFVxU1F3clFvckY1MDd6ejJqMEtHenRTQzI4dXg4ZmFRM0lMMHVCZ1BleGhaT3pDOEhmWDMwVkVLTEZRcWo2S0RFTFo1R3VybjhiWlJNbVd3c3lZc29lUEo3Y2hiMFdaOEpLajZwajRHNVhma3Z4MG1tWTNhSjBNSnlQZGZ3dHBpOUg3cmg3VW52ckRHcnlUZXg3QkhuclRSXzRYZy1YWEwxSUZHWkFlaVlCRkRPaVhkUmRlN0t4?oc=5",
@@ -7022,7 +7293,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "192b17e6e4089d01",
@@ -7077,7 +7348,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "e58f453d741d9ec9",
@@ -7168,7 +7439,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-15T03:52:48Z",
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "dbd3ba525bf7b7cf",
@@ -7185,7 +7456,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "2b493ce87c5ae35d",
@@ -7259,7 +7530,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "4683370dd3fdb5a3",
@@ -7428,7 +7699,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "b97bbf20fb59321e",
@@ -8157,7 +8428,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "052471e07af9c3ec",
@@ -9172,7 +9443,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T15:52:48Z"
+      "image_tried": "2026-10-17T16:04:51Z"
     },
     {
       "id": "cdf6249b33d6982f",
@@ -10802,277 +11073,6 @@
       "image": {
         "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/12112114/HOLLYN_1-e1791818532812.jpg",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0d52cd860b417a3e",
-      "title": "Americans who say college is 'very important' reaches record low, Gallup finds",
-      "link": "https://www.christianpost.com/news/americans-who-say-college-is-very-important-reaches-record-low.html",
-      "summary": "The share of American adults who say a college education is “very important” has reached its lowest level in 48 years and is even lower among men, Republicans, white adults and non-college graduates, according to a new Gallup study.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T18:32:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272237_w_550_367.jpg?v=20261012143311",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2144eaa3a0cdbd9a",
-      "title": "‘We Might Try It’: Mark Stuart Teases AI-Powered Audio Adrenaline Reunion and New Music",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMi1EVWpwUGJTakhBSkpocnR2dG9qODd0VHlIX2QzYjVWUjJMNVdqdkVOM0xxTWlCSU5zQTBlcFpMV01rOEFza0R4WGpRbGdLZHl1SjQ3TGxSb1dZRVhfdmdfUno2a3FpRnhGdDZYS19QZmtkbEdZZkg0Umwwb1Q0OUp4RGJiRTVCeXFWOElZRG03ZVNXQnJqVzVnTkQtSVRIZjU5cUQ2YTBkSlVEMXJNNEdHTjRuZWUyc0NXMTA4ZTJxUTJkblFDSElUV3RvZDd0OHdXekZpYXVnbjVRREtXUFV3X2pWbjZHbTkzLUd3?oc=5",
-      "summary": "‘We Might Try It’: Mark Stuart Teases AI-Powered Audio Adrenaline Reunion and New Music Crosswalk.com",
-      "outlet": "Crosswalk.com",
-      "outlet_url": "https://www.crosswalk.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-12T18:15:00Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T05:31:01Z"
-    },
-    {
-      "id": "5cc29498c9df9379",
-      "title": "Widow of Pastor Killed at Christian Festival Shares Powerful Tribute: ‘He Never Wasted a Minute’",
-      "link": "https://mycharisma.com/news/widow-of-pastor-killed-at-christian-festival-shares-powerful-tribute-he-never-wasted-a-minute/",
-      "summary": "A devastating tragedy may have taken Pastor Robert Guanco from this earth, but it could not erase the spiritual imprint he left behind. Weeks after the 41-year-old pastor was killed in a shocking accident at Big Church Festival in England, his widow and…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T18:05:30Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Autumn-Miles-book-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "70b4052265184ef6",
-      "title": "CECE WINANS STYLE - JEHOVAH YOU STILL REIGNS | POWERFUL WORSHIP SONG FOR PRAYERS AND MEDITATION",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0SHgxQlJ6Qk1KemZZX2xsUHJwek5taVU5U25tUlpjSjE4UFdZUWplZFpCV1p6cjFjTmg4b09CNmdZbVdLRnlRd3ZoQVNEOG5Ic0tYWmFRSG5yNnZs?oc=5",
-      "summary": "CECE WINANS STYLE - JEHOVAH YOU STILL REIGNS | POWERFUL WORSHIP SONG FOR PRAYERS AND MEDITATION YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-12T18:00:12Z",
-      "first_seen": "2026-10-13T08:50:27Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T10:30:49Z"
-    },
-    {
-      "id": "72f12b8f2f62cea1",
-      "title": "Wickham, Lake, Queen lead list of 2026 Dove Award winners",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcUVvczlaNW1nc0lRX1hqT2drWU12dXJfM2ROcDV1MnBTQ2M4RnhaZklnSWNfSEhYV19ITFdJMU9LbXpQOGJJbTRDSlZpT0hhb3drcUg1bmw3NmdCaXhUNVZ2M1RSSGRVYi1PVFRjbDhLU211bXVzMS16T3JqaG9BdTZickdvcWRsMGJz?oc=5",
-      "summary": "Wickham, Lake, Queen lead list of 2026 Dove Award winners Biblical Recorder",
-      "outlet": "Biblical Recorder",
-      "outlet_url": "https://www.brnow.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-12T17:57:03Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "6ca66c55914da998",
-      "title": "Lainey Wilson Opens Up About Her 'Authentic Relationship with Jesus Christ' at Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNWtKMmlTaUZOOXNGZWZHS1FSQkYyOVNCOW5ha24xQllVUm1SdGwxcGlBbjBndVNkRWxISzNyT1d6LUVTYUEwejJ5dDY3SXRjUHBiVDdTX2J6R3JzNTJ3R0xkNVhOUGp6UFJMSWlzb0tPSEhZNGlmMER3VHlDcmQxYXY2cVVaVHAyMnhmQ2h1ZXZOcmJxWjAzU1MwamhEWkVLVDlHUDlMYkxuN3pfRGkxYVJQckFoR24yWnRPU2RMemU5bVNkVjVjRXN2VTJGZE82UUpmYTY3QXQ2eEh0ZHJpdUJNWXJkcUx6NTBBVA?oc=5",
-      "summary": "Lainey Wilson Opens Up About Her 'Authentic Relationship with Jesus Christ' at Dove Awards Crosswalk.com",
-      "outlet": "Crosswalk.com",
-      "outlet_url": "https://www.crosswalk.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-12T17:54:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "85718e4080783674",
-      "title": "BCNN1 News Brief: Mike Ditka Dies at 86; Christian Leaders Split on Fort Hood Shooter Execution; Pastors Urge Adam Hamilton to Quit Senate Race",
-      "link": "https://blackchristiannews.com/bcnn1-news-brief-mike-ditka-dies-at-86-christian-leaders-split-on-fort-hood-shooter-execution-pastors-urge-adam-hamilton-to-quit-senate-race/?utm_source=rss&utm_medium=rss&utm_campaign=bcnn1-news-brief-mike-ditka-dies-at-86-christian-leaders-split-on-fort-hood-shooter-execution-pastors-urge-adam-hamilton-to-quit-senate-race",
-      "summary": "Welcome to the BCNN1 News Brief — your quick roundup of the day’s top Christian headlines. Here are six stories The post BCNN1 News Brief: Mike Ditka Dies at 86; Christian Leaders Split on Fort Hood Shooter Execution; Pastors Urge Adam Hamilton to Quit Senate…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T17:52:50Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/news-brief-featured.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "64f7e43bba32b3b9",
-      "title": "Ex-Muslim violently attacked for following Jesus urges Christians to share the Gospel",
-      "link": "https://www.christianpost.com/news/saudi-muslim-converts-after-dream-of-jesus-faces-persecution.html",
-      "summary": "Saudi-born Christian evangelist Ahmed Joktan shares how a dream led him to Jesus, the brutal persecution he endured after converting from Islam and why he's urging Western Christians to boldly share the Gospel with their Muslim neighbors.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T17:49:12Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272267_w_550_341_864_360.jpg?v=20261012135350",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f4f239f32164b51",
-      "title": "BMI Celebrates its 57th Annual GMA Dove Awards Winners",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSlBQbnZMTWFEZXp6WURoeFFySjZCV2pvNEpmRGM3S1pmaXFna3NNNzFRdnhoSXB4d3NxS0poQWo1VTE5eU5sV2E4cUtvQjNLYUstS1FwUlR6ZDRqc2lnSHhnaE9yZ3NDOXNLb1lfQzRhYUJUbXNNQUhqMk1LUjh1dHg5NHBXUQ?oc=5",
-      "summary": "BMI Celebrates its 57th Annual GMA Dove Awards Winners Broadcast Music, Inc. (BMI)",
-      "outlet": "Broadcast Music, Inc. (BMI)",
-      "outlet_url": "https://www.bmi.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-12T17:43:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "8a2b0e870b8da462",
-      "title": "Even If God Says NO, I Will Still Trust Him 🙏 | Powerful Emotional Gospel Song.🔥 🙏✨",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5qVXE1Qkt0T2FqWEV3N2V2ZmRDenZhdmhnbkNKTC1FdzN1ZENwQV81V3lqZF9GaldNMjljeHJ4dDU2UQ?oc=5",
-      "summary": "Even If God Says NO, I Will Still Trust Him 🙏 | Powerful Emotional Gospel Song.🔥 🙏✨ YouTube",
-      "outlet": "YouTube",
-      "outlet_url": "https://youtu.be",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-12T17:42:43Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "cdc57ecdad5e8b1e",
-      "title": "‘Lead, Kindly Light’: New documentary on St. John Henry Newman premieres in Rome",
-      "link": "https://www.ewtnnews.com/vatican/lead-kindly-light-new-documentary-on-st-john-henry-newman-premieres-in-rome",
-      "summary": "“Lead Kindly Light: The Story of St. John Henry Newman” has premiered in Rome.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T17:14:51Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1754589028/images/youngnewmanfeaturephoto080125.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "07f057404ffd25b6",
-      "title": "Sarai Rivera Wins Dove Award for Spanish-Language Song “Tu Voz”",
-      "link": "https://www.jubileecast.com/articles/40170/20261012/sarai-rivera-tu-voz-dove-award-2026.htm",
-      "summary": "Sarai Rivera Wins Dove Award for Spanish-Language Song “Tu Voz”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T17:07:02Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32157/sarai-rivera.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "eef45cd4fa3acfb4",
-      "title": "Sam Altman Is ‘Very Uncomfortable’ With People Treating AI Like a Religion",
-      "link": "https://relevantmagazine.com/culture/tech-gaming/sam-altman-is-very-uncomfortable-with-people-treating-ai-like-a-religion/",
-      "summary": "On Oct. 1, an X user asked Grok, Elon Musk’s chatbot, to remove the “fake gods” from an image of Jesus standing among other deities. Grok sent back Jesus alone and replied “Done.” Then it kept going. It said Jesus “did not qualify” as a fake god and called…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T16:59:51Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/sam.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9fdf19e5d748d369",
-      "title": "Historic Black church in South L.A. burns for a third time",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObmFxZUlRb1hzUWpKSXY4UGdWRGpuMERKclhjMVpISjlwYWp4Q1JOMFlQeFFnUnI0aThGbldISXpfQXhJdmNIcXJ2V0JINF9FbXFHS0pXcmM1SkNkdW55SGxuWjBoazhMZHVWeXdQLWI4TGZiV2lZWUhDSkdvaDRQd3NOc1JhUzVmNUlxdnJrazk?oc=5",
-      "summary": "Historic Black church in South L.A. burns for a third time Los Angeles Times",
-      "outlet": "Los Angeles Times",
-      "outlet_url": "https://www.latimes.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-12T16:53:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "3f3fabf5d4fb5b6d",
-      "title": "Barry Manilow Walked Off After 2 Songs: Is His Oct. 15 Vegas Show Still On?",
-      "link": "https://www.jubileecast.com/articles/40169/20261012/barry-manilow-las-vegas-show-oct-15-after-walking-off-stage.htm",
-      "summary": "Barry Manilow Walked Off After 2 Songs: Is His Oct. 15 Vegas Show Still On?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T16:42:35Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31293/barry-manilow.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
