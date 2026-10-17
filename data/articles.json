@@ -1,8 +1,44 @@
 {
-  "generated_at": "2026-10-17T21:10:57Z",
+  "generated_at": "2026-10-17T23:16:25Z",
   "story_count": 600,
-  "with_photo": 435,
+  "with_photo": 433,
   "items": [
+    {
+      "id": "d7529a4d1fddc3a4",
+      "title": "These Military Leaders Are Protecting Democracy with Admiral Michael E. Smith",
+      "link": "https://religionnews.com/2026/10/17/these-military-leaders-are-protecting-democracy-with-admiral-michael-e-smith/",
+      "summary": "Retired Rear Adm. Michael E. Smith, founder and president of National Security Leaders for America, talks military integrity and voter protection with host Rev. Paul Brandeis Raushenbush",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T22:08:20Z",
+      "first_seen": "2026-10-17T23:16:25Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T23:16:25Z"
+    },
+    {
+      "id": "4b5bb1dcea042b1f",
+      "title": "The BCNN1 TORCH LEADER News Brief: “Bloomerrang”: Bishop George Bloomer Wins $62.2M Racial Discrimination Verdict Against The Word Network . . . and 6 More Articles",
+      "link": "https://blackchristiannews.com/the-bcnn1-torch-leader-news-brief-bloomerrang-bishop-george-bloomer-wins-62-2m-racial-discrimination-verdict-against-the-word-network-and-6-more-articles/?utm_source=rss&utm_medium=rss&utm_campaign=the-bcnn1-torch-leader-news-brief-bloomerrang-bishop-george-bloomer-wins-62-2m-racial-discrimination-verdict-against-the-word-network-and-6-more-articles",
+      "summary": "Daniel Whyte III says, from the old negro wisdom and vernacular, “The wheel of God grinds slo’ but it grinds The post The BCNN1 TORCH LEADER News Brief: “Bloomerrang”: Bishop George Bloomer Wins $62.2M Racial Discrimination Verdict Against The Word Network …",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-17T21:36:25Z",
+      "first_seen": "2026-10-17T23:16:25Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/bloomerang.webp",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "aab30f74ae897e87",
       "title": "International rosary in Rome held in advance of 100th World Mission Sunday",
@@ -6373,7 +6409,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-15T10:57:27Z",
-      "image_tried": "2026-10-14T22:57:27Z"
+      "image_tried": "2026-10-17T23:16:25Z"
     },
     {
       "id": "1accc418606515a4",
@@ -6409,7 +6445,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-15T10:57:27Z",
-      "image_tried": "2026-10-14T22:57:27Z"
+      "image_tried": "2026-10-17T23:16:25Z"
     },
     {
       "id": "1ffe27bf0dc14905",
@@ -6521,7 +6557,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T22:57:27Z"
+      "image_tried": "2026-10-17T23:16:25Z"
     },
     {
       "id": "3c0d7d941a057327",
@@ -7289,7 +7325,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T22:57:27Z"
+      "image_tried": "2026-10-17T23:16:25Z"
     },
     {
       "id": "c20a07dad9f07780",
@@ -8462,7 +8498,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T22:57:27Z"
+      "image_tried": "2026-10-17T23:16:25Z"
     },
     {
       "id": "66e9e7145709716d",
@@ -10909,6 +10945,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "3e28e2a25184be91",
+      "title": "Kid Rock, Eminem putting political differences aside to make Christian album",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOMUJLdzhRVlh2QW1td1FYaW85YWlFeVlDTkdja1I1Q19MV296Q0ZJX2xLdkl1ZUp4aXFqSlZHRVNFTEN2MUpaNG1jOXFjTzZsQ25NRkZYSHZHM1g3ZGp6dXlXcWpzbEpqZ0NkTUZIRkIxQ2h1XzdMXzRDb9IBgAFBVV95cUxPOUxFOWMwNG9SM1JiTE9JT2ppcWxUa1hsZ2pESTdVWXdJTzU0aWJ4MHhlckpkZW9wa3RQYkhQSXpubXQ3bjNfbGZ0Vmlla2JaRnBjcFdYU3MxRTRTcnRXcXdIT294dUt5Znhqa2FTbk5tWUtSMEJtNUpmc0RKVDQ5Vw?oc=5",
+      "summary": "Kid Rock, Eminem putting political differences aside to make Christian album NewsNation",
+      "outlet": "NewsNation",
+      "outlet_url": "https://www.newsnationnow.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-12T20:44:41Z",
+      "first_seen": "2026-10-17T23:16:25Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T23:16:25Z"
+    },
+    {
       "id": "f13189c2777d0ce2",
       "title": "Ilhan Omar Claims Trump Weaponized Law Enforcement in Home Raid",
       "link": "https://mycharisma.com/news/ilhan-omar-claims-trump-weaponized-law-enforcement-in-home-raid/",
@@ -11012,63 +11065,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32158/amber-siyavus.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fd5fbb95d27476e5",
-      "title": "Jim Bakker’s Daughter Breaks Years Of Silence With An Unexpected Request After His Death",
-      "link": "https://www.jubileecast.com/articles/40173/20261012/jim-bakker-s-daughter-breaks-years-of-silence-with-an-unexpected-request-after-his-death.htm",
-      "summary": "Jim Bakker’s Daughter Breaks Years Of Silence With An Unexpected Request After His Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T19:54:55Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32078/jim-bakker.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f013d8f551ac39fb",
-      "title": "Sean “Diddy” Combs’ Late-Night Prison Emergency Raises Questions As His Team Responds",
-      "link": "https://www.jubileecast.com/articles/40172/20261012/sean-diddy-combs-late-night-prison-emergency-raises-questions-as-his-team-responds.htm",
-      "summary": "Sean “Diddy” Combs’ Late-Night Prison Emergency Raises Questions As His Team Responds",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T19:52:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27012/diddy.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5395874d2623f65f",
-      "title": "Theobro pastor Joel Webbon calls for public execution of Mike Huckabee",
-      "link": "https://religionnews.com/2026/10/12/theobro-pastor-joel-webbon-calls-for-mike-huckabees-execution/",
-      "summary": "(RNS) — In a now-erased social media post, the Texas pastor compared Huckabee, a staunch supporter of Israel, to convicted Fort Hood shooter Nidal Hasan, saying 'let's kill two birds with one stone.'",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T19:47:04Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Webbon-Huckabee2-255x369.jpg",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
