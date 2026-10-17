@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-10-17T18:40:47Z",
+  "generated_at": "2026-10-17T21:10:57Z",
   "story_count": 600,
-  "with_photo": 436,
+  "with_photo": 435,
   "items": [
+    {
+      "id": "aab30f74ae897e87",
+      "title": "International rosary in Rome held in advance of 100th World Mission Sunday",
+      "link": "https://www.ewtnnews.com/vatican/united-in-mission-international-rosary-in-rome-marks-100th-world-mission-sunday",
+      "summary": "The rosary, recited in 13 languages, also marked the 75th anniversary of the World Mission Rosary by Blessed Fulton Sheen.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T20:38:44Z",
+      "first_seen": "2026-10-17T21:10:57Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792252469/ewtn-news/en/PXL_20261017_133110507_g5csb7.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "93ec6c0c754e4053",
+      "title": "Calvary Chapel pastor, wife killed outside home in Mexico; police detain suspect",
+      "link": "https://www.christianpost.com/news/calvary-chapel-irapuato-pastor-wife-killed-outside-home.html",
+      "summary": "A pastor and his wife were shot and killed outside their home in Irapuato, Mexico, early Thursday, shortly after he officiated at a funeral.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T19:06:47Z",
+      "first_seen": "2026-10-17T21:10:57Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272353_w_550_456_596_314.jpg?v=20261017150735",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d3ce7b4fb73e0926",
+      "title": "Interview With Director Rhys Marc Jones (Black Church Bay)",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbXU5XzUxcDVGLVJ4a3ZiUTZrdXJ2el9LVnFqLVdxV21TVUtYX2N3V2hxSUZMcFk1RXZMa1NMZ1EyTlNLTmlJLVhXaGJWSm9xaHBIaUlaQ0xfQUFvVFgyX3dtZWVndGI3WFBRNGNFXzI5N0o2Unpid1J0Ym93eW1lM3o4QnhhMWVZME1tY0V1ZXo?oc=5",
+      "summary": "Interview With Director Rhys Marc Jones (Black Church Bay) Movie Marker",
+      "outlet": "Movie Marker",
+      "outlet_url": "https://www.moviemarker.co.uk",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-17T19:05:12Z",
+      "first_seen": "2026-10-17T21:10:57Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T21:10:57Z"
+    },
     {
       "id": "93e951aa635497e8",
       "title": "Pope’s surgeon green lights Nov. 6–17 apostolic trip to Latin America",
@@ -3933,6 +3988,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "b5aae4f1c1bf05fd",
+      "title": "Is Kirk Franklin's New Song Too Secular?? #kirkfranklin #gospel #trump #homecoming @Sony",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96Uk1RTXVtYnNIMXRTS1JKc2VWQXZTckNGcVNxS2J6NmN6ZG5WREtMeml3MnljZW56ZnRoSWl1dXBla2dEblU4enJfRDdIa0RDN1owOGNwQ2FOT21M?oc=5",
+      "summary": "Is Kirk Franklin's New Song Too Secular?? #kirkfranklin #gospel #trump #homecoming @Sony YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-15T20:00:09Z",
+      "first_seen": "2026-10-17T21:10:57Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T21:10:57Z"
+    },
+    {
       "id": "c04e4296376db907",
       "title": "Chester Bennington’s Daughter Violet Opens Up About Recovery Ahead Of Debut Album",
       "link": "https://www.jubileecast.com/articles/40265/20261015/chester-bennington-s-daughter-violet-opens-up-about-recovery-ahead-of-debut-album.htm",
@@ -6783,7 +6855,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-15T07:55:58Z",
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "be4e6a8491debf0c",
@@ -6838,7 +6910,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-15T07:55:58Z",
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "81c98944d90e44f8",
@@ -6855,7 +6927,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "9b638846d8294c43",
@@ -6948,7 +7020,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "7b219cfcccda49e7",
@@ -7075,7 +7147,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "354cc6d83a7e97d5",
@@ -7166,7 +7238,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "46900fa38f34facc",
@@ -7183,7 +7255,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "1dba1a4352fcecab",
@@ -7200,7 +7272,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "08844df0f0345deb",
@@ -7234,7 +7306,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "eb02c2ce3e60b229",
@@ -7456,7 +7528,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "84cc6bd6ba204464",
@@ -8718,7 +8790,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "d388fc2802d8c9fc",
@@ -8963,7 +9035,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T19:55:58Z"
+      "image_tried": "2026-10-17T21:10:57Z"
     },
     {
       "id": "62677d7a03e5deb7",
@@ -10997,80 +11069,6 @@
       "image": {
         "url": "http://religionnews.com/wp-content/uploads/2026/10/webRNS-Webbon-Huckabee2-255x369.jpg",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a080479f5ade6a10",
-      "title": "Ella Langley Points Fans to Jesus After Bomb Threat",
-      "link": "https://www.jubileecast.com/articles/40171/20261012/ella-langley-points-fans-to-jesus-after-bomb-threat.htm",
-      "summary": "Ella Langley Breaks Silence After Bomb Threat",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T19:43:11Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30502/ella-langley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f64ca07459d65613",
-      "title": "The Very American Rise and Fall and Rise and Death of Jim Bakker",
-      "link": "https://religionnews.com/2026/10/12/the-very-american-rise-and-fall-and-rise-and-death-of-jim-bakker/",
-      "summary": "Jim Bakker turned religious intimacy into an American empire—and showed how faith, fame, fraud and reinvention could share the same stage.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T19:33:31Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "e5a4e258dc78251f",
-      "title": "Church offers hope as pregnant mother named among 9 killed in Erie house massacre",
-      "link": "https://www.christianpost.com/news/church-offers-hope-as-pregnant-mother-named-among-9-killed.html",
-      "summary": "Faith leaders in Erie, Pennsylvania, are pledging support after a 45-year-old grandfather fatally shot eight people at his home Friday, including his wife, pregnant daughter, two sons and two grandchildren, before killing himself.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T19:28:16Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272269_w_550_327.jpg?v=20261012153057",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b0ea98f77132f5a8",
-      "title": "New White House press secretary describes ‘miracle’ when her mother chose adoption over abortion",
-      "link": "https://www.ewtnnews.com/world/us/new-white-house-press-secretary-describes-miracle-when-her-mother-chose-adoption-over-abortion",
-      "summary": "She said that she was “approximately 20, 30 minutes away from being aborted” when her mother changed her mind.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T19:27:27Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791832644/ewtn-news/en/KatieZacharia101226_l57tlr.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
