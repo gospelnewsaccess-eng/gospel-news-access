@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-17T16:04:51Z",
+  "generated_at": "2026-10-17T18:40:47Z",
   "story_count": 600,
-  "with_photo": 437,
+  "with_photo": 436,
   "items": [
+    {
+      "id": "93e951aa635497e8",
+      "title": "Pope’s surgeon green lights Nov. 6–17 apostolic trip to Latin America",
+      "link": "https://www.ewtnnews.com/vatican/pope-s-surgeon-green-lights-his-nov-6-17-apostolic-trip-to-latin-america",
+      "summary": "“No clinical reasons why it should not take place,” said Dr. Stefano Margaritora, who called Pope Leo “an ideal patient.”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T16:18:56Z",
+      "first_seen": "2026-10-17T18:40:47Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792247361/ewtn-news/en/Pope.concluding.stay.Oct.17.2026_miomn1.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "411f01d80ec3dbf7",
+      "title": "Kid Rock releases Christian album featuring Eminem collaboration",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDVQbFdmdjNjdS14b1hwamRhdGg0eGZoTXk0VVNFeU9paDFKRjdKN19FbzZUNS1nTTNnek5YQnNzcS1sMjVqQ1JrWk9TQVlUaGQ5Q0puRXpWZm9uZGtOa3VYd0R2T0lCM0pudHpmV0sxTFZhZ0xKbFhHcmxmMVBpRkl5LVFzaFRzN1IxeGhYc0FsczFNYTlJU2JxdWZzdlIxN0pDdWtwanhwX1p1Nmc?oc=5",
+      "summary": "Kid Rock releases Christian album featuring Eminem collaboration Paste Magazine",
+      "outlet": "Paste Magazine",
+      "outlet_url": "https://www.pastemagazine.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-17T16:13:00Z",
+      "first_seen": "2026-10-17T18:40:47Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T18:40:47Z"
+    },
+    {
+      "id": "5f496fc29b7ff888",
+      "title": "Fantasia and Tank Take Tyler Perry to Church in ‘The Gospel of Christmas’ Trailer",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUVEZWg2WFl0LVNDRFlyWDFXYlVZazFHOXpYUGNYa3d2T1U1eG9XbWItZVNNVkFMWWwtaGtjSjJZcjJ3VDFrSWFoOE5vZkhmcDhGR2kyb3BGSTluVWx6dmZoNVFmR2VkUV93YTBCZVotSXNlbzlpSEtHV0dOSVhMVzU1QVJxMUpvVnduOVIyX1BqN1ZIVkxPM3hLYlFPSWQwczM4a1VR?oc=5",
+      "summary": "Fantasia and Tank Take Tyler Perry to Church in ‘The Gospel of Christmas’ Trailer Complex",
+      "outlet": "Complex",
+      "outlet_url": "https://www.complex.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-17T16:02:11Z",
+      "first_seen": "2026-10-17T18:40:47Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T18:40:47Z"
+    },
+    {
+      "id": "08b473ababd6ddcf",
+      "title": "Trump suspends Russia sanctions as deadly attacks plunge Ukraine into darkness",
+      "link": "https://www.vaticannews.va/en/world/news/2026-10/trump-suspends-russia-sanctions.html",
+      "summary": "Donald Trump suspends recently passed sanctions and tariffs aimed at Russia that were due to take effect in just a few days, prompting criticism from Ukraine and from European allies. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T15:22:00Z",
+      "first_seen": "2026-10-17T18:40:47Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/10/11/22/1791752109160.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "39d0aaf3bfa0fc8a",
       "title": "Pope’s surgeon: No clinical reason to cancel visit to South America",
@@ -10999,80 +11071,6 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1791832644/ewtn-news/en/KatieZacharia101226_l57tlr.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "85f80035d4e0b55c",
-      "title": "Rob Sand’s Christian Appeal Meets a Disturbing Record of Church Compromise",
-      "link": "https://mycharisma.com/news/rob-sands-christian-appeal-meets-a-disturbing-record-of-church-compromise/",
-      "summary": "Rob Sand is appealing to Iowa voters with references to Christianity and Scripture. His reported choice of church carries a warning that Christian voters should examine closely. The Democratic gubernatorial nominee reportedly attended a congregation that has…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T19:16:47Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9619a0f65fa0d501",
-      "title": "Christianity teaches us not to turn executions into entertainment",
-      "link": "https://religionnews.com/2026/10/12/christianity-teaches-us-not-to-turn-executions-into-entertainment/",
-      "summary": "(RNS) — The history of public executions suggests that when they are staged in free countries, they serve to degrade the citizens.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T18:50:38Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-15T19:57:24Z"
-    },
-    {
-      "id": "678668c908232299",
-      "title": "False Pastor Otha Turnbough Teaches Jesus Christ, the Son of God, Was Raped by Demons and Endured Bestiality in Hell to Atone for Sexual Sins",
-      "link": "https://blackchristiannews.com/false-pastor-otha-turnbough-teaches-jesus-christ-the-son-of-god-was-raped-by-demons-and-endured-bestiality-in-hell-to-atone-for-sexual-sins/?utm_source=rss&utm_medium=rss&utm_campaign=false-pastor-otha-turnbough-teaches-jesus-christ-the-son-of-god-was-raped-by-demons-and-endured-bestiality-in-hell-to-atone-for-sexual-sins",
-      "summary": "A New Low in Pulpit False Teaching: The ‘Jesus Was Raped in Hell’ Sermon Georgia Pastor Claims Jesus Was Raped The post False Pastor Otha Turnbough Teaches Jesus Christ, the Son of God, Was Raped by Demons and Endured Bestiality in Hell to Atone for Sexual…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T18:45:22Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/othaturnbough.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6c349fd738900beb",
-      "title": "Hollyn – Source | Bless The Mic",
-      "link": "https://rapzilla.com/2026-10-hollyn-source-bless-the-mic/",
-      "summary": "Hollyn came through to Bless The Mic with her song “Source.” Filmed in Nashville, TN, by Will Thomas and 5Five Spoke Media. Watch Hollyn Below: About Bless the Mic Bless the Mic highlights faith-driven musical artists across all genres. The platform launched…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T18:41:39Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/12112114/HOLLYN_1-e1791818532812.jpg",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
