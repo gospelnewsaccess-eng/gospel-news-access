@@ -1,8 +1,137 @@
 {
-  "generated_at": "2026-10-17T00:06:23Z",
+  "generated_at": "2026-10-17T04:46:35Z",
   "story_count": 600,
-  "with_photo": 432,
+  "with_photo": 429,
   "items": [
+    {
+      "id": "83e30721f05ebe75",
+      "title": "Theo James Reportedly Stunned As Fists Fly On ‘The Gentlemen’ Set",
+      "link": "https://www.jubileecast.com/articles/40303/20261017/theo-james-reportedly-stunned-as-fists-fly-on-the-gentlemen-set.htm",
+      "summary": "Theo James Reportedly Stunned As Fists Fly On ‘The Gentlemen’ Set",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-17T04:05:40Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32223/theo-james.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "80cf04737c226b1b",
+      "title": "Ellen DeGeneres Eyes TV Comeback—But Will Viewers Welcome Her Back?",
+      "link": "https://www.jubileecast.com/articles/40302/20261017/ellen-degeneres-eyes-tv-comeback—but-will-viewers-welcome-her-back.htm",
+      "summary": "Ellen DeGeneres Eyes TV Comeback—But Will Viewers Welcome Her Back?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-17T04:00:19Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32222/ellen-degeneres.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "38a2a87b14b8d9d5",
+      "title": "George Bloomer Wins $62.2 Million In Racial Discrimination Case Against The Word Network",
+      "link": "https://www.jubileecast.com/articles/40301/20261016/george-bloomer-wins-62-2-million-in-racial-discrimination-case-against-the-word-network.htm",
+      "summary": "George Bloomer Wins $62.2 Million In Racial Discrimination Case Against The Word Network",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-17T03:55:57Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32221/george-bloomer.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ecbe4b3c22cb89cc",
+      "title": "57th Dove Awards Honor Dolly Parton, Crown New Voices",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3A1d21qWnEyRTUwREFZb1EyMFJ0Qi05T25UejE0S0VlLVhVNlN0NlQxMVhLTXkycFp6b2RWb1F3Z00xQllRbHVLb19pTGJLakQ4WWJMblI4eE5HandpbzQ4MFQ1SEJoWFRWTHdvUjFVdUlJcnBRRzlKUHNIYm1PNEdKTW1MX1hTRkNraWxPNFpBZzN1N3pDQ3VrOGNNMmRIVEZTeE9COWs?oc=5",
+      "summary": "57th Dove Awards Honor Dolly Parton, Crown New Voices Patheos",
+      "outlet": "Patheos",
+      "outlet_url": "https://www.patheos.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-17T03:33:45Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-17T16:46:35Z",
+      "image_tried": "2026-10-17T04:46:35Z"
+    },
+    {
+      "id": "341ba0808ad6c510",
+      "title": "‘The Chosen’ actor backs Talarico as both Senate candidates court faith voters",
+      "link": "https://www.christianpost.com/news/the-chosen-actor-endorses-james-talarico-for-us-senate.html",
+      "summary": "Jordan Walker Ross, who plays Little James on “The Chosen,” is endorsing Democrat James Talarico for U.S. Senate and helping launch the campaign’s coalition for voters of faith.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-17T03:14:52Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272339_w_550_367_620_313.jpg?v=20261016233819",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5330c3716beeaf0a",
+      "title": "US midterms: Black church leaders broaden voter outreach ahead of elections",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcGpoNHltTUdGM2xmb1FGSExMTk1BcWtpc2tORDlWd2Myb3o1MTQ5amxUU2p5d3BpMm9tUUUxQ0JMQnlHcFRVYzZfTTVSa2NvaUZnczVxdUNGTThsZEViN3JsLXVic1MzTUhKdFNUclQ2VHNWZnVCOGc4aFRGRUx5ME1vbVROOGEtZEhqM3Z5ZFNjU2xUaGpTZUxGTnFiMFRrV1hkdjRnaEJxSk5vekdya3pocw?oc=5",
+      "summary": "US midterms: Black church leaders broaden voter outreach ahead of elections sightmagazine.com.au",
+      "outlet": "sightmagazine.com.au",
+      "outlet_url": "https://sightmagazine.com.au",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-17T01:56:45Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T04:46:35Z"
+    },
+    {
+      "id": "3204270949b25cdc",
+      "title": "Seattle Pastor Charged in $13 Million Fraud Scheme Tied to Planned Social Media Platform",
+      "link": "https://blackchristiannews.com/seattle-pastor-charged-in-13-million-fraud-scheme-tied-to-planned-social-media-platform/?utm_source=rss&utm_medium=rss&utm_campaign=seattle-pastor-charged-in-13-million-fraud-scheme-tied-to-planned-social-media-platform",
+      "summary": "By BCNN1 Staff KIRKLAND, Wash. — Cristian Popescu, the 46-year-old pastor of Passion for Christ, a Pentecostal congregation in Kirkland, The post Seattle Pastor Charged in $13 Million Fraud Scheme Tied to Planned Social Media Platform appeared first on Black…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-17T00:42:20Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/Saint_John_the_Evangelist_Church_28Fenton2C_MI29_-_stone_church_building2C_exterior2C_front-scaled.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "b7e6b05f724cb062",
       "title": "Album Review: Josh Baldwin’s “Worth Everything” Asks A Costly Question Behind Familiar Worship Words",
@@ -2388,6 +2517,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-10-16T10:54:45Z",
       "image_tried": "2026-10-15T22:54:45Z"
+    },
+    {
+      "id": "b3294e17555fe96a",
+      "title": "Tasha Cobbs Leonard - Smile / What A God",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFByNk1jUFZTNldtdFJ0OG9iSmgtVWZEQVAyWVdIYjh5YkdILW9KRFlXREJKNXNMakxLU2wyaGtjNW1pcHBVMjk4R012TnU1RjZBV3Mw?oc=5",
+      "summary": "Tasha Cobbs Leonard - Smile / What A God GodTube.com",
+      "outlet": "GodTube.com",
+      "outlet_url": "https://www.godtube.com",
+      "source_feed": "Google News: Tasha Cobbs Leonard",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-15T21:34:24Z",
+      "first_seen": "2026-10-17T04:46:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-17T04:46:35Z"
     },
     {
       "id": "c1d1bb673855500d",
@@ -8475,7 +8621,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-14T00:48:41Z"
+      "image_tried": "2026-10-17T04:46:35Z"
     },
     {
       "id": "0a0d1c3a2c5e4aad",
@@ -10911,158 +11057,6 @@
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32152/below.jpeg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ea5df78d9448ac8d",
-      "title": "Archbishop Gallagher: Migrant children must be welcomed, not merely assisted",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/archbishop-gallagher-migrant-children-must-be-welcomed.html",
-      "summary": "Celebrating Mass in Geneva for the World Day of Migrants and Refugees, Archbishop Paul Richard Gallagher stresses the importance of recognizing the dignity of displaced children and offering them a sense of belonging. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:39:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/12/gallagher-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9e587fc9f225d9ea",
-      "title": "Scores of people die in migrant boat tragedy off Horn of Africa",
-      "link": "https://www.vaticannews.va/en/world/news/2026-10/migrants-shipwreck-djibouti-yemen-iom-appeal.html",
-      "summary": "A migrant boat attempting to cross the Bab al-Mandeb Strait between Djibouti, in the Horn of Africa, and Yemen, on the Arabian Peninsula, leaves more than 130 dead and over 80 people still missing, Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:36:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/11/17/1791731702711.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "85a28575a7beafc1",
-      "title": "Pope: Charity is source of prayer, soul of action, expression of sacrifice",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-charity-prayer-service-action-circolo-san-pietro.html",
-      "summary": "In a meeting with members of the “Circolo di San Pietro,” an organisation in Rome that assists the most vulnerable, Pope Leo XIV emphasizes the importance of Christian charity as a guiding force. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:33:25Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/12/2026-10-12-soci-del-circolo-san-pietro/1791801000366.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b0d72afa40d56417",
-      "title": "What Happened To James Lew? New Report Reveals Hollywood Stunt Legend’s Cause Of Death",
-      "link": "https://www.jubileecast.com/articles/40162/20261012/what-happened-to-james-lew-new-report-reveals-hollywood-stunt-legend-s-cause-of-death.htm",
-      "summary": "What Happened To James Lew? New Report Reveals Hollywood Stunt Legend’s Cause Of Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T10:30:15Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32151/james-lew.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cfe1a1be1f36238f",
-      "title": "Pope Leo thanks Cardinal Re for service as Dean of College of Cardinals",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-sends-letter-former-dean-college-cardinals-battista-re.html",
-      "summary": "After receiving his resignation as Dean of the College of Cardinals, Pope Leo XIV sends a letter to Cardinal Giovanni Battista Re, expressing his gratitude for all his years of service with the Holy See, and stresses that the Cardinal is “one of the…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:06:00Z",
-      "first_seen": "2026-10-12T19:54:56Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/05/10/2025-05-10-incontro-con-i-cardinali---aula-del-sinodo/1746876133319.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "459bc3c55a0b2d5d",
-      "title": "A Baptist Brought Jesus to Burma. His Spiritual Descendants Bought His Birthplace.",
-      "link": "https://www.christianitytoday.com/2026/10/burma-christian-adoniram-judson-malden-house/",
-      "summary": "Whenever diaspora Burmese Christians gathered in Boston, they would drive up to the 18th-century white colonial-style house on 145 Main Street in Malden, Massachusetts, where Baptist missionary Adoniram Judson was born and lived for the first four and a half…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:00:00Z",
-      "first_seen": "2026-10-12T10:06:20Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/adoniram-judson-birthplace-home.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ebf26c6de233280",
-      "title": "3 Myths About Christian Nationalism",
-      "link": "https://www.christianitytoday.com/2026/10/3-myths-about-christian-nationalism-survey-sociology-research/",
-      "summary": "As a sociologist of religion, I’ve had a front-row seat to the explosive growth of debate over Christian nationalism in America. Early on, I thought the concept was a helpful one. Like many, I was troubled and bewildered by widespread conservative Christian…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:00:00Z",
-      "first_seen": "2026-10-12T10:06:20Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/3-myths-about-christian-nationalism.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "00400eda3ced5e6f",
-      "title": "Review: ‘Christianity at a Crossroads’",
-      "link": "https://www.christianitytoday.com/2026/10/review-christianity-at-a-crossroads/",
-      "summary": "Any number of recent surveys indicate an upheaval in American Christianity. Political scientist Ryan Burge’s work, which has set the pace for several years now, alongside studies by the Pew Research Center and the Public Religion Research Institute, provides…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T10:00:00Z",
-      "first_seen": "2026-10-12T10:06:20Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/christianity-at-crossroads-documentary.jpg?resize=1200,628",
-        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
