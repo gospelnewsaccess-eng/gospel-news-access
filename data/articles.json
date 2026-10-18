@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-10-17T23:16:25Z",
+  "generated_at": "2026-10-18T01:19:49Z",
   "story_count": 600,
-  "with_photo": 433,
+  "with_photo": 432,
   "items": [
+    {
+      "id": "1c3dabf022c777ab",
+      "title": "Alabi, Chinwo, Sinach, others celebrate Chinyere Udoma at 50",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVctNUNBb3NLdUF4ajhySjA4dTRLeVd5ZXcxTmM3a0trNGFya0JKa1ZmQXowVkVyVllCR1RMWUllZ1NUUE1hZ09LaVF4bXU5dHFab0F5dHNVZW9YZWN5LXNacWg5eWRPZ1Z5Rm1iZVJuMk11MnFFMzZBZGRFbTR3TGNrZnB6bGVnQ3NISDM2N1pLUVlEc2tWTlA4dFBqd3B4aEJLN0JpV01lM3IzcWlWbWg3V2VTQ0VJMjVB?oc=5",
+      "summary": "Alabi, Chinwo, Sinach, others celebrate Chinyere Udoma at 50 Punch Newspapers",
+      "outlet": "Punch Newspapers",
+      "outlet_url": "https://punchng.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-17T23:48:45Z",
+      "first_seen": "2026-10-18T01:19:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T01:19:49Z"
+    },
+    {
+      "id": "a3c6001eb99b3023",
+      "title": "Tosin Bee hosts Praise Affair in Lagos",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wdUgzMVVVWUVyd0NfclFNQ3RwYjEwbkJBWEs4UjhiOW5DYVhQbjh2WUJwajNaa1NQV0d6SmV3d0FZWmtsZU90T2Z1Y0VQbEl5dG1PNU1RWFVmbGdmdlAw?oc=5",
+      "summary": "Tosin Bee hosts Praise Affair in Lagos Punch Newspapers",
+      "outlet": "Punch Newspapers",
+      "outlet_url": "https://punchng.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-17T23:42:13Z",
+      "first_seen": "2026-10-18T01:19:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T01:19:49Z"
+    },
+    {
+      "id": "4e14ee64c7ff8b43",
+      "title": "Griffin McCoy Joins Infiltrate Music; 1st Single ‘SELF SERVICE’",
+      "link": "https://rapzilla.com/2026-10-griffin-mccoy-joins-infiltrate-music-1st-single-self-service/",
+      "summary": "Infiltrate Music is excited to announce a partnership with the rapidly growing Griffin McCoy. You may recognize the name from his “JESUS IS ALIVE REMIX” on Forrest Frank’s Remix album. “I’m really excited to be announcing I’m partnering with Infiltrate Music…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-17T23:41:45Z",
+      "first_seen": "2026-10-18T01:19:49Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/17193759/IMG_2264-Griffin-McCoy-scaled-e1792280336564.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "d7529a4d1fddc3a4",
       "title": "These Military Leaders Are Protecting Democracy with Admiral Michael E. Smith",
@@ -2019,6 +2072,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-16T18:52:53Z"
+    },
+    {
+      "id": "1c5fd9058774186a",
+      "title": "Beyond the Pink Ribbon: The Fight for Equitable Breast Cancer Care for Black Women",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbkg0bkNyb1Y1a3BDNWViOVpnamV3aHZ4QWZ6Z3haVjBRY016c2trWms2dVNWQk9KTndRa3F3Uk5PYkhUSVFDV0pYREdYenNlVzBvRFVpTUl5cjhXWndpSTBmSXN4d3RRYTByVTF1UjgxUDdaR3prTEJwUEpZSjBtY0lOaG1fNUlJVGhXVDlsWlY1V2pkQVY3MzFQUHk2VzRqWl91ZWRycm0?oc=5",
+      "summary": "Beyond the Pink Ribbon: The Fight for Equitable Breast Cancer Care for Black Women EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-16T16:00:21Z",
+      "first_seen": "2026-10-18T01:19:49Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T01:19:49Z"
     },
     {
       "id": "e4f95dcfe8986b28",
@@ -6301,7 +6371,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-15T13:15:01Z",
-      "image_tried": "2026-10-15T01:15:01Z"
+      "image_tried": "2026-10-18T01:19:49Z"
     },
     {
       "id": "1dc514ad373b905c",
@@ -6648,7 +6718,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T01:15:01Z"
+      "image_tried": "2026-10-18T01:19:49Z"
     },
     {
       "id": "097e74faa4e2abc6",
@@ -9767,7 +9837,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T01:15:01Z"
+      "image_tried": "2026-10-18T01:19:49Z"
     },
     {
       "id": "cd050cb23f6ada5b",
@@ -10996,78 +11066,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-16T05:31:01Z"
-    },
-    {
-      "id": "3e9c06cc496a9f7a",
-      "title": "Here's Why Kid Rock Chose Such a Specific Time of Day to Release His Christian Album",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LbW82T2wyWVhmdzJ0R2t4RFlpM2ppLXZza0J6OUJacW1TcFhVelFYOTVZdE0ycFIzbXp3MEJrb0RKZU5sbEp5Yi04cnB3Nnc5VTNKd1VjTV96ZnBCbkZoVEphME9uZw?oc=5",
-      "summary": "Here's Why Kid Rock Chose Such a Specific Time of Day to Release His Christian Album Taste of Country",
-      "outlet": "Taste of Country",
-      "outlet_url": "https://tasteofcountry.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-12T20:34:16Z",
-      "first_seen": "2026-10-17T00:06:23Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-17T00:06:23Z"
-    },
-    {
-      "id": "7d270a9e3725a334",
-      "title": "Dorothy Moore turns 80 as Robinson Center marks 50 years of “Misty Blue”",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeWdHLWRvR3lkamdyRnpXeDVxRUdzZVV6Qm9qX1VOTXBFNFUzRFU5R2w1WkVYbWt6QXhvbk85SUJHQkJtUjk3ZHRIZ19mM1M2bV9vcVJFTXlCVjMtZWhyb1NJb3U4bGhraUZ4N2s5b3RfYUlfaVduZmU0ZUJDOS1OcU1nOGQ3WlpJeUhtUG9DdEU5emxnOFZmeUNLZkNQbHR2UVNRbnhLc0Yzd0xyNEdmcHF5Vy1jb3hOMldQQllIV2FTZ2xtNzc5OHdKcXlqNGlCQ3I0cHpUaTY4WTZKVElObnQ0aElITWhPUHZXTGZ3?oc=5",
-      "summary": "Dorothy Moore turns 80 as Robinson Center marks 50 years of “Misty Blue” KATV",
-      "outlet": "KATV",
-      "outlet_url": "https://katv.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-12T20:31:58Z",
-      "first_seen": "2026-10-13T08:50:27Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T10:30:49Z"
-    },
-    {
-      "id": "1b4938510337d907",
-      "title": "‘A Bar Song’ Star Shaboozey’s Concert Prayer Draws A Powerful Response From Brandon Lake",
-      "link": "https://www.jubileecast.com/articles/40175/20261012/a-bar-song-star-shaboozey-s-concert-prayer-draws-a-powerful-response-from-brandon-lake.htm",
-      "summary": "‘A Bar Song’ Star Shaboozey’s Concert Prayer Draws A Powerful Response From Brandon Lake",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T20:15:16Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29549/shaboozey.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c56fbac5bdd4c2fd",
-      "title": "‘Big Brother’ Season 8 Star Amber Siyavus Dies At 46 As Julie Chen Moonves Shares Faith-Filled Tribute",
-      "link": "https://www.jubileecast.com/articles/40174/20261012/big-brother-season-8-star-amber-siyavus-dies-at-46-as-julie-chen-moonves-shares-faith-filled-tribute.htm",
-      "summary": "‘Big Brother’ Season 8 Star Amber Siyavus Dies At 46 As Julie Chen Moonves Shares Faith-Filled Tribute",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T20:07:37Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32158/amber-siyavus.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
