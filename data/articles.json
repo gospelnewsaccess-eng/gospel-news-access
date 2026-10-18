@@ -1,8 +1,285 @@
 {
-  "generated_at": "2026-10-18T01:19:49Z",
+  "generated_at": "2026-10-18T06:15:59Z",
   "story_count": 600,
-  "with_photo": 432,
+  "with_photo": 430,
   "items": [
+    {
+      "id": "b46d6dd38e7f19ef",
+      "title": "Is Bethel Music Coming To Nashville? Oct. 25 Show At Brooklyn Bowl: Time, Tickets And What To Expect",
+      "link": "https://www.jubileecast.com/articles/40329/20261018/bethel-music-nashville-october-25-brooklyn-bowl-tickets.htm",
+      "summary": "Is Bethel Music Coming To Nashville? Oct. 25 Show At Brooklyn Bowl: Time, Tickets And What To Expect",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-18T06:12:06Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28364/bethel-music.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fdf489df3b4c44e2",
+      "title": "Hendrina gospel artist makes her mark in the music industry",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnNNcDZSV3RLcENnY3h5VkdZTkZpNzhGeEZmbWl6SERQYVFRNHZIbjVNZHNuYzJLdXE5UEEzVVFaYi15cFhZYTFqNkdxQmoyMlNWX25VSDA4LW1BcmdXZE9UTGNFSFJLVlFPT01mTm1YcmNPUmZfQ3ppbTlqU0Jyd085ZGo3WDVxakZPb002UFZhdmxkWDBIZUNNZ3FOT3JKWjVkNXJVQWxjRDhPeldYOXNoRXJPZVI5UlJmZWJtdw?oc=5",
+      "summary": "Hendrina gospel artist makes her mark in the music industry The Citizen",
+      "outlet": "The Citizen",
+      "outlet_url": "https://www.citizen.co.za",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-18T06:10:17Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-18T18:15:59Z",
+      "image_tried": "2026-10-18T06:15:59Z"
+    },
+    {
+      "id": "e580ebb55690c498",
+      "title": "Is Netflix’s \"Sacrifice\" Okay For Christians? What Believers And Parents Should Know Before Watching",
+      "link": "https://www.jubileecast.com/articles/40328/20261018/is-sacrifice-netflix-okay-for-christians-parents-guide.htm",
+      "summary": "Is Netflix’s \"Sacrifice\" Okay For Christians? What Believers And Parents Should Know Before Watching",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-18T06:02:59Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32235/sacrifice.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "54746430f674c181",
+      "title": "Taylor Swift Closes The Academy Museum Gala In Ice Blue Dior: What To Know About The Night",
+      "link": "https://www.jubileecast.com/articles/40327/20261018/taylor-swift-academy-museum-gala-where-to-watch-performance.htm",
+      "summary": "Taylor Swift Closes The Academy Museum Gala In Ice Blue Dior: What To Know About The Night",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-18T05:48:33Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32234/taylor-swift.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "57924ecf17a2a165",
+      "title": "Why Did Eminem Join Kid Rock’s Christian Album? His Answer: \"Not About Choosing Sides\"",
+      "link": "https://www.jubileecast.com/articles/40326/20261018/eminem-kid-rock-heal-my-faith-not-about-choosing-sides.htm",
+      "summary": "Why Did Eminem Join Kid Rock’s Christian Album? His Answer: \"Not About Choosing Sides\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-18T05:18:11Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32233/eminem.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d2f1b7b6e43f1e55",
+      "title": "Uniting Hearts Festival brings Victoria community together",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQ2hVQjdTNGtPQW5uUVNXVTBxajV5ZTQ1Q0xGMWt5SURXOWhKWDVMQ3hDN3VhRzVpX0k2VExlNUpTeTlQWk15N2ZUUmZzcFFac0FTbTVld2JsSXUtUG5jZFd6VDdodHh6QVVFS1V3TU9hYjJZaldZZlItcU92STMyaU1BTGIwd1ZLNXJfcmVNV1ZXMTRHREdxdWdfazdEUGF0VkpvYndablR5Y0dlVm1IZkZKUVpmeG9BOGtmMktSajR6elllejF2QmRtRnEyd2htRmVzMFZqZWxpR01OUElUOXRUSmdValJBbUhhUQ?oc=5",
+      "summary": "Uniting Hearts Festival brings Victoria community together crossroadstoday.com",
+      "outlet": "crossroadstoday.com",
+      "outlet_url": "https://www.crossroadstoday.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-18T04:45:00Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T06:15:59Z"
+    },
+    {
+      "id": "653c9867f12dcc14",
+      "title": "Travel: In St. John’s, a different side of Canada",
+      "link": "https://www.christianpost.com/news/travel-in-st-johns-a-different-side-of-canada.html",
+      "summary": "St. John’s is hardly off the map. Still, the provincial capital of Newfoundland and Labrador (population 110,525) may be best discovered in fall and winter, when the absence of cruise ships means the crowd is more local.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T04:07:00Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272354_w_550_367_600_497.jpg?v=20261018000800",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "dd55a09aed4e3614",
+      "title": "Yes, LGBT identity really is in free fall among American teens",
+      "link": "https://www.christianpost.com/voices/yes-lgbt-identity-really-is-in-free-fall-among-american-teens.html",
+      "summary": "What goes up so quickly eventually comes down just as fast. After years of explosive growth, the share of American teens identifying as LGBT is falling sharply, and the steepest drops are among younger girls.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T04:06:05Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272351_w_550_367.jpg?v=20261018000712",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "78716439ce1ae169",
+      "title": "4 truths to speak when envy says you’re not enough",
+      "link": "https://www.christianpost.com/voices/4-truths-to-speak-when-envy-says-youre-not-enough.html",
+      "summary": "Most of us know how a good day can unravel in five minutes. One glimpse of someone else’s life, and contentment turns into envy. Psalm 73 offers a better way: when God becomes our portion, another person’s success no longer leaves us with less.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T04:04:24Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272350_w_550_367_594_358.jpg?v=20261018000632",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b5ea13b04d3956a5",
+      "title": "Christianity Today republishes article about Elisabeth Elliot's sexuality",
+      "link": "https://www.christianpost.com/news/christianity-today-posts-controversial-elisabeth-elliot-article.html",
+      "summary": "Christianity Today republished an article Friday that had earlier been removed amid backlash for speculating on the sexuality of the late Elisabeth Elliot, wife of the famous martyred missionary Jim Elliot.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T04:02:57Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272355_w_550_309.jpg?v=20261018000526",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "61b2001e09c9536c",
+      "title": "Episcopal Church membership has dropped by nearly 350K since 2015",
+      "link": "https://www.christianpost.com/news/episcopal-church-membership-dropped-by-nearly-350k-since-2015.html",
+      "summary": "The Episcopal Church continued its yearslong decline last year, having around 350,000 fewer members in 2025 than they had a decade before, according to a new report.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T04:00:09Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272346_w_550_365_588_240.jpg?v=20261018003746",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2ba0da8dbbefb1bf",
+      "title": "Ryan Trey Enlists Lecrae, Alex Jean, & Sam Rivera for Debut Christian Albun ‘FAITH OVER FAME’",
+      "link": "https://rapzilla.com/2026-10-ryan-trey-lecrae-alex-jean-sam-rivera-christian-album-faith-over-fame/",
+      "summary": "The landscape of Christian hip-hop and R&B had a major addition. R&B singer, rapper, and genre-blending innovator Ryan Trey has officially made his transition into the faith space with the release of his debut Christian/gospel project, FAITH OVER FAME. Known…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-18T02:58:11Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/17225638/827856251_18632037079063301_1484759795323829879_n-scaled-e1792292247502.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1aa6c8d841ab2e7d",
+      "title": "57th Annual Dove Award Winners Announced",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUNJaFlhQ1pyQVFEVlJqWTAta0p1cVNsYTN5azRRbVo2MmxGTmRHeG1tV2s4N1ZReF92ellydXY4b2V1bWV1dWtsMjdvWTZ3VHdrVGJod2JGTjJxLVI5Z0Y0cGtRMk9RbmpZSkcyQVItYmEyZmp4VTcxRFg1YW85Zmp3LWRZTmlOb3RXTC1WVkU?oc=5",
+      "summary": "57th Annual Dove Award Winners Announced Journal of Gospel Music",
+      "outlet": "Journal of Gospel Music",
+      "outlet_url": "https://journalofgospelmusic.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-18T02:45:31Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T06:15:59Z"
+    },
+    {
+      "id": "66ae93a4d0ce389f",
+      "title": "Tony Dungy on NBC exit: ‘They don’t always appreciate you speaking about your faith’",
+      "link": "https://www.christianpost.com/news/tony-dungy-talks-faith-pro-life-activism-and-exit-from-nbc.html",
+      "summary": "Former NFL coach and longtime sportscaster Tony Dungy suggested his pro-life activism and willingness to speak publicly about his Christian faith may have contributed to his departure from NBC Sports, though he said he cannot be certain.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T02:22:37Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272347_w_550_307_566_180.jpg?v=20261017222221",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d2213934f74aba81",
+      "title": "Black Church hosts Berlin choir on 22 October - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZlAza3l4alRrcF9mUVZxTUFEb2p4TDJxOUNJeWxUeUhSUEJCR2FWem5jc24zeTNpTzQ4U2JQaFZkeWtLRXVpS1hIcGxiSEZMMVpwYTl4Z0hmaTByNkt3MV9RdXBrdnlvVlp1dk5BOEs0UTBueFFBTmk3UEltdVVOUERsUlJoSzNlX0w3anFkWTZLVVJVVzd2NGdQdmxTSVptX3p3?oc=5",
+      "summary": "Black Church hosts Berlin choir on 22 October ad-hoc-news.de",
+      "outlet": "ad-hoc-news.de",
+      "outlet_url": "https://www.ad-hoc-news.de",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-18T01:22:04Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T06:15:59Z"
+    },
     {
       "id": "1c3dabf022c777ab",
       "title": "Alabi, Chinwo, Sinach, others celebrate Chinyere Udoma at 50",
@@ -199,6 +476,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-17T18:40:47Z"
+    },
+    {
+      "id": "1d738f2ce8bb38c2",
+      "title": "Emimen Defends Kid Rock Collab: \"Just Choosing to Make Music with My Old Friend\"",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tamJ3aE5oTk9fM1ZRSHFEZXNHaTh2VEstSy1SN0l5VnhOek9sWHdGODRjNUNnMkgwWk1CNWJORmtOSVJEYlhac1liMk5ZQjlGMWlJdUstT3pya2VIQy14X3dPcWhlUUNyYjZqZFhXN28?oc=5",
+      "summary": "Emimen Defends Kid Rock Collab: \"Just Choosing to Make Music with My Old Friend\" Consequence of Sound",
+      "outlet": "Consequence of Sound",
+      "outlet_url": "https://consequence.net",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-17T15:34:06Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T06:15:59Z"
     },
     {
       "id": "08b473ababd6ddcf",
@@ -6092,7 +6386,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T06:07:32Z"
+      "image_tried": "2026-10-18T06:15:59Z"
     },
     {
       "id": "f265a447c96d2bfc",
@@ -6204,7 +6498,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T06:07:32Z"
+      "image_tried": "2026-10-18T06:15:59Z"
     },
     {
       "id": "bc193bebb4cc3f4b",
@@ -7162,7 +7456,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T06:07:32Z"
+      "image_tried": "2026-10-18T06:15:59Z"
     },
     {
       "id": "f37bfd12736be52b",
@@ -7179,7 +7473,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T06:07:32Z"
+      "image_tried": "2026-10-18T06:15:59Z"
     },
     {
       "id": "9b7c78762e2d0870",
@@ -7289,7 +7583,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T06:07:32Z"
+      "image_tried": "2026-10-18T06:15:59Z"
     },
     {
       "id": "378e2d0ef09cc1b6",
@@ -9609,6 +9903,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "67343b975f272a20",
+      "title": "Black church leaders broaden voter outreach ahead of midterm elections",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3hTeXZET2RUZGRLS2luRFRSdG1URjNuUHJmem5VZmJHampKZTBQSTlsZS1pMGhoWjJfX0FfaGpDNEY3N0pOemlYbnZkX1V5UFRNNG5YOXlfbzZ5WFpmSlExY3h4WV96UmhLWi1OcElQMm5QWHUyX0poWkZjUUw5OWJ0Nm9OQ3A2UkJDdGlfN2pvWUtLUUVZUHQxTGxxWmc?oc=5",
+      "summary": "Black church leaders broaden voter outreach ahead of midterm elections National Catholic Reporter",
+      "outlet": "National Catholic Reporter",
+      "outlet_url": "https://www.ncronline.org",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-13T16:23:38Z",
+      "first_seen": "2026-10-18T06:15:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T06:15:59Z"
+    },
+    {
       "id": "5840d2974b555574",
       "title": "South Orange SOPAC Hosts Blind Boys Of Alabama: How To Get Tickets",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ1RjZE1rd2NBajFCMFdJQjBUeHA4dE5uZXN2c1lCM0hWd2lFOElyVGN4dHRUbnFCRzlneHVoaG9TemtEaGloT0F4cGs1NF9yYi1uQmJCNHJ3SjRKMDJzcmUtRzFrVGFUTmdLZTNVZTRlVDNUSzRXQWl5MXFKQWs3V0RPdjdtVXNuZjhZMktmY3VvSWVObmNNUTFRUUdmMjVNMkHSAbsBQVVfeXFMTUU4SkluaFJ3VFU5RXVlRnE4STF3TEpUNUt2VTl6ZTh2U0xucU8yV3d5NXBQVUtfbEVJeVB5ZDZwbmZILWdPU1lTQXVqMTBaYUh3OV9BMTJhWU1RTXUtdmFtb21RdGk4ZFVwXzNmQ3d0dF9OcGZUZkdnR2lxRnAzb1FxOHdXdlM1NFN1ZG0zV0hETXFjbTdYRjQ0SDVsQzNyaXo4NmUwS0REYjNTQkVPZTBkZjZXYm5OWnA0VQ?oc=5",
@@ -10751,321 +11062,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "cef42e901f6ddac4",
-      "title": "Charles Weems Releases Debut EP I Will Follow, Featuring “God Is Everywhere”",
-      "link": "https://www.jubileecast.com/articles/40184/20261012/charles-weems-i-will-follow-debut-ep.htm",
-      "summary": "Charles Weems Releases Debut EP I Will Follow, Featuring “God Is Everywhere”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T23:02:10Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32164/charlee-weems-i-will-follow.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c2b4782e3b37fe5b",
-      "title": "What Is Selma Blair Charged With After the Delta Flight Incident? What Police and Her Team Say",
-      "link": "https://www.jubileecast.com/articles/40183/20261012/selma-blair-arrested-delta-flight-charges-what-we-know.htm",
-      "summary": "What Is Selma Blair Charged With After the Delta Flight Incident? What Police and Her Team Say",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T22:59:07Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32163/selma-blair.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fbeacaa558470d03",
-      "title": "Who Was RJ Mitte? The “Breaking Bad” Star Who Became a Voice for Disability Rights",
-      "link": "https://www.jubileecast.com/articles/40182/20261012/who-was-rj-mitte-breaking-bad-star-disability-advocate-legacy.htm",
-      "summary": "Who Was RJ Mitte? The “Breaking Bad” Star Who Became a Voice for Disability Rights",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T22:48:54Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32162/rj-mitte.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d4c3bb77631b6b49",
-      "title": "Pope Leo XIV Will Be Admitted to Gemelli Hospital Tuesday: What the Vatican Has Announced",
-      "link": "https://www.jubileecast.com/articles/40181/20261012/pope-leo-xiv-admitted-gemelli-hospital-tuesday.htm",
-      "summary": "Pope Leo XIV Will Be Admitted to Gemelli Hospital Tuesday: What the Vatican Has Announced",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T22:41:46Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32145/pope-leo-xiv.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7fe0c5bb1b549539",
-      "title": "Cory Asbury Gets Emotional At Dove Awards—What Left The “Reckless Love” Singer So Shaken?",
-      "link": "https://www.jubileecast.com/articles/40180/20261012/cory-asbury-gets-emotional-at-dove-awards—what-left-the-reckless-love-singer-so-shaken.htm",
-      "summary": "Cory Asbury Gets Emotional At Dove Awards—What Left The “Reckless Love” Singer So Shaken?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T22:26:56Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27592/cory-asbury.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "85a71ea487f1581d",
-      "title": "Chris Tomlin’s Daughter Ashlyn Exclusively Opens Up About “The One,” Her Famous Father, And Finding Her Own Faith",
-      "link": "https://www.jubileecast.com/articles/40179/20261012/chris-tomlin-s-daughter-ashlyn-exclusively-opens-up-about-the-one-her-famous-father-and-finding-her-own-faith.htm",
-      "summary": "Chris Tomlin’s Daughter Ashlyn Opens Up About “The One,” Her Famous Father, And Finding Her Own Faith",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T21:40:28Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32161/ashlyn-tomlin.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "49964c31c2058f02",
-      "title": "Highland Park proposes leaving denomination",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MTHlzUHROQS04ak9qZERRUW5kRWFmVlhSTTZHb1hCSjU0V1VqUDcwT1haM25oVzlMNi1WS2RGUWZJTF94UV9TejFpM0UzSzlKa04ySTgyb2dmYnVZdXBPc2s2VGhYM3FqTkdzeTN5ZFBVTUZRV0JqWEhUcHBVaVU?oc=5",
-      "summary": "Highland Park proposes leaving denomination UM News",
-      "outlet": "UM News",
-      "outlet_url": "https://www.umnews.org",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-12T21:26:11Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T05:31:01Z"
-    },
-    {
-      "id": "92a2c9927fea6a32",
-      "title": "What to know about Pope Leo XIV’s upcoming lung surgery",
-      "link": "https://religionnews.com/2026/10/12/what-to-know-about-pope-leo-xivs-lung-surgery-on-tuesday/",
-      "summary": "VATICAN CITY (RNS) — As Pope Leo XIV prepares for surgery to remove a lung nodule, questions have arisen about what prompted the procedure, how long he will remain in the hospital and who runs the Vatican during his absence.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T21:25:13Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2026/10/Vatican_Pope_26284369740018-scaled.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "35d5d3bf38599ef2",
-      "title": "Who is Katie Zacharia: 5 things to know about Trump's new White House press secretary",
-      "link": "https://www.christianpost.com/news/katie-zacharia-5-facts-about-trumps-new-white-house-press-secretary.html",
-      "summary": "Katie Zacharia began her tenure as White House press secretary Monday and is scheduled to hold her first press briefing Tuesday, after President Donald Trump announced her appointment. Here are five things to know about the Christian mother of four, legal…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T21:18:05Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272271_w_550_367_580_328.jpg?v=20261012180444",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "03daa1c8b11c553c",
-      "title": "RJ Mitte Dead At 34: Questions Remain After “Breaking Bad” Star’s Reported Death",
-      "link": "https://www.jubileecast.com/articles/40178/20261012/rj-mitte-dead-at-34-questions-remain-after-breaking-bad-star-s-reported-death.htm",
-      "summary": "RJ Mitte Dead At 34: Questions Remain After “Breaking Bad” Star’s Reported Death",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T20:57:37Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32160/rj-mitte.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d7504a68fcaf7298",
-      "title": "Christa Pike’s Failed Execution Takes New Turn As Emergency Records Raise Troubling Questions",
-      "link": "https://www.jubileecast.com/articles/40177/20261012/christa-pike-s-failed-execution-takes-new-turn-as-emergency-records-raise-troubling-questions.htm",
-      "summary": "Christa Pike’s Failed Execution Takes New Turn As Emergency Records Raise Troubling Questions",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T20:53:29Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31994/christa-pike.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "db8379a870477cf1",
-      "title": "‘I’m Getting Wrecked’—Cory Asbury Gets Emotional Reflecting on Dove Awards",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93SzBvVmNfb1JMbGozd0NYRTFuWm5VVlZPMjJlVjYtWUNUOF9fWUFWU1V1QXVLb3JRel9FZ1ZwdzJmTURwQnI5V1pJZzdEQVpSeVVwUHlybXhkY1c1M1U5U0VIY3FranhydDY3Y0JqSFBBT1owSVE?oc=5",
-      "summary": "‘I’m Getting Wrecked’—Cory Asbury Gets Emotional Reflecting on Dove Awards ChurchLeaders",
-      "outlet": "ChurchLeaders",
-      "outlet_url": "https://churchleaders.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-12T20:49:39Z",
-      "first_seen": "2026-10-13T21:41:52Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T21:52:28Z"
-    },
-    {
-      "id": "9354b3f42c335b85",
-      "title": "ACI Prensa becomes EWTN News Español",
-      "link": "https://www.ewtnnews.com/world/americas/aci-prensa-becomes-ewtn-news-espanol",
-      "summary": "The platform and name are new, but the mission is the same: report the truth and bring the faith to the Spanish-speaking world.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T20:45:55Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791827767/ewtn-news/es/EWTN-News-Espanol_ymo0ex.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7b7429739266cf17",
-      "title": "Hillsong Worship’s ‘Let There Be Light’ Turns 10: The Album Behind ‘What A Beautiful Name’",
-      "link": "https://www.jubileecast.com/articles/40176/20261012/hillsong-worship-s-let-there-be-light-turns-10-the-album-behind-what-a-beautiful-name.htm",
-      "summary": "Hillsong Worship’s ‘Let There Be Light’ Turns 10: The Album Behind ‘What A Beautiful Name’",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-12T20:45:55Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32159/hillsong-worship.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e28e2a25184be91",
-      "title": "Kid Rock, Eminem putting political differences aside to make Christian album",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOMUJLdzhRVlh2QW1td1FYaW85YWlFeVlDTkdja1I1Q19MV296Q0ZJX2xLdkl1ZUp4aXFqSlZHRVNFTEN2MUpaNG1jOXFjTzZsQ25NRkZYSHZHM1g3ZGp6dXlXcWpzbEpqZ0NkTUZIRkIxQ2h1XzdMXzRDb9IBgAFBVV95cUxPOUxFOWMwNG9SM1JiTE9JT2ppcWxUa1hsZ2pESTdVWXdJTzU0aWJ4MHhlckpkZW9wa3RQYkhQSXpubXQ3bjNfbGZ0Vmlla2JaRnBjcFdYU3MxRTRTcnRXcXdIT294dUt5Znhqa2FTbk5tWUtSMEJtNUpmc0RKVDQ5Vw?oc=5",
-      "summary": "Kid Rock, Eminem putting political differences aside to make Christian album NewsNation",
-      "outlet": "NewsNation",
-      "outlet_url": "https://www.newsnationnow.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-12T20:44:41Z",
-      "first_seen": "2026-10-17T23:16:25Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-17T23:16:25Z"
-    },
-    {
-      "id": "f13189c2777d0ce2",
-      "title": "Ilhan Omar Claims Trump Weaponized Law Enforcement in Home Raid",
-      "link": "https://mycharisma.com/news/ilhan-omar-claims-trump-weaponized-law-enforcement-in-home-raid/",
-      "summary": "Responses have now poured in since the morning raid on Rep. Ilhan Omar’s (D-MN) home. The action from Homeland Security Investigations (HSI) comes as Omar is under investigation for immigration fraud. Omar blamed President Trump for the raid, claiming that he…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T20:37:01Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7b405070d1b0f270",
-      "title": "Australian bishop acknowledges 8-year delay in justice in Indigenous abuse case but defends process",
-      "link": "https://religionnews.com/2026/10/12/australian-bishop-acknowledges-8-year-delay-in-justice-in-indigenous-abuse-case-but-defends-process/",
-      "summary": "VATICAN CITY (AP) — The Vatican typically allows criminal investigations to play out before initiating canonical trials so as not to interfere, and that is especially so now in Australia, after the church's wretched legacy there of abuse and cover-up.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-12T20:35:30Z",
-      "first_seen": "2026-10-13T01:45:49Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T05:31:01Z"
     }
   ]
 }
