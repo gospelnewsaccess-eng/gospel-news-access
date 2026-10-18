@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-18T15:14:28Z",
+  "generated_at": "2026-10-18T18:13:34Z",
   "story_count": 600,
-  "with_photo": 431,
+  "with_photo": 429,
   "items": [
+    {
+      "id": "b999a859918c11c9",
+      "title": "Chicago Gospel Icon McReynolds Coming To Notre Dame In 2027",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEVlMWl5NXpwNlBsbEFncU1TNHI1cXJBbVdVQ1JfZ25IWlZJaGJoTjdyWjN6bHY5M1BMUUtTVmNEekwtd2JiNUxhSExZZ2JuNVN2ajR4Z25Ydk02Y240ZnpiSks2RkZvTGdkbmlNUzl6WEc4dEhWb1h1UEpxQlZyWXZlNjdpYTJFQ3hBREdNNnJoMTBjcHRtWjVjVlFLTG9L?oc=5",
+      "summary": "Chicago Gospel Icon McReynolds Coming To Notre Dame In 2027 InkFreeNews.com",
+      "outlet": "InkFreeNews.com",
+      "outlet_url": "https://www.inkfreenews.com",
+      "source_feed": "Google News: Jonathan McReynolds",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-18T18:00:23Z",
+      "first_seen": "2026-10-18T18:13:34Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-19T06:13:34Z",
+      "image_tried": "2026-10-18T18:13:34Z"
+    },
+    {
+      "id": "469648a225a769e0",
+      "title": "This week in Christian history: 'The Message' author dies; Edict of Nantes revoked",
+      "link": "https://www.christianpost.com/news/this-week-in-christian-history-the-message-author-dies.html",
+      "summary": "Events from this week in Christian history include the death of Eugene Peterson, the revocation of the Edict of Nantes and Pope Clement VI denouncing self-flagellation.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-18T15:55:26Z",
+      "first_seen": "2026-10-18T18:13:34Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272331_w_550_287.jpg?v=20261018120804",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c425fa5c0da3ee3b",
+      "title": "Kirk Franklin Gives Atlanta An Exclusive First Listen To ‘I AM WHAT I AM,’ Talks Mental Health, Musical Authenticity And Finding His Voice After 33 Years [Exclusive]",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mTmlTVXBkb3YtNWtiTEJqdklEaUxqT2NxWloxakc4Q1RmUG15eS1Kd3k4SDVuc2JkZGlvN3BBdTg5ZUQ4UklqV19BUkRoV0ZRcmFaVHI1aDZiOEFrNlRVZmZMTU9IbDhVQmFVb2V5VFJLOGRyU29sUWlQREo?oc=5",
+      "summary": "Kirk Franklin Gives Atlanta An Exclusive First Listen To ‘I AM WHAT I AM,’ Talks Mental Health, Musical Authenticity And Finding His Voice After 33 Years [Exclusive] Bossip",
+      "outlet": "Bossip",
+      "outlet_url": "https://bossip.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-18T15:51:27Z",
+      "first_seen": "2026-10-18T18:13:34Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T18:13:34Z"
+    },
+    {
+      "id": "c693282e40d6c6d8",
+      "title": "Why Jesus Christ Is So Precious, Part 5: Precious Because of His Promises (1 Peter 2:1-8)",
+      "link": "https://blackchristiannews.com/why-jesus-christ-is-so-precious-part-5-precious-because-of-his-promises-1-peter-21-8/?utm_source=rss&utm_medium=rss&utm_campaign=why-jesus-christ-is-so-precious-part-5-precious-because-of-his-promises-1-peter-21-8",
+      "summary": "By Daniel Whyte III Ladies and gentlemen, brothers and sisters in Christ Jesus, by God’s grace I want to preach The post Why Jesus Christ Is So Precious, Part 5: Precious Because of His Promises (1 Peter 2:1-8) appeared first on Black Christian News Network…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-18T15:31:23Z",
+      "first_seen": "2026-10-18T18:13:34Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/media-generation-precious-crown-jewels-0-61ff5684-0f3d-4917-a19d-f56ecc65d78b.webp",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "5b1eb543f459e251",
       "title": "Fighting intensifies in Yemen as humanitarian crisis deepens",
@@ -2105,6 +2177,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "3271b94b68bcaffe",
+      "title": "MercyMe, Ben Fuller, and Peter Burton to perform at Vibrant Arena",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2ZvV1dKaGVZVzJ2MW9BNTFLVG1sdXhKRWg3dVBBVVVXLTVLdEJtQU93UExDVTY0elA2aU12T0dnV2l1SzQtX1RTWXd5dzNtRWp2ZmZFeGNScTNkVTY0QWRfTktnNlltZVJvclhlSTFYa20wRmF5Qm5ROWRZOVV1Sk5oektLdUsweGdqOVRhQzJMcVowVkp4cGJ1NUg3NllHU2RBNlB1Vld2eU45RzRn0gG0AUFVX3lxTE9OTExsVWNBNXBOUTNaeVp1NDBJbVJSd3R3MVZMbUszcDRGZlRvZ3o5VERZTFdDdWFOY3Q5RE5WZ3ZZVFpHZ1ZCY28xTVktTVd0MU8tcnVDcEMyYXdseE4tOWZKT19sMUhyQWZheUhJX1FRMHZ3YXRzb1AwbUJ5MjlBbVpzM3hZd2hhMWpIcElGVURYR0JTM3QzMDFSc3pYRGRlNDhsNDMxS3FCRERyNUtITmlxVQ?oc=5",
+      "summary": "MercyMe, Ben Fuller, and Peter Burton to perform at Vibrant Arena OurQuadCities",
+      "outlet": "OurQuadCities",
+      "outlet_url": "https://www.ourquadcities.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-16T21:40:54Z",
+      "first_seen": "2026-10-18T18:13:34Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "ef094a5f0232b550",
@@ -5427,7 +5516,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T04:08:30Z",
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "1ed8921d20050508",
@@ -5520,7 +5609,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "460e6b0d4cd88845",
@@ -5537,7 +5626,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "c312397fc44df53d",
@@ -5554,7 +5643,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "ff529d7827efda5d",
@@ -5702,7 +5791,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T04:08:30Z",
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "5f2c874cd81b5616",
@@ -5738,7 +5827,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T04:08:30Z",
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "84c500d883350048",
@@ -5755,7 +5844,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "d69b044d513faaca",
@@ -5772,7 +5861,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "0ba81f37bbd2decb",
@@ -5789,7 +5878,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "9e3958706164bdf5",
@@ -5918,7 +6007,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "e0577f2cd151ce70",
@@ -7595,7 +7684,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T16:08:30Z"
+      "image_tried": "2026-10-18T18:13:34Z"
     },
     {
       "id": "29534baeeafdd493",
@@ -10967,99 +11056,6 @@
       "first_seen": "2026-10-13T16:40:04Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/04/21/2026-04-21-incontro-con-il-mondo-della-cultura---viaggio-apostol/1776787566009.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "678083329ff52c21",
-      "title": "Classical music expected to return to Cape Cod radio. 'Very loved here'",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3JhNXg5QzZVUUtSY2ZzbGlIaU5PaEQtSW5veDI2SE5RT3E3VGJ3ZGMwNDU3Y1k2WlNOYWk1UVVHRy13dWZacks1dHRESVdTQTFfXzltQ2Z6TnQyelB4LXk5YUZiMWRkblo2ZGpXWnNVUVZ1ZExsYjVRck9NUUd1d1FXUEV3bWVRTE9Pcy11b3A4aG9BTHNIdmN5Q2lCZEhGR2ZFcmtRcDY5QTNwUXZUQ2RzcjF5SjNpUjJuUA?oc=5",
-      "summary": "Classical music expected to return to Cape Cod radio. 'Very loved here' Cape Cod Times",
-      "outlet": "Cape Cod Times",
-      "outlet_url": "https://www.capecodtimes.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-13T10:03:00Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T18:52:53Z"
-    },
-    {
-      "id": "12f930359068efb4",
-      "title": "We Are Not Called to Make the Gospel Popular",
-      "link": "https://www.christianitytoday.com/2026/10/philip-anthony-mitchell-atlanta-we-are-not-called-to-make-the-gospel-popular/",
-      "summary": "Christ is the ultimate model of gentle strength. He didn’t hold his tongue before the Sanhedrin or Pilate. He said, “For this purpose I have come into the world—to bear witness to the truth” (John 18:37, ESV throughout). His entire ministry was public. He…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T10:00:00Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/contend-phillip-anthony-mitchell.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "368f6941cde7fcb8",
-      "title": "Samuel Alito’s Message to the Secular Left and the Illiberal Right",
-      "link": "https://www.christianitytoday.com/2026/10/samuel-alitos-justice-supreme-court-message-to-the-secular-left-and-the-illiberal-right/",
-      "summary": "In the spring of 2022, Justice Samuel Alito wrote the most politically polarizing judicial opinion of his entire career. The issue was abortion, a subject that had long divided the Supreme Court. Chief Justice John Roberts, a conservative appointed by…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T10:00:00Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/williams-on-so-ordered.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e8579296bc39223f",
-      "title": "Q&A: ‘The Shack’ Author Wm. Paul Young on Christa Pike’s Botched Execution",
-      "link": "https://www.christianitytoday.com/2026/10/qa-the-shack-wm-paul-young-christa-pike-execution-riverbend/",
-      "summary": "On September 30, Riverbend Maximum Security Institution in Nashville made headlines for the horrific botched execution of Christa Pike. It was not the first botched execution at Riverbend: In May, the state’s attempt to execute Tony Carruthers failed, causing…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T10:00:00Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/william-paul-young-christa-pike.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "144476e835177d08",
-      "title": "Across the Middle East, children answer Pope Leo’s call to pray the rosary for peace",
-      "link": "https://www.ewtnnews.com/world/middle-east/across-the-middle-east-children-answer-pope-leo-s-call-to-pray-the-rosary-for-peace",
-      "summary": "Children in Lebanon, Palestine, and Syria joined a global rosary campaign for peace this month.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T10:00:00Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791821725/ewtn-news/en/palestine_adgcm7.jpg",
         "via": "media:content"
       },
       "breaking": false,
