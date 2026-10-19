@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-10-19T00:42:10Z",
+  "generated_at": "2026-10-19T05:36:11Z",
   "story_count": 600,
-  "with_photo": 434,
+  "with_photo": 435,
   "items": [
+    {
+      "id": "72465a5a9de5aae2",
+      "title": "Andy Stanley Is Stepping Down—What Legacy Does He Leave At North Point?",
+      "link": "https://www.jubileecast.com/articles/40357/20261019/andy-stanley-is-stepping-down—what-legacy-does-he-leave-at-north-point.htm",
+      "summary": "Andy Stanley Is Stepping Down—What Legacy Does He Leave At North Point?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-19T04:34:33Z",
+      "first_seen": "2026-10-19T05:36:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32251/andy-stanley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "91bfe59aa10f1c93",
+      "title": "Boo! Haunted houses aren’t real, but …",
+      "link": "https://www.christianpost.com/voices/boo-haunted-houses-arent-real-but.html",
+      "summary": "Most paranormal shows are fraud, delusion or pure entertainment. But some encounters are genuine, and the real danger isn’t meeting something we can’t explain. It’s confronting something we can’t properly discern until it’s too late.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-19T04:05:19Z",
+      "first_seen": "2026-10-19T05:36:11Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272332_w_550_366_474_172.jpg?v=20261019000520",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2a6698f2fe6a5781",
+      "title": "Should Christian wives take their husband’s last name?",
+      "link": "https://www.christianpost.com/voices/should-christian-wives-take-their-husbands-last-name.html",
+      "summary": "Couples with different last names divorce at a 50% higher rate, according to new research from the Institute for Family Studies. That’s no coincidence: a shared name is an outward sign of the leaving, cleaving and covenantal surrender at the heart of biblical…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-19T04:00:59Z",
+      "first_seen": "2026-10-19T05:36:11Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272336_w_550_338.jpg?v=20261018232409",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fc81e484996494be",
+      "title": "Church ties endure across generations.",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45YS1pTDlwN29DQjJLY3F5aWY1MkNJRGJIUDRNY05ZaG5MWHhrR0pKRHRIUlBDVUJnaXBJQk81dS1NWkF1WHpmZUhyeFZLQUpSVmVvX09BcjNJNTkycXdnTzZwczl3cXRjQTlQZ3VMWEg3UV9NSHc?oc=5",
+      "summary": "Church ties endure across generations. Hoptown Chronicle",
+      "outlet": "Hoptown Chronicle",
+      "outlet_url": "https://hoptownchronicle.org",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-19T03:49:05Z",
+      "first_seen": "2026-10-19T05:36:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-19T05:36:11Z"
+    },
+    {
+      "id": "c8e29b9f861684c1",
+      "title": "Andy Stanley sets exit plan from North Point Church",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTDdrSE5SRVdNWDVsQ1RVUTd0dkRsc25jYU9TbU51TGxWM3pEZy1yWkEyNnNXQXgyQ2lyTXJNd2FnX2JfYmVTbzRxVm1nUDVaakhYRGxxN01QbV8zTGZ2S0lscVFwYlJQUFdvVHVIZU5tX3hKZFlGa3hNRWxOSzUtbGo0aXNuTFBpd29pUA?oc=5",
+      "summary": "Andy Stanley sets exit plan from North Point Church Baptist News Global",
+      "outlet": "Baptist News Global",
+      "outlet_url": "https://baptistnews.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-19T03:42:08Z",
+      "first_seen": "2026-10-19T05:36:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-19T05:36:11Z"
+    },
     {
       "id": "bf93a7c889e0ffae",
       "title": "Michael Forest Dies At 97—The “Star Trek” Guest Star Whose Apollo Endured For Generations",
@@ -4682,7 +4773,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T17:31:01Z",
-      "image_tried": "2026-10-16T05:31:01Z"
+      "image_tried": "2026-10-19T05:36:11Z"
     },
     {
       "id": "e57e39b81bb32a2e",
@@ -4885,7 +4976,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-16T05:31:01Z"
+      "image_tried": "2026-10-19T05:36:11Z"
     },
     {
       "id": "b773ac86c5d0bd09",
@@ -4921,7 +5012,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T12:57:18Z",
-      "image_tried": "2026-10-16T00:57:18Z"
+      "image_tried": "2026-10-19T05:36:11Z"
     },
     {
       "id": "58abf2cad95112f9",
@@ -4993,7 +5084,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T12:57:18Z",
-      "image_tried": "2026-10-16T00:57:18Z"
+      "image_tried": "2026-10-19T05:36:11Z"
     },
     {
       "id": "d0e76cdc4cc3fcc1",
@@ -5171,7 +5262,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-16T05:31:01Z"
+      "image_tried": "2026-10-19T05:36:11Z"
     },
     {
       "id": "c0dc5fadfd623c91",
@@ -10981,95 +11072,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-16T21:52:28Z"
-    },
-    {
-      "id": "9f21c373081bd24f",
-      "title": "Who is Dr. Luigi Carbone, Pope Leo XIV’s personal physician?",
-      "link": "https://www.ewtnnews.com/vatican/who-is-dr-luigi-carbone-pope-leo-xiv-s-personal-physician",
-      "summary": "As the pontiff undergoes surgery at Rome’s Gemelli Hospital, the Vatican’s chief medical official plays a central role in coordinating his care.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T15:52:00Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791904934/ewtn-news/en/261013_THE_POPE_S_ARRIVAL_AT_THE_GEMELLI_POLYCLINIC_Daniel_Iba%CC%81n%CC%83ez_1.jpg_iydelm.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7fbd53f103a0c639",
-      "title": "Pleasant Zion Missionary Baptist Church celebrates 100 years of Spiritual, Mind, Body, and Soul ministries",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1Q4LVZPeFJUdGdvQUdMaDhoNlg3Y3BqaVp1Zk9Tbk1sem9kVXd5WTNwTWJmWXZ1dnc0UFNiQ19rNllfUkViaEFxSmdPNi1QRFZ3bnpIbktwSThIQUpOWVB3VTRMSllYb3RaYllNdy1ienVTSUZRN3poazRNWmtRQWMzUFhfekhQMlJleEV2bTBLT1M5ak1manZMMzFpMXBReExDdkgxekRodEE2emlndWtCYlg2MHZxem9FSUJWUjlEd2dkd3N2NExyYjBaRVVu?oc=5",
-      "summary": "Pleasant Zion Missionary Baptist Church celebrates 100 years of Spiritual, Mind, Body, and Soul ministries The Louisiana Weekly",
-      "outlet": "The Louisiana Weekly",
-      "outlet_url": "http://www.louisianaweekly.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-13T15:29:47Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-14T04:40:04Z",
-      "image_tried": "2026-10-16T18:52:53Z"
-    },
-    {
-      "id": "85d0ceaee3d02f41",
-      "title": "Gizelle Bryant Leads BET’s New Megachurch Rivalry Drama Church Wives [TRAI;ER]",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdFBsVDY5MWdELWJ1ZnFaTDZ5QThJV2pTZjU1dEhQZk0tRHRfUXJfaF9zTnA3bm5ZT2o5ekJJeEZSbjZsTUF2N2dpcEoyTm1nV3BjUEg5SnZJN3p3bVN6Z1B4eGhPTDZyN3JyQ0tTTUlvbXVzT2hGS2I5VUdNUjNzaWdBYTVVXzlTYzRZVEZBeFZYZmZ3X3VGQzhzT2lPQQ?oc=5",
-      "summary": "Gizelle Bryant Leads BET’s New Megachurch Rivalry Drama Church Wives [TRAI;ER] Blex Media",
-      "outlet": "Blex Media",
-      "outlet_url": "https://blexmedia.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-13T15:28:48Z",
-      "first_seen": "2026-10-13T21:41:52Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T21:52:28Z"
-    },
-    {
-      "id": "0fdf518a4fbed181",
-      "title": "Tyler Perry’s ‘The Gospel of Christmas’ Premieres Nov. 11 With Gospel Artists in Cast",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMk9scHdRcmx0U2RVelJiSndJUnFYMGx0dHZISEZOTmtGX3lZNFlOMVp4MXhiY1Y5bEZMbnpaWUw4ZmpXdndSaVlaeEZ5dmtzNXp2ak5UanFVaVhtMmQtVHNSZ3NHUDEwcWZvSC1GZGxGVlpIeHBvNkg3eWFtQjByZjZxYkVYRXlZb01aVzRCM0FaR1FmWkZxcExlWnh3RERxbjkyRlA5bWFnOWg0bl9qeXZ3?oc=5",
-      "summary": "Tyler Perry’s ‘The Gospel of Christmas’ Premieres Nov. 11 With Gospel Artists in Cast foxy99.com",
-      "outlet": "foxy99.com",
-      "outlet_url": "https://foxy99.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-13T15:22:38Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-17T16:04:51Z"
-    },
-    {
-      "id": "cdf6249b33d6982f",
-      "title": "Pope Leo XIV breaks with decades of secrecy by announcing his own surgery",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-breaks-with-decades-of-secrecy-by-announcing-his-own-surgery",
-      "summary": "The pontiff’s surprise disclosure about a lung nodule has drawn praise from senior cardinals, who see it as an unprecedented gesture of transparency and an expression of humility and trust.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T15:12:10Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791902711/ewtn-news/en/_ELI6692_hcalpo.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
