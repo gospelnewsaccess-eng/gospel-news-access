@@ -1,8 +1,65 @@
 {
-  "generated_at": "2026-10-18T22:45:54Z",
+  "generated_at": "2026-10-19T00:42:10Z",
   "story_count": 600,
-  "with_photo": 433,
+  "with_photo": 434,
   "items": [
+    {
+      "id": "bf93a7c889e0ffae",
+      "title": "Michael Forest Dies At 97—The “Star Trek” Guest Star Whose Apollo Endured For Generations",
+      "link": "https://www.jubileecast.com/articles/40356/20261018/michael-forest-dies-at-97—the-star-trek-guest-star-whose-apollo-endured-for-generations.htm",
+      "summary": "Michael Forest Dies At 97—The “Star Trek” Guest Star Whose Apollo Endured For Generations",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-19T00:32:26Z",
+      "first_seen": "2026-10-19T00:42:10Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32250/michael-forest.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "511ad546159d5b29",
+      "title": "Andy Stanley Will Step Down As Senior Pastor—What Comes Next For North Point?",
+      "link": "https://www.jubileecast.com/articles/40355/20261018/andy-stanley-is-stepping-down-as-senior-pastor—what-comes-next-for-north-point.htm",
+      "summary": "Andy Stanley Is Stepping Down—What Comes Next For North Point?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-19T00:27:06Z",
+      "first_seen": "2026-10-19T00:42:10Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23332/andy-stanley.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c3a43bbb6d5d7527",
+      "title": "Hulvey Cancels Sold-Out Amsterdam Show Due to Pornographic Venue Imagery",
+      "link": "https://rapzilla.com/2026-10-hulvey-cancels-sold-out-amsterdam-pornographic-venue-imagery/",
+      "summary": "Christian hip-hop artist Hulvey was forced to cancel his sold-out concert in Amsterdam just an hour before taking the stage after discovering that the venue featured explicit objects and “extremely graphic” pornographic images on its walls. Addressing fans…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-19T00:04:47Z",
+      "first_seen": "2026-10-19T00:42:10Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/01/07061312/SnapInsta-Ai_3707039347344810478-e1767784446953.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6cccdab2c5443bcd",
       "title": "Andy Stanley to step down as pastor of North Point Community Church next year",
@@ -4991,7 +5048,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T10:54:45Z",
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "77d500f15caf5241",
@@ -5025,7 +5082,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T10:54:45Z",
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "8434c764e8729a27",
@@ -5061,7 +5118,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-16T10:54:45Z",
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "b3294e17555fe96a",
@@ -5188,7 +5245,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "c8d48bf355531fc0",
@@ -6150,7 +6207,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "12b9f35a6c5f1a4f",
@@ -6683,7 +6740,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "190e59e6c682412d",
@@ -7637,7 +7694,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "d36239fd1fb540f8",
@@ -7692,7 +7749,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-15T22:54:45Z"
+      "image_tried": "2026-10-19T00:42:10Z"
     },
     {
       "id": "ff95507ff766bca4",
@@ -11010,61 +11067,6 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1791902711/ewtn-news/en/_ELI6692_hcalpo.jpg",
         "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "44e26a7ae5f3cea5",
-      "title": "BlueMile Music Consultants Bring Music Industry Wisdom In New Books To Equip The Next Generation",
-      "link": "https://pathmegazine.com/articles/bluemile-music-consultants-bring-music-industry-wisdom-in-new-books-to-equip-the-next-generation/",
-      "summary": "With more than 30 years of combined music industry experience, international multi-award-winning recording artists and entrepreneurs Daphney Hilton and Calandra Gantt are expanding their mission of education … The post BlueMile Music Consultants Bring Music…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-13T15:04:27Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-16T18:52:53Z"
-    },
-    {
-      "id": "cd58c105fc05731e",
-      "title": "HOLY SMOKE! Cypher Nashville Edition Comes to Sway in the Morning",
-      "link": "https://rapzilla.com/2026-10-holy-smoke-cypher-nashville-edition-sway-morning/",
-      "summary": "DJ Mykael V brought out a couple of friends for Sway in the Morning. Jackie Hill Perry, Holy Smoke Cypher winner Aable, Parris Chariz, C4 Crotona, and Nate Rose shared their journeys and names, then spit bars! DJ Mykael V and Sway Set the Stage Opening the…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-13T14:52:37Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/13103631/3-Picture-Template-Article-24.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "51704a90fdd4b969",
-      "title": "Jim Bakker’s Celebration of Life: A Story of Redemption, Grace and Going Home",
-      "link": "https://mycharisma.com/news/jim-bakkers-celebration-of-life-a-story-of-redemption-grace-and-going-home/",
-      "summary": "Jim Bakker’s celebration of life was not presented as a funeral. From the opening moments, it became a declaration about redemption, restoration and what happens when failure does not get the final word. “This is not a funeral. This is a homegoing…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-13T14:50:46Z",
-      "first_seen": "2026-10-13T16:40:04Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/10/Jim-Bakker-Book-395x600.jpg",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
