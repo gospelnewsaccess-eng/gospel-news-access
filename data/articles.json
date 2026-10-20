@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-10-19T22:31:53Z",
+  "generated_at": "2026-10-20T01:27:38Z",
   "story_count": 600,
-  "with_photo": 428,
+  "with_photo": 427,
   "items": [
+    {
+      "id": "1099226244c49ebb",
+      "title": "Russell Brand Talks Spiritual Warfare During Rape Trial—What Does Grace Require?",
+      "link": "https://www.jubileecast.com/articles/40376/20261019/russell-brand-talks-spiritual-warfare-during-rape-trial—what-does-grace-require.htm",
+      "summary": "Russell Brand Talks Spiritual Warfare During Rape Trial—What Does Grace Require?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-20T00:23:01Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32191/russell-brand.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "432552f79e95053e",
+      "title": "Voting controversy: Cornerstone Church hosting GOP guests before opening early voting site",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWWJ5ZDhPYXVlNGhIemJ5MGc4OTFsMlZqTzlnNV9aUVh5Y1lEREN6YzBiNVEyRjZnYWsyaUNrY0VoaWdmaFpZdVNzZVUydlRaSVZIUHRfeVh0MDBXcXV0LWRBbmk3NThRelJpcUpXZnZJbFNUWS0xa19LWDZzS3NJUVAzM0h3Z0RhS3RKS01lLUpTMlNrSExuR0oxeGFyOUFJOGJtSURwM0FUczROYnlTQ0JXLWlqeWxpOHRBOEc3cDNCM1VTNE1ORFNTMHVObV9FbUp2VWZvSQ?oc=5",
+      "summary": "Voting controversy: Cornerstone Church hosting GOP guests before opening early voting site KABB",
+      "outlet": "KABB",
+      "outlet_url": "https://foxsanantonio.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-19T23:24:11Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-20T01:27:38Z"
+    },
+    {
+      "id": "a2bf886ae5d22a13",
+      "title": "Cory Asbury Returns to Worship Without Trying to Fix Everything",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmJmMXdMaDdDLW83NUV1dlF0OTFUTjVTakg4SWFNOHQ5eEhRSjAyZmtiZFUyZmVpVlphUzZTeEdTYm1ERkxabjBvczhreFozQ29EMFJhT1JLUmNRWFFseHVNNnZDUktlemFnZXpWNkpydm5JNXI2UTRfWmpHZ3RXZHhjUTVCZ2J5TlV5QThjTmFNZS1DSU9Pb1ZUUWlBWGZkWndSVC10bmh2VllGckE?oc=5",
+      "summary": "Cory Asbury Returns to Worship Without Trying to Fix Everything Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-19T22:52:30Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-20T01:27:38Z"
+    },
     {
       "id": "019c0873ddf7f4f4",
       "title": "Poison’s Rikki Rockett Reveals Cancer Nearly Cost Him His Tongue—What Did He Want His Children To Hear?",
@@ -23,6 +76,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "8c7606ea902e569b",
+      "title": "Exorcist Father Ripperger agrees to 1-year ‘fast’ from public speaking",
+      "link": "https://www.ewtnnews.com/world/us/exorcist-father-ripperger-agrees-to-1-year-fast-from-public-speaking",
+      "summary": "The prominent priest agreed to Denver Archbishop James Golka’s request, which the archdiocese says will allow him to focus on his religious community and the people it serves.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-19T22:24:46Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792447865/ewtn-news/en/shutterstock_2733894583_dtppte.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "f0dc3eb480437ebd",
       "title": "El-Sayed, Vance pressed on religion, loyalty and immigration",
       "link": "https://religionnews.com/2026/10/19/el-sayed-and-vance-face-questions-about-faith-and-politics/",
@@ -34,7 +106,10 @@
       "category": "faith",
       "published": "2026-10-19T22:24:00Z",
       "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-viral-videos-lede-new-20261019-807x424.jpg",
+        "via": "content:encoded"
+      },
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-19T22:31:53Z"
@@ -5348,7 +5423,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-17T00:06:23Z"
+      "image_tried": "2026-10-20T01:27:38Z"
     },
     {
       "id": "0d40d8e59f09cf3e",
@@ -5691,7 +5766,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-17T00:06:23Z"
+      "image_tried": "2026-10-20T01:27:38Z"
     },
     {
       "id": "97bb5f1f0995782d",
@@ -6677,6 +6752,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "45dd8fedad77ab13",
+      "title": "Watch the Trailer for Tyler Perry’s The Gospel of Christmas",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0Z1d1BTQk8wT2g5eUk5U3NwVlRKQlVsTWNrVV9lemtRUFB1MEhFbHhrU0duX0R4alRLbDNSZ2ZIUDhQSnJYTHZ2ZEdUYU5NWHJ5a094RWdQTGJWN0w5RjVfMkVQWU0xbDF5OFBlYS1ab1lpTGphTE1UV1JHVWhwcmlQeHlOS19NNThJdXpRMVZsVFY3ZkFJ?oc=5",
+      "summary": "Watch the Trailer for Tyler Perry’s The Gospel of Christmas Netflix",
+      "outlet": "Netflix",
+      "outlet_url": "https://www.netflix.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-16T07:00:00Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-20T01:27:38Z"
+    },
+    {
       "id": "9bff545e9f5621c0",
       "title": "Robert Pattinson’s ‘The Batman Part II’ Hit By Unexpected Director Shake-Up As Matt Reeves Speaks Out",
       "link": "https://www.jubileecast.com/articles/40278/20261016/robert-pattinson-s-the-batman-part-ii-hit-by-unexpected-director-shake-up-as-matt-reeves-speaks-out.htm",
@@ -6761,7 +6853,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-16T18:52:53Z"
+      "image_tried": "2026-10-20T01:27:38Z"
     },
     {
       "id": "723bafd7897d822a",
@@ -10034,6 +10126,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "a9188e3731bcb937",
+      "title": "Beaumont lands 2027 Rhythm of Gospel Music Awards event",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFRBN0RIZ0RKNmNpMF85U3Y2QlphaV82aktqMDRiYWk5N1RIaS10S090blc1cG5BR3FzX1JHUUhmTTRwRGZLUlhvczZuTWFNMHVQSEk4MnZJNFl6cFZCSUlNT3N1bG0yVi00SEd2ZDBDY0RzTjhrdVFncHJ1UXhrX0JjY18wRkR2empqTQ?oc=5",
+      "summary": "Beaumont lands 2027 Rhythm of Gospel Music Awards event Alton Telegraph",
+      "outlet": "Alton Telegraph",
+      "outlet_url": "https://www.thetelegraph.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-14T20:53:33Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-20T01:27:38Z"
+    },
+    {
       "id": "9ae099d69d802735",
       "title": "Charlie Anderson-Read Dies At 41: Blogger Announces Her Own Death In Prerecorded Video",
       "link": "https://www.jubileecast.com/articles/40236/20261014/charlie-anderson-read-dies-at-41-blogger-announces-her-own-death-in-prerecorded-video.htm",
@@ -10914,6 +11023,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "8307b0de7c1ef449",
+      "title": "Cory Asbury Ran From His Calling. His New Album Is Him Coming Home",
+      "link": "https://relevantmagazine.com/magazine/cory-asbury-ran-from-his-calling-for-five-years-this-album-is-him-coming-home/",
+      "summary": "'Reckless Love' made him famous and nearly broke him. On 'Outsing the Angels,' the worship leader explains why he walked away — and what finally brought him back.",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-14T15:41:26Z",
+      "first_seen": "2026-10-20T01:27:38Z",
+      "image": {
+        "url": "https://i0.wp.com/relevantmagazine.com/wp-content/uploads/2026/10/coryinsert.jpg?resize=320%2C240&ssl=1",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "b5189be57b247132",
       "title": "Scripture to Screen Reveals Biblical Film Slate Following Success of ‘Daniel and the Fiery Furnace’",
       "link": "https://pathmegazine.com/articles/scripture-to-screen-reveals-biblical-film-slate-following-success-of-daniel-and-the-fiery-furnace/",
@@ -10929,135 +11057,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-17T16:04:51Z"
-    },
-    {
-      "id": "192b17e6e4089d01",
-      "title": "Nigeria Catholic parish, hospital and 3 schools suspend activities indefinitely amid insecurity",
-      "link": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
-      "summary": "The Catholic Diocese of Gboko has suspended operations at a number of Catholic institutions in Ihugh withdrawing all diocesan personnel due to ongoing violence, attacks, and threats.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-14T15:15:00Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791988249/ewtn-news/en/bb160426-6fb2-465f-85e0-edd3b60d369f_1791927553_ain2a9.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "df49d8c63fec9519",
-      "title": "Christian aid groups deploy to Gulf Coast after Hurricane Isaias",
-      "link": "https://www.christianpost.com/news/christian-aid-groups-deploy-to-gulf-coast-after-hurricane-isaias.html",
-      "summary": "As hundreds of thousands of people along the U.S. Gulf Coast remain without power after Hurricane Isaias, Christian relief organizations are providing food, water and aid supplies to residents of hard-hit areas, while helping clean up damage and offering…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-14T15:04:00Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272282_w_550_367_506_230.jpg?v=20261014110427",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e4e8c6e76961089",
-      "title": "ZACARDI CORTEZ TO RELEASE POWERFUL NEW ANTHOLOGY ALBUM FROM ACCLAIMED IBHAR SERIES IBHAR: THE CHRONICLE (CHAPTER 3) On October 16",
-      "link": "https://pathmegazine.com/articles/zacardi-cortez-to-release-powerful-new-anthology-album-from-acclaimed-ibhar-series-ibhar-the-chronicle-chapter-3-on-october-16/",
-      "summary": "Soul-stirring Gospel powerhouse Zacardi Cortez is preparing to turn the final page of his acclaimed album series with the release of IBHAR: THE CHRONICLE (Chapter 3), arriving … The post ZACARDI CORTEZ TO RELEASE POWERFUL NEW ANTHOLOGY ALBUM FROM ACCLAIMED…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-14T14:52:35Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-17T16:04:51Z"
-    },
-    {
-      "id": "e58f453d741d9ec9",
-      "title": "Franklin Graham Questions Outrage Over Fort Hood Execution Livestream",
-      "link": "https://mycharisma.com/news/franklin-graham-questions-outrage-over-fort-hood-execution-livestream/",
-      "summary": "The Rev. Franklin Graham is challenging the outrage over plans to livestream the Fort Hood shooter’s execution, pointing to Hollywood’s willingness to package death and violence as entertainment. “There are a lot of strong opinions out there about…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-14T14:52:32Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "462919c667cd6425",
-      "title": "Gospel singer, Toluwanisings is dead",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1US1ctRm1sUE82RlBoaDhfdnNxZUxEVUF0MlVXT05pSlE3ZkxGcGVKc3dCZVJaYTgwOUp1XzlGcG1BUl9CVFNhM0taU3M4VE5WX3lmT2hYZFQ5aFFfc3IySndsWjFsdFhGbi1VX1p0THAxdnBrbTBN?oc=5",
-      "summary": "Gospel singer, Toluwanisings is dead Daily Post Nigeria",
-      "outlet": "Daily Post Nigeria",
-      "outlet_url": "https://dailypost.ng",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-14T14:52:23Z",
-      "first_seen": "2026-10-14T19:55:58Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-17T21:10:57Z"
-    },
-    {
-      "id": "84cc6bd6ba204464",
-      "title": "Pope Leo XIV Undergoes Cancer Surgery as Brother Faces His Own Cancer Fight",
-      "link": "https://mycharisma.com/news/pope-leo-xiv-undergoes-cancer-surgery-as-brother-faces-his-own-cancer-fight/",
-      "summary": "A heartbreaking double cancer battle is unfolding within the family of Pope Leo XIV, as the pontiff recovers from lung cancer surgery. At the same time, his older brother fights a recurrence of a different form of the disease. According to Reuters, Pope Leo…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-14T14:51:57Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c8d002ca08b90ced",
-      "title": "Court to side with 70 South Carolina churches seeking to leave the UMC",
-      "link": "https://www.christianpost.com/news/court-to-side-with-70-south-carolina-churches-seeking-to-leave-the-umc.html",
-      "summary": "A South Carolina judge is expected to dismiss cases brought by the UMC’s South Carolina Conference against about 70 congregations seeking to leave with their property, the conference announced.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-14T14:49:26Z",
-      "first_seen": "2026-10-14T15:52:48Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272301_w_550_358.jpg?v=20261014104942",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
