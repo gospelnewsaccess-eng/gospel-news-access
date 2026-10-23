@@ -1,8 +1,179 @@
 {
-  "generated_at": "2026-10-22T22:33:45Z",
+  "generated_at": "2026-10-23T01:08:27Z",
   "story_count": 600,
-  "with_photo": 449,
+  "with_photo": 448,
   "items": [
+    {
+      "id": "b6e4ad80168936c2",
+      "title": "Presence Music, Avenue Music and Joel Vaughn Send \"The Darkness Didn’t Know\" to Christian Radio Ahead of Christmas",
+      "link": "https://www.jubileecast.com/articles/40472/20261022/presence-music-the-darkness-didnt-know-christian-radio.htm",
+      "summary": "Presence Music, Avenue Music and Joel Vaughn Send \"The Darkness Didn’t Know\" to Christian Radio Ahead of Christmas",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-23T00:21:41Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32317/presence-music.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "49e8f3c2b90dc53c",
+      "title": "Tyler Perry’s “The Gospel of Christmas”: Release Date, Cast and How to Watch",
+      "link": "https://www.jubileecast.com/articles/40471/20261022/tyler-perry-the-gospel-of-christmas-release-date-cast-how-to-watch.htm",
+      "summary": "Tyler Perry’s “The Gospel of Christmas”: Release Date, Cast and How to Watch",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-23T00:08:39Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32315/the-gospel-of-christmas.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "25bc9f77ae015a0e",
+      "title": "Vice President Vance to EWTN: ‘We are God’s ambassadors on Earth’",
+      "link": "https://www.ewtnnews.com/world/us/vice-president-vance-to-ewtn-we-are-god-s-ambassadors-on-earth",
+      "summary": "JD Vance spoke with EWTN News anchor Raymond Arroyo in a wide-ranging interview that included politics, immigration, economics, and faith.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-23T00:03:43Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792711783/ewtn-news/en/Screenshot_2026-10-22_at_7.29.12_PM_sgzdha.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b41282f50302db1e",
+      "title": "Emmy Rossum Opens Up About PCOS, IVF and Postpartum Anxiety: Why She Says Moms Need a “Village”",
+      "link": "https://www.jubileecast.com/articles/40470/20261022/emmy-rossum-opens-up-pcos-ivf-postpartum-anxiety-why-she-speaks-out.htm",
+      "summary": "Emmy Rossum Opens Up About PCOS, IVF and Postpartum Anxiety: Why She Says Moms Need a “Village”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-22T23:51:52Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32314/emmy-rossum.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "194deeb380108693",
+      "title": "12 Sermons on Avoiding AI Death and Destruction: A Biblical Response to the AI Crisis (Sermon 7) with Daniel Whyte III",
+      "link": "https://blackchristiannews.com/12-sermons-on-avoiding-ai-death-and-destruction-a-biblical-response-to-the-ai-crisis-sermon-7-with-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=12-sermons-on-avoiding-ai-death-and-destruction-a-biblical-response-to-the-ai-crisis-sermon-7-with-daniel-whyte-iii",
+      "summary": "Ladies and gentlemen, brothers and sisters in Christ Jesus, I want to continue preaching in your hearing 12 Sermons on The post 12 Sermons on Avoiding AI Death and Destruction: A Biblical Response to the AI Crisis (Sermon 7) with Daniel Whyte III appeared…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-22T23:39:05Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f9b767fc99206e7e",
+      "title": "Harrison Ford and Calista Flockhart, Married 16 Years, to Receive First Joint Award as a Couple",
+      "link": "https://www.jubileecast.com/articles/40469/20261022/harrison-ford-calista-flockhart-first-joint-award-stardust-ball.htm",
+      "summary": "Harrison Ford and Calista Flockhart, Married 16 Years, to Receive First Joint Award as a Couple",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-22T23:36:37Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32313/harrison-ford-and-calista-flockhart.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ca774668dfe94c64",
+      "title": "Country Singer Trisha Yearwood, 62, Steps Out at NYC Gala: What She Has Said About Her Weight Loss",
+      "link": "https://www.jubileecast.com/articles/40468/20261022/country-singer-trisha-yearwood-nyc-gala-what-she-has-said-about-weight-loss.htm",
+      "summary": "Country Singer Trisha Yearwood, 62, Steps Out at NYC Gala: What She Has Said About Her Weight Loss",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-22T23:25:19Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32312/trisha-yearwood.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "600d76e9c83dbd08",
+      "title": "Inde Navarrette’s Message to Hollywood: Gen Z Wants Original Stories, Not Ads",
+      "link": "https://www.jubileecast.com/articles/40467/20261022/inde-navarrette-message-to-hollywood-gen-z-wants-original-stories-not-ads.htm",
+      "summary": "Inde Navarrette’s Message to Hollywood: Gen Z Wants Original Stories, Not Ads",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-22T23:11:00Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32311/inde-navarrette.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3bf8c1f6daf7906b",
+      "title": "Catholic bishops pray with President Trump",
+      "link": "https://www.ewtnnews.com/world/us/bishops-pray-with-trump-in-oval-office",
+      "summary": "In addition to praying with Trump, topics discussed during the meeting included religious freedom, school choice, religious visas, and life policy.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-22T22:52:35Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786137361/ewtn-news/en/shutterstock_2771715987_apnmgn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "f9f8c6022842d37b",
       "title": "Multisite churches — also known as franchises — are now a staple of American life",
@@ -761,6 +932,23 @@
       "image_tried": "2026-10-22T19:20:44Z"
     },
     {
+      "id": "33a2f0e8fa25ccdc",
+      "title": "Colton Dixon Offers a 'Christian's Response to Halloween' with 'Bones'",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVWp4Ql9YcVc2VmRUNFVxTzV5MFRUWTRkTWJQT2pmQzFYdk9fT041cHBwTWl3QTNVMDFGVzNkdXg2ZTRyWW1aelVNdXV2cS00ZUFhRksyODBsWnlTTnVSeUdCcUhkMGJSSHduYy14RGlIQ0tXWFBzSlVYdUtNWmpncGVZQmZPTWN1SmE4V3JBb2d3SjdBaFpiblZibVYyY29zOEJpV3hab09lVC03NHBWODQwVlJIYUFEaGZ4QklUa1hfRU96SmJSaHFHOFk5UQ?oc=5",
+      "summary": "Colton Dixon Offers a 'Christian's Response to Halloween' with 'Bones' Crosswalk.com",
+      "outlet": "Crosswalk.com",
+      "outlet_url": "https://www.crosswalk.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-22T16:59:00Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-23T01:08:27Z"
+    },
+    {
       "id": "bfe1b14afec1cf75",
       "title": "Venite ad Me: An encounter that attracts and captivates",
       "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/editorial-venite-ad-me-considerations-evangelization.html",
@@ -778,6 +966,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "6d274a3ed5dae3a8",
+      "title": "Gospel music’s finest honoured Prince SAJ, Johnmark Wiggan score big at Sterling Gospel Music Awards",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0gxR1RJRXBEeHNhbVprZlhxd0Vzc29Wd1VkLWtzXzExWVBhYlowTUhwRnhQaklwODJGbHppMlRkTzU0VWQ3SnFrMWZTaXVIeU12U2pONk5LUjlKcS1pSGtxN29kdjctMGt4MThhZURSdlFKZE1wRGdIOEpLVmt6aGpmUEY2VDhfUm1hZWhQdFA1WXFKaV9EQ09SNnNGaEU4eHhqMGFpWnAxU3ZRbElZSmcwQmg2SnV5d0V4eEszZ1hxSlNRbWVGRmJn?oc=5",
+      "summary": "Gospel music’s finest honoured Prince SAJ, Johnmark Wiggan score big at Sterling Gospel Music Awards Jamaica Star",
+      "outlet": "Jamaica Star",
+      "outlet_url": "http://jamaica-star.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-22T16:51:06Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-23T01:08:27Z"
     },
     {
       "id": "d98f78ef271a5385",
@@ -4875,6 +5080,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "1abb2b4890f6546d",
+      "title": "Youth in Southern Nevada Worship Together Through Music at Las Vegas Youth Music Festival",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOWhLSlV2RkxxcHhCbzBqM2VqbHpucHFJb1dUbzVBREMtdWhaeDNkUkNqUHpWM0VmN3Z0QWU0cXZITnEtd0htYlprQ1F4T0NYVkFYWWNsekRBRUViWk0yLVY4ajVnMFdhOTd0NldGYnFrX21YWHRBYnRRWU9VN3BMbmlNa2twTm1wM3NVcGpwQ3AzeG1GbkNRczZLMy0xZ1JlMkdnVUJpNzFvX3dBaXpsbDRzTTMzMjNyWEJNN0Q5Q01MSm1YRU5RcjkzUzhocFdKZXpMbQ?oc=5",
+      "summary": "Youth in Southern Nevada Worship Together Through Music at Las Vegas Youth Music Festival newsroom.churchofjesuschrist.org",
+      "outlet": "newsroom.churchofjesuschrist.org",
+      "outlet_url": "https://newsroom.churchofjesuschrist.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-20T20:38:07Z",
+      "first_seen": "2026-10-23T01:08:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-23T01:08:27Z"
     },
     {
       "id": "dda6ce0577da5688",
@@ -10873,230 +11095,6 @@
       "first_seen": "2026-10-17T12:44:29Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32229/mariah-carey.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1be6a03fb8026083",
-      "title": "Randy Travis Releases \"I Know Where I’d Be Without You\": Inside The New Vault Song And ‘Same Old Way’ Album",
-      "link": "https://www.jubileecast.com/articles/40318/20261017/randy-travis-i-know-where-id-be-without-you-same-old-way.htm",
-      "summary": "Randy Travis Releases \"I Know Where I’d Be Without You\": Inside The New Vault Song And ‘Same Old Way’ Album",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T11:38:25Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32228/randy-travis-and-mary.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e38430805d9df70b",
-      "title": "Phil Wickham, Brandon Lake and Josiah Queen lead Dove Awards winners",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWWs1Yk1uaXlyMU8zUjFxZjRhSGlxalZqZUtDVkJhZjA2OS1SOTNkX2s0QlV4ZmhkX2tITlAtZW15aERBSGRpblpBQVZzZk9WUUhwQ2lqdXl4UkFqbnI5STRhdDlmSU44THNaNlY2SDlfQmlRaVRFdWZFdHVtSGJ6ODU1cVA3aEl4SFgza1dCbVlFWFdIMXRSb0NsYTZkYl95Tzl4UklLTENIRE44QktGc2pHcw?oc=5",
-      "summary": "Phil Wickham, Brandon Lake and Josiah Queen lead Dove Awards winners Premier Christian News",
-      "outlet": "Premier Christian News",
-      "outlet_url": "https://premierchristian.news",
-      "source_feed": "Google News: Phil Wickham",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-17T11:36:49Z",
-      "first_seen": "2026-10-17T16:04:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-20T16:14:28Z"
-    },
-    {
-      "id": "0c01c67fb254350a",
-      "title": "Miley Cyrus Cries Singing 'Jolene' For Dolly Parton At Hollywood Bowl: \"Me And Dolly, We Are Eternal\"",
-      "link": "https://www.jubileecast.com/articles/40317/20261017/miley-cyrus-dolly-parton-tribute-hollywood-bowl-jolene.htm",
-      "summary": "Miley Cyrus Cries Singing 'Jolene' For Dolly Parton At Hollywood Bowl: \"Me And Dolly, We Are Eternal\"",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T11:22:02Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31535/miley-cyrus-and-dolly-parton.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "48a6f982e7b38efd",
-      "title": "Pope Leo XIV Leaves Hospital Today After Lung Cancer Surgery, Will Lead Angelus Sunday",
-      "link": "https://www.jubileecast.com/articles/40316/20261017/pope-leo-xiv-leaves-hospital-angelus-sunday.htm",
-      "summary": "Pope Leo XIV Leaves Hospital Today After Lung Cancer Surgery, Will Lead Angelus Sunday",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T11:10:29Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26980/pope-leo-xiv.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4dfd2bdddb6ab0ce",
-      "title": "Closed On Sundays: Chick-fil-A’s CEO Faces Questions About Faith, Family, And Who’s Welcome",
-      "link": "https://www.jubileecast.com/articles/40315/20261017/closed-on-sundays-chick-fil-a-s-ceo-faces-questions-about-faith-family-and-who-s-welcome.htm",
-      "summary": "Closed On Sundays: Chick-fil-A’s CEO Faces Questions About Faith, Family, And Who’s Welcome",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T11:09:05Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28246/chick-fil-a.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c649b2637763f038",
-      "title": "Noah’s Ark Researcher Reveals Death Threats, Stunning New Radar Findings",
-      "link": "https://mycharisma.com/news/noahs-ark-researcher-reveals-death-threats-stunning-new-radar-findings/",
-      "summary": "The founder of an organization digging at a site in Turkey he believes could unveil the real-life Noah’s Ark has reportedly faced terrifying death threats and a burglary of his apartment. Andrew Jones, founder of Noah’s Ark Scans, said it took years to get a…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-17T11:00:00Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3ee7d73b19c65656",
-      "title": "German bishops join initiative for ‘child-friendly’ artificial intelligence",
-      "link": "https://www.ewtnnews.com/world/europe/german-bishops-join-initiative-for-child-friendly-artificial-intelligence",
-      "summary": "Citing Pope Leo XIV’s call to defend human dignity in the age of AI, the German Bishops’ Conference has joined an initiative to make artificial intelligence safe for children.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-17T11:00:00Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1790764821/ewtn-news/en/Einstiegsbild-IMG_4879_n5ywsw.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b30a389d75501d6b",
-      "title": "Album Review: Mark Schultz’s ‘Song Cinema’ At 25: Why These Stories Of Faith Still Hit Home",
-      "link": "https://www.jubileecast.com/articles/40314/20261017/album-rview-mark-schultz-s-song-cinema-at-25-why-these-stories-of-faith-still-hit-home.htm",
-      "summary": "Mark Schultz’s ‘Song Cinema’ At 25: Why These Stories Of Faith Still Hit Home",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T10:59:57Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32227/mark-schultz.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "32c9145bc728ce50",
-      "title": "Album Review: Michael W. Smith’s ‘Go West Young Man’ At 36: The Songs Behind A Career-Defining Album",
-      "link": "https://www.jubileecast.com/articles/40313/20261017/album-review-michael-w-smith-s-go-west-young-man-at-36-the-songs-behind-a-career-defining-album.htm",
-      "summary": "Michael W. Smith’s ‘Go West Young Man’ At 36: The Songs Behind A Career-Defining Album",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T10:41:19Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32226/michael-w-smith.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1a357cd4a9863ec9",
-      "title": "The untold story of Christian music: Who controls the worship songs we sing?",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMFpFUGIzcUR2bHNSY1pYaXNPcmFmZ0FTbjhrQWc3bTE2YUp1OGxSdk5lZGdyUUdlRlRGTklpdmVOcThFUC1XenBVS25GeEczbHFQT09VSTdraHhVc0ZTVlQ1RkJENGxPZC11YTZMckdxSkl1d3FFaG1BYUhyMnBiUWNGb3VHY0F5Vlo2OVVSRE53WlJmcnBZZElnTzZhQQ?oc=5",
-      "summary": "The untold story of Christian music: Who controls the worship songs we sing? Christian Post",
-      "outlet": "Christian Post",
-      "outlet_url": "https://www.christianpost.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-17T10:34:35Z",
-      "first_seen": "2026-10-22T22:33:45Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "a0e640c54f7bafc7",
-      "title": "Album Review: Jamie MacDonald’s Deluxe Album Offers Plenty Of Grace—And Too Many Return Visits",
-      "link": "https://www.jubileecast.com/articles/40312/20261017/album-review-jamie-macdonald-s-deluxe-album-offers-plenty-of-grace—and-too-many-return-visits.htm",
-      "summary": "Jamie MacDonald’s Deluxe Album Offers Plenty Of Grace—And Too Many Return Visits",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T10:32:41Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31810/jamie-macdonald.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d5e73a995e334e5b",
-      "title": "Sacha Baron Cohen’s ‘60 Minutes’ Interview This Sunday Night Explores What’s Really Behind His Outrageous Comedy",
-      "link": "https://www.jubileecast.com/articles/40311/20261017/sacha-baron-cohen-s-60-minutes-interview-explores-what-s-really-behind-his-outrageous-comedy.htm",
-      "summary": "Sacha Baron Cohen’s ‘60 Minutes’ Interview Explores What’s Really Behind His Outrageous Comedy",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-17T10:30:31Z",
-      "first_seen": "2026-10-17T12:44:29Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32225/sacha-baron-cohen.jpg",
         "via": "media:content"
       },
       "breaking": false,
