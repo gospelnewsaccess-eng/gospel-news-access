@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-10-23T23:02:00Z",
+  "generated_at": "2026-10-24T01:46:04Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 441,
   "items": [
+    {
+      "id": "0aa5e17956dd1eca",
+      "title": "35 clergy and family of clergy appeal for no vote at HPUMC",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzNXVWg5NkIxdEkxWXZUSnRQTXk0eVVWVXJ1S1g3eW0ycjFGNDVTS3F2RzJEWjQ0MGJ6eVp6bUpodzhyMVZJOVJYSG5aMkZNb3Y2ZFN6Wkp5QVlKTFlQME1SdWluR29RdVpLSThDYkdlT3U5c3U1VXBqd29rOUJWejV4LU1sQjlpci1uWmVfb1NEOXhValE?oc=5",
+      "summary": "35 clergy and family of clergy appeal for no vote at HPUMC Baptist News Global",
+      "outlet": "Baptist News Global",
+      "outlet_url": "https://baptistnews.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-24T01:36:39Z",
+      "first_seen": "2026-10-24T01:46:04Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-24T13:46:04Z",
+      "image_tried": "2026-10-24T01:46:04Z"
+    },
+    {
+      "id": "fc97210daf4a4df2",
+      "title": "Gizelle Bryant Plays a First Lady in BET’s ‘Church Wives’",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2JNdVlKcUcxR2E1MlRDU280elJ1Rk5PNFJpNWgzS2JBYmFZeEpiRVI5UGRMTnptMXhIeXFaaVY4ZzRhNjJYemhNYmxUcjJORVNVZE1FY09naFk2MG9LTEI2aUNGSWlDYTFEMHRsV1BwaWdmRW9wSXM1R18yS1dOcnBDZkhSUzQ0T3VwMU1kLUwyLWpS?oc=5",
+      "summary": "Gizelle Bryant Plays a First Lady in BET’s ‘Church Wives’ EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-24T01:08:12Z",
+      "first_seen": "2026-10-24T01:46:04Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-24T13:46:04Z",
+      "image_tried": "2026-10-24T01:46:04Z"
+    },
+    {
+      "id": "38cd0b7b0d5f51bb",
+      "title": "‘It’s what I’m called to do’: Montse Alvarado on her new Vatican role",
+      "link": "https://www.ewtnnews.com/vatican/it-s-what-i-m-called-to-do-montse-alvarado-on-her-new-vatican-role",
+      "summary": "Montse Alvarado will make history Nov. 1 as the first laywoman to serve as prefect of a dicastery of the Holy See.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T01:00:00Z",
+      "first_seen": "2026-10-24T01:46:04Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1780377686/ewtn-news/en/EWTN_News_1_oq4raz.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6c66d6d842fce3aa",
+      "title": "GMA Sets 2027 Dove Awards Date Early as Christian and Gospel Music Surge",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNekpoSDV5cDZlY3kwN0hlSFVLNWMxdjl4bHVVdkdtMGFORC1EcXdFcWdJcXhhSWJkQ3hzYTdxYXNFa1dPWjV6YkN1Y3pwMExnSnVhSFB1aWp4VFdMZXpkMWFYOTNtWkEtenV6QzB1MzlYek1aQnZQMDFtalV2TWowTzlObzBGanZWb2lIQ2hfT3V4TC1TejREYkx5bTZCb2c?oc=5",
+      "summary": "GMA Sets 2027 Dove Awards Date Early as Christian and Gospel Music Surge EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-24T00:39:44Z",
+      "first_seen": "2026-10-24T01:46:04Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-24T13:46:04Z",
+      "image_tried": "2026-10-24T01:46:04Z"
+    },
+    {
+      "id": "4f34b25c491e66c8",
+      "title": "Mayia Warren – Pass Me Not | Bless the Mic",
+      "link": "https://rapzilla.com/2026-10-mayia-warren-pass-me-not-bless-the-mic/",
+      "summary": "Mayia Warren came through to Bless The Mic with her song “Pass Me Not.” Will Thomas and 5Five Spoke Media filmed it in Nashville, TN. It’s her biggest song, with over 250,000 streams on Spotify. It’s also the first collaboration song put up with Bless the Mic…",
+      "outlet": "Rapzilla",
+      "outlet_url": "",
+      "source_feed": "Rapzilla",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-23T23:59:04Z",
+      "first_seen": "2026-10-24T01:46:04Z",
+      "image": {
+        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/23195728/Cover-Art-14-scaled-e1792799906965.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ae0fd55b740a627b",
       "title": "Forrest Frank Announces ‘The Jesus Generation’ Tour Documentary, Coming to Theaters Next Year",
@@ -7720,7 +7809,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-20T23:16:30Z"
+      "image_tried": "2026-10-24T01:46:04Z"
     },
     {
       "id": "ec53bb55800e4a80",
@@ -7972,7 +8061,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-20T23:16:30Z"
+      "image_tried": "2026-10-24T01:46:04Z"
     },
     {
       "id": "ceca41b0406235de",
@@ -8063,7 +8152,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-20T23:16:30Z"
+      "image_tried": "2026-10-24T01:46:04Z"
     },
     {
       "id": "89edde878ac40c40",
@@ -8154,7 +8243,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-20T23:16:30Z"
+      "image_tried": "2026-10-24T01:46:04Z"
     },
     {
       "id": "32eaa4ec46b70b72",
@@ -10996,101 +11085,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "4ff46e37ccee21e1",
-      "title": "Pope Leo XIV to resume Wednesday general audience this week, skips Castel Gandolfo",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-resume-wednesday-general-audience-this-week-skips-castel-gandolfo",
-      "summary": "Louis Prevost, the pope’s brother, expressed surprise in an interview that the South American trip would proceed.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T13:03:47Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791992241/ewtn-news/en/pope_smiles_waves_9.2.26_in_st_peter_s_square_o0zhkg.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a7f0016d527e8cd2",
-      "title": "Colombian pastor murdered by members of gang he evangelized",
-      "link": "https://www.christianpost.com/news/colombian-pastor-murdered-by-members-of-gang-he-evangelized.html",
-      "summary": "A Colombian pastor has been beaten to death by members of a criminal gang he had been evangelizing in the city of Cartagena, after he refused to let them use his motorcycle, according to a report.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T12:35:42Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272356_w_550_354_366_142.jpg?v=20261019090251",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dfd5ac7a3819dbd1",
-      "title": "Cardinal Dziwisz: People are most enduring monument to St. John Paul II",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-dziwisz-john-paul-ii-foundation-vatican-young-people.html",
-      "summary": "Cardinal Stanisław Dziwisz, the longtime personal secretary of Pope John Paul II, celebrates Mass in Rome for the 45th anniversary of the John Paul II Vatican Foundation, and highlights how the foundation helps preserve the memory of its founder but also…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T12:34:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/19/13.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f039ec7d9313d9d9",
-      "title": "Pope Leo XIV appoints members of International Theological Commission",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-appoints-members-international-theological-commissi.html",
-      "summary": "Pope Leo XIV appoints 24 members of the International Theological Commission and renews the mandates of 6 others who served during its previous five-year term. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T12:30:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/12/13/rome-388456.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8e6e5ad1ff95ecd4",
-      "title": "Beauty, tradition, fellowship drive surge in new Catholic converts at Stanford University",
-      "link": "https://www.ewtnnews.com/world/us/beauty-tradition-fellowship-drive-surge-in-new-catholic-converts-at-stanford-university",
-      "summary": "Over the past year, the Catholic Community at Stanford (CC@S) has seen a dramatic rise in adults entering the Catholic Church through the Order of Christian Initiation of Adults (OCIA).",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T11:00:00Z",
-      "first_seen": "2026-10-19T11:51:35Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792183539/ewtn-news/en/shutterstock_2196343995_c2eeiu.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
