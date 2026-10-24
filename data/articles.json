@@ -1,8 +1,232 @@
 {
-  "generated_at": "2026-10-24T01:46:04Z",
+  "generated_at": "2026-10-24T06:47:26Z",
   "story_count": 600,
-  "with_photo": 441,
+  "with_photo": 443,
   "items": [
+    {
+      "id": "bfe63b5aee1d192f",
+      "title": "Allie Beth Stuckey sparks Christian debate over Halloween, horror movies: 'Facilitating fear'",
+      "link": "https://www.christianpost.com/news/allie-beth-stuckey-sparks-debate-over-halloween-horror-movies.html",
+      "summary": "Conservative commentator and BlazeTV host Allie Beth Stuckey sparked a debate among Christians earlier this week for arguing that believers probably shouldn't fully participate in Halloween or watch horror films.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T05:20:34Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272448_w_550_309.jpg?v=20261024012058",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c38bc579016fbc87",
+      "title": "El-Sayed’s campaign test: Can he win over Black and Jewish voters?",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV1ZuaVZJb2Vmb1pLUEhnVktIdldlbWZOUlNyRXZlSGRheXc3Y1FPR2o2d1JrcFNSWXR4bDV3WEdIb3lQSlh1YnRwNmZiSEd4WGd2bkxRcUdqVlhwZWhXZUNfTEtDYm9vNERtUlF4X3lzTG1HN25GNUhyV0ZxY2JnV1hReDJJMFZPTTJiUXV0aFZtM0RNdTY1cklnazJuR1NuRUFmTzNXZzY0UXk5bzFFOFdXdHdyWnNXcmpfdk1Vem0wT0hCUl8wYQ?oc=5",
+      "summary": "El-Sayed’s campaign test: Can he win over Black and Jewish voters? Religion News Service",
+      "outlet": "Religion News Service",
+      "outlet_url": "https://religionnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-24T05:05:38Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-Michigan-Senate4.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "86274656498d0b5c",
+      "title": "Is a third-party vote a wasted vote? Voting the lesser of two evils",
+      "link": "https://www.christianpost.com/voices/is-a-third-party-vote-a-wasted-vote-voting-against-the-worse.html",
+      "summary": "When the ballot offers only imperfect candidates, principled voters still have to choose. Abraham Lincoln argued that the real test of a choice isn’t whether it contains any evil, but whether it does more harm than good. By that test, voting against the worst…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T04:18:21Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272431_w_550_383.jpg?v=20261024001828",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0934b1a5369fc45d",
+      "title": "Seth Dillon warns Liberty students about ‘radical conspiracists’ exploiting young Christians",
+      "link": "https://www.christianpost.com/news/seth-dillon-warns-lu-students-against-radical-conspiracists.html",
+      "summary": "Seth Dillon, the founder of the satirical Christian publication The Babylon Bee, is encouraging young Christians to “get into the creative world” as he warns about the dangers posed by “radical conspiracists” who seek to exploit the feeling of oppression…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T04:14:09Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272445_w_550_361_521_88.jpg?v=20261024001452",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4f80c1477f366f51",
+      "title": "France’s multiculturalism experiment goes up in flames",
+      "link": "https://www.christianpost.com/voices/frances-multiculturalism-experiment-goes-up-in-flames.html",
+      "summary": "Protests billed as student frustration over class sizes and austerity have exploded into looting, arson, and attacks on France’s historic landmarks. This isn’t France being French. It’s the breakdown of a multicultural project that can no longer hide its…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T04:07:41Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272427_w_550_367_582_337.jpg?v=20261024001704",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "07894ce447e7e8b8",
+      "title": "Dolly Parton’s Niece Danielle Reveals Cancer Battle—And The Reaction That Raised Questions About Her Aunt’s Health",
+      "link": "https://www.jubileecast.com/articles/40499/20261024/dolly-parton-s-niece-danielle-reveals-cancer-battle—and-the-reaction-that-raised-questions-about-her-aunt-s-health.htm",
+      "summary": "Dolly Parton’s Niece Danielle Reveals Cancer Battle—And The Reaction That Raised Questions About Her Aunt’s Health",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T04:02:26Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31732/dolly-parton.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "017932a719268d1f",
+      "title": "Kim Hill Says She Left Christian Music Because Of Her Sexuality—Who Else Has Shared A Similar Story?",
+      "link": "https://www.jubileecast.com/articles/40498/20261024/kim-hill-says-she-left-christian-music-because-of-her-sexuality—who-else-has-shared-a-similar-story.htm",
+      "summary": "Kim Hill Says She Left Christian Music Because Of Her Sexuality—Who Else Has Shared A Similar Story?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T04:02:20Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32327/kim-hill.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "10fde2fe3d53edef",
+      "title": "GMA Dove Awards Announce 2027 Arena Return—And Fans Can Get Tickets Next Week",
+      "link": "https://www.jubileecast.com/articles/40497/20261024/gma-dove-awards-announce-2027-arena-return—and-fans-can-get-tickets-next-week.htm",
+      "summary": "GMA Dove Awards Announce 2027 Arena Return—And Fans Can Get Tickets Next Week",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T04:02:13Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31383/gma-dove-awards.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "36721658a2391f8a",
+      "title": "CeCe Winans Brings Her Largest Headlining Arena Tour, COME WORSHIP!, to BJCC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM19HT1hmSlFZa1R0Q1NJVHRKX19nSVNDNW9BOFY2dXQwSXNiN0trQ1FQcHE0ZktFRFBWbUgyaFJxNkw2bVN0ZEVDam5pSHBBY0NqLVUyMzZEUFhFal9PcjVyMHkyc2QzenJwVWMxT2NmYTczYlhhRFA4NnpMeUF3R042OF9FMGVqdEx1U3I2cENuVlNObFc3WlNlU3VxM25DcncxanBzWUQ5UjJVcHlsX1EtczU?oc=5",
+      "summary": "CeCe Winans Brings Her Largest Headlining Arena Tour, COME WORSHIP!, to BJCC The Birmingham Times",
+      "outlet": "The Birmingham Times",
+      "outlet_url": "https://www.birminghamtimes.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-24T04:00:51Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T06:47:26Z"
+    },
+    {
+      "id": "0f2b0754b8ce7b5a",
+      "title": "2 simple habits that finally made family Bible reading stick",
+      "link": "https://www.christianpost.com/voices/2-simple-habits-that-finally-made-family-bible-reading-stick.html",
+      "summary": "Like many parents, I started family Bible routines strong, only to watch them fade. Two simple habits at our breakfast table changed that, and one morning my 5-year-old was the one holding me accountable.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T04:00:36Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272416_w_550_367_709_276.jpg?v=20261024001618",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ea091f3b7d01e388",
+      "title": "John Lennox urges Christians to share their faith with confidence: 'We're all called to be witnesses'",
+      "link": "https://www.christianpost.com/news/john-lennox-urges-christians-to-share-their-faith-with-confidence.html",
+      "summary": "Oxford mathematician and Christian apologist professor John Lennox has encouraged believers to share their faith with more confidence, stressing that evangelism isn't reserved for preachers, theologians, or those with extensive biblical knowledge.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T02:41:22Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272447_w_550_317_555_224.jpg?v=20261023224159",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "757a3249094fd4c5",
+      "title": "‘God With Us’ Sets the Nativity in Modern Black America, Premieres at Maryland Megachurch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR09iTVZyb0h6OEFKQXl0SEcwdGdwaHNOb2xOMGlXRFRMR1pPcWVIdDhFXzZMWXZNMlh3SDBPeFU2VXo4VGlJa2Y0Ty1MTUVWMVVnOEV5Y3R3YjNMZS1lODlkbnU0cTlhOGE4dlpGWmlpd29FbHd5NFBPRnVROFlLTU0zNlR1U0hpQmNCY0FTcnVMWkNHWkJPcFMtaF91eUhDZDhnOEJSSzZ0Zw?oc=5",
+      "summary": "‘God With Us’ Sets the Nativity in Modern Black America, Premieres at Maryland Megachurch EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-24T02:06:56Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T06:47:26Z"
+    },
     {
       "id": "0aa5e17956dd1eca",
       "title": "35 clergy and family of clergy appeal for no vote at HPUMC",
@@ -129,6 +353,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "1dba1a4352fcecab",
+      "title": "Popular Gospel Singer, Toluwanisings Is Dead",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWGpaUldqaVE1c0dMOXlKdXZxRzZLWGUwWk5FSm05ZlVnWVFxYzkxQ3BISzYtanJaZU1SLV8waDBxbnR3ZktiTVpmRFBPTVRrbzZhaHBfM0NqY1hYT29LamVVdHZCRkFWQ0Z3Y2lHODh5MVlZY3NMcDRUZlczc08xZQ?oc=5",
+      "summary": "Popular Gospel Singer, Toluwanisings Is Dead LEADERSHIP Newspapers",
+      "outlet": "LEADERSHIP Newspapers",
+      "outlet_url": "https://leadership.ng",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-23T21:06:41Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T06:47:26Z"
     },
     {
       "id": "6ae8914d3499b77a",
@@ -2283,6 +2524,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-23T06:13:12Z"
+    },
+    {
+      "id": "4f5397f440410875",
+      "title": "WIN – See For King and Country’s Joel Smallbone in ‘Drummer Boy’",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaHhIQUFvRDF2Zlp1anJtOWRJRUFkZ3ctcFJuaUVDMHpWbG1YWmxjY3l2QmZYa09TU2lVZERRekQzbjlmaF8yem9WNG1JbEVrdHROWk1DOVVSaGlNbmc3bmJnbElxTDNtak5OSEJVNmtlMm9rUzFLb0VOQzFLdWtsYlN6eXFyMVN6aEtkTg?oc=5",
+      "summary": "WIN – See For King and Country’s Joel Smallbone in ‘Drummer Boy’ Rise 96.5",
+      "outlet": "Rise 96.5",
+      "outlet_url": "https://rise965.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-23T02:20:06Z",
+      "first_seen": "2026-10-24T06:47:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T06:47:26Z"
     },
     {
       "id": "e920d78e5d608650",
@@ -7244,7 +7502,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T01:48:20Z"
+      "image_tried": "2026-10-24T06:47:26Z"
     },
     {
       "id": "dab9edb29bb15d48",
@@ -8025,7 +8283,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T01:48:20Z"
+      "image_tried": "2026-10-24T06:47:26Z"
     },
     {
       "id": "f50b376ddb1c94b2",
@@ -9175,7 +9433,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T01:48:20Z"
+      "image_tried": "2026-10-24T06:47:26Z"
     },
     {
       "id": "76e56c08a2e91775",
@@ -10831,260 +11089,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "757b57384aacbae4",
-      "title": "Bijan Robinson Stopped to Pray With Falcons Rookie Zachariah Branch After His Second Fumble",
-      "link": "https://relevantmagazine.com/culture/bijan-robinson-stopped-to-pray-with-falcons-rookie-zachariah-branch-after-his-second-fumble/",
-      "summary": "Zachariah Branch had already fumbled once when the Falcons gave him another chance to return a kick. It went the same way. Branch took the kickoff 26 yards, lost the ball late in the third quarter, and the Chicago Bears recovered it. Atlanta was down 28-7…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T14:55:15Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/hf_20261019_144941_7dee9a59-73c2-48ae-a01d-7d6c07d06d66-1100x738.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3d923e1e5e16f74d",
-      "title": "Atlanta megachurch pastor Andy Stanley to step down | WORLD",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wMGtLbFdLVm96LTFkeGhySnRqNDFkTDJxRzl0aGZaeDB0MGRWV1U2eWYxN0VUXzZHYVpVTHNVRkVfaElsczhIUXBLQzVhNG1mRS13a01KcUR0aUVmZnNOR002TVBGaXR6THZlVHN2akRGcjl0SnlyMDRB?oc=5",
-      "summary": "Atlanta megachurch pastor Andy Stanley to step down | WORLD WORLD News Group",
-      "outlet": "WORLD News Group",
-      "outlet_url": "https://wng.org",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T14:54:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "7a8c0ad8998fa38c",
-      "title": "Two-Time Grammy Winner Hezekiah Walker Is Officially The First Gospel Artist to Create Housing in New York",
-      "link": "https://pathmegazine.com/articles/two-time-grammy-winner-hezekiah-walker-is-officially-the-first-gospel-artist-to-create-housing-in-new-york/",
-      "summary": "For more than four decades, Brooklyn-born Bishop Hezekiah Walker has used music and ministry to inspire generations. He has also been extending that legacy into the work … The post Two-Time Grammy Winner Hezekiah Walker Is Officially The First Gospel Artist…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T14:49:34Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "a1fa902bdc75412b",
-      "title": "Iran executed over 2,000 citizens over the past year, human rights group says",
-      "link": "https://www.christianpost.com/news/iran-executed-over-2000-citizens-over-the-past-year-report.html",
-      "summary": "More than 2,000 people were executed in Iran over the past year, approximately one person every 4.35 hours, according to a new report that found a 29% increase in executions.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T14:40:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272348_w_550_367.jpg?v=20261019104136",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7749e42386f24362",
-      "title": "OUT NOW! ZACARDI CORTEZ’ IBHAR: THE CHRONICLE (CHAPTER 3) – Watch New Video",
-      "link": "https://pathmegazine.com/articles/out-now-zacardi-cortez-ibhar-the-chronicle-chapter-3-watch-new-video/",
-      "summary": "The highly anticipated 15-track anthology album by Zacardi Cortez is here! IBHAR: THE CHRONICLE (Chapter 3) completes a musical journey that showcases Cortez’s signature raspy tone, explosive vocal … The post OUT NOW! ZACARDI CORTEZ’ IBHAR: THE CHRONICLE…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T14:38:02Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "ece9b55a331d1d12",
-      "title": "Sparkling 'Great White Throne' visits a pastor's wife's worst day",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQldPVVBkMnBlNmFYRWtoTDVCbkt1c1lGZ05LVE1adDItd0R1LXllQjR1eXU3ZlZRYWZJb3ZFMkptWXhMTWF4aGFBYllnZ01pTGRmWDhzdXc0VUpIODh6dEo4OFNJc2tlZnc3NHMtWWZ5MExIUllWTVhtb3Q1TXVXSFdVV1U3c056clFPazdnMjlNcm1pSXpCbDM4S3JWTDJTZUU3eXZGUjRUZDZGc0JfbDhXemgxSGw5bWxPZlF0d1gxTVZjZGc?oc=5",
-      "summary": "Sparkling 'Great White Throne' visits a pastor's wife's worst day Milwaukee Journal Sentinel",
-      "outlet": "Milwaukee Journal Sentinel",
-      "outlet_url": "https://www.jsonline.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T14:37:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "80d30253dd99749d",
-      "title": "Pope Leo XIV, Chris Pratt come together for new documentary about the tomb of St. Peter",
-      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chris-pratt-come-together-for-new-documentary-about-the-tomb-of-st-peter",
-      "summary": "“Pétros Ení — Discovering the Origins” is scheduled to be released in theaters in February 2027.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T14:35:06Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792187389/ewtn-news/en/chrisprattpopeleo_i2wv5n.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a9939e94a1a04823",
-      "title": "Andy Stanley announces leadership change at North Point",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdWRHdE81RFFDZmJlNXVqbV9sREROMVpzMUNaVk0zb09MaTlaRllWYjRJTTR1WWhJQXdkTUwtcGxjOE8yM3dha2NkcGJfc2o5dDc5Y21JYWZtTDFlUWtJUTRHUGZ0S2tNd3FDYnVGR0lzWFF0WU1vR2dyNld2bGlmZFo1M1lBZw?oc=5",
-      "summary": "Andy Stanley announces leadership change at North Point The Roys Report",
-      "outlet": "The Roys Report",
-      "outlet_url": "https://roysreport.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T14:29:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "fcfb4f53f81b640a",
-      "title": "Bildad Holds Up a Mirror to the Wrong Man (Job 18:1–10) — Job 18, Part 9",
-      "link": "https://blackchristiannews.com/bildad-holds-up-a-mirror-to-the-wrong-man-job-181-10-job-18-part-9/?utm_source=rss&utm_medium=rss&utm_campaign=bildad-holds-up-a-mirror-to-the-wrong-man-job-181-10-job-18-part-9",
-      "summary": "Glory be to God in the highest, and to His Son, the Lord Jesus Christ, ladies and gentlemen, brothers and The post Bildad Holds Up a Mirror to the Wrong Man (Job 18:1–10) — Job 18, Part 9 appeared first on Black Christian News Network One (BCNN1) .",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T14:26:12Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/job18-pt9-lamp.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "42691bb98fa4f465",
-      "title": "Beloved Minnesota pastor, 3-year-old son killed in accident",
-      "link": "https://www.christianpost.com/news/beloved-minnesota-pastor-3-year-old-son-killed-in-accident.html",
-      "summary": "A well-loved Minnesota pastor and his 3-year-old son were killed when a tire came off a trailer on a South Dakota interstate and hit the family’s minivan, according to reports.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T14:13:33Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272357_w_550_326_594_109.jpg?v=20261019102505",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b24dab7a29312e40",
-      "title": "French bishops appeal for calm as riots and looting sweep France",
-      "link": "https://www.ewtnnews.com/world/europe/french-bishops-condemn-riots-call-for-peace-amid-arson-attacks-looting",
-      "summary": "France’s bishops appealed for an end to violence after a weekend of riots in which several buildings burned, shops were looted nationwide, and a Lyon interreligious peace march was postponed.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T13:43:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792385022/ewtn-news/en/2300080534_txqk2r.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d1e2c16e59e71b3f",
-      "title": "Big Daddy Weave’s \"My Hope Is Jesus Tour\": Cities, Dates, And Tickets, Plus Jekalyn Carr’s Fall Run",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkVMN2duYXZxbGxSRW80Z3ByOS1nZGhPczY3d3p5TFBFV1d4blF4YjI3OUVSWjYzZUdiMUI2X1JjVjRGdTRIU2p6SDBaX3NNVjN0SXVPYUVNaTdLVVFLMWdQclUzNWw5Ums1UFNRRFFqaTdWSm52NTN4WGhua1hCQ0FObkpzOHgzWm9RVGd3aTd6eGpNQVdYN01NOGVWQjJDRFNKY055cGp5UUpNOXRtalhEdExvY1JpUUxyYQ?oc=5",
-      "summary": "Big Daddy Weave’s \"My Hope Is Jesus Tour\": Cities, Dates, And Tickets, Plus Jekalyn Carr’s Fall Run JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Jekalyn Carr",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-19T13:16:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32255/big-daddy-weave.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ef2117c5e3561c0d",
-      "title": "Tyler Ulrich’s Father Shares Message After Southern Nazarene Safety’s Death: “The Lord Called Tyler This Morning”",
-      "link": "https://www.jubileecast.com/articles/40364/20261019/tyler-ulrich-father-family-message-southern-nazarene-safety.htm",
-      "summary": "Tyler Ulrich’s Father Shares Message After Southern Nazarene Safety’s Death: “The Lord Called Tyler This Morning”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T13:09:32Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32240/tyler-ulrich.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3265f75257f0b5f6",
-      "title": "Senior Pastor of North Point Ministries in metro Atlanta announces plans to step down in 2027",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMWpPekxzWlFENU4ydWNacUxadzJFdUwxV2xZcUtMLVNIam1rMHgyeGVNVThuc2ZjbU5KbkZpNjMtTzRIYjdDNy1JLXpWYU1KRXZlUmNmUzdIb19ubVlVR2oyT1J6N29aakVDNTFnVlJwREZnM293ekNZVndOU2o1akZqcXR4eUU1eGNDcVByOWliUU5vRHpubkx0Vk9veTVVbG1uRk5SSkQ4bU40M0lIcUhrS3NwU0xicXZ2UE1YS2pvZWpqYi1adEhCaGdLbjN4bHd6dVRBcTdaU01HZVZVbkdFajFlQTdrUm4tNzUydklzbXdlVlE4YVp2Qm1KN19CZWZYM0xXdw?oc=5",
-      "summary": "Senior Pastor of North Point Ministries in metro Atlanta announces plans to step down in 2027 11Alive.com",
-      "outlet": "11Alive.com",
-      "outlet_url": "https://www.11alive.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T13:09:00Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
     }
   ]
 }
