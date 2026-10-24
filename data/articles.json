@@ -1,8 +1,464 @@
 {
-  "generated_at": "2026-10-24T06:47:26Z",
+  "generated_at": "2026-10-24T11:47:55Z",
   "story_count": 600,
-  "with_photo": 443,
+  "with_photo": 450,
   "items": [
+    {
+      "id": "af9e6ca35987ca49",
+      "title": "Miley Cyrus Shaves Fan’s Head Before Chemo: What She Told Her Backstage at the Hollywood Bowl",
+      "link": "https://www.jubileecast.com/articles/40515/20261024/miley-cyrus-shaves-fan-head-before-chemo-hollywood-bowl.htm",
+      "summary": "Miley Cyrus Shaves Fan’s Head Before Chemo: What She Told Her Backstage at the Hollywood Bowl",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T11:45:20Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32339/miley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2d1482bebeaa88b5",
+      "title": "Alan Dershowitz Says It’s ‘Very Likely’ Ilhan Omar Ends Up Being Deported",
+      "link": "https://mycharisma.com/news/alan-dershowitz-says-its-very-likely-ilhan-omar-ends-up-being-deported/",
+      "summary": "Famed lawyer and legal expert Alan Dershowitz said Democratic Rep. Ilhan Omar of Minnesota is likely to be deported when the investigation into her immigration status ends. Newsmax host Greta Van Susteren had Dershowitz as a guest on a recent episode of her…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T11:30:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8fb6599a99079c43",
+      "title": "Blake Shelton Mourns John Anderson After Telling Him \"I Loved Him\" Days Before His Death",
+      "link": "https://www.jubileecast.com/articles/40514/20261024/blake-shelton-john-anderson-tribute-told-him-i-loved-him.htm",
+      "summary": "Blake Shelton Mourns John Anderson After Telling Him \"I Loved Him\" Days Before His Death",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T11:25:13Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32338/blake-shelton-and-john-anderson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c810009338a61cdc",
+      "title": "Ella Langley Sings \"Jolene\" at CMA’s Dolly Parton Tribute: Here’s What She Said About Dolly",
+      "link": "https://www.jubileecast.com/articles/40513/20261024/ella-langley-jolene-cma-dolly-parton-tribute.htm",
+      "summary": "Ella Langley Sings \"Jolene\" at CMA’s Dolly Parton Tribute: Here’s What She Said About Dolly",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T11:19:26Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32337/ella-langley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "16bde6e111bcc27f",
+      "title": "ESPN Radio’s Dan “The Duke” Davis, Voice Behind Flutie’s ‘Hail Mary’ Call, Dies at 84",
+      "link": "https://www.jubileecast.com/articles/40512/20261024/espn-radio-dan-the-duke-davis-dies-at-84.htm",
+      "summary": "ESPN Radio’s Dan “The Duke” Davis, Voice Behind Flutie’s ‘Hail Mary’ Call, Dies at 84",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T11:11:09Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32336/dan-davis.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "068cb69cf8855dcf",
+      "title": "Police: Utah Man Who Fantasized Online About Blowing Up Synagogue Found with Multiple Homemade Bombs",
+      "link": "https://mycharisma.com/news/police-utah-man-who-fantasized-online-about-blowing-up-synagogue-found-with-multiple-homemade-bombs/",
+      "summary": "A Utah man who spewed hatred of Jews online and expressed his wish to bomb a synagogue is now facing federal charges. Skyler AJ Rose, 22, of Ogden, Utah, was indicted by a federal grand jury, according to a Department of Justice news release. On Dec. 23…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T11:00:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "58e32dad5d771321",
+      "title": "Franciscans call for solidarity as haze from Indonesian fires blankets Southeast Asia",
+      "link": "https://www.ewtnnews.com/world/asia-pacific/franciscans-call-for-solidarity-as-haze-from-indonesian-fires-blankets-southeast-asia",
+      "summary": "Ongoing air pollution and its effects were discussed at the assembly of the Franciscan Network for Peace and Integral Ecology in Asia, held in Kota Kinabalu, Malaysia, earlier this month.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T11:00:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792711915/ewtn-news/en/Haze_26_EWTN_Sisters-bring-aid-packages_Photo-courtesy-Taucen-Girsang_fjtv4c.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4d580ad5ac04846e",
+      "title": "Forrest Frank’s \"The Jesus Generation\" Documentary Heads to Theaters in 2027: What We Know",
+      "link": "https://www.jubileecast.com/articles/40511/20261024/forrest-frank-jesus-generation-documentary-theaters-2027.htm",
+      "summary": "Forrest Frank’s \"The Jesus Generation\" Documentary Heads to Theaters in 2027: What We Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T10:33:28Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30670/forrest-frank.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cb5338908f988a55",
+      "title": "Melania Trump Secures Russia-Ukraine Ceasefire",
+      "link": "https://mycharisma.com/news/melania-trump-secures-russia-ukraine-ceasefire/",
+      "summary": "First Lady Melania Trump secured a localized ceasefire between Russia and Ukraine in the city of Oleshky. According to Mrs. Trump, the ceasefire, which will begin on October 29, allows for humanitarian aid to enter the area. “The situation in Oleshky is dire…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T10:30:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "33aa19df92675840",
+      "title": "Video Roundtable: When Is It OK to Cancel Church?",
+      "link": "https://www.christianitytoday.com/2026/10/canceling-church/",
+      "summary": "Most Christians agree that weekly Sunday gatherings are a must. But there’s less agreement over what constitutes an exception to the rule. Is it acceptable to cancel services for a blizzard? For the Super Bowl? To give church staff a break? And what about…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T10:00:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/why-we-still-gather-round-table.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ccb7bb2bf6e637b6",
+      "title": "Korean bishops elect new president, approve guidelines on sexual violence",
+      "link": "https://www.ewtnnews.com/world/us/korean-bishops-elect-new-president-approve-guidelines-on-sexual-violence",
+      "summary": "Korean bishops elect president, Church in Burundi supports over 80,000 refugees, Scotland Bishops’ Conference president steps back from duties, and more in this week’s Catholic world news roundup.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T10:00:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614558/images/south-korea.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "98fa3d63e46e7d9a",
+      "title": "Pope: ‘Hearts of young people are longing to discover Christ’s love’",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-xiv-jesus-youth-movement-audience.html",
+      "summary": "Pope Leo XIV meets with the Jesus Youth International Conference, and praises efforts to engage young people in the life of the Church by helping them discover Christ’s love. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T09:51:33Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/24/2026-10-24-partecipanti-all-incontro-promosso-da-jesus-youth-int/1792835406014.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0753d102ef879e7f",
+      "title": "Mark Driscoll Tells Christians To Reject Same-Sex Wedding Invitations—Even When Family Is Involved",
+      "link": "https://www.jubileecast.com/articles/40510/20261024/mark-driscoll-tells-christians-to-reject-same-sex-wedding-invitations—even-when-family-is-involved.htm",
+      "summary": "Mark Driscoll Tells Christians To Reject Same-Sex Wedding Invitations—Even When Family Is Involved",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T09:34:24Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23603/mark-driscoll.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3bfc9b0e63a1ad25",
+      "title": "Jennifer Hudson Surprises Gospel Singer Sharonda K. Mitchell After Cancer Battle",
+      "link": "https://www.jubileecast.com/articles/40509/20261024/jennifer-hudson-surprises-gospel-singer-sharonda-k-mitchell-after-cancer-battle.htm",
+      "summary": "Jennifer Hudson Surprises Gospel Singer Sharonda K. Mitchell After Cancer Battle",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T08:41:12Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32335/sharonda-k-mitchell.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ae5860e95d4112c3",
+      "title": "Most Popular Movies For This Weekend: “Clayface” Leads As Elizabeth Holmes Documentary Threatens A Box Office Upset",
+      "link": "https://www.jubileecast.com/articles/40508/20261024/most-popular-movies-for-this-weekend-clayface-leads-as-elizabeth-holmes-documentary-threatens-a-box-office-upset.htm",
+      "summary": "Most Popular Movies For This Weekend: “Clayface” Leads As Elizabeth Holmes Documentary Threatens A Box Office Upset",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T08:34:35Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32295/clayface.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cb9462d5e5f6448f",
+      "title": "Meghan Markle’s Father Named In Child Abuse Allegations In 2018 Letter, Report Says—He Denies Separate Image Claims",
+      "link": "https://www.jubileecast.com/articles/40507/20261024/meghan-markle-s-father-named-in-child-abuse-allegations-in-2018-letter-report-says—he-denies-separate-image-claims.htm",
+      "summary": "Meghan Markle’s Father Named In Child Abuse Allegations In 2018 Letter, Report Says—He Denies Separate Image Claims",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T08:29:19Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31490/meghan-markle.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2fbd25abc45f965f",
+      "title": "“Crazy Love” Author Francis Chan Turns Songwriter With Matt Maher On “One Table”",
+      "link": "https://www.jubileecast.com/articles/40506/20261024/crazy-love-author-francis-chan-turns-songwriter-with-matt-maher-on-one-table.htm",
+      "summary": "“Crazy Love” Author Francis Chan Turns Songwriter With Matt Maher On “One Table”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T08:24:15Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/22292/francis-chan.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d8432b49127e2c89",
+      "title": "Allie Beth Stuckey Faces Christian Backlash Over Halloween Advice—Where Should Believers Draw The Line?",
+      "link": "https://www.jubileecast.com/articles/40505/20261024/allie-beth-stuckey-faces-christian-backlash-over-halloween-advice—where-should-believers-draw-the-line.htm",
+      "summary": "Allie Beth Stuckey Faces Christian Backlash Over Halloween Advice—Where Should Believers Draw The Line?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T08:16:21Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28785/allie-beth-stuckey.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "faef83ef881de993",
+      "title": "Album Review: Charity Gayle’s \"His Name Shall Be\" Brings Christmas Worship Into Seasons Of Joy And Grief",
+      "link": "https://www.jubileecast.com/articles/40504/20261024/album-review-charity-gayle-s-his-name-shall-be-brings-christmas-worship-into-seasons-of-joy-and-grief.htm",
+      "summary": "Charity Gayle’s His Name Shall Be Brings Christmas Worship Into Seasons Of Joy And Grief",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T08:11:07Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32334/charity-gayle.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0b98ed93997b81ee",
+      "title": "Lord's Day Reflection: The love commandment",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/gospel-reflection-thirtieth-sunday-ordinary-time.html",
+      "summary": "As the Church celebrates the Thirtieth Sunday in Ordinary Time, Fr. Edmund Power reflects on the theme: “The love commandment.” Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T08:00:00Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/09/30/Sunday-Gospel-Reflection1AEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f2bcb6741df2a67e",
+      "title": "Frank Turek Pushes Back At Ken Ham Over Earth’s Age: Are Christians Being Unfairly Called “Compromisers”?",
+      "link": "https://www.jubileecast.com/articles/40503/20261024/frank-turek-pushes-back-at-ken-ham-over-earth-s-age-are-christians-being-unfairly-called-compromisers.htm",
+      "summary": "Frank Turek Pushes Back At Ken Ham Over Earth’s Age: Are Christians Being Unfairly Called “Compromisers”?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T07:47:08Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32310/frank-turek.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "66149526156acee9",
+      "title": "Silverwind Singer Betsy Ann Hernandez Dies At 71, Three Weeks After Pancreatic Cancer Diagnosis",
+      "link": "https://www.jubileecast.com/articles/40502/20261024/silverwind-singer-betsy-ann-hernandez-dies-at-71-three-weeks-after-pancreatic-cancer-diagnosis.htm",
+      "summary": "Silverwind Singer Betsy Ann Hernandez Dies At 71, Three Weeks After Pancreatic Cancer Diagnosis",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T07:23:58Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32333/betsy-ann-hernandez.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "95772de13551b59c",
+      "title": "Liberty University’s Ryan Helfenbein Says Christian Complacency Threatens America—Calls On Churches To Speak Out",
+      "link": "https://www.jubileecast.com/articles/40501/20261024/liberty-university-s-ryan-helfenbein-says-christian-complacency-threatens-america—calls-on-churches-to-speak-out.htm",
+      "summary": "Liberty University’s Ryan Helfenbein Says Christian Complacency Threatens America—Calls On Churches To Speak Out",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T07:19:40Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32332/ryan-helfenbein.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1dfa7b159d664cee",
+      "title": "Christianity Today Defends Elisabeth Elliot Sexuality Article—But Does Its Explanation Answer The Hardest Question?",
+      "link": "https://www.jubileecast.com/articles/40500/20261024/christianity-today-defends-elisabeth-elliot-sexuality-article—but-does-its-explanation-answer-the-hardest-question.htm",
+      "summary": "Christianity Today Defends Elisabeth Elliot Sexuality Article—But Does Its Explanation Answer The Hardest Question?",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-24T07:14:35Z",
+      "first_seen": "2026-10-24T11:47:55Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23111/elisabeth-elliot.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "bfe63b5aee1d192f",
       "title": "Allie Beth Stuckey sparks Christian debate over Halloween, horror movies: 'Facilitating fear'",
@@ -7280,7 +7736,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T06:54:10Z"
+      "image_tried": "2026-10-24T11:47:55Z"
     },
     {
       "id": "1c520c830c90a186",
@@ -7335,7 +7791,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T06:54:10Z"
+      "image_tried": "2026-10-24T11:47:55Z"
     },
     {
       "id": "9fa6e658390cbb55",
@@ -7352,7 +7808,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T06:54:10Z"
+      "image_tried": "2026-10-24T11:47:55Z"
     },
     {
       "id": "5afbde12f87a3336",
@@ -7633,7 +8089,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T06:54:10Z"
+      "image_tried": "2026-10-24T11:47:55Z"
     },
     {
       "id": "e8e17afc3877970d",
@@ -10647,448 +11103,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "fcd901cd5178e457",
-      "title": "Actor Chris Pratt joins Pope Leo in new documentary about St. Peter’s long-lost remains",
-      "link": "https://religionnews.com/2026/10/19/actor-chris-pratt-joins-pope-leo-in-new-documentary-about-st-peters-long-lost-remains/",
-      "summary": "VATICAN CITY (RNS) — Actor Chris Pratt explores the ancient burial ground beneath St. Peter’s Basilica in a new documentary, tracing the search for the apostle’s remains and the fragile humanity of his successors.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T17:44:32Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-vatican-film-petros-eni-20261019-262x369.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6bcb14e5a7e77c5c",
-      "title": "Arizona Supreme Court approves Grand Canyon University's new law school",
-      "link": "https://www.christianpost.com/news/arizona-supreme-court-approves-gcus-new-law-school.html",
-      "summary": "Grand Canyon University (GCU) has received unanimous approval for its new law school, a key step as the Christian institution seeks to teach the next generation of lawyers about the relationship between Christian values and the rule of law.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T17:34:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272362_w_550_309.jpg?v=20261019133435",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8a628e0052c012b1",
-      "title": "S.A. megachurch’s Sunday sermon has locals fired up. Here's why",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEo5WVNIYmFsWlJrSGZwUG1ZamI3LVMwNTZsTjlCR0VRLV8xQlltcDNlMnJwanVBWi1ZQXItOWgzc1RqV1E2Si04YTlVYWhaTzJRN0E5bzlOT29iSjFHQ3FleXFGXzAwam1xUTVWYjAxX2hsQmpod2I0YVdsM0l3M2otV2sxNG4xLWRReUZNYVU0WE1mZjBBNm1ZZHlqMGpMNXJPWg?oc=5",
-      "summary": "S.A. megachurch’s Sunday sermon has locals fired up. Here's why MySA",
-      "outlet": "MySA",
-      "outlet_url": "https://www.mysanantonio.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T17:30:45Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "06badf941e95a637",
-      "title": "Notre Dame, Boston College professors among new members of Vatican theological commission",
-      "link": "https://www.ewtnnews.com/vatican/notre-dame-boston-college-professors-among-new-members-of-vatican-theological-commission",
-      "summary": "The Vatican announced 24 new members to the International Theological Commission on Monday.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T17:10:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792420095/ewtn-news/en/PXL_20251115_082851212_cz6iog.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "17bce9e6a46380af",
-      "title": "Black Church Bay star Tom Cullen says LGBTQ representation 'really matters'",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jcVU0ZkRUcjdLYkV1RkRVcFBIeXlPeHl2WFU5QzVjcWVCbHY0VW1ob0ptZWFOYkpoVERWMVVUdVQ1NC1yeVdZcnFpUWhwOFZxZjMxWFBPc0Y2ODNSb1E?oc=5",
-      "summary": "Black Church Bay star Tom Cullen says LGBTQ representation 'really matters' BBC",
-      "outlet": "BBC",
-      "outlet_url": "https://www.bbc.co.uk",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T17:01:08Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-20T06:11:10Z",
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "bb285954edf49a01",
-      "title": "Mitch McVicker to play concert in Findlay",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObkNzZi0xbVJjQ3ZDYVlXODdwUGtNVEFpSFAtX29zQVRwYndwMGVhQjBsZlA4c0pxNGstV0NibDgzOVFldWRhRFlWTGtCUU1nV2RBdS02VVlvcm95bzBmd0h5NS0teFlYSzZjVlhjeGFKTWtQSWczRUdiQWFFRDFJbTc4ZDM?oc=5",
-      "summary": "Mitch McVicker to play concert in Findlay Findlay News | The Courier",
-      "outlet": "Findlay News | The Courier",
-      "outlet_url": "https://thecourier.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-19T17:00:00Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "f5eb692f5e24c0bd",
-      "title": "PHOTOS: 57th Annual Dove Awards celebrate Gospel music's biggest stars in Nashville",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnFQZTJyd29pYjQzUUpKMy04X0VFeERjeVRRelVjcnVNTFBNdzNqd2xIOUZRem9DbGFVQ0JzZFZUWEhkMThtN252Rmw1YTc5OXp3VWtmVVFxR0pRS0x3NUQ1WDVReENVc25qbjNQRTBSdi1GbE1nc1JCcHZVX0w5c3lPQUtHSVIwZklFYnQ5T0l6OVFTa1NoN3JKUk1oN1hrc0RyRG9WeWJkaXcySzVFRDhjUlNwS2o1aUtCVVRQQQ?oc=5",
-      "summary": "PHOTOS: 57th Annual Dove Awards celebrate Gospel music's biggest stars in Nashville WZTV",
-      "outlet": "WZTV",
-      "outlet_url": "https://fox17.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-19T16:53:35Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-20T06:11:10Z",
-      "image_tried": "2026-10-22T19:20:44Z"
-    },
-    {
-      "id": "2208f242d9fbe289",
-      "title": "Tyler Perry's new Netflix Christmas film features CeCe Winans, Yolanda Adams, Kirk Franklin",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUU0ME1nbVdHaU5HMHVuY2t4QzlHdTA1XzI1eVRWS21PZTk3LUd4bzZtVEM2Z1F2b09qVXNzbEhZTFpGemNOVVdobEhCVDB1NHlXTTRuSWNCTlJIVm5TWkdjUFlHYzk4OGdOZExtLVQ2ZkNveFFRZWhmSGh4R2NxTUQ5QmhlQTJpOWd5NkNyd1hZcldoSjhfMnZXMzZtSWNMdmtSblNJSQ?oc=5",
-      "summary": "Tyler Perry's new Netflix Christmas film features CeCe Winans, Yolanda Adams, Kirk Franklin Christian Post",
-      "outlet": "Christian Post",
-      "outlet_url": "https://www.christianpost.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-19T16:49:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272359_w_550_366.jpg?v=20261019124939",
-        "via": "media:content"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-10-20T06:11:10Z"
-    },
-    {
-      "id": "5b5a53dc0be15990",
-      "title": "CeCe Winans tickets on sale in Seattle",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1VcFVGeXRUeTdSVGNLZHBmb2NDZTlBS3pJMTRBa0tnRVh6UldCMzJlSFR3dWpqbHh3MHR1MzRyQnBJRUhFbTMxcmNsLXZVVGEzdUVwVEZ4QVFpSnJNS1BjN01fUF8ybVF6Qlk5WXdrMXlNdHVITWNUVWhNYzhlaTg?oc=5",
-      "summary": "CeCe Winans tickets on sale in Seattle TicketNews",
-      "outlet": "TicketNews",
-      "outlet_url": "https://www.ticketnews.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-19T16:44:28Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-23T11:53:37Z"
-    },
-    {
-      "id": "1a44c2d0e5f9743d",
-      "title": "Calvary Chapel Pastor and Wife Killed Outside Home, Leaving 2 Teenage Children",
-      "link": "https://mycharisma.com/news/calvary-chapel-pastor-and-wife-killed-outside-home-leaving-2-teenage-children/",
-      "summary": "Two teenagers are mourning both parents after gunmen killed a Calvary Chapel pastor and his wife outside their home in Irapuato, Mexico, shortly after he officiated a funeral. Ángel González, senior pastor of Calvary Chapel Irapuato in Guanajuato state, and…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T16:40:28Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Autumn-Miles-book-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9996f529192ec324",
-      "title": "Breaking: False Prophet Andy Stanley, Who Told Christians to “Unhitch” From the Old Testament and Tried to Convince Bible-believing Churches to Become Homosexual-Affirming is Stepping Down by Daniel Whyte III",
-      "link": "https://blackchristiannews.com/breaking-false-prophet-andy-stanley-who-told-christians-to-unhitch-from-the-old-testament-and-tried-to-convince-bible-believing-churches-to-become-homosexual-affirming-is-stepping-down/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-false-prophet-andy-stanley-who-told-christians-to-unhitch-from-the-old-testament-and-tried-to-convince-bible-believing-churches-to-become-homosexual-affirming-is-stepping-down",
-      "summary": "The False Prophet/Pastor Exits Stage Left: Andy Stanley’s Departure and the Warnings From Daniel Whyte III and Others He Ignored The post Breaking: False Prophet Andy Stanley, Who Told Christians to “Unhitch” From the Old Testament and Tried to Convince…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T16:39:48Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/andystanley1.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ef1e1cf4a48b223",
-      "title": "Apostolic nuncio urges human-centered approach to technology at G20 Interfaith Forum",
-      "link": "https://www.ewtnnews.com/world/us/apostolic-nuncio-urges-human-centered-technology-g20-forum",
-      "summary": "Archbishop Gabriele Caccia, apostolic nuncio to the U.S., and leaders from the Muslim, Orthodox Christian, Hindu, Jewish, and Latter-day Saint traditions participated in the forum’s opening day.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T16:30:26Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792425734/ewtn-news/en/Caccia_500kb_v3by1k.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c13724e12e720250",
-      "title": "Lainey Wilson and Brandon Lake Open Up About Who They Wrote ‘The Jesus I Know Now’ For: “They All Have a Story”",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS2VucWsyRGFjNXdYNF9RM3J0Z1JrV1BDNGZ2UGpTUmxwUy1aWnFCb2gyMkY4TnRlRGJVWDdxNE9EcVV1aVhXMms5TlhDTkdjUnNoM2Z4eG5DSjB0cVlIV3Q4TWVJTS1WQkQxQ0JNT3BtbDBKYUl1ejNFTm1kTElhTVg5Z3lTbW5lM2tmYTdKSF9oZVZkMlR3NGY5a25laDVZN2FudTdOOVdueEp3SFpKVVl0SEdvTm5LTF85enRMdkJCT08tcVFFc01ZU2pTQW16SURfRm56YVAteDB2?oc=5",
-      "summary": "Lainey Wilson and Brandon Lake Open Up About Who They Wrote ‘The Jesus I Know Now’ For: “They All Have a Story” Holler Country",
-      "outlet": "Holler Country",
-      "outlet_url": "https://holler.country",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-19T16:26:00Z",
-      "first_seen": "2026-10-20T16:14:28Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-23T16:17:15Z"
-    },
-    {
-      "id": "bb60424a9913abc9",
-      "title": "gio. Shares Top Christian Rappers & Goes on World Cup Rant at the 2026 Dove Awards",
-      "link": "https://rapzilla.com/2026-10-gio-new-album-details-2026-dove-awards/",
-      "summary": "Rising artist gio. stepped onto the red carpet at the 2026 Dove Awards to discuss his latest musical chapter, hip-hop influences, and passions outside the studio. gio. highlighted his recent collaborative project during the red carpet interview. “I just…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T16:20:57Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/17202303/56dovespostgio-e1792283492304-768x461.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6be07f77aa93da2a",
-      "title": "Pope Leo speaks with President Zelensky, calls for humanitarian aid",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-10/pope-leo-phone-call-president-zelensky-19-october-2026.html",
-      "summary": "In a telephone conversation with the Ukrainian President, Pope Leo XIV expresses his hope for cooperation to allow food and medical aid to reach civilians in Oleshky, in the Kherson region, and for their safe evacuation. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T16:18:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/07/09/2025-07-09-s-e--il-sig--volodymyr-zelenskyy/1752063116920.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ab5509bfe0f4c6da",
-      "title": "Pastor Rob Ketterling calls Minnesota’s Somali settlement policies a 'case of compassion without a standard'",
-      "link": "https://www.christianpost.com/news/minnesota-pastor-rob-ketterling-slams-somali-settlement-policies.html",
-      "summary": "A day after a gang-related shooting disrupted Eden Prairie High School’s homecoming football game in Minnesota on Oct. 2, leaving two teenagers wounded in the parking lot outside Aerie Stadium, megachurch Pastor Rob Ketterling called on Christians to help fix…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T16:15:00Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272321_w_550_334.jpg?v=20261019122946",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "138919f7e80eb52d",
-      "title": "Andy Stanley Stepping Down From North Point After 31 Years",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVEZBY3BYSC1YOVZiMHhnMjM0S2UybjVwT3NqbTVOb1UyVjZPYjBZWXcycHprenUtNjhQZTNBTHVFdm03RVM1MnFRR1hJTnlaM2JKVHVJbkd2MDNhLTlHUmJWclBkSDVhWi0zM3FJV1RCdWZxcFlvWXF2VDFDdWplaUN0WEJxcnExbkdvcGhuOUE?oc=5",
-      "summary": "Andy Stanley Stepping Down From North Point After 31 Years Charisma Magazine Online",
-      "outlet": "Charisma Magazine Online",
-      "outlet_url": "https://mycharisma.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T16:04:03Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e5f381d7f0e79c0",
-      "title": "‘The Gospel belongs on the streets’: UK church challenges council’s preaching ban",
-      "link": "https://www.christianpost.com/news/christians-fight-for-right-to-share-the-gospel-on-british-streets.html",
-      "summary": "Christians at a church in Essex are fighting in court for the right to share the Gospel on British streets after a city council banned their use of loudspeakers and ordered them to stop warning people about Hell.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T15:59:28Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272352_w_550_308_415_249.jpg?v=20261019115929",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "46a4230c5c87760c",
-      "title": "Arizona Preacher Threatened With Arrest for Sharing Jesus Fights Back",
-      "link": "https://mycharisma.com/news/arizona-preacher-threatened-with-arrest-for-sharing-jesus-fights-back/",
-      "summary": "An Arizona evangelist says police threatened to arrest him for sharing the gospel at a holiday festival on public streets, even telling him that a conversation about salvation would have to happen outside the event. Now David Hoffman is challenging Tucson in…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T15:34:38Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Pagani-Discerning-the-Demonic-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "844535b594d2f46d",
-      "title": "Catholics in Ecuador mourn death of priest struck by falling crucifix during Mass",
-      "link": "https://www.ewtnnews.com/world/americas/catholics-in-ecuador-mourn-death-of-priest-struck-by-falling-crucifix-during-mass",
-      "summary": "The Catholic faithful are mourning the death at Mass of Father Patricio Alfredo Sánchez Molinari, parish priest of the Perpetuo Socorro Church in Guayaquil, Ecuador.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T15:26:45Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1791413236/ewtn-news/es/Sacerdote_Shutterstock_07102026_ndjpgt.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7ef970756463acb5",
-      "title": "Nathan Fielder’s 3-Hour Elizabeth Holmes Documentary Just Had the Biggest Doc Opening in 20 Years",
-      "link": "https://relevantmagazine.com/culture/nathan-fielders-3-hour-elizabeth-holmes-documentary-just-had-the-biggest-doc-opening-in-20-years/",
-      "summary": "Picture the pitch: a nearly three-hour documentary about Elizabeth Holmes, directed by the guy from Nathan For You, in actual theaters. It opened to $15 million. Nathan Fielder and Lance Oppenheim’s You Can See Everything did that on only 855 screens, which…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T15:17:47Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/holmes.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fdb3274807e92021",
-      "title": "Priest Preaches About Death Minutes Before Crucifix Falls and Kills Him During Mass",
-      "link": "https://mycharisma.com/news/priest-preaches-about-death-minutes-before-crucifix-falls-and-kills-him-during-mass/",
-      "summary": "A priest stood before his congregation and reminded them of a reality no one can escape: One day, every person in that room would die. Minutes later, he was gone. Father Patricio Alfredo Sánchez Molinari died Saturday, Oct. 17, after a large wooden crucifix…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T15:14:31Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "587c488b93ae5e56",
-      "title": "Kid Rock hopes Christian album featuring Eminem will bring revival across the US",
-      "link": "https://www.christianpost.com/news/kid-rock-hopes-christian-album-featuring-eminem-will-bring-revival.html",
-      "summary": "Kid Rock hopes the Christian music album he’s releasing alongside fellow Detroit musician Eminem, despite their political differences, will enable him to bring his faith-based music to arenas and stadiums and inspire a religious revival.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T15:10:18Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/22/272298_w_550_362_545_289.jpg?v=20261019112402",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6382ecd0a354e487",
-      "title": "BET And aTWIST Drama to Air “CHURCH WIVES,” Starring and Executive Produced by GIZELLE BRYANT",
-      "link": "https://pathmegazine.com/articles/bet-and-atwist-drama-to-air-church-wives-starring-and-executive-produced-by-gizelle-bryant/",
-      "summary": "BET and aTwist today announced that the drama “Church Wives,” the second title from BET and aTwist’s microseries partnership, will premiere Wednesday, November 4 at 10 p.m. … The post BET And aTWIST Drama to Air “CHURCH WIVES,” Starring and Executive Produced…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T15:01:42Z",
-      "first_seen": "2026-10-19T18:11:10Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T19:20:44Z"
     }
   ]
 }
