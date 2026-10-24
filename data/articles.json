@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-24T15:14:43Z",
+  "generated_at": "2026-10-24T18:16:31Z",
   "story_count": 600,
-  "with_photo": 451,
+  "with_photo": 449,
   "items": [
+    {
+      "id": "53ed9d1561de0dbc",
+      "title": "Brazil seeks to reopen case of Christian student facing 10 years’ prison for ‘transphobia’",
+      "link": "https://www.christianpost.com/news/brazil-seeks-to-reopen-transphobia-case-of-christian-student.html",
+      "summary": "Brazil’s federal prosecutors have lodged a special appeal that would reopen the “transphobia” prosecution of Isadora Borges, who studies veterinary medicine and risked as long as 10 years behind bars over two posts on X.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T17:03:53Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272451_w_550_403.jpg?v=20261024133447",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8f56d7ff85f0aa39",
+      "title": "Still the Jesus Guy: Kirk Franklin Talks I Am What I Am and Faith Without Filters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVHhRS2o4SFExSGdDNDhGTDliSkg4cXRPdlZBRy1EN2lrUjZZRmpEVk9GMG90aFdtbGVmOE1tRUhKc2ZnRlhpRGZDSW51YW5ORGFBV1oyaTVvcGZoOXB0anlLRGp6UGloMm9ZUTYyeVFPS2NvR09SNHhuNU1qeUptTWhWNnBFUmtXbWxRQXJCVURCejlpdmdrRURXTFVYbTk5QUZxbThtLVBxR1RTNDNOTHcyTjZ2VWpZOXIwbw?oc=5",
+      "summary": "Still the Jesus Guy: Kirk Franklin Talks I Am What I Am and Faith Without Filters Black America Web",
+      "outlet": "Black America Web",
+      "outlet_url": "https://blackamericaweb.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-24T16:32:27Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T18:16:31Z"
+    },
+    {
+      "id": "294d2762943301c3",
+      "title": "Denver archbishop responds to criticism over Trump prayer meeting: ‘I was being a Catholic priest’",
+      "link": "https://www.ewtnnews.com/world/us/denver-archbishop-responds-to-criticism-over-trump-prayer-meeting-i-was-being-a-catholic-priest",
+      "summary": "Archbishop James Golka led a prayer during an Oct. 22 meeting at the Oval Office between Trump and over half a dozen of his fellow U.S. bishops.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T16:00:00Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792798350/ewtn-news/en/Oct.22.2026.Oval..jpg_qk9yc3.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c7e623cf0d21b2c6",
+      "title": "Kirk Franklin Defends Druski's Megachurch Skit, Calls Out Wealthy Pastors: 'Stop Giving Him Content'",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnFPRW1ybUlyMXNqWnNRcHJhNm40UnhZUlJnWW5xaFJadGIzb3Uyem1Fa0ZPMGp0NWw1UTVmM2hTNWFOazZTQnB5amlYZ0Q3UlRNOFBNZ052Y2pEMDZfNXRRRUViNUhUanROcVNtcEQzTmYwUWg4YTh0bzhlTS1LNDZmdWdueVhjNU1QUHRSaDUySzk2bUxMa0xXc01jd0RFbzhr?oc=5",
+      "summary": "Kirk Franklin Defends Druski's Megachurch Skit, Calls Out Wealthy Pastors: 'Stop Giving Him Content' Complex",
+      "outlet": "Complex",
+      "outlet_url": "https://www.complex.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-24T15:04:37Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T18:16:31Z"
+    },
     {
       "id": "1beda907334b3c14",
       "title": "Students for Life, Turning Point debate abortion in ‘Feminists Lied’ campus tour",
@@ -55,6 +127,25 @@
       "first_seen": "2026-10-24T15:14:43Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2024/agosto/09/041.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e091b2e3da35de28",
+      "title": "The untold story of Christian music: Who controls the worship songs we sing?",
+      "link": "https://www.christianpost.com/video/the-untold-story-of-who-controls-christian-worship-music.html",
+      "summary": "Jonathan Allen Wright, creator of the YouTube documentary series \"The Untold History of CCM,\" joins The Christian Post to discuss the complicated business behind contemporary Christian music",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-24T14:11:28Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272349_w_550_310_690_242.jpg?v=20261024132658",
         "via": "media:content"
       },
       "breaking": false,
@@ -378,6 +469,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "62c8d7089c3df4fb",
+      "title": "ZOEgirl’s returns with new single after 25 years, with same faith",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWpBRERRY0dsVGtDVUFXRVVlem9FUFlXaEl6UnBFWTNiQmNjWlhUMUFKYUx5aU9oSGVsZ0tuNmZzNm1mNEF3QmctQmpxb0hrZFJnQl94QVhQeFpJMF9WZDk2aXhCYWJjM3lMcVU1TmNzb0N3YnVhaUdRM1VNTkFHNEY5Zzl2OENVVk9CRmFLV2dPNUU4NjEyVkd6c2FvcWM?oc=5",
+      "summary": "ZOEgirl’s returns with new single after 25 years, with same faith CHVN Radio",
+      "outlet": "CHVN Radio",
+      "outlet_url": "https://www.chvnradio.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-24T11:10:54Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "62d0467d56fa515a",
@@ -6867,7 +6975,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-22T05:49:34Z",
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "bf9a9e40b8862cf4",
@@ -6922,7 +7030,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "90e5ca9ad9c6a0bd",
@@ -6939,7 +7047,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-22T05:49:34Z",
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "96b2e879fda5b9e2",
@@ -6975,7 +7083,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-22T05:49:34Z",
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "277962a0dcda560a",
@@ -7028,7 +7136,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "914839667488c847",
@@ -7121,7 +7229,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "9c38b1ccf030bcb0",
@@ -7138,7 +7246,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "e531761ea8c16003",
@@ -7174,7 +7282,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "68c606059eb67d43",
@@ -7210,7 +7318,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "222ade7547312008",
@@ -7434,7 +7542,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "1abcda59b3e336b0",
@@ -7547,6 +7655,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "04cc16b42985dc17",
+      "title": "Gospel artiste confident in God’s promises",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVMxcHFBcHgxUHUzcGpBWXJITE1XN1RGRk9oNjM1MjJuNk5fU2JzVzYtN0l5OVBQc1Z4Y0FULVBHZlBzSnNFYjBmTDBZUUxaWWhPaFRCSks5MUJwWktxak5EYnVkamZDRlFTWEVQT1E0YlNQa2lnM1JaTjZRYVRtenBsNTBDRjRZeDhaemNiOHh4SlgyS1oxMzFaY0pBeWN6LVk3MDRB?oc=5",
+      "summary": "Gospel artiste confident in God’s promises Jamaica Star",
+      "outlet": "Jamaica Star",
+      "outlet_url": "https://jamaica-star.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-21T11:28:35Z",
+      "first_seen": "2026-10-24T18:16:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "fbd91723548b2912",
@@ -10500,7 +10625,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-21T17:49:34Z"
+      "image_tried": "2026-10-24T18:16:31Z"
     },
     {
       "id": "019c0873ddf7f4f4",
@@ -10976,135 +11101,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-23T11:53:37Z"
-    },
-    {
-      "id": "f3a0bd1a777059d8",
-      "title": "Pastor Stephen Clayton And Three-Year-Old Son Killed In Crash—How Can The Church Help His Pregnant Wife?",
-      "link": "https://www.jubileecast.com/articles/40372/20261019/pastor-stephen-clayton-and-three-year-old-son-killed-in-crash—how-can-the-church-help-his-pregnant-wife.htm",
-      "summary": "Pastor Stephen Clayton And Three-Year-Old Son Killed In Crash—How Can The Church Help His Pregnant Wife?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T19:49:18Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32258/stephen-clayton.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ce42ddca89ffaf55",
-      "title": "Andy Stanley, pastor of North Point Church, to resign in 2027",
-      "link": "https://religionnews.com/2026/10/19/andy-stanley-pastor-of-north-point-church-to-resign-in-2027/",
-      "summary": "(RNS) — Stanley told church members he would no longer be employed by the church as of May 2027, when he turns 69. North Point, which claims 37,000 weekly worshippers, is one of the nation's largest churches.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T19:48:58Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "ae5c71ae3524569f",
-      "title": "Jewish charter school falls short of approval from Oklahoma school board",
-      "link": "https://www.christianpost.com/news/jewish-charter-school-falls-short-of-approval-in-oklahoma.html",
-      "summary": "A proposed Jewish virtual charter school fell short of the votes it needed for approval from an Oklahoma board, though its organizers plan to appeal.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T19:47:00Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272369_w_550_367_691_458.jpg?v=20261019154904",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d02c56ef39738990",
-      "title": "From Hip-Hop to Gospel, the Bible Has a Brand-New Beat",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOemF5MnNSOGRqQmNUbVVXemNiOFpzaFhTQWRfc1Y4S3pUbVB1VGFZTDZNbENVak1TT2dEUGxoVkYxZXREZjBHelpXTXFPaW42d2pHbW16QzlxVG9QMU1IbVhQR2dzc1NxRTJlUmZKVkY3LVFZOFhEcjZWSWtzaENtODAxMDZkRUdDMGUtNWNfOA?oc=5",
-      "summary": "From Hip-Hop to Gospel, the Bible Has a Brand-New Beat Word In Black",
-      "outlet": "Word In Black",
-      "outlet_url": "https://wordinblack.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-19T19:46:41Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "4b264273838af65d",
-      "title": "Firefighters Battle Inferno to Save Historic ‘Godfather’ Church",
-      "link": "https://mycharisma.com/news/firefighters-battle-inferno-to-save-historic-godfather-church/",
-      "summary": "Flames tore through a vacant Staten Island warehouse Saturday evening, collapsing its roof and sending burning embers into powerful winds. But nearby stood a historic church that had already survived one devastating fire and somehow escaped the flames again…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T19:46:05Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ef17dfaa8ad77093",
-      "title": "Donnie Wahlberg’s Jet Skids Off Las Vegas Runway—What Does Newly Released Emergency Audio Reveal?",
-      "link": "https://www.jubileecast.com/articles/40371/20261019/donnie-wahlberg-s-jet-skids-off-las-vegas-runway—what-does-newly-released-emergency-audio-reveal.htm",
-      "summary": "Donnie Wahlberg’s Jet Skids Off Las Vegas Runway—What Does Newly Released Emergency Audio Reveal?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T19:44:26Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29824/donnie-wahlberg.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5fbfaa694148c4ba",
-      "title": "Marc Singer Reportedly Leaves Hospital—What Caused The ‘Beastmaster’ Star’s Sudden Health Scare?",
-      "link": "https://www.jubileecast.com/articles/40370/20261019/marc-singer-reportedly-leaves-hospital—what-caused-the-beastmaster-star-s-sudden-health-scare.htm",
-      "summary": "Marc Singer Reportedly Leaves Hospital—What Caused The ‘Beastmaster’ Star’s Sudden Health Scare?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T19:41:05Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32248/marc-singer.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
