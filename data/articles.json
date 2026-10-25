@@ -1,8 +1,234 @@
 {
-  "generated_at": "2026-10-25T01:30:18Z",
+  "generated_at": "2026-10-25T07:11:26Z",
   "story_count": 600,
-  "with_photo": 449,
+  "with_photo": 453,
   "items": [
+    {
+      "id": "3f8e380208c09525",
+      "title": "Breaking News: At least 12 people were injured, including children –11 who sustained gunshot wounds—during a shooting near Florida A&M University (FAMU) in Tallahassee, Florida.",
+      "link": "https://blackchristiannews.com/breaking-news-at-least-12-people-were-injured-including-children-11-who-sustained-gunshot-wounds-during-a-shooting-near-florida-am-university-famu-in-tallahassee-florida/?utm_source=rss&utm_medium=rss&utm_campaign=breaking-news-at-least-12-people-were-injured-including-children-11-who-sustained-gunshot-wounds-during-a-shooting-near-florida-am-university-famu-in-tallahassee-florida",
+      "summary": "Daniel Whyte III, President of Gospel Light Society International, says in his early Christian life and ministry his heroes were The post Breaking News: At least 12 people were injured, including children –11 who sustained gunshot wounds—during a shooting…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T05:27:49Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/famu-law-enforcement-preacher.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "88d3e17424410def",
+      "title": "This week in Christian history: Doug Phillips resigns; Protestant Reformation begins",
+      "link": "https://www.christianpost.com/news/this-week-in-christian-history-protestant-reformation-begins.html",
+      "summary": "Events from this week in Christian history include the start of the Protestant Reformation, Doug Phillips resigning from Vision Forum, and the death of Ethiopian Church leader Salama III.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T04:05:21Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272432_w_550_366.jpg?v=20261025000021",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c637ea424a854964",
+      "title": "Is it censorship when parents ask what books kids read at school?",
+      "link": "https://www.christianpost.com/voices/is-it-censorship-when-parents-ask-what-books-kids-read.html",
+      "summary": "When a Colorado mother’s 12-year-old came home in tears from what she thought was an art club, she learned how little parents sometimes know about what happens at school. Her story is a warning, and a call for parents to speak up.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T04:03:00Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272434_w_550_367.jpg?v=20261024235547",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "470cfd83caf489d0",
+      "title": "Your faith shouldn’t cost you a bank account",
+      "link": "https://www.christianpost.com/voices/your-faith-shouldnt-cost-you-a-bank-account.html",
+      "summary": "The nation’s nine largest banks maintained policies that restricted services based on customers’ religious or political beliefs. Some cited the SPLC’s “hate group” labels to justify it.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T04:02:36Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272436_w_550_367_561_394.jpg?v=20261024235511",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c789029b18f74a48",
+      "title": "Dear Christians, stop promising hurting friends it will get better",
+      "link": "https://www.christianpost.com/voices/christians-stop-promising-hurting-friends-it-will-get-better.html",
+      "summary": "When someone we love is waiting for difficult news, it’s tempting to promise that everything will work out. But Christian hope gives us firmer ground than a prediction, and it leaves room for honest grief.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T04:01:28Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272440_w_550_367_535_162.jpg?v=20261024235443",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d49f112fb41cc4ad",
+      "title": "Multisite churches are growing faster than leadership pipelines can keep up with, research shows",
+      "link": "https://www.christianpost.com/news/multisite-churches-are-growing-faster-than-leadership-pipelines.html",
+      "summary": "Nearly 10% of Protestant churchgoers in the United States attend a multisite church, many of which are growing at faster rates than leadership pipelines can keep up with, according to a new research report that sheds light on the challenges of church…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T04:00:00Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272407_w_550_367.jpg?v=20261024235346",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e1af6846c48fb99a",
+      "title": "Australian Christian Music Conference Returns In 2027",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU2FMeGVuX0pDYktHOFlEQk1kamQ3X0hET0liY1h2WVdBZU1JaER2dmZDWEpJOGJYSk5GX2FUankxV1BPS3VBWncxU3N4bDdld0RpZ245MERKNy1SRWY2QkdUa0FQYzBVVWdQbEJDaHdQMlhiTzNwek5QNkxhN0pfLUd2TEdzRkJRNnlaTXVMY3NFa2ZtNDVj?oc=5",
+      "summary": "Australian Christian Music Conference Returns In 2027 theMusic",
+      "outlet": "theMusic",
+      "outlet_url": "https://themusic.com.au",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-25T03:29:21Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-25T07:11:26Z"
+    },
+    {
+      "id": "cdf0e69fb6efb27a",
+      "title": "Nik Ryan Finds Redemption and New Purpose on Latest Single “Broken Man”",
+      "link": "https://www.jubileecast.com/articles/40526/20261024/nik-ryan-broken-man-single.htm",
+      "summary": "Nik Ryan Finds Redemption and New Purpose on Latest Single “Broken Man”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T03:08:48Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32349/nik-ryan.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "27b460c06f9fd13c",
+      "title": "2026 Movies Recommended for Christians: 8 Inspiring Films, From Faith-Based to Family-Friendly",
+      "link": "https://www.jubileecast.com/articles/40525/20261024/2026-movies-recommended-for-christians-inspiring-faith-based-family-films.htm",
+      "summary": "2026 Movies Recommended for Christians: 8 Inspiring Films, From Faith-Based to Family-Friendly",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T02:51:09Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32348/movies.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b795e3b8a9f0333f",
+      "title": "“The Challenge” Alum Anika Rashaun Dies at 34: What We Know About Her Life and Legacy",
+      "link": "https://www.jubileecast.com/articles/40524/20261024/anika-rashaun-the-challenge-alum-dies-at-34-life-and-legacy.htm",
+      "summary": "“The Challenge” Alum Anika Rashaun Dies at 34: What We Know About Her Life and Legacy",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T02:38:12Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32347/anika-rashaun.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b7a88eafab668640",
+      "title": "Who Sang the National Anthem at World Series Game 2? Kylie Cantrall Follows Mickey Guyton in Milwaukee",
+      "link": "https://www.jubileecast.com/articles/40523/20261024/kylie-cantrall-national-anthem-world-series-game-2-mickey-guyton.htm",
+      "summary": "Who Sang the National Anthem at World Series Game 2? Kylie Cantrall Follows Mickey Guyton in Milwaukee",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T02:27:25Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32346/kylie-cantrall.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e92b404e9199486a",
+      "title": "Former Saxon Drummer Nigel Durham Dies at 61 as Band Honors “Saxon Family” Member",
+      "link": "https://www.jubileecast.com/articles/40522/20261024/nigel-durham-former-saxon-drummer-dies-at-61.htm",
+      "summary": "Former Saxon Drummer Nigel Durham Dies at 61 as Band Honors “Saxon Family” Member",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T02:10:09Z",
+      "first_seen": "2026-10-25T07:11:26Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32345/saxon-drummer.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "97be72794ebf630a",
       "title": "Will Snoop Dogg’s Biopic Include His Gospel Chapter? What We Know About “Snoop” So Far",
@@ -6009,7 +6235,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-22T17:08:44Z",
-      "image_tried": "2026-10-22T05:08:44Z"
+      "image_tried": "2026-10-25T07:11:26Z"
     },
     {
       "id": "75cb399903502bc5",
@@ -6140,7 +6366,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-22T17:08:44Z",
-      "image_tried": "2026-10-22T05:08:44Z"
+      "image_tried": "2026-10-25T07:11:26Z"
     },
     {
       "id": "740a665e8099f482",
@@ -6880,7 +7106,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T05:08:44Z"
+      "image_tried": "2026-10-25T07:11:26Z"
     },
     {
       "id": "69cb2ac3b1379003",
@@ -10883,224 +11109,6 @@
       },
       "breaking": true,
       "breaking_expires_at": "2026-10-20T10:31:53Z"
-    },
-    {
-      "id": "30e505b3ff1e5040",
-      "title": "Jackie Hill Perry Talks Hip-Hop GOATs, Pet Peeves, & Potential Tour",
-      "link": "https://rapzilla.com/2026-10-jackie-hill-perry-talks-hip-hop-goats-pet-peeves-potential-tour/",
-      "summary": "Author, speaker, and artist Jackie Hill Perry hit the red carpet at the 2026 Dove Awards. Perry opened up about everything from her pet peeves to her top three in Christian hip-hop. “Blameless Deluxe is coming out November 13th,” Perry shared as far as news…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T21:52:04Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/17211825/SnapInsta-Ai_4002832276169077849_19904847-scaled-e1792286352507.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d4c4496db504937a",
-      "title": "U.S. bishops name members of AI task force formed in response to encyclical",
-      "link": "https://www.ewtnnews.com/world/us/ai-task-force-established-by-usccb",
-      "summary": "U.S. bishops formed the task force after meeting with AI experts and executives in September to identify how the Church could help shape the moral foundations of AI.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T21:39:03Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1777913124/shutterstock_2729472577_mfwvy9.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9001e75106b39d4e",
-      "title": "Inside the changing politics of the Black church - The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbjNFVWFTV1Y2MTNPeGgtOFg4YVRzU2VnQXlfU3pxdWR5ZnkzOUQ5VUY1LVZ5RGZfdDRnVmhKdUlDWkRlSjVNUWI5bVp1ZUN5QjdfR0RGRnpyVC03dXppMzA2YUhLQ2VvQlhZRWZ3N20tMXMtQWVXNEZMZVZQSUJWc3kxWjZDNHQ5UGlaa0hXMWdYQQ?oc=5",
-      "summary": "Inside the changing politics of the Black church The Atlanta Journal-Constitution",
-      "outlet": "The Atlanta Journal-Constitution",
-      "outlet_url": "https://www.ajc.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-19T21:34:48Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-23T11:53:37Z"
-    },
-    {
-      "id": "1859e9bbf336d0ce",
-      "title": "Texas woman sues pro-life group under state's abortion pill law for over $459K",
-      "link": "https://www.christianpost.com/news/texas-woman-sues-pro-life-group-under-abortion-pill-law.html",
-      "summary": "A Texas woman is suing a national pro-life advocacy group, alleging that she should receive financial compensation because their leader and several members violated a state law the organization championed by ordering abortion drugs as part of an undercover…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T21:34:00Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272310_w_550_367_870_94.jpg?v=20261019173504",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "20666d637a938e32",
-      "title": "Jess Connolly: The People Preaching Are Scared, Too",
-      "link": "https://relevantmagazine.com/faith/jess-connolly-the-people-preaching-are-scared-too/",
-      "summary": "I was standing on stage a few months ago, my hands gently trembling as I prepared to teach a room full of high-capacity leaders. I’d been invited to speak to C-suite executives and some of the most influential pastors in the country about fear, and I wanted…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T21:21:49Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/jess.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "023541e636b9da03",
-      "title": "French Authorities Admit They’ve ‘Lost Control’ as ‘Severe Violence’ from Leftists Sweeps Country",
-      "link": "https://mycharisma.com/news/french-authorities-admit-theyve-lost-control-as-severe-violence-from-leftists-sweeps-country/",
-      "summary": "Leftist riots have resulted in damaged buildings and widespread chaos in France. Authorities had “lost control” in major cities, Interior Minister Laurent Nuñez said, according to NBC News. Protests drawing crowds topping half a million people have damaged…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T20:52:07Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "206f9c83a3f4b263",
-      "title": "Mike Huckabee suggests Tucker Carlson possessed, mentally ill: 'Maybe that demon got into him'",
-      "link": "https://www.christianpost.com/news/mike-huckabee-suggests-tucker-carlson-possessed-mentally-ill.html",
-      "summary": "U.S. Ambassador to Israel Mike Huckabee suggested during a podcast last week that political commentator Tucker Carlson could be mentally unwell and demonically possessed amid his adamant criticism of Israel and the war in Iran.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T20:46:39Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272364_w_550_309.jpg?v=20261019165530",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "265d0904eb7e3b66",
-      "title": "The Two Voices of Life, Part 5: When the Door Closes — The Consequence of Refusing Wisdom (Proverbs 1:24–33)",
-      "link": "https://blackchristiannews.com/the-two-voices-of-life-part-5-when-the-door-closes-the-consequence-of-refusing-wisdom-proverbs-124-33/?utm_source=rss&utm_medium=rss&utm_campaign=the-two-voices-of-life-part-5-when-the-door-closes-the-consequence-of-refusing-wisdom-proverbs-124-33",
-      "summary": "Glory be to God in the highest, and to His Son, the Lord Jesus Christ, ladies and gentlemen, brothers and The post The Two Voices of Life, Part 5: When the Door Closes — The Consequence of Refusing Wisdom (Proverbs 1:24–33) appeared first on Black Christian…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T20:42:47Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "3b9bd3e8f948d8f6",
-      "title": "The Two Voices of Life, Part 4: Wisdom Crieth in the Streets (Proverbs 1:20–23)",
-      "link": "https://blackchristiannews.com/the-two-voices-of-life-part-4-wisdom-crieth-in-the-streets-proverbs-120-23/?utm_source=rss&utm_medium=rss&utm_campaign=the-two-voices-of-life-part-4-wisdom-crieth-in-the-streets-proverbs-120-23",
-      "summary": "Glory be to God in the highest, and to His Son, the Lord Jesus Christ, ladies and gentlemen, brothers and The post The Two Voices of Life, Part 4: Wisdom Crieth in the Streets (Proverbs 1:20–23) appeared first on Black Christian News Network One (BCNN1) .",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T20:39:40Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "a6ae486c2d636080",
-      "title": "Priest killed by falling crucifix during livestreamed mass in Ecuador",
-      "link": "https://www.christianpost.com/news/priest-killed-by-falling-crucifix-during-mass-in-ecuador.html",
-      "summary": "Mourners gathered Sunday to honor a priest in Ecuador who died after a large crucifix suddenly fell from a wall and struck him during a livestreamed mass.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-19T20:37:00Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272370_w_550_436.jpg?v=20261019163736",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "10acafed590194ed",
-      "title": "The Two Voices of Life, Part 3: The Trap of Easy Gain — Consent Thou Not (Proverbs 1:10–19)",
-      "link": "https://blackchristiannews.com/the-two-voices-of-life-part-3-the-trap-of-easy-gain-consent-thou-not-proverbs-110-19/?utm_source=rss&utm_medium=rss&utm_campaign=the-two-voices-of-life-part-3-the-trap-of-easy-gain-consent-thou-not-proverbs-110-19",
-      "summary": "Glory be to God in the highest, and to His Son, the Lord Jesus Christ, ladies and gentlemen, brothers and The post The Two Voices of Life, Part 3: The Trap of Easy Gain — Consent Thou Not (Proverbs 1:10–19) appeared first on Black Christian News Network One…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T20:36:50Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
-    },
-    {
-      "id": "5879a03fbb65ec59",
-      "title": "The Two Voices of Life, Part 2: The Adornment of Grace — Hear Your Father and Mother (Proverbs 1:8–9)",
-      "link": "https://blackchristiannews.com/the-two-voices-of-life-part-2-the-adornment-of-grace-hear-your-father-and-mother-proverbs-18-9/?utm_source=rss&utm_medium=rss&utm_campaign=the-two-voices-of-life-part-2-the-adornment-of-grace-hear-your-father-and-mother-proverbs-18-9",
-      "summary": "Glory be to God in the highest, and to His Son, the Lord Jesus Christ, ladies and gentlemen, brothers and The post The Two Voices of Life, Part 2: The Adornment of Grace — Hear Your Father and Mother (Proverbs 1:8–9) appeared first on Black Christian News…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-19T20:34:12Z",
-      "first_seen": "2026-10-19T22:31:53Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-22T22:33:45Z"
     }
   ]
 }
