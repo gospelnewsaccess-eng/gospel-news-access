@@ -1,8 +1,141 @@
 {
-  "generated_at": "2026-10-25T12:40:15Z",
+  "generated_at": "2026-10-25T16:56:04Z",
   "story_count": 600,
-  "with_photo": 455,
+  "with_photo": 454,
   "items": [
+    {
+      "id": "fc7092310c243470",
+      "title": "Lakelin Lemmings Releases Piano Version of “I Ain’t For Everybody” Ahead of Music Video Premiere",
+      "link": "https://www.jubileecast.com/articles/40531/20261025/lakelin-lemmings-i-aint-for-everybody-piano.htm",
+      "summary": "Lakelin Lemmings Releases Piano Version of “I Ain’t For Everybody” Ahead of Music Video Premiere",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T13:21:53Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32353/lakelin-lemmings.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "350c06975eb853e1",
+      "title": "Who Is Elizabeth Holmes? The Theranos Founder in Nathan Fielder’s New Film, Explained",
+      "link": "https://www.jubileecast.com/articles/40530/20261025/who-is-elizabeth-holmes-theranos-founder-you-can-see-everything-explained.htm",
+      "summary": "Who Is Elizabeth Holmes? The Theranos Founder in Nathan Fielder’s New Film, Explained",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T13:12:48Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32214/elizabeth-holmes.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "99c5140a8cfe187c",
+      "title": "Matthew Perry’s Sister Says She Saw His Addiction as a “Terminal Illness” Years Before His Death",
+      "link": "https://www.jubileecast.com/articles/40529/20261025/matthew-perry-sister-mia-perry-bowick-terminal-illness-netflix-documentary.htm",
+      "summary": "Matthew Perry’s Sister Says She Saw His Addiction as a “Terminal Illness” Years Before His Death",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T13:08:28Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32352/matthew-perry.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4a98cd84fa63f0d0",
+      "title": "Prince William Reveals His Childhood DJ Name, “DJ Xara,” and the Job He Really Wanted",
+      "link": "https://www.jubileecast.com/articles/40528/20261025/prince-william-childhood-dj-name-xara-policeman-graham-norton.htm",
+      "summary": "Prince William Reveals His Childhood DJ Name, “DJ Xara,” and the Job He Really Wanted",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T13:00:58Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32351/prince-william.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7f925ea1cda25661",
+      "title": "Prince William Admits He Tried to “Move” Travis Kelce Out of Viral Taylor Swift Selfie",
+      "link": "https://www.jubileecast.com/articles/40527/20261025/prince-william-tried-move-travis-kelce-out-taylor-swift-selfie.htm",
+      "summary": "Prince William Admits He Tried to “Move” Travis Kelce Out of Viral Taylor Swift Selfie",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-10-25T12:51:35Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32350/taylor-swift-and-prince-william.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d975d91a3b301f8b",
+      "title": "Pope Leo XIV: Love for neighbor begins with a personal relationship with God",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-love-for-neighbor-begins-with-a-personal-relationship-with-god",
+      "summary": "During his Sunday Angelus, the pope reflected on the greatest commandment and called for peace in Yemen and Jordan.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T12:48:02Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792932384/ewtn-news/en/_TRE5628_dbshmm.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ac0e1e78bdaf171f",
+      "title": "Yemen condemns Houthi missile attack on Aden airport",
+      "link": "https://www.vaticannews.va/en/world/news/2026-10/yemen-condemns-houthi-missile-attack-on-aden-airport.html",
+      "summary": "Houthi fighters have launched a series of attacks on targets in Saudi Arabia and the seat of Yemen’s internationally recognised government in Aden. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-25T12:32:00Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/16/08/1792132198859.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "b7f0d1a00fb54622",
       "title": "Erika Kirk Furious About ‘Grossly Out of Line’ Proposal for Tyler Robinson Trial",
@@ -173,6 +306,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "a91e02a0c8345e8b",
+      "title": "Fans berate popular Plateau gospel artiste over song calling Remi Tinubu 'mother of poor'",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzk0X0dsbXFpa3IxbVB6ZklNYmJ0bTN0dXRaVkZDZUVaLWJ0MW1wTlpRYVhnbDZRdlFsSG9VX2hKOG9aZkJaWUZPSk9IdnRnaF9fbl9tbUxES1YxQVFGR2tKazNLaEZGY1RNdDM4TW9UZXZMZjZ5bXF4b09POF9jSG1ndngxU3BNOFZKcWpEdkp5blp4U0MtUjRIUTZpNDAwY3Q4?oc=5",
+      "summary": "Fans berate popular Plateau gospel artiste over song calling Remi Tinubu 'mother of poor' Daily Post Nigeria",
+      "outlet": "Daily Post Nigeria",
+      "outlet_url": "https://dailypost.ng",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-25T08:12:19Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "3f8e380208c09525",
@@ -5273,7 +5423,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-23T03:26:25Z",
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "cdf8ee34863c6e74",
@@ -5290,7 +5440,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "b7e5618209606573",
@@ -5307,7 +5457,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "d8921e85150ce08f",
@@ -5512,7 +5662,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "1bfaf51b0d8f1639",
@@ -5698,7 +5848,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "41ed154afba573ba",
@@ -5734,7 +5884,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "e901497d66fe8691",
@@ -5846,7 +5996,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "749b71cb03105bb9",
@@ -6296,7 +6446,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "40e7ca4a509d79a5",
@@ -6351,7 +6501,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "b3d4c1b30bfa6371",
@@ -6669,6 +6819,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "4674424357861c6b",
+      "title": "Senate Candidates Spar in Kansas, a Surprise Battleground That Could Swing Control",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5vM2o4cHI1eUkwMFZXaUJ5akctSk0tVE5xVldSY1pqVUNLc3pMVUl0Ry1FaXBtZ01ORThoNm41UTFNLVZvV3BSWEt5ZmVmVlhZR21iWHZ3VjRMdkI5clpxLUdVaTRBU1l1MHVhajVxemhOQ2NyMUU0WU5JNWQ?oc=5",
+      "summary": "Senate Candidates Spar in Kansas, a Surprise Battleground That Could Swing Control The New York Times",
+      "outlet": "The New York Times",
+      "outlet_url": "https://www.nytimes.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-22T02:07:35Z",
+      "first_seen": "2026-10-25T16:56:04Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "2dc43fcf2d8bdb1a",
@@ -7241,7 +7408,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-22T15:26:25Z"
+      "image_tried": "2026-10-25T16:56:04Z"
     },
     {
       "id": "4f47614dd737e792",
@@ -10943,175 +11110,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-24T06:47:26Z"
-    },
-    {
-      "id": "76e56c08a2e91775",
-      "title": "‘KPop Demon Hunters’ Star EJAE Marries Sam Kim—Why Did They Move Their Wedding To Seoul?",
-      "link": "https://www.jubileecast.com/articles/40385/20261020/kpop-demon-hunters-star-ejae-marries-sam-kim—why-did-they-move-their-wedding-to-seoul.htm",
-      "summary": "‘KPop Demon Hunters’ Star EJAE Marries Sam Kim—Why Did They Move Their Wedding To Seoul?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T06:36:50Z",
-      "first_seen": "2026-10-20T11:55:24Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32265/ejae.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "abc18800826b7417",
-      "title": "Cardinal Koovakad: Nonviolence is courageous commitment to justice",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-10/cardinal-koovakad-nonviolence-is-a-courageous-commitment.html",
-      "summary": "Speaking at an Ahimsa Day celebration at the British Parliament, Cardinal George Jacob Koovakad highlights the shared commitment of Jains and Catholics to nonviolence, urging religious communities to become bridges of peace in a world marked by conflict and…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-20T05:24:00Z",
-      "first_seen": "2026-10-20T11:55:24Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2023/09/21/15/1695304669993.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3e9dd0db779edd80",
-      "title": "Kurt Cobain Death Controversy Reignites: What Did Seattle’s Former Police Chief Acknowledge About The Evidence?",
-      "link": "https://www.jubileecast.com/articles/40384/20261020/kurt-cobain-death-controversy-reignites-what-did-seattle-s-former-police-chief-acknowledge-about-the-evidence.htm",
-      "summary": "Kurt Cobain Death Controversy Reignites: What Did Seattle’s Former Police Chief Acknowledge About The Evidence?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T05:03:49Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28643/kurt-cobain.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d84cfa017942d922",
-      "title": "The Oak Ridge Boys To Reveal Stories Behind ‘Buried Treasures’ In Livestream With Signed Album Preorders (Here’s How To Watch)",
-      "link": "https://www.jubileecast.com/articles/40383/20261020/the-oak-ridge-boys-to-reveal-stories-behind-buried-treasures-in-livestream-with-signed-album-preorders.htm",
-      "summary": "The Oak Ridge Boys To Reveal Stories Behind ‘Buried Treasures’ In Livestream With Signed Album Preorders",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T04:56:02Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31622/oak-ridge-boys.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f2ef27d3f44b1e05",
-      "title": "Phil Wickham Announces 2026 Southern California Christmas Tour Dates",
-      "link": "https://www.jubileecast.com/articles/40382/20261020/phil-wickham-2026-southern-california-christmas-tour.htm",
-      "summary": "Phil Wickham Announces 2026 Southern California Christmas Tour Dates",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T04:05:16Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32264/phil-wickham.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "cb0f0196649582d9",
-      "title": "Mr. Weaverface Surpasses 1 Million Spotify Streams, Plans New Music for 2027",
-      "link": "https://www.jubileecast.com/articles/40381/20261020/mr-weaverface-1-million-spotify-streams.htm",
-      "summary": "Mr. Weaverface Surpasses 1 Million Spotify Streams, Plans New Music for 2027",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T04:02:16Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32263/mr-weaverface.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "50d4fd8fa2c1bf2a",
-      "title": "Evangeline Lilly Says “God Has A Plan” After Leaving Hollywood: What Did She Give Up?",
-      "link": "https://www.jubileecast.com/articles/40380/20261019/evangeline-lilly-leaves-hollywood-god-has-a-plan-what-did-she-give-up.htm",
-      "summary": "Evangeline Lilly Says “God Has A Plan” After Leaving Hollywood: What Did She Give Up?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T03:57:51Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32262/evangeline-lilly.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "60df5451f2d4c101",
-      "title": "Michael Jackson’s \"Heal The World\" Super Bowl Finale Gets A Hulu Documentary: When Can You Watch It?",
-      "link": "https://www.jubileecast.com/articles/40379/20261019/michael-jackson-heal-the-world-super-bowl-documentary-hulu-when-to-watch.htm",
-      "summary": "Michael Jackson’s \"Heal The World\" Super Bowl Finale Gets A Hulu Documentary: When Can You Watch It?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-20T03:49:59Z",
-      "first_seen": "2026-10-20T06:21:48Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/12068/michael-jackson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0a54c372c0cc2bdc",
-      "title": "Singing Men of Texas perform at First Baptist Church of Muleshoe",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmQ3Y3BYOTViVDQzREt5Y0FlS3VyZFRFOXhaWURCRkZ6Zm43UVd3Mzk4Q3kyeWFLUHFQSVBocDRQcnpieWZ4ZkEtWlJxZ2kxcFRZYUhiRFBRRGJVZkdHN01qVFF3YkVLYXlvcGVpMzF0TzM5RDkzWTduMWhKWmVtVzVjblFSQXh0cmtCUTBaOWRiNGZaYTM2NDc1WGxxVnA3NkZVZ2xkVQ?oc=5",
-      "summary": "Singing Men of Texas perform at First Baptist Church of Muleshoe Plainview Herald",
-      "outlet": "Plainview Herald",
-      "outlet_url": "https://www.myplainview.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-20T03:47:58Z",
-      "first_seen": "2026-10-20T11:55:24Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-23T16:17:15Z"
     }
   ]
 }
