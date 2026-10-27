@@ -1,8 +1,116 @@
 {
-  "generated_at": "2026-10-26T21:06:49Z",
+  "generated_at": "2026-10-27T00:39:02Z",
   "story_count": 600,
-  "with_photo": 460,
+  "with_photo": 454,
   "items": [
+    {
+      "id": "6fc8903ff09738fc",
+      "title": "Dallas megachurch overwhelmingly votes to leave UMC",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHh5eEFXTjdHbk9LZjVZSzM2czdaUDcwNHN0S243QkdoeDNmallNdEpZRnpCS3lhaFRrMW55RnVWeDB4U1pZRl8tZVRPd2RjckJaazd6UHdyMTVtX2N5WkZnTy05RkU1WWNmeFlmMmdnVmw5bHdPRHV6TVk5RERwa3hpeU1ZdDcxYWdNWg?oc=5",
+      "summary": "Dallas megachurch overwhelmingly votes to leave UMC Baptist News Global",
+      "outlet": "Baptist News Global",
+      "outlet_url": "https://baptistnews.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-26T23:22:11Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-27T12:39:02Z",
+      "image_tried": "2026-10-27T00:39:02Z"
+    },
+    {
+      "id": "070f42c40b7c17be",
+      "title": "Top bluegrass, gospel performers to play at Averitt Center in November",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWtYTWZJOXdnTmpWa1NfWVRMcS1kVTNOcWhScjNpMURqbFRIa1lOOVRDOFZOTGpmTlB3b052clhVSHBMbWlGMjJ0Z3FBb0Z6dk9XY1AxNElkalA3Xzc4RjNYekFqZDZHeEkzM3hQbzhjbU5XLXNkb21tM1oyZEJaaDhHV2U2Vm1rTE1TUTNxcHRSNWlPd2kxZmstODRTcnl2bG9SZFNfMEt4NVB3dnc?oc=5",
+      "summary": "Top bluegrass, gospel performers to play at Averitt Center in November Statesboro Herald",
+      "outlet": "Statesboro Herald",
+      "outlet_url": "https://www.statesboroherald.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-26T23:21:49Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-10-27T12:39:02Z",
+      "image_tried": "2026-10-27T00:39:02Z"
+    },
+    {
+      "id": "0161a463b4d85ad3",
+      "title": "Catholic bishops accuse White House of manipulation over prayer video",
+      "link": "https://religionnews.com/2026/10/26/catholic-bishops-accuse-the-white-house-of-manipulation-over-prayer-video/",
+      "summary": "(RNS) — Retired Kansas City Archbishop Joseph Naumann's office told RNS, 'The bishops were assured that no photographs would be made public. They came to have a discussion on important policy matters.'",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-26T22:53:36Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-Milwaukee-Grob1-277x369.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1aa66abddc8a5888",
+      "title": "Bishop Joensen says Trump meeting ‘exploited’ for politics, while others clarify backstory",
+      "link": "https://www.ewtnnews.com/world/us/more-bishops-respond-after-trump-meeting-prayer",
+      "summary": "Bishops who attended the meeting and the prayer have stated they were invited by the White House Faith Office to discuss issues of importance to Catholics.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-26T22:21:05Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792798350/ewtn-news/en/Oct.22.2026.Oval..jpg_qk9yc3.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e7b7d7de7bef0f28",
+      "title": "Born 115 Years Ago Today in Louisiana, the “Queen of Gospel Music” Who Helped Inspire Martin Luther King Jr.’s Most Famous Speech",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaG1CajNsS1hXR1VDQjdkT2xBUl9Cd3BNRndoUmwzYklyMXptbDJiTmlRVWhIa2xuUkRSNkc3Z0FydzR2emZBb1R5OGtBTGprbnlmbU9YVlU0UGpyS0w0ZTFyVDk0OGZ1OEdqVk0tdDdBcURaVk5vbGwzWVkxUDhZbjR0Q0ZsWmdiQnlkR2Z6aXpXdm9Mcm5NZzQtRGZ6N3BKS1c1NGpPRU5ubF9jVlR6Sm5HQXJkTjZjbGs0NjhxSHBMRnVvSEQzM05Ub0M2TzZ1cklNcUo5M29aTWluTkNHWHk3OU15Z0toazFhUkxR?oc=5",
+      "summary": "Born 115 Years Ago Today in Louisiana, the “Queen of Gospel Music” Who Helped Inspire Martin Luther King Jr.’s Most Famous Speech American Songwriter",
+      "outlet": "American Songwriter",
+      "outlet_url": "https://americansongwriter.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-26T22:15:00Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-27T00:39:02Z"
+    },
+    {
+      "id": "6eb8ebea87d0d8d6",
+      "title": "Christian blogger Samuel Sey jailed on ICE hold, set to be deported",
+      "link": "https://www.christianpost.com/news/christian-blogger-samuel-sey-jailed-on-ice-hold-to-be-deported.html",
+      "summary": "Conservative Christian commentator and writer Samuel Sey is set to be deported after authorities say he overstayed his visa.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-26T21:37:00Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272441_w_550_309.jpg?v=20261026173730",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a0024ec5d9f3047e",
       "title": "We The Kingdom completes 3-part musical journey with release of 'Soon The Streets Of Gold'",
@@ -52,6 +160,44 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
         "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ac9a091653eb0e37",
+      "title": "Erika Kirk decries online 'counterfeit' Christianity in Liberty University speech",
+      "link": "https://www.christianpost.com/news/erika-kirk-decries-counterfeit-christianity-in-liberty-u-speech.html",
+      "summary": "Turning Point USA CEO Erika Kirk is calling on Christians to reject the \"counterfeit\" Christianity offered by the internet, warning against chasing \"the fruit of chaos\" rather than \"the fruit of truth and order.\"",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-26T20:41:00Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272464_w_550_367_556_254.jpg?v=20261026164219",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "263aaaf335eaff2d",
+      "title": "Afghan Christian TV channel launches to share the Gospel despite Taliban restrictions",
+      "link": "https://www.christianpost.com/news/afghan-christian-tv-channel-launches-despite-taliban-restrictions.html",
+      "summary": "Mozhda TV, which its founders describe as the first Afghan Christian television channel, began broadcasting Saturday, as church leaders, mission partners and Afghan believers gathered to mark its launch.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-26T20:39:06Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272469_w_550_346_608_216.jpg?v=20261026165824",
+        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -131,6 +277,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "5919324515ffd039",
+      "title": "LoveIsLove brings hip-hop’s original gospel back to Miami with a free block party",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbktsMTBoelc3U2JXUU9KQzUzMEhmNEtBVmRlSjZOZzh0QV9CVWxIX2R5ZWxBWHljTzJSLTdDbjExTFh2NW1ueUp5cFBSZ0dianpHRWwwcXkwczUyNVpCcUl4ZVIxTjJKMl85SW5lY1hJeDRNVHhaeFBXaWxZSllCYWV0UTRDd0FIcTJvdXh2ejAxWE1jWUtFTG4wSmc4S2M1WEN6Yjlwb3NPQVpDb2JiY0Y3c2pCVmhPLXRUaUNadVViQ3NO?oc=5",
+      "summary": "LoveIsLove brings hip-hop’s original gospel back to Miami with a free block party Miami New Times",
+      "outlet": "Miami New Times",
+      "outlet_url": "https://www.miaminewtimes.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-26T19:45:55Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "835a61c98fbc4865",
@@ -579,6 +742,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "4dc75d025253dd8d",
+      "title": "Lizz Wright and Kenny Banks Sr to perform at Saffron Hall this November",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUtSeGc1SkYzQ3d0VnVLRno4YzNwc21YSjkxWVpGNTRsT3NKcVlKckdkQXhYRkxNQzVMZVZFMmlWTU5CbmhRZnh3TDdCVEYxNGx0cEp5S05SM2RIS2xzWWk4SFpIZEw5UmxrNGhVZEZwd3VaZ1VOTjRhQ0txSEMwNDQ5VzZfaGo5QXZNWHhOZXdqT2xaX2ZhYlBfenVoZUFzdXdzR2NKbU0tZWtNU3c?oc=5",
+      "summary": "Lizz Wright and Kenny Banks Sr to perform at Saffron Hall this November Jazzwise",
+      "outlet": "Jazzwise",
+      "outlet_url": "https://www.jazzwise.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-26T17:11:56Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "faf298248cd7e95b",
@@ -1370,6 +1550,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "9b53d5ec87789165",
+      "title": "How nondenominational churches are changing the Black church - The Atlanta Journal-Constitution",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa25BSG1oNHhHVFVJSWVjNG9CNE5vOUhrT3czbVRaNTByR2ttNzFLdE9yZHY2V0xERmFkX3pGSzZidU43VXI1TEJGTHliMXJadTR1U1lMN0hzenQyT2NRYWdhcE1lWV9BeE5xbnpKakxHR0QtSGd5STNDd0VNNFFqQUVHRWdDT0dtdFNhbDZWX3pKdVZUdDZrZE8yQzEzcmpOU3c?oc=5",
+      "summary": "How nondenominational churches are changing the Black church The Atlanta Journal-Constitution",
+      "outlet": "The Atlanta Journal-Constitution",
+      "outlet_url": "https://www.ajc.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-10-26T12:35:22Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "2ee96fd63ef96211",
@@ -3794,6 +3991,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "3e65ab88026d1a6d",
+      "title": "2026 Dove Awards: Phil Wickham, Josiah Queen Among Night's Big Winners as Artists Glorify God",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObkV3cHVHZ2syMlJUTzJBSjZWNFQ2b3lFaUh3M2JIQ3puUEI0SEl3VThldG1oSG9kNjFzLW9DSnN2bllqbFN6dWZySWtnbVBvcmM1WWt0eThETjZ1MWlKZWdEd0JDN3BZMnhpbmRzSTFUUFY5bWRLNEJwcHVvVzFTU1c4MkU1T0wtTkpFdVBLd2V3Sy1Cb3B5djFGWEdMMGw1VlBXZnFyWGxUUElERjV5LXhmdDNfU1V0czNLTjE3R1ZsUVdXMFgyaW5YeTVVczRRanRORWJ6TVVzZzl0bFdidW5lNEhCMnc?oc=5",
+      "summary": "2026 Dove Awards: Phil Wickham, Josiah Queen Among Night's Big Winners as Artists Glorify God Beliefnet",
+      "outlet": "Beliefnet",
+      "outlet_url": "https://www.beliefnet.com",
+      "source_feed": "Google News: Phil Wickham",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-24T09:39:40Z",
+      "first_seen": "2026-10-27T00:39:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-27T00:39:02Z"
+    },
+    {
       "id": "0753d102ef879e7f",
       "title": "Mark Driscoll Tells Christians To Reject Same-Sex Wedding Invitations—Even When Family Is Involved",
       "link": "https://www.jubileecast.com/articles/40510/20261024/mark-driscoll-tells-christians-to-reject-same-sex-wedding-invitations—even-when-family-is-involved.htm",
@@ -4440,7 +4654,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "bb90476b0e267853",
@@ -4685,7 +4899,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "96ded281ab2f4011",
@@ -4721,7 +4935,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "c2a658a6699c8f07",
@@ -4738,7 +4952,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "0fb7e6a540fe5c20",
@@ -4793,7 +5007,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "9b96196399118342",
@@ -4848,7 +5062,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "5e147d3256dbcb95",
@@ -4865,7 +5079,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "f12c0d9155817f77",
@@ -4958,7 +5172,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "421e06196697a33e",
@@ -4994,7 +5208,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "db4ddee7d559492a",
@@ -5237,7 +5451,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-23T23:02:00Z"
+      "image_tried": "2026-10-27T00:39:02Z"
     },
     {
       "id": "a201990bb3df3e2d",
@@ -10892,232 +11106,6 @@
       "first_seen": "2026-10-21T12:38:49Z",
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1792573610/ewtn-news/es/WhatsApp_Image_2026-10-21_at_10.22.20_gqhftd.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "04cc16b42985dc17",
-      "title": "Gospel artiste confident in God’s promises",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLVMxcHFBcHgxUHUzcGpBWXJITE1XN1RGRk9oNjM1MjJuNk5fU2JzVzYtN0l5OVBQc1Z4Y0FULVBHZlBzSnNFYjBmTDBZUUxaWWhPaFRCSks5MUJwWktxak5EYnVkamZDRlFTWEVQT1E0YlNQa2lnM1JaTjZRYVRtenBsNTBDRjRZeDhaemNiOHh4SlgyS1oxMzFaY0pBeWN6LVk3MDRB?oc=5",
-      "summary": "Gospel artiste confident in God’s promises Jamaica Star",
-      "outlet": "Jamaica Star",
-      "outlet_url": "https://jamaica-star.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-21T11:28:35Z",
-      "first_seen": "2026-10-24T18:16:31Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-24T18:16:31Z"
-    },
-    {
-      "id": "fbd91723548b2912",
-      "title": "Christian Fiction’s Big Night Returns To Nashville: What To Know About The 2026 Christy Awards Gala",
-      "link": "https://www.jubileecast.com/articles/40421/20261021/christy-awards-gala-2026-nashville-what-to-know.htm",
-      "summary": "Christian Fiction’s Big Night Returns To Nashville: What To Know About The 2026 Christy Awards Gala",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-21T11:09:04Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32281/books.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "617c4354b16cb1de",
-      "title": "Savannah Guthrie Plans To Take Her Kids To Ireland In Honor Of Missing Mother Nancy",
-      "link": "https://www.jubileecast.com/articles/40420/20261021/savannah-guthrie-plans-ireland-trip-with-kids-mother-nancy.htm",
-      "summary": "Savannah Guthrie Plans To Take Her Kids To Ireland In Honor Of Missing Mother Nancy",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-21T11:01:16Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32280/savannah-guthrie.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8a4f1671cae2d578",
-      "title": "‘East of Eden’ is perhaps the ultimate Jewish story",
-      "link": "https://religionnews.com/2026/10/21/east-of-eden-is-perhaps-the-ultimate-jewish-story/",
-      "summary": "(RNS) — A modern midrash on Cain and Abel — with a small Hebrew lesson embedded within it.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T11:00:56Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/10/Lee-East-of-Eden-427x240.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5c26c149aa769378",
-      "title": "Jubilee Year of St. Francis brings rare relic, historic art to San Francisco",
-      "link": "https://www.ewtnnews.com/world/us/jubilee-year-of-st-francis-brings-rare-relic-historic-art-to-san-francisco",
-      "summary": "The exhibit is open from Oct. 16 to Nov. 28 at San Francisco’s Cathedral of St. Mary of the Assumption.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T11:00:00Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792526688/ewtn-news/en/stfrancisbloodrelic_ubjwfr.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "38451c0a2d0ad77e",
-      "title": "The K-Pop Grammy Submissions Debate, Explained: What Happened, Who’s Out, And What Comes Next",
-      "link": "https://www.jubileecast.com/articles/40418/20261021/k-pop-grammy-submissions-debate-explained.htm",
-      "summary": "The K-Pop Grammy Submissions Debate, Explained: What Happened, Who’s Out, And What Comes Next",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-21T10:50:15Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30224/bts.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6ca3921f0b696758",
-      "title": "Miley Cyrus Calls Out “Clickbait” Over Hollywood Bowl Show: What Sparked The Backlash?",
-      "link": "https://www.jubileecast.com/articles/40419/20261021/miley-cyrus-hollywood-bowl-criticism-clickbait-fully-present.htm",
-      "summary": "Miley Cyrus Calls Out “Clickbait” Over Hollywood Bowl Show: What Sparked The Backlash?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-21T10:50:07Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32279/miley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1588f556095cce44",
-      "title": "5 notable reactions to violent riots roiling France: 'They're destroying that country'",
-      "link": "https://www.christianpost.com/news/5-notable-reactions-to-violent-riots-roiling-france.html",
-      "summary": "Here are five notable reactions to the chaos in France, which some see as part of a wider assault against a teetering civilization that has been weakened by widespread rejection of the Christian faith that built it.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T10:08:03Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/23/272392_w_550_367_582_337.jpg?v=20261021061340",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bcf5488728c32394",
-      "title": "Kinship With the Dead Doesn’t Have to Be Spooky",
-      "link": "https://www.christianitytoday.com/2026/10/kinship-with-dead-spooky-graveyard-halloween-church/",
-      "summary": "Last month I took my kids to visit a small family cemetery where my father and brother are buried. My 4-year-old, full of questions, had never seen a tombstone before. Her total ignorance reminded me that we live in a world where death exists mostly as an…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T10:00:00Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/kinship-dead-doesnt-have-be-spooky.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "13e9f3eef5324988",
-      "title": "Euthanizing a Toddler Is Not Compassionate",
-      "link": "https://www.christianitytoday.com/2026/10/netherlands-child-euthanasia/",
-      "summary": "A couple in the Netherlands euthanized their toddler. I read the headline again, sure I’d missed a keyword. I had not. A child with the same diagnosis (and similar disabilities) as my own daughter, Eliza, had died—not from natural causes or a horrific…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T10:00:00Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/euthanizing-toddler-not-compassionate.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "636188977a1b0d27",
-      "title": "Yesterday’s Environmentalists Were Christians. Tomorrow’s Will Be, Too.",
-      "link": "https://www.christianitytoday.com/2026/10/yesterdays-environmentalists-christians-gen-z-creation-care/",
-      "summary": "In the last 25 years, 40 million Americans have stopped attending church—the largest religious exodus in American history. Researchers have identified many reasons for this decline, but one thread runs through them: a generation that cares deeply about the…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T10:00:00Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/environmentalists-christians-yesterday-tomorrow.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2392fc50bcca8bc4",
-      "title": "Ahead of midterms, economic justice ranks above life issues for many Catholics, researcher says",
-      "link": "https://www.ewtnnews.com/world/us/economic-justice-ranks-above-life-issues-for-catholics-ahead-of-midterms-researcher-says",
-      "summary": "High cost of living, inflation, and the job market topped life issues among Catholics polled ahead of the Nov. 3 midterm elections",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-21T10:00:00Z",
-      "first_seen": "2026-10-21T12:38:49Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792521008/ewtn-news/en/CatholicVotingENN102026_qsb1y2.jpg",
         "via": "media:content"
       },
       "breaking": false,
