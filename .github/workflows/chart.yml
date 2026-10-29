@@ -11,6 +11,12 @@
 # itself checks the real Pacific time and exits quietly if it is not the right
 # hour. That is why the chart cannot drift by an hour twice a year.
 #
+# GitHub often starts scheduled jobs two to four hours late. The old check
+# demanded the hour be exactly 12, so a late start skipped the whole week
+# (Oct 20 and Oct 27 were lost that way). Now any start from Tuesday noon
+# through Wednesday counts, and the engine itself refuses to publish the same
+# week twice, so the extra Wednesday timer is only a safety net.
+#
 # The chart publishes even if no human touched it. The editorial input may be
 # zero and the chart is still valid — that rule is enforced in the engine.
 # =============================================================================
@@ -20,6 +26,7 @@ on:
   schedule:
     - cron: "0 19 * * 2"      # Tuesday 19:00 UTC = 12:00 noon PDT (summer)
     - cron: "0 20 * * 2"      # Tuesday 20:00 UTC = 12:00 noon PST (winter)
+    - cron: "0 18 * * 3"      # Wednesday safety net if Tuesday's runs were late or dropped
   workflow_dispatch:
     inputs:
       force:
@@ -47,14 +54,15 @@ jobs:
       - name: Is it really noon Pacific?
         id: gate
         run: |
-          HOUR=$(TZ=America/Los_Angeles date +%H)
+          HOUR=$(TZ=America/Los_Angeles date +%-H)
+          DOW=$(TZ=America/Los_Angeles date +%u)   # 2 = Tuesday, 3 = Wednesday
           echo "Pacific time is now $(TZ=America/Los_Angeles date '+%A %H:%M %Z')"
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "run=yes" >> $GITHUB_OUTPUT
-          elif [ "$HOUR" = "12" ]; then
+          elif { [ "$DOW" = "2" ] && [ "$HOUR" -ge 12 ]; } || [ "$DOW" = "3" ]; then
             echo "run=yes" >> $GITHUB_OUTPUT
           else
-            echo "Not noon Pacific — this is the other daylight-saving schedule. Skipping."
+            echo "Before Tuesday noon Pacific — this is the other daylight-saving schedule. Skipping."
             echo "run=no" >> $GITHUB_OUTPUT
           fi
 
