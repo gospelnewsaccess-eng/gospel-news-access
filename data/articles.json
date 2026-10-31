@@ -1,8 +1,42 @@
 {
-  "generated_at": "2026-10-31T19:26:21Z",
+  "generated_at": "2026-10-31T22:40:39Z",
   "story_count": 600,
-  "with_photo": 428,
+  "with_photo": 427,
   "items": [
+    {
+      "id": "b58fd5b6b2a3c2eb",
+      "title": "Calling All Voices: Gospel Choir Workshop and Concert “Thankful Together” Brings Healing, Hope, and Harmony to Santa Clarita on Nov. 14",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbm9Hc3U3eUgwUkZYZUt1QjVZZ1lCQjdZd1pFN041MkE0bDR0RDBMYXdYOGJhYXVQZUF4dnR5c0pxX1FtNzRpUGVrYUFQWmVWMmU1RzJrVGEtN1B0OENRYXAxX3V5czJQZkx0UXdjSTUxUHhMb0JaNnhPY3NsSl9ES1ZfeUh0ZlozVU1Bbk1laEJkaEFmVU5LdFZGNEpPczRyci1Ub19vYVF0RV8xdW55Z2thR2JPV0ZUei1GTEo0T1FscHVOUG1MYnlkc05US0NXU1RINko1d3ktbElySDVuTGdKVXRaeVR5dmlHUWs0anlYMnNyaFBibjl0M0M3SEJJ?oc=5",
+      "summary": "Calling All Voices: Gospel Choir Workshop and Concert “Thankful Together” Brings Healing, Hope, and Harmony to Santa Clarita on Nov. 14 Santa Clarita Magazine",
+      "outlet": "Santa Clarita Magazine",
+      "outlet_url": "https://santaclaritamagazine.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-31T21:40:13Z",
+      "first_seen": "2026-10-31T22:40:39Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-01T10:40:39Z",
+      "image_tried": "2026-10-31T22:40:39Z"
+    },
+    {
+      "id": "87e65c3afa70ea0d",
+      "title": "Laughter and great music coming to Holy Trinity",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2NFWldCcHdObHlubDhSVFpaTzBvMDdqZ3dhWVRBd0F3TWtSRkx4X183V1dCN21ucHBiaEdiOGZ1a2F1VF9ZYXhNbUQ4YTRnLWNxVVV6UXRCSHM2UGZhMm94ei1hM0ExWlg5ZmFWUW4waU83T3F6VWhZWk8ybUE4d2RCelR0cG9TcHB5TzYyUnNDX0R4SHRqS19hWWdUdTNmS1pjY0VRV0wyb0JKMDdCYmwzUkR2WWZxZ1d1azdELW9Dbktk?oc=5",
+      "summary": "Laughter and great music coming to Holy Trinity The Star Democrat",
+      "outlet": "The Star Democrat",
+      "outlet_url": "https://www.stardem.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-31T19:41:00Z",
+      "first_seen": "2026-10-31T22:40:39Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-31T22:40:39Z"
+    },
     {
       "id": "2634de0ce7390dd6",
       "title": "New York archbishop joins religious sisters in suing state over assisted suicide law",
@@ -11019,42 +11053,6 @@
       "first_seen": "2026-10-27T11:26:11Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26379/for-king-country.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8be3aa78f9d14f7c",
-      "title": "Brockton High students find new dreams at Berklee music camp",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTGVWRWRsZ0d1R0Z0SElDMmpYNDBkVVMyZ1hzYW1VQ1NTUEprS0U1NHdrcUZVclY5cEh5ZU9KTmRsdVJZUDJ1aDNUam0xZHpJV1YzNHBpQy0tYlNWSVZwVHZxT2xPbS15cDNfdkd6YlVCakxYZ3dNV0NuSXJma3hhSjNuWEtCMFZiVTVKVE1Na2ltcHpuWXlLelpKTTJ6aEt5MWtHXzYzOEY0NERPMDhSRWV3VHJUVUFaYUgtYV9kWmc1VG94LXc?oc=5",
-      "summary": "Brockton High students find new dreams at Berklee music camp Enterprise News",
-      "outlet": "Enterprise News",
-      "outlet_url": "https://www.enterprisenews.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T09:13:07Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T14:26:29Z"
-    },
-    {
-      "id": "2ef7b26c94f363e0",
-      "title": "This Halloween, witchcraft isn’t just a costume anymore",
-      "link": "https://www.christianpost.com/voices/this-halloween-witchcraft-isnt-just-a-costume-anymore.html",
-      "summary": "This Halloween season, witchcraft isn’t confined to costumes. The mechanics of paganism, from astrology and divination to prosperity-gospel incantations, have crept into everyday American life, even among people who call themselves Christians.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T07:58:56Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272465_w_550_309.jpg?v=20261027051820",
         "via": "media:content"
       },
       "breaking": false,
