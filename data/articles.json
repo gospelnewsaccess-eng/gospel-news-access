@@ -1,8 +1,61 @@
 {
-  "generated_at": "2026-10-30T23:25:43Z",
+  "generated_at": "2026-10-31T02:37:07Z",
   "story_count": 600,
-  "with_photo": 422,
+  "with_photo": 420,
   "items": [
+    {
+      "id": "12c5ca8dda6245ad",
+      "title": "Ohio pastor with 2 wives facing backlash after polygamy announcement: 'Raises questions about spiritual manipulation'",
+      "link": "https://www.christianpost.com/news/ohio-pastor-with-2-wives-facing-backlash-after-claiming-polygamy.html",
+      "summary": "Ohio Pastor Israel Ford is facing public backlash after revealing he has been living in a throuple with his wife and a younger woman for the last three years, said they all fasted and prayed for 40 days before embarking on their polygynous journey.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-31T01:06:53Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272501_w_550_382.jpg?v=20261030211239",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7acebf224826b807",
+      "title": "Wash Me in Your Mercy, Jesus 🙏 | Deep Emotional Gospel Worship Song About Forgiveness & Grace.🔥 🙏✨",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE92UFFuX01PRl94WmFYSm96VGVCMnFBemR0SHlySGFscE1DcVVZM2VLU2pzSzVVVWU3S2xNSy0xdVRidw?oc=5",
+      "summary": "Wash Me in Your Mercy, Jesus 🙏 | Deep Emotional Gospel Worship Song About Forgiveness & Grace.🔥 🙏✨ YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-30T23:34:11Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-31T02:37:07Z"
+    },
+    {
+      "id": "0aaa3c4954791142",
+      "title": "Kirk Franklin defends working with rappers",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOejFsU1lVcVhXSzNsTjUtVUxaMmVFQUhOdF9WRzJ5RndRTGVnMTVGdEJvcnhPUnBLTEN4RGVTNFkzcDg5LXdwcEEtQm1UZ201VmRwZy1LSlp2RUI3LTNwWWNtd3hQelNLZERSOU03MDRYR2JMZ0wydFBLWXZwYVpGZmdEbHo3SDRDZlhEX2RUdmVfRk44WmR0ZmJWSXhhT1RHRkE?oc=5",
+      "summary": "Kirk Franklin defends working with rappers AP News",
+      "outlet": "AP News",
+      "outlet_url": "https://apnews.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-30T23:22:00Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-31T02:37:07Z"
+    },
     {
       "id": "b34264800aa5ab02",
       "title": "Gospel icon Kirk Franklin says there’s a bigger message in his collaborations with rappers",
@@ -114,6 +167,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "7ec61370ba06c20a",
+      "title": "Christian Rapper Points Fans to Jesus, One Song at a Time",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODFzM0FfSGpGWmJzVWtvMjJFRTlFcllobzktMnNRakxJNDZxa3VNSmpfNHU3SHR3TUoyak5fVGp4czkydEtvXzJmOUpLRVRuMk45UVBnMWUyaG1Sbk9PUk5XWXB2YUU2R21EaktCbnY5MnRmS0o1RVFpZjdlZjIyemlIQjZSMWZoTzlvM3plWkRTSmZYOEhHak1QSG0yNUkyWk9PUA?oc=5",
+      "summary": "Christian Rapper Points Fans to Jesus, One Song at a Time Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-30T21:56:15Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-31T02:37:07Z"
+    },
+    {
       "id": "46df49dc85bf0145",
       "title": "Kirk Franklin Splits New Album Between Studio And Live Sets",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90QkZjbllrMU5mbDg5UU1sdUVlMzhRNWJ5RVozdTc3M3J0OEMwaUhSWFVNTnJ2cnB5WXRaYzNPdzN0Q29vX3BScDFiNUhkS1BkWUlUeGpIV3J2T2JBS2NjbTFQNElIUnlVLWpJQ19KSU5rbVdQUHQ1VWpfSDJodw?oc=5",
@@ -200,6 +270,25 @@
       "image": {
         "url": "https://res.cloudinary.com/ewtn/image/upload/v1793383973/ewtn-news/en/Cardenal-Cabrera-Arquidiocesis-Guayaquil-29102026_xjsmpz_zeuc0c.jpg",
         "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7e3de53ce6ff4928",
+      "title": "This Sunday, the Global Church Will Pray for 388 Million Christians Facing High Levels of Persecution",
+      "link": "https://relevantmagazine.com/justice/this-sunday-the-global-church-will-pray-for-the-388-million-christians-facing-high-levels-of-persecution/",
+      "summary": "Congregations around the world will set aside Sunday, Nov. 1 for the International Day of Prayer for the Persecuted Church, and this year Open Doors, the Christian ministry that tracks persecution, is asking them to start with Syria. Its 2026 World Watch List…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-30T20:59:55Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/syria.jpg",
+        "via": "og:image"
       },
       "breaking": false,
       "breaking_expires_at": null
@@ -294,6 +383,25 @@
       "first_seen": "2026-10-30T23:25:43Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32430/ainsley-earhardt.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "670d91adce91f65b",
+      "title": "From Lisbon to Seoul: Conference examines WYD’s role in building peace",
+      "link": "https://www.vaticannews.va/en/church/news/2026-10/wyd-2027-embassies-portugal-korea-conference.html",
+      "summary": "The Embassies of Portugal and the Republic of Korea to the Holy See hold a conference in Rome on preparations for World Youth Day Seoul 2027 and the role of young people in promoting peace and dialogue. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-30T20:23:00Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/30/conferencia-embaixada.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -507,6 +615,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "8edc10bd4570b3f3",
+      "title": "WNBA Star Sophie Cunningham to Theo Von: ‘Nothing You Do Is Going to Separate You From God’s Love and Grace and Forgiveness’",
+      "link": "https://relevantmagazine.com/culture/sports/sophie-cunningham-to-theo-von-nothing-you-do-is-going-to-separate-you-from-gods-love-and-grace-and-forgiveness/",
+      "summary": "Indiana Fever guard Sophie Cunningham told Theo Von on his podcast that nothing a person does or doesn’t do can separate them from God’s love, after Von said he wishes his connection with God were stronger. The conversation is in episode No. 692 of This Past…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-30T19:40:56Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/sophie.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "67580a69b9a4b0a5",
       "title": "Which state is the most 'pro-life'? Activist group ranks first to last",
       "link": "https://www.christianpost.com/news/what-is-the-most-pro-life-state-new-list-reveals.html",
@@ -708,6 +835,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-10-30T19:34:29Z"
+    },
+    {
+      "id": "7d6c4830a2b519da",
+      "title": "Kirk Franklin releases double album with all-star collabs",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSHdZaXdPVXozMzEtTUY0WG82MDVnMmpISm1pS1pacDNESDVWanFQZjZxUWxub2gwU3pvVy1xTWZidTZubll3SDBodnhhOU9ObV9tZl9ZSEg0d3BKQm8wbTNqTm9uOHlYVktQaDNSQXZod1d5WHpYYVVydEFQaHNQelNkcGNETzlRUmRUWFF0YkY?oc=5",
+      "summary": "Kirk Franklin releases double album with all-star collabs The Music Universe",
+      "outlet": "The Music Universe",
+      "outlet_url": "https://themusicuniverse.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-30T17:32:36Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "2a7f178fdd53077c",
@@ -6033,6 +6177,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "70de66400b2b7d10",
+      "title": "Ep. 659: ENCORE: A Conversation with Charlie Peacock",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNVVZX1NKa1ROTEg0MFRkeGtFMloxaFF5YTJqYk00UWdwM2RkaFU4RFltTkZRWnF0bjFfWEI1cGgxSHNjVEJqVFctNndrMElGWE1mbThxWjgwQ0ZuVlVmcE1Bbzdac0pqTkVkWTNtTGlDMU5QSERPUE9iV202RWRxTE9n?oc=5",
+      "summary": "Ep. 659: ENCORE: A Conversation with Charlie Peacock MinistryWatch",
+      "outlet": "MinistryWatch",
+      "outlet_url": "https://ministrywatch.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-10-28T16:24:27Z",
+      "first_seen": "2026-10-31T02:37:07Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-10-31T02:37:07Z"
+    },
+    {
       "id": "d71146c67b1b3ca8",
       "title": "East Texas native, Grammy Award-winning worship leader Chris Tomlin receives honorary doctorate from ETBU",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYllTNXRCM1prWnNPV2hnekdjb20xTUtjSXFBc0FKd2lNQ1BfQXNJazlVSkV3WElCWkxPZWFiV05HTGV3ZmhIU19FVXBfWWs2d0xpM2JfVnFERGVQamNEbEdhWDNXM1RKODRON0h1SzNmcTlRTVlZaUtZM2J6ODVqYWJXTGpXaHRwWnRkZFRxZTlURmo4aFFpd0dfMmQ?oc=5",
@@ -7742,7 +7903,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-28T12:37:05Z",
-      "image_tried": "2026-10-28T00:37:05Z"
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "cdf8983684d10453",
@@ -7778,7 +7939,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T00:37:05Z"
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "6f8758757e1790df",
@@ -7795,7 +7956,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T00:37:05Z"
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "ca2f5621b1d77c24",
@@ -7926,7 +8087,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T00:37:05Z"
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "94b5326923f3613f",
@@ -8978,7 +9139,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T00:37:05Z"
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "ac2eaa89f288bf82",
@@ -10403,7 +10564,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T00:37:05Z"
+      "image_tried": "2026-10-31T02:37:07Z"
     },
     {
       "id": "318dbbbb918acc52",
@@ -10882,171 +11043,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "d34e40efb00e741e",
-      "title": "Christian Rapper Promised to Share Faith Through Music. He’s Doing Just That.",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVBNNXZzQ1ptMXc4M2o1SkFSRlhDNkNoa1FTcDdjQ3FBVmw3YTVZVUhuUXRKLWQxUTlqTExPVVZManVnOFBNYlBnaVFhSTlNS1BNVVAwVEt5U3U0Q2xrVHE1c3BVWU05LVZ5VnVGMjVUMldKOUdIdHJBRmhtNzBDUmdENXhMZ1ZGWXd0aWhidHA4aDdvaDI3TEo4dDVnWllxdHVqOXl3?oc=5",
-      "summary": "Christian Rapper Promised to Share Faith Through Music. He’s Doing Just That. Movieguide",
-      "outlet": "Movieguide",
-      "outlet_url": "https://www.movieguide.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-26T17:48:10Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
-    },
-    {
-      "id": "916f2e0608c066b9",
-      "title": "Colton Dixon offers Christian response to Halloween with haunting new song ‘Bones’",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTlpMTRKN0hYc2gyQ2JtWXFvcGlBNVMyZDZYTTJEbWZ1TV91WWlLUjZWQTM4UXhIUkJ1UUYzR1RMT1pzZ180ZU1RZ3Vpdl9ia0RQSUVUdXZRbTloeHhIRHJOV1FjcjJwaUs4bWNJTEMtbUw0NVJVbVZDa05teHpzcDhteEFNYTFmSFVyN2NYRzRjbEd5VFd3SlVoZklWaXBCVkgzbA?oc=5",
-      "summary": "Colton Dixon offers Christian response to Halloween with haunting new song ‘Bones’ Christian Post",
-      "outlet": "Christian Post",
-      "outlet_url": "https://www.christianpost.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-26T17:42:40Z",
-      "first_seen": "2026-10-26T21:06:49Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272462_w_550_267.jpg?v=20261026134259",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "105d8f4003b660ed",
-      "title": "Boyz II Men's Country Album Has A Surprising Randy Travis Connection—And A Link To ‘The Chosen’",
-      "link": "https://www.jubileecast.com/articles/40560/20261026/boyz-ii-mens-country-album-has-a-surprising-randy-travis-connection—and-a-link-to-the-chosen.htm",
-      "summary": "Boyz II Men Sign Country Record Deal For 2027 Project After Lady A Collaboration",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-26T17:42:21Z",
-      "first_seen": "2026-10-26T21:06:49Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/6407/boyz-ii-men.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "24ef88b6785212d5",
-      "title": "Florida church, school allowed suspected child predator to work with children, lawsuits say",
-      "link": "https://www.christianpost.com/news/fl-church-school-sued-over-youth-pastors-sexual-abuse.html",
-      "summary": "Two lawsuits allege that a Florida church and a Christian school failed to protect children from Matthew Clark Graziotti, a former youth pastor and teacher serving a 210-year sentence for federal child sexual exploitation crimes.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-26T17:42:00Z",
-      "first_seen": "2026-10-26T21:06:49Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272446_w_550_367_577_120.jpg?v=20261026134221",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0c48b4c00ef52b4b",
-      "title": "Tye Tribbett Releases ‘I Want It All Back’ V20 Live Reimagined Version",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWUZEMlkyYkg2VDNhWGRFa29OYzB4dkRZNlVtS3hYbkhINmdqdUk2cXc5WWUzZWRuZjJhemJzN2tBeVNKeklISVRtWFRpNEtHd0ZHbHlpelpTbllHR3pVTDAwcHJ1cTVDS1FubkN1OWM1S0hlLXhZdm1BSGlkZHZTY08tTUhBMzA1SDVDNQ?oc=5",
-      "summary": "Tye Tribbett Releases ‘I Want It All Back’ V20 Live Reimagined Version The Hype Magazine",
-      "outlet": "The Hype Magazine",
-      "outlet_url": "https://www.thehypemagazine.com",
-      "source_feed": "Google News: Tye Tribbett",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-26T17:22:15Z",
-      "first_seen": "2026-10-27T21:04:48Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T23:25:43Z"
-    },
-    {
-      "id": "0e491fa39967b093",
-      "title": "‘It fills me with joy’: Pope Leo XIV confirms his trip to Uruguay, Argentina and Peru",
-      "link": "https://www.ewtnnews.com/vatican/leo-xiv-confirms-his-trip-to-uruguay-argentina-peru",
-      "summary": "The Holy See Press Office confirmed that the Nov. 6-17, 2026 apostolic journey will proceed according to the previously published program.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-26T17:20:16Z",
-      "first_seen": "2026-10-26T21:06:49Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792763533/ewtn-news/es/Leon-XIV-Audiencia-General_Daniel-Ibanez_231026_erxlq6.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4f84780161e79d6d",
-      "title": "How ultra-Orthodox Jews — and issues surrounding them — may shape Israel’s election",
-      "link": "https://religionnews.com/2026/10/26/how-ultra-orthodox-jews-and-issues-surrounding-them-may-shape-israels-election/",
-      "summary": "JERUSALEM (RNS) — Prime Minister Benjamin Netanyahu’s government has tolerated the refusal of tens of thousands of Haredim to serve in the military. That support will likely hurt him at the ballot box on Tuesday (Oct. 27).",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-26T17:19:30Z",
-      "first_seen": "2026-10-26T21:06:49Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-Israel-Draf2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "896a7d61204a0ac6",
-      "title": "3 Gunmen Captured After Deadly Attack on Christian Church",
-      "link": "https://mycharisma.com/news/3-gunmen-captured-after-deadly-attack-on-christian-church/",
-      "summary": "The manhunt for three gunmen accused of turning a Christian funeral into a scene of bloodshed is over. Jordanian security forces have captured all three suspects believed responsible for the deadly attack on a Greek Orthodox church in the Karak governorate…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-26T17:17:50Z",
-      "first_seen": "2026-10-26T21:06:49Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4dc75d025253dd8d",
-      "title": "Lizz Wright and Kenny Banks Sr to perform at Saffron Hall this November",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUtSeGc1SkYzQ3d0VnVLRno4YzNwc21YSjkxWVpGNTRsT3NKcVlKckdkQXhYRkxNQzVMZVZFMmlWTU5CbmhRZnh3TDdCVEYxNGx0cEp5S05SM2RIS2xzWWk4SFpIZEw5UmxrNGhVZEZwd3VaZ1VOTjRhQ0txSEMwNDQ5VzZfaGo5QXZNWHhOZXdqT2xaX2ZhYlBfenVoZUFzdXdzR2NKbU0tZWtNU3c?oc=5",
-      "summary": "Lizz Wright and Kenny Banks Sr to perform at Saffron Hall this November Jazzwise",
-      "outlet": "Jazzwise",
-      "outlet_url": "https://www.jazzwise.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-26T17:11:56Z",
-      "first_seen": "2026-10-27T00:39:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T01:12:30Z"
     }
   ]
 }
