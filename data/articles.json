@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-31T22:40:39Z",
+  "generated_at": "2026-11-01T01:46:05Z",
   "story_count": 600,
-  "with_photo": 427,
+  "with_photo": 424,
   "items": [
+    {
+      "id": "6810cb51aa5be9fb",
+      "title": "America’s first martyrs for marriage: The Georgia Martyrs declared ‘blessed’",
+      "link": "https://www.ewtnnews.com/world/us/america-s-first-martyrs-for-marriage-the-georgia-martyrs-declared-blessed",
+      "summary": "In a milestone for the Catholic Church in America, the Georgia Martyrs are the first American martyrs for marriage and the first to be beatified in the South.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T01:21:15Z",
+      "first_seen": "2026-11-01T01:46:05Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793476749/ewtn-news/en/JB1_5601_krlsug.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1993d39fc78813ec",
+      "title": "Burial dispute delays Toluwanisings’ final farewell",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Nb0phakZMTjdKM21EVWxlTFpVQWV2SEhjQ1lBanZMX21VWV9TMXhaTzRIWDdIQjE0bnRCVUwxUlFtRnh6b0VBdXR1N25VRzluZGZLWVNjMkVnUms3YnRmeGppNUg5VEVZajN3VFNuR2o2U0VnMV9YeGYySQ?oc=5",
+      "summary": "Burial dispute delays Toluwanisings’ final farewell Punch Newspapers",
+      "outlet": "Punch Newspapers",
+      "outlet_url": "https://punchng.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-31T23:37:30Z",
+      "first_seen": "2026-11-01T01:46:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T01:46:05Z"
+    },
+    {
+      "id": "910a89af3692c0ab",
+      "title": "Enkay Ogboruche wins Africa Gospel Music Impact Award at Clima Awards 2026",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTVRNZ0N4SjFIbXd2Szh5ZzAyLWVCM2dvLUhFaDFqbk9pOTZfN0dUNkJ5d1JLMmxKNHhNRmhadFV3TE1vckJsZ3FOT3ZueGtvaDRjYXBJd1VPWEZUNGhHZ2l5MEEwcXdITFBETDRHWmlYdzlxaTFNMndlX1czQWJRbWQ2X0o3SEpOYWk0S2VSWnJ1UHNWbEc3OEEyRHB5Y2M4aGUzUzItRDBrT3ZhQ25FX9IBtgFBVV95cUxPMFVMUlVJN0paTmVHX1pBbXp2TWxWOEdiaVp6QXlkVmlqOTU4UHpiT1F3a1hoQ1Y1N0NFYmRrbFVTbVNHUk5FakQ3dEZ4TllzMm1WT19JbzduTmJPOHlPVFFacTF2a25wWTNlVE5GVzlMNzhobU14a1c1MDZNSHl4OU5FdWJCYWNBVkJseFdJenhXMENtOW1MdmxVY0xodTRMTEhuNmlCZ2VPU2tWclFJSEN4QVY4dw?oc=5",
+      "summary": "Enkay Ogboruche wins Africa Gospel Music Impact Award at Clima Awards 2026 Vanguard News",
+      "outlet": "Vanguard News",
+      "outlet_url": "https://www.vanguardngr.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-10-31T23:11:43Z",
+      "first_seen": "2026-11-01T01:46:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T01:46:05Z"
+    },
+    {
+      "id": "e8d2a9b2f8bf9b95",
+      "title": "“We Are Ready”: Attorney Extraordinaire Norm Eisen Talks 2026 Midterms and Beyond",
+      "link": "https://religionnews.com/2026/10/31/we-are-ready-attorney-extraordinaire-norm-eisen-talks-2026-midterms-and-beyond/",
+      "summary": "The co-founder of Democracy Defenders Fund and former Obama Administration ethics czar joins Rev. Paul Brandeis Raushenbush on the eve of the election to recount victories and unveil strategies for ensuring a full and fair vote",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-10-31T23:08:30Z",
+      "first_seen": "2026-11-01T01:46:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T01:46:05Z"
+    },
+    {
+      "id": "5401c86a60c98d81",
+      "title": "Kirk Franklin Releases I Am What I Am Double Album",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcm53eldqQld3OG5BcVo5OFBmSXBDaVVGTGxJVDFXLU5JdGpxVE5ScF96VC1WNGRvU1VpMGF6UkpwLXJNQ1llaTNoaUZkRGRfRUl5a1VaOFUxS3JHbFlxRUFFTW91U3c0U2NBQldZTDQ5OWZJM0dQTjZhTk1FOGxteDZHYUR6ZGRLcEFEaEZhWDU3dw?oc=5",
+      "summary": "Kirk Franklin Releases I Am What I Am Double Album Full Access Magazine",
+      "outlet": "Full Access Magazine",
+      "outlet_url": "https://www.fullaccessmagazine.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-31T22:41:09Z",
+      "first_seen": "2026-11-01T01:46:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T01:46:05Z"
+    },
     {
       "id": "b58fd5b6b2a3c2eb",
       "title": "Calling All Voices: Gospel Choir Workshop and Concert “Thankful Together” Brings Healing, Hope, and Harmony to Santa Clarita on Nov. 14",
@@ -55,6 +142,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "15d0a0bceeaa7ccb",
+      "title": "Virginia Symphony Orchestra: Gospel Night with Tamela & David Mann - www.brunswicktimes-gazette.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPYlpNcUNGUjcyQlVzZXFfZk5RWmVNU2k5dXF1S3ExaW52OXZYWk5OZnpIMzFFd0Jmb01SN1gzdVlXTTg3RGtQSTF0WWlpT0cwUEY2b0JuaklSMTFzNWFxakpRQ04yYWNNX2Y4Skd5SmRaZE1hbmh4TWhOWkltTTh3NGFIYmdSQkZaaF9mVU9XTUZlbFZpNHFxdDFQMm1iczZJZ3piSGhaWW1zM1FTMW1qUkQxWkFzYnB0Q2F1VDJKUGJuZEg0OExSeW5uVXJvVXNhNUFZUTAxWGYwRk1SWGtFdEVYOU5ZZw?oc=5",
+      "summary": "Virginia Symphony Orchestra: Gospel Night with Tamela & David Mann www.brunswicktimes-gazette.com",
+      "outlet": "www.brunswicktimes-gazette.com",
+      "outlet_url": "https://www.brunswicktimes-gazette.com",
+      "source_feed": "Google News: Tamela Mann",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-10-31T16:51:39Z",
+      "first_seen": "2026-11-01T01:46:05Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T01:46:05Z"
     },
     {
       "id": "6810f282c20c1755",
@@ -6459,7 +6563,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-29T11:22:41Z",
-      "image_tried": "2026-10-28T23:22:41Z"
+      "image_tried": "2026-11-01T01:46:05Z"
     },
     {
       "id": "dab8fa4a9be17852",
@@ -6835,7 +6939,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T23:22:41Z"
+      "image_tried": "2026-11-01T01:46:05Z"
     },
     {
       "id": "747f76f09f8dae6f",
@@ -6928,7 +7032,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-28T23:22:41Z"
+      "image_tried": "2026-11-01T01:46:05Z"
     },
     {
       "id": "9381461a85363f79",
@@ -10943,116 +11047,6 @@
       "first_seen": "2026-10-27T11:26:11Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2020/05/16/1986-10-27-giovanni-paolo-ii-incontro-interreligioso-assisi/1589629360574.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3256400c65ce115a",
-      "title": "The Gospel According to Paul Pfeiffer",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80WnJxLXhCS1ZxTktmX0o3ZnR0cVAyUWluTmlkVFZqdTNDYlVKTE1CSVFPeHNScjZZNkVmb1p5Zk9sSkpjaWp6OFpPdkduc3p2eHc3bFR4bWJfTGpnZmQ3LWQ3X1ZTeV9tMmROcWE3TXNXQQ?oc=5",
-      "summary": "The Gospel According to Paul Pfeiffer Hyperallergic",
-      "outlet": "Hyperallergic",
-      "outlet_url": "https://hyperallergic.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T10:04:09Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-27T23:26:11Z",
-      "image_tried": "2026-10-30T14:26:29Z"
-    },
-    {
-      "id": "8cb6b4f1543a183a",
-      "title": "Toluwanisings’ death: How hospital rejection claims, family dispute, legal threats unfolded",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON2tycXc3WGJBYkc2ZjNSZEJrRzBSWGR4YmZ1d0tQLWxIVGl4RzZFTl80NUVpMUhQWHdLbzRRcERMWEpRN0ZCZ2ZKeUo0SG8zbVI3ZUhGZ3hPQW1SYVNGTHpQWnotSVlzZnVVQXFMQzlNeG5xVzZRQzA0R2xhekhiUDFsSmUtWDVyaGdOOUFXaDV4WVhiYnMtanJYUlV4eDlMOVNXeDd6TjNzY0FGZ0RRME9R?oc=5",
-      "summary": "Toluwanisings’ death: How hospital rejection claims, family dispute, legal threats unfolded Punch Newspapers",
-      "outlet": "Punch Newspapers",
-      "outlet_url": "https://punchng.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T10:04:05Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-27T23:26:11Z",
-      "image_tried": "2026-10-30T14:26:29Z"
-    },
-    {
-      "id": "3cfdf21654dffe4e",
-      "title": "Goodbye, ‘Sam’s Club’ Megachurch. Hello, Stained Glass.",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oMTZOcUpVUkFnTVhkYnB6bElwVVZTR0pRWnp1WC1kcVpjbEExYks4Qkp0RHpaTnQ3YVJ2QlNKeUZPSk5DSnZKTzdkcjFNQkl1Nk5HN1BYZlZQY3M5VTNpRF9IQmlQenEwVmhWLXFxMWEzMXYzQ3lSMWVR?oc=5",
-      "summary": "Goodbye, ‘Sam’s Club’ Megachurch. Hello, Stained Glass. Christianity Today",
-      "outlet": "Christianity Today",
-      "outlet_url": "https://www.christianitytoday.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-27T10:01:00Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/goodbye-megachurch-hello-stained-glass.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": true,
-      "breaking_expires_at": "2026-10-27T23:26:11Z"
-    },
-    {
-      "id": "03922eb40847a519",
-      "title": "How Mental Illness Became an Identity",
-      "link": "https://www.christianitytoday.com/2026/10/all-in-your-head-book-review/",
-      "summary": "Only twice have I met my cousin Jason, who lives in Florida. This isn’t only because I grew up a time zone away: Jason is profoundly autistic, with little ability to communicate. He’s lived most of his life in a group home with the specialized care he…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T10:00:00Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/Werntz_web.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b40b7108b263157c",
-      "title": "Where to Draw—and Not Draw—the Line in Politics",
-      "link": "https://www.christianitytoday.com/2026/10/where-to-draw-and-not-draw-the-line-in-politics/",
-      "summary": "The Syllabus is a column that features student opinions on timely national and international topics. We aim to highlight how evangelical students in the US are thinking about important issues and how the Christian faith informs their worldview. Students…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T10:00:00Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/where-to-draw-line-politics.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c7b0a04354dbc168",
-      "title": "for KING + COUNTRY Addresses ‘Drummer Boy’ PG-13 Rating Ahead of November Release",
-      "link": "https://www.jubileecast.com/articles/40583/20261027/for-king-country-addresses-drummer-boy-pg-13-rating-ahead-of-november-release.htm",
-      "summary": "for KING + COUNTRY Addresses ‘Drummer Boy’ PG-13 Rating Ahead of November Release",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-27T09:23:06Z",
-      "first_seen": "2026-10-27T11:26:11Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/26379/for-king-country.jpg",
         "via": "media:content"
       },
       "breaking": false,
