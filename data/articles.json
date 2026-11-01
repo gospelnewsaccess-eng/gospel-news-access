@@ -1,8 +1,325 @@
 {
-  "generated_at": "2026-11-01T08:35:14Z",
+  "generated_at": "2026-11-01T15:41:28Z",
   "story_count": 600,
-  "with_photo": 420,
+  "with_photo": 423,
   "items": [
+    {
+      "id": "492ddde7fa6ed78c",
+      "title": "Peruvian Archbishop on Pope’s visit: For Latin Americans he is “one of them”",
+      "link": "https://www.vaticannews.va/en/church/news/2026-11/cusco-peru-pope-leo-xiv-apostolic-journey-latin-america-herrera.html",
+      "summary": "Archbishop Lizardo Estrada Herrera, who succeeds Archbishop of Cusco, Richard Daniel Alarcón Urrutia, who died on October, 30 speaks to Vatican News about the exemplary ministry of his predecessor and the joy and excitement brewing in Peru for Pope Leo XIV’s…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T15:03:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/27/11/1793095506581.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "39edbc287fc04370",
+      "title": "Why El-Sayed’s final campaign swing includes a Black church in Detroit",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbkNYQ3FzRGVJUVFLWFFRX0dPalRCZk0ySUdYU1ZQdUNZbW9FSklfNUY2SkJVYy1DZmlfcVVZaHo3SWNzbTFabi12QlFNUldtbUFpUk1OcnRNckR0SW80U2FrbkdhY3JYR041WktnclozNEVJVm11aWZxNW9BLWJBTW9hcldVNlB2bWVFQ1VYd2p4Wm1ZZkFSNE5DLXRNMTJuV1piTmx1YzBtbUQ0Q2duRFdtOFplbEpMNEp3?oc=5",
+      "summary": "Why El-Sayed’s final campaign swing includes a Black church in Detroit Politico",
+      "outlet": "Politico",
+      "outlet_url": "https://www.politico.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-01T14:03:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T15:41:28Z"
+    },
+    {
+      "id": "d913f88fc8214fc6",
+      "title": "Iran designates British forces ‘hostile’ as standoff with US deepens",
+      "link": "https://www.vaticannews.va/en/world/news/2026-11/iran-us-war-britain-politics-escalation-diplomacy.html",
+      "summary": "The Secretary of Iran's Supreme National Security Council, Mohsen Rezaei, confirms he has received a letter from U.S. Vice President JD Vance but has not yet responded. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T13:54:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/11/01/11/1793529618594.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e22e95b8318a9f8d",
+      "title": "East End Arts To Celebrate 40 Years of Harvest Gospel Concert",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1FQXzRUcUU5c05fTG8xc21FTGFNQnE5ZUx6b2hxMzVINDRncXNtb3JkcmlERk9uMXViREVkZndkdEdVMHBwOEw3UWJTb2xjLXpzcU5CMm1oMGxqeUZFX2FScnowOEc5VUNTYlZTRXJyblNwa3IzOUppRGxuUkhwZ2RiYXdvTHBvRnc3bXZJb0E2OFBVWDA3aFk3TDZzMDh0VkZURzB5Sk52QlBwb2tXYi1jYkNyUQ?oc=5",
+      "summary": "East End Arts To Celebrate 40 Years of Harvest Gospel Concert 27east",
+      "outlet": "27east",
+      "outlet_url": "https://www.27east.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-01T13:32:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T15:41:28Z"
+    },
+    {
+      "id": "192abf153d13bd6a",
+      "title": "“People Get Ready”",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ic3lpenluTVZfNl9lTkRaR003cTl2ZDB5VzF2VzVxR0p0bHNTLWFkVUZTVHl5ak9FMC1TTEUtQkxqUlg0dXNlWW5ZRWNNRXZKS0NNU3lLXzQzZw?oc=5",
+      "summary": "“People Get Ready” Steady | Dan Rather",
+      "outlet": "Steady | Dan Rather",
+      "outlet_url": "https://steady.substack.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-01T13:03:58Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-01T15:41:28Z"
+    },
+    {
+      "id": "328db1cc2c1d97ca",
+      "title": "Election Day Countdown: Subpoenas, Senate Showdowns and a Final Push for Votes",
+      "link": "https://mycharisma.com/news/election-day-countdown-subpoenas-senate-showdowns-and-a-final-push-for-votes/",
+      "summary": "With Election Day just days away, legal battles, political accusations, and increasingly competitive Senate races are adding to the tension. The Justice Department is issuing subpoenas to employees of the Los Angeles County Registrar’s Office, ordering them…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T13:00:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d521d7395a27884f",
+      "title": "Pope Leo XIV: ‘Holiness is not a privilege reserved for a few’",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-holiness-is-not-a-privilege-reserved-for-a-few",
+      "summary": "The pontiff said the Solemnity of All Saints offers a “hope-filled message”: God sees goodness hidden from us and calls every person to holiness.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T12:41:07Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793536409/ewtn-news/en/_TEO4423_d9hevn.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3d031e81865c6d26",
+      "title": "Pope: Youth Olympic Games a sign of hope emerging from world of sport",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-angelus-youth-olympics-georgia-martyrs-week-poor-all-souls.html",
+      "summary": "Pope Leo XIV sends his greetings to the participants in the Youth Olympic Games taking place in Senegal, he recalls the beatification of the Georgia Martyrs in Savannah, praises the upcoming World Week of the Poor, and asks for prayers for the dead…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T12:09:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/01/2026-11-01-angelus/1793531698996.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8c36edb09ee019b0",
+      "title": "Minnesota Democrat Says Omar’s Fraud ‘Almost Certainly True’",
+      "link": "https://mycharisma.com/news/minnesota-democrat-says-omars-fraud-almost-certainly-true/",
+      "summary": "A Minnesota Democrat who previously served in the state legislature said that he believes the allegations against Rep. Ilhan Omar for fraudulent activities are likely true. Joe Radinovich wrote on social media, “Democrats should understand that the allegation…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T12:00:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a366eb6eafaae1f7",
+      "title": "Africa surpasses Europe in Catholic population; Church leaders highlight missionary role",
+      "link": "https://www.ewtnnews.com/world/africa/africa-surpasses-europe-in-catholic-population-church-leaders-highlight-missionary-role",
+      "summary": "According to the latest statistics published by Agenzia Fides, Africa’s Catholic population has now surpassed Europe’s, rising to 288.3 million.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T12:00:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793299192/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-10-27t132708_1793104077.jpg_xaktz5.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "387824912eb68413",
+      "title": "Pope appeals for dialogue and concrete initiatives for peace in Ukraine",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-appeal-peace-dialogue-humanitarian-efforts-ukraine.html",
+      "summary": "Pope Leo XVI upholds a humanitarian ceasefire in the Russian-occupied Ukrainian town of Oleshky and appeals for cooperation and dialogue for peace. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T11:33:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/10/31/20/1793473308299.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ec5e298169c264e5",
+      "title": "Pope at Angelus: May we never grow weary of fostering peace in all situations",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-angelus-message-feast-all-saints-holiness-peace-love.html",
+      "summary": "In his Angelus message on the Solemnity of All Saints, Pope Leo XIV recalled the countless saints who have dedicated their life to Christ and emphasized how we are all called to be holy and make choices of love that transcend evil. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T11:15:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/01/2026-11-01-angelus/1793531703991.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "38d065b54f334b3d",
+      "title": "Pro-Life Coalition Claims Signatures to Challenge Abortion Law",
+      "link": "https://mycharisma.com/news/pro-life-coalition-claims-signatures-to-challenge-abortion-law/",
+      "summary": "The Compassionate Care Coalition said Thursday it had gathered enough signatures to put Massachusetts’ new unrestricted abortion law before voters in November 2028. “The people of Massachusetts did not ask for abortion through all nine months, and in a matter…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T11:00:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "47d57721ff15ac99",
+      "title": "Wisconsin pilgrims visit Belgium to explore roots of Our Lady of Champion visionary",
+      "link": "https://www.ewtnnews.com/world/us/wisconsin-pilgrims-visit-belgium-to-explore-roots-of-our-lady-of-champion-visionary",
+      "summary": "Bishop David Ricken led 50 pilgrims from Wisconsin to Belgium to retrace Adele Brice’s footsteps and deepen their connection to the visionary behind the National Shrine of Our Lady of Champion.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-01T11:00:00Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793218981/ewtn-news/en/bricepilgrimage_eik2xc.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4e70ffae0f4b565a",
+      "title": "Should You Watch “Flywheel: Ignition of the Soul”? Kendrick Brothers’ Brazilian Remake: Parents’ Guide and Early Reviews",
+      "link": "https://www.jubileecast.com/articles/40724/20261101/flywheel-ignition-of-the-soul-kendrick-brothers-parents-guide-reviews.htm",
+      "summary": "Should You Watch “Flywheel: Ignition of the Soul”? Kendrick Brothers’ Brazilian Remake: Parents’ Guide and Early Reviews",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-01T09:05:02Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32455/flywheel.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0c1d6a84a66f61ae",
+      "title": "Jordan St. Cyr Releases New Christmas Single “Guide Me Home” Ahead of the Holiday Season",
+      "link": "https://www.jubileecast.com/articles/40723/20261101/jordan-st-cyr-guide-me-home-new-christmas-song.htm",
+      "summary": "Jordan St. Cyr Releases New Christmas Single “Guide Me Home” Ahead of the Holiday Season",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-01T08:57:35Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29856/jordan-st-cyr.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "315d0c859c7c04a3",
+      "title": "Forrest Frank Shares the True Story Behind New Song “What A Life” Ahead of “The Jesus Generation” Album",
+      "link": "https://www.jubileecast.com/articles/40722/20261101/forrest-frank-what-a-life-new-song-jesus-generation-album.htm",
+      "summary": "Forrest Frank Shares the True Story Behind New Song “What A Life” Ahead of “The Jesus Generation” Album",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-01T08:51:24Z",
+      "first_seen": "2026-11-01T15:41:28Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29526/forrest-frank.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6f2b07f358216b0b",
       "title": "Sal Frelick Wears His Crucifix on Baseball’s Biggest Stage: “I Really Want People to Know That I Have Faith”",
@@ -6295,7 +6612,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-10-29T21:13:13Z",
-      "image_tried": "2026-10-29T09:13:13Z"
+      "image_tried": "2026-11-01T15:41:28Z"
     },
     {
       "id": "f15ff94ecace41e0",
@@ -6806,7 +7123,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-29T09:13:13Z"
+      "image_tried": "2026-11-01T15:41:28Z"
     },
     {
       "id": "b6eac469af5cc9f6",
@@ -7942,7 +8259,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-29T09:13:13Z"
+      "image_tried": "2026-11-01T15:41:28Z"
     },
     {
       "id": "d171d650a4db29f5",
@@ -10729,317 +11046,6 @@
       "image": {
         "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "252a8867e52cdcce",
-      "title": "Lucinda Moore Announces First-Ever CHRISTMAS SINGLE “Come, Let Us Adore Him” Arrives November 13, 2026",
-      "link": "https://pathmegazine.com/articles/lucinda-moore-announces-first-ever-christmas-single-come-let-us-adore-him-arrives-november-13-2026/",
-      "summary": "Award-winning gospel recording artist and songwriter Lucinda Moore will release her first-ever Christmas single, “Come, Let Us Adore Him,” on November 13, 2026, through her independent label, … The post Lucinda Moore Announces First-Ever CHRISTMAS SINGLE…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-27T14:58:38Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
-    },
-    {
-      "id": "5a9abbab7a122e19",
-      "title": "Lawrence County Gospel Music Association Gospel Singing November 7",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZUx5c2hIYlF0YlFHaDZ1WDJzOTZFUTAxODJubVdaNWNQQm91M3lESkxobXBpNjF0akJaWUhlbWg1aVNocHRQbFY3TDh5dm5HY0RmUW9MczNXX1ZQdEtUOUtXY0UtSFdCVEhUNWxZQ3NGS3ZpWG9VdE1TWm5sYVJqajNCVlBpdmdRNERzQzcyVXRwX0lERElQeF96TEFjaVRaVnRvUw?oc=5",
-      "summary": "Lawrence County Gospel Music Association Gospel Singing November 7 Radio7Media",
-      "outlet": "Radio7Media",
-      "outlet_url": "https://radio7media.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T14:57:54Z",
-      "first_seen": "2026-10-28T00:37:05Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-31T02:37:07Z"
-    },
-    {
-      "id": "ac2eaa89f288bf82",
-      "title": "Noah’s Ark Search Takes Stunning Turn After Researchers Recover Wood From Durupinar Site",
-      "link": "https://mycharisma.com/news/noahs-ark-search-takes-stunning-turn-after-researchers-recover-wood-from-durupinar-site/",
-      "summary": "The search for evidence of Noah’s Ark may have just entered one of its most significant phases yet. Researchers investigating the mysterious Durupınar Formation in eastern Turkey say multiple pieces of wood recovered from the site have now been sent to a…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T14:56:33Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f35e3641960d1cb",
-      "title": "Koryn Hawthorne Talks about her Abusive Relationships, Ending 3 Engagements, and New Album",
-      "link": "https://pathmegazine.com/articles/koryn-hawthorne-talks-about-her-abusive-relationships-ending-3-engagements-and-new-album/",
-      "summary": "2x GRAMMY nominated, Billboard Music Award and NAACP Image Award-winning artist Koryn Hawthorne recently joined Let’s Try This Again with B.Simone to talk about surviving and healing … The post Koryn Hawthorne Talks about her Abusive Relationships, Ending 3…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-27T14:44:25Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
-    },
-    {
-      "id": "b49f13eecd896410",
-      "title": "Forrest Frank Announces ‘The Jesus Generation’ Tour Documentary, Coming in 2027",
-      "link": "https://rapzilla.com/2026-10-forrest-frank-the-jesus-generation-tour-documentary-coming/",
-      "summary": "Forrest Frank is bringing his record-breaking ‘The Jesus Generation’ Tour to the big screen in 2027. The artist saw his tour cement itself as the largest-attended Christian music tour in history. Now, Forrest Frank is taking the massive movement to the big…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-27T14:42:09Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/27103954/3-Picture-Template-Article-1.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "40ddfa32160d306c",
-      "title": "Chaldean Patriarch of Baghdad: ‘The only option we have is dialogue'",
-      "link": "https://www.vaticannews.va/en/church/news/2026-10/chaldean-patriarch-baghdad-the-only-option-we-have-is-dialogue.html",
-      "summary": "On the last day of the International Meeting for Peace in Assisi, Patriarch Paul III Nona of Baghdad speaks about the importance of looking to contemporary martyrs to build peace: they offer “a good way to think about unity.” Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T14:42:00Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/27/dsc02831.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9ee3bfbefa0c730f",
-      "title": "What’s Behind UFO Disclosure? Paul Bock Warns of a Religion Taking Shape",
-      "link": "https://mycharisma.com/news/whats-behind-ufo-disclosure-paul-bock-warns-of-a-religion-taking-shape/",
-      "summary": "A military officer’s claim that he saw an egg-shaped craft and small bodies inside a guarded Roswell hangar has resurfaced in newly released Pentagon UFO files, according to the Daily Mail. The account brings one of America’s most enduring UFO mysteries into…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T14:37:24Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/09/Screenshot-2026-09-23-142821.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "461dab0b3da7fe2b",
-      "title": "Moses Boyd makes a stunning gospel return",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYkxMQmNpM3dCLUxLUlNYSkF1R1J1ejJCZ3FvOVpEYnIyUVV2TjRvOWpUQ2ItZGFwYVNucVhvOFJPRDVMcVI4VkxGZUFqem5Idm1zVUVweVAzWjMyUGM2LVAySl9sRVBtb2psWVlLTzBXQVBTLXRMemN4enpFUnRmWXFjei1YVlUxUDdIWnRzTEE?oc=5",
-      "summary": "Moses Boyd makes a stunning gospel return Rolling Stone UK",
-      "outlet": "Rolling Stone UK",
-      "outlet_url": "https://www.rollingstone.co.uk",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T14:36:00Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
-    },
-    {
-      "id": "f4c28c685461989d",
-      "title": "Franklin Graham responds to Billy Crystal saying he no longer trusts God after tragedies",
-      "link": "https://www.christianpost.com/news/franklin-graham-responds-to-billy-crystals-comments-about-god.html",
-      "summary": "The Rev. Franklin Graham is urging actor and comedian Billy Crystal to keep trusting God after the entertainer opened up about how he has stopped talking to God because of a series of tragedies in his life.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T14:25:33Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272461_w_550_363_537_300.jpg?v=20261027102518",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e31330e7eb8d9d66",
-      "title": "‘It was a massacre’: 4 things to know about deadly church attack in Jordan",
-      "link": "https://www.christianpost.com/news/deadly-attack-on-church-in-jordan-4-things-to-know.html",
-      "summary": "Jordanian authorities arrested three men following a deadly attack on a Greek Orthodox church, with one witness recalling that after gunmen shot at people fleeing for their lives, they returned to open more fire. Here are four things to know about the deadly…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T14:11:15Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272472_w_550_367_572_242.jpg?v=20261027101146",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c8f02626a3fa4755",
-      "title": "New Christian Music Album Storybook, Vol. 2 Explores Faith, Justice, and the Stories That Shape Communities",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSzQ3ejQwWDFHY01RelJMZkRDa05fZmhhMXktamxHajZ6TFBXSndqci1vZ1Y5TDVuZjQyMlg4bEdyRDFIWGYxbl9ENE5keDR4b1pNc2FSWEdXeXpGb0tZZnlCc3hONklGUjFJZXBiMTBtSndJS25VR1JTMWtkRnZoQ1duRXd2ZDY2M3paaFd3bWhjSmo3RkVWdGxKSmRPdXVNazd0TW9EMGdDNHlxNGVhX3VNbExXOGs?oc=5",
-      "summary": "New Christian Music Album Storybook, Vol. 2 Explores Faith, Justice, and the Stories That Shape Communities The National Law Review",
-      "outlet": "The National Law Review",
-      "outlet_url": "https://natlawreview.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T14:06:49Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
-    },
-    {
-      "id": "b67d31a64777c98c",
-      "title": "Ty Brasel Announces New Mixtape ‘UNDER GOD’ Releasing November 6",
-      "link": "https://rapzilla.com/2026-10-ty-brasel-announces-mixtape-under-god-releasing-november-6/",
-      "summary": "Ty Brasel is officially gearing up for his next project. The Nashville-based hip-hop artist announced that his upcoming mixtape, UNDER GOD, will drop on Friday, November 6. The announcement gives fans an official launch date for the project, along with early…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-27T13:57:29Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/27095323/SnapInsta-Ai_4014596756761673671_30914071-e1793109263516.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "051cb4626f5398f2",
-      "title": "Maroon 5’s PJ Morton: ‘I don’t have to choose between gospel and R&B’",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbHdldlFodC1mZ3dTVnRmOS1xNGhrWXE3aVhQVC0zZUg5enpPcmdLZWR4MEJuSVQ4SWtsSEY5SDFBSmtOUXRSQmh2VmdYQ24wWEUwWmp6Zmx6dlBRZ2U5c0FIVnB3MkNpNDdqNUlMMUdlOFdTZUVzWDdCUllMTEtzQXVOSjNfTU1UMGlFN1E0UENTd2RyOWpHSVVMbUgwaHhEZ0l2T3pWU1hFZnk1bXhWN1ZIMWthVUJFNU1SMUF6d0U5VlV1V2c?oc=5",
-      "summary": "Maroon 5’s PJ Morton: ‘I don’t have to choose between gospel and R&B’ Premier Christianity Magazine",
-      "outlet": "Premier Christianity Magazine",
-      "outlet_url": "https://www.premierchristianity.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-27T13:42:51Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
-    },
-    {
-      "id": "b80bd6586f8dc017",
-      "title": "Producer 1KChvcho Shares Interaction with an Artist Trying to Take Advantage",
-      "link": "https://rapzilla.com/2026-10-producer-1kchvcho-shares-interaction-artist-trying/",
-      "summary": "Christian hip-hop producer 1kChvcho recently highlighted a conversation with an artist that sparked a broader discussion about compensation and professionalism in Christian music. The producer shared a direct message from an artist who argued that Christian…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-27T13:22:48Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/10/27092151/SnapInsta-Ai_3735340862160161752_2352589679-e1793107353804.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "54b6c6d3d84b2967",
-      "title": "Diocese in Guatemala investigates alleged Eucharistic miracle involving host with reddish stains",
-      "link": "https://www.ewtnnews.com/world/americas/diocese-in-guatemala-investigates-alleged-eucharistic-miracle-involving-host-with-reddish-stains",
-      "summary": "A multidisciplinary team is investigating an alleged Eucharistic miracle in the Diocese of St. Rose of Lima, Guatemala. Even if the findings are positive, only the Holy See can declare it a miracle.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T13:00:00Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793049888/ewtn-news/en/MILAGRO_GUATEMALA_yydkoa_wy1rpb.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0f28af3d05892b59",
-      "title": "Trump’s Board of Peace Selects Former Biden Admin Official for Key Role",
-      "link": "https://mycharisma.com/news/trumps-board-of-peace-selects-former-biden-admin-official-for-key-role/",
-      "summary": "President Donald Trump’s Board of Peace appointed former Biden administration official Shelley Greenspan to an outreach role to build bipartisan support for the commander in chief’s Gaza peace proposal. Axios reported Monday that Greenspan previously served…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T12:54:34Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fe05ad7cb3e9110e",
-      "title": "As Israelis Turn Out to Vote in Record Numbers, Police Deals With Multiple Claims of Election Interference",
-      "link": "https://mycharisma.com/news/as-israelis-turn-out-to-vote-in-record-numbers-police-deals-with-multiple-claims-of-election-interference/",
-      "summary": "As Israelis head to polls in record numbers, the first reports of potential voter interference have also begun trickling in. The Central Elections Committee (CEC) announced that as of noon Tuesday, 31.5% of the eligible Israeli voting public had already cast…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-27T12:44:35Z",
-      "first_seen": "2026-10-27T16:46:50Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
       },
       "breaking": false,
       "breaking_expires_at": null
