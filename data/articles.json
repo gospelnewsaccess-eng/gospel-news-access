@@ -1,8 +1,534 @@
 {
-  "generated_at": "2026-11-03T03:01:29Z",
+  "generated_at": "2026-11-03T11:10:33Z",
   "story_count": 600,
-  "with_photo": 413,
+  "with_photo": 411,
   "items": [
+    {
+      "id": "54a9a8a43329594b",
+      "title": "Churches Face a Shortage of Worship Leaders",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUpZbTFlRF9kN2tuTlFqUDlwcTdHNms2TkZyZTJPc09ZM0d2OUgxYUowR1l6enBDM2RWVnNodWJ2X1BxTnNETjRDa1YwbnFYdUE2VGoySzZLdU5nUWM1cWZnYndaRmdURVYySzNFdmRDa2NsT2RqN2hhZ0U2WUw0YUExMGsyaXJsRml5MEhlaDJqVkQxNWZqUjFyMA?oc=5",
+      "summary": "Churches Face a Shortage of Worship Leaders Christianity Today",
+      "outlet": "Christianity Today",
+      "outlet_url": "https://www.christianitytoday.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-03T11:01:20Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/11/worship-leader-shortage-church.jpeg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": true,
+      "breaking_expires_at": "2026-11-03T23:10:33Z"
+    },
+    {
+      "id": "f0e737da3ba21cdd",
+      "title": "Some Language Changes Come from Sin. Others Are Natural.",
+      "link": "https://www.christianitytoday.com/2026/11/kjv-bible-language-changes-come-from-sin-others-are-natural/",
+      "summary": "Language change gets our attention mainly, I think, when it is controversial. Even openly non-Christian and self-confessedly liberal journalist Nicholas Kristof of The New York Times has expressed alarm at the ideological attempts at language change that have…",
+      "outlet": "Christianity Today",
+      "outlet_url": "",
+      "source_feed": "Christianity Today",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-03T11:00:00Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/what-saith-the-lord.jpg?resize=1200,628",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6828392548e18dea",
+      "title": "All White Unity Gospel Festival to bring uplifting music and community worship to Gqeberha",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMTBac3lUTHdpVEZ1b3lYQS1yMXB4TEVlUmpqVDVwUk5EcnJsRUdkTzFMRzZVNjBwR3pxYnByVDNpejA1bVR4Zmd5alVydUswVFZlb0VzWlNvX0pTMFZyU0ZBTjJLOXduQUFaM1JaeVdXdFFMYnExNmpJaFhmV2RFRGZ3STUyVS1yb3QtRjNUb0ZBcDkwNG5nNHR5a25hdng4cWNCSnBpdFZ2UkZNM2NrcGtZUmxvNkwzb3VmRHFNWllJYkZEaHNQMnVkcw?oc=5",
+      "summary": "All White Unity Gospel Festival to bring uplifting music and community worship to Gqeberha theherald.co.za",
+      "outlet": "theherald.co.za",
+      "outlet_url": "https://theherald.co.za",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-03T10:13:03Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-03T23:10:33Z",
+      "image_tried": "2026-11-03T11:10:33Z"
+    },
+    {
+      "id": "5512140d1e340296",
+      "title": "Gary P. Rohrmayer Releases \"Deeper Prayer,\" a 28-Day Devotional Exploring the Apostle Paul’s Prayers",
+      "link": "https://www.jubileecast.com/articles/40789/20261103/gary-rohrmayer-deeper-prayer-devotional.htm",
+      "summary": "Gary P. Rohrmayer Releases \"Deeper Prayer,\" a 28-Day Devotional Exploring the Apostle Paul’s Prayers",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T09:29:53Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32493/depper-prayer.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0fa82cbe45f0599a",
+      "title": "CNN says a ‘tsunami’ of church closings is coming. The data says otherwise",
+      "link": "https://www.christianpost.com/voices/cnn-says-a-tsunami-of-church-closings-is-coming-is-that-true.html",
+      "summary": "A recent CNN article warned that a “tsunami” of church closings is poised to remake America. But the numbers tell a quieter story. Closures barely outpace openings, and the most alarming figure counts sold buildings, not dying congregations.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-03T09:01:39Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272559_w_550_300.jpg?v=20261103045014",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e824fc59b0fd5b1f",
+      "title": "Christians with PTSD: Why fear doesn’t mean weak faith",
+      "link": "https://www.christianpost.com/voices/christians-with-ptsd-why-fear-doesnt-mean-weak-faith.html",
+      "summary": "For six years, a deacon took back roads to avoid the interstate where a truck hit him. He believed his fear meant he didn’t trust God enough. Clinical psychologist David Zuccolotto explains why that belief is wrong and what finally helped him drive again.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-03T08:59:01Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272523_w_550_290.jpg?v=20261103044930",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0b5aee1ad5561e44",
+      "title": "Sarah Stankorb Criticises Carl and Laura Lentz’s New Book, Questions His Public Comeback",
+      "link": "https://www.jubileecast.com/articles/40788/20261103/sarah-stankorb-criticises-carl-and-laura-lentz-s-new-book-questions-his-public-comeback.htm",
+      "summary": "Sarah Stankorb Criticises Carl and Laura Lentz’s New Book, Questions His Public Comeback",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:38:56Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/20219/carl-lentz.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9ae22c4c0a0a30a1",
+      "title": "Calm Worship Collective on Christmas Piano Music, Finding Stillness, and Making Space for God",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTjQ1UmFsdHBmMklReXluMk1lSFgwdXp5UUphMFRuRHN1V0p0bl9VRmNFc0dPeXRTZ2g5Q25xaEhaNnoyQ3pXQ2phS1dCMV9qNFctSUdMbkUtZ2JqeWw5cUsyc1JvMVVwRUhNNGpmSzdrVTJfVzQ2VFlycGlIM3p6cGg2ZnpxUEZ6ZnBCaktXVGctanhDMEIzWVVkSl9YS2ZFVmc3NGlCYUhyWFgzWUdMS3p6WGk4dzV3UlRXRHJqWkhCeWwzU3k3ZHRhempYQTBnSkloWWF4MHNDZWIxTDlNRA?oc=5",
+      "summary": "Calm Worship Collective on Christmas Piano Music, Finding Stillness, and Making Space for God JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-03T08:22:00Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32492/calm-worship-collective.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "eeddbf134d0deaee",
+      "title": "Lily Hooten Announces Debut Album 'Promise Land,\" Produced by NEEDTOBREATHE’s David Leonard",
+      "link": "https://www.jubileecast.com/articles/40786/20261103/lily-hooten-promise-land-debut-album.htm",
+      "summary": "Lily Hooten Announces Debut Album \"Promise Land,\" Produced by NEEDTOBREATHE’s David Leonard",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:20:37Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32491/lily-hooten.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7ddf9c94f7759fc0",
+      "title": "“Righteous Gemstones” Star John Goodman Reveals the Unexpected Side of His 200-Pound Weight Loss",
+      "link": "https://www.jubileecast.com/articles/40785/20261103/john-goodman-weight-loss-righteous-gemstones-star-unexpected-side-200-pounds.htm",
+      "summary": "“Righteous Gemstones” Star John Goodman Reveals the Unexpected Side of His 200-Pound Weight Loss",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:08:02Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32084/john-goodman.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "74a6db540405f193",
+      "title": "Must Christians vote Democrat? A response to a reader",
+      "link": "https://www.christianpost.com/voices/must-christians-vote-democrat-a-response-to-a-reader.html",
+      "summary": "A reader told me that if I love Jesus and I’m not a Pharisee, I’ll vote blue. Honesty, compassion and care for the vulnerable are Christian virtues, but no party owns them.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-03T08:07:13Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272561_w_550_367.jpg?v=20261103044844",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "93942e7b9804fb04",
+      "title": "Brittany Snow Says She’s Grateful for Her Divorce From Tyler Stanaland: Here’s Why",
+      "link": "https://www.jubileecast.com/articles/40783/20261103/brittany-snow-grateful-divorce-tyler-stanaland-armchair-expert-hunter-moreno.htm",
+      "summary": "Brittany Snow Says She’s Grateful for Her Divorce From Tyler Stanaland: Here’s Why",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:04:49Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32490/britanny-snow.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "566d9f77e9f1d387",
+      "title": "\"I Play Rocky\" Opens Friday: What to Know Before the Stallone Story Hits Theaters",
+      "link": "https://www.jubileecast.com/articles/40782/20261103/i-play-rocky-release-date-cast-runtime-rating-stallone-story.htm",
+      "summary": "\"I Play Rocky\" Opens Friday: What to Know Before the Stallone Story Hits Theaters",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:04:43Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32489/i-play-rocky.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5b9382d9fe902b22",
+      "title": "\"The Voice\" Season 30 Top 12: Who Survived the Biggest Cut in Show History",
+      "link": "https://www.jubileecast.com/articles/40781/20261103/the-voice-season-30-top-12-who-survived-biggest-cut-in-show-history.htm",
+      "summary": "\"The Voice\" Season 30 Top 12: Who Survived the Biggest Cut in Show History",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:04:35Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31894/the-voice-coaches.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ff715ae2032aa1c4",
+      "title": "Dolly Parton’s Niece Rebecca Seaver Reportedly Fired From Museum Role: What We Know",
+      "link": "https://www.jubileecast.com/articles/40784/20261103/dolly-parton-niece-rebecca-seaver-reportedly-fired-museum-role-what-we-know.htm",
+      "summary": "Dolly Parton’s Niece Rebecca Seaver Reportedly Fired From Museum Role: What We Know",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T08:00:59Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31986/dolly-parton.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "51961153dac632da",
+      "title": "Religion on the ballot: A look at the latest polls",
+      "link": "https://religionnews.com/2026/11/03/what-the-polls-say-about-races-featuring-religion/",
+      "summary": "(RNS) — A look at midterm races where faith is part of the political story.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-03T08:00:52Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/11/2026-Midterms-Graphic-Ohio-Gov1-copy2-295x369.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6be1ecfd94f5c549",
+      "title": "Mckenna Grace Draws a Line: What the \"Hunger Games\" Star Says She Won’t Do on Screen",
+      "link": "https://www.jubileecast.com/articles/40780/20261103/mckenna-grace-draws-line-roles-hunger-games-star-boundaries.htm",
+      "summary": "Mckenna Grace Draws a Line: What the \"Hunger Games\" Star Says She Won’t Do on Screen",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T07:28:29Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32488/mckenna-grace.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b05f38fabe394d15",
+      "title": "Nicole Taylor of Christian Country Trio Taylor Red Dies at 35; Sisters Honour Her Faith Through Cancer",
+      "link": "https://www.jubileecast.com/articles/40779/20261103/nicole-taylor-of-christian-country-trio-taylor-red-dies-at-35-sisters-honour-her-faith-through-cancer.htm",
+      "summary": "Nicole Taylor of Christian Country Trio Taylor Red Dies at 35; Sisters Honour Her Faith Through Cancer",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T07:24:08Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/18667/taylor-red.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b23b6e07660f9fcd",
+      "title": "Kelly Clarkson Thanks Her Team After Emmy Haul: “It Was an Incredible 7 Years”",
+      "link": "https://www.jubileecast.com/articles/40778/20261103/kelly-clarkson-show-can-still-win-2027-daytime-emmys-after-ending.htm",
+      "summary": "Kelly Clarkson Thanks Her Team After Emmy Haul: “It Was an Incredible 7 Years”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T07:18:04Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32487/kelly-clarkson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ec5f151758964ddb",
+      "title": "Tye Tribbett Challenges Gospel Music’s Celebrity Culture in Candid Lecrae Interview",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmVhd05NSk9reTNvRjZIaTNlb2JIV3BzdkpzZXVoT3hWdHFwN0hkOFNtU0dvZjZvNHYwV3N3MFhUNFJHbFZsM3loSkVPSkU2OU5OaF9KTUMya2h4bUlHZE1nOVUzWEdLYnJ0NC1sN0JVRXBaSDMyNW5NVU50Z1NzanpOTDJSclhrRndCeXpKV1BaRW90d2NTTjFNdnJ3VmtBcEZMY3hZMnhaYWdQaVYzWFlCXzhrMEdsSGlrb3FwUFNxeGtsQUNPZTZna29ZTFB5ZEMzMEV3?oc=5",
+      "summary": "Tye Tribbett Challenges Gospel Music’s Celebrity Culture in Candid Lecrae Interview JubileeCast",
+      "outlet": "JubileeCast",
+      "outlet_url": "https://www.jubileecast.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-03T07:12:00Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/25163/tye-tribbett.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2c6d17bfb6486453",
+      "title": "Is Nicolas Cage Really Homeless? Actor Explains Life After Malibu Sinkhole",
+      "link": "https://www.jubileecast.com/articles/40776/20261103/nicolas-cage-homeless-malibu-sinkhole-hotel-halloween.htm",
+      "summary": "Is Nicolas Cage Really Homeless? Actor Explains Life After Malibu Sinkhole",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T06:53:32Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32486/nicolas-cage.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "c1fa2ff8b20d0c9d",
+      "title": "‘Hunger Games: Sunrise on the Reaping’ Reveals 29-Track Soundtrack Featuring Stevie Nicks, Ella Langley and Noah Kahan",
+      "link": "https://www.jubileecast.com/articles/40775/20261103/hunger-games-sunrise-on-the-reaping-reveals-29-track-soundtrack-featuring-stevie-nicks-ella-langley-and-noah-kahan.htm",
+      "summary": "‘Hunger Games: Sunrise on the Reaping’ Reveals 29-Track Soundtrack Featuring Stevie Nicks, Ella Langley and Noah Kahan",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T06:51:02Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32485/hunger-games-sunrise-on-the-reaping.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b8c4079aa3b15011",
+      "title": "Candace Owens Celebrates Personal Dismissal From Macron Lawsuit, but Her Companies Still Face Claims",
+      "link": "https://www.jubileecast.com/articles/40774/20261103/candace-owens-celebrates-personal-dismissal-from-macron-lawsuit-but-her-companies-still-face-claims.htm",
+      "summary": "Candace Owens Celebrates Personal Dismissal From Macron Lawsuit, but Her Companies Still Face Claims",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T06:45:20Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32484/candace-owens.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "88806f9923252dd9",
+      "title": "Why the Black Church still matters in the fight for justice",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFlRSlRGSTBsejJmSTY1S0JHN09IaUV3bUxfc3hmaVhFTnEwYlZPdlZtVnNxYUYxMnF2dW5uRXdlS3g2VGNyMnlscTVUSm13S25nS3owR1A3aFBCS2FZTDNFZ1M3UmJ6R1g2WlhULTc3MUNTQ0FySmJTcERYWGRqbDR2VERrMXJWUVpVbVRfaVFlWTZHWEtWak5fdGE0cVdkb2c?oc=5",
+      "summary": "Why the Black Church still matters in the fight for justice AFRO News",
+      "outlet": "AFRO News",
+      "outlet_url": "https://www.afro.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-03T05:18:41Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-03T11:10:33Z"
+    },
+    {
+      "id": "be8a6dc18cd2ba82",
+      "title": "Steven Curtis Chapman to Release “10,000 Reasons/Greater Things” Friday as Show Hope Celebrates Helping Over 10,000 Children Through Adoption",
+      "link": "https://www.jubileecast.com/articles/40773/20261103/steven-curtis-chapman-to-release-10-000-reasons-greater-things-friday-as-show-hope-celebrates-helping-over-10-000-children-through-adoption.htm",
+      "summary": "Steven Curtis Chapman to Release “10,000 Reasons/Greater Things” Friday as Show Hope Celebrates Helping Over 10,000 Children Through Adoption",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T05:13:03Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28085/steven-curtis-chapman.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "930bdecc0fa0e8d5",
+      "title": "Former pastor Carl Lentz and his wife share that their 14-year-old daughter tried to Commit Suicide",
+      "link": "https://blackchristiannews.com/former-pastor-carl-lentz-and-his-wife-share-that-their-14-year-old-daughter-tried-to-commit-suicide/?utm_source=rss&utm_medium=rss&utm_campaign=former-pastor-carl-lentz-and-his-wife-share-that-their-14-year-old-daughter-tried-to-commit-suicide",
+      "summary": "Daniel Whyte III, President of Gospel Light Society International, says this is tragic and heartbreaking, and at the same time The post Former pastor Carl Lentz and his wife share that their 14-year-old daughter tried to Commit Suicide appeared first on Black…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T04:14:35Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "17bd76d8be8d234f",
+      "title": "Todd Netland Reveals the Real-Life Music Experiences Behind *Fame and Fortune Tellers",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQjRFcEpWb2lSYzRQUnBvbEZKUG5SbVpOMXlFOXV5MzYwWWkyUlh3ZWlUQVZPZEUzZW1Sbkw4LUdoRk85eDJlM2M0UHdaUUlQREJNMEpZaldHSlBEYUhMcDBFQVJwN1RCLXQ5ODlMQkRLN09MdDNTd0dhbVhHOVRCMTNYOGtsb19MQWhsWDYyR3d1OFJCRExOcnlaWlYyQllWTS1uWVNIMll1dVZYTU5aeGNUeTVnNnNKeWh2bGYxTzd0WGNHZktyd0Y0RVFOR1VseU1rYg?oc=5",
+      "summary": "Todd Netland Reveals the Real-Life Music Experiences Behind *Fame and Fortune Tellers Kitsap Sun",
+      "outlet": "Kitsap Sun",
+      "outlet_url": "https://www.kitsapsun.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-03T03:44:46Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-03T11:10:33Z"
+    },
+    {
+      "id": "20a2cfb286700dae",
+      "title": "New Life Chapel Fires Founder Lonnie Snell Following Sexual Misconduct With Staff Member",
+      "link": "https://www.jubileecast.com/articles/40772/20261102/new-life-chapel-fires-founder-lonnie-snell-following-sexual-misconduct-with-staff-member.htm",
+      "summary": "New Life Chapel Fires Founder Lonnie Snell Following Sexual Misconduct With Staff Member",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-03T03:35:17Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32483/lonnie-snell.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "0a2f14139f0e5f6e",
       "title": "Theologian NT Wright: Belief that Israel is fulfillment of Bible prophecy is a 'totally unbiblical idea'",
@@ -21,6 +547,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "6c48a759f003f236",
+      "title": "GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOakFOaVI2Slp4WVk4ZmRIX2hMa29UbUNuSjlvTkxPM0RjNFItem1HS3M4MjBFdDhmc3JTNmJaYzEyeFpka3hQUlhoWEphR29JUGN1cGZGcXctQTdBenNUMkJDWVlhQnBYQXZPTmdOalN3VWlwaHo1dFlxUjhBejBZc05kQXlKbjBDZWo1eHR6dWxmbEJqLUViOEhJdXRIWHJ2SkIwZWlHa9IBrAFBVV95cUxNdW1BR05NaldiZjNTcDRfeGNqTkxTRi1fZnBwY25Ed25jeng0OWpYUVYyY0dsSUhYNERsN2hwTEpPcEx6aW00U0lvQktNcFlqR3c1VEZRdEJnVzBaWTY0NUZSZDFtNW5tS0xZOUlhZmtDSGhfYTMyM0pWUkpudERoVUtxUy1pYl9jV19zWmx3VFZhSUhpQXFwSGhWSVhkRzIxWXFvMmQyNmNjUFdi?oc=5",
+      "summary": "GOP touts Stevens' endorsement of Republican rival while El-Sayed's campaign reports a record haul ABC News - Breaking News, Latest News and Videos",
+      "outlet": "ABC News - Breaking News, Latest News and Videos",
+      "outlet_url": "https://abcnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-03T01:38:06Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "70713b7849a00728",
@@ -400,6 +943,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-11-03T09:29:02Z",
       "image_tried": "2026-11-02T21:29:02Z"
+    },
+    {
+      "id": "cfb42909d54e0f15",
+      "title": "Winter Jam 2027 will bring Christian music lineup to Springfield - Springfield News-Leader",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3M2Tk9aWGpadnRoSm9aS1ZTRjNlQ1ppdzRhMFkwLW1pQ0RyODdZcUU0TnFQQzdheHBlYUNUcllEeVRncGpsSXIydUxneDRiX1Vjbm5pNUlTZS1sT0ZlXzkwMUtxeVRGOWp0SFBqbW81ZnlZN1hkaUVlUXRSSEI0QUF1LUpPazQ3RU81ZHl3RTZzdXJ2SmxXa3kxd193SDFjWXk4TVpCREJXUWZfbXM1bmNxTDB0d2s?oc=5",
+      "summary": "Winter Jam 2027 will bring Christian music lineup to Springfield Springfield News-Leader",
+      "outlet": "Springfield News-Leader",
+      "outlet_url": "https://www.news-leader.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-02T21:07:00Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "c4ff05ae3563d460",
@@ -1338,6 +1898,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "660b08242a7a6f44",
+      "title": "Druski Scores Major Netflix Deal, Sets Premiere for Megachurch ‘Collect & Praise’",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSmptc0J0dXNPd0d0TUFLM1p6dllMNWI5UjBIMXdPZm9KSlh0eGRVcFdjejNrNS0tcDVvZmZFYzVCM1hxMWdYRGNhWGRsY3FwRnVjOThyYnlrQ1BhMUhvRmxTOTBqRUdtZEstcnc0TElESkVxZTJuNkJWaGxlRy1PMGwzYll2cFZFV1hQUVhwRjVHZ3QxYzR6MEUxWFNwNFpkb28zZUJjSUc5UlBDenpvZG12SEc2LVNLUU1RdEpSd0g0WjhZ0gHKAUFVX3lxTE9yTDFvTnlZRmNWSzBuVGV3V2toTkFJTzU3TTRpTFJLNTlJNGZaQ1Buc3JuUW5kcnVRZDhodDNPdzFJMVJMdFJnU3Jiamw2Z05zR0pwcG5lM3lVZnl3UE81ODVUbnMyWEpPN1RqRmhlellCNm5zbXFNMU1vYzRTQ0hVaVVtNTdYN09KUDVDX2xYeDUycEpOdFpmRHl3UHc0U0ZMZHpqRDgtNjNsNTVYUXNpZVlmRkdkc3FFVi1vaDFYb0pNQmVOdWNLaHc?oc=5",
+      "summary": "Druski Scores Major Netflix Deal, Sets Premiere for Megachurch ‘Collect & Praise’ That Grape Juice.net",
+      "outlet": "That Grape Juice.net",
+      "outlet_url": "https://thatgrapejuice.net",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-02T15:32:31Z",
+      "first_seen": "2026-11-03T11:10:33Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "c8b407cc9f1099f9",
@@ -5404,7 +5981,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-31T09:11:33Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "480af79f7b6adee2",
@@ -5421,7 +5998,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-31T09:11:33Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "f4f939406cba6752",
@@ -6286,7 +6863,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-31T09:11:33Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "04e5f33a68f3e7ff",
@@ -6341,7 +6918,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-31T09:11:33Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "44a07370bafad811",
@@ -7179,7 +7756,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "ab5bb42fde3e7e8c",
@@ -7234,7 +7811,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-30T14:26:29Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "937a50cbac5bd801",
@@ -7365,7 +7942,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-30T19:34:29Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "287586cc0f30dd04",
@@ -7382,7 +7959,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-30T14:26:29Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "04e96d1c1ae41fc0",
@@ -7722,7 +8299,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-30T14:26:29Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "bf36071d0ab2a2f9",
@@ -8037,7 +8614,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-31T09:11:33Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "d948407d0618eb30",
@@ -8219,7 +8796,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-10-30T14:26:29Z"
+      "image_tried": "2026-11-03T11:10:33Z"
     },
     {
       "id": "a13d67e13800e492",
@@ -10445,587 +11022,6 @@
       "image": {
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/the-last-great-question-of-the-trump-presidency.jpg?resize=1200,628",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "00a9f5a6dff9ba80",
-      "title": "If Polygamy’s in the Bible, Why Is Polyamory Wrong?",
-      "link": "https://www.christianitytoday.com/2026/10/polygamy-bible-why-polyamory-wrong/",
-      "summary": "You may have noticed increasing chatter about polyamory: romantic and sexual relationships with more than one person at a time. Research from 2021 found that roughly 1 in 6 Americans say they have a “desire to engage in polyamory,” while 1 in 10 claim to have…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T08:00:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/if-polygamys-in-the-bible-why-is-polyamory-wrong.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fe767a387590d8d2",
-      "title": "There’s No Such Thing as ‘My Money’",
-      "link": "https://www.christianitytoday.com/2026/10/money-bible-tithe-giving-generosity/",
-      "summary": "Giving begins with God because everything comes from God. As James writes, “Every good endowment and every perfect gift is from above, coming down from the Father of lights with whom there is no variation or shadow due to change” (1:17, RSV throughout). Paul…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T08:00:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/theres-no-such-thing-as-my-money.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ada5096ac1095304",
-      "title": "The Best Hymns Are a Chapel and a Classroom",
-      "link": "https://www.christianitytoday.com/2026/10/there-is-a-redeemer-best-songs-hymns-music/",
-      "summary": "Two years ago, while working on an article about the 75th anniversary of “How Great Thou Art,” I interviewed worship artist Matt Redman, who’d cowritten a new verse for the hymn. Why, I wondered, has this song had so much staying power? “The best songs are…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T08:00:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/the-best-hymns-are-a-chapel-and-a-classroom.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "65728820be40757d",
-      "title": "Faith or Financial Pressure? Willow Creek’s $100 Million Campaign Raises Questions About Giving Through Debt",
-      "link": "https://www.jubileecast.com/articles/40643/20261029/faith-or-financial-pressure-willow-creek-s-100-million-campaign-raises-questions-about-giving-through-debt.htm",
-      "summary": "Faith or Financial Pressure? Willow Creek’s $100 Million Campaign Raises Questions About Giving Through Debt",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T07:22:44Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32013/willow-creek-cmmunity-church.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0074986b7112b6b4",
-      "title": "Were Taylor Swift and Travis Kelce’s Wedding Decorations Really Burned to Prevent Souvenir Sales?",
-      "link": "https://www.jubileecast.com/articles/40640/20261029/were-taylor-swift-and-travis-kelce-s-wedding-decorations-really-burned-to-prevent-souvenir-sales.htm",
-      "summary": "Were Taylor Swift and Travis Kelce’s Wedding Decorations Really Burned to Prevent Souvenir Sales?",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T07:14:13Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30849/taylor-swift.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ddc7e8abc5af69f3",
-      "title": "Elevation Worship Visits St. Jude Hospital, Shares Music and Hope With Patients and Families",
-      "link": "https://www.jubileecast.com/articles/40639/20261029/elevation-worship-st-jude-hospital-visit.htm",
-      "summary": "Elevation Worship Visits St. Jude Hospital, Shares Music and Hope With Patients and Families",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T07:09:02Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32404/elevation-worship.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2933fbc63167238d",
-      "title": "Chynna Phillips Urges Billy Baldwin to Seek Jesus as Couple Confronts Faith Differences in Their Marriage",
-      "link": "https://www.jubileecast.com/articles/40638/20261029/chynna-phillips-urges-billy-baldwin-to-seek-jesus-as-couple-confronts-faith-differences-in-their-marriage.htm",
-      "summary": "Chynna Phillips Urges Billy Baldwin to Seek Jesus as Couple Confronts Faith Differences in Their Marriage",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T07:07:31Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32403/chynna-phillips.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4550b8de7d7da03a",
-      "title": "Amy Grant Marks 50 Years Since First Songwriting Deal: “Still Just as Grateful”",
-      "link": "https://www.jubileecast.com/articles/40636/20261029/amy-grant-marks-50-years-since-first-songwriting-deal-still-just-as-grateful.htm",
-      "summary": "Amy Grant Marks 50 Years Since First Songwriting Deal: “Still Just as Grateful”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T06:58:19Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30784/amy-grant.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "05dda2dad73e0326",
-      "title": "Ainsley Earhardt Reveals Name Change After Sean Hannity Wedding: ‘Mrs. Hannity’ Privately, Earhardt on TV",
-      "link": "https://www.jubileecast.com/articles/40635/20261029/ainsley-earhardt-reveals-name-change-after-sean-hannity-wedding-mrs-hannity-privately-earhardt-on-tv.htm",
-      "summary": "Ainsley Earhardt Reveals Name Change After Sean Hannity Wedding: ‘Mrs. Hannity’ Privately, Earhardt on TV",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T06:50:53Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32401/ainsley-earhardt.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e183d5c5133a313b",
-      "title": "Rams Coach Nate Scheelhaase Says Youth Ministry Taught Him to See the Person Behind the Player",
-      "link": "https://www.jubileecast.com/articles/40634/20261029/rams-coach-nate-scheelhaase-says-youth-ministry-taught-him-to-see-the-person-behind-the-player.htm",
-      "summary": "Rams Coach Nate Scheelhaase Says Youth Ministry Taught Him to See the Person Behind the Player",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T06:40:22Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32400/nate-scheelhaase.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0b6f21f8741ad5ad",
-      "title": "Pastor Israel Ford’s Second-Wife Announcement Takes Serious Turn as Stepdaughter Alleges Sexual Abuse",
-      "link": "https://www.jubileecast.com/articles/40633/20261029/pastor-israel-ford-s-second-wife-announcement-takes-serious-turn-as-stepdaughter-alleges-sexual-abuse.htm",
-      "summary": "Pastor Israel Ford’s Second-Wife Announcement Takes Serious Turn as Stepdaughter Alleges Sexual Abuse",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T06:36:13Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32375/israel-ford.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d753dc9ac0605243",
-      "title": "When Is “Jumanji: Open World” Coming Out? Trailer Confirms Christmas Day Release",
-      "link": "https://www.jubileecast.com/articles/40632/20261029/when-is-jumanji-open-world-coming-out-trailer-confirms-christmas-day-release.htm",
-      "summary": "When Is “Jumanji: Open World” Coming Out? Trailer Confirms Christmas Day Release",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T06:34:44Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32399/jumanji.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "181e247d2159af7e",
-      "title": "Matthew Perry’s Sister Reveals How the “Friends” Cast Said Goodbye at His Funeral",
-      "link": "https://www.jubileecast.com/articles/40631/20261029/matthew-perry-sister-reveals-how-friends-cast-said-goodbye-at-his-funeral.htm",
-      "summary": "Matthew Perry’s Sister Reveals How the “Friends” Cast Said Goodbye at His Funeral",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T04:49:09Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32398/matthew-perry-and-mia-perry-bowick.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8f7ec7eb286e5fa8",
-      "title": "Stephen Kovacevich, Acclaimed Pianist Known for Beethoven and Brahms, Dies at 86",
-      "link": "https://www.jubileecast.com/articles/40630/20261029/stephen-kovacevich-acclaimed-pianist-beethoven-brahms-dies-at-86.htm",
-      "summary": "Stephen Kovacevich, Acclaimed Pianist Known for Beethoven and Brahms, Dies at 86",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T04:41:13Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32397/stephen-kovacevich.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6f5c3a9df6badc60",
-      "title": "Why do I still feel guilty after being forgiven?",
-      "link": "https://www.christianpost.com/voices/why-do-i-still-feel-guilty-after-being-forgiven.html",
-      "summary": "You asked for forgiveness, and you received it. So why do you keep serving a sentence for something you’ve already been pardoned for?",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T04:13:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272504_w_550_365.jpg?v=20261029001443",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4872095a5c962e2f",
-      "title": "Dear Christians, voting your morals isn’t imposing your religion",
-      "link": "https://www.christianpost.com/voices/christians-voting-your-morals-isnt-imposing-your-religion.html",
-      "summary": "“You can’t legislate morality.” Most of us have heard it. But the phrase is missing a clause: laws themselves rest on moral commitments, which makes every vote a moral choice, for Christians and everyone else.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T04:08:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272497_w_550_383.jpg?v=20261029001321",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "904af7bf0ead572c",
-      "title": "Barbara Barrie, Oscar-Nominated Star of ‘Breaking Away,’ Dies at 95",
-      "link": "https://www.jubileecast.com/articles/40629/20261029/barbara-barrie-oscar-nominated-breaking-away-dies-at-95.htm",
-      "summary": "Barbara Barrie, Oscar-Nominated Star of ‘Breaking Away,’ Dies at 95",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T04:07:08Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32396/barbara-barrie.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "723041c809229957",
-      "title": "Why is faith growing in Ukraine, even as Russia destroys its churches?",
-      "link": "https://www.christianpost.com/voices/russia-is-attacking-ukraines-churches-why-is-faith-growing.html",
-      "summary": "Russian bombs keep falling on Ukrainian churches. Yet every Sunday, thousands of worshipers still gather in bomb shelters, in ruined sanctuaries, wherever they can. Faith hasn’t won the war, but it’s helping Ukrainians keep fighting it.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T04:07:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272491_w_550_367_566_409.jpg?v=20261029001229",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a955e3ad2a04cecc",
-      "title": "Cuban pastor’s son detained by ICE after entering US legally, taking sanctuary",
-      "link": "https://www.christianpost.com/news/cuban-pastors-son-detained-by-ice.html",
-      "summary": "The 19-year-old son of a Cuban Baptist pastor has been held by U.S. Immigration and Customs Enforcement since June, and advocates fear he could be jailed if deported to Cuba.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-29T04:05:09Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/24/272490_w_550_367.jpg?v=20261029003857",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ccf889db345ce3b5",
-      "title": "Philly HBCU Week: Choirs compete, inspire at West Philly gospel showcase",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT0F6VndjaGJBaGxDVzVPSk8zWUNBRkZIRzVmMXJwMjRpUXVNTndNS2tRVU9LMjA1WW54bTdTVUhVY0Y0ZjZnb0QzTEVLWW9KQWdpU0dVei10MlJPUXVwU0FUeDFWLXhHNlN6R3VQY0RSSmxhNnFEMXNZOTJ4MDMyYXFLVGZUV21oTkpva1FvUEQ?oc=5",
-      "summary": "Philly HBCU Week: Choirs compete, inspire at West Philly gospel showcase Yahoo",
-      "outlet": "Yahoo",
-      "outlet_url": "https://www.yahoo.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-10-29T02:22:00Z",
-      "first_seen": "2026-10-29T09:13:13Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-01T15:41:28Z"
-    },
-    {
-      "id": "b6eac469af5cc9f6",
-      "title": "Keisha Lance Bottoms takes aim at Rick Jackson's ties to Trump during Atlanta rally - The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVJlOHJMSWZZczdRQ29mRDEwUDh4c3BFNV9TTjBKR0lvS0pIY3BtcUJtaU0zc293cXJUV1Z6b0pqdWxGRTdmUTI5a1ZJS1dmUVplai1EUFRvOElZYThZYjQ4czFaYXZnTE1LWXl0WDBhYlI2MDVieVFLeVJkWUtOOFJISy0tZFlDUUNjamRkSHpnR1VsUDViY3RRTDVieHRCLVJnLUNtWTc4QVhoVFRWazZPQUVhakQ3X0tNajJ5MA?oc=5",
-      "summary": "Keisha Lance Bottoms takes aim at Rick Jackson's ties to Trump during Atlanta rally The Atlanta Journal-Constitution",
-      "outlet": "The Atlanta Journal-Constitution",
-      "outlet_url": "https://www.ajc.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-29T02:00:56Z",
-      "first_seen": "2026-10-29T02:36:05Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-29T14:36:05Z",
-      "image_tried": "2026-11-01T08:35:14Z"
-    },
-    {
-      "id": "0b71e73cb3261171",
-      "title": "The Gateway to Maintaining Your Peace. Why I Thank God for the 12 P’s of Prayer #137 — G.L.H.O.P.I. Wednesday Night Prayer Service with Daniel Whyte III",
-      "link": "https://blackchristiannews.com/the-gateway-to-maintaining-your-peace-why-i-thank-god-for-the-12-ps-of-prayer-137-g-l-h-o-p-i-wednesday-night-prayer-service-with-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=the-gateway-to-maintaining-your-peace-why-i-thank-god-for-the-12-ps-of-prayer-137-g-l-h-o-p-i-wednesday-night-prayer-service-with-daniel-whyte-iii",
-      "summary": "Daniel Whyte III preached this message on Wednesday, October 28, 2026, during the Gospel Light House of Prayer International Wednesday The post The Gateway to Maintaining Your Peace. Why I Thank God for the 12 P’s of Prayer #137 — G.L.H.O.P.I. Wednesday Night…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-29T00:15:43Z",
-      "first_seen": "2026-10-29T02:36:05Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9bde90fc17d3887d",
-      "title": "Forrest Frank Sets Release Date for New Album ‘The Jesus Generation’",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWEIwN0NFeEZtN2twNmlmaE12RFFQcWk4T2FQSkxsVEEwbmtSX0Z6TmVoT0RFWjlYZTJXTjdPRFZxVFBMU1I1RFdRd3U4Vk9jZWx1bHF2UXpLOEVqa1V6cU1LZ3YxQ1NSSzkxbHJrOXZhQ3JrMGtCMEJiQVdGNnZuLWcxNHRXaUZIc1VpblUtZHJFbVFkTFZrczdoSHZ6RWhPSGpfYmJFeDctTmJf?oc=5",
-      "summary": "Forrest Frank Sets Release Date for New Album ‘The Jesus Generation’ Billboard",
-      "outlet": "Billboard",
-      "outlet_url": "https://www.billboard.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-10-28T23:39:48Z",
-      "first_seen": "2026-10-29T02:36:05Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-01T08:35:14Z"
-    },
-    {
-      "id": "76ff7cb1509a91de",
-      "title": "Three takeaways from a tight Israeli election with no clear outcome",
-      "link": "https://religionnews.com/2026/10/28/three-takeaways-from-tight-israeli-election/",
-      "summary": "(RNS) — Initial results show that neither Prime Minister Benjamin Netanyahu and his Likud Party, nor his main challenger, Gadi Eisenkot, a former military chief of staff, and his Yashar Party, have a clear path to forming a government.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-28T22:11:20Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-Israel-Elections1.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a4b92d7594ad4e15",
-      "title": "Megachurch pastor slams anti-trans Republicans with one stunning statement",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZzQ0NTJ5bi11emdvdVZSV0NlT0JQWjNZWlB2dG9mcGpUUElBaENBZnZJZnhUSTZqdVRKdWF6bUdhZzZUOXdNNXpBRGdnVkdScUtiSGNsc2x4V1ZDdFlkaWw4Y1lGTkZKRER6bThEWXZ5UmtRTVRmbzkwMnJKVnpiSmozaEhhRWdXSk56YmdzVFZGaVo1b0VHR2szMm1nZ0o3WE81ZXIxTVE?oc=5",
-      "summary": "Megachurch pastor slams anti-trans Republicans with one stunning statement Queerty",
-      "outlet": "Queerty",
-      "outlet_url": "https://www.queerty.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-10-28T22:00:00Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-10-29T11:22:41Z",
-      "image_tried": "2026-11-01T01:46:05Z"
-    },
-    {
-      "id": "dab8fa4a9be17852",
-      "title": "BeBe and Debbie Winans Join Lady A, Trisha Yearwood for “CMA Country Christmas” 2026",
-      "link": "https://www.jubileecast.com/articles/40628/20261028/bebe-and-debbie-winans-join-lady-a-trisha-yearwood-for-cma-country-christmas-2026.htm",
-      "summary": "BeBe and Debbie Winans Join Lady A, Trisha Yearwood for “CMA Country Christmas” 2026",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-28T21:43:47Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27341/bebe-and-cece-winans.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6d67d9ec7c7c5005",
-      "title": "Lady A’s “Bigger Picture” Confronts Faith and Fear After Charles Kelley’s Cancer Diagnosis",
-      "link": "https://www.jubileecast.com/articles/40627/20261028/lady-a-s-bigger-picture-confronts-faith-and-fear-after-charles-kelley-s-cancer-diagnosis.htm",
-      "summary": "Lady A’s “Bigger Picture” Confronts Faith and Fear After Charles Kelley’s Cancer Diagnosis",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-28T21:41:01Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/11870/lady-antebellum.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "21c3a5ea3efb430f",
-      "title": "The New Evangelical Morning Devotional Order: 1. Sex 2. Shower 3. Supplication 4. Scripture 5. Success, with Daniel Whyte III",
-      "link": "https://blackchristiannews.com/the-new-evangelical-morning-devotional-order-1-sex-2-shower-3-supplication-4-scripture-5-success-with-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=the-new-evangelical-morning-devotional-order-1-sex-2-shower-3-supplication-4-scripture-5-success-with-daniel-whyte-iii",
-      "summary": "Pastor Daniel Whyte III preached this message during the Gospel Light Society Whyte House early morning devotional on Wednesday, October The post The New Evangelical Morning Devotional Order: 1. Sex 2. Shower 3. Supplication 4. Scripture 5. Success, with…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-28T21:30:49Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "17d880f49085372b",
-      "title": "Yes, You Need to Watch Kirk Franklin Dance Through Jennifer Hudson’s Spirit Tunnel",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHhzdzlPUmh3dGpRWjZGVWxtVVVFLVlHYVlXZHNzMmd5aHZSamh6a0hjN25QejdOc2NTUVJmYnhnUUprNTJPc0Jsb3pSSXBXUEp6Z1FheC0zeXNzbkFVQmlIWWlXNEdZUVVJd2hSelJSQjlQa1pzVExDVUhydnRxQWdTU2NQZFdoajhhb1Fnamgxb1Z2MzNMSnM0N3RjakVBT2pSRjMtT3F5dEFSVkhOM0hLVExOVm8zOXdOclFuOGFsRlR4bzVpbg?oc=5",
-      "summary": "Yes, You Need to Watch Kirk Franklin Dance Through Jennifer Hudson’s Spirit Tunnel RELEVANT Magazine",
-      "outlet": "RELEVANT Magazine",
-      "outlet_url": "https://relevantmagazine.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-10-28T21:27:18Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/10/kirkdance.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7b082a7e1a3f793c",
-      "title": "Biblical archaeology challenges skeptics to reconsider Bible's credibility, Dinesh D’Souza says",
-      "link": "https://www.christianpost.com/news/archaeology-challenges-skeptics-to-reconsider-bible-dsouza.html",
-      "summary": "Author and filmmaker Dinesh D’Souza argues that archaeological discoveries can help people better understand the Bible’s historical narrative, pointing to artifacts associated with figures mentioned in Scripture as evidence supporting the accounts.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-10-28T20:57:13Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272503_w_550_367_426_150.jpg?v=20261028165846",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "719439a17f7ccd3a",
-      "title": "Alan Jackson’s “The Last Show” Premieres December 8 on NBC, Spotlighting a Legacy of Faith, Family and Country Storytelling",
-      "link": "https://www.jubileecast.com/articles/40626/20261028/alan-jackson-s-the-last-show-premieres-december-8-on-nbc-spotlighting-a-legacy-of-faith-family-and-country-storytelling.htm",
-      "summary": "Alan Jackson’s “The Last Show” Premieres December 8 on NBC, Spotlighting a Legacy of Faith, Family and Country Storytelling",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-10-28T20:51:37Z",
-      "first_seen": "2026-10-28T23:22:41Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30731/alan-jackson.jpg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
