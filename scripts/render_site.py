@@ -1879,13 +1879,20 @@ def render_feed(arts: list[dict]) -> None:
             "<link>%s/story/%s.html</link>"
             "<guid isPermaLink=\"true\">%s/story/%s.html</guid>"
             "<pubDate>%s</pubDate>"
-            "<description>%s</description></item>"
+            "<dc:creator>%s</dc:creator>"
+            "<description>%s</description>"
+            "<content:encoded><![CDATA[%s]]></content:encoded></item>"
             % (g.esc(a["title"]), SITE, g.esc(a["slug"]), SITE, g.esc(a["slug"]),
                pub.strftime("%a, %d %b %Y %H:%M:%S +0000"),
-               g.esc(a.get("standfirst", ""))))
+               g.esc(a.get("byline") or "Gospel News Access"),
+               g.esc(a.get("standfirst", "")),
+               # Full text: SmartNews, NewsBreak and Flipboard require it.
+               "".join("<p>%s</p>" % g.esc(p) for p in a.get("body", []))
+               .replace("]]>", "]]&gt;")))
     g.write_text("feed.xml",
                  '<?xml version="1.0" encoding="UTF-8"?>\n'
-                 '<rss version="2.0"><channel>\n'
+                 '<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+                 'xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>\n'
                  '    <title>Gospel News Access</title>\n'
                  '    <link>%s/</link>\n'
                  '    <description>Original gospel, Christian and faith reporting '
