@@ -1881,18 +1881,22 @@ def render_feed(arts: list[dict]) -> None:
             "<pubDate>%s</pubDate>"
             "<dc:creator>%s</dc:creator>"
             "<description>%s</description>"
-            "<content:encoded><![CDATA[%s]]></content:encoded></item>"
+            "<content:encoded><![CDATA[%s]]></content:encoded>%s</item>"
             % (g.esc(a["title"]), SITE, g.esc(a["slug"]), SITE, g.esc(a["slug"]),
                pub.strftime("%a, %d %b %Y %H:%M:%S +0000"),
                g.esc(a.get("byline") or "Gospel News Access"),
                g.esc(a.get("standfirst", "")),
                # Full text: SmartNews, NewsBreak and Flipboard require it.
                "".join("<p>%s</p>" % g.esc(p) for p in a.get("body", []))
-               .replace("]]>", "]]&gt;")))
+               .replace("]]>", "]]&gt;"),
+               # The story photo, so the social poster can put it on Instagram.
+               ('<media:content url="%s/%s" medium="image"/>'
+                % (SITE, g.esc(a["image"].lstrip("/"))) if a.get("image") else "")))
     g.write_text("feed.xml",
                  '<?xml version="1.0" encoding="UTF-8"?>\n'
                  '<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" '
-                 'xmlns:dc="http://purl.org/dc/elements/1.1/"><channel>\n'
+                 'xmlns:dc="http://purl.org/dc/elements/1.1/" '
+                 'xmlns:media="http://search.yahoo.com/mrss/"><channel>\n'
                  '    <title>Gospel News Access</title>\n'
                  '    <link>%s/</link>\n'
                  '    <description>Original gospel, Christian and faith reporting '
