@@ -176,6 +176,7 @@ def footer(depth: int = 0) -> str:
           <li><a href="{r('corrections.html')}">Corrections Policy</a></li>
           <li><a href="{r('privacy.html')}">Privacy</a></li>
           <li><a href="https://www.instagram.com/gospelnewsaccess/" target="_blank" rel="noopener me">Instagram</a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=100069397881039" target="_blank" rel="noopener me">Facebook</a></li>
         </ul>
       </div>
     </div>
