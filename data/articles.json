@@ -1,8 +1,363 @@
 {
-  "generated_at": "2026-11-06T21:54:18Z",
+  "generated_at": "2026-11-07T01:30:31Z",
   "story_count": 600,
-  "with_photo": 426,
+  "with_photo": 428,
   "items": [
+    {
+      "id": "b3c798a91dc5c394",
+      "title": "Treasure of Latin American Church: Saints, blesseds recalled by Pope in Uruguay",
+      "link": "https://www.vaticannews.va/en/church/news/2026-11/saints-blesseds-recalled-pope-leo-xiv-uruguay.html",
+      "summary": "During his Apostolic Journey to Uruguay, Pope Leo XIV recalls the Saints and Blesseds who helped shape the country’s spiritual heritage, as their holiness was lived in tireless service to those most in need Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-07T00:00:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/06/2026-11-06-viaggio-apostolico-in-uruguay---cerimonia-di-benvenut/1793999396551.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "061e14bc274379da",
+      "title": "Priest refuses to remove his clerical attire after being told he must to renew passport in Mexico",
+      "link": "https://www.ewtnnews.com/world/americas/priest-refuses-to-remove-his-clerical-attire-after-being-told-he-must-to-renew-passport-in",
+      "summary": "Father Alberto Medel reported that he was told to remove his clerical attire in order to renew his passport in Mexico despite the existence of judicial rulings that protect religious clothing.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T23:57:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793999489/ewtn-news/en/Alberto-Medel-Cortesia-061126_ddxaqc_iclvyj.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3467e09319b67543",
+      "title": "SEU Worship Releases Bilingual Version of \"Wild Rushing Wind (Viento Recio)\"",
+      "link": "https://www.jubileecast.com/articles/40894/20261106/seu-worship-wild-rushing-wind-viento-recio.htm",
+      "summary": "SEU Worship Releases Bilingual Version of \"Wild Rushing Wind (Viento Recio)\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:51:22Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32543/seu-worship.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e807bc1ec75a5689",
+      "title": "The Band JAREN Signs With Provident Entertainment, Releases Christmas EP \"O Holy Night\"",
+      "link": "https://www.jubileecast.com/articles/40893/20261106/the-band-jaren-provident-entertainment-o-holy-night.htm",
+      "summary": "The Band JAREN Signs With Provident Entertainment, Releases Christmas EP \"O Holy Night\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:48:32Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32542/the-band-jaren.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "00506d80430ab1fa",
+      "title": "LO Worship Releases New Live Album ‘The Drought Is Over’ Featuring Anna Golden and Jenn Johnson",
+      "link": "https://www.jubileecast.com/articles/40892/20261106/lo-worship-the-drought-is-over-live-album.htm",
+      "summary": "LO Worship Releases New Live Album \"The Drought Is Over\" Featuring Anna Golden and Jenn Johnson",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:45:27Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32540/lo-worship.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7c163aa449ad4e5d",
+      "title": "Pope in Uruguay: 'We are called to return again and again to the Lord'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-vespers-montevideo-uruguay-clergy-religious.html",
+      "summary": "At Vespers in Montevideo, Pope Leo XIV invites Uruguay's Bishops, clergy, and religious to return constantly to Jesus Christ, launching an appeal for the universal Church to pray and fast for vocations. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T23:43:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/06/2026-11-06-viaggio-apostolico-in-uruguay---trasferimento-alla-ca/1794008102465.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "489163c3721c3503",
+      "title": "Ellie Holcomb Announces New Album \"Flowers For No Reason,\" Releases New Single \"Waterfalling\"",
+      "link": "https://www.jubileecast.com/articles/40891/20261106/ellie-holcomb-flowers-for-no-reason-waterfalling.htm",
+      "summary": "Ellie Holcomb Announces New Album \"Flowers For No Reason,\" Releases New Single \"Waterfalling\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:42:04Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32539/ellie-holcomb.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "00fd3a9b24e0b907",
+      "title": "Cochren & Co. Earns Second RIAA Gold Certification With Hit Single \"One Day\"",
+      "link": "https://www.jubileecast.com/articles/40890/20261106/cochren-and-co-one-day-riaa-gold-certification.htm",
+      "summary": "Cochren & Co. Earns Second RIAA Gold Certification With Hit Single \"One Day\"",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:39:53Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32538/cochren-and-co.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "97747481eb590c06",
+      "title": "Pastor Posed as Girl to Exploit Child, Pleads Guilty and Faces Up to 80 Years in Prison",
+      "link": "https://www.jubileecast.com/articles/40888/20261106/pastor-posed-as-girl-to-exploit-child-pleads-guilty-and-faces-up-to-80-years-in-prison.htm",
+      "summary": "Pastor Posed as Girl to Exploit Child, Pleads Guilty and Faces Up to 80 Years in Prison",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:33:14Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32536/bryan-jackson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cbec0d632b0ffd27",
+      "title": "TreVeyon Henderson Asks for Prayers After Hospitalisation: ‘May God’s Will Be Done'",
+      "link": "https://www.jubileecast.com/articles/40887/20261106/treveyon-henderson-asks-for-prayers-after-hospitalisation-may-god-s-will-be-done.htm",
+      "summary": "TreVeyon Henderson Asks for Prayers After Hospitalisation: ‘May God’s Will Be Done'",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:25:01Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29275/treveyon-henderson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ba2d2a9cf8e755b0",
+      "title": "Liam Neeson Reacts to Meryl Streep Voicing Aslan: ‘Nobody Better Than Meryl’",
+      "link": "https://www.jubileecast.com/articles/40886/20261106/liam-neeson-reacts-to-meryl-streep-voicing-aslan-nobody-better-than-meryl.htm",
+      "summary": "Liam Neeson Reacts to Meryl Streep Voicing Aslan: ‘Nobody Better Than Meryl’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-06T23:22:42Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32535/liam-neeson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "b8fa3e7fb1936aac",
+      "title": "Nationwide tax-funded abortion is top priority for Democrats in next session",
+      "link": "https://www.ewtnnews.com/world/us/nationwide-tax-funded-abortion-is-top-priority-for-democrats-in-next-session",
+      "summary": "Democrats are considering two abortion-related bills for the first 100 hours of the 2027 legislative session: one to legalize abortion nationwide and one to allow federal tax funds for abortion.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T23:17:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1784315825/ewtn-news/en/Screenshot_2026-07-17_at_1.15.26_PM_ehxrck.png",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2ab66a504d3a963e",
+      "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
+      "link": "https://religionnews.com/2026/11/06/leader-of-kenyan-doomsday-cult-sentenced-to-200-years-in-prison/",
+      "summary": "MOMBASA, Kenya (AP) — He was convicted of murdering 190 children and one adult after he ordered his followers to starve themselves to death in order to meet Jesus.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T22:56:53Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-07T01:30:31Z"
+    },
+    {
+      "id": "9922abc46278ad25",
+      "title": "Pope ‘proud to be an American’ after US elections, and credits God and doctors with cancer rebound",
+      "link": "https://religionnews.com/2026/11/06/pope-proud-to-be-an-american-after-us-elections-and-credits-god-and-doctors-with-cancer-rebound/",
+      "summary": "ABOARD THE PAPAL PLANE (AP) — U.S. federal law allows American citizens, even those who work for foreign governments, to retain their citizenship.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T22:51:58Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-07T01:30:31Z"
+    },
+    {
+      "id": "98c753c3916ce783",
+      "title": "Cochren & Co. Celebrates Second RIAA Gold Certification With “One Day”",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rYzBiRE1aZVJOOUZDSHZZY3N6ZFlpa2FLczBmRy1FTXFOUkRVZnA3R25CTWo3NHFPcC00TXVxOVBFQlpJR1N0eEZGZGlrSEtXWXYtbmg4R3NvZk1Bb0VfbzVTSnZEaWhFRVE?oc=5",
+      "summary": "Cochren & Co. Celebrates Second RIAA Gold Certification With “One Day” Gospel Music Association",
+      "outlet": "Gospel Music Association",
+      "outlet_url": "https://gospelmusic.org",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-06T22:41:15Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-07T01:30:31Z"
+    },
+    {
+      "id": "4d0f9b5f3740e629",
+      "title": "New film ‘Jimmy’ explores the untold story of Jimmy Stewart’s WWII service and enduring faith",
+      "link": "https://www.ewtnnews.com/world/us/new-film-jimmy-explores-the-untold-story-of-jimmy-stewart-s-wwii-service-and-enduring-faith",
+      "summary": "The movie explores the lesser-known story of Jimmy Stewart’s military service and the faith, humility, and kindness that shaped his life.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T22:37:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793993518/ewtn-news/en/Jimmymovie_kex2yx.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bada46c518dde5ba",
+      "title": "Church dismantles homeless encampment after city threatens fines",
+      "link": "https://www.christianpost.com/news/church-dismantles-homeless-encampment-after-city-threatens-fines.html",
+      "summary": "A Massachusetts church that opened its property to homeless people is dismantling its tent community after the city of Lawrence ordered the church to shut it down or face $1,200 in daily fines, with officials citing concerns about public health and safety.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T22:26:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272614_w_550_355_417_287.jpg?v=20261106172744",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7e0b8ea78377c360",
+      "title": "Russell Brand, convicted of rape, told us who he was. Why didn’t Christian leaders listen?",
+      "link": "https://religionnews.com/2026/11/06/russell-brand-convicted-of-rape-told-us-who-he-was-why-didnt-christian-leaders-listen/",
+      "summary": "(RNS) — After Brand's conversion to Christianity, Bishop Robert Barron, Carl Lentz, Tullian Tchividjian and Gabe Lyons all appeared in interviews with him — even though the accusations against Brand were already public.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T22:24:41Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Russell-Brand2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "65908593979b0ea1",
+      "title": "Pope Leo XIV calls for universal access to health care in Uruguay",
+      "link": "https://religionnews.com/2026/11/06/pope-leo-xiv-calls-for-universal-access-to-health-care-in-uruguay/",
+      "summary": "VATICAN CITY (RNS) – Opening his Latin America trip in Montevideo, Leo drew on his recent illness and a monument dedicated to Uruguay’s national hero to urge leaders to care for those who need it most.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T22:17:59Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Uruguay-Pope2.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "da339cfdc616de16",
       "title": "Kirk Franklin Teams With Tyler Perry for Netflix’s ‘The Gospel of Christmas’ Following New Album Release",
@@ -17,6 +372,25 @@
       "first_seen": "2026-11-06T21:54:18Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28327/kirk-franklin.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2901b879a477cb95",
+      "title": "Pope Leo in Uruguay: Protect life at all stages, provide universal healthcare",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-in-uruguay-protect-life-at-all-stages-provide-universal-healthcare",
+      "summary": "The pontiff’s speech referred to his own recent cancer surgery.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T21:47:51Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794000713/ewtn-news/en/WhatsApp_Image_2026-11-06_at_16.28.56_tlnsyz.jpg",
         "via": "media:content"
       },
       "breaking": false,
@@ -862,6 +1236,25 @@
       "breaking_expires_at": null
     },
     {
+      "id": "42b1aeaac2ee746e",
+      "title": "Flags and painted faces welcome Pope Leo to Montevideo",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/flags-and-painted-faces-welcome-pope-leo-to-montevideo.html",
+      "summary": "Pope Leo concludes his first day in Uruguay with vespers in Montevideo's Metropolitan Cathedral. Before that he addresses the country's civil authorities following a welcome ceremony at Montevideo's Carrasco airport. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-06T16:28:00Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/06/2026-11-06-viaggio-apostolico-in-uruguay---trasferimento-alla-ca/1794007196941.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "4e2aa5bdbf22b4bd",
       "title": "THE CHOIR ROOM RELEASES “BETTER THAN THIS (FEATURING DORINDA CLARK-COLE)”",
       "link": "https://pathmegazine.com/articles/the-choir-room-releases-better-than-this-featuring-dorinda-clark-cole/",
@@ -873,7 +1266,10 @@
       "category": "gospel-trade",
       "published": "2026-11-06T16:25:23Z",
       "first_seen": "2026-11-06T16:36:36Z",
-      "image": null,
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32537/choir-room.jpeg",
+        "via": "media:content"
+      },
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-06T16:36:36Z"
@@ -1112,6 +1508,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "74d8aa71c82c301b",
+      "title": "Gospel legend John P. Kee joins Greenville anniversary",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjRrdU1kTVFaZ0Q4QjZJdEw3VEdyZVlJRC1mei1yblZJUERZODFBcUFDVWhnOVh1SmFRekV4ZFd0RlR1dTktNzE1dUVxV3ZSUVNZYkNtclVvSE1XU3ZkcTZkX2FjUmlJaFg1clhjYU9Dakd6eWkyVE0zY29hcUhCRF9VbmxMX0nSAYwBQVVfeXFMT3pEdXQzQTJYN2FyUVFZbTc5UFpDSU9JY2xnczZPRU9fMFliQ2lYX2luUDVrZTZqcDBBY09qdTNheTJoT3FYSGJEVjdJd3pUeXg3SXpIRjc3b2xYa2ZaSWMwaTdjRkl2eHFLYWxYMEtJVU5oVW40ZVZJcUlJT3Z0X1BGcGJwdHdUcmZtbks?oc=5",
+      "summary": "Gospel legend John P. Kee joins Greenville anniversary WNCT",
+      "outlet": "WNCT",
+      "outlet_url": "https://www.wnct.com",
+      "source_feed": "Google News: gospel artist",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-06T14:09:51Z",
+      "first_seen": "2026-11-07T01:30:31Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-07T01:30:31Z"
     },
     {
       "id": "ecc5dd3eeed4b5a5",
@@ -10648,414 +11061,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-06T01:57:02Z"
-    },
-    {
-      "id": "1e7c8741a2906cea",
-      "title": "Nathaniel Bassey Becomes First African Gospel Artiste To Surpass One Billion YouTube Views",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQnMtNkdWYktZOWpHdmgxQUJYX3hqMjhVSnZKdGFmNXdpaHFOTk5FOVV2bjFzSVdvUXl4bkl6Qm9nTGczbk9aY2J1QjZGV1JzeTJITmVqc3hVYWw5a0RqSTdnTHlkWjEyZG51bHEyWjAwbXh5YVdBUUR5VzFxNU5jeFF1MldXcC15RTVjazMtNHBpaG9EaFFIOXZrenpRMEJOYTBZUUdoVFQxSGFqVEdN0gG2AUFVX3lxTE9WUndiZF9xLVJLYi1CUmR5MDRJclV3a2VtdGNxVFV1bmE3c2U5a18ydVRDVlI5ckpDQXdVOWNuN003cllCMFkyMnlpNHpmUTRIZGZQcmNuMGxHTHRTbFNZU1JKZ2JFTXFtblF5VWNlZDhGYUdCdXJVMS02RTlTTkNjT2lVMEJnT29SUFZOclMzVUVHYVpnaUlWNEZRZ0lKclktMkotREpYeGw0dUxQLTgyR2IyUGR3?oc=5",
-      "summary": "Nathaniel Bassey Becomes First African Gospel Artiste To Surpass One Billion YouTube Views Nigerian Voice",
-      "outlet": "Nigerian Voice",
-      "outlet_url": "https://www.thenigerianvoice.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-02T12:53:00Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T01:57:02Z"
-    },
-    {
-      "id": "3a66b09ee36342a4",
-      "title": "Theology of the body meets psychology: Catholics seek healing through JPII’s personalism",
-      "link": "https://www.ewtnnews.com/world/us/theology-of-the-body-meets-psychology-catholics-seek-healing-through-jpii-s-personalism",
-      "summary": "Catholics gathered to explore how St. John Paul II’s understanding of the person can integrate with psychological science to address anxiety and the search for lasting love and healing.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T12:00:00Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793389822/ewtn-news/en/ChrisWestStage_cenltt.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "159fc72037d9f398",
-      "title": "A faith that unites: A youth festival in the Holy Land",
-      "link": "https://www.vaticannews.va/en/church/news/2026-11/faith-that-unites-the-holy-lands-hosts-a-youth-festival-catholic.html",
-      "summary": "More than 300 young Catholics, both Hebrew- and Arabic-speaking, gathered over the weekend to celebrate hope and unity at an event organized by the St James Vicariate – a community of Hebrew-speaking Catholics belonging to the Latin Patriarchate of Jerusalem…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T11:50:00Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/31/44.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "33f8737da2195647",
-      "title": "Ancient Jewish Historian Josephus Recorded the Disciples’ Report That Jesus Appeared Alive on the Third Day, New Study of the Old Copies Suggests",
-      "link": "https://blackchristiannews.com/ancient-jewish-historian-josephus-recorded-the-disciples-report-that-jesus-appeared-alive-on-the-third-day-new-study-of-the-old-copies-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=ancient-jewish-historian-josephus-recorded-the-disciples-report-that-jesus-appeared-alive-on-the-third-day-new-study-of-the-old-copies-suggests",
-      "summary": "Daniel Whyte III, President of Gospel Light Society International, says these archeological findings and secular, extra-biblical documents that backup the The post Ancient Jewish Historian Josephus Recorded the Disciples’ Report That Jesus Appeared Alive on…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-02T11:25:02Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "62fd06ba1c25f000",
-      "title": "Chris Tomlin’s “Good News of Great Joy” Christmas Album Arrives Friday: Track List, Children’s Book and Tour",
-      "link": "https://www.jubileecast.com/articles/40762/20261102/chris-tomlin-good-news-of-great-joy-christmas-album-track-list-book-tour.htm",
-      "summary": "Chris Tomlin’s “Good News of Great Joy” Christmas Album Arrives Friday: Track List, Children’s Book and Tour",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-02T11:09:22Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32121/chris-tomlin.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "73b6e01eb6928791",
-      "title": "Kirk Franklin’s \"I Am What I Am\" Is Out: Track List, Guests and Why He Says He Is Done Explaining Himself",
-      "link": "https://www.jubileecast.com/articles/40761/20261102/kirk-franklin-i-am-what-i-am-out-track-list-guests-done-explaining-himself.htm",
-      "summary": "Kirk Franklin’s \"I Am What I Am\" Is Out: Track List, Guests and Why He Says He Is Done Explaining Himself",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-02T11:00:28Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27161/kirk-franklin.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "16f63db901a35b1f",
-      "title": "The Book of Common Prayer is Having a Moment",
-      "link": "https://www.christianitytoday.com/2026/11/book-of-common-prayer-evangelicals-liturgy/",
-      "summary": "Musician Andrew Osenga and his family were volunteering at a Christian camp when a pipe burst and flooded their house—really, truly flooded, with the floors collapsing and water dribbling underneath the front door. “We had to move out for six months,” he…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T11:00:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/book-common-prayer-having-moment.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6e61011960c1f231",
-      "title": "A Manifesto for Phone-Free Church",
-      "link": "https://www.christianitytoday.com/2026/11/manifesto-phone-free-church/",
-      "summary": "What happens when you pull your phone out during a church service? We may not want to admit it, but I suspect that most of us know the truth: Our thoughts get interrupted, and our attention is divided. We become more attentive to our devices than to the Lord…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T11:00:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/manifesto-for-screen-free-church.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "322ae027e9103c25",
-      "title": "EWTN News explains: What’s the difference between canon law and sharia law?",
-      "link": "https://www.ewtnnews.com/world/us/ewtn-news-explains-what-s-the-difference-between-catholic-canon-law-and-islamic-sharia-law",
-      "summary": "In a recent political campaign, canon law was equated with sharia law — but are the two comparable?",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T11:00:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1792585004/ewtn-news/en/GettyImages-160430374_ue1wq2.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0cfa6f4ec1464955",
-      "title": "From gospel music to Christmas trees, Troutman celebrates the season of giving",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQa3hWOW54TmlUbmVjRTEzbzZZWkhnTEJ3eXZXWGlvWmRRZnA1TXNLMjhxQi1MUjJZa3RrMWdnZFVnZ2lkN1RhTGNpMDRTWnNLd1hMM3QtM2VBeHNuaEU2UlluZ2h3eURfVldwS1RCWWNqQTVIWWZVempDU0JBcWRhdGdUUThLNHg2STRyYUhBTzNWUjZzMVZpMnFYakdSZ0EweDFjRDVSeEc?oc=5",
-      "summary": "From gospel music to Christmas trees, Troutman celebrates the season of giving Statesville Record",
-      "outlet": "Statesville Record",
-      "outlet_url": "https://statesville.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-02T11:00:00Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T01:57:02Z"
-    },
-    {
-      "id": "ca5fe4a41fdc6b44",
-      "title": "Carriquiry: Pope’s visit will reconnect Uruguay with its Catholic roots",
-      "link": "https://www.vaticannews.va/en/church/news/2026-11/apostolic-journey-uruguay-former-ambassador-carriquiry.html",
-      "summary": "Ahead of Pope Leo XIV’s Apostolic Journey to Latin America, Guzmán Carriquiry, former Uruguayan Ambassador to the Holy See, reflected on the journey’s potential to renew faith, reconnect Uruguay with its Catholic roots, and promote unity. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T10:28:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/settembre/26/ESTUDIO-9-260925.00_19_26_15.Immagine001.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3f0a804799d992d4",
-      "title": "Morgan Wallen’s Sand In My Boots 2027: Dates, Lineup Timing and the $200K Gift to Schools",
-      "link": "https://www.jubileecast.com/articles/40760/20261102/sand-in-my-boots-2027-dates-morgan-wallen-festival-gulf-shores-school-instruments.htm",
-      "summary": "Morgan Wallen’s Sand In My Boots 2027: Dates, Lineup Timing and the $200K Gift to Schools",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-02T10:23:15Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30959/morgan-wallen.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "59cd0d76e6d84398",
-      "title": "Feed your soul at Plant Riverside's Gospel Brunch Celebration",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13dl9GSGMzN0JXeW05UEM2TnNqd1RxMkNhSFAzVElPSUhsRTJ6YXdWREJFeHNRa0tMZnJlOVBhNHZoUE1LNldLQVV1X04tNlhzN0xfX2RqUUVDYlAydll6NkpHQ2stQQ?oc=5",
-      "summary": "Feed your soul at Plant Riverside's Gospel Brunch Celebration Hilton Head Island Packet",
-      "outlet": "Hilton Head Island Packet",
-      "outlet_url": "https://www.islandpacket.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-02T10:04:00Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T01:57:02Z"
-    },
-    {
-      "id": "bcc93020552db048",
-      "title": "Your Bible is full of angels and demons. Why do we read it as if it isn’t?",
-      "link": "https://www.christianpost.com/voices/your-bible-is-full-of-angels-and-demons-why-do-we-ignore-that.html",
-      "summary": "When Elisha’s servant saw an army surrounding the city, he panicked. He didn’t need a new argument. He needed his eyes opened. Many Christians today are in the same position.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T09:57:02Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272528_w_550_344_613_358.jpg?v=20261102051222",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0bec27248161a84b",
-      "title": "Prince Harry and Kate Middleton: What Is Confirmed After His Call to Reconcile With the Royal Family",
-      "link": "https://www.jubileecast.com/articles/40759/20261102/prince-harry-kate-middleton-what-is-confirmed-call-to-reconcile-royal-family.htm",
-      "summary": "Prince Harry and Kate Middleton: What Is Confirmed After His Call to Reconcile With the Royal Family",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-02T09:55:32Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30873/prince-harry.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ca286e8b192ffa00",
-      "title": "Archbishop of Luján: 'An entire people stands with open arms to welcome the Pope'",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/archbishop-lujan-argentina-people-open-pope-leo-trip-papal.html",
-      "summary": "Archbishop Jorge Eduardo Scheinig describes the atmosphere in Luján, the spiritual heart of Argentina, where Pope Leo XIV will visit on 11 November during his Apostolic Journey to Latin America. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T09:52:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/10/04/17/1791128456512.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6e0709a46ba1819c",
-      "title": "Winter Jam 2027 will bring Christian music lineup to Springfield",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zVXlQVzcwT1ZVVUR4VnQtczU2UEFOdzZHTDVZazdlWmhlV0Z2YTZYejQyUHNacXZiOTEtUmlfRXJhcncyVkdWQVlKbFhDQUJIY0N1UkRlUHBZQnZyd2xaUHRIaw?oc=5",
-      "summary": "Winter Jam 2027 will bring Christian music lineup to Springfield Kansas City Star",
-      "outlet": "Kansas City Star",
-      "outlet_url": "https://www.kansascity.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-02T09:47:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
-    },
-    {
-      "id": "3771acaafe290d31",
-      "title": "Nathaniel Bassey becomes first African Gospel Artist to reach one billion YouTube views",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU295ZTZRQWpzdzBlYkhEelZWajlMbm16UzFYZHRxRDI1WUdGeFBiUXJERFg3MWVXUVhiRWxZYXBheDRNeGtQN2RaZlMwcHNNaEsySjQzRVZBeEk3R3EzRUxUX19UVV9YV04taWV5bUdwYjFGMFlDZ0FnZ1k5NXdjZ1FIY3B6ZkRDR3NfcmtEZ3RrNXRqNUJFRjdrSXVTUzNsUjZKX2dzX3RvZw?oc=5",
-      "summary": "Nathaniel Bassey becomes first African Gospel Artist to reach one billion YouTube views The Sun Nigeria",
-      "outlet": "The Sun Nigeria",
-      "outlet_url": "https://thesun.ng",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-02T09:45:29Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
-    },
-    {
-      "id": "0e3d094a9b387227",
-      "title": "Poland's political, constitutional crisis explained: 5 events that led up to coup attempt",
-      "link": "https://www.christianpost.com/news/poland-5-events-leading-up-to-coup-attempt.html",
-      "summary": "Poland's political and constitutional crisis reached accusations of a coup attempt on Friday, when a judge suspended the head of the country's top court, after five events that began with a 2015 fight over judicial appointments and ran through the president's…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T09:27:45Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272550_w_550_367_510_409.jpg?v=20261102051904",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5fef876871eb0891",
-      "title": "Ciara Mageean’s Funeral Mass Set for Tuesday in Portaferry, Her Family’s Hometown Parish Area",
-      "link": "https://www.jubileecast.com/articles/40758/20261102/ciara-mageean-funeral-date-time-st-patricks-church-ballyphilip.htm",
-      "summary": "Ciara Mageean’s Funeral Mass Set for Tuesday in Portaferry, Her Family’s Hometown Parish Area",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-02T09:09:35Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32479/ciara-mageean.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d76f749915f7482b",
-      "title": "Archeparchy of Haifa condemns attack on Maronite prayer hall in Nahariya",
-      "link": "https://www.vaticannews.va/en/world/news/2026-11/archeparchy-of-haifa-condemns-attack-on-prayer-hall-in-nahariya.html",
-      "summary": "Following an act of vandalism committed on 1 November in northern Israel against a Maronite prayer hall in Nahariya, the Maronite Archeparchy of Haifa firmly asserts that \"such acts can neither be justified nor tolerated\" and calls on the authorities to…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T09:09:00Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/cem/nahariya-01-nov-2026-4.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "64ce72a97452c29a",
-      "title": "Midterms 2026: Don’t leave your faith at home on Nov. 3",
-      "link": "https://www.christianpost.com/voices/midterms-2026-dont-leave-your-faith-at-home-on-nov-3.html",
-      "summary": "“Stick to preaching,” critics say. But the problem isn’t that the Church has become too political. It’s that politics has become too morally aggressive.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T08:28:06Z",
-      "first_seen": "2026-11-02T11:57:46Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272543_w_550_383.jpg?v=20261102062108",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
