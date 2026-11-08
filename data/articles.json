@@ -1,8 +1,251 @@
 {
-  "generated_at": "2026-11-08T15:43:15Z",
+  "generated_at": "2026-11-08T20:05:27Z",
   "story_count": 600,
-  "with_photo": 454,
+  "with_photo": 452,
   "items": [
+    {
+      "id": "34bae6998c5fc067",
+      "title": "‘Little Rascals’ Star Bug Hall’s Arrests Resurface as He Asks for Help After Taking ‘Vow of Poverty’",
+      "link": "https://www.jubileecast.com/articles/40935/20261108/little-rascals-star-bug-hall-s-arrests-resurface-as-he-asks-for-help-after-taking-vow-of-poverty.htm",
+      "summary": "‘Little Rascals’ Star Bug Hall’s Arrests Resurface as He Asks for Help After Taking ‘Vow of Poverty’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T20:10:27Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32570/brandon-bug-hall.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "39d55ec43cd56ca5",
+      "title": "Janet Jackson’s Former Stylist Urges Her to Avoid Justin Timberlake Docuseries: ‘She Was Treated Dirty’",
+      "link": "https://www.jubileecast.com/articles/40934/20261108/janet-jackson-s-former-stylist-urges-her-to-avoid-justin-timberlake-docuseries-she-was-treated-dirty.htm",
+      "summary": "Janet Jackson’s Former Stylist Urges Her to Avoid Justin Timberlake Docuseries: ‘She Was Treated Dirty’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T20:05:15Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29749/janet-jackson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "04812ecd1287f0d9",
+      "title": "Amy Griffin Pushes Back Against Claims She Stole Abuse Story for Oprah-Backed Memoir",
+      "link": "https://www.jubileecast.com/articles/40933/20261108/amy-griffin-pushes-back-against-claims-she-stole-abuse-story-for-oprah-backed-memoir.htm",
+      "summary": "Amy Griffin Pushes Back Against Claims She Stole Abuse Story for Oprah-Backed Memoir",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T20:02:36Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32569/amy-griffin.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9324a3bafef1caa6",
+      "title": "Jason Priestley Says Shannen Doherty’s ‘90210’ Firing Could Have Ended Differently",
+      "link": "https://www.jubileecast.com/articles/40932/20261108/jason-priestley-says-shannen-doherty-s-90210-firing-could-have-ended-differently.htm",
+      "summary": "Jason Priestley Says Shannen Doherty’s ‘90210’ Firing Could Have Ended Differently",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T19:59:27Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32568/shannen-doherty.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e20745c7b9e90538",
+      "title": "Selena Gomez and Demi Lovato ‘Not Best Friends,’ Source Claims After Rare Beauty Reunion",
+      "link": "https://www.jubileecast.com/articles/40931/20261108/selena-gomez-and-demi-lovato-not-best-friends-source-claims-after-rare-beauty-reunion.htm",
+      "summary": "Selena Gomez and Demi Lovato ‘Not Best Friends,’ Source Claims After Rare Beauty Reunion",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T19:55:44Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/11361/selena-gomez.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0cb8b9745ec06bb8",
+      "title": "Sammy Kershaw’s CMA Red Carpet Dispute Grows as Rodney Atkins Says He Was Denied Too",
+      "link": "https://www.jubileecast.com/articles/40930/20261108/sammy-kershaw-cma-red-carpet-dispute-grows-rodney-atkins-denied-too.htm",
+      "summary": "Sammy Kershaw’s CMA Red Carpet Dispute Grows as Rodney Atkins Says He Was Denied Too",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T19:55:23Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32567/rodney-atkins.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "30429338032ee914",
+      "title": "At megachurch service, Faith Life founders say son's rape conviction 'deeply painful'",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUmpWUXBzWTNIYWE1Qi1jblNWNllnYzktZ2VmM240SzZ3bC1lbmlYZHVYeVFkS0RxMkF6RzNUcGhVODFkb2NRcGw2bUphaGEyWDUxb0tNNDlTVVFhTTdkNE5yRDg3VHFxcm9SOHJWc0gzYVU0bDlXNlpXS3Jmc00tY25iNlczeC1TcnljYUVaTmpzcXVydTV1T3dvZEQ?oc=5",
+      "summary": "At megachurch service, Faith Life founders say son's rape conviction 'deeply painful' The Columbus Dispatch",
+      "outlet": "The Columbus Dispatch",
+      "outlet_url": "https://www.dispatch.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-08T19:55:00Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-09T08:05:27Z",
+      "image_tried": "2026-11-08T20:05:27Z"
+    },
+    {
+      "id": "5d4562306d5f9a12",
+      "title": "Miranda Lambert Says Fan Credited ‘Gunpowder & Lead’ With Giving Her Courage to Shoot Abusive Husband",
+      "link": "https://www.jubileecast.com/articles/40929/20261108/miranda-lambert-says-fan-credited-gunpowder-lead-with-giving-her-courage-to-shoot-abusive-husband.htm",
+      "summary": "Miranda Lambert Says Fan Credited ‘Gunpowder & Lead’ With Giving Her Courage to Shoot Abusive Husband",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T19:52:48Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/13078/miranda-lambert.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "84c2a60f0f2a7795",
+      "title": "Erika Kirk Speaks Out as Jokes About Charlie Kirk’s Death Spark Debate",
+      "link": "https://www.jubileecast.com/articles/40928/20261108/erika-kirk-responds-chappelle-welch-charlie-kirk-jokes-culture-laughs-at-assassination.htm",
+      "summary": "Erika Kirk Speaks Out as Jokes About Charlie Kirk’s Death Spark Debate",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T19:18:56Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28066/erika-kirk.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "27f13c37fa4ad8f0",
+      "title": "Dave Chappelle’s Charlie Kirk Joke at Madison Square Garden Sparks Backlash: What He Said",
+      "link": "https://www.jubileecast.com/articles/40927/20261108/dave-chappelle-charlie-kirk-joke-madison-square-garden-backlash.htm",
+      "summary": "Dave Chappelle’s Charlie Kirk Joke at Madison Square Garden Sparks Backlash: What He Said",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T19:08:29Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32566/dave-chappelle.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "690da0571ad53bab",
+      "title": "Built to flex, made to last: Inside New Zealand's first new cathedral in a century",
+      "link": "https://www.ewtnnews.com/world/asia-pacific/built-to-flex-made-to-last-inside-new-zealand-s-first-new-cathedral-in-a-century",
+      "summary": "Architects say Christchurch's new Cathedral of the Blessed Sacrament, the first Catholic cathedral built in New Zealand in more than 120 years, is designed to serve for the next 200 years.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T19:00:00Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794098376/ewtn-news/en/1110594_N3_jzjc7s.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1de9d1038add9368",
+      "title": "Pope leaves Uruguay with a call to keep sowing faith",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-leaves-uruguay-with-a-call-to-keep-sowing-faith.html",
+      "summary": "Pope Leo XIV concludes his Apostolic Journey to Uruguay a heartfelt invitation to families and all generations to keep sowing faith. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T18:53:25Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/08/2026-11-08-viaggio-apostolico-in-uruguay---cerimonia-di-congedo/1794162596719.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ed8d1fd2969f773e",
+      "title": "Kirk Franklin Says Biological Father Living Nearby Made Him Question God",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcVB0NkNvZWpWNHQydVg0Tk9ZblRLYkdIRlctQy0tcTdCa2RRaXc0NmdDbng5VFotOGRkQ2lXU0ZQckRhbWZBeFNFNDVKbnlVYU9hVG80RS1pRVhCRDY2WXNyQXhJSnFHQjRjOFhGdlhrWjVOS1JHdkk2cDZxVHRzcXg0emN3eXlQcEZUMDhlSjhlOXd2UDU0UDRUbUxuMmF2V2x4TnkwNVNnam9fSW04MnlhWnVhVGtO?oc=5",
+      "summary": "Kirk Franklin Says Biological Father Living Nearby Made Him Question God Yahoo",
+      "outlet": "Yahoo",
+      "outlet_url": "https://www.yahoo.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-08T17:38:24Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-08T20:05:27Z"
+    },
     {
       "id": "1fc37c269e3af554",
       "title": "Pope Leo XIV mourns lives lost in shooting in Krakow, Poland",
@@ -2758,6 +3001,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "fa7e7033817c0911",
+      "title": "Country star Mark Wills goes back to his roots and goes gospel with latest album - RFD-TV",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV05NbndnNWRpdWM2a0RNY2NyRDNUUjQyVy0xUE9qS3ppczBZU2RLS2ltSUhvOUUzQWVwY203a3p1NGVLcTVBRGJubnF0MGY2VFowcFRwc0M2UnRkNEFneUl0dVJSWHgtVTYybTlNdWpLVnFJc3hNbTdmWVFFMWIxSUdWUnA0OWNfaUNFR3c4T2hnU1hHdlZ3d3JsSVpmOC1MbUF3Nw?oc=5",
+      "summary": "Country star Mark Wills goes back to his roots and goes gospel with latest album RFD-TV",
+      "outlet": "RFD-TV",
+      "outlet_url": "https://www.rfdtv.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-06T20:03:06Z",
+      "first_seen": "2026-11-08T20:05:27Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "782bba7e73abea26",
@@ -5535,7 +5795,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "9831aedbfdca18eb",
@@ -5590,7 +5850,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-06T03:59:51Z",
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "ec0aa1dc6dccd776",
@@ -5626,7 +5886,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-06T03:59:51Z",
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "cb0582a6add07d46",
@@ -5719,7 +5979,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "c56508033a359be0",
@@ -5755,7 +6015,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "45516d82c781a586",
@@ -5791,7 +6051,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "b6b6d434309a5150",
@@ -5865,7 +6125,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "ae5ff902308dce95",
@@ -5882,7 +6142,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "ce87d57d6452a0ce",
@@ -8839,7 +9099,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T15:59:51Z"
+      "image_tried": "2026-11-08T20:05:27Z"
     },
     {
       "id": "5d338c5f7c5b9876",
@@ -10846,270 +11106,6 @@
       "image": {
         "url": "https://www.christianitytoday.com/wp-content/uploads/2026/10/what-saith-the-lord.jpg?resize=1200,628",
         "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4dc91b4b2c43acfe",
-      "title": "Pennsylvania teen’s witness of faith and hope inspires calls for her canonization",
-      "link": "https://www.ewtnnews.com/world/us/pennsylvania-teen-s-witness-of-faith-and-hope-inspires-calls-for-her-canonization",
-      "summary": "Six years after Maria Middleton’s death from brain cancer, her joyful faith continues to inspire others as the Church in Philadelphia considers opening her cause for sainthood.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-03T11:00:00Z",
-      "first_seen": "2026-11-03T18:32:45Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1793644323/ewtn-news/en/20261008141056_449ec3c52cedab81d326c23782f3bf6b83c461f28e2a42118b1617a93a7f46e4_vdt1cf.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "28c9ab43d90d537c",
-      "title": "The mission: Pope Leo XIV in South America",
-      "link": "https://www.ewtnnews.com/vatican/the-mission-pope-leo-xiv-in-south-america",
-      "summary": "A pontiff returns to the continent that shaped his vocation.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-03T11:00:00Z",
-      "first_seen": "2026-11-03T18:32:45Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1786032235/ewtn-news/en/Chic.AUg.6.2026_ddv3aw.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6828392548e18dea",
-      "title": "All White Unity Gospel Festival to bring uplifting music and community worship to Gqeberha",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMTBac3lUTHdpVEZ1b3lYQS1yMXB4TEVlUmpqVDVwUk5EcnJsRUdkTzFMRzZVNjBwR3pxYnByVDNpejA1bVR4Zmd5alVydUswVFZlb0VzWlNvX0pTMFZyU0ZBTjJLOXduQUFaM1JaeVdXdFFMYnExNmpJaFhmV2RFRGZ3STUyVS1yb3QtRjNUb0ZBcDkwNG5nNHR5a25hdng4cWNCSnBpdFZ2UkZNM2NrcGtZUmxvNkwzb3VmRHFNWllJYkZEaHNQMnVkcw?oc=5",
-      "summary": "All White Unity Gospel Festival to bring uplifting music and community worship to Gqeberha theherald.co.za",
-      "outlet": "theherald.co.za",
-      "outlet_url": "https://theherald.co.za",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-03T10:13:03Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-03T23:10:33Z",
-      "image_tried": "2026-11-06T16:36:36Z"
-    },
-    {
-      "id": "5512140d1e340296",
-      "title": "Gary P. Rohrmayer Releases \"Deeper Prayer,\" a 28-Day Devotional Exploring the Apostle Paul’s Prayers",
-      "link": "https://www.jubileecast.com/articles/40789/20261103/gary-rohrmayer-deeper-prayer-devotional.htm",
-      "summary": "Gary P. Rohrmayer Releases \"Deeper Prayer,\" a 28-Day Devotional Exploring the Apostle Paul’s Prayers",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T09:29:53Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32493/depper-prayer.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0fa82cbe45f0599a",
-      "title": "CNN says a ‘tsunami’ of church closings is coming. The data says otherwise",
-      "link": "https://www.christianpost.com/voices/cnn-says-a-tsunami-of-church-closings-is-coming-is-that-true.html",
-      "summary": "A recent CNN article warned that a “tsunami” of church closings is poised to remake America. But the numbers tell a quieter story. Closures barely outpace openings, and the most alarming figure counts sold buildings, not dying congregations.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-03T09:01:39Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272559_w_550_300.jpg?v=20261103045014",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e824fc59b0fd5b1f",
-      "title": "Christians with PTSD: Why fear doesn’t mean weak faith",
-      "link": "https://www.christianpost.com/voices/christians-with-ptsd-why-fear-doesnt-mean-weak-faith.html",
-      "summary": "For six years, a deacon took back roads to avoid the interstate where a truck hit him. He believed his fear meant he didn’t trust God enough. Clinical psychologist David Zuccolotto explains why that belief is wrong and what finally helped him drive again.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-03T08:59:01Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272523_w_550_290.jpg?v=20261103044930",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0b5aee1ad5561e44",
-      "title": "Sarah Stankorb Criticises Carl and Laura Lentz’s New Book, Questions His Public Comeback",
-      "link": "https://www.jubileecast.com/articles/40788/20261103/sarah-stankorb-criticises-carl-and-laura-lentz-s-new-book-questions-his-public-comeback.htm",
-      "summary": "Sarah Stankorb Criticises Carl and Laura Lentz’s New Book, Questions His Public Comeback",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T08:38:56Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/20219/carl-lentz.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9ae22c4c0a0a30a1",
-      "title": "Calm Worship Collective on Christmas Piano Music, Finding Stillness, and Making Space for God",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTjQ1UmFsdHBmMklReXluMk1lSFgwdXp5UUphMFRuRHN1V0p0bl9VRmNFc0dPeXRTZ2g5Q25xaEhaNnoyQ3pXQ2phS1dCMV9qNFctSUdMbkUtZ2JqeWw5cUsyc1JvMVVwRUhNNGpmSzdrVTJfVzQ2VFlycGlIM3p6cGg2ZnpxUEZ6ZnBCaktXVGctanhDMEIzWVVkSl9YS2ZFVmc3NGlCYUhyWFgzWUdMS3p6WGk4dzV3UlRXRHJqWkhCeWwzU3k3ZHRhempYQTBnSkloWWF4MHNDZWIxTDlNRA?oc=5",
-      "summary": "Calm Worship Collective on Christmas Piano Music, Finding Stillness, and Making Space for God JubileeCast",
-      "outlet": "JubileeCast",
-      "outlet_url": "https://www.jubileecast.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-03T08:22:00Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32492/calm-worship-collective.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "eeddbf134d0deaee",
-      "title": "Lily Hooten Announces Debut Album 'Promise Land,\" Produced by NEEDTOBREATHE’s David Leonard",
-      "link": "https://www.jubileecast.com/articles/40786/20261103/lily-hooten-promise-land-debut-album.htm",
-      "summary": "Lily Hooten Announces Debut Album \"Promise Land,\" Produced by NEEDTOBREATHE’s David Leonard",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T08:20:37Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32491/lily-hooten.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7ddf9c94f7759fc0",
-      "title": "“Righteous Gemstones” Star John Goodman Reveals the Unexpected Side of His 200-Pound Weight Loss",
-      "link": "https://www.jubileecast.com/articles/40785/20261103/john-goodman-weight-loss-righteous-gemstones-star-unexpected-side-200-pounds.htm",
-      "summary": "“Righteous Gemstones” Star John Goodman Reveals the Unexpected Side of His 200-Pound Weight Loss",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T08:08:02Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32084/john-goodman.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "74a6db540405f193",
-      "title": "Must Christians vote Democrat? A response to a reader",
-      "link": "https://www.christianpost.com/voices/must-christians-vote-democrat-a-response-to-a-reader.html",
-      "summary": "A reader told me that if I love Jesus and I’m not a Pharisee, I’ll vote blue. Honesty, compassion and care for the vulnerable are Christian virtues, but no party owns them.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-03T08:07:13Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272561_w_550_367.jpg?v=20261103044844",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "93942e7b9804fb04",
-      "title": "Brittany Snow Says She’s Grateful for Her Divorce From Tyler Stanaland: Here’s Why",
-      "link": "https://www.jubileecast.com/articles/40783/20261103/brittany-snow-grateful-divorce-tyler-stanaland-armchair-expert-hunter-moreno.htm",
-      "summary": "Brittany Snow Says She’s Grateful for Her Divorce From Tyler Stanaland: Here’s Why",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T08:04:49Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32490/britanny-snow.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "566d9f77e9f1d387",
-      "title": "\"I Play Rocky\" Opens Friday: What to Know Before the Stallone Story Hits Theaters",
-      "link": "https://www.jubileecast.com/articles/40782/20261103/i-play-rocky-release-date-cast-runtime-rating-stallone-story.htm",
-      "summary": "\"I Play Rocky\" Opens Friday: What to Know Before the Stallone Story Hits Theaters",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T08:04:43Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32489/i-play-rocky.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5b9382d9fe902b22",
-      "title": "\"The Voice\" Season 30 Top 12: Who Survived the Biggest Cut in Show History",
-      "link": "https://www.jubileecast.com/articles/40781/20261103/the-voice-season-30-top-12-who-survived-biggest-cut-in-show-history.htm",
-      "summary": "\"The Voice\" Season 30 Top 12: Who Survived the Biggest Cut in Show History",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-03T08:04:35Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31894/the-voice-coaches.jpeg",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
