@@ -1,8 +1,179 @@
 {
-  "generated_at": "2026-11-08T01:58:57Z",
+  "generated_at": "2026-11-08T08:46:35Z",
   "story_count": 600,
-  "with_photo": 445,
+  "with_photo": 450,
   "items": [
+    {
+      "id": "a46f57cd13015a46",
+      "title": "Céline Dion to Sing New Paul McCartney Songs in ‘High in the Clouds’",
+      "link": "https://www.jubileecast.com/articles/40919/20261108/céline-dion-to-sing-new-paul-mccartney-songs-in-high-in-the-clouds.htm",
+      "summary": "Céline Dion to Sing New Paul McCartney Songs in ‘High in the Clouds’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T08:43:04Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32107/celine-dion.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e12fbf63d6863f8b",
+      "title": "NEEDTOBREATHE Teams With Anne Wilson, Conner Smith and More for Six New Songs on Expanded Album",
+      "link": "https://www.jubileecast.com/articles/40918/20261108/needtobreathe-teams-with-anne-wilson-conner-smith-and-more-for-six-new-songs-on-expanded-album.htm",
+      "summary": "The Long Surrender and The Fellow Passengers of Pain arrives November 19, with an accompanying U.S. tour launching in February 2027.",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-08T08:33:01Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31922/needtobreathe.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1b23fe0536733752",
+      "title": "Polish bishops call for prayer after gunman kills 6 in Kraków's historic square",
+      "link": "https://www.ewtnnews.com/world/polish-bishops-call-for-prayer-after-gunman-kills-6-in-krakow-s-historic-square",
+      "summary": "Cardinal Grzegorz Ryś invited Kraków to a Mass for the victims at St. Mary's Basilica after a gunman killed six people in the city's Main Market Square.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T07:32:52Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794121841/ewtn-news/en/2303488698_uac7ju.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a477b39ad3fdb801",
+      "title": "Trump’s Fraud Whistleblower Program reveals a Christian problem",
+      "link": "https://www.christianpost.com/voices/trumps-fraud-whistleblower-program-reveals-a-christian-problem.html",
+      "summary": "President Trump’s Fraud Whistleblower Incentive Program pays Americans to expose fraud against the government. The idea is reasonable, but it raises an uncomfortable question for the 62% of U.S. adults who call themselves Christians: why does doing the right…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T05:09:50Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272632_w_550_367_528_313.jpg?v=20261108000955",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7638711a939b9584",
+      "title": "Nigeria’s Christian persecution need more than one day of prayer a year",
+      "link": "https://www.christianpost.com/voices/nigerias-christian-persecution-need-more-than-one-day-of-prayer.html",
+      "summary": "For Christians in Nigeria, persecution is not an annual observance. It is a daily reality. So when the Day of Prayer passes, why do so many of us move on?",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T05:08:43Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272626_w_550_367_554_386.jpg?v=20261108000920",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cd5ffb306db11d0d",
+      "title": "The Democrats’ real civil war starts now",
+      "link": "https://www.christianpost.com/voices/the-democrats-real-civil-war-starts-now.html",
+      "summary": "Democrats are celebrating a wave that swept Republicans out of Congress, but victory comes with a catch. For a decade, the party has run on opposition to Donald Trump. Now voters will want to know what Democrats are actually for.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T05:05:00Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272628_w_550_367_794_196.jpg?v=20261108000822",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "de5d46e12009fea5",
+      "title": "West Virginia Supreme Court blocks lawsuit by 33 churches seeking to leave UMC",
+      "link": "https://www.christianpost.com/news/wv-court-blocks-suit-by-33-churches-seeking-to-leave-the-umc.html",
+      "summary": "The West Virginia Supreme Court of Appeals has blocked a lawsuit from 33 congregations trying to leave the United Methodist Church.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T05:03:00Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272624_w_550_364.jpg?v=20261108000731",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "89ea757753aa0271",
+      "title": "Pope Leo XIV encourages Uruguay’s Catholic minority to keep — and spread — the faith",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-encourages-uruguays-s-catholic-minority-to-keep-and-spread-the-faith",
+      "summary": "The pontiff presided at an evening prayer vigil on his last night in the country.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T02:13:58Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794099906/ewtn-news/en/PHOTO-2026-11-07-18-31-14_sjjdn2.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "bc613b2e044ee270",
+      "title": "Paving way to surprise coalition? Liberman announces support for gov’t with ultra-Orthodox party, Eisenkot bloc",
+      "link": "https://www.christianpost.com/news/liberman-announces-support-for-govt-with-ultra-orthodox-party.html",
+      "summary": "The “Change Bloc,” led by Yashar party leader Gadi Eisenkot, is reportedly considering forming a coalition with the ultra-Orthodox United Torah Judaism, despite months of campaigning for universal military service.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T01:50:51Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272640_w_550_367_572_234.jpg?v=20261107211244",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "6133e55a76d7d665",
       "title": "15 Black Women Among Founders of Historic Boston Church in 1805",
@@ -560,6 +731,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "2a13ef12350fff40",
+      "title": "Kirk Franklin Brings Fantasia, Tank and Gospel Royalty to Tyler Perry Soundtrack",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXVyQkwycmFyRV9vd0xyTTBrMlRpNUgzMHpvQ0xiZUNrVXZXLVFTUU1rUHNmSzNaMzFNUUNYVnVTY2ZBVXNyN3gySW40T3dsOXdhdXozbG5pd1NSdkpvaEdZNjctNktiaXo0WGJIdDdJS2RDa0ZkVl9abWlYM3hYTzNSZWNweDdGYkNUbUNETDB1dW51YktWZVZwbWpSNllnWl8taXRCMA?oc=5",
+      "summary": "Kirk Franklin Brings Fantasia, Tank and Gospel Royalty to Tyler Perry Soundtrack Complex",
+      "outlet": "Complex",
+      "outlet_url": "https://www.complex.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-07T16:01:43Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-08T08:46:35Z"
+    },
+    {
       "id": "aa49d43e44433a27",
       "title": "Lesotho: Catholic Bishops recommit to renewing the country’s pastoral ministry to family",
       "link": "https://www.vaticannews.va/en/africa/news/2026-11/lesotho-catholic-bishops-recommit-to-renewing-the-country-s-pas0.html",
@@ -706,6 +894,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-07T19:17:56Z"
+    },
+    {
+      "id": "e9fd541358d32d20",
+      "title": "Druski's Megachurch Sketch Becomes Netflix Series —10 Funniest Skits",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaHotbEEwcnlMZGhMUUJwMzlraUtyamd2WmplZ2xpdy1aQ2NfcGc3YldfMWFJZXpsYk9ZM2pVdkd5WDFtOGVKcnJRbGd4UEVzbS1PcmptMTh4RG5BNlJodjlvMWJKZXB2ang5R1JXQjFNckFxNG9vYnRVaDNnWHhrclVhMEQzcWhk?oc=5",
+      "summary": "Druski's Megachurch Sketch Becomes Netflix Series —10 Funniest Skits BuzzFeed",
+      "outlet": "BuzzFeed",
+      "outlet_url": "https://www.buzzfeed.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-07T15:31:03Z",
+      "first_seen": "2026-11-08T08:46:35Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "9f8bd7a88c85bc4b",
@@ -5827,7 +6032,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-05T19:38:09Z",
-      "image_tried": "2026-11-05T07:38:09Z"
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "197c6f4cc9de94cd",
@@ -5901,7 +6106,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T07:38:09Z"
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "dbec87d30344685a",
@@ -5937,7 +6142,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T07:38:09Z"
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "0e52148db32f4e45",
@@ -5973,7 +6178,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T07:38:09Z"
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "de314281615dbbc5",
@@ -6104,7 +6309,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T07:38:09Z"
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "27d6b9a05f7fc2d9",
@@ -7325,7 +7530,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T07:38:09Z"
+      "image_tried": "2026-11-08T08:46:35Z"
     },
     {
       "id": "8f0bd48ea83ad50a",
@@ -10900,201 +11105,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-06T08:57:02Z"
-    },
-    {
-      "id": "274ea0136e3263c5",
-      "title": "5 things to know about the Michigan Senate race set on Israel",
-      "link": "https://religionnews.com/2026/11/02/5-things-to-know-about-a-senate-race-hyper-focused-on-israel/",
-      "summary": "(RNS) — When Rep. Haley Stevens shook up the Senate race by revoking her endorsement of Abdul El-Sayed, Israel once again became the lightening-bolt issue in the race.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T23:35:53Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/10/webRNS-Michigan-Jewish-Vote5.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "47388ef27bf42658",
-      "title": "State-level Catholic conferences prepare the faithful for ballot initiatives",
-      "link": "https://www.ewtnnews.com/world/us/catholic-conferences-midterms",
-      "summary": "In some states, bishops’ conferences have taken a clear position on initiatives, urging Catholics to either support or oppose the measures.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T23:27:52Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1745614481/images/shutterstock_1047600649.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "c226781d48b51f7a",
-      "title": "Seattle’s oldest Black church delivers ballots on Capitol Hill",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONmMxaEh0cGh1YUJZS3BHbXFuRngzVkRoZVlVQkFIbkdXeDhDcjBfSlNjaXZxQWhpWVpjRGRKNVRBMktGd1lJakRiaENvTG5zOENNQlhhY1p6SEo0Sy1OU2c4VkxRRWtzOWVrNnJLdmthbjBkbFpTOHpqZEZFaF9MU0R4dHRsYWxqcDFEUl9yeDNROXJXUEtGdFdoRmU1S19CSmdKV05BM2I?oc=5",
-      "summary": "Seattle’s oldest Black church delivers ballots on Capitol Hill CHS Capitol Hill Seattle News",
-      "outlet": "CHS Capitol Hill Seattle News",
-      "outlet_url": "https://www.capitolhillseattle.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-02T23:14:38Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T08:57:02Z"
-    },
-    {
-      "id": "97669cd3a6baffeb",
-      "title": "Former Acts 29 CEO Charged with Rape in the UK",
-      "link": "https://www.christianitytoday.com/2026/11/former-acts-29-ceo-charged-rape-uk-spiritual-abuse/",
-      "summary": "Following his 2020 ouster from a leading church-planting network over allegations of spiritual abuse, UK pastor Steve Timmis is now facing charges for rape. Police in South Yorkshire, United Kingdom announced October 29 that they charged Timmis, the former…",
-      "outlet": "Christianity Today",
-      "outlet_url": "",
-      "source_feed": "Christianity Today",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T23:07:13Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://www.christianitytoday.com/wp-content/uploads/2026/11/Timmis_Steve.jpg?resize=1200,628",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "090fc594d7b439e4",
-      "title": "The Chosen Star Jonathan Roumie Featured in CCM Magazine’s November Cover Story",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUZldXdpRkd1azVKblRvNHRMQWFzUDFuNURITDhvaVZ2OHppd1B3T3k0TzNFekREVVlWX1BrdmJSbVJDY2tBeGpncmNlMHlwZEl4NjlEcm9ERS1Dd3lTdVgzUVRtekVFMjRlaUE3Q3owT0VuR0V2Um1UNXhlMjFaS0xJNE5CN0taMWFZWjdoQWVvYzM2d2E2alA2UFdVbGM2amJhcnVnM1JUNnM?oc=5",
-      "summary": "The Chosen Star Jonathan Roumie Featured in CCM Magazine’s November Cover Story Gospel Music Association",
-      "outlet": "Gospel Music Association",
-      "outlet_url": "https://gospelmusic.org",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-02T22:41:15Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T08:57:02Z"
-    },
-    {
-      "id": "dad2eafa4b0ba779",
-      "title": "Democratic rep. endorses Republican as El-Sayed downplays parental rights concerns: 'Education is on the ballot'",
-      "link": "https://www.christianpost.com/news/el-sayed-people-manufacture-concerns-of-boys-in-girls-sports.html",
-      "summary": "A Democratic member of Congress has endorsed Republican Mike Rogers in Michigan’s U.S. Senate race over Democratic candidate Abdul El-Sayed, the same day El-Sayed suggested concerns about trans-identified males in women’s sports and school culture war issues…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T22:35:00Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272562_w_550_367_661_175.jpg?v=20261102174147",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "86cf939522446d7e",
-      "title": "‘Complete Betrayal’: Black Leaders Accuse Haley Stevens Of Using Black Church As A 'Prop'",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRjNsbEl4VVg2QnU3Zkh1N085aUlVSFQ5RDVoSTJhQm5Jc2lHQ0hGc0RXZFZROW9LS2xmbDJpbXpwZHlqckdsNGJHc1BoVmxSWHBydGtWSkx3aDhjR1BJc1BneGc3aVJtTU05RmRJcktxbjRCYlpZWFZ3UHZEUmp6enNMQllvemhoWllsY3JQbGNzSWJrTHZMWjRJeGk4VGY1akJPTXBxQ1lINW85ZUY5TkJFR2FlelNqYUJkMVEzZzJsbU0zeU9NRA?oc=5",
-      "summary": "‘Complete Betrayal’: Black Leaders Accuse Haley Stevens Of Using Black Church As A 'Prop' New Pittsburgh Courier",
-      "outlet": "New Pittsburgh Courier",
-      "outlet_url": "https://newpittsburghcourier.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-02T22:19:42Z",
-      "first_seen": "2026-11-07T22:52:28Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-07T22:52:28Z"
-    },
-    {
-      "id": "f1efa20124723a9d",
-      "title": "Children partake in mock election at historic Black church",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcm45ZjNwR2wxdThjcmVYZWVPRG41QUI1QnBHc3lTRi15MWJVTU5nMnplTElUSXNnTmZSeXZaeW9GYVg5a3k2RG95NWxEUWpwMHZmZDhaNDlXa1h1MG13RDdVdFlNb3puY2RTVHEwSlpPMDNsWjh4RXpNRzhyTng1cGxuTG51N1pZcmktOVlha0xiWXI4b1lUX3FFRHRmcWpab0NNaWJZWTExOGh0ZEc0RUVtQ1luT3VSOXFzMnBKMjFWWWlrc1hWakNSZ0hmVjlvRW41NGJEemlTT19YMm55ZGZCR3VNOGFQbnhqTVQtb0NNVlRIMmc?oc=5",
-      "summary": "Children partake in mock election at historic Black church The Washington Post",
-      "outlet": "The Washington Post",
-      "outlet_url": "https://www.washingtonpost.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-02T22:11:00Z",
-      "first_seen": "2026-11-05T07:38:09Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-05T07:38:09Z"
-    },
-    {
-      "id": "7fbbb967b3b543b6",
-      "title": "Druski Inks Multiyear Netflix Deal, Launches New Megachurch Comedy Series ‘Collect & Praise’",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObXl1QXhOSjEtamVzSXFRQktubEh0b1NyeEJXbVJBc1Nrb3JWUzJhaUFfZW1fVllwRmRQWk8tcTl6SUlMMmNIYTFORF9DTWNNcEVvRkpwWTZPR0ZOVW1tanV2MllPWXFiRVZEVkRlT0czN05hdkVuVHBmMjZMdlk5NE1fUFlPbWxURnBYanlSWWUwSTJoNDNsMDBNYXpYZnhKWnlCUkl6eWQ2M1Q4aUJEaFRPdnNuaVNOSk1QVU0yZTdnM18zWjh2VHVsNA?oc=5",
-      "summary": "Druski Inks Multiyear Netflix Deal, Launches New Megachurch Comedy Series ‘Collect & Praise’ The Quintessential Gentleman",
-      "outlet": "The Quintessential Gentleman",
-      "outlet_url": "https://www.theqgentleman.com",
-      "source_feed": "Google News: megachurch",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-02T22:06:43Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T08:57:02Z"
-    },
-    {
-      "id": "d321d3be5dfaba94",
-      "title": "Black Folks Online React to Kirk Franklin’s Admission That He’s Never Tried a Popular Atlanta Menu Item",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZmp6MEZITXo4UEdyYmFmeTZnWXo0VUg0aE1tbU03LTdEaEVPNFM4NkdKZ0lDZDktNTdTRW5yTUE2RUpBM19QcWtBOEprTUJseXBGZGYxamFMZUVrV3p3cnlfcHRUNHcyd0hWSjNGZjZqSXg0UzJlRkwxQTI4RjJEajItWW9RTmtuRDJzb21QRWdfaEdV?oc=5",
-      "summary": "Black Folks Online React to Kirk Franklin’s Admission That He’s Never Tried a Popular Atlanta Menu Item The Root",
-      "outlet": "The Root",
-      "outlet_url": "https://www.theroot.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-02T21:57:42Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T08:57:02Z"
-    },
-    {
-      "id": "9501c2818f73ed29",
-      "title": "Blasphemy! Kirk Franklin Shocks Fans by Revealing He Has Never had Lemon Pepper Chicken Wings from the ATL",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMHJudDdxczNaelIyMjVtbjl5cE9kSkxJLVB1SGNLYkxhU1ZjZ2RTTDJ0aFZyMklfcUN5NFVCOVZtWGNfZXhSSTF3TDJUMWFsS3NPTVNRYUx1a1dlc1hyOUtMRWN3V1pIRjNLM09TYTlZWjFrQzB1cmxRNjk4WVVHdkVvZnFESjFnME56MGFla2UwazQ?oc=5",
-      "summary": "Blasphemy! Kirk Franklin Shocks Fans by Revealing He Has Never had Lemon Pepper Chicken Wings from the ATL The Root",
-      "outlet": "The Root",
-      "outlet_url": "https://www.theroot.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-02T21:57:42Z",
-      "first_seen": "2026-11-03T18:32:45Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T21:54:18Z"
     }
   ]
 }
