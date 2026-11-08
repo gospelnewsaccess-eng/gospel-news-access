@@ -1,8 +1,137 @@
 {
-  "generated_at": "2026-11-07T22:52:28Z",
+  "generated_at": "2026-11-08T01:58:57Z",
   "story_count": 600,
-  "with_photo": 444,
+  "with_photo": 445,
   "items": [
+    {
+      "id": "6133e55a76d7d665",
+      "title": "15 Black Women Among Founders of Historic Boston Church in 1805",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM19KckVnNTNoQ2kyOWFTNEVvVEdCbHFua3Y3YkxyUWhyeU5SZjQ1TFhMWWhuTmFJZ00zQUlBVzgzZTUzdVJBdDVscTZYVXIzdkpLcTg1YjRVX1pDMWFELW1DVUlvQ3BPM29BTjFBWmpDODVYaHhoMDkyU0Ytd2djb082M20tMnctQS04VUtQSXZIcGZieDFXV01MQnBhdlMtM2swbHFVVzVDTmtCakp2Z3JB?oc=5",
+      "summary": "15 Black Women Among Founders of Historic Boston Church in 1805 EEW Magazine",
+      "outlet": "EEW Magazine",
+      "outlet_url": "https://www.eewmagazineonline.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-08T01:38:59Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-08T13:58:57Z",
+      "image_tried": "2026-11-08T01:58:57Z"
+    },
+    {
+      "id": "4d116190362e8717",
+      "title": "PHOTOS: Pope Leo XIV in Uruguay",
+      "link": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-in-uruguay",
+      "summary": "The Holy Father said a papal Mass and visited with several communities in Uruguay on the first full day of his South American trip.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-08T01:11:44Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794060049/ewtn-news/en/PHOTO-2026-11-07-08-52-57_ukumyf.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "65ec8674bd5f335d",
+      "title": "My father introduced accordion to Nigerian gospel music — Sola Rotimi’s daughter",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONl9NM21JOGxEVHlwTXNnYUdOem1lY1lERVFpZXZRSFNjTXAwUFVyWWNUMVVDcjh4cXZKWThSTnhiLUFtaDBKTVR0enhLZ3IxZDZQOFBfUkhQcE1wV0ZKeXgzUS1BVngwamNRWDRvcTU2SHd1NlFaSEJIeGo0V3AxZWwxRlN6M0ZZLW9YLXhwYW1nNU1NUUk5NzE5TXNtNWExZF9pbUp3STk4NnlWZ20tOHFHbWtJWmtNQ01UNEJvSWdPV3NGdDZGNGtpdlpmbFFaOTRJeUhybw?oc=5",
+      "summary": "My father introduced accordion to Nigerian gospel music — Sola Rotimi’s daughter Punch Newspapers",
+      "outlet": "Punch Newspapers",
+      "outlet_url": "https://punchng.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-07T23:53:23Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-08T01:58:57Z"
+    },
+    {
+      "id": "c376d892cddc65ed",
+      "title": "THE EVANGELICAL FILES CONTINUE: Philadelphia Pastor, Bryan Jackson, of Garden of Prayer Church of God in Christ, Pleads Guilty to Federal Child Sexual Exploitation Charges, Faces 15 to 80 Years in Prison",
+      "link": "https://blackchristiannews.com/the-evangelical-files-continue-philadelphia-pastor-bryan-jackson-of-garden-of-prayer-church-of-god-in-christ-pleads-guilty-to-federal-child-sexual-exploitation-charges-faces-15-to-80-years-in-pri/?utm_source=rss&utm_medium=rss&utm_campaign=the-evangelical-files-continue-philadelphia-pastor-bryan-jackson-of-garden-of-prayer-church-of-god-in-christ-pleads-guilty-to-federal-child-sexual-exploitation-charges-faces-15-to-80-years-in-pri",
+      "summary": "THE EVANGELICAL FILES CONTINUE: Philadelphia Pastor Pleads Guilty to Federal Child Sexual Exploitation Charges, Faces Up to 15 to 80 The post THE EVANGELICAL FILES CONTINUE: Philadelphia Pastor, Bryan Jackson, of Garden of Prayer Church of God in Christ…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-07T23:40:14Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/11/Bryan-Jackson.jpeg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e1125d23ef0ddf8e",
+      "title": "In Uruguay, Pope Leo XIV deplores the social costs of violent crime",
+      "link": "https://www.ewtnnews.com/vatican/in-uruguay-pope-leo-xiv-deplores-the-social-costs-of-violent-crime",
+      "summary": "The pontiff visited a lower-income neighborhood where a Catholic parish is helping the needy.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-07T23:28:48Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794083226/ewtn-news/en/GettyImages-2303546711_n52jep.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9479ea5bf0f6c079",
+      "title": "Pope in Uruguay: Never settle for mediocrity, find joy and fulfillment in Christ",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-uruguay-prayer-vigil-07-november-2026.html",
+      "summary": "During a prayer vigil in Uruguay, Pope Leo XIV urges the faithful not to settle for a merely decent life or habitual faith, but to give themselves completely to the Lord, finding in Him their true joy and fulfillment. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-07T23:28:00Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/07/2026-11-07-viaggio-apostolico-in-uruguay---veglia-di-preghiera-a/1794093602965.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a29ef4f5c279a61b",
+      "title": "Seph Schlueter Releases New Christmas Single “Hark! The Herald Angels Sing”",
+      "link": "https://www.jubileecast.com/articles/40916/20261107/seph-schlueter-releases-christmas-single-hark-the-herald-angels-sing.htm",
+      "summary": "Seph Schlueter Releases New Christmas Single “Hark! The Herald Angels Sing”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-07T23:02:40Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32560/seph-schlueter.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "2ecd7820a7bb5b5d",
       "title": "Leanna Crawford Releases Christmas EP “Have Yourself a Merry Little Christmas” With “O Holy Night”",
@@ -281,6 +410,25 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-07T22:52:28Z"
+    },
+    {
+      "id": "5ef802353f683ffe",
+      "title": "Pope in Uruguay: Smallness does not mean insignificance",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-uruguay-smallness-does-not-mean-insignificance.html",
+      "summary": "From a child lifted up for a blessing at the Estadio Centenario to neighbours offering words of encouragement in Casavalle, Pope Leo’s second day in Uruguay brings moments of faith, solidarity and celebration. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-07T19:10:00Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/07/2026-11-07-viaggio-apostolico-in-uruguay---veglia-di-preghiera-a/1794093901772.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
     },
     {
       "id": "fee621b82b91bdca",
@@ -1454,6 +1602,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "9c0afc404768181d",
+      "title": "Orcas Christian School connects with Walla Walla Academy through music",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMmw3RC1QSVhKWEFKNXV2UkNhdVJQM1kyaVBiZDZ3VkFZWFViZXVuQmc0SjhWeXhDY2hjYy1Cc1pqVXBTLXNHV2FWemEwRTd1YkJKam1QTjFYamUtYVpjQU43ODhNeXVmNG5uQ1JpOVZ4ZUtWYTl4RlBpbGp1alE1d2hOT251RmpWanh3VmhoTWR6VDBMV3k2VWRkNGJUQQ?oc=5",
+      "summary": "Orcas Christian School connects with Walla Walla Academy through music Orcasonian",
+      "outlet": "Orcasonian",
+      "outlet_url": "https://theorcasonian.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-06T23:24:31Z",
+      "first_seen": "2026-11-08T01:58:57Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-08T01:58:57Z"
     },
     {
       "id": "ba2d2a9cf8e755b0",
@@ -6051,7 +6216,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T00:44:30Z"
+      "image_tried": "2026-11-08T01:58:57Z"
     },
     {
       "id": "326749d09f33d6d1",
@@ -6220,7 +6385,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T00:44:30Z"
+      "image_tried": "2026-11-08T01:58:57Z"
     },
     {
       "id": "133a0fab98eb3ca2",
@@ -7126,7 +7291,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T00:44:30Z"
+      "image_tried": "2026-11-08T01:58:57Z"
     },
     {
       "id": "cfe8046a47d4a9bb",
@@ -7507,7 +7672,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T00:44:30Z"
+      "image_tried": "2026-11-08T01:58:57Z"
     },
     {
       "id": "0ef4132d93e7bcb7",
@@ -8977,7 +9142,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-05T00:44:30Z"
+      "image_tried": "2026-11-08T01:58:57Z"
     },
     {
       "id": "475bef9c42b31444",
@@ -10930,169 +11095,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-06T21:54:18Z"
-    },
-    {
-      "id": "3d82f7a76872680c",
-      "title": "Gospel, Laughs, and Ocean Views: Erica Campbell’s Recap of the One Voyage Cruise",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2tOS1lmbjRtWEpERTNDcFBGTV9jQk9kcXBfaHpQT2l4V2ZGc1hKSTZraENMNk9aN1ZPYUNEQ0hpenl6QjhlQmNDbTNGSkRQZVZPbVpPNU1QdDNqb3dLVTdWNkQ1OGFwdkxtTXFfUjI3ZWxUaXdkQV9SWDhhYkZfVnExbGZVRUJFbFk4YnRpcTlFRDZzM3VkWFhGMnFVOHo1SnlLNUZ4MERwVGdP?oc=5",
-      "summary": "Gospel, Laughs, and Ocean Views: Erica Campbell’s Recap of the One Voyage Cruise Get Up! Mornings With Erica Campbell",
-      "outlet": "Get Up! Mornings With Erica Campbell",
-      "outlet_url": "https://getuperica.com",
-      "source_feed": "Google News: Erica Campbell",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-02T21:52:25Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T08:57:02Z"
-    },
-    {
-      "id": "6420139dfdb3a994",
-      "title": "Company behind Billy Graham Library dining room furniture plans craft village at historic site",
-      "link": "https://www.christianpost.com/news/company-behind-billy-graham-library-furniture-plans-craft-village.html",
-      "summary": "A furniture company that provided furniture to the Billy Graham Library and Samaritan’s Purse is working to reopen a historic furniture complex with ties to a colonial-era Protestant mission group as it celebrates its 100th anniversary.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T21:39:00Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272555_w_550_543_628_531.jpg?v=20261102211055",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2338f26fc4011e29",
-      "title": "'The Chosen' cast opens up about 'brutal' Season 6, portraying Jesus' final hours: 'A painful watch'",
-      "link": "https://www.christianpost.com/news/the-chosen-cast-opens-up-about-brutal-season-6.html",
-      "summary": "The cast of “The Chosen” reflects on the emotional and spiritual weight of Season 6 as the hit biblical drama portrays Jesus’ final hours, His crucifixion and the disciples’ devastating grief, while ultimately pointing viewers toward hope and the Resurrection",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T21:37:25Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272553_w_550_320.jpg?v=20261102163741",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "30ff0ab6021a4343",
-      "title": "Virginia Voters Weigh Abortion Rights Amendment",
-      "link": "https://mycharisma.com/news/virginia-voters-weigh-abortion-rights-amendment/",
-      "summary": "Virginia voters will decide in the November 3, 2026 election whether to add a “fundamental right to reproductive freedom” to the state constitution, according to a voter guide published by the Virginia Department of Elections. The ballot question asks…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T21:34:16Z",
-      "first_seen": "2026-11-03T03:01:29Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "54f2ea2c29492840",
-      "title": "2 female soccer players file Title IX complaint against Maine over trans sports rule",
-      "link": "https://www.christianpost.com/news/high-school-students-file-complaint-over-maine-trans-sports-rules.html",
-      "summary": "Two high school student athletes and their parents are filing a Title IX complaint against Maine over the state’s policy of allowing boys to compete in sports reserved for girls.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T21:15:18Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/25/272557_w_550_335_597_209.jpg?v=20261102161727",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b688b035515ec91e",
-      "title": "Monthly Music Recommendations: Top 5 Christian Songs for November 2026",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcnRpNHdSOS1HLTVQRTJabmJoX3NWNTdkRXY3WEVTTkwwWjBVdkFsQlZqM0ZEZTBnVS15OEJydFRWU1NiNFVBOXNVZWlENUQ2X0tadHZELTMwdnBNa1R5ZU92b0xfS1BacUQ5RkgzLUdHNEVEd2JHcUtvajhYNTlOeGFadTBlSktGU3JqbDFCSUNXSloxeUZQOHZaUQ?oc=5",
-      "summary": "Monthly Music Recommendations: Top 5 Christian Songs for November 2026 The Collision",
-      "outlet": "The Collision",
-      "outlet_url": "https://thecollision.org",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-02T21:11:12Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-03T09:29:02Z",
-      "image_tried": "2026-11-05T21:52:53Z"
-    },
-    {
-      "id": "73a6d530ec5aa41d",
-      "title": "Winter Jam brings Christian music stars to Springfield - Springfield News-Leader",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUGZvaGJfeHpSWjJLc084VzBUOEdJdjdoTS1lWVZOVmx4NnZaekhWRE5LdGtnZlMtWE1qS2pISXlGSkVZQjhCUUxyMWdDYjMwZy1iNmpndXZqaVUycFBqY0FONWdkQU05ZEhYaDNubTg4OTJONS1mNWgxUkVldTV5cXJ1b1lMeGtoVVZCeWpuTHQ5MXhkcFRnMlJvbjVtbFdWNHE4d2dFRm5wMFo3cFBmTEpiS18yRXB3VUlybVhOTVQ0dElNNUNxZGFkMUE2QQ?oc=5",
-      "summary": "Winter Jam brings Christian music stars to Springfield Springfield News-Leader",
-      "outlet": "Springfield News-Leader",
-      "outlet_url": "https://www.news-leader.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-02T21:10:13Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-03T09:29:02Z",
-      "image_tried": "2026-11-05T21:52:53Z"
-    },
-    {
-      "id": "cfb42909d54e0f15",
-      "title": "Winter Jam 2027 will bring Christian music lineup to Springfield - Springfield News-Leader",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3M2Tk9aWGpadnRoSm9aS1ZTRjNlQ1ppdzRhMFkwLW1pQ0RyODdZcUU0TnFQQzdheHBlYUNUcllEeVRncGpsSXIydUxneDRiX1Vjbm5pNUlTZS1sT0ZlXzkwMUtxeVRGOWp0SFBqbW81ZnlZN1hkaUVlUXRSSEI0QUF1LUpPazQ3RU81ZHl3RTZzdXJ2SmxXa3kxd193SDFjWXk4TVpCREJXUWZfbXM1bmNxTDB0d2s?oc=5",
-      "summary": "Winter Jam 2027 will bring Christian music lineup to Springfield Springfield News-Leader",
-      "outlet": "Springfield News-Leader",
-      "outlet_url": "https://www.news-leader.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-02T21:07:00Z",
-      "first_seen": "2026-11-03T11:10:33Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-06T16:36:36Z"
-    },
-    {
-      "id": "c4ff05ae3563d460",
-      "title": "Highland Park Methodist Church Draws Nearly 8,000 Amid Historic UMC Split",
-      "link": "https://mycharisma.com/news/highland-park-methodist-church-draws-nearly-8000-amid-historic-umc-split/",
-      "summary": "One of the nation’s largest Methodist congregations is moving into a new chapter, and thousands turned out for its first weekend of worship after an overwhelming vote to leave the United Methodist Church. Dallas’ Highland Park Methodist Church welcomed 7,950…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-02T21:05:47Z",
-      "first_seen": "2026-11-02T21:29:02Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
