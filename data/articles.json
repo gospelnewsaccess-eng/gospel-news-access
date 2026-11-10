@@ -1,8 +1,158 @@
 {
-  "generated_at": "2026-11-09T23:04:01Z",
+  "generated_at": "2026-11-10T04:42:20Z",
   "story_count": 600,
-  "with_photo": 460,
+  "with_photo": 461,
   "items": [
+    {
+      "id": "ff6accf251ddd0db",
+      "title": "Behind the numbers: Stories from Leo XIV’s largest Mass",
+      "link": "https://www.ewtnnews.com/world/americas/what-moves-us-is-the-faith-pilgrims-at-leo-xiv-s-buenos-aires-mass",
+      "summary": "Families and volunteers who waited overnight in Buenos Aires spoke of handing on the faith, of unity and of a living Church.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-10T02:25:58Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794272507/ewtn-news/es/WhatsApp_Image_2026-11-09_at_8.00.17_PM_hsqzpp.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e2230e5cabcd8ee9",
+      "title": "Russell Brand’s Wife Laura Gallacher ‘Brainwashed’ Into Believing His Innocence, Family Sources Claim",
+      "link": "https://www.jubileecast.com/articles/40969/20261109/russell-brand-s-wife-laura-gallacher-brainwashed-into-believing-his-innocence-family-sources-claim.htm",
+      "summary": "Russell Brand’s Wife Laura Gallacher ‘Brainwashed’ Into Believing His Innocence, Family Sources Claim",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-10T02:05:00Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32575/laura-brand.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "029d9e669d449ca6",
+      "title": "Charlie Kirk Murder Case Latest Update: Jury Selection Set for June 21, 2028",
+      "link": "https://www.jubileecast.com/articles/40968/20261109/charlie-kirk-murder-case-latest-update-jury-selection-set-for-june-21-2028.htm",
+      "summary": "Charlie Kirk Murder Case: Jury Selection Set for June 21, 2028",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-10T02:00:51Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27792/charlie-kirk.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "812dd74b774da133",
+      "title": "Trump says 'I don't want to go to Hell,' admits he cannot forgive enemies: 'Post-Christian president'",
+      "link": "https://www.christianpost.com/news/trump-says-he-doesnt-want-to-go-to-hell-cannot-forgive.html",
+      "summary": "President Donald Trump said during a Sunday interview on CBS' \"60 Minutes\" that he doesn't \"want to go to Hell,\" but that he unrepentantly hates his enemies and has no intention of forgiving them.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-10T01:35:34Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272659_w_550_309.jpg?v=20261109232714",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7944b3aa07466a01",
+      "title": "Keep My Eyes on You, Jesus 🙏 | Powerful Christian Worship Song About Staying Faithful to God.",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9pbllYX0JjRGhiMVNuaDhaY1ZOR1hRNEZUcXpuQ2RtcnE0YXo3U3dmSjdZb1JxMXNfZkZpNW5kc0FkZw?oc=5",
+      "summary": "Keep My Eyes on You, Jesus 🙏 | Powerful Christian Worship Song About Staying Faithful to God. YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-10T01:00:58Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-10T04:42:20Z"
+    },
+    {
+      "id": "173ad4ca522accbf",
+      "title": "Pope Leo XIV calls for religious and social unity in Argentina",
+      "link": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-calls-for-religious-and-social-unity-in-argentina",
+      "summary": "On Monday in Buenos Aires, Pope Leo XIV spoke on Catholic social teaching, prayer among religions, and communion in the Church.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-10T01:00:23Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794264281/ewtn-news/en/WhatsApp_Image_2026-11-09_at_17.14.28_1_iuj44a.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7e6a07efea40b294",
+      "title": "Pope Leo urges Argentinians to proclaim Christ with joy",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-nunciature-goodnight-greeting-highlights-day-two.html",
+      "summary": "Pope Leo XIV concludes his second day in Argentina by greeting the faithful gathered outside the Apostolic Nunciature in Buenos Aires, encouraging them to welcome Christ's call to proclaim the Good News with joy. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-10T00:02:00Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/10/2026-11-09-viaggio-apostolico-in-argentina---saluti-nunziatura/1794267598562.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a89a2dc962de1af9",
+      "title": "Pope Leo XIV pays tribute to Pope Francis in Buenos Aires Cathedral",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-pays-tribute-to-pope-francis-buenos-aires.html",
+      "summary": "At the end of his second day in Argentina, Pope Leo XIV pauses in prayer before a plaque commemorating Jorge Mario Bergoglio, who served as Archbishop of Buenos Aires for seven years ahead of his election as Pope Francis. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-09T23:18:00Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/09/2026-11-09-viaggio-apostolico-in-argentina---celebrazione-dei-ve/1794261002938.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "9ea87c6915e5afc5",
       "title": "More than 90 members of Congress urge leaders to invite Pope Leo XIV",
@@ -771,6 +921,25 @@
       "image_tried": "2026-11-09T23:04:01Z"
     },
     {
+      "id": "5b78d1af68766072",
+      "title": "Faith Life Church senior pastors in pain after son is found guilty of sex crimes",
+      "link": "https://www.christianpost.com/news/faith-life-church-senior-pastors-in-pain-after-son-found-guilty.html",
+      "summary": "Founders of the multi-campus Faith Life Church in Ohio, Gary and Drenda Keesee, told their congregation that they are in pain after their son, Gary Thomas “Tom” Keesee Jr., was found guilty Friday of 27 sex crimes involving minors, but said they won’t stop…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-09T18:34:30Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272649_w_550_336.jpg?v=20261109174922",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "1eca91f26b5b7a11",
       "title": "Deadly communal violence disrupts worship in South Sudan; churches struggle",
       "link": "https://www.christianpost.com/news/deadly-communal-violence-disrupts-worship-in-south-sudan.html",
@@ -788,6 +957,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "3b7f7a10130ed91e",
+      "title": "Oklahoma Vs. The World: Peeling Flesh Spread the Gospel of OKC Slam",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOGxfcHhnb1pOY2owUE81RG9remhxdVFFXzVUUE5pcms3NnpqMjlCaTFIM01YSnZwNXNSVm5TOWk1bGxha0FCNDZpeU1fOUtGUm9Wd3Y1U1NhWFU0ME9kZ2pHRUJmYVZkT0VFbGk0aVFwX3FBUWhMeUI5OXRPYWZrcTlLamZORFgtTFFXeFNlM05XR2pIdUNQSmRrSlJGMHdySmFqMlFWLW9XZzJN?oc=5",
+      "summary": "Oklahoma Vs. The World: Peeling Flesh Spread the Gospel of OKC Slam Knotfest",
+      "outlet": "Knotfest",
+      "outlet_url": "https://knotfest.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-09T18:01:26Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-10T04:42:20Z"
     },
     {
       "id": "45d13aafe218ccbe",
@@ -4894,7 +5080,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-07T01:30:31Z"
+      "image_tried": "2026-11-10T04:42:20Z"
     },
     {
       "id": "9922abc46278ad25",
@@ -4911,7 +5097,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-07T01:30:31Z"
+      "image_tried": "2026-11-10T04:42:20Z"
     },
     {
       "id": "98c753c3916ce783",
@@ -4928,7 +5114,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-07T01:30:31Z"
+      "image_tried": "2026-11-10T04:42:20Z"
     },
     {
       "id": "4d0f9b5f3740e629",
@@ -5624,6 +5810,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "8ba6b8731602bf4a",
+      "title": "Dallas pastor Frederick Haynes III on his election to Congress. And his faith.",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbXpUbEs1OEZvbXVNS3FHTHc1MFh0N3lqRmZVazRjVkhiTkZGcWl6b3ZQUUVyYkx4QVVHZU5PTVl3eUVYQlhtZjBCWkhFWEZkOERESDhjQTFZS1ZEWDdfaUVWR3VRODV5Tzk3bHJuVVRKOEI4QW5mM2NFVEZPdDhpY3BCUUZULTZ6ZlNSWg?oc=5",
+      "summary": "Dallas pastor Frederick Haynes III on his election to Congress. And his faith. Dallas News",
+      "outlet": "Dallas News",
+      "outlet_url": "https://www.dallasnews.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-06T18:19:36Z",
+      "first_seen": "2026-11-10T04:42:20Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-10T04:42:20Z"
+    },
+    {
       "id": "616b2bb6cea9151a",
       "title": "There’s always hope’: The cast of ‘Jimmy’ on God’s love amid suffering",
       "link": "https://www.christianpost.com/video/the-cast-of-jimmy-on-gods-love-amid-suffering.html",
@@ -6223,7 +6426,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-07T01:30:31Z"
+      "image_tried": "2026-11-10T04:42:20Z"
     },
     {
       "id": "ecc5dd3eeed4b5a5",
@@ -10924,207 +11127,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-07T22:52:28Z"
-    },
-    {
-      "id": "bc5ed51ce78bdb68",
-      "title": "Seph Schlueter Talks Lord of the Rings, New Kids Book, & High School Rap Memories at the Dove Awards",
-      "link": "https://rapzilla.com/2026-11-seph-schlueter-rings-new-kids-book-high-school-rap-memories/",
-      "summary": "Singer-songwriter Seph Schlueter brought enthusiasm to the red carpet at the 2026 GMA Dove Awards. He shared answers in a rapid-fire answers covering favorite comfort foods, classic rock anthems, and book deep dives. Schlueter revealed a soft spot for…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-04T10:44:39Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/11/03073914/Loved-getting-to-celebrate-what-God-is-doing-in-the-lives-and-music-of-so-many-incredible-people-e1793709597448.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "366ac22e9aa62d83",
-      "title": "Kirk Franklin Teams Up With Davido For New Gospel Single ‘Hope In You’",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcG9TcjhoLVVpczA5aVJSVHc0TzJCZzdidS1RdS1LOE5hTUxLUXJNUVZSN29Zb3pRaFgxVVc0d0JBZzdNd211OWRkaFUzem1LYnNKaWhsQ2kxMGhpdUFBUDNXU19kcmNpUUFqVzQ3R2lfckZLVmtQMXU4cVZ4OVp1Q2k1WV9RWlV3UEllR1R0QlE4cFV3dW5n?oc=5",
-      "summary": "Kirk Franklin Teams Up With Davido For New Gospel Single ‘Hope In You’ Independent Newspaper Nigeria",
-      "outlet": "Independent Newspaper Nigeria",
-      "outlet_url": "https://independent.ng",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-04T10:43:03Z",
-      "first_seen": "2026-11-05T00:44:30Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-08T01:58:57Z"
-    },
-    {
-      "id": "0ef4132d93e7bcb7",
-      "title": "Pope Leo’s visit to bring questions of faith and AI to Uruguay's Catholic University",
-      "link": "https://www.vaticannews.va/en/church/news/2026-11/pope-leo-s-visit-brings-questions-of-faith-and-ai-to-ucu.html",
-      "summary": "At the Catholic University of Uruguay, students and staff are preparing to welcome Pope Leo XIV as artificial intelligence poses serious risks to the future of education. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-04T10:09:00Z",
-      "first_seen": "2026-11-06T16:36:36Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/04/universita-cattolica-dell-uruguay-8.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "474c4718e1f2bd7b",
-      "title": "Pope Leo XIV invites the faithful to pray for Apostolic Journey to Latin America",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-invites-pray-for-apostolic-journey-to-latin-america.html",
-      "summary": "During his Wednesday General Audience, Pope Leo asks for prayers for his imminent Apostolic Journey to Uruguay, Argentina, and Peru, and recalls two upcoming beatification celebrations as well as the liturgical memorial of St. Charles Borromeo, a saint who he…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-04T09:38:00Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/04/2026-11-04-udienza-generale/1793785545855.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "62c870bdffda5865",
-      "title": "Pope at Audience: Politics that tends wounds and fights injustice gives hope",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-general-audience-social-economic-life-social-doctrine.html",
-      "summary": "During the Wednesday General Audience, Pope Leo XIV focuses on how Christians can engage in economic and political life in order to build peace, as he continues his reflection on the 1965 Pastoral Constitution 'Gaudium et Spes.' Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-04T09:30:00Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/04/2026-11-04-udienza-generale/1793785521597.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f9d33b6d4a1d9613",
-      "title": "REVIEW: Davido finds gospel footing with Kirk Franklin on ‘Hope In You’",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTXdsc2V6MTNWbDBIeUV3TmdzZnZZR3dfdGk2NDRiRmhDVTdLMU01dkhUUG83NmFpdDJPTjJGbDlVWFYtTTYxaGFnZ291OTkzUkp6dG9zaEhrZWRtTGRzMlFmSVR2M2prRnBPYy0wWXliS0E5SWNKMGtyRnNTSzNtMmR3VXNQU3Fqc3BBZG4xU0FIWFROR0FZOVFuYllWV1l3NzRBdW5iQVRnOTVnYW9WcHh5Z1VadVlfV2xQYzdISUVBZFlZdGloOEpURQ?oc=5",
-      "summary": "REVIEW: Davido finds gospel footing with Kirk Franklin on ‘Hope In You’ Premium Times Nigeria",
-      "outlet": "Premium Times Nigeria",
-      "outlet_url": "https://www.premiumtimesng.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-04T09:23:45Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-07T14:58:53Z"
-    },
-    {
-      "id": "58b3436b72b50079",
-      "title": "Pope: Eastern Christians foster dialogue in search of just peace",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-oeuvre-orient-eastern-christians-audience.html",
-      "summary": "Meeting with Church foundations that assist Eastern Christians, Pope Leo XIV calls for dialogue between culture and history in search for an “unarmed and disarming peace.” Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-04T09:13:00Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/04/2026-11-04-delegazione-de--l-oeuvre-d-orient---e-dell--institut-/1793784296432.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "1f2e59abf8c2999b",
-      "title": "Joel Christian Unveils Dark Synth-Pop Anthem & Video, “Heart Ripper”",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTGgzUTIxWXdXVV9iU20xV1BYWUtpbzRVRHFCMmRKT3RrWklSa3VDMXR5cjBpRG1aaUFyQVJKdWpIVU5RMUo3UW9hbFAxTnpsRkt0N2hleVoxTDRhQmU1dXVfdWM4YzRTc2QtNGNSbldOSEgycEFEMmk1Mk9nRjhXcHFyeC1xbU5CdDlYcllpTXVtZw?oc=5",
-      "summary": "Joel Christian Unveils Dark Synth-Pop Anthem & Video, “Heart Ripper” V13 Media",
-      "outlet": "V13 Media",
-      "outlet_url": "https://v13.net",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-04T08:05:48Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-07T14:58:53Z"
-    },
-    {
-      "id": "cf5cd8c41bfbf52b",
-      "title": "‘Bachelor’ Alum Melissa Rycroft Says She’s Getting Professional Care After Second DWI Arrest",
-      "link": "https://www.jubileecast.com/articles/40816/20261104/bachelor-alum-melissa-rycroft-says-she-s-getting-professional-care-after-second-dwi-arrest.htm",
-      "summary": "‘Bachelor’ Alum Melissa Rycroft Says She’s Getting Professional Care After Second DWI Arrest",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-04T08:03:36Z",
-      "first_seen": "2026-11-04T12:25:04Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32474/melissa-rycroft.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "e8eb1d093ba1eea5",
-      "title": "Montevideo prepares to welcome Pope Leo as a \"caress from God\"",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/uruguay-prepares-to-welcome-pope-leo-xiv.html",
-      "summary": "At the Estadio Centenario, workers are putting up the stage for a prayer vigil. In the Old City, hymns are being rehearsed for Vespers. As Montevideo prepares to welcome Pope Leo XIV, organizers hope his visit will speak to people across a city shaped by…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-04T08:00:00Z",
-      "first_seen": "2026-11-04T19:57:00Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/02/2026-11-02-cattedrale-montevideo4.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "49af54aee00c8bf3",
-      "title": "Community concert set for Nov. 13",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeWNQZEREakpQb2RGMmU0c0txTFV4Mjk2MGF3RktCSW4yeFRPZnhSY2FzSVRMT0dZbnpPV3ptZzl4WjRfOWVSbm85dDlINVQ2a3dxNjd2NlRHanF3aW9ZcjQxSl9yY1MyTC1iMDF4cjFCLVhPSUl5ZnVlRnROaThkT0RydXhsZm5MY3c?oc=5",
-      "summary": "Community concert set for Nov. 13 Kenbridge Victoria Dispatch",
-      "outlet": "Kenbridge Victoria Dispatch",
-      "outlet_url": "https://kenbridgevictoriadispatch.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-04T08:00:00Z",
-      "first_seen": "2026-11-06T01:57:02Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-09T04:09:46Z"
     }
   ]
 }
