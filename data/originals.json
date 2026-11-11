@@ -1,745 +1,1094 @@
 {
-  "_README": [
-    "Gospel News Access ORIGINAL reporting. Starts empty on purpose.",
-    "",
-    "We will not invent a story to demonstrate the feature. Every entry here",
-    "must be real reporting with a real dateline and a real timestamp.",
-    "",
-    "RULES (also enforced on the page):",
-    " - byline: a real reporter's name, or 'Gospel News Access Staff'.",
-    " - NEVER invent a person to put in the byline.",
-    " - A story about a named individual's conduct needs primary documentation",
-    "   or an on-record source AND an attempt to reach them for comment.",
-    "   If you have neither, the story does not run.",
-    "",
-    "Set status to 'published' to make it live. Corrections print inline at",
-    "the bottom of the story, dated, and are also listed on /corrections.html."
+ "_README": [
+  "Gospel News Access ORIGINAL reporting. Starts empty on purpose.",
+  "",
+  "We will not invent a story to demonstrate the feature. Every entry here",
+  "must be real reporting with a real dateline and a real timestamp.",
+  "",
+  "RULES (also enforced on the page):",
+  " - byline: a real reporter's name, or 'Gospel News Access Staff'.",
+  " - NEVER invent a person to put in the byline.",
+  " - A story about a named individual's conduct needs primary documentation",
+  "   or an on-record source AND an attempt to reach them for comment.",
+  "   If you have neither, the story does not run.",
+  "",
+  "Set status to 'published' to make it live. Corrections print inline at",
+  "the bottom of the story, dated, and are also listed on /corrections.html."
+ ],
+ "_template": {
+  "slug": "url-safe-name",
+  "title": "",
+  "standfirst": "",
+  "dateline": "CITY, State",
+  "byline": "Gospel News Access Staff",
+  "published": "2026-01-01T12:00:00Z",
+  "updated": null,
+  "image": null,
+  "image_alt": "",
+  "image_credit": "",
+  "body": [
+   "paragraph one",
+   "paragraph two"
   ],
-  "_template": {
-    "slug": "url-safe-name",
-    "title": "",
-    "standfirst": "",
-    "dateline": "CITY, State",
-    "byline": "Gospel News Access Staff",
-    "published": "2026-01-01T12:00:00Z",
-    "updated": null,
-    "image": null,
-    "image_alt": "",
-    "image_credit": "",
-    "body": [
-      "paragraph one",
-      "paragraph two"
-    ],
-    "corrections": [],
-    "status": "draft"
-  },
-  "articles": [
+  "corrections": [],
+  "status": "draft"
+ },
+ "articles": [
+  {
+   "slug": "kirk-franklin-ebony-power-100-debbie-allen-i-am-what-i-am",
+   "title": "Kirk Franklin Opened the Ebony Power 100, Danced With Debbie Allen and Scored Netflix's Christmas Musical. Gospel's King Is Having a Week",
+   "standfirst": "He opened Monday's gala with \"Revolution,\" pulled Debbie Allen into a dance the internet keeps replaying, and his music fills \"The Gospel of Christmas,\" streaming now. Which Kirk Franklin song carried you through this year?",
+   "dateline": "LOS ANGELES, California",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T12:50:00Z",
+   "updated": null,
+   "image": "assets/img/kirk-franklin-ebony-power-100-2026.jpg",
+   "image_alt": "Kirk Franklin singing on stage under stage lights",
+   "image_credit": "Kirk Franklin performing at JoyFest in 2017. Photo: CL Holly, CC BY 2.0, via Wikimedia Commons (commons.wikimedia.org/wiki/File:Kirk_Franklin_at_JoyFest_'17.jpg)",
+   "photo_source": "https://commons.wikimedia.org/wiki/File:Kirk_Franklin_at_JoyFest_%2717.jpg",
+   "photo_licence": "CC BY 2.0",
+   "photo_author": "CL Holly",
+   "feature": true,
+   "feature_layout": "portrait",
+   "facts": [
     {
-      "slug": "tyler-perry-gospel-of-christmas-netflix-fantasia-tank-kirk-franklin",
-      "title": "Tyler Perry Says 'The Gospel of Christmas' Was the Hardest Film He Ever Made. Fantasia and Tank Bring It to Netflix Today",
-      "standfirst": "Perry says he felt \"under attack\" making his new faith film, a holiday musical about a couple fighting to save a struggling church, with music produced by Kirk Franklin and a cast of gospel royalty. Will you be watching tonight?",
-      "dateline": "ATLANTA, Georgia",
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-11-11T06:00:00Z",
-      "updated": null,
-      "image": "assets/img/tyler-perry-gospel-of-christmas-netflix.jpg",
-      "image_alt": "Tyler Perry on Broadway opening night",
-      "image_credit": "Tyler Perry on a Broadway opening night. Photo: PhilipRomanoPhoto, CC BY-SA 4.0, via Wikimedia Commons (commons.wikimedia.org/wiki/File:TylerPerry-byPhilipRomano.jpg)",
-      "photo_source": "https://commons.wikimedia.org/wiki/File:TylerPerry-byPhilipRomano.jpg",
-      "photo_licence": "CC BY-SA 4.0",
-      "photo_author": "PhilipRomanoPhoto",
-      "body": [
-        "Tyler Perry has made more than two dozen films about faith, family and redemption. He says this one nearly broke him.",
-        "\"The Gospel of Christmas,\" Perry's new holiday film, arrives on Netflix today, Wednesday, November 11. Perry told The Christian Post it was \"the most difficult film\" he has ever made, and that while making it he felt \"under attack.\" He called it both the simplest film he has made and the hardest.",
-        "## The story",
-        "Fantasia Barrino Taylor and Durrell \"Tank\" Babbs star as Rebecca and Isaac, a married couple trying to revive a struggling church in a hard-pressed New York City neighborhood, according to The Christian Post and Netflix. Perry wrote and directed.",
-        "## The music",
-        "Kirk Franklin produced the music, which Netflix describes as a mix of contemporary and classic songs across gospel, rap and holiday music. The cast reads like a gospel hall of fame: Yolanda Adams, Fred Hammond, Shirley Caesar, CeCe Winans, The Clark Sisters, Smokie Norful, Vanessa Bell Armstrong, Ann Nesby and Hezekiah Walker are among the names reported by The Christian Post, Blavity and ChurchLeaders.",
-        "## Why it matters",
-        "Faith audiences have been asking streamers for stories that take church seriously. Perry's faith-film partnership with producer DeVon Franklin and Netflix, announced in 2024, is now putting gospel's biggest voices in front of a global audience in the middle of the holiday season.",
-        "Perry has not said publicly what the \"attack\" was. For many believers, the phrase will sound familiar: the work that matters most is often the work that meets the most resistance.",
-        "\"The Gospel of Christmas\" is streaming on Netflix now. Which gospel legend are you most excited to see on screen?"
-      ],
-      "facts": [
-        {
-          "label": "Film",
-          "value": "The Gospel of Christmas (Tyler Perry, Netflix)"
-        },
-        {
-          "label": "Streaming",
-          "value": "Netflix, from Wednesday, November 11, 2026"
-        },
-        {
-          "label": "Stars",
-          "value": "Fantasia Barrino Taylor (Rebecca), Tank (Isaac)"
-        },
-        {
-          "label": "Music",
-          "value": "Produced by Kirk Franklin"
-        },
-        {
-          "label": "Also featuring",
-          "value": "Yolanda Adams, Fred Hammond, Shirley Caesar, CeCe Winans, The Clark Sisters, Smokie Norful and more"
-        },
-        {
-          "label": "Perry's words",
-          "value": "\"The most difficult film\" he has made; he felt \"under attack\" (The Christian Post)"
-        },
-        {
-          "label": "Sources",
-          "value": "The Christian Post, Netflix Tudum, Blavity, ChurchLeaders, VIBE"
-        }
-      ],
-      "corrections": [],
-      "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
-      "revenue_angle": "Netflix holiday faith audience; soundtrack affiliate opportunity once Kirk Franklin's soundtrack is listed; Christmas-season church and gospel sponsors.",
-      "status": "published"
+     "label": "The gala",
+     "value": "2026 Ebony Power 100, Hollywood Palladium, Los Angeles, Monday, November 9"
     },
     {
-      "slug": "skvlk-fest-2026-faith-family-love-behind-jamie-foxx-party",
-      "title": "Faith, Family and 400 Guards: The Love Behind Jamie Foxx's Party for His Daughter",
-      "standfirst": "Believers worked alongside Jamie Foxx's team, buses carried families in, and parents went home grateful. Inside the care behind Anelise's 18th birthday festival. When did you last see a celebrity put children first?",
-      "dateline": "HIDDEN VALLEY, California",
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-11-11T16:00:00Z",
-      "updated": "2026-11-11T16:00:00Z",
-      "image": "assets/img/skvlk-2026-faith-montage.jpg",
-      "image_alt": "Families facing the lit stage, a carnival ride and the crowd at SKVLK Fest 2026",
-      "image_credit": "Photos: PR STARPOWER",
-      "feature": true,
-      "photos": [
-        {
-          "id": "ride",
-          "src": "assets/img/skvlk-2026-ride-wide.jpg",
-          "alt": "Riders on a glowing carnival ride at SKVLK Fest 2026",
-          "caption": "The rides ran late into the night. Photo: PR STARPOWER"
-        },
-        {
-          "id": "crowd",
-          "src": "assets/img/skvlk-2026-crowd-night-wide.jpg",
-          "alt": "The crowd under the lights at SKVLK Fest 2026",
-          "caption": "Thousands celebrated Anelise's 18th. Photo: PR STARPOWER"
-        }
-      ],
-      "videos": [
-        {
-          "src": "assets/video/skvlk-2026-fun-reel.mp4",
-          "poster": "assets/img/skvlk-2026-fun-reel-poster.jpg",
-          "caption": "Watch: rides, the crowd and the main stage at SKVLK Fest 2026. Video: PR STARPOWER"
-        }
-      ],
-      "facts": [
-        {
-          "label": "Event",
-          "value": "SKVLK Fest 2026, Anelise Foxx's 18th birthday Halloween festival"
-        },
-        {
-          "label": "When",
-          "value": "Saturday, November 7, 2026"
-        },
-        {
-          "label": "Where",
-          "value": "The Foxx family home, Hidden Valley, California"
-        },
-        {
-          "label": "Security",
-          "value": "More than 400 guards, according to organizers"
-        },
-        {
-          "label": "Transport",
-          "value": "Shuttle buses for guests, according to organizers"
-        },
-        {
-          "label": "Sheriff's finding",
-          "value": "No stabbing: the young man \"was not assaulted with a knife\""
-        }
-      ],
-      "body": [
-        "Ask the people who worked SKVLK Fest what they remember most, and many of them don't start with the music. They start with the families.",
-        "When Jamie Foxx and his daughter Anelise opened their Hidden Valley home on Saturday, November 7 for SKVLK Fest, the Halloween music festival she created, it was her 18th birthday. It was also, by the account of people on the ground, a night built around keeping thousands of young people safe and letting them have fun.",
-        "## Believers behind the scenes",
-        "Many of the people working alongside Foxx's team that night are people of faith, according to Terry Bryant of PR STARPOWER, which brought sponsors and partners to the festival. Bryant worked the event.",
-        "Foxx himself has spoken openly about leaning on his faith during his recovery from a 2023 medical emergency, and about gratitude for the prayers that surrounded him.",
-        "\"Jamie and his team genuinely care about the children,\" Bryant said. \"There was an outpouring of support and love from the community, and the parents were so grateful.\"",
-        "## Care you could see",
-        "Organizers say more than 400 security guards worked the festival and shuttle buses carried guests in and out, so families weren't left walking dark hillside roads. EMTs were on site.",
-        "{{photo:ride}}",
-        "And the children? They had the night of their lives: carnival rides flashing green, red and pink, costumes everywhere, a main stage lit like a stadium and thousands of voices singing along. Parents who spoke with the festival's team said they were grateful, both for the celebration and for how their children were looked after.",
-        "{{photo:crowd}}",
-        "## Setting the record straight",
-        "For days, a false report that a teenager was stabbed overshadowed all of this. The Ventura County Sheriff's Office has now confirmed that no one was stabbed: detectives found the young man \"was not assaulted with a knife,\" and his superficial injury appears to be from \"mutual combat / simple battery.\" Detectives are still looking into two separate altercations that night, and the festival's team says it is cooperating fully. Read the official press release in our Press Room.",
-        "## Why it matters",
-        "\"Let all that you do be done in love\" (1 Corinthians 16:14). In a season when a rumor can outrun the truth, it is worth telling the story of a father who opened his home, a team that put children first and a community that showed up with love. And it is worth praying for every young person who was hurt that night, and for their privacy.",
-        "DISCLOSURE: Gospel News Access is part of the same media group as PR STARPOWER, which represents SKVLK Fest. Terry Bryant of PR STARPOWER is a senior editor in the group."
-      ],
-      "corrections": [],
-      "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 11, 2026)",
-      "status": "published"
+     "label": "His opener",
+     "value": "\"Revolution\""
     },
     {
-      "slug": "skvlk-fest-2026-family-celebration-community-embraced",
-      "title": "A Family Celebration the Community Embraced: SKVLK Fest Team Says Stabbing Reports Are False",
-      "standfirst": "Jamie Foxx's daughter Anelise marked her 18th birthday with a festival that drew families and young people from across the region. The festival's publicist says the reports of a stabbing never happened. How does your church guard young people's stories online?",
-      "dateline": "THOUSAND OAKS, California",
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-11-10T19:00:00Z",
-      "updated": "2026-11-10T22:00:00Z",
-      "image": "assets/img/skvlk-2026-crowd-stage.jpg",
-      "image_alt": "The crowd facing the stage at SKVLK Fest 2026",
-      "image_credit": "Photo: PR STARPOWER",
-      "feature": false,
-      "body": [
-        "Anelise, the daughter of Jamie Foxx, turned 18 with a celebration the whole community could share. SKVLK Fest, the Halloween music festival she created, filled the family's Thousand Oaks home on Saturday, November 7 with carnival rides, music and families. Organizers say more than 25,000 people attended; the Ventura County Sheriff's Office estimated 3,000 or more.",
-        "\"It was amazing,\" said Terry Matari Bryant of PR STARPOWER, the festival's publicist, who attended. \"The community loved it, the children loved it, and Jamie and Anelise put on a fantastic show.\"",
-        "By Sunday, a darker story was spreading online. TMZ, citing law enforcement sources, reported that a guest had been stabbed, and many outlets repeated it. The festival's team says that is false. \"No one was stabbed,\" PR STARPOWER said in an official statement. According to the statement, two teenagers had a brief scuffle and one received a minor scratch, and Ventura County Sheriff's deputies responded. The festival's team has asked every outlet that published the stabbing claim to correct it.",
-        "UPDATED Nov. 10: The Ventura County Sheriff's Office has now confirmed it. In its official release (report RB# 26-146404), the Sheriff's Office says detectives spoke with the young man on November 9 and \"determined the victim was not assaulted with a knife, and the injury appears to be from a mutual combat / simple battery.\" The release also describes two other altercations that night, which remain under investigation. Sheriff's release: local.nixle.com/alert/12829667",
-        "WHY IT MATTERS. Scripture warns against bearing false witness, and a rumor about young people can follow them for years. Whatever happened between two teenagers that night, they deserve privacy and prayer, not a viral headline. And a young woman who invited her whole community to celebrate with her deserves to have that story told, too.",
-        "Full statement: prstarpower.com/statement-skvlk-fest-2026.html",
-        "DISCLOSURE: Gospel News Access is part of the same media group as PR STARPOWER, the festival's publicist."
-      ],
-      "corrections": [],
-      "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 10, 2026)",
-      "status": "published"
+     "label": "The viral moment",
+     "value": "A dance with honoree Debbie Allen, shared by The Shade Room"
     },
     {
-      "slug": "agff-2026-devon-franklin-stories-of-hope-global-film-awards",
-      "title": "DeVon Franklin Leads a Night of Hope at the Global Film Awards in Beverly Hills",
-      "standfirst": "Faith, family and filmmakers from 30 nations share one red carpet tonight at the Writers Guild Theater, where a Zambian gospel artist walks alongside Hollywood's best-known faith producer. Which film of hope moved you most this year?",
-      "dateline": "BEVERLY HILLS, California",
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-11-05T23:55:00Z",
-      "updated": null,
-      "image": "assets/img/agff-2026-stories-of-hope-card.jpg",
-      "image_alt": "Gospel News Access card: Faith on the red carpet, stories of hope take the stage in Beverly Hills tonight",
-      "image_credit": "Graphic: Gospel News Access",
-      "body": [
-        "Hollywood has a red carpet for stories of hope tonight. The Authentic Global Film Festival presents the 2026 Global Film Awards at the Writers Guild Theater in Beverly Hills, and the festival says its mission is plain: films that promote peace, family and faith, from filmmakers who rarely get a big screen.",
-        "DeVon Franklin leads the arrivals. The producer, preacher and bestselling author built Franklin Entertainment on the belief that faith-filled stories can be mainstream hits, from \"Miracles from Heaven\" to \"Breakthrough.\" He also sits on tonight's 6 PM panel with two-time Oscar winner Nick Vallelonga (\"Green Book\") and Grammy-nominated producer Theron \"Neff-U\" Feemster.",
-        "The carpet also carries a voice from the global church. Zambian gospel artist Ephriam Mutalangue is among the guests, alongside actress and singer Demetria McKinney. Actor Richard T. Jones of ABC's \"The Rookie\" hosts the evening.",
-        "More than 950 films from roughly 30 countries were submitted this year, according to the festival. Its founder, Dr. Gershom Sikaala, says the gap he set out to close is opportunity, not talent. \"I founded this festival to close that gap,\" he said in the festival's announcement, \"and to prove that stories of hope belong in Hollywood.\"",
-        "WHY IT MATTERS. Faith audiences have proved they will show up for films that reflect their values. A festival that rewards hope, family and faith on a Beverly Hills stage is one more sign the industry is paying attention, and it gives filmmakers from Africa, Asia and Latin America a door into the room.",
-        "TONIGHT AT A GLANCE. Red carpet 5 to 7 PM. Panel 6 PM. Awards 7 to 9 PM. Writers Guild Theater, 135 S. Doheny Drive, Beverly Hills. Official press room: newswirehollywood.com/agff-2026.html.",
-        "DISCLOSURE: Gospel News Access is part of the same media group as Newswire Hollywood, the festival's official media partner, and PR STARPOWER, which handles the festival's publicity. Details are from the festival's official run of show and press release."
-      ],
-      "corrections": [],
-      "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 5, 2026)",
-      "status": "published"
+     "label": "New album",
+     "value": "\"I Am What I Am,\" released October 30, 2026: his first double album, seven studio and seven live tracks"
     },
     {
-      "slug": "commentary-pastor-adam-hamilton-kansas-senate-light-of-the-world",
-      "title": "Commentary: A Pastor Won Kansas, and Real Christians Chose to Be the Light",
-      "standfirst": "Adam Hamilton, a United Methodist pastor branded a heretic by the Christian right, became the first Democrat Kansas has sent to the Senate since 1932. His win, and the Democratic sweep around it, answers a false gospel that has been preached from too many pulpits.",
-      "dateline": "KANSAS CITY, Kansas",
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-11-04T23:30:00Z",
-      "updated": "2026-11-05T18:10:00Z",
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "THIS IS COMMENTARY from the Gospel Desk. The facts in it are reported; the conviction is ours.",
-        "UPDATED Nov. 5: Keisha Lance Bottoms has won the Georgia governor's race after Republican Rick Jackson conceded, the first Black woman ever elected governor of a U.S. state. The Senate races in Mississippi and Alaska are still being counted.",
-        "On Tuesday night a pastor won Kansas. Adam Hamilton, founding pastor of the 25,000-member United Methodist Church of the Resurrection, defeated Republican Sen. Roger Marshall, a fierce loyalist to President Trump, according to the Associated Press. No Democrat had won a Kansas Senate seat since 1932. Hamilton plans to keep serving his church, scaling back from full-time to quarter-time.",
-        "He did not win by hiding his faith. He won by refusing to weaponize it. \"I'm not running for the Senate to make everybody in this country Christian or United Methodist,\" he said on the campaign trail. He promised to \"fight for the rights of all people, whether they have any faith or not.\" Asked by NPR what drove his victory, he pointed to rising costs, tariffs and the war in Iran, and to Americans \"sick and tired of the hyperpolarization in Washington.\"",
-        "For that, the Christian right called him a heretic. His opponents attacked his church for welcoming LGBTQ people. Kansas listened, and Kansas chose the pastor.",
-        "THE FALSE NARRATIVE. For years a counterfeit gospel has moved through American churches: that faithfulness means loyalty to one man and one party, that the cross belongs wrapped in a flag, that the nation's God is whoever sits in the Oval Office. That is not the faith of the Gospels. It is Christian nationalism, and too many sanctuaries traded the Sermon on the Mount for a campaign rally to preach it.",
-        "Scripture is plain about what Christ asks of us. \"For I was hungry, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: naked, and ye clothed me\" (Matthew 25:35-36). He did not say: close the border to the stranger. He did not say: worship power. He said, \"Ye are the light of the world\" (Matthew 5:14). The church's calling is to save souls and serve the least of these, not to crown a king.",
-        "ON TUESDAY, MANY CHRISTIANS MADE THAT CHOICE. Hamilton was not alone. In Texas, James Talarico, a Presbyterian seminarian who quotes Scripture and credits his faith for his politics, won a U.S. Senate seat, the first Texas Democrat to do so since 1988. In Dallas, the Rev. Frederick Haynes III, senior pastor of a Baptist congregation, won a seat in the U.S. House. In Iowa, Rob Sand, who spoke often of his faith on the trail, won the governorship. Baptist News Global counted six progressive Christian leaders among the night's winners.",
-        "Around them, Democrats won control of the House and a majority in the Senate, flipped governor's mansions in Texas, Georgia, Ohio and Iowa, and in Georgia, Keisha Lance Bottoms won, becoming the first Black woman ever elected governor of any state.",
-        "This is not a victory for one party over another in the eyes of God. It is a reminder that the faith was never owned by a party in the first place. Real Christians have a choice. On Tuesday, many chose to be the light.",
-        "The Senate contests in Mississippi and Alaska are still too close to call. Gospel News Access will report the final results."
-      ],
-      "facts": [
-        {
-          "label": "Senator-elect",
-          "value": "Adam Hamilton (D), founding pastor, United Methodist Church of the Resurrection"
-        },
-        {
-          "label": "Defeated",
-          "value": "Sen. Roger Marshall (R)"
-        },
-        {
-          "label": "History",
-          "value": "First Democrat elected to the Senate from Kansas since 1932"
-        },
-        {
-          "label": "Other people of faith who won",
-          "value": "James Talarico (Texas, Senate); Rev. Frederick Haynes III (Texas, U.S. House); Rob Sand (Iowa, governor)"
-        },
-        {
-          "label": "National result",
-          "value": "Democrats win the House and a Senate majority"
-        },
-        {
-          "label": "Sources",
-          "value": "Associated Press via NPR and OPB; Baptist News Global; Christian Post; NBC News; CBS News"
-        }
-      ],
-      "corrections": [],
-      "status": "published",
-      "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 4, 2026)"
+     "label": "Guests",
+     "value": "Jelly Roll, GloRilla, Davido, Tobe Nwigwe; Karen Clark Sheard on the live side"
     },
     {
-      "slug": "gospel-week-october-29-2026",
-      "title": "The gospel world this week: Forrest Frank dates The Jesus Generation, Donnie McClurkin says goodbye, Charity Gayle goes to Christmas",
-      "standfirst": "A December album with Lecrae, KB and Michael W. Smith, a farewell record from one of gospel's great voices, and an early Christmas worship project. What actually happened in gospel music this month.",
-      "dateline": null,
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-10-29T18:00:00Z",
-      "updated": null,
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "FORREST FRANK has a date. \"The Jesus Generation,\" his new album, arrives December 4 on River House Records, according to an announcement carried by CCM Magazine on October 28. The record takes its name from his May single, a song built on Frank's conviction that a spiritual awakening is under way across the country, most of all among young people.",
-        "The guest list reaches well past the worship lane: Lecrae and KB, JVKE and Michael W. Smith are among the collaborators. New music from the album is due this Friday, October 30. The announcement follows his sold-out, 29-city Jesus Generation Tour, and a theatrical film documenting that tour is set for 2027 through Lionsgate and Kingdom Story Company.",
-        "DONNIE McCLURKIN has made his last record, and he says so plainly. \"FINALLY,\" released October 16 on Camdon Music with distribution by Syntax Creative, is the album he has called the end of his recording career. Its lead single, \"Better Afterwhile,\" went to No. 1 on the Billboard gospel chart, and \"Lord, I Thank You\" followed as the second single. McClurkin announced in 2025 that he was stepping back from the music industry to focus on ministry. A farewell is rarely this deliberate, and rarely this well received.",
-        "CHARITY GAYLE went to Christmas early. \"His Name Shall Be,\" released October 23, is a 13-track worship project that sets original songs beside carols, produced by Kyle Lee and Ryan Rich. The title track draws on Isaiah 9, and the record runs from \"Repeat The Sounding Joy\" through \"Hark! The Herald Angels Sing\" to \"Emmanuel\" and \"In The Presence Of The King,\" its lead single.",
-        "ALSO THIS MONTH: JJ Hairston's \"Anthems & Prayers (Live)\" is out on all major streaming platforms, pairing congregational worship with recorded prayer. And Marvin Sapp's seventeenth album, \"Restoration,\" his first through Roc Nation Distribution, is still promised for this fall. No release date has been officially announced, so treat any date you see as unconfirmed until it comes from Sapp or Roc Nation.",
-        "Earlier this month, the 57th GMA Dove Awards in Nashville named Phil Wickham Artist of the Year, and the 41st Stellar Awards winners list put Darrel Walls on top as Artist of the Year. Gospel News Access will report Frank's new single on Friday."
-      ],
-      "facts": [
-        {
-          "label": "Forrest Frank",
-          "value": "\"The Jesus Generation,\" December 4, River House Records. New music Friday, October 30"
-        },
-        {
-          "label": "Donnie McClurkin",
-          "value": "\"FINALLY,\" released October 16, Camdon Music. His final recording"
-        },
-        {
-          "label": "Charity Gayle",
-          "value": "\"His Name Shall Be,\" released October 23. 13 tracks"
-        },
-        {
-          "label": "JJ Hairston",
-          "value": "\"Anthems & Prayers (Live),\" out now"
-        },
-        {
-          "label": "Marvin Sapp",
-          "value": "\"Restoration,\" Roc Nation Distribution. Fall 2026, date not announced"
-        }
-      ],
-      "corrections": [],
-      "status": "published",
-      "signed_off_by": "Terry Bryant, Senior Editor (directed Oct 29, 2026)"
+     "label": "On screen",
+     "value": "Music for Tyler Perry's \"The Gospel of Christmas,\" on Netflix now"
     },
     {
-      "slug": "freda-payne-catalina-legendary-ladies",
-      "title": "Freda Payne Made Time Stand Still",
-      "standfirst": "At 84, in gold lamé and black lace, she sang nine legends back into a sold-out Los Angeles room, gave thanks to God from the stage, and delivered a triumph.",
-      "dateline": "LOS ANGELES",
-      "byline": "Gospel News Access Staff",
-      "published": "2026-09-30T14:42:00Z",
-      "updated": null,
-      "image": "assets/img/freda-catalina-gold-lead.jpg",
-      "image_alt": "Freda Payne in a gold lame halter and flared trousers, leaning into the microphone under red stage light at Catalina Jazz Club",
-      "image_credit": "Freda Payne at Catalina Jazz Club, Los Angeles, September 26, 2026. Photo by Terry Bryant.",
-      "body": [
-        "One week after her eighty-fourth birthday, Freda Payne walked out at the Catalina Jazz Club in Los Angeles and made time stand still.",
-        "That is not a figure of speech. For as long as the show ran, the room stopped being a room on a Saturday night in Hollywood and became something older and softer, a place where the great women of American song were, for a while, present again.",
-        "It was an outstanding night. It was the hottest ticket in Hollywood on a weekend when the MTV Video Music Awards had every other camera in Los Angeles, and it deserved every seat in the house.",
-        "Payne’s own note, printed on the night’s running sheet, begins the way the evening felt. “Last week on September 19th, was my birthday. I am so blessed to see another year and still be working. I thank God for that.”",
-        "## Nine women, one voice",
-        "“Freda Payne Portrays and Honors Legendary Ladies of Song” was written and directed by Donald B. Welch, and it is a small masterpiece of a difficult form. Tribute shows usually feel like a museum. Welch built a living room. The idea, Payne said, was his: “He said, Freda, I want you to do this show honoring several ladies.”",
-        "The ladies were Ella Fitzgerald, Sarah Vaughan, Peggy Lee, Gloria Lynne, Dakota Staton, Lena Horne, Nancy Wilson, Dinah Washington and Eartha Kitt. Payne sang for each of them. “All these ladies were some of my favorite singers back when I started wanting to be a professional singer,” she said.",
-        "{{photo:gown}}",
-        "She opened with “How High the Moon,” Ella Fitzgerald’s signature, and sang “I Wish You Love” for Gloria Lynne, “Body and Soul” for Sarah Vaughan and “Guess Who I Saw Today” for Nancy Wilson. Each one arrived like a letter from an old friend.",
-        "## A voice that soothes",
-        "Soothing is the word that keeps coming back. Payne’s voice is unhurried and warm, and it works on a room the way a hand works on a shoulder. It is the voice of a woman who has sung for six decades and has nothing left to prove and nothing left to hide.",
-        "She described Sarah Vaughan’s voice the same way, as “like listening to a violin or a viola. Very soothing.” The two singers met, and Payne came to know her. The compliment runs both directions.",
-        "## A girl at Idlewild",
-        "The number that carried her furthest back was Dakota Staton’s “The Late Late Show.” Payne was sixteen, living in Detroit, and spending summers at Idlewild, the Black resort community in Michigan, where her mother had a cottage.",
-        "“My sister and I were allowed to go to the matinees because we couldn’t go to the nightclubs at night,” she said. “We were still in our teens. And I remember her song.”",
-        "Sixty-odd years later she sang it from a Hollywood stage, in gold, to a full house. The sixteen-year-old and the legend were in the same room, and the room was lucky to have both.",
-        "Dinah Washington, whom Payne met young and feared at first, is the other side of that memory. “I think it’s because I kind of stood up to her,” Payne said of how the older singer came around. “She could tell I was no pushover.” Washington died at thirty-nine.",
-        "## A mother and her son",
-        "The evening was announced by Payne’s son, Gregory Abbott Jr., who introduced the special guest and then his mother. He did it with the ease of a man who knows the room. She named him twice in conversation afterward, and each time it was plain which credit mattered most to her. “Most important of all too, my son.”",
-        "{{photo:robe}}",
-        "{{photo:portrait}}",
-        "## The company",
-        "Thomasina Gross opened the show as Eartha Kitt, a portrayal Payne called “spot on,” and it is. In one staged scene Gross sat at a candlelit table with two martinis and a man in a suit, and held the whole room with a stillness that the photographs catch better than any description.",
-        "{{photo:table}}",
-        "The band was of the first rank. Josh Nelson was musical director at the piano, and Payne called him one of the best. Chris Colangelo played bass, Ricky Woodard saxophone and Marcello Carelli drums. The cast also included actors Terryl DaLuz and Kyrel Jaundoo, with Chuka Aruh and Mi-cha-El Wat as escorts.",
-        "## And then, Fever",
-        "A thanksgiving is allowed to be glamorous, and this one was. For Peggy Lee, Payne sang “Fever,” and she brought two men up onto the stage to sing it with, on her own birthday weekend, in gold. She was a show-stopping diva, and she looked magnificent.",
-        "{{photo:fever}}",
-        "## Hollywood came out",
-        "Stefanie Powers and Loretta Devine were in the room, along with a good many other familiar faces from the entertainment industry. Nobody came to be seen. They came to see her, and word of the night has been moving through Los Angeles ever since.",
-        "{{photo:powers}}",
-        "Payne sails at the end of October aboard Holland America, performing on a cruise from Fort Lauderdale to Puerto Rico and back, with Darlene Love and Wayne Newton on the bill. Anyone who can get on that ship should.",
-        "She spent Saturday night saying thank you, and Los Angeles spent it saying the same thing back. It was, from first note to last, a triumph."
-      ],
-      "corrections": [],
-      "status": "published",
-      "videos": [
-        {
-          "id": "MsRGnm458fo",
-          "title": "Freda Payne at Catalina Jazz Club",
-          "caption": "Freda Payne Portrays and Honors Legendary Ladies of Song — Catalina Jazz Club, Los Angeles, September 26, 2026."
-        },
-        {
-          "id": "Iu58ZFcRw6Q",
-          "short": true,
-          "title": "Freda Payne at Catalina — performance clip",
-          "caption": "From the performance."
-        },
-        {
-          "id": "mISIKPyYvig",
-          "short": true,
-          "title": "Freda Payne at Catalina — performance clip",
-          "caption": "From the performance."
-        }
-      ],
-      "photos": [
-        {
-          "id": "gown",
-          "src": "assets/img/freda-catalina-black-gown.jpg",
-          "alt": "Freda Payne in a black lace gown with a thigh-high slit, an upright bass behind her",
-          "caption": "Freda Payne in black lace. Photo by Terry Bryant."
-        },
-        {
-          "id": "portrait",
-          "src": "assets/img/freda-catalina-gregory-portrait.jpg",
-          "alt": "Gregory Abbott Jr. in a blue satin shirt at Catalina Jazz Club",
-          "caption": "Host and announcer Gregory Abbott Jr. Photo by Terry Bryant."
-        },
-        {
-          "id": "table",
-          "src": "assets/img/freda-catalina-eartha-table.jpg",
-          "alt": "Thomasina Gross as Eartha Kitt at a candlelit table with two martinis and a man in a suit",
-          "caption": "Thomasina Gross as Eartha Kitt, in the staged table scene. Photo by Terry Bryant."
-        },
-        {
-          "id": "fever",
-          "src": "assets/img/freda-catalina-fever.jpg",
-          "alt": "Freda Payne in gold sings Fever between two dancers under red light",
-          "caption": "“Fever.” Photo by Terry Bryant."
-        },
-        {
-          "id": "powers",
-          "src": "assets/img/freda-catalina-powers.jpg",
-          "alt": "Thomasina Gross, Stefanie Powers and Freda Payne together at Catalina Jazz Club",
-          "caption": "Thomasina Gross, Stefanie Powers and Freda Payne. Photo by Terry Bryant."
-        },
-        {
-          "id": "robe",
-          "src": "assets/img/freda-catalina-gospel-lead.jpg",
-          "alt": "Freda Payne in a rose satin robe with feather cuffs and gold chandelier earrings, smiling beside her son Gregory Abbott Jr.",
-          "caption": "Freda Payne with her son, host Gregory Abbott Jr. Photo by Terry Bryant."
-        }
-      ],
-      "credits": [
-        {
-          "role": "Production",
-          "names": "Freda Payne Portrays and Honors Legendary Ladies of Song"
-        },
-        {
-          "role": "Presented by",
-          "names": "Don B. Welch"
-        },
-        {
-          "role": "Written and directed by",
-          "names": "Donald B. Welch"
-        },
-        {
-          "role": "Starring",
-          "names": "Freda Payne"
-        },
-        {
-          "role": "Special guest",
-          "names": "Thomasina Gross as Eartha Kitt"
-        },
-        {
-          "role": "Host and announcer",
-          "names": "Gregory Abbott Jr."
-        },
-        {
-          "role": "Actors",
-          "names": "Terryl DaLuz, Kyrel Jaundoo"
-        },
-        {
-          "role": "Escorts",
-          "names": "Chuka Aruh, Mi-cha-El Wat"
-        },
-        {
-          "role": "Musical director and piano",
-          "names": "Josh Nelson"
-        },
-        {
-          "role": "Bass",
-          "names": "Chris Colangelo"
-        },
-        {
-          "role": "Saxophone",
-          "names": "Ricky Woodard"
-        },
-        {
-          "role": "Drums",
-          "names": "Marcello Carelli"
-        },
-        {
-          "role": "Honoring",
-          "names": "Ella Fitzgerald, Sarah Vaughan, Peggy Lee, Gloria Lynne, Dakota Staton, Lena Horne, Nancy Wilson, Dinah Washington, Eartha Kitt"
-        },
-        {
-          "role": "Venue",
-          "names": "Catalina Jazz Club, 6725 Sunset Blvd, Los Angeles"
-        },
-        {
-          "role": "Date",
-          "names": "Saturday, September 26, 2026"
-        },
-        {
-          "role": "Photographs",
-          "names": "Terry Bryant"
-        }
-      ],
-      "feature": false,
-      "feature_image": "assets/img/freda-catalina-gold-lead.jpg",
-      "feature_focus": "50% 20%",
-      "feature_layout": "portrait",
-      "facts": [
-        {
-          "label": "Show",
-          "value": "Freda Payne Portrays and Honors Legendary Ladies of Song"
-        },
-        {
-          "label": "Date",
-          "value": "Saturday, September 26, 2026"
-        },
-        {
-          "label": "Venue",
-          "value": "Catalina Jazz Club, 6725 Sunset Blvd., Los Angeles"
-        },
-        {
-          "label": "Written and directed by",
-          "value": "Donald B. Welch"
-        },
-        {
-          "label": "Status",
-          "value": "Sold out"
-        }
-      ]
+     "label": "Next",
+     "value": "Grammy nominations, Monday, November 16"
     },
     {
-      "slug": "vmas-2026-taylor-swift-madonna-winners",
-      "title": "Taylor Swift takes a sixth Video of the Year at the VMAs; Madonna wins seven",
-      "standfirst": "The 2026 MTV Video Music Awards ran Sunday night from the Peacock Theater in Los Angeles. Snoop Dogg hosted. Madonna opened the show for the first time in twenty-three years.",
-      "dateline": "LOS ANGELES",
-      "byline": "Gospel News Access Staff",
-      "published": "2026-09-29T04:00:00Z",
-      "updated": null,
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "Taylor Swift won Video of the Year at the 2026 MTV Video Music Awards on Sunday night for “The Fate of Ophelia,” her sixth win in the category and a record no other artist has matched. She thanked Dolly Parton from the stage.",
-        "Madonna was the evening’s biggest winner with seven awards, among them Artist of the Year for “Confessions II,” the sequel to her 2005 album. She opened the ceremony with her first VMAs performance in twenty-three years, and had arrived the most-nominated artist of the night with thirteen, a career high.",
-        "Snoop Dogg hosted from the Peacock Theater in downtown Los Angeles.",
-        "Swift also took Best Director for “Opalite” and received the inaugural Artist Director Honors, a category created this year for work that builds connected narratives across a body of work. She premiered the video for “Patient Zero” during the broadcast.",
-        "LISA won Best Pop for “Dream,” featuring Kentaro Sakaguchi. Cardi B, featuring Kehlani, won Best Hip-Hop for “Safe.” Nirvana received the Michael Jackson Video Vanguard Award.",
-        "Kacey Musgraves performed a tribute to Dolly Parton. Raye, sombr and Teddy Swims performed a tribute to George Michael.",
-        "Reported by the Music Desk of Newswire Hollywood and carried here by arrangement. Full coverage, including the red carpet, is at newswirehollywood.com."
-      ],
-      "corrections": [],
-      "status": "published",
-      "facts": [
-        {
-          "label": "Event",
-          "value": "2026 MTV Video Music Awards"
-        },
-        {
-          "label": "Date",
-          "value": "Sunday, September 27, 2026"
-        },
-        {
-          "label": "Venue",
-          "value": "Peacock Theater, Los Angeles"
-        },
-        {
-          "label": "Host",
-          "value": "Snoop Dogg"
-        },
-        {
-          "label": "Video of the Year",
-          "value": "Taylor Swift, “The Fate of Ophelia”"
-        },
-        {
-          "label": "Biggest winner",
-          "value": "Madonna, 7 awards"
-        }
-      ]
-    },
-    {
-      "slug": "yom-kippur-2026-day-of-atonement",
-      "title": "Yom Kippur 2026 ended Monday night, closing the Ten Days of Repentance",
-      "standfirst": "The holiest day in the Jewish year began at sundown on Sunday, September 20 and ended at nightfall on Monday, September 21. It is observed with a fast of roughly 25 hours.",
-      "dateline": null,
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-09-23T03:30:00Z",
-      "updated": null,
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "Yom Kippur, the Day of Atonement and the holiest day of the Jewish year, began at sundown on Sunday, September 20, 2026 and ended at nightfall on Monday, September 21.",
-        "The day closes the Ten Days of Repentance, the period that opened with Rosh Hashanah, the Jewish New Year, which this year began at sundown on Friday, September 11 and ran through the evening of Sunday, September 13. Together Rosh Hashanah and Yom Kippur are known as the High Holy Days, and the days between them are also called the Days of Awe.",
-        "Yom Kippur is observed with a fast of roughly 25 hours — no food and no drink from before sundown until after nightfall the following day — and with extended prayer in synagogue. The themes of the day are repentance, atonement and forgiveness: the turning of a person toward God and toward the people they have wronged. The observance is set out in the Hebrew Bible, in Leviticus 16 and Leviticus 23, which appoint the tenth day of the seventh month as a day of atonement and of self-denial.",
-        "Because the Jewish calendar is lunisolar, the date moves against the civil calendar each year. In the Hebrew reckoning the day that has just passed was Yom Kippur of the year 5787.",
-        "A note for our readers on why this is in a gospel newspaper: Yom Kippur is a Jewish holy day, kept by the Jewish community, and Gospel News Access reports it as what it is rather than as a borrowed occasion. Christian readers may recognise the Day of Atonement as the image the New Testament letter to the Hebrews reaches for when it writes about a single sacrifice and a high priest entering the holy place. That is a point about two texts and the relationship between them. It is not a claim about how anyone observed this week, and it is not an invitation to treat someone else's holy day as a figure of speech.",
-        "Gospel News Access has not reported that any gospel artist, church or denomination marked Yom Kippur 2026, because we have not sourced such an observance. Where we can source one, we will report it and name it.",
-        "Sources for the dates and the practices in this report: Hebcal's Jewish calendar, Chabad.org, Reform Judaism and the Jewish Virtual Library entries for Yom Kippur 5787."
-      ],
-      "corrections": [],
-      "status": "published",
-      "facts": [
-        {
-          "label": "Observance",
-          "value": "Yom Kippur, the Day of Atonement"
-        },
-        {
-          "label": "Began",
-          "value": "Sundown, Sunday, September 20, 2026"
-        },
-        {
-          "label": "Ended",
-          "value": "Nightfall, Monday, September 21, 2026"
-        },
-        {
-          "label": "Fast",
-          "value": "About 25 hours"
-        },
-        {
-          "label": "Scripture",
-          "value": "Leviticus 16 and 23"
-        }
-      ]
-    },
-    {
-      "slug": "stellar-awards-41-syndication-dove-awards-october",
-      "title": "The 41st Stellar Awards are still airing across the country, and the Doves are two weeks out",
-      "standfirst": "Lisa Knowles-Smith took five. Darrel Walls took Artist of the Year. The broadcast syndication window runs through September 27, and the 57th GMA Dove Awards follow on October 6 with a Richard Smallwood tribute.",
-      "dateline": null,
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-09-23T03:35:00Z",
-      "updated": null,
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "If you have not seen the 41st Annual Stellar Gospel Music Awards yet, you have not missed them. The ceremony was taped on Saturday, August 15, 2026 at the Spectrum Center in Charlotte, North Carolina, and it is still working its way across the country: after premiering on The Stellar Network on August 29 and on BET on August 30, the show went into national broadcast syndication from September 5 through September 27. That window is open right now. Air dates and times vary by market, so the listing to check is your own local station's.",
-        "Kirk Franklin hosted. The theme was \"Feels Like Home.\"",
-        "The night belonged to Lisa Knowles-Smith, who won five awards — four of them for \"Revival: Live in Dallas,\" recorded with The Brown Singers. She took the Albertina Walker Female Artist of the Year award; Duo/Chorus/Group of the Year and Quartet of the Year with The Brown Singers; Producer of the Year alongside Frederick Perry; and Song of the Year for \"Promises (Live),\" which she wrote under her given name, Alescia Knowles-Smith. For a group with the history the Brown Singers have, five trophies in one night is a career marker, and it was widely reported as a first for them at this scale.",
-        "Darrel Walls won Artist of the Year and Contemporary Male Artist of the Year, both for \"Heart of Mine\" — the same record that opened his year with a Grammy for Best Gospel Album.",
-        "Vincent Bohanan & SOV won three, including Album of the Year for \"Live in New York,\" with further wins in the choir categories. Jonathan McReynolds, John P. Kee and Jekalyn Carr each won more than once — McReynolds for \"Still (Live)\" featuring Jamal Roberts, Kee for \"Throwback: An Evening With John P. Kee Part I,\" and Carr for \"Jekalyn X The Legends.\" In the hip-hop categories, Lecrae won Rap/Hip Hop Gospel Album of the Year for \"Reconstruction\" and JustCordell won Rap/Hip Hop Song of the Year for \"Movin.\"",
-        "Two honours were given outside the competitive categories. Tasha Cobbs Leonard received the Aretha Franklin Icon Award. Pastor Mike Jr. received the Thomas A. Dorsey Most Notable Achievement Award.",
-        "WHAT IS NEXT: the 57th Annual GMA Dove Awards are on Tuesday, October 6, 2026 at Bridgestone Arena in Nashville. The broadcast airs on TBN and the TBN+ app on Friday, October 9 at 7:30 p.m. and 10 p.m. Eastern, simulcast on SiriusXM The Message.",
-        "The Doves have announced a tribute to Richard Smallwood featuring Jonathan McReynolds, Kierra Sheard and Donald Lawrence, together with original members of Smallwood's ensemble Vision — among them Maurette Brown Clark and Ted Winn — with Percy Bady as musical director. Tasha Cobbs Leonard is among the announced performers. Anthony Brown, CeCe Winans and Lisa Knowles-Smith are among the announced presenters.",
-        "Knowles-Smith arrives in Nashville holding her first two Dove nominations: Traditional Gospel Recorded Song of the Year for \"Promises,\" and Traditional Gospel Album of the Year for \"Revival: Live in Dallas.\" Five Stellars in August and a first Dove nomination in October is the kind of run that usually reshapes a touring calendar.",
-        "How this was sourced: the Stellar winners and ceremony details are drawn from the Gospel Music Association (gospelmusic.org), Billboard's published winners list, the Stellar Awards' own site and the Journal of Gospel Music. The Dove Awards date, venue, broadcast details, performers and presenters are drawn from the Gospel Music Association's announcements and Bridgestone Arena's event listing. Gospel News Access did not attend either ceremony and does not report as though it did."
-      ],
-      "corrections": [],
-      "status": "published",
-      "facts": [
-        {
-          "label": "Event",
-          "value": "41st Annual Stellar Gospel Music Awards"
-        },
-        {
-          "label": "Taped",
-          "value": "August 15, 2026, Spectrum Center, Charlotte, N.C."
-        },
-        {
-          "label": "Host",
-          "value": "Kirk Franklin"
-        },
-        {
-          "label": "Premiered",
-          "value": "The Stellar Network, Aug. 29; BET, Aug. 30"
-        },
-        {
-          "label": "Syndication",
-          "value": "September 5–27, 2026"
-        },
-        {
-          "label": "Next",
-          "value": "57th GMA Dove Awards, October 6"
-        }
-      ]
-    },
-    {
-      "slug": "stellar-awards-41-syndication-closes-september-27",
-      "title": "Last call: the 41st Stellar Awards leave broadcast syndication on Sunday",
-      "standfirst": "The syndication window that has carried the ceremony across local stations since September 5 closes September 27. If it has not aired in your market yet, this weekend is the end of the run.",
-      "dateline": null,
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-09-26T23:50:00Z",
-      "updated": null,
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "The 41st Annual Stellar Gospel Music Awards close their national broadcast syndication run on Sunday, September 27. The window opened on September 5, and for three weeks local stations have been slotting the ceremony into their own schedules — which is why it has aired on different nights in different cities, and why some markets are only getting to it now.",
-        "If you have been meaning to watch it, this is the weekend. Air dates and times vary by market, so the only reliable listing is your own local station's.",
-        "The ceremony was taped on Saturday, August 15, 2026 at the Spectrum Center in Charlotte, North Carolina. Kirk Franklin hosted. The theme was \"Feels Like Home.\" It premiered on The Stellar Network on August 29 and on BET on August 30 before entering syndication.",
-        "WHAT YOU ARE WATCHING FOR: Lisa Knowles-Smith won five awards, four of them for \"Revival: Live in Dallas\" with The Brown Singers — the Albertina Walker Female Artist of the Year award, Duo/Chorus/Group of the Year and Quartet of the Year with The Brown Singers, Producer of the Year with Frederick Perry, and Song of the Year for \"Promises (Live).\"",
-        "Darrel Walls won Artist of the Year and Contemporary Male Artist of the Year for \"Heart of Mine.\" Vincent Bohanan & SOV won three, including Album of the Year for \"Live in New York.\" Jonathan McReynolds, John P. Kee and Jekalyn Carr each won more than once.",
-        "Two honours were given outside the competitive categories: Tasha Cobbs Leonard received the Aretha Franklin Icon Award, and Pastor Mike Jr. received the Thomas A. Dorsey Most Notable Achievement Award.",
-        "After Sunday the next date on the calendar is the 57th Annual GMA Dove Awards, on Tuesday, October 6 at Bridgestone Arena in Nashville, with the broadcast on TBN and the TBN+ app on Friday, October 9.",
-        "How this was sourced: the syndication window, ceremony details and winners are drawn from the Gospel Music Association, Billboard's published winners list, the Stellar Awards' own site and Central City Productions, which distributes the show. Gospel News Access did not attend the ceremony and does not report as though it did. We do not hold a market-by-market broadcast schedule and are not publishing one, because a wrong airtime is worse than none."
-      ],
-      "corrections": [],
-      "status": "published",
-      "facts": [
-        {
-          "label": "Event",
-          "value": "41st Annual Stellar Gospel Music Awards"
-        },
-        {
-          "label": "Taped",
-          "value": "August 15, 2026, Spectrum Center, Charlotte, N.C."
-        },
-        {
-          "label": "Host",
-          "value": "Kirk Franklin"
-        },
-        {
-          "label": "Premiered",
-          "value": "The Stellar Network, Aug. 29; BET, Aug. 30"
-        },
-        {
-          "label": "Syndication ends",
-          "value": "Sunday, September 27, 2026"
-        }
-      ]
-    },
-    {
-      "slug": "gospel-week-september-26-2026",
-      "title": "The gospel world this week: Tasha goes unscripted, Anthony Brown returns, Gaither gets a tribute",
-      "standfirst": "A 34-track live album out of Atlanta, a seventh record after a three-year silence, and a Nashville red carpet for the Gaither songbook. What actually happened in gospel music this month.",
-      "dateline": null,
-      "byline": "the Gospel Desk, Gospel News Access",
-      "published": "2026-09-26T23:52:00Z",
-      "updated": "2026-09-26T23:55:00Z",
-      "image": null,
-      "image_alt": "",
-      "image_credit": "",
-      "body": [
-        "TASHA COBBS LEONARD went back to Atlanta and did not plan it too tightly. \"Tasha Unscripted,\" released September 11 on Motown Gospel and Capitol Christian Music Group, runs 34 tracks recorded before a live audience — more than a decade of her catalogue revisited, with room left for new arrangements and unrehearsed worship to go wherever it went.",
-        "The guest list is close to a census of contemporary gospel: Jonathan McReynolds, Karen Clark Sheard, Kierra Sheard, Israel Houghton, William Murphy, Le'Andria Johnson, Travis Greene, Dante Bowe, Melvin Crispell III, Jonathan Nelson and Lisa Knowles-Smith all appear, along with country singer Mickey Guyton. Her Unscripted Nights tour opened the same day in Charlotte to a sold-out house and its announced routing runs through tonight, having passed through Brunswick, Atlanta, Washington, Dallas, Raleigh and New York.",
-        "It has been a long few weeks for Cobbs Leonard. She collected the Aretha Franklin Icon Award at the Stellar Awards in August, and she is among the announced performers at the Dove Awards in October.",
-        "ANTHONY BROWN & GROUP THERAPY broke a three-year recording silence on September 18 with \"Disclosure,\" their seventh album, on A Major Entertainment with Tyscot and Fair Trade Services. It is ten songs, produced by David \"Glo\" Outing II with Brown co-producing, and it moves between urban contemporary grooves and full orchestral ballads rather than picking one.",
-        "The lead radio single, \"Always Be Good,\" has climbed into the top five of both the Billboard and Mediabase gospel airplay charts, according to the label's announcement. Pre-orders had been open since August 14.",
-        "THE GAITHER SONGBOOK got its own night. \"You Are Loved: A Tribute To The Songs Of Bill & Gloria Gaither\" was released September 25 on DVD, CD and digital, and Gaither Music marked it with a red carpet screening in Nashville for artists and industry guests. The Gaither catalogue has been a shared inheritance across Southern gospel, Black gospel and country for six decades, and a tribute record is overdue rather than early.",
-        "ALSO THIS WEEK: The Edwards Family release \"Even Till The End\" digitally on September 28. And Brothers of the Heart — Jimmy Fortune, Bradley Walker, Mike Rogers and Ben Isaacs — are on the bill at Eric Clapton's Crossroads Guitar Festival at the Moody Center in Austin on September 26 and 27, which is not where a Gaither Music quartet usually turns up.",
-        "ONE THING TO GET RIGHT: a headline moving this week has Kirk Franklin joining the SoundExchange Hall of Fame. The honour is real — SoundExchange recognised Franklin as one of the most-streamed artists across its two decades of administering digital performance royalties, an award whose recipients include Mariah Carey, Billy Joel and Usher, and it was presented to him backstage at HBCU Awarefest at State Farm Arena in Atlanta. It is not news from this week, though: SoundExchange announced it in April 2026. What moved this week was a re-report of it. We are spelling that out because our own wire is carrying the later item, and a reader could reasonably take it for a fresh announcement.",
-        "TWO DATES TO KEEP: the 41st Stellar Awards leave broadcast syndication on Sunday, September 27, closing the window that opened on September 5. And the 57th Annual GMA Dove Awards are on Tuesday, October 6 at Bridgestone Arena in Nashville, broadcasting on TBN and the TBN+ app on Friday, October 9 at 7:30 and 10 p.m. Eastern, simulcast on SiriusXM The Message. The Doves will carry a tribute to Richard Smallwood featuring Jonathan McReynolds, Kierra Sheard and Donald Lawrence with original members of his ensemble Vision.",
-        "One thread worth following: Lisa Knowles-Smith took five Stellars in August, holds her first two Dove nominations next month, and turns up as a guest on \"Tasha Unscripted.\" After a career spent largely outside the spotlight, she is having the kind of year that rearranges a touring calendar.",
-        "How this was sourced: release dates, labels, credits, track counts and guest lists are drawn from the artists' and labels' own announcements, Shore Fire Media, Billboard, the Gospel Music Association, Gaither Music and The Urban Music Scene. Chart positions are as stated in the label's announcement and are not our own measurement; the GNA charts are published separately and on their own methodology. The SoundExchange award and its April announcement date are from SoundExchange's own release and the Gospel Music Association. Gospel News Access attended none of these events and does not report as though it did."
-      ],
-      "corrections": [],
-      "status": "published"
+     "label": "Sources",
+     "value": "Ebony / PR Newswire, The Shade Room, Associated Press, The Christian Post, iHeart, DancehallMag, PhillyVoice, Recording Academy"
     }
-  ]
+   ],
+   "body": [
+    "Kirk Franklin came to the Hollywood Palladium to sing. He left with the dance clip everybody is sending to their group chat.",
+    "On Monday night, November 9, Franklin opened the 2026 Ebony Power 100 Gala in Los Angeles with his song \"Revolution,\" according to Ebony's announcement of the night, carried by PR Newswire. Tisha Campbell hosted. Jay-Z, Megan Thee Stallion, Alicia Keys and Keke Palmer were among the honorees.",
+    "## The dance everybody is talking about",
+    "Somewhere between the songs, Franklin and Debbie Allen, honored that night in Ebony's Artist in Residence category, broke into a dance together. The Shade Room posted the clip, and fans have not stopped laughing and replaying it since.",
+    "Our GNA family knows this already: gospel was never meant to sit still. \"Praise him with the timbrel and dance\" (Psalm 150:4).",
+    "## The album behind the moment",
+    "The joy has a soundtrack. Franklin released \"I Am What I Am\" on October 30, his first double album, with seven studio songs and seven live recordings, according to iHeart and the album's release notes.",
+    "The studio side reaches far past church walls: Jelly Roll on \"Free Me Tonight,\" GloRilla on \"This Time,\" Nigerian superstar Davido on \"Hope In You\" and Tobe Nwigwe on \"It Gets Better.\" The live side goes straight back to the choir stand, with \"It Is Well\" and Karen Clark Sheard on \"Thank You For Everything.\" DancehallMag reports \"Hope In You\" has debuted on a Nigerian chart.",
+    "The Associated Press described the album as Franklin no longer apologizing for his musical choices. He told The Christian Post he is \"older\" and \"freer now,\" and in recent interviews he has spoken openly about family regrets and about learning to live from God's grace instead of fear.",
+    "## On screen and on stage",
+    "Franklin produced the music for Tyler Perry's \"The Gospel of Christmas,\" streaming on Netflix now, with Fantasia and Tank leading a cast full of gospel legends. PhillyVoice reports he will also perform at Philadelphia's holiday tree lighting with Kristin Chenoweth.",
+    "## Why it matters",
+    "For three decades Franklin has carried gospel into rooms that did not expect it. This week he did it in Hollywood's biggest Black excellence celebration, on the world's biggest streaming service and on a Nigerian chart, all at once.",
+    "The Grammy nominations arrive Monday, November 16. GNA family: which song from \"I Am What I Am\" is on repeat in your house?"
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
+   "revenue_angle": "Album and soundtrack affiliate links (I Am What I Am, The Gospel of Christmas soundtrack) once listed; gospel concert and tour sponsors; Grammy-week traffic.",
+   "status": "published"
+  },
+  {
+   "slug": "cogic-118th-holy-convocation-st-louis-answering-the-call",
+   "title": "COGIC's 118th Holy Convocation Closes in St. Louis After 8 Days of Prayer, Preaching and 'Answering the Call'",
+   "standfirst": "It began with an all-night prayer service and ended Tuesday, with Presiding Bishop J. Drew Sheard telling the saints to know the difference between what is trending and what is truth. Were you in St. Louis this week?",
+   "dateline": "ST. LOUIS, Missouri",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T12:45:00Z",
+   "updated": null,
+   "image": "assets/img/cogic-holy-convocation-2026-mason-temple.jpg",
+   "image_alt": "Worshippers standing beneath a lit neon cross and the flags of many nations inside Mason Temple",
+   "image_credit": "Worshippers inside Mason Temple in Memphis, the Church of God in Christ's historic mother church, in 2024. Photo: Alguyton, CC0, via Wikimedia Commons (commons.wikimedia.org/wiki/File:Mason_Temple_COGIC.jpg)",
+   "photo_source": "https://commons.wikimedia.org/wiki/File:Mason_Temple_COGIC.jpg",
+   "photo_licence": "CC0 1.0 (public domain dedication)",
+   "photo_author": "Alguyton",
+   "feature": false,
+   "facts": [
+    {
+     "label": "Event",
+     "value": "118th Holy Convocation of the Church of God in Christ"
+    },
+    {
+     "label": "When",
+     "value": "November 3 to 10, 2026"
+    },
+    {
+     "label": "Where",
+     "value": "America's Center Convention Complex, St. Louis"
+    },
+    {
+     "label": "Theme",
+     "value": "\"Answering the Call\""
+    },
+    {
+     "label": "Presiding Bishop",
+     "value": "Bishop J. Drew Sheard"
+    },
+    {
+     "label": "Community outreach",
+     "value": "Giveaway of clothes, toys and other items with the St. Louis Urban League, World Vision and Catholic Charities"
+    },
+    {
+     "label": "Local impact",
+     "value": "About $31 million in local spending this year, per Explore St. Louis"
+    },
+    {
+     "label": "Sources",
+     "value": "Church of God in Christ (cogic.org), St. Louis American, KSDK, Tri-State Defender"
+    }
+   ],
+   "body": [
+    "It started with saints on their knees all night. It ended with them heading home ready to go.",
+    "The Church of God in Christ closed its 118th Holy Convocation in St. Louis on Tuesday, November 10, after eight days of business sessions, worship services and music at America's Center Convention Complex, according to COGIC and KSDK. This year's theme was \"Answering the Call.\"",
+    "## It began in prayer",
+    "Day One opened with a pre-convention meeting and then an all-night prayer service that COGIC says set the tone for the week. Presiding Bishop J. Drew Sheard, Mother Frances Kelley and Bishop Larry Perkins helped lead it, according to the church's official recap.",
+    "The mornings belonged to the Word. Supt. Courtney Sanders Jr. brought \"Detour To My Destiny\" at Morning Manna on Day Three, and Bishop Sheard himself taught \"What We Believe\" on Day Four, COGIC reported.",
+    "## A word for this moment",
+    "The St. Louis American reported that Bishop Sheard warned the saints about social media and urged them to \"discern between what is trending and what is truth.\" It is a word for all of us, GNA family, not just those in the convention hall.",
+    "## Faith with its sleeves rolled up",
+    "Before the first service, COGIC took the gospel to the streets. The St. Louis American reported a community giveaway with the St. Louis Urban League, World Vision and Catholic Charities, bringing truckloads of clothes, toys and other items to St. Louis families. The paper also reported a push this year on Black men's health.",
+    "## Why St. Louis",
+    "COGIC's General Assembly voted to hold the Convocation in St. Louis from 2026 through 2028 after the church could not reach satisfactory agreements with Memphis leaders and the local hospitality industry, according to COGIC and the Tri-State Defender. Explore St. Louis estimates about $31 million in local spending from this year's gathering.",
+    "\"St. Louis has welcomed the Church of God in Christ with open arms, and we are grateful to return to this great city,\" Bishop Sheard said in the church's announcement.",
+    "## The roots",
+    "COGIC was built under Bishop Charles Harrison Mason, and its mother church, Mason Temple in Memphis, is where Dr. Martin Luther King Jr. preached \"I've Been to the Mountaintop\" on April 3, 1968, the night before he was killed. That is the heritage that filled a convention center this week.",
+    "\"Here am I; send me\" (Isaiah 6:8).",
+    "The Convocation returns to St. Louis next November. Saints, what word from this year is still ringing in your spirit?"
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
+   "revenue_angle": "Church and denominational audience; convention-season sponsors (travel, hospitality, Black-owned businesses); future Convocation coverage packages.",
+   "status": "published"
+  },
+  {
+   "slug": "pope-leo-argentina-youth-vigil-who-told-you-it-was-too-late",
+   "title": "'Who Told You It Was Too Late?' Pope Leo XIV Tells 1 Million Young People in Buenos Aires No One Is Too Far Gone",
+   "standfirst": "A young woman's testimony became the question of the night, and roughly a million young people heard the Pope answer it: no one has fallen so low that Christ cannot raise them up. Who in your life needs to hear that today?",
+   "dateline": "BUENOS AIRES, Argentina",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T12:40:00Z",
+   "updated": null,
+   "image": "assets/img/pope-leo-argentina-2026-popemobile.jpg",
+   "image_alt": "Pope Leo XIV waves from the popemobile as a huge crowd with Argentine and Vatican flags reaches toward him",
+   "image_credit": "Pope Leo XIV greets crowds from the popemobile in Palermo, Buenos Aires, before Mass on November 9, 2026. Photo: Gobierno de la Ciudad de Buenos Aires, CC BY 2.5 AR, via Wikimedia Commons (commons.wikimedia.org/wiki/File:León_XIV_papamóvil_Argentina_1.jpg)",
+   "photo_source": "https://commons.wikimedia.org/wiki/File:Le%C3%B3n_XIV_papam%C3%B3vil_Argentina_1.jpg",
+   "photo_licence": "CC BY 2.5 AR",
+   "photo_author": "Gobierno de la Ciudad de Buenos Aires",
+   "feature": false,
+   "facts": [
+    {
+     "label": "Event",
+     "value": "Prayer vigil with young people, Pope Leo XIV's apostolic journey to Argentina"
+    },
+    {
+     "label": "When",
+     "value": "Tuesday night, November 10, 2026"
+    },
+    {
+     "label": "Where",
+     "value": "Monumento de los Españoles, Buenos Aires"
+    },
+    {
+     "label": "Crowd",
+     "value": "About 1 million young people, per Vatican News and OSV News"
+    },
+    {
+     "label": "The question",
+     "value": "\"Who told you it was too late?\""
+    },
+    {
+     "label": "Today",
+     "value": "A prison visit and Mass at the Basilica of Our Lady of Luján, then on to Peru (Associated Press)"
+    },
+    {
+     "label": "Sources",
+     "value": "Vatican News, the Holy See's published text, OSV News, America Magazine, Associated Press"
+    }
+   ],
+   "body": [
+    "One question changed a young woman's life. On Tuesday night, the Pope asked it of a million more.",
+    "Pope Leo XIV held a prayer vigil with young people at the Monumento de los Españoles in Buenos Aires on November 10. Vatican News and OSV News put the crowd at about 1 million.",
+    "## The question",
+    "The night's theme came from a testimony. Guadalupe, a 31-year-old postulant, told the crowd she had resisted a calling she had sensed since childhood until a spiritual director asked her: \"Who told you it was too late?\" She said that question gave her hope back and showed her \"a God who knows how to wait,\" Vatican News reported.",
+    "The Pope picked up her question and handed it to every young person who believes they have wandered too far, or who feels they have no place in the church. No one has \"fallen so low that Christ cannot raise them up,\" he said, according to Vatican News. And do not wait until your life is in order to come home.",
+    "GNA family, that is the gospel in one sentence. \"But when he was yet a great way off, his father saw him, and had compassion, and ran\" (Luke 15:20).",
+    "## The idols of our time",
+    "Pope Leo also warned the young people about modern idols: success at any cost, money, an obsession with appearance, popularity and the endless chase for pleasure, Vatican News reported.",
+    "His charge was simple. \"Become saints,\" he told them, according to OSV News. Before blessing a cross that will now travel among Argentina's Catholic communities, he sent them out with the second half of the visit's motto: \"Go and proclaim!\"",
+    "\"May your lives become pages of the Gospel, written in the ink of mercy,\" he said.",
+    "## Why it matters",
+    "This is Pope Leo's first visit to Argentina as pope. The first pope from the United States, he served for years as a missionary in Peru, and he came to the homeland of the late Pope Francis, who never returned to Argentina during his papacy. OSV News reported that the Pope's Mass on the same grounds a day earlier drew about 2.5 million people.",
+    "## What's next",
+    "On Wednesday, November 11, his final day in Argentina, the Pope is scheduled to visit a prison and celebrate Mass at the Basilica of Our Lady of Luján before flying on to Peru, the Associated Press reported.",
+    "Somebody reading this thinks it is too late for them. It is not. Who are you praying for to come home? Tell us in the comments."
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
+   "revenue_angle": "Global faith audience and international search traffic; youth ministry and faith-travel sponsors; reel engagement for Facebook and Instagram payouts.",
+   "status": "published"
+  },
+  {
+   "slug": "israel-houghton-new-breed-tura-meghalaya-gospel-fest-grammy-nominations",
+   "title": "Israel Houghton Takes Worship to Northeast India in Garo Attire, Then Heads to the Grammy Nominations",
+   "standfirst": "Israel & New Breed closed Gospel Fest 2026 with a stadium night of praise in Tura, Meghalaya, with the state's chief minister in the crowd. Next Monday, Houghton helps reveal the 2027 Grammy nominees. Have you ever worshipped in another language?",
+   "dateline": "TURA, Meghalaya, India",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T12:35:00Z",
+   "updated": null,
+   "image": "assets/img/israel-houghton-worship-2026.jpg",
+   "image_alt": "Israel Houghton points upward while playing guitar under stage lights",
+   "image_credit": "Israel Houghton leading worship at the Saved Festival in Manila, Philippines, in 2014. Photo: ARIC2006, CC BY-SA 3.0, via Wikimedia Commons (commons.wikimedia.org/wiki/File:Israel_Houghton,_from_Saved_Festival_2014.jpg)",
+   "photo_source": "https://commons.wikimedia.org/wiki/File:Israel_Houghton,_from_Saved_Festival_2014.jpg",
+   "photo_licence": "CC BY-SA 3.0",
+   "photo_author": "ARIC2006",
+   "feature": false,
+   "facts": [
+    {
+     "label": "Event",
+     "value": "Gospel Fest 2026 finale"
+    },
+    {
+     "label": "When",
+     "value": "Monday, November 9, 2026"
+    },
+    {
+     "label": "Where",
+     "value": "P. A. Sangma Stadium, Tura, West Garo Hills, Meghalaya, India"
+    },
+    {
+     "label": "Led by",
+     "value": "Israel Houghton and New Breed"
+    },
+    {
+     "label": "In the crowd",
+     "value": "Meghalaya Chief Minister Conrad K. Sangma"
+    },
+    {
+     "label": "Next",
+     "value": "Presenter at the 2027 Grammy nominations, Monday, November 16"
+    },
+    {
+     "label": "Sources",
+     "value": "Meghalaya Monitor, Hub Network, The Shillong Times, India Today NE, Recording Academy (grammy.com), Gospel Music Association"
+    }
+   ],
+   "body": [
+    "Israel Houghton has led worship on almost every continent. On Monday night, he did it in Garo attire.",
+    "Houghton and New Breed closed Gospel Fest 2026 with an evening of praise and worship at the P. A. Sangma Stadium in Tura, in India's northeastern state of Meghalaya, on November 9, according to Meghalaya Monitor and Hub Network.",
+    "Hub Network reported that Houghton and his band wore traditional Garo cultural attire for the finale, which also showcased Garo culture.",
+    "## A state that sings",
+    "Meghalaya Chief Minister Conrad K. Sangma was in the crowd. Meghalaya Monitor reported that he praised the people's participation and spoke about the church's role in nurturing the state's love of music.",
+    "The Shillong Times reported earlier this month that the state government was planning gospel concerts across the Khasi and Garo Hills, with the Garo Hills event organized together with the Baptist Church. India Today NE reported that the chief minister inspected the preparations in Tura himself.",
+    "Meghalaya is one of the few states in India where most people are Christian, and its churches are known for their choirs. A Grammy-winning worship leader filling a stadium there is a picture of how far the gospel travels.",
+    "\"After this I beheld, and, lo, a great multitude, which no man could number, of all nations, and kindreds, and people, and tongues\" (Revelation 7:9).",
+    "## Next stop: the Grammys",
+    "Houghton now heads to music's biggest morning. The Recording Academy has named him among the presenters who will reveal the 2027 Grammy nominations on Monday, November 16, alongside artists including Olivia Dean, Pharrell Williams, Herbie Hancock, Kehlani, Juanes and Carly Pearce, according to grammy.com and the Gospel Music Association. The full list posts at 9 a.m. Eastern on grammy.com.",
+    "Israel & New Breed won Best Contemporary Christian Music Album at this year's Grammys for their Spanish-language album \"Coritos Vol. 1.\"",
+    "## Why it matters",
+    "Gospel is not just an American sound. From Tura to Buenos Aires to Lagos, believers are singing the same songs this week in their own languages. GNA family, where in the world would you love to worship with believers from another culture?"
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
+   "revenue_angle": "International gospel audience (India, Philippines, Africa); Grammy-week search traffic; Israel & New Breed album affiliate links.",
+   "status": "published"
+  },
+  {
+   "slug": "the-chosen-season-6-prime-video-faith-watchlist-promised-land",
+   "title": "'The Chosen' Season 6 Takes Jesus to the Cross Saturday on Prime Video: Your Faith and Gospel Watchlist for the Week",
+   "standfirst": "Season six covers Jesus' final day, three episodes drop November 15, and the finale is headed to theaters. Plus a Moses workplace comedy, a gospel Christmas musical and a country star's film debut. What are you watching first?",
+   "dateline": "LOS ANGELES, California",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T12:30:00Z",
+   "updated": null,
+   "image": "assets/img/the-chosen-season-6-jonathan-roumie.jpg",
+   "image_alt": "Jonathan Roumie in a tuxedo on a red carpet",
+   "image_credit": "Jonathan Roumie, who plays Jesus in \"The Chosen,\" at the Movieguide Awards in 2020. Photo: Movieguide, CC BY-SA 2.0, via Wikimedia Commons (commons.wikimedia.org/wiki/File:Jonathan_Roumie.jpg)",
+   "photo_source": "https://commons.wikimedia.org/wiki/File:Jonathan_Roumie.jpg",
+   "photo_licence": "CC BY-SA 2.0",
+   "photo_author": "Movieguide",
+   "feature": false,
+   "photos": [
+    {
+     "id": "fantasia",
+     "src": "assets/img/fantasia-performing-2017.jpg",
+     "alt": "Fantasia singing on stage in a sequined outfit",
+     "caption": "Fantasia, star of \"The Gospel of Christmas,\" in concert in Cincinnati in 2017. Photo: Kdrayf01, CC BY-SA 4.0, via Wikimedia Commons"
+    }
+   ],
+   "facts": [
+    {
+     "label": "The Chosen, Season 6",
+     "value": "Prime Video, Saturday, November 15: three episodes, then weekly through December 6"
+    },
+    {
+     "label": "The story",
+     "value": "Jesus' final day, through those who love Him and those who condemn Him"
+    },
+    {
+     "label": "Finale",
+     "value": "A stand-alone film in theaters in spring 2027"
+    },
+    {
+     "label": "The Promised Land",
+     "value": "Moses mockumentary comedy, Prime Video (U.S.), November 15"
+    },
+    {
+     "label": "Streaming now",
+     "value": "Tyler Perry's \"The Gospel of Christmas,\" Netflix"
+    },
+    {
+     "label": "Coming",
+     "value": "\"My Jesus,\" the Anne Wilson biopic, with Carly Pearce in her film debut"
+    },
+    {
+     "label": "Sources",
+     "value": "Amazon MGM Studios, Variety, Deadline, Collider, Relevant, The Christian Post, JubileeCast, Netflix, Billboard"
+    }
+   ],
+   "body": [
+    "The road has always led here. On Saturday, \"The Chosen\" arrives at the cross.",
+    "Season six of \"The Chosen\" premieres on Prime Video on Saturday, November 15, in the U.S. and around the world, with three episodes on day one and a new episode each week through December 6, according to Amazon MGM Studios, Variety and Deadline.",
+    "The official synopsis says the season \"captures the historic events of Jesus' final day through the lives of those who love Him and those who condemn Him.\" Jonathan Roumie returns as Jesus.",
+    "The finale will not stream first. It goes to theaters as a stand-alone film in spring 2027, Collider and Prime Video have reported.",
+    "\"It is finished\" (John 19:30). For millions who have walked with this show since its first season, these weeks will feel like Holy Week in November.",
+    "## Same day: Moses gets a workplace comedy",
+    "Also arriving November 15 on Prime Video in the U.S.: \"The Promised Land,\" a mockumentary in the style of \"The Office,\" following Moses and the Israelites through the wilderness. Creator Mitch Hudson, a former assistant director on \"The Chosen,\" first released it independently on YouTube, Relevant and The Christian Post reported. Wasim No'Mani plays Moses and Shereen Khan plays Miriam, and Hudson says a second season, made with Lionsgate, is in post-production.",
+    "## Streaming now: gospel royalty at Christmas",
+    "{{photo:fantasia}}",
+    "Tyler Perry's \"The Gospel of Christmas\" is on Netflix now, with Fantasia and Tank as a couple fighting to save a struggling church and Kirk Franklin's music behind them. Yolanda Adams, Fred Hammond, Shirley Caesar, CeCe Winans and The Clark Sisters are among the gospel greats in the cast. Read our full story on Perry's \"hardest film\" on Gospel News Access.",
+    "## Coming soon: a country star finds her faith role",
+    "Carly Pearce will make her film debut in \"My Jesus,\" the biopic of Christian music star Anne Wilson, Billboard reported this week.",
+    "## Why it matters",
+    "Faith stories are no longer tucked away on small platforms. This week alone, the gospel is on Netflix, Prime Video and the big screen. GNA family: what are you watching first, and who are you watching it with?"
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
+   "revenue_angle": "Streaming affiliate and Prime Video Channels opportunities; faith film and TV studio advertising; watch-party sponsorships with churches.",
+   "status": "published"
+  },
+  {
+   "slug": "tyler-perry-gospel-of-christmas-netflix-fantasia-tank-kirk-franklin",
+   "title": "Tyler Perry Says 'The Gospel of Christmas' Was the Hardest Film He Ever Made. Fantasia and Tank Bring It to Netflix Today",
+   "standfirst": "Perry says he felt \"under attack\" making his new faith film, a holiday musical about a couple fighting to save a struggling church, with music produced by Kirk Franklin and a cast of gospel royalty. Will you be watching tonight?",
+   "dateline": "ATLANTA, Georgia",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T06:00:00Z",
+   "updated": null,
+   "image": "assets/img/tyler-perry-gospel-of-christmas-netflix.jpg",
+   "image_alt": "Tyler Perry on Broadway opening night",
+   "image_credit": "Tyler Perry on a Broadway opening night. Photo: PhilipRomanoPhoto, CC BY-SA 4.0, via Wikimedia Commons (commons.wikimedia.org/wiki/File:TylerPerry-byPhilipRomano.jpg)",
+   "photo_source": "https://commons.wikimedia.org/wiki/File:TylerPerry-byPhilipRomano.jpg",
+   "photo_licence": "CC BY-SA 4.0",
+   "photo_author": "PhilipRomanoPhoto",
+   "body": [
+    "Tyler Perry has made more than two dozen films about faith, family and redemption. He says this one nearly broke him.",
+    "\"The Gospel of Christmas,\" Perry's new holiday film, arrives on Netflix today, Wednesday, November 11. Perry told The Christian Post it was \"the most difficult film\" he has ever made, and that while making it he felt \"under attack.\" He called it both the simplest film he has made and the hardest.",
+    "## The story",
+    "Fantasia Barrino Taylor and Durrell \"Tank\" Babbs star as Rebecca and Isaac, a married couple trying to revive a struggling church in a hard-pressed New York City neighborhood, according to The Christian Post and Netflix. Perry wrote and directed.",
+    "## The music",
+    "Kirk Franklin produced the music, which Netflix describes as a mix of contemporary and classic songs across gospel, rap and holiday music. The cast reads like a gospel hall of fame: Yolanda Adams, Fred Hammond, Shirley Caesar, CeCe Winans, The Clark Sisters, Smokie Norful, Vanessa Bell Armstrong, Ann Nesby and Hezekiah Walker are among the names reported by The Christian Post, Blavity and ChurchLeaders.",
+    "## Why it matters",
+    "Faith audiences have been asking streamers for stories that take church seriously. Perry's faith-film partnership with producer DeVon Franklin and Netflix, announced in 2024, is now putting gospel's biggest voices in front of a global audience in the middle of the holiday season.",
+    "Perry has not said publicly what the \"attack\" was. For many believers, the phrase will sound familiar: the work that matters most is often the work that meets the most resistance.",
+    "\"The Gospel of Christmas\" is streaming on Netflix now. Which gospel legend are you most excited to see on screen?"
+   ],
+   "facts": [
+    {
+     "label": "Film",
+     "value": "The Gospel of Christmas (Tyler Perry, Netflix)"
+    },
+    {
+     "label": "Streaming",
+     "value": "Netflix, from Wednesday, November 11, 2026"
+    },
+    {
+     "label": "Stars",
+     "value": "Fantasia Barrino Taylor (Rebecca), Tank (Isaac)"
+    },
+    {
+     "label": "Music",
+     "value": "Produced by Kirk Franklin"
+    },
+    {
+     "label": "Also featuring",
+     "value": "Yolanda Adams, Fred Hammond, Shirley Caesar, CeCe Winans, The Clark Sisters, Smokie Norful and more"
+    },
+    {
+     "label": "Perry's words",
+     "value": "\"The most difficult film\" he has made; he felt \"under attack\" (The Christian Post)"
+    },
+    {
+     "label": "Sources",
+     "value": "The Christian Post, Netflix Tudum, Blavity, ChurchLeaders, VIBE"
+    }
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (standing sign-off, Breaking News Desk, Nov 5 2026)",
+   "revenue_angle": "Netflix holiday faith audience; soundtrack affiliate opportunity once Kirk Franklin's soundtrack is listed; Christmas-season church and gospel sponsors.",
+   "status": "published"
+  },
+  {
+   "slug": "skvlk-fest-2026-faith-family-love-behind-jamie-foxx-party",
+   "title": "Faith, Family and 400 Guards: The Love Behind Jamie Foxx's Party for His Daughter",
+   "standfirst": "Believers worked alongside Jamie Foxx's team, buses carried families in, and parents went home grateful. Inside the care behind Anelise's 18th birthday festival. When did you last see a celebrity put children first?",
+   "dateline": "HIDDEN VALLEY, California",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-11T16:00:00Z",
+   "updated": "2026-11-11T16:00:00Z",
+   "image": "assets/img/skvlk-2026-faith-montage.jpg",
+   "image_alt": "Families facing the lit stage, a carnival ride and the crowd at SKVLK Fest 2026",
+   "image_credit": "Photos: PR STARPOWER",
+   "feature": false,
+   "photos": [
+    {
+     "id": "ride",
+     "src": "assets/img/skvlk-2026-ride-wide.jpg",
+     "alt": "Riders on a glowing carnival ride at SKVLK Fest 2026",
+     "caption": "The rides ran late into the night. Photo: PR STARPOWER"
+    },
+    {
+     "id": "crowd",
+     "src": "assets/img/skvlk-2026-crowd-night-wide.jpg",
+     "alt": "The crowd under the lights at SKVLK Fest 2026",
+     "caption": "Thousands celebrated Anelise's 18th. Photo: PR STARPOWER"
+    }
+   ],
+   "videos": [
+    {
+     "src": "assets/video/skvlk-2026-fun-reel.mp4",
+     "poster": "assets/img/skvlk-2026-fun-reel-poster.jpg",
+     "caption": "Watch: rides, the crowd and the main stage at SKVLK Fest 2026. Video: PR STARPOWER"
+    }
+   ],
+   "facts": [
+    {
+     "label": "Event",
+     "value": "SKVLK Fest 2026, Anelise Foxx's 18th birthday Halloween festival"
+    },
+    {
+     "label": "When",
+     "value": "Saturday, November 7, 2026"
+    },
+    {
+     "label": "Where",
+     "value": "The Foxx family home, Hidden Valley, California"
+    },
+    {
+     "label": "Security",
+     "value": "More than 400 guards, according to organizers"
+    },
+    {
+     "label": "Transport",
+     "value": "Shuttle buses for guests, according to organizers"
+    },
+    {
+     "label": "Sheriff's finding",
+     "value": "No stabbing: the young man \"was not assaulted with a knife\""
+    }
+   ],
+   "body": [
+    "Ask the people who worked SKVLK Fest what they remember most, and many of them don't start with the music. They start with the families.",
+    "When Jamie Foxx and his daughter Anelise opened their Hidden Valley home on Saturday, November 7 for SKVLK Fest, the Halloween music festival she created, it was her 18th birthday. It was also, by the account of people on the ground, a night built around keeping thousands of young people safe and letting them have fun.",
+    "## Believers behind the scenes",
+    "Many of the people working alongside Foxx's team that night are people of faith, according to Terry Bryant of PR STARPOWER, which brought sponsors and partners to the festival. Bryant worked the event.",
+    "Foxx himself has spoken openly about leaning on his faith during his recovery from a 2023 medical emergency, and about gratitude for the prayers that surrounded him.",
+    "\"Jamie and his team genuinely care about the children,\" Bryant said. \"There was an outpouring of support and love from the community, and the parents were so grateful.\"",
+    "## Care you could see",
+    "Organizers say more than 400 security guards worked the festival and shuttle buses carried guests in and out, so families weren't left walking dark hillside roads. EMTs were on site.",
+    "{{photo:ride}}",
+    "And the children? They had the night of their lives: carnival rides flashing green, red and pink, costumes everywhere, a main stage lit like a stadium and thousands of voices singing along. Parents who spoke with the festival's team said they were grateful, both for the celebration and for how their children were looked after.",
+    "{{photo:crowd}}",
+    "## Setting the record straight",
+    "For days, a false report that a teenager was stabbed overshadowed all of this. The Ventura County Sheriff's Office has now confirmed that no one was stabbed: detectives found the young man \"was not assaulted with a knife,\" and his superficial injury appears to be from \"mutual combat / simple battery.\" Detectives are still looking into two separate altercations that night, and the festival's team says it is cooperating fully. Read the official press release in our Press Room.",
+    "## Why it matters",
+    "\"Let all that you do be done in love\" (1 Corinthians 16:14). In a season when a rumor can outrun the truth, it is worth telling the story of a father who opened his home, a team that put children first and a community that showed up with love. And it is worth praying for every young person who was hurt that night, and for their privacy.",
+    "DISCLOSURE: Gospel News Access is part of the same media group as PR STARPOWER, which represents SKVLK Fest. Terry Bryant of PR STARPOWER is a senior editor in the group."
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 11, 2026)",
+   "status": "published"
+  },
+  {
+   "slug": "skvlk-fest-2026-family-celebration-community-embraced",
+   "title": "A Family Celebration the Community Embraced: SKVLK Fest Team Says Stabbing Reports Are False",
+   "standfirst": "Jamie Foxx's daughter Anelise marked her 18th birthday with a festival that drew families and young people from across the region. The festival's publicist says the reports of a stabbing never happened. How does your church guard young people's stories online?",
+   "dateline": "THOUSAND OAKS, California",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-10T19:00:00Z",
+   "updated": "2026-11-10T22:00:00Z",
+   "image": "assets/img/skvlk-2026-crowd-stage.jpg",
+   "image_alt": "The crowd facing the stage at SKVLK Fest 2026",
+   "image_credit": "Photo: PR STARPOWER",
+   "feature": false,
+   "body": [
+    "Anelise, the daughter of Jamie Foxx, turned 18 with a celebration the whole community could share. SKVLK Fest, the Halloween music festival she created, filled the family's Thousand Oaks home on Saturday, November 7 with carnival rides, music and families. Organizers say more than 25,000 people attended; the Ventura County Sheriff's Office estimated 3,000 or more.",
+    "\"It was amazing,\" said Terry Matari Bryant of PR STARPOWER, the festival's publicist, who attended. \"The community loved it, the children loved it, and Jamie and Anelise put on a fantastic show.\"",
+    "By Sunday, a darker story was spreading online. TMZ, citing law enforcement sources, reported that a guest had been stabbed, and many outlets repeated it. The festival's team says that is false. \"No one was stabbed,\" PR STARPOWER said in an official statement. According to the statement, two teenagers had a brief scuffle and one received a minor scratch, and Ventura County Sheriff's deputies responded. The festival's team has asked every outlet that published the stabbing claim to correct it.",
+    "UPDATED Nov. 10: The Ventura County Sheriff's Office has now confirmed it. In its official release (report RB# 26-146404), the Sheriff's Office says detectives spoke with the young man on November 9 and \"determined the victim was not assaulted with a knife, and the injury appears to be from a mutual combat / simple battery.\" The release also describes two other altercations that night, which remain under investigation. Sheriff's release: local.nixle.com/alert/12829667",
+    "WHY IT MATTERS. Scripture warns against bearing false witness, and a rumor about young people can follow them for years. Whatever happened between two teenagers that night, they deserve privacy and prayer, not a viral headline. And a young woman who invited her whole community to celebrate with her deserves to have that story told, too.",
+    "Full statement: prstarpower.com/statement-skvlk-fest-2026.html",
+    "DISCLOSURE: Gospel News Access is part of the same media group as PR STARPOWER, the festival's publicist."
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 10, 2026)",
+   "status": "published"
+  },
+  {
+   "slug": "agff-2026-devon-franklin-stories-of-hope-global-film-awards",
+   "title": "DeVon Franklin Leads a Night of Hope at the Global Film Awards in Beverly Hills",
+   "standfirst": "Faith, family and filmmakers from 30 nations share one red carpet tonight at the Writers Guild Theater, where a Zambian gospel artist walks alongside Hollywood's best-known faith producer. Which film of hope moved you most this year?",
+   "dateline": "BEVERLY HILLS, California",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-05T23:55:00Z",
+   "updated": null,
+   "image": "assets/img/agff-2026-stories-of-hope-card.jpg",
+   "image_alt": "Gospel News Access card: Faith on the red carpet, stories of hope take the stage in Beverly Hills tonight",
+   "image_credit": "Graphic: Gospel News Access",
+   "body": [
+    "Hollywood has a red carpet for stories of hope tonight. The Authentic Global Film Festival presents the 2026 Global Film Awards at the Writers Guild Theater in Beverly Hills, and the festival says its mission is plain: films that promote peace, family and faith, from filmmakers who rarely get a big screen.",
+    "DeVon Franklin leads the arrivals. The producer, preacher and bestselling author built Franklin Entertainment on the belief that faith-filled stories can be mainstream hits, from \"Miracles from Heaven\" to \"Breakthrough.\" He also sits on tonight's 6 PM panel with two-time Oscar winner Nick Vallelonga (\"Green Book\") and Grammy-nominated producer Theron \"Neff-U\" Feemster.",
+    "The carpet also carries a voice from the global church. Zambian gospel artist Ephriam Mutalangue is among the guests, alongside actress and singer Demetria McKinney. Actor Richard T. Jones of ABC's \"The Rookie\" hosts the evening.",
+    "More than 950 films from roughly 30 countries were submitted this year, according to the festival. Its founder, Dr. Gershom Sikaala, says the gap he set out to close is opportunity, not talent. \"I founded this festival to close that gap,\" he said in the festival's announcement, \"and to prove that stories of hope belong in Hollywood.\"",
+    "WHY IT MATTERS. Faith audiences have proved they will show up for films that reflect their values. A festival that rewards hope, family and faith on a Beverly Hills stage is one more sign the industry is paying attention, and it gives filmmakers from Africa, Asia and Latin America a door into the room.",
+    "TONIGHT AT A GLANCE. Red carpet 5 to 7 PM. Panel 6 PM. Awards 7 to 9 PM. Writers Guild Theater, 135 S. Doheny Drive, Beverly Hills. Official press room: newswirehollywood.com/agff-2026.html.",
+    "DISCLOSURE: Gospel News Access is part of the same media group as Newswire Hollywood, the festival's official media partner, and PR STARPOWER, which handles the festival's publicity. Details are from the festival's official run of show and press release."
+   ],
+   "corrections": [],
+   "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 5, 2026)",
+   "status": "published"
+  },
+  {
+   "slug": "commentary-pastor-adam-hamilton-kansas-senate-light-of-the-world",
+   "title": "Commentary: A Pastor Won Kansas, and Real Christians Chose to Be the Light",
+   "standfirst": "Adam Hamilton, a United Methodist pastor branded a heretic by the Christian right, became the first Democrat Kansas has sent to the Senate since 1932. His win, and the Democratic sweep around it, answers a false gospel that has been preached from too many pulpits.",
+   "dateline": "KANSAS CITY, Kansas",
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-11-04T23:30:00Z",
+   "updated": "2026-11-05T18:10:00Z",
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "THIS IS COMMENTARY from the Gospel Desk. The facts in it are reported; the conviction is ours.",
+    "UPDATED Nov. 5: Keisha Lance Bottoms has won the Georgia governor's race after Republican Rick Jackson conceded, the first Black woman ever elected governor of a U.S. state. The Senate races in Mississippi and Alaska are still being counted.",
+    "On Tuesday night a pastor won Kansas. Adam Hamilton, founding pastor of the 25,000-member United Methodist Church of the Resurrection, defeated Republican Sen. Roger Marshall, a fierce loyalist to President Trump, according to the Associated Press. No Democrat had won a Kansas Senate seat since 1932. Hamilton plans to keep serving his church, scaling back from full-time to quarter-time.",
+    "He did not win by hiding his faith. He won by refusing to weaponize it. \"I'm not running for the Senate to make everybody in this country Christian or United Methodist,\" he said on the campaign trail. He promised to \"fight for the rights of all people, whether they have any faith or not.\" Asked by NPR what drove his victory, he pointed to rising costs, tariffs and the war in Iran, and to Americans \"sick and tired of the hyperpolarization in Washington.\"",
+    "For that, the Christian right called him a heretic. His opponents attacked his church for welcoming LGBTQ people. Kansas listened, and Kansas chose the pastor.",
+    "THE FALSE NARRATIVE. For years a counterfeit gospel has moved through American churches: that faithfulness means loyalty to one man and one party, that the cross belongs wrapped in a flag, that the nation's God is whoever sits in the Oval Office. That is not the faith of the Gospels. It is Christian nationalism, and too many sanctuaries traded the Sermon on the Mount for a campaign rally to preach it.",
+    "Scripture is plain about what Christ asks of us. \"For I was hungry, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in: naked, and ye clothed me\" (Matthew 25:35-36). He did not say: close the border to the stranger. He did not say: worship power. He said, \"Ye are the light of the world\" (Matthew 5:14). The church's calling is to save souls and serve the least of these, not to crown a king.",
+    "ON TUESDAY, MANY CHRISTIANS MADE THAT CHOICE. Hamilton was not alone. In Texas, James Talarico, a Presbyterian seminarian who quotes Scripture and credits his faith for his politics, won a U.S. Senate seat, the first Texas Democrat to do so since 1988. In Dallas, the Rev. Frederick Haynes III, senior pastor of a Baptist congregation, won a seat in the U.S. House. In Iowa, Rob Sand, who spoke often of his faith on the trail, won the governorship. Baptist News Global counted six progressive Christian leaders among the night's winners.",
+    "Around them, Democrats won control of the House and a majority in the Senate, flipped governor's mansions in Texas, Georgia, Ohio and Iowa, and in Georgia, Keisha Lance Bottoms won, becoming the first Black woman ever elected governor of any state.",
+    "This is not a victory for one party over another in the eyes of God. It is a reminder that the faith was never owned by a party in the first place. Real Christians have a choice. On Tuesday, many chose to be the light.",
+    "The Senate contests in Mississippi and Alaska are still too close to call. Gospel News Access will report the final results."
+   ],
+   "facts": [
+    {
+     "label": "Senator-elect",
+     "value": "Adam Hamilton (D), founding pastor, United Methodist Church of the Resurrection"
+    },
+    {
+     "label": "Defeated",
+     "value": "Sen. Roger Marshall (R)"
+    },
+    {
+     "label": "History",
+     "value": "First Democrat elected to the Senate from Kansas since 1932"
+    },
+    {
+     "label": "Other people of faith who won",
+     "value": "James Talarico (Texas, Senate); Rev. Frederick Haynes III (Texas, U.S. House); Rob Sand (Iowa, governor)"
+    },
+    {
+     "label": "National result",
+     "value": "Democrats win the House and a Senate majority"
+    },
+    {
+     "label": "Sources",
+     "value": "Associated Press via NPR and OPB; Baptist News Global; Christian Post; NBC News; CBS News"
+    }
+   ],
+   "corrections": [],
+   "status": "published",
+   "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 4, 2026)"
+  },
+  {
+   "slug": "gospel-week-october-29-2026",
+   "title": "The gospel world this week: Forrest Frank dates The Jesus Generation, Donnie McClurkin says goodbye, Charity Gayle goes to Christmas",
+   "standfirst": "A December album with Lecrae, KB and Michael W. Smith, a farewell record from one of gospel's great voices, and an early Christmas worship project. What actually happened in gospel music this month.",
+   "dateline": null,
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-10-29T18:00:00Z",
+   "updated": null,
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "FORREST FRANK has a date. \"The Jesus Generation,\" his new album, arrives December 4 on River House Records, according to an announcement carried by CCM Magazine on October 28. The record takes its name from his May single, a song built on Frank's conviction that a spiritual awakening is under way across the country, most of all among young people.",
+    "The guest list reaches well past the worship lane: Lecrae and KB, JVKE and Michael W. Smith are among the collaborators. New music from the album is due this Friday, October 30. The announcement follows his sold-out, 29-city Jesus Generation Tour, and a theatrical film documenting that tour is set for 2027 through Lionsgate and Kingdom Story Company.",
+    "DONNIE McCLURKIN has made his last record, and he says so plainly. \"FINALLY,\" released October 16 on Camdon Music with distribution by Syntax Creative, is the album he has called the end of his recording career. Its lead single, \"Better Afterwhile,\" went to No. 1 on the Billboard gospel chart, and \"Lord, I Thank You\" followed as the second single. McClurkin announced in 2025 that he was stepping back from the music industry to focus on ministry. A farewell is rarely this deliberate, and rarely this well received.",
+    "CHARITY GAYLE went to Christmas early. \"His Name Shall Be,\" released October 23, is a 13-track worship project that sets original songs beside carols, produced by Kyle Lee and Ryan Rich. The title track draws on Isaiah 9, and the record runs from \"Repeat The Sounding Joy\" through \"Hark! The Herald Angels Sing\" to \"Emmanuel\" and \"In The Presence Of The King,\" its lead single.",
+    "ALSO THIS MONTH: JJ Hairston's \"Anthems & Prayers (Live)\" is out on all major streaming platforms, pairing congregational worship with recorded prayer. And Marvin Sapp's seventeenth album, \"Restoration,\" his first through Roc Nation Distribution, is still promised for this fall. No release date has been officially announced, so treat any date you see as unconfirmed until it comes from Sapp or Roc Nation.",
+    "Earlier this month, the 57th GMA Dove Awards in Nashville named Phil Wickham Artist of the Year, and the 41st Stellar Awards winners list put Darrel Walls on top as Artist of the Year. Gospel News Access will report Frank's new single on Friday."
+   ],
+   "facts": [
+    {
+     "label": "Forrest Frank",
+     "value": "\"The Jesus Generation,\" December 4, River House Records. New music Friday, October 30"
+    },
+    {
+     "label": "Donnie McClurkin",
+     "value": "\"FINALLY,\" released October 16, Camdon Music. His final recording"
+    },
+    {
+     "label": "Charity Gayle",
+     "value": "\"His Name Shall Be,\" released October 23. 13 tracks"
+    },
+    {
+     "label": "JJ Hairston",
+     "value": "\"Anthems & Prayers (Live),\" out now"
+    },
+    {
+     "label": "Marvin Sapp",
+     "value": "\"Restoration,\" Roc Nation Distribution. Fall 2026, date not announced"
+    }
+   ],
+   "corrections": [],
+   "status": "published",
+   "signed_off_by": "Terry Bryant, Senior Editor (directed Oct 29, 2026)"
+  },
+  {
+   "slug": "freda-payne-catalina-legendary-ladies",
+   "title": "Freda Payne Made Time Stand Still",
+   "standfirst": "At 84, in gold lamé and black lace, she sang nine legends back into a sold-out Los Angeles room, gave thanks to God from the stage, and delivered a triumph.",
+   "dateline": "LOS ANGELES",
+   "byline": "Gospel News Access Staff",
+   "published": "2026-09-30T14:42:00Z",
+   "updated": null,
+   "image": "assets/img/freda-catalina-gold-lead.jpg",
+   "image_alt": "Freda Payne in a gold lame halter and flared trousers, leaning into the microphone under red stage light at Catalina Jazz Club",
+   "image_credit": "Freda Payne at Catalina Jazz Club, Los Angeles, September 26, 2026. Photo by Terry Bryant.",
+   "body": [
+    "One week after her eighty-fourth birthday, Freda Payne walked out at the Catalina Jazz Club in Los Angeles and made time stand still.",
+    "That is not a figure of speech. For as long as the show ran, the room stopped being a room on a Saturday night in Hollywood and became something older and softer, a place where the great women of American song were, for a while, present again.",
+    "It was an outstanding night. It was the hottest ticket in Hollywood on a weekend when the MTV Video Music Awards had every other camera in Los Angeles, and it deserved every seat in the house.",
+    "Payne’s own note, printed on the night’s running sheet, begins the way the evening felt. “Last week on September 19th, was my birthday. I am so blessed to see another year and still be working. I thank God for that.”",
+    "## Nine women, one voice",
+    "“Freda Payne Portrays and Honors Legendary Ladies of Song” was written and directed by Donald B. Welch, and it is a small masterpiece of a difficult form. Tribute shows usually feel like a museum. Welch built a living room. The idea, Payne said, was his: “He said, Freda, I want you to do this show honoring several ladies.”",
+    "The ladies were Ella Fitzgerald, Sarah Vaughan, Peggy Lee, Gloria Lynne, Dakota Staton, Lena Horne, Nancy Wilson, Dinah Washington and Eartha Kitt. Payne sang for each of them. “All these ladies were some of my favorite singers back when I started wanting to be a professional singer,” she said.",
+    "{{photo:gown}}",
+    "She opened with “How High the Moon,” Ella Fitzgerald’s signature, and sang “I Wish You Love” for Gloria Lynne, “Body and Soul” for Sarah Vaughan and “Guess Who I Saw Today” for Nancy Wilson. Each one arrived like a letter from an old friend.",
+    "## A voice that soothes",
+    "Soothing is the word that keeps coming back. Payne’s voice is unhurried and warm, and it works on a room the way a hand works on a shoulder. It is the voice of a woman who has sung for six decades and has nothing left to prove and nothing left to hide.",
+    "She described Sarah Vaughan’s voice the same way, as “like listening to a violin or a viola. Very soothing.” The two singers met, and Payne came to know her. The compliment runs both directions.",
+    "## A girl at Idlewild",
+    "The number that carried her furthest back was Dakota Staton’s “The Late Late Show.” Payne was sixteen, living in Detroit, and spending summers at Idlewild, the Black resort community in Michigan, where her mother had a cottage.",
+    "“My sister and I were allowed to go to the matinees because we couldn’t go to the nightclubs at night,” she said. “We were still in our teens. And I remember her song.”",
+    "Sixty-odd years later she sang it from a Hollywood stage, in gold, to a full house. The sixteen-year-old and the legend were in the same room, and the room was lucky to have both.",
+    "Dinah Washington, whom Payne met young and feared at first, is the other side of that memory. “I think it’s because I kind of stood up to her,” Payne said of how the older singer came around. “She could tell I was no pushover.” Washington died at thirty-nine.",
+    "## A mother and her son",
+    "The evening was announced by Payne’s son, Gregory Abbott Jr., who introduced the special guest and then his mother. He did it with the ease of a man who knows the room. She named him twice in conversation afterward, and each time it was plain which credit mattered most to her. “Most important of all too, my son.”",
+    "{{photo:robe}}",
+    "{{photo:portrait}}",
+    "## The company",
+    "Thomasina Gross opened the show as Eartha Kitt, a portrayal Payne called “spot on,” and it is. In one staged scene Gross sat at a candlelit table with two martinis and a man in a suit, and held the whole room with a stillness that the photographs catch better than any description.",
+    "{{photo:table}}",
+    "The band was of the first rank. Josh Nelson was musical director at the piano, and Payne called him one of the best. Chris Colangelo played bass, Ricky Woodard saxophone and Marcello Carelli drums. The cast also included actors Terryl DaLuz and Kyrel Jaundoo, with Chuka Aruh and Mi-cha-El Wat as escorts.",
+    "## And then, Fever",
+    "A thanksgiving is allowed to be glamorous, and this one was. For Peggy Lee, Payne sang “Fever,” and she brought two men up onto the stage to sing it with, on her own birthday weekend, in gold. She was a show-stopping diva, and she looked magnificent.",
+    "{{photo:fever}}",
+    "## Hollywood came out",
+    "Stefanie Powers and Loretta Devine were in the room, along with a good many other familiar faces from the entertainment industry. Nobody came to be seen. They came to see her, and word of the night has been moving through Los Angeles ever since.",
+    "{{photo:powers}}",
+    "Payne sails at the end of October aboard Holland America, performing on a cruise from Fort Lauderdale to Puerto Rico and back, with Darlene Love and Wayne Newton on the bill. Anyone who can get on that ship should.",
+    "She spent Saturday night saying thank you, and Los Angeles spent it saying the same thing back. It was, from first note to last, a triumph."
+   ],
+   "corrections": [],
+   "status": "published",
+   "videos": [
+    {
+     "id": "MsRGnm458fo",
+     "title": "Freda Payne at Catalina Jazz Club",
+     "caption": "Freda Payne Portrays and Honors Legendary Ladies of Song — Catalina Jazz Club, Los Angeles, September 26, 2026."
+    },
+    {
+     "id": "Iu58ZFcRw6Q",
+     "short": true,
+     "title": "Freda Payne at Catalina — performance clip",
+     "caption": "From the performance."
+    },
+    {
+     "id": "mISIKPyYvig",
+     "short": true,
+     "title": "Freda Payne at Catalina — performance clip",
+     "caption": "From the performance."
+    }
+   ],
+   "photos": [
+    {
+     "id": "gown",
+     "src": "assets/img/freda-catalina-black-gown.jpg",
+     "alt": "Freda Payne in a black lace gown with a thigh-high slit, an upright bass behind her",
+     "caption": "Freda Payne in black lace. Photo by Terry Bryant."
+    },
+    {
+     "id": "portrait",
+     "src": "assets/img/freda-catalina-gregory-portrait.jpg",
+     "alt": "Gregory Abbott Jr. in a blue satin shirt at Catalina Jazz Club",
+     "caption": "Host and announcer Gregory Abbott Jr. Photo by Terry Bryant."
+    },
+    {
+     "id": "table",
+     "src": "assets/img/freda-catalina-eartha-table.jpg",
+     "alt": "Thomasina Gross as Eartha Kitt at a candlelit table with two martinis and a man in a suit",
+     "caption": "Thomasina Gross as Eartha Kitt, in the staged table scene. Photo by Terry Bryant."
+    },
+    {
+     "id": "fever",
+     "src": "assets/img/freda-catalina-fever.jpg",
+     "alt": "Freda Payne in gold sings Fever between two dancers under red light",
+     "caption": "“Fever.” Photo by Terry Bryant."
+    },
+    {
+     "id": "powers",
+     "src": "assets/img/freda-catalina-powers.jpg",
+     "alt": "Thomasina Gross, Stefanie Powers and Freda Payne together at Catalina Jazz Club",
+     "caption": "Thomasina Gross, Stefanie Powers and Freda Payne. Photo by Terry Bryant."
+    },
+    {
+     "id": "robe",
+     "src": "assets/img/freda-catalina-gospel-lead.jpg",
+     "alt": "Freda Payne in a rose satin robe with feather cuffs and gold chandelier earrings, smiling beside her son Gregory Abbott Jr.",
+     "caption": "Freda Payne with her son, host Gregory Abbott Jr. Photo by Terry Bryant."
+    }
+   ],
+   "credits": [
+    {
+     "role": "Production",
+     "names": "Freda Payne Portrays and Honors Legendary Ladies of Song"
+    },
+    {
+     "role": "Presented by",
+     "names": "Don B. Welch"
+    },
+    {
+     "role": "Written and directed by",
+     "names": "Donald B. Welch"
+    },
+    {
+     "role": "Starring",
+     "names": "Freda Payne"
+    },
+    {
+     "role": "Special guest",
+     "names": "Thomasina Gross as Eartha Kitt"
+    },
+    {
+     "role": "Host and announcer",
+     "names": "Gregory Abbott Jr."
+    },
+    {
+     "role": "Actors",
+     "names": "Terryl DaLuz, Kyrel Jaundoo"
+    },
+    {
+     "role": "Escorts",
+     "names": "Chuka Aruh, Mi-cha-El Wat"
+    },
+    {
+     "role": "Musical director and piano",
+     "names": "Josh Nelson"
+    },
+    {
+     "role": "Bass",
+     "names": "Chris Colangelo"
+    },
+    {
+     "role": "Saxophone",
+     "names": "Ricky Woodard"
+    },
+    {
+     "role": "Drums",
+     "names": "Marcello Carelli"
+    },
+    {
+     "role": "Honoring",
+     "names": "Ella Fitzgerald, Sarah Vaughan, Peggy Lee, Gloria Lynne, Dakota Staton, Lena Horne, Nancy Wilson, Dinah Washington, Eartha Kitt"
+    },
+    {
+     "role": "Venue",
+     "names": "Catalina Jazz Club, 6725 Sunset Blvd, Los Angeles"
+    },
+    {
+     "role": "Date",
+     "names": "Saturday, September 26, 2026"
+    },
+    {
+     "role": "Photographs",
+     "names": "Terry Bryant"
+    }
+   ],
+   "feature": false,
+   "feature_image": "assets/img/freda-catalina-gold-lead.jpg",
+   "feature_focus": "50% 20%",
+   "feature_layout": "portrait",
+   "facts": [
+    {
+     "label": "Show",
+     "value": "Freda Payne Portrays and Honors Legendary Ladies of Song"
+    },
+    {
+     "label": "Date",
+     "value": "Saturday, September 26, 2026"
+    },
+    {
+     "label": "Venue",
+     "value": "Catalina Jazz Club, 6725 Sunset Blvd., Los Angeles"
+    },
+    {
+     "label": "Written and directed by",
+     "value": "Donald B. Welch"
+    },
+    {
+     "label": "Status",
+     "value": "Sold out"
+    }
+   ]
+  },
+  {
+   "slug": "vmas-2026-taylor-swift-madonna-winners",
+   "title": "Taylor Swift takes a sixth Video of the Year at the VMAs; Madonna wins seven",
+   "standfirst": "The 2026 MTV Video Music Awards ran Sunday night from the Peacock Theater in Los Angeles. Snoop Dogg hosted. Madonna opened the show for the first time in twenty-three years.",
+   "dateline": "LOS ANGELES",
+   "byline": "Gospel News Access Staff",
+   "published": "2026-09-29T04:00:00Z",
+   "updated": null,
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "Taylor Swift won Video of the Year at the 2026 MTV Video Music Awards on Sunday night for “The Fate of Ophelia,” her sixth win in the category and a record no other artist has matched. She thanked Dolly Parton from the stage.",
+    "Madonna was the evening’s biggest winner with seven awards, among them Artist of the Year for “Confessions II,” the sequel to her 2005 album. She opened the ceremony with her first VMAs performance in twenty-three years, and had arrived the most-nominated artist of the night with thirteen, a career high.",
+    "Snoop Dogg hosted from the Peacock Theater in downtown Los Angeles.",
+    "Swift also took Best Director for “Opalite” and received the inaugural Artist Director Honors, a category created this year for work that builds connected narratives across a body of work. She premiered the video for “Patient Zero” during the broadcast.",
+    "LISA won Best Pop for “Dream,” featuring Kentaro Sakaguchi. Cardi B, featuring Kehlani, won Best Hip-Hop for “Safe.” Nirvana received the Michael Jackson Video Vanguard Award.",
+    "Kacey Musgraves performed a tribute to Dolly Parton. Raye, sombr and Teddy Swims performed a tribute to George Michael.",
+    "Reported by the Music Desk of Newswire Hollywood and carried here by arrangement. Full coverage, including the red carpet, is at newswirehollywood.com."
+   ],
+   "corrections": [],
+   "status": "published",
+   "facts": [
+    {
+     "label": "Event",
+     "value": "2026 MTV Video Music Awards"
+    },
+    {
+     "label": "Date",
+     "value": "Sunday, September 27, 2026"
+    },
+    {
+     "label": "Venue",
+     "value": "Peacock Theater, Los Angeles"
+    },
+    {
+     "label": "Host",
+     "value": "Snoop Dogg"
+    },
+    {
+     "label": "Video of the Year",
+     "value": "Taylor Swift, “The Fate of Ophelia”"
+    },
+    {
+     "label": "Biggest winner",
+     "value": "Madonna, 7 awards"
+    }
+   ]
+  },
+  {
+   "slug": "yom-kippur-2026-day-of-atonement",
+   "title": "Yom Kippur 2026 ended Monday night, closing the Ten Days of Repentance",
+   "standfirst": "The holiest day in the Jewish year began at sundown on Sunday, September 20 and ended at nightfall on Monday, September 21. It is observed with a fast of roughly 25 hours.",
+   "dateline": null,
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-09-23T03:30:00Z",
+   "updated": null,
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "Yom Kippur, the Day of Atonement and the holiest day of the Jewish year, began at sundown on Sunday, September 20, 2026 and ended at nightfall on Monday, September 21.",
+    "The day closes the Ten Days of Repentance, the period that opened with Rosh Hashanah, the Jewish New Year, which this year began at sundown on Friday, September 11 and ran through the evening of Sunday, September 13. Together Rosh Hashanah and Yom Kippur are known as the High Holy Days, and the days between them are also called the Days of Awe.",
+    "Yom Kippur is observed with a fast of roughly 25 hours — no food and no drink from before sundown until after nightfall the following day — and with extended prayer in synagogue. The themes of the day are repentance, atonement and forgiveness: the turning of a person toward God and toward the people they have wronged. The observance is set out in the Hebrew Bible, in Leviticus 16 and Leviticus 23, which appoint the tenth day of the seventh month as a day of atonement and of self-denial.",
+    "Because the Jewish calendar is lunisolar, the date moves against the civil calendar each year. In the Hebrew reckoning the day that has just passed was Yom Kippur of the year 5787.",
+    "A note for our readers on why this is in a gospel newspaper: Yom Kippur is a Jewish holy day, kept by the Jewish community, and Gospel News Access reports it as what it is rather than as a borrowed occasion. Christian readers may recognise the Day of Atonement as the image the New Testament letter to the Hebrews reaches for when it writes about a single sacrifice and a high priest entering the holy place. That is a point about two texts and the relationship between them. It is not a claim about how anyone observed this week, and it is not an invitation to treat someone else's holy day as a figure of speech.",
+    "Gospel News Access has not reported that any gospel artist, church or denomination marked Yom Kippur 2026, because we have not sourced such an observance. Where we can source one, we will report it and name it.",
+    "Sources for the dates and the practices in this report: Hebcal's Jewish calendar, Chabad.org, Reform Judaism and the Jewish Virtual Library entries for Yom Kippur 5787."
+   ],
+   "corrections": [],
+   "status": "published",
+   "facts": [
+    {
+     "label": "Observance",
+     "value": "Yom Kippur, the Day of Atonement"
+    },
+    {
+     "label": "Began",
+     "value": "Sundown, Sunday, September 20, 2026"
+    },
+    {
+     "label": "Ended",
+     "value": "Nightfall, Monday, September 21, 2026"
+    },
+    {
+     "label": "Fast",
+     "value": "About 25 hours"
+    },
+    {
+     "label": "Scripture",
+     "value": "Leviticus 16 and 23"
+    }
+   ]
+  },
+  {
+   "slug": "stellar-awards-41-syndication-dove-awards-october",
+   "title": "The 41st Stellar Awards are still airing across the country, and the Doves are two weeks out",
+   "standfirst": "Lisa Knowles-Smith took five. Darrel Walls took Artist of the Year. The broadcast syndication window runs through September 27, and the 57th GMA Dove Awards follow on October 6 with a Richard Smallwood tribute.",
+   "dateline": null,
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-09-23T03:35:00Z",
+   "updated": null,
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "If you have not seen the 41st Annual Stellar Gospel Music Awards yet, you have not missed them. The ceremony was taped on Saturday, August 15, 2026 at the Spectrum Center in Charlotte, North Carolina, and it is still working its way across the country: after premiering on The Stellar Network on August 29 and on BET on August 30, the show went into national broadcast syndication from September 5 through September 27. That window is open right now. Air dates and times vary by market, so the listing to check is your own local station's.",
+    "Kirk Franklin hosted. The theme was \"Feels Like Home.\"",
+    "The night belonged to Lisa Knowles-Smith, who won five awards — four of them for \"Revival: Live in Dallas,\" recorded with The Brown Singers. She took the Albertina Walker Female Artist of the Year award; Duo/Chorus/Group of the Year and Quartet of the Year with The Brown Singers; Producer of the Year alongside Frederick Perry; and Song of the Year for \"Promises (Live),\" which she wrote under her given name, Alescia Knowles-Smith. For a group with the history the Brown Singers have, five trophies in one night is a career marker, and it was widely reported as a first for them at this scale.",
+    "Darrel Walls won Artist of the Year and Contemporary Male Artist of the Year, both for \"Heart of Mine\" — the same record that opened his year with a Grammy for Best Gospel Album.",
+    "Vincent Bohanan & SOV won three, including Album of the Year for \"Live in New York,\" with further wins in the choir categories. Jonathan McReynolds, John P. Kee and Jekalyn Carr each won more than once — McReynolds for \"Still (Live)\" featuring Jamal Roberts, Kee for \"Throwback: An Evening With John P. Kee Part I,\" and Carr for \"Jekalyn X The Legends.\" In the hip-hop categories, Lecrae won Rap/Hip Hop Gospel Album of the Year for \"Reconstruction\" and JustCordell won Rap/Hip Hop Song of the Year for \"Movin.\"",
+    "Two honours were given outside the competitive categories. Tasha Cobbs Leonard received the Aretha Franklin Icon Award. Pastor Mike Jr. received the Thomas A. Dorsey Most Notable Achievement Award.",
+    "WHAT IS NEXT: the 57th Annual GMA Dove Awards are on Tuesday, October 6, 2026 at Bridgestone Arena in Nashville. The broadcast airs on TBN and the TBN+ app on Friday, October 9 at 7:30 p.m. and 10 p.m. Eastern, simulcast on SiriusXM The Message.",
+    "The Doves have announced a tribute to Richard Smallwood featuring Jonathan McReynolds, Kierra Sheard and Donald Lawrence, together with original members of Smallwood's ensemble Vision — among them Maurette Brown Clark and Ted Winn — with Percy Bady as musical director. Tasha Cobbs Leonard is among the announced performers. Anthony Brown, CeCe Winans and Lisa Knowles-Smith are among the announced presenters.",
+    "Knowles-Smith arrives in Nashville holding her first two Dove nominations: Traditional Gospel Recorded Song of the Year for \"Promises,\" and Traditional Gospel Album of the Year for \"Revival: Live in Dallas.\" Five Stellars in August and a first Dove nomination in October is the kind of run that usually reshapes a touring calendar.",
+    "How this was sourced: the Stellar winners and ceremony details are drawn from the Gospel Music Association (gospelmusic.org), Billboard's published winners list, the Stellar Awards' own site and the Journal of Gospel Music. The Dove Awards date, venue, broadcast details, performers and presenters are drawn from the Gospel Music Association's announcements and Bridgestone Arena's event listing. Gospel News Access did not attend either ceremony and does not report as though it did."
+   ],
+   "corrections": [],
+   "status": "published",
+   "facts": [
+    {
+     "label": "Event",
+     "value": "41st Annual Stellar Gospel Music Awards"
+    },
+    {
+     "label": "Taped",
+     "value": "August 15, 2026, Spectrum Center, Charlotte, N.C."
+    },
+    {
+     "label": "Host",
+     "value": "Kirk Franklin"
+    },
+    {
+     "label": "Premiered",
+     "value": "The Stellar Network, Aug. 29; BET, Aug. 30"
+    },
+    {
+     "label": "Syndication",
+     "value": "September 5–27, 2026"
+    },
+    {
+     "label": "Next",
+     "value": "57th GMA Dove Awards, October 6"
+    }
+   ]
+  },
+  {
+   "slug": "stellar-awards-41-syndication-closes-september-27",
+   "title": "Last call: the 41st Stellar Awards leave broadcast syndication on Sunday",
+   "standfirst": "The syndication window that has carried the ceremony across local stations since September 5 closes September 27. If it has not aired in your market yet, this weekend is the end of the run.",
+   "dateline": null,
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-09-26T23:50:00Z",
+   "updated": null,
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "The 41st Annual Stellar Gospel Music Awards close their national broadcast syndication run on Sunday, September 27. The window opened on September 5, and for three weeks local stations have been slotting the ceremony into their own schedules — which is why it has aired on different nights in different cities, and why some markets are only getting to it now.",
+    "If you have been meaning to watch it, this is the weekend. Air dates and times vary by market, so the only reliable listing is your own local station's.",
+    "The ceremony was taped on Saturday, August 15, 2026 at the Spectrum Center in Charlotte, North Carolina. Kirk Franklin hosted. The theme was \"Feels Like Home.\" It premiered on The Stellar Network on August 29 and on BET on August 30 before entering syndication.",
+    "WHAT YOU ARE WATCHING FOR: Lisa Knowles-Smith won five awards, four of them for \"Revival: Live in Dallas\" with The Brown Singers — the Albertina Walker Female Artist of the Year award, Duo/Chorus/Group of the Year and Quartet of the Year with The Brown Singers, Producer of the Year with Frederick Perry, and Song of the Year for \"Promises (Live).\"",
+    "Darrel Walls won Artist of the Year and Contemporary Male Artist of the Year for \"Heart of Mine.\" Vincent Bohanan & SOV won three, including Album of the Year for \"Live in New York.\" Jonathan McReynolds, John P. Kee and Jekalyn Carr each won more than once.",
+    "Two honours were given outside the competitive categories: Tasha Cobbs Leonard received the Aretha Franklin Icon Award, and Pastor Mike Jr. received the Thomas A. Dorsey Most Notable Achievement Award.",
+    "After Sunday the next date on the calendar is the 57th Annual GMA Dove Awards, on Tuesday, October 6 at Bridgestone Arena in Nashville, with the broadcast on TBN and the TBN+ app on Friday, October 9.",
+    "How this was sourced: the syndication window, ceremony details and winners are drawn from the Gospel Music Association, Billboard's published winners list, the Stellar Awards' own site and Central City Productions, which distributes the show. Gospel News Access did not attend the ceremony and does not report as though it did. We do not hold a market-by-market broadcast schedule and are not publishing one, because a wrong airtime is worse than none."
+   ],
+   "corrections": [],
+   "status": "published",
+   "facts": [
+    {
+     "label": "Event",
+     "value": "41st Annual Stellar Gospel Music Awards"
+    },
+    {
+     "label": "Taped",
+     "value": "August 15, 2026, Spectrum Center, Charlotte, N.C."
+    },
+    {
+     "label": "Host",
+     "value": "Kirk Franklin"
+    },
+    {
+     "label": "Premiered",
+     "value": "The Stellar Network, Aug. 29; BET, Aug. 30"
+    },
+    {
+     "label": "Syndication ends",
+     "value": "Sunday, September 27, 2026"
+    }
+   ]
+  },
+  {
+   "slug": "gospel-week-september-26-2026",
+   "title": "The gospel world this week: Tasha goes unscripted, Anthony Brown returns, Gaither gets a tribute",
+   "standfirst": "A 34-track live album out of Atlanta, a seventh record after a three-year silence, and a Nashville red carpet for the Gaither songbook. What actually happened in gospel music this month.",
+   "dateline": null,
+   "byline": "the Gospel Desk, Gospel News Access",
+   "published": "2026-09-26T23:52:00Z",
+   "updated": "2026-09-26T23:55:00Z",
+   "image": null,
+   "image_alt": "",
+   "image_credit": "",
+   "body": [
+    "TASHA COBBS LEONARD went back to Atlanta and did not plan it too tightly. \"Tasha Unscripted,\" released September 11 on Motown Gospel and Capitol Christian Music Group, runs 34 tracks recorded before a live audience — more than a decade of her catalogue revisited, with room left for new arrangements and unrehearsed worship to go wherever it went.",
+    "The guest list is close to a census of contemporary gospel: Jonathan McReynolds, Karen Clark Sheard, Kierra Sheard, Israel Houghton, William Murphy, Le'Andria Johnson, Travis Greene, Dante Bowe, Melvin Crispell III, Jonathan Nelson and Lisa Knowles-Smith all appear, along with country singer Mickey Guyton. Her Unscripted Nights tour opened the same day in Charlotte to a sold-out house and its announced routing runs through tonight, having passed through Brunswick, Atlanta, Washington, Dallas, Raleigh and New York.",
+    "It has been a long few weeks for Cobbs Leonard. She collected the Aretha Franklin Icon Award at the Stellar Awards in August, and she is among the announced performers at the Dove Awards in October.",
+    "ANTHONY BROWN & GROUP THERAPY broke a three-year recording silence on September 18 with \"Disclosure,\" their seventh album, on A Major Entertainment with Tyscot and Fair Trade Services. It is ten songs, produced by David \"Glo\" Outing II with Brown co-producing, and it moves between urban contemporary grooves and full orchestral ballads rather than picking one.",
+    "The lead radio single, \"Always Be Good,\" has climbed into the top five of both the Billboard and Mediabase gospel airplay charts, according to the label's announcement. Pre-orders had been open since August 14.",
+    "THE GAITHER SONGBOOK got its own night. \"You Are Loved: A Tribute To The Songs Of Bill & Gloria Gaither\" was released September 25 on DVD, CD and digital, and Gaither Music marked it with a red carpet screening in Nashville for artists and industry guests. The Gaither catalogue has been a shared inheritance across Southern gospel, Black gospel and country for six decades, and a tribute record is overdue rather than early.",
+    "ALSO THIS WEEK: The Edwards Family release \"Even Till The End\" digitally on September 28. And Brothers of the Heart — Jimmy Fortune, Bradley Walker, Mike Rogers and Ben Isaacs — are on the bill at Eric Clapton's Crossroads Guitar Festival at the Moody Center in Austin on September 26 and 27, which is not where a Gaither Music quartet usually turns up.",
+    "ONE THING TO GET RIGHT: a headline moving this week has Kirk Franklin joining the SoundExchange Hall of Fame. The honour is real — SoundExchange recognised Franklin as one of the most-streamed artists across its two decades of administering digital performance royalties, an award whose recipients include Mariah Carey, Billy Joel and Usher, and it was presented to him backstage at HBCU Awarefest at State Farm Arena in Atlanta. It is not news from this week, though: SoundExchange announced it in April 2026. What moved this week was a re-report of it. We are spelling that out because our own wire is carrying the later item, and a reader could reasonably take it for a fresh announcement.",
+    "TWO DATES TO KEEP: the 41st Stellar Awards leave broadcast syndication on Sunday, September 27, closing the window that opened on September 5. And the 57th Annual GMA Dove Awards are on Tuesday, October 6 at Bridgestone Arena in Nashville, broadcasting on TBN and the TBN+ app on Friday, October 9 at 7:30 and 10 p.m. Eastern, simulcast on SiriusXM The Message. The Doves will carry a tribute to Richard Smallwood featuring Jonathan McReynolds, Kierra Sheard and Donald Lawrence with original members of his ensemble Vision.",
+    "One thread worth following: Lisa Knowles-Smith took five Stellars in August, holds her first two Dove nominations next month, and turns up as a guest on \"Tasha Unscripted.\" After a career spent largely outside the spotlight, she is having the kind of year that rearranges a touring calendar.",
+    "How this was sourced: release dates, labels, credits, track counts and guest lists are drawn from the artists' and labels' own announcements, Shore Fire Media, Billboard, the Gospel Music Association, Gaither Music and The Urban Music Scene. Chart positions are as stated in the label's announcement and are not our own measurement; the GNA charts are published separately and on their own methodology. The SoundExchange award and its April announcement date are from SoundExchange's own release and the Gospel Music Association. Gospel News Access attended none of these events and does not report as though it did."
+   ],
+   "corrections": [],
+   "status": "published"
+  }
+ ]
 }
