@@ -1,90 +1,128 @@
 {
-  "_README": [
-    "Gospel News Access press releases. Status 'published' makes one live.",
-    "Contact details are printed only if present here; never invent one."
-  ],
-  "releases": [
+ "_README": [
+  "Gospel News Access press releases. Status 'published' makes one live.",
+  "Contact details are printed only if present here; never invent one."
+ ],
+ "releases": [
+  {
+   "slug": "skvlk-fest-2026-community-thanks",
+   "status": "published",
+   "title": "SKVLK Fest Thanks Families and Community After Joyful 18th Birthday Celebration; Sheriff Confirms No Stabbing",
+   "subhead": "More than 400 security professionals, shuttle buses for guests and thousands of young people celebrating: organizers thank the community that made Jamie Foxx’s daughter’s festival a night to remember.",
+   "dateline": "HIDDEN VALLEY, Calif.",
+   "date": "November 11, 2026",
+   "image": "assets/img/skvlk-2026-fun-montage.jpg",
+   "image_alt": "Rides, the crowd and the main stage at SKVLK Fest 2026",
+   "image_caption": "SKVLK Fest 2026. Photos: PR STARPOWER.",
+   "body": [
+    "SKVLK Fest today thanked the families, young people, neighbors, security teams and first responders who made its November 7 celebration of Anelise’s 18th birthday a night to remember.",
+    "Hosted at Jamie Foxx’s Hidden Valley home, the Halloween music festival that Anelise created brought thousands of young people together for carnival rides, live performances on a lit main stage and costumes everywhere. Organizers say more than 400 security professionals worked the event, shuttle buses carried guests to and from the festival, and EMTs were on site throughout the night.",
+    "Since the festival, parents and community members have reached out with an outpouring of gratitude, organizers say.",
+    "“Anelise wanted a night where her generation could celebrate together, and this community showed up with so much love,” said PR STARPOWER, which leads sponsorships and partnerships for SKVLK Fest. “Jamie and his team put the safety of every guest first, with hundreds of security professionals, buses for families and medical staff on site. We are grateful to every parent who trusted us with their children, and to every officer, EMT and volunteer who worked that night.”",
+    "The Ventura County Sheriff’s Office has confirmed that no one was stabbed at the festival. After interviewing the young man involved, detectives determined he “was not assaulted with a knife” and that his superficial injury appears to be from “mutual combat / simple battery,” according to the Sheriff’s release (RB# 26-146404). The Sheriff’s Office is continuing to investigate separate altercations that occurred that night, and the festival’s team is cooperating fully.",
+    "For Academy Award, Grammy and Golden Globe winner Jamie Foxx, the night was about family: a father opening his home so his daughter could share her milestone with her friends and her community.",
+    "About SKVLK Fest: SKVLK Fest is a Los Angeles-area youth-culture music and carnival festival founded by Anelise, the daughter of Jamie Foxx.",
+    "About PR STARPOWER: PR STARPOWER is a Los Angeles public relations firm representing talent, productions and events in entertainment, faith and culture. It leads sponsorships and partnerships for SKVLK Fest."
+   ],
+   "contact_name": "PR STARPOWER Media Relations",
+   "contact_email": "info@prstarpower.com",
+   "contact_note": "Issued by PR STARPOWER on behalf of SKVLK Fest. Gospel News Access is part of the same media group.",
+   "links": [
     {
-      "slug": "skvlk-fest-2026-sheriff-investigation-no-stabbing",
-      "status": "published",
-      "title": "Sheriff’s Investigation Finds No Stabbing at Jamie Foxx’s SKVLK Fest Halloween Party",
-      "subhead": "The Ventura County Sheriff’s Office investigated and confirmed that no one was stabbed, contrary to widespread media reports.",
-      "dateline": "HIDDEN VALLEY, Calif.",
-      "date": "November 10, 2026",
-      "image": "assets/img/skvlk-2026-crowd-stage.jpg",
-      "image_alt": "The crowd facing the stage at SKVLK Fest 2026",
-      "image_caption": "SKVLK Fest 2026. Photo: PR STARPOWER.",
-      "body": [
-        "The Ventura County Sheriff's Office investigated and confirmed that no one was stabbed at the November 7th SKVLK Fest Halloween party at Jamie Foxx’s Hidden Valley home, contrary to widespread media reports.",
-        "Early reports to Sheriff’s dispatch alleged that one juvenile had slashed another with a knife, and those initial claims were repeated widely in the press. On November 9th, detectives interviewed the victim and determined the victim was not assaulted with a knife and that the superficial injury appears to have resulted from a mutual combat/simple battery.",
-        "“We’re grateful to the Ventura County Sheriff's deputies and detectives for their thorough work, and to the EMTs and security staff who responded quickly that night,” the festival said in a statement issued through PR STARPOWER, which leads sponsorships and partnerships for SKVLK Fest. “Our thoughts are with everyone who was hurt, and we’re cooperating fully as the investigations continue. But the record needs to be clear: no one was stabbed. We hope the outlets that reported otherwise will correct their stories.”",
-        "The Sheriff’s Office is continuing to investigate the separate altercations that occurred that night. Mr. Foxx’s team is cooperating fully and encourages anyone with video of those incidents to share it with the Sheriff’s East County Investigations Bureau.",
-        "We urge media outlets that reported a stabbing to update their coverage to reflect the Sheriff’s findings."
-      ],
-      "contact_name": "PR STARPOWER Media Relations",
-      "contact_email": "info@prstarpower.com",
-      "contact_note": "Issued by PR STARPOWER on behalf of SKVLK Fest. Gospel News Access is part of the same media group.",
-      "links": [
-        {
-          "label": "Official release on PR STARPOWER",
-          "url": "https://prstarpower.com/statement-skvlk-fest-2026.html"
-        },
-        {
-          "label": "Ventura County Sheriff's release RB# 26-146404",
-          "url": "https://local.nixle.com/alert/12829667/"
-        }
-      ]
+     "label": "Official release on PR STARPOWER",
+     "url": "https://prstarpower.com/news-skvlk-fest-2026-community-thanks.html"
     },
     {
-      "slug": "freda-payne-still-standing-catalina",
-      "status": "published",
-      "title": "Freda Payne, 84, Still Standing: Sold-Out Los Angeles Show Honors the Women Who Built American Song",
-      "subhead": "A legend gives thanks from the stage, and Gospel News Access calls the night a triumph.",
-      "dateline": "LOS ANGELES",
-      "date": "September 30, 2026",
-      "image": "assets/img/freda-catalina-gospel-lead.jpg",
-      "image_alt": "Freda Payne in a rose satin robe with feather cuffs beside her son Gregory Abbott Jr. at Catalina Jazz Club",
-      "image_caption": "Freda Payne with her son, host Gregory Abbott Jr., at Catalina Jazz Club. Photo by Terry Bryant. Available for editorial use with credit.",
-      "body": [
-        "Freda Payne is eighty-four years old, and last Saturday night she was still standing, still singing and still stopping the show.",
-        "“Freda Payne Portrays and Honors Legendary Ladies of Song” played to a sold-out Catalina Jazz Club at 6725 Sunset Boulevard in Los Angeles on September 26, 2026, one week after Payne’s birthday. Gospel News Access has published its review, “Freda Payne Made Time Stand Still,” and a full photographic report of the evening.",
-        "## A thank-you in the program",
-        "The evening’s running sheet carries a note from its star. “Last week on September 19th, was my birthday,” Payne wrote. “I am so blessed to see another year and still be working. I thank God for that.”",
-        "The show was written and directed by Donald B. Welch and presented by Don B. Welch. “The idea of doing a show honoring the legendary ladies of song and jazz was brought to me by my friend, my dear friend Donald B. Welch,” Payne said.",
-        "## Nine women, one voice",
-        "Payne honored Ella Fitzgerald, Sarah Vaughan, Peggy Lee, Gloria Lynne, Dakota Staton, Lena Horne, Nancy Wilson, Dinah Washington and Eartha Kitt. Her program included “How High the Moon,” “I Wish You Love,” “The Late Late Show,” “Body and Soul,” “Guess Who I Saw Today” and “Fever.”",
-        "Several of the women she sang for were people she knew. Of Sarah Vaughan she said her voice was “like listening to a violin or a viola. Very soothing.”",
-        "## The company",
-        "Thomasina Gross opened the show portraying Eartha Kitt, a performance Payne called “spot on.” The evening was hosted and announced by Payne’s son, Gregory Abbott Jr. Josh Nelson served as musical director and pianist, with Chris Colangelo on bass, Ricky Woodard on saxophone and Marcello Carelli on drums. Actors Terryl DaLuz and Kyrel Jaundoo appeared, with Chuka Aruh and Mi-cha-El Wat as escorts.",
-        "Stefanie Powers and Loretta Devine were among the guests in the room, on a weekend when the MTV Video Music Awards drew cameras across Los Angeles.",
-        "## What is next",
-        "Payne sails at the end of October aboard Holland America, performing on a cruise from Fort Lauderdale, Florida to Puerto Rico and back. Darlene Love and Wayne Newton are also on the bill.",
-        "## Photographs and video",
-        "Photographs by Terry Bryant are available for editorial use with credit. Performance video from the evening is at youtu.be/MsRGnm458fo, youtu.be/Iu58ZFcRw6Q and youtu.be/mISIKPyYvig.",
-        "## About Freda Payne",
-        "Freda Payne is a singer and actress whose career spans six decades, best known internationally for “Band of Gold.” For information on Payne, her memoir and her appearances, visit her official website, fredapayne.net.",
-        "## About Gospel News Access",
-        "Gospel News Access is a news and music publication covering gospel, faith and culture, with reporting, charts, a video desk and a community development section."
-      ],
-      "contact_name": "PR STARPOWER Media Relations",
-      "contact_phone": "646-315-2942",
-      "contact_email": "info@newswirehollywood.com",
-      "contact_note": "Gospel News Access is an independent publication. Press inquiries are currently handled through the contact above.",
-      "publicist": "PR STARPOWER",
-      "links": [
-        {
-          "label": "Freda Payne, official website: fredapayne.net",
-          "url": "https://www.fredapayne.net/"
-        },
-        {
-          "label": "Freda Payne on Instagram: @iamfredapayne",
-          "url": "https://www.instagram.com/iamfredapayne/"
-        },
-        {
-          "label": "Read the review: Freda Payne Made Time Stand Still",
-          "url": "https://gospelnewsaccess.com/story/freda-payne-catalina-legendary-ladies.html"
-        }
-      ]
+     "label": "Nov. 10 release: no stabbing",
+     "url": "https://gospelnewsaccess.com/press/skvlk-fest-2026-sheriff-investigation-no-stabbing.html"
+    },
+    {
+     "label": "Ventura County Sheriff's release RB# 26-146404",
+     "url": "https://local.nixle.com/alert/12829667/"
     }
-  ]
+   ]
+  },
+  {
+   "slug": "skvlk-fest-2026-sheriff-investigation-no-stabbing",
+   "status": "published",
+   "title": "Sheriff’s Investigation Finds No Stabbing at Jamie Foxx’s SKVLK Fest Halloween Party",
+   "subhead": "The Ventura County Sheriff’s Office investigated and confirmed that no one was stabbed, contrary to widespread media reports.",
+   "dateline": "HIDDEN VALLEY, Calif.",
+   "date": "November 10, 2026",
+   "image": "assets/img/skvlk-2026-crowd-stage.jpg",
+   "image_alt": "The crowd facing the stage at SKVLK Fest 2026",
+   "image_caption": "SKVLK Fest 2026. Photo: PR STARPOWER.",
+   "body": [
+    "The Ventura County Sheriff's Office investigated and confirmed that no one was stabbed at the November 7th SKVLK Fest Halloween party at Jamie Foxx’s Hidden Valley home, contrary to widespread media reports.",
+    "Early reports to Sheriff’s dispatch alleged that one juvenile had slashed another with a knife, and those initial claims were repeated widely in the press. On November 9th, detectives interviewed the victim and determined the victim was not assaulted with a knife and that the superficial injury appears to have resulted from a mutual combat/simple battery.",
+    "“We’re grateful to the Ventura County Sheriff's deputies and detectives for their thorough work, and to the EMTs and security staff who responded quickly that night,” the festival said in a statement issued through PR STARPOWER, which leads sponsorships and partnerships for SKVLK Fest. “Our thoughts are with everyone who was hurt, and we’re cooperating fully as the investigations continue. But the record needs to be clear: no one was stabbed. We hope the outlets that reported otherwise will correct their stories.”",
+    "The Sheriff’s Office is continuing to investigate the separate altercations that occurred that night. Mr. Foxx’s team is cooperating fully and encourages anyone with video of those incidents to share it with the Sheriff’s East County Investigations Bureau.",
+    "We urge media outlets that reported a stabbing to update their coverage to reflect the Sheriff’s findings."
+   ],
+   "contact_name": "PR STARPOWER Media Relations",
+   "contact_email": "info@prstarpower.com",
+   "contact_note": "Issued by PR STARPOWER on behalf of SKVLK Fest. Gospel News Access is part of the same media group.",
+   "links": [
+    {
+     "label": "Official release on PR STARPOWER",
+     "url": "https://prstarpower.com/statement-skvlk-fest-2026.html"
+    },
+    {
+     "label": "Ventura County Sheriff's release RB# 26-146404",
+     "url": "https://local.nixle.com/alert/12829667/"
+    }
+   ]
+  },
+  {
+   "slug": "freda-payne-still-standing-catalina",
+   "status": "published",
+   "title": "Freda Payne, 84, Still Standing: Sold-Out Los Angeles Show Honors the Women Who Built American Song",
+   "subhead": "A legend gives thanks from the stage, and Gospel News Access calls the night a triumph.",
+   "dateline": "LOS ANGELES",
+   "date": "September 30, 2026",
+   "image": "assets/img/freda-catalina-gospel-lead.jpg",
+   "image_alt": "Freda Payne in a rose satin robe with feather cuffs beside her son Gregory Abbott Jr. at Catalina Jazz Club",
+   "image_caption": "Freda Payne with her son, host Gregory Abbott Jr., at Catalina Jazz Club. Photo by Terry Bryant. Available for editorial use with credit.",
+   "body": [
+    "Freda Payne is eighty-four years old, and last Saturday night she was still standing, still singing and still stopping the show.",
+    "“Freda Payne Portrays and Honors Legendary Ladies of Song” played to a sold-out Catalina Jazz Club at 6725 Sunset Boulevard in Los Angeles on September 26, 2026, one week after Payne’s birthday. Gospel News Access has published its review, “Freda Payne Made Time Stand Still,” and a full photographic report of the evening.",
+    "## A thank-you in the program",
+    "The evening’s running sheet carries a note from its star. “Last week on September 19th, was my birthday,” Payne wrote. “I am so blessed to see another year and still be working. I thank God for that.”",
+    "The show was written and directed by Donald B. Welch and presented by Don B. Welch. “The idea of doing a show honoring the legendary ladies of song and jazz was brought to me by my friend, my dear friend Donald B. Welch,” Payne said.",
+    "## Nine women, one voice",
+    "Payne honored Ella Fitzgerald, Sarah Vaughan, Peggy Lee, Gloria Lynne, Dakota Staton, Lena Horne, Nancy Wilson, Dinah Washington and Eartha Kitt. Her program included “How High the Moon,” “I Wish You Love,” “The Late Late Show,” “Body and Soul,” “Guess Who I Saw Today” and “Fever.”",
+    "Several of the women she sang for were people she knew. Of Sarah Vaughan she said her voice was “like listening to a violin or a viola. Very soothing.”",
+    "## The company",
+    "Thomasina Gross opened the show portraying Eartha Kitt, a performance Payne called “spot on.” The evening was hosted and announced by Payne’s son, Gregory Abbott Jr. Josh Nelson served as musical director and pianist, with Chris Colangelo on bass, Ricky Woodard on saxophone and Marcello Carelli on drums. Actors Terryl DaLuz and Kyrel Jaundoo appeared, with Chuka Aruh and Mi-cha-El Wat as escorts.",
+    "Stefanie Powers and Loretta Devine were among the guests in the room, on a weekend when the MTV Video Music Awards drew cameras across Los Angeles.",
+    "## What is next",
+    "Payne sails at the end of October aboard Holland America, performing on a cruise from Fort Lauderdale, Florida to Puerto Rico and back. Darlene Love and Wayne Newton are also on the bill.",
+    "## Photographs and video",
+    "Photographs by Terry Bryant are available for editorial use with credit. Performance video from the evening is at youtu.be/MsRGnm458fo, youtu.be/Iu58ZFcRw6Q and youtu.be/mISIKPyYvig.",
+    "## About Freda Payne",
+    "Freda Payne is a singer and actress whose career spans six decades, best known internationally for “Band of Gold.” For information on Payne, her memoir and her appearances, visit her official website, fredapayne.net.",
+    "## About Gospel News Access",
+    "Gospel News Access is a news and music publication covering gospel, faith and culture, with reporting, charts, a video desk and a community development section."
+   ],
+   "contact_name": "PR STARPOWER Media Relations",
+   "contact_phone": "646-315-2942",
+   "contact_email": "info@newswirehollywood.com",
+   "contact_note": "Gospel News Access is an independent publication. Press inquiries are currently handled through the contact above.",
+   "publicist": "PR STARPOWER",
+   "links": [
+    {
+     "label": "Freda Payne, official website: fredapayne.net",
+     "url": "https://www.fredapayne.net/"
+    },
+    {
+     "label": "Freda Payne on Instagram: @iamfredapayne",
+     "url": "https://www.instagram.com/iamfredapayne/"
+    },
+    {
+     "label": "Read the review: Freda Payne Made Time Stand Still",
+     "url": "https://gospelnewsaccess.com/story/freda-payne-catalina-legendary-ladies.html"
+    }
+   ]
+  }
+ ]
 }
