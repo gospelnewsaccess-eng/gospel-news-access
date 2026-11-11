@@ -1643,6 +1643,16 @@ def render_originals() -> list[dict]:
             import re as _re
             frames = []
             for v in a["videos"]:
+                # Our own clip hosted on this site: "src": "assets/video/<file>.mp4".
+                src = (v.get("src") or "").strip()
+                if _re.fullmatch(r"assets/video/[A-Za-z0-9._-]+\.mp4", src):
+                    poster = (v.get("poster") or "").strip()
+                    pa = (' poster="../%s"' % g.esc(poster)) if _re.fullmatch(r"assets/img/[A-Za-z0-9._-]+\.(jpe?g|png)", poster) else ""
+                    frames.append(
+                        '<figure class="story__vid story__vid--short"><video src="../%s"%s controls playsinline preload="metadata" '
+                        'style="width:100%%;max-width:380px;display:block;margin:0 auto;border-radius:12px;background:#000"></video>'
+                        '<figcaption>%s</figcaption></figure>' % (g.esc(src), pa, g.esc(v.get("caption", ""))))
+                    continue
                 vid = (v.get("id") or "").strip()
                 if not _re.fullmatch(r"[A-Za-z0-9_-]{6,20}", vid):
                     continue   # not a YouTube id - drop it rather than emit it

@@ -35,6 +35,87 @@
   },
   "articles": [
     {
+      "slug": "skvlk-fest-2026-faith-family-love-behind-jamie-foxx-party",
+      "title": "Faith, Family and 400 Guards: The Love Behind Jamie Foxx's Party for His Daughter",
+      "standfirst": "Believers worked alongside Jamie Foxx's team, buses carried families in, and parents went home grateful. Inside the care behind Anelise's 18th birthday festival. When did you last see a celebrity put children first?",
+      "dateline": "HIDDEN VALLEY, California",
+      "byline": "the Gospel Desk, Gospel News Access",
+      "published": "2026-11-11T16:00:00Z",
+      "updated": "2026-11-11T16:00:00Z",
+      "image": "assets/img/skvlk-2026-faith-montage.jpg",
+      "image_alt": "Families facing the lit stage, a carnival ride and the crowd at SKVLK Fest 2026",
+      "image_credit": "Photos: PR STARPOWER",
+      "feature": true,
+      "photos": [
+        {
+          "id": "ride",
+          "src": "assets/img/skvlk-2026-ride-wide.jpg",
+          "alt": "Riders on a glowing carnival ride at SKVLK Fest 2026",
+          "caption": "The rides ran late into the night. Photo: PR STARPOWER"
+        },
+        {
+          "id": "crowd",
+          "src": "assets/img/skvlk-2026-crowd-night-wide.jpg",
+          "alt": "The crowd under the lights at SKVLK Fest 2026",
+          "caption": "Thousands celebrated Anelise's 18th. Photo: PR STARPOWER"
+        }
+      ],
+      "videos": [
+        {
+          "src": "assets/video/skvlk-2026-fun-reel.mp4",
+          "poster": "assets/img/skvlk-2026-fun-reel-poster.jpg",
+          "caption": "Watch: rides, the crowd and the main stage at SKVLK Fest 2026. Video: PR STARPOWER"
+        }
+      ],
+      "facts": [
+        {
+          "label": "Event",
+          "value": "SKVLK Fest 2026, Anelise Foxx's 18th birthday Halloween festival"
+        },
+        {
+          "label": "When",
+          "value": "Saturday, November 7, 2026"
+        },
+        {
+          "label": "Where",
+          "value": "The Foxx family home, Hidden Valley, California"
+        },
+        {
+          "label": "Security",
+          "value": "More than 400 guards, according to organizers"
+        },
+        {
+          "label": "Transport",
+          "value": "Shuttle buses for guests, according to organizers"
+        },
+        {
+          "label": "Sheriff's finding",
+          "value": "No stabbing: the young man \"was not assaulted with a knife\""
+        }
+      ],
+      "body": [
+        "Ask the people who worked SKVLK Fest what they remember most, and many of them don't start with the music. They start with the families.",
+        "When Jamie Foxx and his daughter Anelise opened their Hidden Valley home on Saturday, November 7 for SKVLK Fest, the Halloween music festival she created, it was her 18th birthday. It was also, by the account of people on the ground, a night built around keeping thousands of young people safe and letting them have fun.",
+        "## Believers behind the scenes",
+        "Many of the people working alongside Foxx's team that night are people of faith, according to Terry Bryant, a spokesperson for SKVLK Fest, who worked the event.",
+        "Foxx himself has spoken openly about leaning on his faith during his recovery from a 2023 medical emergency, and about gratitude for the prayers that surrounded him.",
+        "\"Jamie and his team genuinely care about the children,\" Bryant said. \"There was an outpouring of support and love from the community, and the parents were so grateful.\"",
+        "## Care you could see",
+        "Organizers say more than 400 security guards worked the festival and shuttle buses carried guests in and out, so families weren't left walking dark hillside roads. EMTs were on site.",
+        "{{photo:ride}}",
+        "And the children? They had the night of their lives: carnival rides flashing green, red and pink, costumes everywhere, a main stage lit like a stadium and thousands of voices singing along. Parents who spoke with the festival's team said they were grateful, both for the celebration and for how their children were looked after.",
+        "{{photo:crowd}}",
+        "## Setting the record straight",
+        "For days, a false report that a teenager was stabbed overshadowed all of this. The Ventura County Sheriff's Office has now confirmed that no one was stabbed: detectives found the young man \"was not assaulted with a knife,\" and his superficial injury appears to be from \"mutual combat / simple battery.\" Detectives are still looking into two separate altercations that night, and the festival's team says it is cooperating fully. Read the official press release in our Press Room.",
+        "## Why it matters",
+        "\"Let all that you do be done in love\" (1 Corinthians 16:14). In a season when a rumor can outrun the truth, it is worth telling the story of a father who opened his home, a team that put children first and a community that showed up with love. And it is worth praying for every young person who was hurt that night, and for their privacy.",
+        "DISCLOSURE: Gospel News Access is part of the same media group as PR STARPOWER, which represents SKVLK Fest. Terry Bryant, the festival's spokesperson, is a senior editor in the group."
+      ],
+      "corrections": [],
+      "signed_off_by": "Terry Bryant, Senior Editor (directed Nov 11, 2026)",
+      "status": "published"
+    },
+    {
       "slug": "skvlk-fest-2026-family-celebration-community-embraced",
       "title": "A Family Celebration the Community Embraced: SKVLK Fest Team Says Stabbing Reports Are False",
       "standfirst": "Jamie Foxx's daughter Anelise marked her 18th birthday with a festival that drew families and young people from across the region. The festival's publicist says the reports of a stabbing never happened. How does your church guard young people's stories online?",
@@ -45,7 +126,7 @@
       "image": "assets/img/skvlk-2026-crowd-stage.jpg",
       "image_alt": "The crowd facing the stage at SKVLK Fest 2026",
       "image_credit": "Photo: PR STARPOWER",
-      "feature": true,
+      "feature": false,
       "body": [
         "Anelise, the daughter of Jamie Foxx, turned 18 with a celebration the whole community could share. SKVLK Fest, the Halloween music festival she created, filled the family's Thousand Oaks home on Saturday, November 7 with carnival rides, music and families. Organizers say more than 25,000 people attended; the Ventura County Sheriff's Office estimated 3,000 or more.",
         "\"It was amazing,\" said Terry Matari Bryant of PR STARPOWER, the festival's publicist, who attended. \"The community loved it, the children loved it, and Jamie and Anelise put on a fantastic show.\"",
@@ -353,7 +434,7 @@
           "names": "Terry Bryant"
         }
       ],
-      "feature": true,
+      "feature": false,
       "feature_image": "assets/img/freda-catalina-gold-lead.jpg",
       "feature_focus": "50% 20%",
       "feature_layout": "portrait",
