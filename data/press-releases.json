@@ -5,6 +5,47 @@
  ],
  "releases": [
   {
+   "slug": "gna-charts-launch-music-submissions",
+   "status": "published",
+   "title": "Gospel News Access Launches The GNA Charts and Opens Music Submissions to Gospel and Christian Artists",
+   "subhead": "Four weekly charts built on real measurement, a free and secure submission process for artists and labels, and a promise: chart positions are never for sale.",
+   "dateline": "LOS ANGELES",
+   "date": "November 11, 2026",
+   "image": "assets/img/gna-charts-launch.jpg",
+   "image_alt": "The GNA Charts",
+   "image_caption": "The GNA Charts. Gospel News Access.",
+   "body": [
+    "Gospel News Access today announced The GNA Charts, four weekly charts measuring gospel and Christian music, and opened music submissions to artists, labels and distributors.",
+    "The charts will be built from real measurement: spins reported by a panel of gospel and Christian radio and streaming programmers, streaming movement and release activity. The full method is published on the Gospel News Access website. The first GNA Chart is expected later this month and will publish every Tuesday at 12:00 noon Pacific.",
+    "Until the first chart publishes, Gospel News Access will report on the industry's weekly gospel rankings, including Billboard's gospel charts, in its music news coverage.",
+    "“Gospel music is ministry, and it deserves a home that measures it honestly and celebrates it loudly,” said Terry Bryant, Senior Editor of Gospel News Access. “We want every artist, from the biggest choirs to the independent psalmist recording at home, to know there is a place where their music will be heard. And we will never sell a chart position.”",
+    "Submissions are free. Artists and labels submit through one secure online form; every submission is logged and reviewed by the Gospel News Access music desk. Submission does not guarantee charting or coverage. Radio and streaming programmers who want to join the reporter panel can apply on the website.",
+    "Gospel News Access does not accept payment for chart consideration, chart position or reporter panel membership.",
+    "About Gospel News Access: Gospel News Access (gospelnewsaccess.com) covers gospel music, the church, faith leaders and good news from Los Angeles and around the world."
+   ],
+   "contact_name": "Gospel News Access Music Desk",
+   "contact_email": "",
+   "contact_note": "Press inquiries: gospelnewsaccess.com/contact.html. Please submit music through the website form, not by email.",
+   "links": [
+    {
+     "label": "The GNA Charts",
+     "url": "https://gospelnewsaccess.com/charts.html"
+    },
+    {
+     "label": "How the charts are built",
+     "url": "https://gospelnewsaccess.com/charts/methodology.html"
+    },
+    {
+     "label": "Submit music",
+     "url": "https://gospelnewsaccess.com/submit-music.html"
+    },
+    {
+     "label": "Join the reporter panel",
+     "url": "https://gospelnewsaccess.com/charts/panel.html"
+    }
+   ]
+  },
+  {
    "slug": "skvlk-fest-2026-community-thanks",
    "status": "published",
    "title": "SKVLK Fest Thanks Families and Community After Joyful 18th Birthday Celebration; Sheriff Confirms No Stabbing",

@@ -710,6 +710,23 @@ def render_charts() -> None:
             "joining the <a href=\"charts/panel.html\">reporter panel</a>, and "
             "artists and labels <a href=\"submit-music.html\">submitting "
             "music</a>.</p>"))
+        # Bridge while the first GNA chart is measured (Terry, Nov 11 2026):
+        # point readers to Billboard's gospel charts, linked, never copied.
+        body.append(
+            '<h2>While our first chart is measured</h2>'
+            '<p>Until the first GNA Chart publishes later this month, follow the '
+            'industry&rsquo;s weekly gospel rankings at Billboard. These are '
+            'Billboard&rsquo;s charts, on Billboard&rsquo;s site; we link to them '
+            'and report on them in our news coverage.</p><ul>'
+            '<li><a href="https://www.billboard.com/charts/gospel-songs/" rel="noopener">Billboard Hot Gospel Songs</a></li>'
+            '<li><a href="https://www.billboard.com/charts/gospel-albums/" rel="noopener">Billboard Top Gospel Albums</a></li>'
+            '<li><a href="https://www.billboard.com/charts/gospel-airplay/" rel="noopener">Billboard Gospel Airplay</a></li>'
+            '<li><a href="https://www.billboard.com/charts/gospel-streaming-songs/" rel="noopener">Billboard Gospel Streaming Songs</a></li>'
+            '</ul>'
+            '<div class="note"><h3>Artists and labels: be on the first GNA Chart</h3>'
+            '<p>Submissions open this week through one secure form, reviewed by our '
+            'music desk. <a href="submit-music.html">See what we ask for</a> and '
+            '<a href="press/gna-charts-launch-music-submissions.html">read the announcement</a>.</p></div>')
     else:
         for key, name, size, blurb in CHART_META:
             entries = (charts.get(key) or {}).get("entries", [])
