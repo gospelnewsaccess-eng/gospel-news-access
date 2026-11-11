@@ -5,6 +5,37 @@
   ],
   "releases": [
     {
+      "slug": "skvlk-fest-2026-sheriff-investigation-no-stabbing",
+      "status": "published",
+      "title": "Sheriff’s Investigation Finds No Stabbing at Jamie Foxx’s SKVLK Fest Halloween Party",
+      "subhead": "The Ventura County Sheriff’s Office investigated and confirmed that no one was stabbed, contrary to widespread media reports.",
+      "dateline": "HIDDEN VALLEY, Calif.",
+      "date": "November 10, 2026",
+      "image": "assets/img/skvlk-2026-crowd-stage.jpg",
+      "image_alt": "The crowd facing the stage at SKVLK Fest 2026",
+      "image_caption": "SKVLK Fest 2026. Photo: PR STARPOWER.",
+      "body": [
+        "The Ventura County Sheriff's Office investigated and confirmed that no one was stabbed at the November 7th SKVLK Fest Halloween party at Jamie Foxx’s Hidden Valley home, contrary to widespread media reports.",
+        "Early reports to Sheriff’s dispatch alleged that one juvenile had slashed another with a knife, and those initial claims were repeated widely in the press. On November 9th, detectives interviewed the victim and determined the victim was not assaulted with a knife and that the superficial injury appears to have resulted from a mutual combat/simple battery.",
+        "“We’re grateful to the Ventura County Sheriff's deputies and detectives for their thorough work, and to the EMTs and security staff who responded quickly that night,” said Terry Bryant, a spokesperson for SKVLK Fest. “Our thoughts are with everyone who was hurt, and we’re cooperating fully as the investigations continue. But the record needs to be clear: no one was stabbed. We hope the outlets that reported otherwise will correct their stories.”",
+        "The Sheriff’s Office is continuing to investigate the separate altercations that occurred that night. Mr. Foxx’s team is cooperating fully and encourages anyone with video of those incidents to share it with the Sheriff’s East County Investigations Bureau.",
+        "We urge media outlets that reported a stabbing to update their coverage to reflect the Sheriff’s findings."
+      ],
+      "contact_name": "Terry Bryant",
+      "contact_email": "info@prstarpower.com",
+      "contact_note": "Issued by PR STARPOWER on behalf of SKVLK Fest. Gospel News Access is part of the same media group.",
+      "links": [
+        {
+          "label": "Official release on PR STARPOWER",
+          "url": "https://prstarpower.com/statement-skvlk-fest-2026.html"
+        },
+        {
+          "label": "Ventura County Sheriff's release RB# 26-146404",
+          "url": "https://local.nixle.com/alert/12829667/"
+        }
+      ]
+    },
+    {
       "slug": "freda-payne-still-standing-catalina",
       "status": "published",
       "title": "Freda Payne, 84, Still Standing: Sold-Out Los Angeles Show Honors the Women Who Built American Song",
