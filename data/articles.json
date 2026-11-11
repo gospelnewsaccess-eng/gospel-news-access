@@ -1,8 +1,27 @@
 {
-  "generated_at": "2026-11-11T04:47:49Z",
+  "generated_at": "2026-11-11T07:35:15Z",
   "story_count": 600,
-  "with_photo": 450,
+  "with_photo": 449,
   "items": [
+    {
+      "id": "00e204a7af554847",
+      "title": "Sadie Robertson Huff Was the Poster Child for Christianity. She Says It Nearly Crushed Her.",
+      "link": "https://relevantmagazine.com/life5/sadie-robertson-huff-was-the-poster-child-for-christianity-she-says-it-nearly-crushed-her/",
+      "summary": "Sadie Robertson Huff spent years believing she had to be perfect for God and for her audience. She says a bare-faced video and one night in her backyard changed that.",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-11T06:31:16Z",
+      "first_seen": "2026-11-11T07:35:15Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/sadie.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ac5dc9572ce0bcb6",
       "title": "#TSRFancyFeet: #KirkFranklin hit the bend last night during the #EbonyPower100Gala 🔥📹:(@thekripeck ) #TSRStaffAS",
@@ -201,6 +220,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "2c0931b1a6002ace",
+      "title": "Mother Bethel panel explores links between Black churches, education and self-determination",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQTnJxZzBIVktPTkhfczJ1c3FOVi1KYi1LTnlQUlBMS1Z6a0pESVFpekprNWhtNk5IQXQwNzBuTmRDSGZub1BGVllzdDJENGd0ZGk0WnkxVjVoYXIwb0FoNlF6TlRjdFBUbkxIeWlCa3BKUGJfLWVHd25QQ0NqS0hiRzA1aWE3dU5TSXdPWnRsLWVJQld1ZTRueEhKNEMzTXI0WGpwNUlfR3prLUROeVpZMDdscW1MNEZ4M2gta1lIc0x5cEM1ajFqeE1Od0w4N3ppem5vS3JRcm16bTlDRElZcFdtY3VRcVF6cVZsZ2xHRDJscHhMQWNNUFZlQW5qMmV2MVVSWWlpQ3dEWGtsb3lPRw?oc=5",
+      "summary": "Mother Bethel panel explores links between Black churches, education and self-determination phillytrib.com",
+      "outlet": "phillytrib.com",
+      "outlet_url": "https://www.phillytrib.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-11T00:00:00Z",
+      "first_seen": "2026-11-11T07:35:15Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-11T07:35:15Z"
     },
     {
       "id": "720fa867b9beabd6",
@@ -1238,6 +1274,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "0353dcfb6880ca4c",
+      "title": "Marvin Sapp: Restoration Live Experience",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaVgxN3dlRm9sbFp4a2N5QUhodUVOOWNqaGFGMS1YUEtDLW1fUnZVRV9nZ0I0YVBEbEkxMzZwTEh4Q2JDTUVQZzhidUp5WG5jSW92MDk1ZWQ1V2RNMGF0ZFo2SUJqbTQ3Y0R6STBoS2NfcXZOb2lrbFVPSkJaWTRDVmZncGNCQVFaS1ZzLdIBkgFBVV95cUxOQnd5VXF4c01XaHBUNzdSUDhVTXhTY2E3OFh6MGJaeV83QV9HYVh1QTh3a3FId1VRY1BwbWwwZkt6dU9YTE1aTWNuN3FkUEhfbHNOUEVGcjN0NlkweGJxMnc3Y3Exb0w5aGN3eDZrLVZTSHpjby1MSjhBM1gxQldWanFBWi13YXBWSEdRM29XOVQ3UQ?oc=5",
+      "summary": "Marvin Sapp: Restoration Live Experience WJTV",
+      "outlet": "WJTV",
+      "outlet_url": "https://www.wjtv.com",
+      "source_feed": "Google News: Marvin Sapp",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-10T17:40:50Z",
+      "first_seen": "2026-11-11T07:35:15Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-11T07:35:15Z"
     },
     {
       "id": "8dd53d50f9607556",
@@ -11049,61 +11102,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-09T04:09:46Z"
-    },
-    {
-      "id": "ec0aa1dc6dccd776",
-      "title": "Russell Brand found guilty of rape, sexual assault; faces sentence 'of some length'",
-      "link": "https://www.christianpost.com/news/russell-brand-found-guilty-of-rape-sexual-assault.html",
-      "summary": "British comedian and actor Russell Brand was convicted Thursday of one count of rape and three counts of sexual assault following a trial in London.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-05T15:51:42Z",
-      "first_seen": "2026-11-05T21:52:53Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272601_w_550_367_678_176.jpg?v=20261105111057",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fe474f5a6010b426",
-      "title": "Bodie brings Christian alt-rock to Kiva Auditorium",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaDNocnJ2WXdaYkw1Sjh5ZmVuMVVEdndQM3dmbldBQUI2X1ZOa25VWmRxem9tS3JxYTRXN053MGJDU0lBZGE5UzdwdGp4NU9ZUjA4bHhXazhQQ3pmaHpSZVBWM2dSbXEtMW5aQnJGRU5QUmRnSjN4cDlZSXhWY3JzQ3NKYlR1T2dvdDFRd1lkV1hsT01aNWwxeTdhZnNGLUxiX2RGRWU1eFMxV0xDb0pVYk5Kb0xaUDVjUTIwaW5yOTM0RGVCSFNUMHZB?oc=5",
-      "summary": "Bodie brings Christian alt-rock to Kiva Auditorium Albuquerque Journal",
-      "outlet": "Albuquerque Journal",
-      "outlet_url": "https://www.abqjournal.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-05T15:31:00Z",
-      "first_seen": "2026-11-05T15:59:51Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-06T03:59:51Z",
-      "image_tried": "2026-11-08T20:05:27Z"
-    },
-    {
-      "id": "cb0582a6add07d46",
-      "title": "Ancient Temple Mount Discovery Reveals Striking Connection to Jesus’ Prophetic Warning",
-      "link": "https://mycharisma.com/news/ancient-temple-mount-discovery-reveals-striking-connection-to-jesus-prophetic-warning/",
-      "summary": "Another extraordinary discovery has emerged from beneath Jerusalem, and this time, archaeologists are uncovering a remarkable piece of history dating back to the days of Jesus. A massive, 2,000-year-old Jewish ritual bathing complex has been unearthed near…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-05T15:29:04Z",
-      "first_seen": "2026-11-05T15:59:51Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-120634.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
