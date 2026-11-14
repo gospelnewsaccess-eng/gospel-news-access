@@ -1,8 +1,382 @@
 {
-  "generated_at": "2026-11-13T21:46:29Z",
+  "generated_at": "2026-11-14T01:56:06Z",
   "story_count": 600,
-  "with_photo": 430,
+  "with_photo": 431,
   "items": [
+    {
+      "id": "c8e2ec8281e7c463",
+      "title": "WBIR Pioneers: The Reverend & Lady Mull spent decades sharing the gospel with East Tennessee",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWnh0RmNJUmFIclZSSTZwd0tfZ2tjaG9HN1FJeFVfVGdLRl9pbnBja29tay12eDFtU3RFanZQaTRzNTZVQUxyai1hSmpKOS1GVExlRzJ5SHBqNF9Od244THBEa2drT3c4MzRFelotME1HWHcwRzdEcXRscW9JTTNhMk5rU0dUREFRcWFRY3hVNkZhZGJJR1NOeGhyUVgxN0NLcHFtV3FuTV9KLUNfVDg2SHlXQUNOV01vN1JOLUFDN0pHQjQxX2pSTXkzMGNVSTJZX0dxSmN4dkhUcGdKU2hEdUlRcG5HaXc3eDRYRTBONTBDQmpaQnBiQWYzN0xNZkJVTjVHUEJQb1VCWDA?oc=5",
+      "summary": "WBIR Pioneers: The Reverend & Lady Mull spent decades sharing the gospel with East Tennessee WBIR",
+      "outlet": "WBIR",
+      "outlet_url": "https://www.wbir.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-14T01:14:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-14T13:56:06Z",
+      "image_tried": "2026-11-14T01:56:06Z"
+    },
+    {
+      "id": "942ff5e567694377",
+      "title": "Agustin’s mother Maria meets Pope Leo: ‘We face illness with faith’",
+      "link": "https://www.vaticannews.va/en/church/news/2026-11/peru-chiclayo-agustin-mother-maria-meets-pope-leo-xiv.html",
+      "summary": "Maria de los Angeles Guzman Valle shares her testimony with Pope Leo XIV as a mother of a son with a serious disability, expressing her conviction that Augustin’s life is a blessing for their family. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T00:49:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/13/2026-11-13-viaggio-apostolico-in-peru---incontro-con-il-mondo-un/1794612910238.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "691f06640a5f0c4b",
+      "title": "Christian music singer Steve Camp dies at 71 after battle with heart failure",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUWxrSE5VUVNpaU5tMjB0ajVFMlJIc0RmWnIwTUpNVEw1enh2akNkLXFTb2ZQaTdtTDVxbnBMOUVCdFBTNUo5LTFWZUFBZldfQ2psOTZZR2pfT0FZUFZjZUZFcmFzSjVpWDg0c1RPWWtyaDJ3Q3dIYmJsVi16QXJDdDVXMnA3ZDVRaGk2a2UzUkRpRXJVVW5ZalhpRnZTdUJMX0ZwdUdHbElfVVZ2RTBVODZLTm9tTl9NeHhictIB0AFBVV95cUxOS3BBYVJObGd6cHJ0SU94eUVXTURMd3dSX2JEd1ZwQ1d6SnhOUnhfRkt6eWpGVGdzVUxlZk15b1BGNWY1a2U1RVJvMDZYeWRwTEtaVkxCNW15RVh2bUxnb1ZPTUpsaElubV9LeS1tdF9kSHBiQ0NhMnlfeWRVaVFkOV9hTzJ6X3Zra2w1bWxMWEdreWJvYlF0cU02YW5oVDdGYTg1RHNiQXlfbDRKZ19VempWWGYzNFlmRDc3NVN1alBEd1YtWnBqVlR0Q3hvbjRU?oc=5",
+      "summary": "Christian music singer Steve Camp dies at 71 after battle with heart failure Cleveland.com",
+      "outlet": "Cleveland.com",
+      "outlet_url": "https://www.cleveland.com",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-14T00:42:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-14T13:56:06Z",
+      "image_tried": "2026-11-14T01:56:06Z"
+    },
+    {
+      "id": "f4cdd75fa81a9dab",
+      "title": "PHOTOS: Pope Leo XIV returns to his former diocese of Chiclayo, Peru",
+      "link": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-returns-to-his-former-dioceses-of-chiclayo-peru",
+      "summary": "The Holy Father led the Chiclayo Diocese from 2015–2023.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T00:35:37Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/_SIM7440.JPG_ck94h7.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4739ffd2c4b38368",
+      "title": "IE Megachurch Pastor Blasted For Anti-Islamic Sermon After Midterm Election",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNDRXM0VDX01uY2lpNG5obVFnb05ScGlFYmhGMmp4YkZtWC12OHN5M1h1NDlYaE43STFQZDRsTVg0ZWR1eDB6dFJhQTlzSzdjZGVTbkhzZnd6VGR0dWlFZGdXOTZudTFwbWczOFNZbmVyT1gxMVYxTi00ZXNxdzM2QkhQRHdlRGd3cExtVGwyTTFlckZ3c1JwRWV2bGxxVl9EVjdkaFBuWlkxMWEweURjSGQ2MjJGcldE0gHPAUFVX3lxTE5ONC1aeFpEeWplVjlEUUZOMW5TTDAyN2FMLXY1SU1NV0Q4dWFmUzZxZ0hYakI1ZmRFR3gtX0RtVXpBQ05JdmpjbFpuQllxcHR4a3FTQU82d0ZvT1lwSk9FUXFSUEZBOTJoSzBsTUtUUmZadnJxa1JxSTBKcEFBTTB2Ym82YzRZWTBITE83MHNodnFlZV9WQ0l3S0J0UWl4RE14Z012YjN0VzR2MHQwLWNRNmVGdnlHQkhGVFA5eC03SjN2UFd0cExyNV8yY25lcw?oc=5",
+      "summary": "IE Megachurch Pastor Blasted For Anti-Islamic Sermon After Midterm Election Patch",
+      "outlet": "Patch",
+      "outlet_url": "https://patch.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-14T00:17:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-14T01:56:06Z"
+    },
+    {
+      "id": "5bf5986372dffabc",
+      "title": "In Peru, some Sodalitium abuse survivors want more from Leo",
+      "link": "https://religionnews.com/2026/11/13/as-he-heads-to-peru-sodalitium-abuse-survivors-want-more-from-leo/",
+      "summary": "LIMA, Peru (RNS) — Survivors of the group and other anti-abuse advocates say that Sodalitium’s suppression will remain simply a declaration, not a reality, without concrete follow-through by the Vatican to dismantle the group.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T23:54:55Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Sodalitium-Peru1.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2b800a4c6cc3c086",
+      "title": "Pope in Peru: Search for truth in universities becomes service to humanity",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-the-search-for-truth-must-become-service-for-humanity.html",
+      "summary": "Visiting the Catholic University of Saint Turibius of Mogrovejo in Chiclayo, Peru, Pope Leo says universities must foster an encounter between faith and reason, and between religion and science, through dialogue and inquiry in service of the common good. Read…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T23:53:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/13/2026-11-13-viaggio-apostolico-in-peru---incontro-con-il-mondo-un/1794613799661.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e03ae226610c398b",
+      "title": "Taylor Swift to Perform at the 2026 CMA Awards for the First Time in 13 Years",
+      "link": "https://www.jubileecast.com/articles/41066/20261113/taylor-swift-to-perform-at-the-2026-cma-awards-for-the-first-time-in-13-years.htm",
+      "summary": "Taylor Swift to Perform at the 2026 CMA Awards for the First Time in 13 Years",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:45:45Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31530/taylor-swift.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f050ddaa7a12a204",
+      "title": "Nvidia Shares Slide 12.7% in a Week as Some Employees Push for Jensen Huang’s Return",
+      "link": "https://www.jubileecast.com/articles/41065/20261113/nvidia-shares-slide-12-7-in-a-week-as-some-employees-push-for-jensen-huang-s-return.htm",
+      "summary": "Nvidia Shares Slide 12.7% in a Week as Some Employees Push for Jensen Huang’s Return",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:42:33Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32606/jensen-huang.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "aeac1b0d74ba853f",
+      "title": "Kindergarten Cop Actor Christian Cousins Found Dead at 43 After Family Requested Welfare Check, Police Say",
+      "link": "https://www.jubileecast.com/articles/41064/20261113/kindergarten-cop-actor-christian-cousins-found-dead-at-43-after-family-requested-welfare-check-police-say.htm",
+      "summary": "Kindergarten Cop Actor Christian Cousins Found Dead at 43 After Family Requested Welfare Check, Police Say",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:38:44Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32625/christian-cousins.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "43df2e1778098fb1",
+      "title": "Top Chef Alum Leah Cohen’s Husband Ben Byruch, Co-Founder of New York’s Pig & Khao, Dies at 44",
+      "link": "https://www.jubileecast.com/articles/41063/20261113/top-chef-alum-leah-cohen-s-husband-ben-byruch-co-founder-of-new-york-s-pig-khao-dies-at-44.htm",
+      "summary": "Top Chef Alum Leah Cohen’s Husband Ben Byruch, Co-Founder of New York’s Pig & Khao, Dies at 44",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:30:32Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32624/ben-byruch.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1fba885b6cc08e35",
+      "title": "Sadie Robertson Huff Reveals How Mom Korie’s Handwritten Letter Helped Strengthen Her Marriage",
+      "link": "https://www.jubileecast.com/articles/41062/20261113/sadie-robertson-huff-reveals-how-mom-korie-s-handwritten-letter-helped-strengthen-her-marriage.htm",
+      "summary": "Sadie Robertson Huff Reveals How Mom Korie’s Handwritten Letter Helped Strengthen Her Marriage",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:27:06Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/20116/sadie-robertson-huff.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4f279ebc45d6fef5",
+      "title": "Avril Lavigne Welcomes First Baby at 42 and Shares Surprise Photos of Her ‘Mini Princess’",
+      "link": "https://www.jubileecast.com/articles/41061/20261113/avril-lavigne-welcomes-first-baby-at-42-and-shares-surprise-photos-of-her-mini-princess.htm",
+      "summary": "Avril Lavigne Welcomes First Baby at 42 and Shares Surprise Photos of Her ‘Mini Princess’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:20:37Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/11391/avril-lavigne.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3532cfae6f0e1dcc",
+      "title": "Travis Barker Reveals the Precancer Diagnosis That Made Him Quit Smoking Marijuana",
+      "link": "https://www.jubileecast.com/articles/41060/20261113/travis-barker-reveals-the-precancer-diagnosis-that-made-him-quit-smoking-marijuana.htm",
+      "summary": "Travis Barker Reveals the Precancer Diagnosis That Made Him Quit Smoking Marijuana",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-13T23:16:17Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32623/travis-barker.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "3a14f7072ed46c21",
+      "title": "Pollster warns Trump lost young men over affordability, war: 'They're done'",
+      "link": "https://www.christianpost.com/news/pollster-warns-trump-lost-young-men-over-affordability-war.html",
+      "summary": "Rich Baris, a prominent state and national pollster who predicted a Republican midterm rout, claimed that a majority of young men who formerly supported President Donald Trump are angry at Israeli influence in U.S. politics and punished him for it in the…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T23:09:10Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272731_w_550_370.jpg?v=20261113195010",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "161b47756342f268",
+      "title": "Wes Huff gives update on 3-year-old daughter’s condition after hospitalization for multiple seizures",
+      "link": "https://www.christianpost.com/news/wes-huff-gives-update-on-3-year-old-daughters-condition.html",
+      "summary": "Canadian apologist Wes Huff has announced that his 3-year-old daughter has returned home after spending two nights in the hospital following a series of seizures.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T22:57:53Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272738_w_550_304_543_154.jpg?v=20261113180436",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "37a808424b50754d",
+      "title": "Gallup: U.S. death penalty support drops below 50% for first time in decades",
+      "link": "https://www.ewtnnews.com/world/us/gallup-u-s-death-penalty-support-drops-below-50-for-first-time-in-decades",
+      "summary": "In recent decades, support for the death penalty has declined the most with Democrats but has also seen declines among independents and Republicans.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T22:44:49Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/GettyImages-1227542445_femfgl.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d7c96893289046b9",
+      "title": "‘Zaña is the cry of the oppressed’: Pope Leo to return to Peruvian agricultural town",
+      "link": "https://religionnews.com/2026/11/13/zana-is-the-cry-of-the-oppressed-pope-leo-to-return-to-peruvian-agricultural-town/",
+      "summary": "ZAÑA, Peru (RNS) — In the town where he helped found a school, Leo will celebrate a Peruvian saint and meet with marginalized groups.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T22:39:34Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Zana-Peru6.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "7c20f14fc4333bc5",
+      "title": "Pope in Chiclayo: 'Our primary identity is as sons and daughters of God'",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-in-chiclayo-primary-identity-is-sons-and-daughters-of-god.html",
+      "summary": "Meeting with representatives of the local Church in Chiclayo, Pope Leo XIV reminds the faithful that Baptism makes our primary identity always be that of sons and daughters of God, before all else, and calls for properly welcoming all faithful's charisms and…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T22:37:18Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/13/2026-11-13-viaggio-apostolico-in-peru----incontro-con-i-sacerdot/1794607805300.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a4cea81cc57e858e",
+      "title": "Pope Leo XIV visits the St. Oscar Romero Chapel in Chiclayo, Peru",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-the-st-oscar-romero-chapel-in-chiclayo-peru.html",
+      "summary": "During a brief private visit to the St. Oscar Romero Chapel in Chiclayo, Peru, Pope Leo XIV reflects on how all the faithful are called to participate in sharing the Good News of the Lord's love, and thanks the community for their work to complete the chapel…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-13T22:13:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/13/2026-11-13-viaggio-apostolico-in-peru---visita-privata-alla-capp/1794597018320.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a4790adf6d85dc7a",
       "title": "FAA Orders Nationwide Ground Stop as Major Safety Concerns Rock US Airports",
@@ -38,6 +412,40 @@
       "breaking": true,
       "breaking_expires_at": "2026-11-14T09:46:29Z",
       "image_tried": "2026-11-13T21:46:29Z"
+    },
+    {
+      "id": "9d61b9ace000dc8f",
+      "title": "Historic Black Church Finding New Life with Restoration",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQajJRa2NDcWsxcTY4X2pKVU5HYUFmdjJuaGpCOVIxMC0zSlpRUFpkMUpLcXpzUVBmekpjTzA3SFpxWGlrUEd1Q0dXeWtGakxRU1VZSGRxVjNyVGhSdmhUTTdLblpmWTZjaC1XcTBjR0xiUEFpancwWDJYaDYzZHFBRUdOZEFPdHVjQjY4ZWFnalhDaUpEeG04clFxaXAyWmpoWmp1NURELU9JZ2lwQW5TbkxDbmNONWtiSGlucWVlS1oycTFfMWxabGtncVlvUmpT?oc=5",
+      "summary": "Historic Black Church Finding New Life with Restoration thepilot.com",
+      "outlet": "thepilot.com",
+      "outlet_url": "https://www.thepilot.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-13T21:07:00Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-14T01:56:06Z"
+    },
+    {
+      "id": "9bbb8d2aa7ee8e6c",
+      "title": "Tyler Perry Takes Netflix to Church as ‘The Gospel of Christmas’ Hits No. 1",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYVBac3RSSXFSUV9EUXNCSkNZeTFka1BCdzVhMWFJdGtnZE9nSW9Mc3dDSlhxRDgtbU5HMVNyMlYtSldZa29SRUpSM1Fwbk00Mm5qRnhLcFlJU1RlWWhLX0VELTB0NkFLX09ZcmZDeUwzVVRaaDlIR003X0JZMmZMWXpOWUpqdVZJaHFfaHJHVHBZcnVlRklSbWNtX18?oc=5",
+      "summary": "Tyler Perry Takes Netflix to Church as ‘The Gospel of Christmas’ Hits No. 1 Complex",
+      "outlet": "Complex",
+      "outlet_url": "https://www.complex.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-13T20:47:03Z",
+      "first_seen": "2026-11-14T01:56:06Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "f900514817d5306e",
@@ -6287,7 +6695,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-11T12:58:19Z",
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "7993088739451275",
@@ -6323,7 +6731,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "74b502c77b09ccd9",
@@ -6340,7 +6748,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "7e217e12a935ee62",
@@ -6357,7 +6765,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "ab122dddb9e5eb3d",
@@ -6450,7 +6858,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "6128d1ce96db7b36",
@@ -6505,7 +6913,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "3ac32aea919c6c02",
@@ -6522,7 +6930,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "476640dd8afa4aeb",
@@ -6596,7 +7004,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "7c3caa23824f3a97",
@@ -6651,7 +7059,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "00f8cef623761577",
@@ -6687,7 +7095,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T00:58:19Z"
+      "image_tried": "2026-11-14T01:56:06Z"
     },
     {
       "id": "6d05c3101078b8db",
@@ -10652,412 +11060,6 @@
       "first_seen": "2026-11-09T13:10:30Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27000/karen-peck-new-river.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "242a479253792142",
-      "title": "Show of hands: Who wants more than 1 wife?",
-      "link": "https://www.christianpost.com/voices/show-of-hands-who-wants-more-than-one-wife.html",
-      "summary": "Ford points to Exodus 21:10 to defend his two marriages. But that verse belongs to Israel’s civil law, and like Moses’ allowance for divorce, it was an accommodation to hardened hearts rather than God’s design “from the beginning.”",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T08:36:22Z",
-      "first_seen": "2026-11-09T13:10:30Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272630_w_550_412_373_206.jpg?v=20261109052705",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "18abef9cb89c960e",
-      "title": "Gospel singer Toluwanisings for burial today",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yVHZsUlRWZGNjMEdSYjRZOUU2RE5ZWU4wcXZMZ05mTzNxLTRlVURzOFlER3RPQXVnRmdiR1FXVDhSdnB1RjdmbWVwdFU5ZE5BVHJGQ2lCMHVkVDZkb0dkXzN4eGV3OHBGcGVqX0RvdkljaW8?oc=5",
-      "summary": "Gospel singer Toluwanisings for burial today Punch Newspapers",
-      "outlet": "Punch Newspapers",
-      "outlet_url": "https://punchng.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-09T07:34:15Z",
-      "first_seen": "2026-11-09T13:10:30Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-12T19:26:07Z"
-    },
-    {
-      "id": "0ed204035f189073",
-      "title": "Pope Leo to ‘find a family’ at Don Orione center in Claypole",
-      "link": "https://www.vaticannews.va/en/church/news/2026-11/argentina-claypole-don-orione-center-cottolengo.html",
-      "summary": "Ahead of Pope Leo XIV’s visit to the Don Orione Little Cottolengo in Argentina, the center’s communications manager expresses joy to welcome the Pope to this place that offers assistance to people with disabilities. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T06:06:00Z",
-      "first_seen": "2026-11-09T13:10:30Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/06/48848.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f28e1d5e6dfe105f",
-      "title": "Donnie McClurkin Turns 67: Celebrating the Gospel Voice Behind “Stand” and “We Fall Down”",
-      "link": "https://www.jubileecast.com/articles/40943/20261108/donnie-mcclurkin-turns-67-celebrating-the-gospel-voice-behind-stand-and-we-fall-down.htm",
-      "summary": "Donnie McClurkin Turns 67: Celebrating the Gospel Voice Behind “Stand” and “We Fall Down”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T04:54:06Z",
-      "first_seen": "2026-11-09T13:10:30Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/18044/donnie-mcclurkin.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "dd2d349cb3c988eb",
-      "title": "Nicolas Cage Says He Was Relieved ‘Spider-Noir’ Was Cancelled After One Season: ‘Whew, Thank You!’",
-      "link": "https://www.jubileecast.com/articles/40942/20261108/nicolas-cage-says-he-was-relieved-spider-noir-was-cancelled-after-one-season-whew-thank-you.htm",
-      "summary": "Nicolas Cage Says He Was Relieved ‘Spider-Noir’ Was Cancelled After One Season: ‘Whew, Thank You!’",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T04:46:22Z",
-      "first_seen": "2026-11-09T13:10:30Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32486/nicolas-cage.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8ec6f1280173a0c2",
-      "title": "Calvary Chapel Pastors Oppose Costa Mesa Church’s Decision to Ordain Women as Pastors",
-      "link": "https://www.jubileecast.com/articles/40941/20261108/calvary-chapel-pastors-oppose-costa-mesa-church-s-decision-to-ordain-women-as-pastors.htm",
-      "summary": "Calvary Chapel Pastors Oppose Costa Mesa Church’s Decision to Ordain Women as Pastors",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T04:39:08Z",
-      "first_seen": "2026-11-09T13:10:30Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32571/calvary-chapel-costa-mesa.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4b1dd6aa2c827e84",
-      "title": "Gospel according to Mlindo The Vocalist!",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZzZVR1Rla1ZnY2hRMjZxaGxqbG51OEthZGhzZ3FsWXY4WExJeWtmQkRaTy1jcU5QeDU4aXJscWxBTjdjOFRibFo1ZVhlTTFXeHhUYWQzLVlTbDNjTHZmMXFLMFJSWFRfbG9sd3lsSGh4c0FkYWlqaklBOGRCWXlXN2VxbXg?oc=5",
-      "summary": "Gospel according to Mlindo The Vocalist! Daily Sun",
-      "outlet": "Daily Sun",
-      "outlet_url": "https://www.snl24.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-09T04:00:00Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-09T16:09:46Z",
-      "image_tried": "2026-11-12T11:37:20Z"
-    },
-    {
-      "id": "8646faf297a027e9",
-      "title": "P.S. to “Letters to My Young Adult Children and to a Woke, Deceived, and Unloved Generation: 2 Services in 1: Gospel Light House of Prayer International Communion Service October 2026 / The Lamb Who Roars: Revelation’s Stunning Portrait of Jesus Christ (Revelation 1, Part 2) with Daniel Whyte III",
-      "link": "https://blackchristiannews.com/p-s-to-letters-to-my-young-adult-children-and-to-a-woke-deceived-and-unloved-generation-2-services-in-1-gospel-light-house-of-prayer-international-communion-service-october-2026-the-la/?utm_source=rss&utm_medium=rss&utm_campaign=p-s-to-letters-to-my-young-adult-children-and-to-a-woke-deceived-and-unloved-generation-2-services-in-1-gospel-light-house-of-prayer-international-communion-service-october-2026-the-la",
-      "summary": "THE POWER OF PRECIOUS MEMORIES: DANIEL WHYTE III SHARES MORE PRECIOUS MEMORIES WITH HIS CHILDREN ABOUT A BEAUTIFUL SCENIC TRIP The post P.S. to “Letters to My Young Adult Children and to a Woke, Deceived, and Unloved Generation: 2 Services in 1: Gospel Light…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T03:58:51Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/11/image-4.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "421fca5a9ed2ab32",
-      "title": "‘Wanted’ Broadway Review: Historical Musical Plays With Gospel Truth",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5saWZVbG1ULS05Y29FeWI5MWZuV1lOVWFJMDdHcnFZMWYxOURPemYtYmJ2MDVjVlRmblUzWi1rZW5IdU01NndoT1NrbTYxemplQUJad3htOXNHenRDdzdWTmd5NjdxVnpxd2lSNVZZR0NvN21MSVZ3S2Jjcw?oc=5",
-      "summary": "‘Wanted’ Broadway Review: Historical Musical Plays With Gospel Truth Deadline",
-      "outlet": "Deadline",
-      "outlet_url": "https://deadline.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-09T03:00:00Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-09T16:09:46Z",
-      "image_tried": "2026-11-12T11:37:20Z"
-    },
-    {
-      "id": "c74ccdfba08b36df",
-      "title": "McCray Dove & The Dove Brothers: CWGMP Association Convention and Fan Awards 2026",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRi1DdzAtaTJLRkJLOTN0eWQ2cEx0M2tDZWpmYUFTM0R0bnE0dW9Wb3d5ektLX0llRWpuZ2xHZ2dLZ0dnSjVOckhUakU3NzZ0MktGRFk4b1pYRUtiTTJmQ0w4dVljMWJiSEpDU0YxUldIVnN3ZGtrYzdaM3NmZ2JTdHdtTmdCMi1qYVI5azRSTExXVjFmMnZVejZBeU1zZUdNdVd3S2xzWWwxT0ItRGlpcURDcldXbms1SzlHdldocVlsSnlmMGVCME1KaGNMZE95bmw2N3NvQTBfYXo3R3dqOVRjMEZrZmRUSE5IWk9kMTlFc2VabGw0?oc=5",
-      "summary": "McCray Dove & The Dove Brothers: CWGMP Association Convention and Fan Awards 2026 Observer News Enterprise",
-      "outlet": "Observer News Enterprise",
-      "outlet_url": "https://www.observernewsonline.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-09T02:50:25Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-09T16:09:46Z",
-      "image_tried": "2026-11-12T11:37:20Z"
-    },
-    {
-      "id": "66699a172f00b57b",
-      "title": "Pastor Mark Driscoll Calls Islam a ‘Regime,’ Claims Its Approach to Peace Is ‘Convert or Die’",
-      "link": "https://www.jubileecast.com/articles/40940/20261108/pastor-mark-driscoll-calls-islam-a-regime-claims-its-approach-to-peace-is-convert-or-die.htm",
-      "summary": "Pastor Mark Driscoll Calls Islam a ‘Regime,’ Claims Its Approach to Peace Is ‘Convert or Die’",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T01:28:45Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30434/mark-driscoll.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a07fe9edc165060c",
-      "title": "Black Church Coalition gathers in Lexington to support families facing financial hardship",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDZZcFA0TGQxQlozNHk1WDlMbW9KVU5TNV9rbWotc2ppMHB2bVd5X1JBcktyS0Z0aUpld01yREQ4OFZzWHpEamVsYXRmUURrNWc0WTgxdjJXZXN2dWo1X0Uyc3hrRjZLRWxaZXFrWF8yeU43RnNRb1RyOF9uamt4Nm5zamFYc3pJdlFvZzdZOC1zLVBSakMyclRkUEdKTjBxZmNqOXhTQkZoS2NQbzB2WmFDWEJPM0nSAcsBQVVfeXFMTnVCMzVqdFBQVUZXbW45WmJUMGdSVkd1bllOT0xqOGZHS2cwZldMRHc5R0kzQlBxWWNPZVlRbGNQaDBUTGhUdV8xWXlEQWVUUG5lMFpMUmdKQTdrODlTYmxYVGVjMng5N0otS3R2MTZ1cDhKWnUtbzFsSEN4cDlfaUlPX3NseHJYMmlhQ3Y3TldNME1fREV5cFFXTVRQV052MXVvQk1UbmpQUkhGaGJTYjhZUk1uei1MUmstOHhwUVZSZzAzYlN3b05TZzA?oc=5",
-      "summary": "Black Church Coalition gathers in Lexington to support families facing financial hardship WKYT",
-      "outlet": "WKYT",
-      "outlet_url": "https://www.wkyt.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-09T01:23:00Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-12T11:37:20Z"
-    },
-    {
-      "id": "9d3a055dfeda2d76",
-      "title": "Argentina’s Milei embraces Pope Leo XIV, who pushes him on austerity",
-      "link": "https://religionnews.com/2026/11/08/in-argentina-milei-embraces-pope-leo-xiv-who-pushes-him-on-austerity/",
-      "summary": "BUENOS AIRES, Argentina (RNS) – In his speech, Leo emphasized a number of public policy priorities, including many that Milei has made cuts to, though Leo did not directly criticize the president.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T01:16:10Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Argentina-Pope-Leo4.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2ff1b51aacd5db6b",
-      "title": "Katy Perry Reportedly Considering Tell-All Book and Documentary About Russell Brand Marriage",
-      "link": "https://www.jubileecast.com/articles/40939/20261108/katy-perry-reportedly-considering-tell-all-book-and-documentary-about-russell-brand-marriage.htm",
-      "summary": "Katy Perry Reportedly Considering Tell-All Book and Documentary About Russell Brand Marriage",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T00:26:58Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/8873/katy-perry.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7e3ca30e67810087",
-      "title": "First Baptist Church on Main Street celebrates 163 years",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQejBHTEpGTjZCYWJZY2xMbHJaRm9qSmNmM1g5Z2t1d2FPTWxDX25jdk9ta1NSWEVXc2k2bm9VWVlwb215ODQ3bHJkc0FpS1g5bFY4TWxvZEFjYkJETkdOUFpDNjBpNWc2ejd0RmZvSG1mQUNNS0I3Y0ZBOGpoc2VVWFF3REI4b0xoakxGcW04QkpkQdIBpgFBVV95cUxNYTNNX1B0V0oxSklab1NEMDJhaWlPdHlCV2djdnVTUkcxdm5tQnFwQUY3UWpRX2l4Qi00bVZBb3MwU2YtYzNsLXN0b2dzOVRacl83VnpRWWZ4QmI2WHIzRGVfU2VoOHlQeldUZ0Rhd2dEd0lWeG1iTmV4M3NOQUpQLTU0S1RSWUhtSlBQb21ISlk0cVpJVXhIR1ZJRThIQ1o0RlVpMm93?oc=5",
-      "summary": "First Baptist Church on Main Street celebrates 163 years WVIR",
-      "outlet": "WVIR",
-      "outlet_url": "https://www.29news.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-08T23:23:00Z",
-      "first_seen": "2026-11-09T04:09:46Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-12T11:37:20Z"
-    },
-    {
-      "id": "69d42959ee424a8e",
-      "title": "In Argentina, Pope Leo XIV highlights social problems",
-      "link": "https://www.ewtnnews.com/world/americas/in-argentina-pope-leo-xiv-highlights-social-problems",
-      "summary": "The pontiff met with President Javier Milei on his first day in the country.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-08T22:57:30Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794177776/ewtn-news/en/WhatsApp_Image_2026-11-08_at_5.42.18_PM_cmqo1k.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5004ccce731d9db0",
-      "title": "The BCNN1 Torch Leader News Brief — Sunday, November 8, 2026",
-      "link": "https://blackchristiannews.com/the-bcnn1-torch-leader-news-brief-sunday-november-8-2026/?utm_source=rss&utm_medium=rss&utm_campaign=the-bcnn1-torch-leader-news-brief-sunday-november-8-2026",
-      "summary": "Seven stories for Sunday evening, November 8, 2026 — from the persecuted church overseas to the church here at home The post The BCNN1 Torch Leader News Brief — Sunday, November 8, 2026 appeared first on Black Christian News Network One (BCNN1) .",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-08T22:49:54Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/proverbs1-bible-1.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "96e2d5682d8ac0f5",
-      "title": "Pope Leo urges Argentina’s leaders to put common good before political interests",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-argentina-address-authorities-civil-society-diploma.html",
-      "summary": "In his address to authorities upon his arrival in Argentina, the Pope calls for authority exercised as service, stronger democratic institutions, dialogue across political differences, and economic policies that leave no one behind. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-08T22:40:00Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/08/2026-11-08-viaggio-apostolico-in-argentina---incontro-con-le-aut/1794178201208.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5a35c38a2d5fd22c",
-      "title": "Both Sides of the Church Have Failed God, Jesus Christ, and America: 3 Things They Must Do",
-      "link": "https://blackchristiannews.com/both-sides-of-the-church-have-failed-god-jesus-christ-and-america-3-things-they-must-do/?utm_source=rss&utm_medium=rss&utm_campaign=both-sides-of-the-church-have-failed-god-jesus-christ-and-america-3-things-they-must-do",
-      "summary": "Everybody, please turn in your Bibles to Matthew chapter 21. And may I say to you, Happy Thanksgiving Thursday. And The post Both Sides of the Church Have Failed God, Jesus Christ, and America: 3 Things They Must Do appeared first on Black Christian News…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-08T21:35:49Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "05eb2906b5199afe",
-      "title": "The Study of Eschatology (Last Things) Includes Your Death: Are You Ready? (Part 5), with Daniel Whyte III",
-      "link": "https://blackchristiannews.com/the-study-of-eschatology-last-things-includes-your-death-are-you-ready-part-5-with-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=the-study-of-eschatology-last-things-includes-your-death-are-you-ready-part-5-with-daniel-whyte-iii",
-      "summary": "Romans chapter 6, verse 23. And ladies and gentlemen, I want to preach in your hearing part five of a The post The Study of Eschatology (Last Things) Includes Your Death: Are You Ready? (Part 5), with Daniel Whyte III appeared first on Black Christian News…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-08T21:33:43Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/10/daniel-whyte-iii.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "87e18e4f478f858b",
-      "title": "Why Is \"Now Thank We All Our God\" a Thanksgiving Favorite? The Nearly 400-Year-Old Story Behind It",
-      "link": "https://www.jubileecast.com/articles/40938/20261108/now-thank-we-all-our-god-thanksgiving-hymn-story.htm",
-      "summary": "Why Is \"Now Thank We All Our God\" a Thanksgiving Favorite? The Nearly 400-Year-Old Story Behind It",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-08T20:38:08Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31480/hymnal.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "04d794f4c6c48f80",
-      "title": "Pope Leo XIV visits San Martín monument in Buenos Aires",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-san-martin-monument-argentina.html",
-      "summary": "Upon arriving in Argentina, Pope Leo XIV makes a stop at the San Martín monument in Buenos Aires. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-08T20:27:46Z",
-      "first_seen": "2026-11-08T23:51:53Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/08/2026-11-08-viaggio-apostolico-in-argentina---visita-al-monumento/1794169496812.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
