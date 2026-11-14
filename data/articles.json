@@ -1,8 +1,120 @@
 {
-  "generated_at": "2026-11-14T15:27:55Z",
+  "generated_at": "2026-11-14T20:01:21Z",
   "story_count": 600,
-  "with_photo": 431,
+  "with_photo": 432,
   "items": [
+    {
+      "id": "0d627b5cc43b39ca",
+      "title": "Lt. Stitchie’s final farewell: A daughter’s heartbreak and a friend’s memories of a music legend",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRENIbXBJRnprRUhPNHYxVTlWSkhtdy1US0pheUNyVDhYMm0yaF9Qd0UwdWtJVUZBazFYbXFVbUxLbnR1cWVKUFA3NmlGTVo5WW8tV3FwNW92Z0VBUDhiUUhGMTh1cnZQb2lYTk1fQmM3M3pnRDJLcldHZ0Q3dFhKZUk1azN6cTU5djJ4RFNrVS1oblMwSXBwZkJsWUpRdEZsQTVSVHRsVnFBSGZpcWFPcnJ5dUNHd29CNUJlVHlRUHJjRFJUYnhxU1dEbXg3X2RpZGE0?oc=5",
+      "summary": "Lt. Stitchie’s final farewell: A daughter’s heartbreak and a friend’s memories of a music legend Caribbean National Weekly",
+      "outlet": "Caribbean National Weekly",
+      "outlet_url": "https://www.caribbeannationalweekly.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-14T19:51:08Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-15T08:01:21Z",
+      "image_tried": "2026-11-14T20:01:21Z"
+    },
+    {
+      "id": "ac093ee60cf24423",
+      "title": "At papal Mass in Peru, Pope Leo XIV praises the evangelists of the Andes",
+      "link": "https://www.ewtnnews.com/vatican/papal-mass-santa-cruz-de-succhabamba",
+      "summary": "The pontiff encouraged prayer and peaceful action in seeking social justice.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T18:53:50Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/WhatsApp_Image_2026-11-14_at_11.54.06_tvixzk.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fff6e41a8efe31cb",
+      "title": "Pope in Santa Cruz: Jesus calls Church to heed unanswered cries for justice",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/leo-xiv-peru-the-joy-of-being-a-disciple-and-missionary.html",
+      "summary": "Celebrating Mass in Santa Cruz, in the Diocese of Chiclayo, Peru, Pope Leo XIV says the unanswered cry for justice “on the lips of so many men and women” is “a matter of great concern for both the Church and society.\" Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T16:49:38Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/14/2026-11-14-viaggio-apostolico-in-peru---santa-messa-nella-spiana/1794674400742.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "560dccfcd45abdd1",
+      "title": "Pittsburgh Diocese establishes ‘Cabrini Fund’ to help immigrant families facing hardship",
+      "link": "https://www.ewtnnews.com/world/us/pittsburgh-diocese-establishes-cabrini-fund-to-help-immigrant-families-facing-hardship",
+      "summary": "The fund will help with rent, utilities, food and other basic necessities, the diocese said.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T16:00:00Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/images/pittsburgh.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "00db3713cfb7e62c",
+      "title": "Pope Leo greets faithful at parish in Santa Cruz and asks for prayers",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-visits-parish-santa-cruz-peru.html",
+      "summary": "Before celebrating Mass in Santa Cruz de Succhabamba, Peru, Pope Leo XIV visits the local parish, assuring those who are ill of the Church’s closeness and inviting them to pray for him and for all who need God’s help. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T15:57:00Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/14/2026-11-14-viaggio-apostolico-in-peru---visita-alla-parrocchia-d/1794672298247.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "eb7c1fe1ff8faf5a",
+      "title": "Waiting on the Pope in the desert for 14 hours: The Mass in Chiclayo required endurance",
+      "link": "https://religionnews.com/2026/11/14/waiting-on-the-pope-in-the-desert-for-14-hours-the-mass-in-chiclayo-required-endurance/",
+      "summary": "CHICLAYO, Peru (RNS) — According to Vatican estimates, some 500,000 attended the hot desert Mass, with temperatures edging near 90 degrees.",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T15:56:52Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Dessert-Mass01-427x285.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "504f47fc5a4d5e94",
       "title": "Washington Hears Nigeria’s Christians Again: State Department Says Abuja’s Pace Is “Inadequate” One Year After Terror Designation",
@@ -21,6 +133,25 @@
       "image_tried": "2026-11-14T15:27:55Z"
     },
     {
+      "id": "f9e008edf71444fa",
+      "title": "Iraq urges Christians driven out by ISIS to return as new cathedral opens",
+      "link": "https://www.christianpost.com/news/iraq-urges-christians-to-return-as-new-church-opens-in-baghdad.html",
+      "summary": "Iraq’s Christians received a message of hope this week when a Coptic Orthodox cathedral opened in Baghdad, with officials urging Christians who had left to come home.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T15:03:44Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272741_w_550_367_583_79.jpg?v=20261114100900",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
       "id": "293dba0b4c60087f",
       "title": "Vatican envoy: Europe’s military buildup must serve peace, not war",
       "link": "https://www.ewtnnews.com/world/europe/vatican-envoy-europe-s-military-buildup-must-serve-peace-not-war",
@@ -34,6 +165,25 @@
       "first_seen": "2026-11-14T15:27:55Z",
       "image": {
         "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/1b4096e4-c91c-4363-8685-9c1d727e4343_t5aj7z.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9766d983d60a6a12",
+      "title": "Zelensky says US raised Donbas withdrawal in exchange for NATO",
+      "link": "https://www.vaticannews.va/en/world/news/2026-11/ukraine-russia-united-states-mediation-war-russia-nato-europe.html",
+      "summary": "Ukrainian President Volodymyr Zelensky says U.S. negotiators asked whether Kyiv would withdraw its troops from the parts of the eastern Donbas region it still controls if Ukraine were admitted to NATO. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-14T14:55:00Z",
+      "first_seen": "2026-11-14T20:01:21Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/11/13/13/1794571209282.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
@@ -6608,7 +6758,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T15:46:37Z"
+      "image_tried": "2026-11-14T20:01:21Z"
     },
     {
       "id": "2a0f2c08b93cd1e5",
@@ -6777,7 +6927,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T15:46:37Z"
+      "image_tried": "2026-11-14T20:01:21Z"
     },
     {
       "id": "8518ad6f4040e508",
@@ -6889,7 +7039,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T15:46:37Z"
+      "image_tried": "2026-11-14T20:01:21Z"
     },
     {
       "id": "4c1e8e70faf4757f",
@@ -7077,7 +7227,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T15:46:37Z"
+      "image_tried": "2026-11-14T20:01:21Z"
     },
     {
       "id": "fd0099d953214980",
@@ -7113,7 +7263,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T15:46:37Z"
+      "image_tried": "2026-11-14T20:01:21Z"
     },
     {
       "id": "223dde79ceffe564",
@@ -7428,7 +7578,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-11T15:46:37Z"
+      "image_tried": "2026-11-14T20:01:21Z"
     },
     {
       "id": "1d9fba9c9427a27f",
@@ -10916,154 +11066,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "aa3afb71e75f542c",
-      "title": "Russell Brand Jailed for 10½ Years as Father Calls Him the ‘Victim’",
-      "link": "https://www.jubileecast.com/articles/40958/20261109/russell-brand-jailed-for-10½-years-as-father-calls-him-the-victim.htm",
-      "summary": "Russell Brand Jailed for 10½ Years as Father Calls Him the ‘Victim’",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T19:09:50Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32191/russell-brand.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8b803e81904ac208",
-      "title": "New Voices, New Alliances: Religion and Politics with Tom Gjelten",
-      "link": "https://religionnews.com/2026/11/09/new-voices-new-alliances-religion-and-politics-with-tom-gjelten/",
-      "summary": "Tom Gjelten explores what new alliances, religious diversity and nonreligious voters reveal about faith’s changing role in American politics.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T19:08:29Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-13T00:37:40Z"
-    },
-    {
-      "id": "9330ab6a209eaff9",
-      "title": "Trump Says He Wants to Go to Heaven, Makes Stunning Admission About Forgiving His Enemies",
-      "link": "https://mycharisma.com/news/trump-says-he-wants-to-go-to-heaven-makes-stunning-admission-about-forgiving-his-enemies/",
-      "summary": "During an extended 60 Minutes interview, President Donald Trump faced a question far more consequential than the latest political battle: Where does he believe he will spend eternity? Near the conclusion of the interview with Ross Douthat, Trump was asked…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T19:06:50Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/05/Bait-of-Satan-Cover-2026.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "206cf939d257693a",
-      "title": "Amy Grant and Brandy Clark Announce Joint UK and Ireland Tour for 2027",
-      "link": "https://www.jubileecast.com/articles/40957/20261109/amy-grant-and-brandy-clark-announce-joint-uk-and-ireland-tour-for-2027.htm",
-      "summary": "Amy Grant and Brandy Clark Announce Joint UK and Ireland Tour for 2027",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T19:04:08Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32576/amy-grant.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0334c46f84626edc",
-      "title": "Dashboard Confessional Is Taking Its ‘MTV Unplugged’ Set on the Road for the 25th Anniversary",
-      "link": "https://relevantmagazine.com/culture/music/dashboard-confessional-is-taking-its-mtv-unplugged-set-on-the-road-for-the-25th-anniversary/",
-      "summary": "The most famous night in Dashboard Confessional’s history is going back on tour. The band announced a 15-date North American run celebrating the 25th anniversary of its 2002 MTV Unplugged performance, starting March 12 in Chicago at The Salt Shed and ending…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T19:01:47Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/dashboard.jpg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "690ac564fec6a285",
-      "title": "CMA Issues Apology After Sammy Kershaw Red Carpet Backlash, Confirms Talks With His Team",
-      "link": "https://www.jubileecast.com/articles/40956/20261109/cma-issues-apology-after-sammy-kershaw-red-carpet-backlash-confirms-talks-with-his-team.htm",
-      "summary": "CMA Issues Apology After Sammy Kershaw Red Carpet Backlash, Confirms Talks With His Team",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T18:55:48Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32529/sammy-kershaw.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6382f11294313fa3",
-      "title": "’60 Minutes’ Asked Trump if He Could Forgive His Enemies to Get Into Heaven: ‘The Answer Is No.’",
-      "link": "https://relevantmagazine.com/current/nation/60-minutes-asked-trump-if-he-could-forgive-his-enemies-to-get-into-heaven-the-answer-is-no/",
-      "summary": "In a 60 Minutes interview that aired Nov. 8, New York Times columnist Ross Douthat asked President Trump what happens to him when he dies. “Well, I’m a religious person, so in theory, I go to heaven,” Trump said. Asked whether he thinks he’s going, he…",
-      "outlet": "Relevant",
-      "outlet_url": "",
-      "source_feed": "Relevant",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-09T18:49:15Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": {
-        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/hf_20261109_185014_bc328ddf-7fe9-406d-8bf5-0927e2ecdcd7-1100x738.png",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "0d40a0ab808f87c7",
-      "title": "Gospel Light Society International Whyte House Early Morning Devotional Prayer & Reading of the Old Testament: Job 19 — “For I Know That My Redeemer Liveth” — Daniel Whyte III",
-      "link": "https://blackchristiannews.com/gospel-light-society-international-whyte-house-early-morning-devotional-prayer-reading-of-the-old-testament-job-19-for-i-know-that-my-redeemer-liveth-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=gospel-light-society-international-whyte-house-early-morning-devotional-prayer-reading-of-the-old-testament-job-19-for-i-know-that-my-redeemer-liveth-daniel-whyte-iii",
-      "summary": "Watch the video of this service on Substack: G.L.S.I. — Whyte House Reading of OT (Job 19) Turn in your The post Gospel Light Society International Whyte House Early Morning Devotional Prayer & Reading of the Old Testament: Job 19 — “For I Know That My…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-09T18:41:13Z",
-      "first_seen": "2026-11-09T23:04:01Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-13T00:37:40Z"
     }
   ]
 }
