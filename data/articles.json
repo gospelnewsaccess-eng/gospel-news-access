@@ -1,8 +1,253 @@
 {
-  "generated_at": "2026-11-15T19:54:34Z",
+  "generated_at": "2026-11-15T23:41:52Z",
   "story_count": 600,
-  "with_photo": 414,
+  "with_photo": 417,
   "items": [
+    {
+      "id": "be7f7e7e1b4c8311",
+      "title": "Christianity Today Faces Projected $3 Million Deficit as Magazine Marks 70 Years",
+      "link": "https://www.jubileecast.com/articles/41117/20261115/christianity-today-faces-projected-3-million-deficit-as-magazine-marks-70-years.htm",
+      "summary": "Christianity Today Faces Projected $3 Million Deficit as Magazine Marks 70 Years",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T23:31:51Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32657/christianity-today.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "17c43413d57559ba",
+      "title": "“Dad, Jesus Is So Good”: Matt Chandler Recalls the Tearful Call From His Daughter After Eight Difficult Years",
+      "link": "https://www.jubileecast.com/articles/41116/20261115/dad-jesus-is-so-good-matt-chandler-recalls-the-tearful-call-from-his-daughter-after-eight-difficult-years.htm",
+      "summary": "“Dad, Jesus Is So Good”: Matt Chandler Recalls the Tearful Call From His Daughter After Eight Difficult Years",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T23:19:33Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/22983/matt-chandler.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d6e46c16f00d528d",
+      "title": "“I’m Not Some Controlling Monster”: Elizabeth Holmes’ Fiancé Billy Evans Breaks His Silence on Netflix Rival A24 Documentary",
+      "link": "https://www.jubileecast.com/articles/41115/20261115/i-m-not-some-controlling-monster-elizabeth-holmes-fiancé-billy-evans-breaks-his-silence-on-netflix-rival-a24-documentary.htm",
+      "summary": "“I’m Not Some Controlling Monster”: Elizabeth Holmes’ Fiancé Billy Evans Breaks His Silence on Netflix Rival A24 Documentary",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T23:14:01Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32656/billy-evans.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8fcd15853d2ef9a3",
+      "title": "Mia Latter Waives Anonymity, Says Russell Brand Raped Her at 16 and Calls for Consent Law Reform",
+      "link": "https://www.jubileecast.com/articles/41114/20261115/mia-latter-waives-anonymity-says-russell-brand-raped-her-at-16-and-calls-for-consent-law-reform.htm",
+      "summary": "Mia Latter Waives Anonymity, Says Russell Brand Raped Her at 16 and Calls for Consent Law Reform",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T22:58:44Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32191/russell-brand.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "d870255bc0103417",
+      "title": "Phil Collins Makes Rare Public Appearance With Daughter Lily at Rock Hall: “You Haven’t Heard the Last of Me”",
+      "link": "https://www.jubileecast.com/articles/41113/20261115/phil-collins-makes-rare-public-appearance-with-daughter-lily-at-rock-hall-you-haven-t-heard-the-last-of-me.htm",
+      "summary": "Phil Collins Makes Rare Public Appearance With Daughter Lily at Rock Hall: “You Haven’t Heard the Last of Me”",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T22:56:30Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32615/phil-collins.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "fce139a117758c95",
+      "title": "Alice Huang Left Megaspeed a Year Before Jensen Huang’s Resignation, Company Says as It Launches Probe",
+      "link": "https://www.jubileecast.com/articles/41112/20261115/alice-huang-left-megaspeed-a-year-before-jensen-huang-s-resignation-company-says-as-it-launches-probe.htm",
+      "summary": "Alice Huang Left Megaspeed a Year Before Jensen Huang’s Resignation, Company Says as It Launches Probe",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T22:53:37Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32579/jensen-huang.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0838bc365bb44283",
+      "title": "Pope: Anything that harms the dignity of life destroys the beauty of earth",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-mass-pucallpa-environment-amazon-caring-life-creation-peru.html",
+      "summary": "While celebrating Mass in Pucallpa, a city in the Peruvian Amazon, Pope Leo XIV emphasized the close connection between caring for life and caring for the earth, deplored the devastation of the Amazon basin and the effects on its people and insisted that God…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-15T22:50:00Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/15/2026-11-15-viaggio-apostolico-in-peru---santa-messa/1794783002094.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "5e0d31e01e565282",
+      "title": "PHOTOS: Pope Leo XIV heads to Cusco, Pucallpa",
+      "link": "https://www.ewtnnews.com/world/americas/photos-pope-leo-xiv-heads-to-cusco-pucallpa",
+      "summary": "Pope Leo XIV said the Angelus at the Cathedral Basilica of the Virgin of the Assumption before heading to Pucallpa, where he met with indigenous people from the Amazon.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-15T22:17:33Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/PopeCuzcohat_qrcauv.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0c92bcb3090e8bb1",
+      "title": "Why Anne Wilson Won’t Leave Her Faith Behind",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdkN5OWxfOVF0czRNOU5BV0h5ak1UU0JFUWFycG9YMWlHX0wxaFptQ3VzT2tHV2FfRkpJZlJXaklvbG5fS2hvdlV1bjg2T0xSVlQ2OGdicHlDakFzYk1DLWY3alEtYjV5NFBOaWFHRTRsNHZvWWl3end2Ti1QV1RrZGtudHVUYmZNUmVlVTdZZWF2SGs?oc=5",
+      "summary": "Why Anne Wilson Won’t Leave Her Faith Behind Movieguide",
+      "outlet": "Movieguide",
+      "outlet_url": "https://www.movieguide.org",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-15T21:56:15Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-15T23:41:52Z"
+    },
+    {
+      "id": "13ac088179d1e2a1",
+      "title": "Pope Leo in the Peruvian Amazon decries human rights abuses and exploitation",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-in-heart-of-peruvian-amazon-decries-human-rights-abuses.html",
+      "summary": "Meeting on Sunday with missionaries and representatives of the Amazonian peoples in Pucallpa, in the heart of the Peruvian Amazon, Pope Leo XIV decries abuses against Amazonian people and the irresponsible exploitation of natural resources, which undermines…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-15T20:50:00Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/15/2026-11-15-viaggio-apostolico-in-peru---incontro-con-i-missionar/1794777606823.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4888aadefdc4b88c",
+      "title": "Jeremy Camp Releases “A Camp Family Christmas” With His Wife and Kids: What’s on the 11-Song Album",
+      "link": "https://www.jubileecast.com/articles/41111/20261115/jeremy-camp-releases-a-camp-family-christmas-wife-kids-11-song-album.htm",
+      "summary": "Jeremy Camp Releases “A Camp Family Christmas” With His Wife and Kids: What’s on the 11-Song Album",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T20:11:43Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32655/jeremy-camp-and-family.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "8d39630be30f87bd",
+      "title": "David Leonard Releases “O Come, All Ye Faithful”: All Sons & Daughters Co-Founder Delivers a Christmas Classic",
+      "link": "https://www.jubileecast.com/articles/41110/20261115/david-leonard-releases-o-come-all-ye-faithful-all-sons-daughters-christmas-classic.htm",
+      "summary": "David Leonard Releases “O Come, All Ye Faithful”: All Sons & Daughters Co-Founder Delivers a Christmas Classic",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T20:06:22Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32654/david-leonard.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "acfc00cbf40a1e71",
+      "title": "Ryan Stevenson Drops “December Sky,” a New Christmas Single, Just in Time for the Holidays",
+      "link": "https://www.jubileecast.com/articles/41109/20261115/ryan-stevenson-drops-december-sky-new-christmas-single-just-in-time-for-holidays.htm",
+      "summary": "Ryan Stevenson Drops “December Sky,” a New Christmas Single, Just in Time for the Holidays",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-15T20:01:30Z",
+      "first_seen": "2026-11-15T23:41:52Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32653/ryan-stevenson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "919d08189408d5ce",
       "title": "CAIN Drops “Return the Same,” a Song for “The Chosen: The Three Kings,” Before the Dec. 14 Fox Premiere",
@@ -10791,245 +11036,6 @@
       "image": {
         "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
         "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7ef4f08ce8a58909",
-      "title": "EARNEST PUGH INVITES LISTENERS INTO A POWERFUL CONVERSATION WITH GOD ON NEW SINGLE “TALK TO ME”",
-      "link": "https://pathmegazine.com/articles/earnest-pugh-invites-listeners-into-a-powerful-conversation-with-god-on-new-single-talk-to-me/",
-      "summary": "Stellar Award-winning, Billboard chart-topping Gospel artist Earnest Pugh delivers a timely reminder that sometimes we must silence the noise to hear God’s voice. Pugh’s new single, “Talk … The post EARNEST PUGH INVITES LISTENERS INTO A POWERFUL CONVERSATION…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-10T15:59:12Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-13T21:46:29Z"
-    },
-    {
-      "id": "6c54b59e97026039",
-      "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
-      "link": "https://religionnews.com/2026/11/10/saudi-arabia-turns-to-syria-for-help-as-fighting-with-houthis-escalates/",
-      "summary": "DAMASCUS, Syria (AP) — Syrian military advisers have already deployed to Saudi Arabia, but no fighters have been sent to Yemen, according to a regional official and two Syrian officials, all of whom spoke on condition of anonymity.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T15:57:52Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-13T21:46:29Z"
-    },
-    {
-      "id": "314673843ac53e06",
-      "title": "Judge dismisses criminal charges against former Pawleys Island church leaders",
-      "link": "https://www.christianpost.com/news/criminal-charges-against-pawleys-island-church-leaders-dismissed.html",
-      "summary": "A judge has dismissed all criminal charges against the former leaders of Pawleys Island Community Church in South Carolina over their decision to let a convicted sex offender work as a volunteer around children at their facilities.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T15:30:00Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272667_w_550_292_691_172.jpg?v=20261110103025",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "621bd51767bcfd13",
-      "title": "Guardians Announce Major Changes and 2027 Tour",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdER0WWZld2lNNVNyRHZUU0NVRGxvWGJ2NFZMUHFSMlVtY2NDTXdMTzkyMzlJQUxaRWRwblZ6U0EzSHBuWnBjemZFU1g0b1U1YlNZYWJoanZZblVDWWpySC1tVUhIRk1QdWkyQ0FnWk5KRnlldWFLYVY0RHRfVzZvTGVn?oc=5",
-      "summary": "Guardians Announce Major Changes and 2027 Tour Singing News Magazine",
-      "outlet": "Singing News Magazine",
-      "outlet_url": "https://singingnews.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-10T15:00:59Z",
-      "first_seen": "2026-11-11T04:47:49Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-14T08:33:40Z"
-    },
-    {
-      "id": "73f3831e8b67a7ef",
-      "title": "Erika Kirk calls Dave Chappelle 'beyond disgusting' for saying Charlie Kirk shooting left him in 'good mood'",
-      "link": "https://www.christianpost.com/news/erika-kirk-calls-dave-chappelle-beyond-disgusting.html",
-      "summary": "Erika Kirk called the mocking of the assassination of her late husband and Turning Point USA co-founder Charlie Kirk “beyond disgusting” after comedian Dave Chappelle said he felt “better” after Kirk’s assassination.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T14:42:33Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272661_w_550_374_486_159.jpg?v=20261110101045",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9f8a57f6594f5eef",
-      "title": "French bishops urge Catholic hospitals to prepare to refuse euthanasia",
-      "link": "https://www.ewtnnews.com/world/europe/french-bishops-urge-catholic-hospitals-to-prepare-to-refuse-euthanasia",
-      "summary": "Belgium’s Catholic hospitals lost their right to refuse euthanasia. France’s bishops want theirs protected before the new law takes effect.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T14:26:04Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://res.cloudinary.com/ewtn/image/upload/v1794288615/ewtn-news/en/2296997274_elrrmr.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "94a5ffd5a66b11e5",
-      "title": "United in Burning Down America: The Red-Green Alliance",
-      "link": "https://mycharisma.com/news/united-in-burning-down-america-the-red-green-alliance/",
-      "summary": "As protests in France convulsed into weeks of arson, looting, and street warfare that spread to other nations, the world had a front-row seat to watch the Red-Green Alliance in action. Red flags of socialists and communists flew alongside the Palestinian…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T14:03:19Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7dbf568489836ea7",
-      "title": "Pope at Mass in Argentina: Mission is a ‘joyful duty’",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-mass-in-argentina-mission-is-a-joyful-duty.html",
-      "summary": "At Mass celebrated “for the sanctification of the Argentine people,” Pope Leo XIV says carrying out the misison entrusted to us is a “joyful duty” that can best be accomplished by the example of one’s own life. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T13:58:00Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/10/2026-11-10-viaggio-apostolico-in-argentina---santa-messa-nella-s/1794320098078.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9a94851e60f98013",
-      "title": "Kirk Franklin and Davido’s ‘Hope In You’ Debuts on Nigerian Chart",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSS15VWRNLTBmUTUyTDNTMVlYNHVCSkw2eXpCbEZ0ZHdfcjE5ZVM1a0pYeVBmNWlnOEYzRXFYTlRDQWJvc1JvaTl0OEc4ZWtnalktazdINGk5TWNlc2JsRFRpN3VqZ1pQYmgwbmowbTZ4TXVTYlBqTm95S2E2dHZxX1ZRQTJGcWNha0lmV3J5QkJGMmtRZUY2djdvN1dvTS1SN1RFU2JvYnhnbjk1Uk5DYXhn?oc=5",
-      "summary": "Kirk Franklin and Davido’s ‘Hope In You’ Debuts on Nigerian Chart DancehallMag",
-      "outlet": "DancehallMag",
-      "outlet_url": "https://www.dancehallmag.com",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-10T13:36:16Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-13T21:46:29Z"
-    },
-    {
-      "id": "b229b69c150ba990",
-      "title": "Fiancée of Egyptian Christian convert facing execution urges US, Netherlands to intervene",
-      "link": "https://www.christianpost.com/news/woman-pleads-for-us-to-save-christian-convert-from-execution.html",
-      "summary": "The Australian-Egyptian fiancée of a man who left Islam for Christianity has launched an appeal to the Netherlands and the United States to save him from execution in Egypt.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T13:23:00Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272664_w_550_367.jpg?v=20261110114108",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "06dbeecf22cbe50d",
-      "title": "Biden Says Cancer Fight Is to Point That He Can’t Tour Very Well for Book Release",
-      "link": "https://mycharisma.com/news/biden-says-cancer-fight-is-to-point-that-he-cant-tour-very-well-for-book-release/",
-      "summary": "Former President Joe Biden revealed on Sunday that he intends to scale back public appearances and promotional interviews for his upcoming memoir due to his prostate cancer progressing even further. “Some days are better than others,” the former president…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T13:18:55Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Daniel-Adams-Delivered-400x600.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d41e7799034bf6e3",
-      "title": "Lauren Daigle’s Behold Christmas Tour Starts Dec. 2: Dates, Cities and Her New Label Deal",
-      "link": "https://www.jubileecast.com/articles/40989/20261110/lauren-daigle-behold-christmas-tour-dates-new-label-deal-christmas-songs.htm",
-      "summary": "Lauren Daigle’s Behold Christmas Tour Starts Dec. 2: Dates, Cities and Her New Label Deal",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-10T13:14:29Z",
-      "first_seen": "2026-11-10T13:11:54Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30405/lauren-daigle.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "a9fa9269bb69fa0e",
-      "title": "'Drummer Boy' director says family feud nearly derailed film",
-      "link": "https://www.christianpost.com/video/drummer-boy-director-says-family-feud-nearly-derailed-film.html",
-      "summary": "Ben Smallbone shares how reconciling with his brother, Joel, shaped \"Drummer Boy,\" a Revolutionary War-era story inspired by “The Little Drummer Boy” that explores forgiveness, faith and spiritual freedom.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-10T13:10:52Z",
-      "first_seen": "2026-11-10T20:31:26Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/26/272653_w_550_291.jpg?v=20261110083457",
-        "via": "media:content"
       },
       "breaking": false,
       "breaking_expires_at": null
