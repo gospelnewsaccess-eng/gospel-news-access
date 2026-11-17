@@ -4,82 +4,79 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:19Z",
-      "last_item_count": 90,
+      "last_checked": "2026-11-17T14:10:28Z",
+      "last_item_count": 94,
       "last_status": "ok"
     },
     "Google News: Black church": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:28Z",
-      "last_item_count": 71,
+      "last_checked": "2026-11-17T14:10:32Z",
+      "last_item_count": 73,
       "last_status": "ok"
     },
     "Google News: megachurch": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:36Z",
-      "last_item_count": 58,
+      "last_checked": "2026-11-17T14:10:37Z",
+      "last_item_count": 60,
       "last_status": "ok"
     },
     "Google News: Christian music": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:42Z",
-      "last_item_count": 78,
+      "last_checked": "2026-11-17T14:10:41Z",
+      "last_item_count": 82,
       "last_status": "ok"
     },
     "Google News: gospel artist": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:51Z",
-      "last_item_count": 71,
+      "last_checked": "2026-11-17T14:10:45Z",
+      "last_item_count": 72,
       "last_status": "ok"
     },
     "Google News: Kirk Franklin": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:59Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429"
+      "last_checked": "2026-11-17T14:10:49Z",
+      "last_item_count": 68,
+      "last_status": "ok"
     },
     "Google News: CeCe Winans": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:58:59Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429"
+      "last_checked": "2026-11-17T14:10:53Z",
+      "last_item_count": 68,
+      "last_status": "ok"
     },
     "Google News: Tasha Cobbs Leonard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:00Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429"
+      "last_checked": "2026-11-17T14:10:58Z",
+      "last_item_count": 47,
+      "last_status": "ok"
     },
     "Google News: Marvin Sapp": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:00Z",
-      "last_item_count": 57,
+      "last_checked": "2026-11-17T14:11:03Z",
+      "last_item_count": 50,
       "last_status": "ok"
     },
     "Google News: Yolanda Adams": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:08Z",
+      "last_checked": "2026-11-17T14:11:08Z",
       "last_item_count": 61,
       "last_status": "ok"
     },
@@ -87,23 +84,23 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:15Z",
-      "last_item_count": 51,
+      "last_checked": "2026-11-17T14:11:14Z",
+      "last_item_count": 53,
       "last_status": "ok"
     },
     "Google News: Tamela Mann": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:23Z",
-      "last_item_count": 57,
+      "last_checked": "2026-11-17T14:11:19Z",
+      "last_item_count": 58,
       "last_status": "ok"
     },
     "Google News: Travis Greene": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:33Z",
+      "last_checked": "2026-11-17T14:11:25Z",
       "last_item_count": 53,
       "last_status": "ok"
     },
@@ -111,7 +108,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:40Z",
+      "last_checked": "2026-11-17T14:11:29Z",
       "last_item_count": 56,
       "last_status": "ok"
     },
@@ -119,23 +116,23 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:47Z",
-      "last_item_count": 56,
+      "last_checked": "2026-11-17T14:11:34Z",
+      "last_item_count": 57,
       "last_status": "ok"
     },
     "Google News: Donald Lawrence": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T04:59:55Z",
-      "last_item_count": 41,
+      "last_checked": "2026-11-17T14:11:39Z",
+      "last_item_count": 40,
       "last_status": "ok"
     },
     "Google News: Erica Campbell": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:00:05Z",
+      "last_checked": "2026-11-17T14:11:44Z",
       "last_item_count": 52,
       "last_status": "ok"
     },
@@ -143,86 +140,82 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:00:15Z",
-      "last_item_count": 44,
+      "last_checked": "2026-11-17T14:11:49Z",
+      "last_item_count": 45,
       "last_status": "ok"
     },
     "Google News: Ricky Dillard": {
       "consecutive_zero": 0,
-      "consecutive_error": 2,
-      "flagged": true,
-      "last_checked": "2026-11-17T05:00:25Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429",
+      "consecutive_error": 0,
+      "flagged": false,
+      "last_checked": "2026-11-17T14:11:53Z",
+      "last_item_count": 48,
+      "last_status": "ok",
       "flagged_since": "2026-11-17T05:00:25Z"
     },
     "Google News: JJ Hairston": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:00:26Z",
-      "last_item_count": 50,
+      "last_checked": "2026-11-17T14:11:58Z",
+      "last_item_count": 49,
       "last_status": "ok"
     },
     "Google News: Todd Dulaney": {
       "consecutive_zero": 0,
-      "consecutive_error": 2,
-      "flagged": true,
-      "last_checked": "2026-11-17T05:00:35Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429",
+      "consecutive_error": 0,
+      "flagged": false,
+      "last_checked": "2026-11-17T14:12:02Z",
+      "last_item_count": 48,
+      "last_status": "ok",
       "flagged_since": "2026-11-17T05:00:35Z"
     },
     "Google News: Jonathan McReynolds": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:00:35Z",
-      "last_item_count": 53,
+      "last_checked": "2026-11-17T14:12:07Z",
+      "last_item_count": 54,
       "last_status": "ok"
     },
     "Google News: Le'Andria Johnson": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:00:45Z",
-      "last_item_count": 56,
+      "last_checked": "2026-11-17T14:12:12Z",
+      "last_item_count": 55,
       "last_status": "ok"
     },
     "Google News: Melvin Crispell III": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:00:55Z",
-      "last_item_count": 36,
+      "last_checked": "2026-11-17T14:12:18Z",
+      "last_item_count": 37,
       "last_status": "ok"
     },
     "Google News: The Clark Sisters": {
       "consecutive_zero": 0,
-      "consecutive_error": 2,
-      "flagged": true,
-      "last_checked": "2026-11-17T05:01:05Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429",
+      "consecutive_error": 0,
+      "flagged": false,
+      "last_checked": "2026-11-17T14:12:22Z",
+      "last_item_count": 49,
+      "last_status": "ok",
       "flagged_since": "2026-11-17T05:01:05Z"
     },
     "Google News: Karen Clark Sheard": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:06Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "last_error": "HTTP 429"
+      "last_checked": "2026-11-17T14:12:27Z",
+      "last_item_count": 50,
+      "last_status": "ok"
     },
     "Google News: Hezekiah Walker": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:06Z",
+      "last_checked": "2026-11-17T14:12:32Z",
       "last_item_count": 43,
       "last_status": "ok",
       "flagged_since": "2026-09-26T15:43:20Z"
@@ -231,27 +224,26 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:16Z",
-      "last_item_count": 53,
+      "last_checked": "2026-11-17T14:12:36Z",
+      "last_item_count": 52,
       "last_status": "ok",
       "flagged_since": "2026-09-26T15:43:28Z"
     },
     "Google News: Kierra Sheard": {
       "consecutive_zero": 0,
-      "consecutive_error": 2,
-      "flagged": true,
-      "last_checked": "2026-11-17T05:01:27Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "flagged_since": "2026-09-26T15:43:35Z",
-      "last_error": "HTTP 429"
+      "consecutive_error": 0,
+      "flagged": false,
+      "last_checked": "2026-11-17T14:12:40Z",
+      "last_item_count": 51,
+      "last_status": "ok",
+      "flagged_since": "2026-09-26T15:43:35Z"
     },
     "Google News: Zacardi Cortez": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:27Z",
-      "last_item_count": 28,
+      "last_checked": "2026-11-17T14:12:44Z",
+      "last_item_count": 27,
       "last_status": "ok",
       "flagged_since": "2026-09-26T15:43:43Z"
     },
@@ -259,7 +251,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:36Z",
+      "last_checked": "2026-11-17T14:12:49Z",
       "last_item_count": 26,
       "last_status": "ok",
       "flagged_since": "2026-09-26T15:43:50Z"
@@ -268,7 +260,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:46Z",
+      "last_checked": "2026-11-17T14:12:53Z",
       "last_item_count": 48,
       "last_status": "ok",
       "flagged_since": "2026-09-26T15:44:00Z"
@@ -277,36 +269,34 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:01:56Z",
-      "last_item_count": 45,
+      "last_checked": "2026-11-17T14:12:58Z",
+      "last_item_count": 44,
       "last_status": "ok",
       "flagged_since": "2026-09-26T15:44:06Z"
     },
     "Google News: Phil Wickham": {
       "consecutive_zero": 0,
-      "consecutive_error": 2,
-      "flagged": true,
-      "last_checked": "2026-11-17T05:02:06Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "flagged_since": "2026-09-26T15:44:11Z",
-      "last_error": "HTTP 429"
+      "consecutive_error": 0,
+      "flagged": false,
+      "last_checked": "2026-11-17T14:13:03Z",
+      "last_item_count": 46,
+      "last_status": "ok",
+      "flagged_since": "2026-09-26T15:44:11Z"
     },
     "Google News: Lauren Daigle": {
       "consecutive_zero": 0,
-      "consecutive_error": 1,
+      "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:07Z",
-      "last_item_count": 0,
-      "last_status": "error",
-      "flagged_since": "2026-09-26T15:44:20Z",
-      "last_error": "HTTP 429"
+      "last_checked": "2026-11-17T14:13:08Z",
+      "last_item_count": 54,
+      "last_status": "ok",
+      "flagged_since": "2026-09-26T15:44:20Z"
     },
     "Religion News Service": {
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:07Z",
+      "last_checked": "2026-11-17T14:13:12Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-10-14T19:58:55Z"
@@ -315,7 +305,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:08Z",
+      "last_checked": "2026-11-17T14:13:13Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -323,7 +313,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:10Z",
+      "last_checked": "2026-11-17T14:13:14Z",
       "last_item_count": 30,
       "last_status": "ok"
     },
@@ -331,7 +321,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:12Z",
+      "last_checked": "2026-11-17T14:13:14Z",
       "last_item_count": 50,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -340,7 +330,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:20Z",
+      "last_checked": "2026-11-17T14:13:19Z",
       "last_item_count": 25,
       "last_status": "ok"
     },
@@ -348,7 +338,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:21Z",
+      "last_checked": "2026-11-17T14:13:19Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -356,7 +346,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:21Z",
+      "last_checked": "2026-11-17T14:13:20Z",
       "last_item_count": 50,
       "last_status": "ok"
     },
@@ -364,7 +354,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:22Z",
+      "last_checked": "2026-11-17T14:13:20Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-20T09:11:20Z"
@@ -373,7 +363,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:24Z",
+      "last_checked": "2026-11-17T14:13:22Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -381,7 +371,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:25Z",
+      "last_checked": "2026-11-17T14:13:22Z",
       "last_item_count": 10,
       "last_status": "ok"
     },
@@ -389,7 +379,7 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:25Z",
+      "last_checked": "2026-11-17T14:13:23Z",
       "last_item_count": 100,
       "last_status": "ok"
     },
@@ -397,18 +387,12 @@
       "consecutive_zero": 0,
       "consecutive_error": 0,
       "flagged": false,
-      "last_checked": "2026-11-17T05:02:26Z",
+      "last_checked": "2026-11-17T14:13:23Z",
       "last_item_count": 10,
       "last_status": "ok",
       "flagged_since": "2026-09-18T12:45:12Z"
     }
   },
-  "updated_at": "2026-11-17T04:58:18Z",
-  "flagged_feeds": [
-    "Google News: Kierra Sheard",
-    "Google News: Phil Wickham",
-    "Google News: Ricky Dillard",
-    "Google News: The Clark Sisters",
-    "Google News: Todd Dulaney"
-  ]
+  "updated_at": "2026-11-17T14:10:27Z",
+  "flagged_feeds": []
 }
