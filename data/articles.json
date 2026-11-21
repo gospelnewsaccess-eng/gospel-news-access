@@ -1,8 +1,99 @@
 {
-  "generated_at": "2026-11-21T15:51:18Z",
+  "generated_at": "2026-11-21T21:24:13Z",
   "story_count": 600,
-  "with_photo": 423,
+  "with_photo": 421,
   "items": [
+    {
+      "id": "31397f592852d531",
+      "title": "Three Dallas megachurches help feed over 1,000 families with Thanksgiving meals",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRlRqaFQzbFlvcElvT3lYRDRmd3RwRFhQRjJVYkJFcEZjU2Y3MHJvZjVFbGROeE5GdGNJd3dnS212QmZZLUZWOUxSdVkyaEphV2RmZzk4aUNBajRibHF4cUxFcG0xamR5NDFwa1JZR1lIR05veFBaOXJ1NS1GcWZGQU5zZVdMYUJCYkp4LXNsVWpUVVo5V09tOQ?oc=5",
+      "summary": "Three Dallas megachurches help feed over 1,000 families with Thanksgiving meals Dallas News",
+      "outlet": "Dallas News",
+      "outlet_url": "https://www.dallasnews.com",
+      "source_feed": "Google News: megachurch",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-21T20:56:22Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": true,
+      "breaking_expires_at": "2026-11-22T09:24:13Z",
+      "image_tried": "2026-11-21T21:24:13Z"
+    },
+    {
+      "id": "03a927769df2b2b5",
+      "title": "Charges dropped against street preacher known for sharing the Gospel, speaking against Islam",
+      "link": "https://www.christianpost.com/news/charges-dropped-against-street-preacher-speaking-against-islam.html",
+      "summary": "Police in England have dropped their case against Steve Maile, a Christian street preacher who was arrested in April while preaching the Gospel and speaking against Islam in the town of Watford, north of London.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T20:15:41Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/28/272839_w_550_294_529_194.jpg?v=20261121151627",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "50fde30b1f2dbb4a",
+      "title": "Christian girl killed by brother while trying to escape forced marriage to Muslim man",
+      "link": "https://www.christianpost.com/news/south-sudan-christian-girl-killed-for-refusing-to-marry-muslim.html",
+      "summary": "An 18-year-old Christian girl in South Sudan was beaten to death by her brother and a cousin after she tried to run away from a marriage her family had arranged with an older Muslim man.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T18:04:11Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/28/272838_w_550_412_572_209.jpg?v=20261121134837",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "1004c22c06d56f05",
+      "title": "Kirk Franklin to headline holiday concert celebrating Arlington's 150th anniversary - NBC 5 Dallas-Fort Worth",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUUo2SVNFQk9LUmgwRFJQOHFHdTJ0b21hMkRyNXR2ajJMNFdnWDZaTHVfOUtvNVJqaDI5OGc4V3dLeE1ILTRGX2dqUmtER3NsNy1YT3ZpNGJianJEUV8wRW1JTUxrZHpRNnBPUU5jb3VWZ0ZGcmM2MlBsYUtSZWd0dmRpTmtZU2xqZEw2R0tXNHJYS1Mwc1lhTXdEMHBqS21wUF93SzFDMVBpdER0dGNwZGV3YnQ4QTNnLTB5Wk1rYkxQMDDSAcsBQVVfeXFMTXpJZjhJX0dhTDdnRWlXU0lRZWdLUGpvYndGTm1yRE1jdFl0RFlmWklXZldjWk1EZE44R0w1aWpwZW01Z3VpZk1ic2VGZkdNaFY4MU8yYTFYWHI4dmVBc2xtQlJWOU5LcUM2VWU2anI2TE02Qmp3dVZuUEF2MHFQS1o2UGQwaTg2Y1c2bGJvV1UwZFp1bUZfbWtidl9UNjVMaWNZXzJXVjhGdHJwTXNfUjVJYkpyYzlQV2xXdGoweEIyaWFMVUdqZzJRMzQ?oc=5",
+      "summary": "Kirk Franklin to headline holiday concert celebrating Arlington's 150th anniversary NBC 5 Dallas-Fort Worth",
+      "outlet": "NBC 5 Dallas-Fort Worth",
+      "outlet_url": "https://www.nbcdfw.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-21T16:00:00Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T21:24:13Z"
+    },
+    {
+      "id": "2c15d82e8ae22f2d",
+      "title": "NATO Secretary General pledges solidarity with Poland after missile incursion",
+      "link": "https://www.vaticannews.va/en/world/news/2026-11/nato-rutte-pledges-solidarity-with-poland-after-missile-incursio.html",
+      "summary": "NATO Secretary General Mark Rutte has met Polish Prime Minister Donald Tusk in Warsaw after a Russian cruise missile came down in southeastern Poland, raising tensions in the region. In Ukraine, a separate Russian strike killed two people, including a…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T15:23:00Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2022/02/22/07/1645512189278.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "ae17a510dce72141",
       "title": "European bishops reiterate that baptismal records should be protected from erasure",
@@ -188,6 +279,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "ae2f06bd08f4e01e",
+      "title": "Diversity, welcome and outreach distinguish North Omaha church born 40 years ago from interracial merger",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMERydXQyVTFOVktteVd1am5mQV9xOHdiTDBCOVFJZHhLaVlDbHFPVFV0bVdmU2EyekNZNTVVZTVfelBiOEt3NmV5MThWS1llT1pUWWhSanVNU1phRGNIaWc0TDF5MENqYXo0b1FRdkhpbFFDXzY1TjNrUTI0UVpWV3g0NEtRUG0xemx3ZW11RDNEaE5XdVIxdGszSjlwdGpQb1ZHS3RRdUZ0T2treXl4VFVUVnE0dzBqS1hwb0RTb18zcGx6WXBtUFV4Ml84eVJKd0tz?oc=5",
+      "summary": "Diversity, welcome and outreach distinguish North Omaha church born 40 years ago from interracial merger Omaha Reader",
+      "outlet": "Omaha Reader",
+      "outlet_url": "https://thereader.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-21T12:51:26Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "ab36214d87088d43",
@@ -623,6 +731,40 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "13b9531b63077aaf",
+      "title": "How the Black church can fight Christian nationalism | Opinion",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlozcm4xbXdtb2tIanJGdkh2R2F2UHNfUFY0c1Q1N1pfZExYLXFzVlhVQk1ZZEN1ZklRZVBJNGRqWVVVMTY2dWZfcUdpSndOdWJhQkF5YkcxdEpDVkpYUmZqdVhHd3BJU2hnRHFkanVWNkpuR1lQbndnZkFZalB0dl9kTEpMc3dxR2Z5LVpkalRfb1cxZ0tKdDhDb21iUG1QNDVjcDRzOV9lTWM2NWk2ZnpXY1ZzdXNBTkYtRVV5MjlzVmM?oc=5",
+      "summary": "How the Black church can fight Christian nationalism | Opinion USA Today",
+      "outlet": "USA Today",
+      "outlet_url": "https://www.usatoday.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-21T10:03:00Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T21:24:13Z"
+    },
+    {
+      "id": "9d462a7a7b083d3f",
+      "title": "Emmanuel Mwamba. Ben Lombe · Grateful. Mmmm ni Gospel yashani iyi?",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcG03TTRTQk5rcmZxTHZlUnJ5YlJ3cFE3MXlKUDA5SVY3UTNxbU9pZW5kN1UxRXdqVGI0YTRfbEsxamdaTkNSaEtnMG5nM1VkeHh5a3BUMnJvcVhCdVJCMEJHenFrRDdjNF9FLVhLNHJiQVBiX2o5RFdwYXBHU1FtaDA4ZjA2TjdsdS15akE5X2tLSUViWmpjUmhJaw?oc=5",
+      "summary": "Emmanuel Mwamba. Ben Lombe · Grateful. Mmmm ni Gospel yashani iyi? Facebook",
+      "outlet": "Facebook",
+      "outlet_url": "https://www.facebook.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-21T09:39:50Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "842f87ea563c8015",
@@ -5077,6 +5219,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "4f5d01de2761ef9f",
+      "title": "Wilford Woodruff’s Visit in 1978",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpWUxjU2h6ajMyb1ZUdk0yMk9Jd2lWNTdOVUNnbnpNNW5JNGRoQnZ4OXl5NGUwdUlwMW05WmIxZHpELTNiU0ZOQzROQ2xYN0EtV2NvMmZZZEhhY3JPeC1EMk1GQUhvM0ZRRzlFUUZQOA?oc=5",
+      "summary": "Wilford Woodruff’s Visit in 1978 Meridian Magazine",
+      "outlet": "Meridian Magazine",
+      "outlet_url": "https://latterdaysaintmag.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-19T04:34:01Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T21:24:13Z"
+    },
+    {
       "id": "fe8e1c9a25a697b4",
       "title": "Candace Cameron Bure Wins ‘Special Forces’ Season 5 at 50 After Battling Illness in the Malaysian Jungle",
       "link": "https://www.jubileecast.com/articles/41186/20261118/candace-cameron-bure-wins-special-forces-season-5-at-50-after-battling-illness-in-the-malaysian-jungle.htm",
@@ -5649,7 +5808,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-19T09:02:58Z",
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "fbf52a77d1063875",
@@ -5666,7 +5825,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-19T09:02:58Z",
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "88dbac640e8da3d7",
@@ -5721,7 +5880,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-19T09:02:58Z",
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "a369bb42e8eaf9e3",
@@ -5738,7 +5897,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-19T09:02:58Z",
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "2d6173ddd11de339",
@@ -5774,7 +5933,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "1289fe04b14dc384",
@@ -5810,7 +5969,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "104ea3cf28e96829",
@@ -5827,7 +5986,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "719acc913e749f35",
@@ -5844,7 +6003,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "438f3a9adeb84854",
@@ -5994,7 +6153,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "9def1ddf65ab18b8",
@@ -6049,7 +6208,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "7b1657416fce607d",
@@ -6123,7 +6282,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "f457d19be8aaf15e",
@@ -6292,7 +6451,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "7a8cbd80bb9b60cd",
@@ -6309,7 +6468,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "1bc6b51957fb4d6e",
@@ -6364,7 +6523,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "701f15a36e3fffe6",
@@ -6457,7 +6616,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "e7ac4caa28d60d51",
@@ -6510,7 +6669,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "c245d6fdba5e6c27",
@@ -6527,7 +6686,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "f7079803fe1fdbac",
@@ -8919,7 +9078,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T21:02:58Z"
+      "image_tried": "2026-11-21T21:24:13Z"
     },
     {
       "id": "49da3ab48b503991",
@@ -10815,6 +10974,23 @@
       "breaking_expires_at": null
     },
     {
+      "id": "224b4cd881ccccc7",
+      "title": "National Black Church Initiative Supports Community Benefit Agreements for Data Center Development",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQX2dEaS1Dd1U4cGt3VjIzaEx1ZG1GZVI3WEVsOVZyUDZMOFhaY21PbG92dGhwME05c0wtODEzU3V0RDZRcjlhQVlnVi0tbHA3ajhzMDZaeTM1M3JIRmJNeFdvMFJpNDYtb2RRRW94V0pnM0hxUjQ1TlJoYjNJeU0zU3doMUpjbkJkMkd3dUN6dzE3LWtmTUxPR2c0dHdDbzdEbW00aWtDOGRKYjZXN01PVm5TX1Q1QQ?oc=5",
+      "summary": "National Black Church Initiative Supports Community Benefit Agreements for Data Center Development The National Law Review",
+      "outlet": "The National Law Review",
+      "outlet_url": "https://natlawreview.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-16T18:11:27Z",
+      "first_seen": "2026-11-21T21:24:13Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T21:24:13Z"
+    },
+    {
       "id": "cfdf510f42fd1948",
       "title": "3 sentenced to death for deadly church mass shooting in Jordan",
       "link": "https://www.christianpost.com/news/3-sentenced-to-death-for-church-mass-shooting-in-jordan.html",
@@ -10864,186 +11040,6 @@
       "first_seen": "2026-11-16T22:57:40Z",
       "image": {
         "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/16/2026-11-16-viaggio-apostolico-in-peru---santa-messa/1794849618707.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4335802a053fb002",
-      "title": "Former Oak Ridge Boys bass singer Richard Sterban, 83, dies",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc244RHZPNW1lUTY1OWF3b2NaOGVPeVl1LTVxYXNHZHJGV0RaXzU3aFFJbmNKRUZtcm95S0NDZFBEWXBqUW91aS1LMkRhb1F6anZXWUxYT2xqU3NNZDJrN1ltel9JTFFXclhibVRCaEdLYnNXYUtSZlMzYU56N2NGZ1NkMm9NUkdwZ19udTZ1NjU4dGdYWmZoSTRxWENDNnFOaThid2N3?oc=5",
-      "summary": "Former Oak Ridge Boys bass singer Richard Sterban, 83, dies Tulsa World",
-      "outlet": "Tulsa World",
-      "outlet_url": "https://tulsaworld.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T17:30:00Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T09:32:43Z"
-    },
-    {
-      "id": "6b118fc2dc031171",
-      "title": "Jackie Hill Perry Drops ‘Still Blameless’ Deluxe & Announces 1st-Ever Headline Tour",
-      "link": "https://rapzilla.com/2026-11-jackie-hill-perry-drops-still-blameless-deluxe/",
-      "summary": "Jackie Hill Perry is officially back with a brand-new deluxe album and a rare headline tour. Reach Records released her double-disc project, Still Blameless, on all streaming platforms on November 13, 2026. Fans also have reason to celebrate because Perry…",
-      "outlet": "Rapzilla",
-      "outlet_url": "",
-      "source_feed": "Rapzilla",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T17:24:53Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn.rapzilla.com/wp-content/uploads/2026/11/16121812/image-1-e1794849609957.jpeg",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "162e16ca4024d78f",
-      "title": "Christian on Iran’s Death Row Is Leading Prisoners to Jesus, Ministry Leader Says",
-      "link": "https://mycharisma.com/news/christian-on-irans-death-row-is-leading-prisoners-to-jesus-ministry-leader-says/",
-      "summary": "An Iranian Christian facing execution is leading fellow death row prisoners to Jesus, according to a ministry leader who says the man’s peace has drawn others to his faith. Hormoz Shariat, founder of Iran Alive Ministries, told CBN News that the prisoner…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T17:24:26Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2025/07/Screenshot-2025-07-18-105906-1.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fcb3a16eec42c20d",
-      "title": "Arlington Announces Kirk Franklin’s 150th Holiday Celebration Concert",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY2MyVXpHRkpjZTlnZGp2ODgxcHdZZVhoX0FIX1l6YnRiaTlPbmVhQUEyMENlRmN6blpEMk5wWXZGaTFaTmo1UU9vSnVKaUxRN2VzNjVVdGY4MnhpQ0owaGd4NGM4WlIzQXAwdjJUU2RLanZXX0dtbjdxMi1DLWQwUDRnQzdlQlgzRlpsYUVldmFiYTg2WFdwR1hBQmVEX0lzODNBaU1BYnc0cnFsRWhnd1U1eXU4SnplMTd2UVRVTXlDRTdGZGlwdDY1SFR0QQ?oc=5",
-      "summary": "Arlington Announces Kirk Franklin’s 150th Holiday Celebration Concert City of Arlington (.gov)",
-      "outlet": "City of Arlington (.gov)",
-      "outlet_url": "https://www.arlingtontx.gov",
-      "source_feed": "Google News: Kirk Franklin",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-16T17:22:09Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "d7138d1dec4d1e37",
-      "title": "Michigan natives, including CeCe Winans and the late J Dilla, land at least 7 nods at 2027 Grammy Awards",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQnB3Mml3MVAzMHBHRUFLaXdxTm1vMTBHbEViRkpoUmdaMGpFaEhja1hNLVE5empQa251cUJpcFFtZGFRRVcwaWV5VlNKQnZsajloNUdQQzhzQ1hyRWdvUEpveWZDQ0w2QTJVendtenJfTVRYMzVFR19PWjhPZVZSajdlT1NxbjNGYmhKUjJUZnlvVlNuMnhhczdkeDZZbVdWYlRr?oc=5",
-      "summary": "Michigan natives, including CeCe Winans and the late J Dilla, land at least 7 nods at 2027 Grammy Awards CBS News",
-      "outlet": "CBS News",
-      "outlet_url": "https://www.cbsnews.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-16T17:18:30Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "57b0b29dcf1b7cff",
-      "title": "BETHEL MUSIC RELEASES “NOEL (HE IS BORN),” FEATURING EMMY ROSE",
-      "link": "https://pathmegazine.com/articles/bethel-music-releases-noel-he-is-born-featuring-emmy-rose/",
-      "summary": "Bethel Music releases its rendition of “Noel (He Is Born),” featuring Emmy Rose, available today on all streaming platforms alongside its official music video. A powerful anthem … The post BETHEL MUSIC RELEASES “NOEL (HE IS BORN),” FEATURING EMMY ROSE…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T17:14:25Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "9dda25e112f0779d",
-      "title": "Highland Park Methodist Church asks court to block UMC conference from using its former name",
-      "link": "https://www.christianpost.com/news/highland-park-methodist-church-sues-umc-over-use-of-former-name.html",
-      "summary": "Highland Park Methodist Church has asked a court to stop the United Methodist Church’s regional conference in Texas from using the name the Dallas congregation carried before it voted to leave the denomination during a lawsuit over its 2022 governance changes.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T17:04:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272749_w_550_325_527_164.jpg?v=20261116120429",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "fed5c8bf72a89bae",
-      "title": "BeBe and CeCe Winans Set to Reunite for The Encore Tour",
-      "link": "https://pathmegazine.com/articles/bebe-and-cece-winans-set-to-reunite-for-the-encore-tour/",
-      "summary": "JUST ANNOUNCED! The multi-award winning Bebe Winans and CeCe Winans are reuniting for The Encore!!! The music legends are creating nights that celebrate the music and songs … The post BeBe and CeCe Winans Set to Reunite for The Encore Tour appeared first on…",
-      "outlet": "Path MEGAzine",
-      "outlet_url": "",
-      "source_feed": "Path MEGAzine",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T17:01:26Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "ba433cecf173dda1",
-      "title": "4 things to know about twice-deported Honduran accused of cockpit hijacking attempt",
-      "link": "https://www.christianpost.com/news/4-things-to-know-about-honduran-accused-of-cockpit-hijacking.html",
-      "summary": "A Honduran national arrested after he allegedly stormed the cockpit of a United Airlines flight and claimed to have a bomb had previously been granted asylum after saying that he identifies as trans and fears for his safety if he is returned to his home…",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T16:45:23Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272735_w_550_367_522_277.jpg?v=20261116115600",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "6dc1099501960cb1",
-      "title": "Pope at concluding Mass in Peru: ‘Go and proclaim the true God’",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-at-mass-in-peru-go-and-proclaim-the-true-god.html",
-      "summary": "In the final liturgy of his Apostolic Journey to Uruguay, Argentina, and Peru, Pope Leo XIV makes an impassioned plea to “proclaim the true God” to all, so that no one will be left without knowing the Good News of Jesus Christ. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T16:30:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/16/2026-11-16-viaggio-apostolico-in-peru---santa-messa/1794847496536.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
