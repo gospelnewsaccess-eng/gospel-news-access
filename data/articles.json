@@ -1,8 +1,382 @@
 {
-  "generated_at": "2026-11-21T00:04:58Z",
+  "generated_at": "2026-11-21T07:31:11Z",
   "story_count": 600,
-  "with_photo": 404,
+  "with_photo": 409,
   "items": [
+    {
+      "id": "1d359845319a1e98",
+      "title": "Druski’s Megachurch Comedy ‘Collect & Praise’ Has a Trailer, and It’s Wild",
+      "link": "https://relevantmagazine.com/culture/tv/druskis-megachurch-comedy-collect-praise-has-a-trailer-and-its-wild/",
+      "summary": "Druski’s megachurch pastor has a trailer, and he enters the sanctuary the only way a man of his stature can: flying in on wires through a cloud of pyrotechnics, with a QR code for giving glowing on the screens behind him. Collect & Praise, the six-episode…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T06:27:39Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/druskitrailer-1600.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9412a62ade386d35",
+      "title": "Sufjan Stevens Is Throwing ‘Sufmas Day’ Parties at 130 Record Stores",
+      "link": "https://relevantmagazine.com/culture/music/sufjan-stevens-is-throwing-sufmas-day-parties-at-130-record-stores/",
+      "summary": "Sufjan Stevens has more than 100 Christmas songs, and now he has a holiday of his own. On Dec. 10, 130 independent record stores in 14 countries will host “Sufmas Day,” a day of listening parties celebrating Worst Christmas Ever!, the best-of collection he…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T06:26:20Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/sufjanchristmas-1600.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "63264ca9cb7a7d58",
+      "title": "Texans Quarterback C.J. Stroud: ‘We’re doing it for an audience of one, that’s God’",
+      "link": "https://relevantmagazine.com/culture/sports/texans-quarterback-c-j-stroud-were-doing-it-for-an-audience-of-one-thats-god/",
+      "summary": "Quarterback C.J. Stroud is on one of the best runs of his career, and after the Houston Texans’ 26-3 Thursday night win over the Indianapolis Colts this week, he made sure everyone knew who he was crediting for it. Stroud completed 21 of 27 passes for 194…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T06:25:07Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/cj-1600.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "12c9acd181a654f0",
+      "title": "Macaulay Culkin Is Coming Back for a New ‘Home Alone,’ With Seth Rogen Writing It",
+      "link": "https://relevantmagazine.com/culture/movies/macaulay-culkin-is-coming-back-for-a-new-home-alone-with-seth-rogen-writing-it/",
+      "summary": "Kevin McCallister is coming home again. A new Home Alone is in early development at Disney with Macaulay Culkin attached, Variety reports. Seth Rogen and Evan Goldberg are shaping the script with Culkin and will produce through their Point Grey banner. Disney…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T06:22:41Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/homealone-1600.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "9226f8bf68d88dc9",
+      "title": "In Burundi, the Church Is Doing What Health Systems Couldn’t for Unvaccinated Kids",
+      "link": "https://relevantmagazine.com/justice/in-burundi-the-church-is-doing-what-health-systems-couldnt-for-unvaccinated-kids/",
+      "summary": "During a vaccination campaign in southern Burundi this year, a schoolgirl in the town of Mabanda ran. She had heard rumors about the shot health workers were giving girls her age, a vaccine against the virus that causes cervical cancer, and she went looking…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T06:20:20Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/burundi-1600.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ceb7896e3126c30a",
+      "title": "Dustin Nickerson Wants to Make the Kind of Stand-Up You Could Watch With Your Dad",
+      "link": "https://relevantmagazine.com/culture/dustin-nickerson-wants-to-make-the-kind-of-stand-up-you-could-watch-with-your-dad/",
+      "summary": "The day Dustin Nickerson played the Orlando Funny Bone, he started on a red-eye out of San Diego. He landed, slept four or five hours at one of the city’s resort hotels, then got loaded into a van and driven to a youth pastors conference, where he went on…",
+      "outlet": "Relevant",
+      "outlet_url": "",
+      "source_feed": "Relevant",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T06:15:35Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://relevantmagazine.com/wp-content/uploads/2026/11/dustin-1600.jpg",
+        "via": "og:image"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "80445de50ca5f373",
+      "title": "Macaulay Culkin Set to Return as Kevin McCallister in New ‘Home Alone’ Sequel",
+      "link": "https://www.jubileecast.com/articles/41232/20261120/macaulay-culkin-set-to-return-as-kevin-mccallister-in-new-home-alone-sequel.htm",
+      "summary": "Macaulay Culkin Set to Return as Kevin McCallister in New ‘Home Alone’ Sequel",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:40:30Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32721/macaulay-culkin.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "71f0f5d45a78d673",
+      "title": "Former Nvidia CEO Jensen Huang Accused of Threatening Staff as Report Reveals $1 Million-Plus Settlement",
+      "link": "https://www.jubileecast.com/articles/41231/20261120/former-nvidia-ceo-jensen-huang-accused-of-threatening-staff-as-report-reveals-1-million-plus-settlement.htm",
+      "summary": "Former Nvidia CEO Jensen Huang Accused of Threatening Staff as Report Reveals $1 Million-Plus Settlement",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:30:04Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32606/jensen-huang.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "827dfa1dfe1387b3",
+      "title": "Russell Brand Questioned About Katy Perry Marriage in Newly Unsealed Sexual Assault Deposition",
+      "link": "https://www.jubileecast.com/articles/41230/20261120/russell-brand-questioned-about-katy-perry-marriage-in-newly-unsealed-sexual-assault-deposition.htm",
+      "summary": "Russell Brand Questioned About Katy Perry Marriage in Newly Unsealed Sexual Assault Deposition",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:23:27Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32191/russell-brand.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2f486f7097df2ca2",
+      "title": "Teri Hatcher Tears Up as She Shares How Her 91-Year-Old Father’s Dementia Has Changed Daily Life",
+      "link": "https://www.jubileecast.com/articles/41229/20261120/teri-hatcher-tears-up-as-she-shares-how-her-91-year-old-father-s-dementia-has-changed-daily-life.htm",
+      "summary": "Teri Hatcher Tears Up as She Shares How Her 91-Year-Old Father’s Dementia Has Changed Daily Life",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:19:41Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32720/teri-hatcher.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "2a91052086cd0920",
+      "title": "Tommy Mars, Frank Zappa Keyboardist on ‘Joe’s Garage,’ Dies at 75",
+      "link": "https://www.jubileecast.com/articles/41228/20261120/tommy-mars-frank-zappa-keyboardist-on-joe-s-garage-dies-at-75.htm",
+      "summary": "Tommy Mars, Frank Zappa Keyboardist on ‘Joe’s Garage,’ Dies at 75",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:16:34Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32719/tommy-mars.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "641a26e35620cac5",
+      "title": "How to Watch the 2026 CMA Awards Replay, From Ella Langley’s Record Six Wins to the Dolly Parton Tribute",
+      "link": "https://www.jubileecast.com/articles/41227/20261120/how-to-watch-the-2026-cma-awards-replay-from-ella-langley-s-record-six-wins-to-the-dolly-parton-tribute.htm",
+      "summary": "How to Watch the 2026 CMA Awards Replay, From Ella Langley’s Record Six Wins to the Dolly Parton Tribute",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:08:18Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32354/ella-langley.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "f704ed6921e91c06",
+      "title": "Mike Todd Says He Put Off Becoming an Apostle for Four Years. Now He Says, ‘I Could Care Less What Man Thinks’",
+      "link": "https://www.jubileecast.com/articles/41226/20261120/mike-todd-says-he-put-off-becoming-an-apostle-for-four-years-now-he-says-i-could-care-less-what-man-thinks.htm",
+      "summary": "Mike Todd Says He Put Off Becoming an Apostle for Four Years. Now He Says, ‘I Could Care Less What Man Thinks’",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T03:04:53Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32718/mike-todd.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ecc0836ed73e6730",
+      "title": "Tauren Wells Tells Mike Todd’s Critics to ‘Hush Up’ After Apostle Ceremony, Urges Them to Pray",
+      "link": "https://www.jubileecast.com/articles/41225/20261120/tauren-wells-tells-mike-todd-s-critics-to-hush-up-after-apostle-ceremony-urges-them-to-pray.htm",
+      "summary": "Tauren Wells Tells Mike Todd’s Critics to ‘Hush Up’ After Apostle Ceremony, Urges Them to Pray",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T02:59:33Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28515/tauren-wells.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "a22d70103441cb40",
+      "title": "Pepperdine’s Marriage Stance Draws Alumni Pushback and Raises Faculty Concerns Over Tenure",
+      "link": "https://www.jubileecast.com/articles/41224/20261120/pepperdine-s-marriage-stance-draws-alumni-pushback-and-raises-faculty-concerns-over-tenure.htm",
+      "summary": "Pepperdine’s Marriage Stance Draws Alumni Pushback and Raises Faculty Concerns Over Tenure",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T02:52:16Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/23228/pepperdine-university.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "81d4bbab41bccf3a",
+      "title": "Franklin Graham Praises George and Laura Bush for Backing Dallas Church’s Split From the UMC",
+      "link": "https://www.jubileecast.com/articles/41223/20261120/franklin-graham-praises-george-and-laura-bush-for-backing-dallas-church-s-split-from-the-umc.htm",
+      "summary": "Franklin Graham Praises George and Laura Bush for Backing Dallas Church’s Split From the UMC",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T02:43:45Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/30110/franklin-graham.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "edd879fc884c247e",
+      "title": "Dan McClellan Calls for Direct Apology From Wesley Huff After Plagiarism Admission",
+      "link": "https://www.jubileecast.com/articles/41222/20261120/dan-mcclellan-calls-for-direct-apology-from-wesley-huff-after-plagiarism-admission.htm",
+      "summary": "Dan McClellan Calls for Direct Apology From Wesley Huff After Plagiarism Admission",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-21T02:40:18Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29730/wesley-huff.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "0f01aa1e921c4fc9",
+      "title": "Comedian Druski brings 'Gospel Auditions' to Dallas with Kirk Franklin amid Netflix series launch",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMXN3RmxST1JDVXVESmxWLW5kNzZQTTZSckpNZ1hjd25pWkhuc0FXdE9aZERnRXlWUlhZZUw3RTliME1OcjJhREZiNUt0SXhKU1NkdDRFZ1VpaUEzMjFVanA3N2dMZjFXcXB6cWpYTUhKM0UtQjZpQjJUNGJTMU9DVHg0SHd2MDVZU2dIRjRfY0tvMkxWeEJydGFzMTc1alphQmh1RmY3alhxMGFIZUtBZXlOMnREQk5vVVQxX2gwWUpHTTktWGhNZHFsTlN0TGdqajdhUU5VN0ozWFhpZ21JMDZRUmR0WG9lSXNkTjBVOUctSlhVWVdqY0E4RnhxY3NNNS1R?oc=5",
+      "summary": "Comedian Druski brings 'Gospel Auditions' to Dallas with Kirk Franklin amid Netflix series launch WFAA",
+      "outlet": "WFAA",
+      "outlet_url": "https://www.wfaa.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-21T02:13:31Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T07:31:11Z"
+    },
+    {
+      "id": "388a4299a281d1f4",
+      "title": "Yolanda Adams and Daughter Taylor Ayanna Release New Christmas Duet “My Holiday”",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRnQ0X0dUbnZlazRXUkFNbnNtSmxVQTNFYlkyVnlCUmViemo2UEVNRmZlcXFsbUhMOFltLVFGUmg2dWhib3Z1aEZlZWcwdTN3WXltTE82MHVkbENLZWdFZzU1T1B2R3FwWmVLZGx2a0tVLXZRaGVkemVxU0tPWmRiaXBPZFVkQmdyMEpHMGVRREUybVFMSDNRTEpNcWQ3WjVJa3hF?oc=5",
+      "summary": "Yolanda Adams and Daughter Taylor Ayanna Release New Christmas Duet “My Holiday” The Tennessee Tribune",
+      "outlet": "The Tennessee Tribune",
+      "outlet_url": "https://tntribune.com",
+      "source_feed": "Google News: Yolanda Adams",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-21T01:34:18Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T07:31:11Z"
+    },
+    {
+      "id": "b24e1920f2d74a28",
+      "title": "Daddy Karis: The Quiet Architect of Gospel Music’s Generations",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTEzbkZzU2lMMjdndUNPV3M0UGVOM3ZtX2Nhd0hnS2JKUTJZMzg3M1dWZkktRXQwak9KYWNKR2x5bW00UlROaGxVbS1talB5LTB3UU0wUHVXb0xOQld0anJNXzBRQV84d2ZNSHNYYmZId1lqNEh1ZVd1VVVRZERmQUR0TUp4czhWY0JDeW1xenNtRk5TLUl1dUt1a19OTDR3b3c?oc=5",
+      "summary": "Daddy Karis: The Quiet Architect of Gospel Music’s Generations THISDAYLIVE",
+      "outlet": "THISDAYLIVE",
+      "outlet_url": "https://www.thisdaylive.com",
+      "source_feed": "Google News: gospel music",
+      "tier": 1,
+      "category": "gospel",
+      "published": "2026-11-21T01:01:09Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T07:31:11Z"
+    },
     {
       "id": "80feb59f1654eaa3",
       "title": "East End Arts marks 40 years of Harvest Gospel Concert, honors founder Maryanne McElroy",
@@ -1261,6 +1635,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-20T18:13:39Z"
+    },
+    {
+      "id": "05f4c043c436d24b",
+      "title": "Bebe & CeCe Winans Boston tickets on sale at MGM Music Hall",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWU5rY2xDazJMa0VrMGhtN1VPc3B0dXBkWU04a3ZPcEl3Qk5YYnRENlhxeHNKV2dmV1c2NGZvQ28xZFZ2LWVkTTJXZEwyM3B3cUd5bnpQRUM3M2RBOGRTQmYtUUhTNmR4VFFJTjFMYkJuUTFtWEpqU3BPQ1BfelY0bzRlSDZkVjhrdWd1c05jOS1Bb0syTU9GUA?oc=5",
+      "summary": "Bebe & CeCe Winans Boston tickets on sale at MGM Music Hall TicketNews",
+      "outlet": "TicketNews",
+      "outlet_url": "https://www.ticketnews.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-20T13:21:03Z",
+      "first_seen": "2026-11-21T07:31:11Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "514c445181111545",
@@ -6800,7 +7191,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T03:59:07Z"
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "2016c4ad34755bed",
@@ -6817,7 +7208,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-18T15:59:07Z",
-      "image_tried": "2026-11-18T03:59:07Z"
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "9e6c05d174ec5393",
@@ -6872,7 +7263,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T03:59:07Z"
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "975da4c9f5296190",
@@ -6999,7 +7390,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T03:59:07Z"
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "d10239096f0861ee",
@@ -7111,7 +7502,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-18T03:59:07Z"
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "a117777a6d6599f7",
@@ -10376,7 +10767,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-17T22:31:25Z"
+      "image_tried": "2026-11-21T07:31:11Z"
     },
     {
       "id": "0c094a9f4be34aff",
@@ -10625,387 +11016,6 @@
       "first_seen": "2026-11-16T13:00:32Z",
       "image": {
         "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32661/les-and-joyce-carlsen.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "da088a35e2983079",
-      "title": "The Voice Season 12 Winner Chris Blue and Wife Stephanie Welcome Second Daughter",
-      "link": "https://www.jubileecast.com/articles/41123/20261116/the-voice-winner-chris-blue-welcomes-second-daughter-amelie-amore.htm",
-      "summary": "The Voice Season 12 Winner Chris Blue and Wife Stephanie Welcome Second Daughter",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T10:04:30Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32660/chris-blue-and-wife.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "7a25af45274646d9",
-      "title": "Richard Sterban, The Oak Ridge Boys’ voice behind ‘Elvira’, dies at 83",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTk14WklMaGdiMHdkb0lVTDRrOGV6a1ZES21QYkNBRlRoTXVhUS1sdktWczVERXNuYkJPOFNPdktMMDF3MVNZYkJXSHpHVVRYaFVKQ3BzTVVPWHQ3cEd6SWZTczQzU3JYM3Z2QzAtcEtMWVB5ZjNpYmwwWG44Y1ItMUdnMmZGZi1XZG9ibURsOGRRMDVoWTlpRVQ5MU5tV3Z0TkpqZXd6cjlHVUxpVjlFWkFwejU2V28?oc=5",
-      "summary": "Richard Sterban, The Oak Ridge Boys’ voice behind ‘Elvira’, dies at 83 The Independent",
-      "outlet": "The Independent",
-      "outlet_url": "https://www.independent.co.uk",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T10:01:00Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T19:33:14Z"
-    },
-    {
-      "id": "2e09915057fd7645",
-      "title": "The rot on X isn’t fringe anymore. Pastors, wake up.",
-      "link": "https://www.christianpost.com/voices/the-rot-on-x-isnt-fringe-anymore-pastors-wake-up.html",
-      "summary": "You can’t resist what you don’t know exists. The antisemitic, racist and chauvinist content flooding X, some of it invoking Christ’s name, is no longer marginal, and pastors who aren’t online may be the last to notice.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T09:58:39Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272730_w_550_367.jpg?v=20261116055006",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4fa8c8f39d2230d8",
-      "title": "The dangerous faith of 'religious entrepreneurs'",
-      "link": "https://www.christianpost.com/voices/the-dangerous-faith-of-religious-entrepreneurs.html",
-      "summary": "Just as diners pile their plates at Golden Corral, many people today are building custom religions from a mix of traditions. The Bible has always warned against this kind of spiritual “entrepreneurism,” and the warning still applies.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T09:30:48Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272727_w_550_367.jpg?v=20261116045740",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "79061970c1a9eae8",
-      "title": "For Native American boarding school survivors, truth and healing cannot wait",
-      "link": "https://religionnews.com/2026/11/16/native-american-boarding-school-survivors-healing/",
-      "summary": "(RNS) — Even as our country makes meaningful progress toward greater representation, our work to confront the injustices of our past remains unfinished.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T09:05:30Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Boarding-School2.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "544f417e4bd42938",
-      "title": "Babo Ngcobo says he is the King of Lyrics",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVVnc0NzQUJlVFBrd3hEOVlpSWRkLThOZXZuTFcxLTluVy1QanBpWXptMVNzUWtlWUZvaWJFemE5MlBaekROYkZuM1VZX2ljaElJTWIwdE5MY0QwdnNsODQ0VzI5Y0VCTVZ4OV92V3ItZ1M4T3Z6VWYwaWNMcEFVcjRLWkZrN2M?oc=5",
-      "summary": "Babo Ngcobo says he is the King of Lyrics Daily Sun",
-      "outlet": "Daily Sun",
-      "outlet_url": "https://www.snl24.com",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T09:00:00Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T19:33:14Z"
-    },
-    {
-      "id": "8dd2a1434ebf39b1",
-      "title": "Prison chaplain reveals what he’ll say to Russell Brand when they meet for prayer",
-      "link": "https://www.christianpost.com/news/prison-chaplain-on-what-hell-say-to-russell-brand.html",
-      "summary": "Prison chaplain Jonathan Aitken plans to offer Russell Brand both sympathy and hard warnings when the two meet for prayer, after the comedian, now convicted of rape, asked to see him.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T07:47:00Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272747_w_550_367_678_176.jpg?v=20261116072803",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "2a7a5fbc161f5212",
-      "title": "Pope Leo XIV celebrates popular piety and Indigenous cultures in Peru",
-      "link": "https://www.ewtnnews.com/world/americas/pope-leo-xiv-celebrates-popular-piety-and-indigenous-cultures-in-peru",
-      "summary": "From Inca ruins high in the Andes to a Mass for 100,000 in the Amazon, the pontiff's most demanding day in Peru put popular faith and the rainforest's peoples at center stage.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T06:29:34Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/es/LeonXIV_Andina_151126_colmpm.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "8a633f87f2d1b35d",
-      "title": "Why Jesus Christ Is So Precious (Part 7)",
-      "link": "https://blackchristiannews.com/why-jesus-christ-is-so-precious-part-7/?utm_source=rss&utm_medium=rss&utm_campaign=why-jesus-christ-is-so-precious-part-7",
-      "summary": "Pastor Daniel Whyte III preached this message during the Sunday morning worship service at Gospel Light House of Prayer International The post Why Jesus Christ Is So Precious (Part 7) appeared first on Black Christian News Network One (BCNN1) .",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T05:49:28Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T19:33:14Z"
-    },
-    {
-      "id": "2a39afb47f1e8e44",
-      "title": "'The Gospel of Christmas' Review: Tyler Perry's Churchy Musical Drama",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZnZIOEotbDExQWlqbEVCeVNKc3B4RjN6YTYtczdUa1pUbkFNQUFSSWN1ZUh4U3FqTVdhbXlDLXFrSEstSW81Q1k3emNpT0RqT3JsOVp3WUdacWZCNFpFSG1fdjlkcTMtSHE3U2Nud3RxYk1KSWpkVFZNMG5mQWs1TXJUT251MDhVTXdhTmJFRjBzU1dld0JZ?oc=5",
-      "summary": "'The Gospel of Christmas' Review: Tyler Perry's Churchy Musical Drama Variety",
-      "outlet": "Variety",
-      "outlet_url": "https://variety.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T05:44:00Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T19:33:14Z"
-    },
-    {
-      "id": "da998bc705114b99",
-      "title": "Pope Leo in Lima: 'How beautiful it is to be missionary disciples!'",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-xiv-lima-peru-nunciature-goodnight-greetings.html",
-      "summary": "Pope Leo XIV concludes a busy Sunday in Cusco and Pucallpa by greeting the faithful gathered at the Apostolic Nunciature in Lima, reminding them of the beauty of being missionary disciples and giving their lives to Jesus Christ. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T04:21:00Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/16/2026-11-15-viaggio-apostolico-in-peru---saluti-nunziatura/1794824405247.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d90eab0350b45f50",
-      "title": "Ken Paxton’s Divorce Is Final After He Asked for Prayer and Angela Cited ‘Biblical Grounds’",
-      "link": "https://www.jubileecast.com/articles/41122/20261115/ken-paxton-s-divorce-is-final-after-he-asked-for-prayer-and-angela-cited-biblical-grounds.htm",
-      "summary": "Ken Paxton’s Divorce Is Final After He Asked for Prayer and Angela Cited ‘Biblical Grounds’",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T04:12:18Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32659/ken-paxton.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9d61b9ace000dc8f",
-      "title": "Historic Black Church Finding New Life with Restoration",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQajJRa2NDcWsxcTY4X2pKVU5HYUFmdjJuaGpCOVIxMC0zSlpRUFpkMUpLcXpzUVBmekpjTzA3SFpxWGlrUEd1Q0dXeWtGakxRU1VZSGRxVjNyVGhSdmhUTTdLblpmWTZjaC1XcTBjR0xiUEFpancwWDJYaDYzZHFBRUdOZEFPdHVjQjY4ZWFnalhDaUpEeG04clFxaXAyWmpoWmp1NURELU9JZ2lwQW5TbkxDbmNONWtiSGlucWVlS1oycTFfMWxabGtncVlvUmpT?oc=5",
-      "summary": "Historic Black Church Finding New Life with Restoration thepilot.com",
-      "outlet": "thepilot.com",
-      "outlet_url": "https://www.thepilot.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-16T04:09:13Z",
-      "first_seen": "2026-11-20T09:32:43Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T09:32:43Z"
-    },
-    {
-      "id": "4099aff0750152ab",
-      "title": "Wes Huff Pledges Accountability as Apologetics Canada Reviews Plagiarism Allegations",
-      "link": "https://www.jubileecast.com/articles/41121/20261115/wes-huff-pledges-accountability-as-apologetics-canada-reviews-plagiarism-allegations.htm",
-      "summary": "Wes Huff Pledges Accountability as Apologetics Canada Reviews Plagiarism Allegations",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T04:05:57Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29730/wesley-huff.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "87c59dc95f17689c",
-      "title": "‘Marshals’ Star Mo Brings Plenty Honors Late Nephew Cole in Nov. 15 Episode",
-      "link": "https://www.jubileecast.com/articles/41120/20261115/marshals-star-mo-brings-plenty-honors-late-nephew-cole-in-nov-15-episode.htm",
-      "summary": "‘Marshals’ Star Mo Brings Plenty Honors Late Nephew Cole in Nov. 15 Episode",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T03:54:11Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32658/mo-brings-plenty.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b91697ec7c2ac5d3",
-      "title": "Grand Ole Opry to Honor the Late Richard Sterban, the Oak Ridge Boys’ Voice Behind “Elvira,” on Nov. 21",
-      "link": "https://www.jubileecast.com/articles/41119/20261115/grand-ole-opry-to-honor-the-late-richard-sterban-the-oak-ridge-boys-voice-behind-elvira-on-nov-21.htm",
-      "summary": "Grand Ole Opry to Honor Richard Sterban, the Oak Ridge Boys’ Voice Behind “Elvira,” on Nov. 21",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-16T03:48:40Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32636/richard-sterban.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "63c9d88874bc3fb7",
-      "title": "Nacogdoches congregations hold gospel festival to support Clay House restoration",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcWtNNUZsOS1yUE9OSy10cGVWWldMcjZuS3Z3THNXTjF0NXh5Z3dhNFJDcDRKNmphR0lCN29sZHNmVWFsN21qcG5qaW40U0J5OEFqOVBsVlN0aVRiR2ZQOHM5NHJhNlNkb2I2Y1hNX1FmbF9sQXhSdXVMaEpid04zZzNRNmU0VUpjWUtFMjc2MV83WHc4b2pKel84dmlXZ0FBQjctVTdJOFJ5OFFybEhv0gHDAUFVX3lxTE9jNEl1MXY4a2FhUWRxbWdlSmktaHcyX2lZSWpKUnpKdWVHMnJnWWhtTmVtMzg1bmwtN3pQVlRYeUh2UktVMldpQTllOVpPQkdOVnhJbjVpenZuaDU3X3k3alljRXhvd18xbmpvQjhVc0dEZHJmb0Z1TlRuMXBCMlZsVzk5VFFLeGJ3b0Z4Y0NXWVBXZVFuMGRSQVVOcjhhS2NrYTVoa29qVDBadnpoeUpZQ0xqTUU5VGJ5eWFKNmRIUktlTQ?oc=5",
-      "summary": "Nacogdoches congregations hold gospel festival to support Clay House restoration KTRE",
-      "outlet": "KTRE",
-      "outlet_url": "https://www.ktre.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T01:11:00Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
-    },
-    {
-      "id": "c09e859bf6ec85e0",
-      "title": "The Oak Ridge Boys: 10 Essential Songs",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZFlqb2YtLUw2emdxNWpxUHVSWkRieEloa1BtalVxdC1BTlNSM2tCWDhvd2U3WFlsU3lWUGU4ZXZTbTNFM3F6a2pHU2lJY1NjQ2ZHVDhVNEI4dmpsQzYwaHE5T2w1aXROTUhhVnZPT21RYm1YbUNWaTMyVVhhUVFUejZGTm5ZVks0VmczYTFQMXlMQ0VGX1JjTV9FY3BGM0xJYkpzeHVjZw?oc=5",
-      "summary": "The Oak Ridge Boys: 10 Essential Songs Yahoo",
-      "outlet": "Yahoo",
-      "outlet_url": "https://www.yahoo.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T00:55:00Z",
-      "first_seen": "2026-11-16T13:00:32Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T19:33:14Z"
-    },
-    {
-      "id": "3cddca4a819442c9",
-      "title": "Richard Sterban, Oak Ridge Boys’ Bass Singer, Dead at 83",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTExOTmZDMVNLX09xdkdsNC1KZTgteEkzeVRHYkRTNjJGcjdXSTVMd2xMZ0c5d3BjVlBrTTkwb243TXBzSU5BaVgxZDlpOUo0T3B1Q1JtYllOeW5mMTE3U0p6eTI0MzRDX0E5ZjA4VE41aTNUZzFQUzZ3bWNpWTJyLWxNeUFyVEpKSjY0a19uMVU4WU5CVW80encySjFNczZfdXlGakhXbk54WXlnWDgxb21n?oc=5",
-      "summary": "Richard Sterban, Oak Ridge Boys’ Bass Singer, Dead at 83 Rolling Stone",
-      "outlet": "Rolling Stone",
-      "outlet_url": "https://www.rollingstone.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-16T00:46:58Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
-    },
-    {
-      "id": "7dcdc6c66b3612bd",
-      "title": "Former Christian music stars share harms of moral, economic pressures",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOanMyOG5mVzk3MTJYakF3dXJsYjAyMnctYTVFX1B2dm9rbHlIcFNyNWI3OEtRX2hzczh3em5heVpoSEd1U2dXeS1adDZqOGc3UjcyZTE2cXFrUjA3UFB6RVRneXNNaEg4S3NPRTdvUWRGU0NHbkZzaENQd3ZwcDhFME1YOUlxLTVrUElBMkFXa1B5eFFnWU9iQ3JRZ1E1QTRCOVI4?oc=5",
-      "summary": "Former Christian music stars share harms of moral, economic pressures Baptist News Global",
-      "outlet": "Baptist News Global",
-      "outlet_url": "https://baptistnews.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-16T00:27:21Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
-    },
-    {
-      "id": "7f0da3d7840f27cf",
-      "title": "Pastor Warryn Campbell Says Woman Repeatedly Came to Family Home After Erica Shares Slashed Tires Story",
-      "link": "https://www.jubileecast.com/articles/41118/20261115/pastor-warryn-campbell-says-woman-repeatedly-came-to-family-home-after-erica-shares-slashed-tires-story.htm",
-      "summary": "Pastor Warryn Campbell Says Woman Repeatedly Came to Family Home After Erica Shares Slashed Tires Story",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-15T23:56:37Z",
-      "first_seen": "2026-11-16T04:21:51Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/27349/warryn-campbell.jpg",
         "via": "media:content"
       },
       "breaking": false,
