@@ -18,6 +18,42 @@ SITE = g.SITE_URL
 NAME = g.SITE_NAME
 TAGLINE = "Gospel, Christian and faith news — updated continuously"
 
+# ---- GOOGLE ADSENSE SWITCH ----------------------------------------------
+# Empty = no ads anywhere. To switch ads on, paste the publisher ID Google
+# gives you (it looks like pub-1234567890123456) between the quotes, then run
+#   python3 tools/adsense.py
+# and commit. That puts Google's Auto ads tag in the <head> of every page and
+# writes ads.txt at the site root. Empty it again and re-run to switch ads off.
+# Press releases (press/) stay ad-free: a client paid for that page.
+ADSENSE_PUB = ""
+
+
+def adsense_pub() -> str:
+    """ADSENSE_PUB cleaned up: accepts pub-123..., ca-pub-123... or just the
+    digits, and returns pub-123... (or "" when ads are off or it is mistyped)."""
+    import re
+    pub = re.sub(r"^(ca-)?(pub-)?", "", (ADSENSE_PUB or "").strip())
+    return ("pub-" + pub) if re.fullmatch(r"\d{10,20}", pub) else ""
+
+
+def adsense_head() -> str:
+    """The Auto ads tag for <head>, between the same markers tools/adsense.py
+    uses, so the two never disagree. Empty string while ads are off."""
+    pub = adsense_pub()
+    if not pub:
+        return ""
+    return ('<!-- ADSENSE:START -->\n<script async src="https://pagead2.googlesyndication.com/'
+            'pagead/js/adsbygoogle.js?client=ca-%s" crossorigin="anonymous"></script>\n'
+            '<!-- ADSENSE:END -->\n' % pub)
+
+
+def write_ads_txt() -> None:
+    """ads.txt tells ad buyers we really sell this space through Google.
+    Written only while ADSENSE_PUB is set; never touched while it is empty."""
+    pub = adsense_pub()
+    if pub:
+        g.write_text("ads.txt", "google.com, %s, DIRECT, f08c47fec0942fa0\n" % pub)
+
 # label, href (relative to site root), nav key
 NAV = [
     ("Front Page", "index.html", "home"),
@@ -29,6 +65,7 @@ NAV = [
     ("Churches", "churches.html", "churches"),
     ("Submit Music", "submit-music.html", "submit"),
     ("About", "about.html", "about"),
+    ("Advertise", "advertise.html", "advertise"),
 ]
 
 
@@ -39,7 +76,7 @@ def rel(depth: int, path: str) -> str:
 
 def head(title: str, description: str, canonical: str, depth: int = 0,
          schema_blocks: list[str] | None = None, image: str | None = None,
-         page_type: str = "WebPage") -> str:
+         page_type: str = "WebPage", ads: bool = True) -> str:
     """
     The <head> of every page: what it is called, what it is about, how it
     looks when shared, and the machine-readable description search engines
@@ -77,7 +114,7 @@ def head(title: str, description: str, canonical: str, depth: int = 0,
 <link rel="stylesheet" href="{css}">
 <link rel="alternate" type="application/rss+xml" title="{g.esc(NAME)}" href="{rel(depth,'feed.xml')}">
 {blocks}
-</head>
+{adsense_head() if ads else ''}</head>
 <body>
 <a class="skip" href="#main">Skip to main content</a>
 """
@@ -134,7 +171,7 @@ def nav(current: str, depth: int = 0) -> str:
 
 
 # Social icons + network links band above the footer on every page.
-FOLLOW_BAND = '<!-- FOLLOW:START -->\n<style>section.sf{padding:0;margin:0;min-height:0}.sf .sf-h,.sf .sf-t{margin:0}.sf .sf-h{margin-bottom:6px}.sf{background:#0D0D0F;color:#F3F0EA;border-top:3px solid #E0B341;font-family:Inter,system-ui,sans-serif}.sf-w{max-width:1240px;margin:0 auto;padding:30px 18px 26px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px 40px}.sf-h{font-weight:800;font-size:13px;letter-spacing:.22em;text-transform:uppercase;color:#fff;margin:0 0 6px}.sf-h b{color:#E0B341}.sf-t{font-size:14px;color:#A9A39A;margin:0}.sf-row{display:flex;gap:12px;flex-wrap:wrap}.sf-i{width:46px;height:46px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;border:1.5px solid rgba(255,255,255,.35);color:#fff;transition:background .2s,border-color .2s,transform .2s}.sf-i svg{width:21px;height:21px}.sf-i:hover,.sf-i:focus-visible{background:#E0B341;border-color:#E0B341;color:#0A0A0A;transform:translateY(-2px)}.sf-net{flex-basis:100%;display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center;border-top:1px solid rgba(255,255,255,.12);padding-top:16px;font-size:13px;font-weight:600;letter-spacing:.06em}.sf-net span{text-transform:uppercase;letter-spacing:.2em;font-size:11px;color:#8C867D}.sf-net a{color:#E9E4DA;text-decoration:none}.sf-net a:hover{color:#E0B341}.sf-net a[aria-current]{color:#E0B341}@media (prefers-reduced-motion:reduce){.sf-i{transition:none}}</style>\n<section class="sf" aria-label="Follow Gospel News Access"><div class="sf-w"><div><p class="sf-h">Follow <b>Gospel News Access</b></p><p class="sf-t">Gospel music, faith leaders and good news, every day.</p></div><div class="sf-row"><a class="sf-i" href="https://www.facebook.com/profile.php?id=100069397881039" target="_blank" rel="noopener me" aria-label="Gospel News Access on Facebook" title="Facebook"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.6-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.9v3h2.6V21h3z" fill="currentColor"/></svg></a><a class="sf-i" href="https://www.instagram.com/gospelnewsaccess/" target="_blank" rel="noopener me" aria-label="Gospel News Access on Instagram" title="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2" fill="currentColor"/></svg></a><a class="sf-i" href="https://www.threads.net/@gospelnewsaccess" target="_blank" rel="noopener me" aria-label="Gospel News Access on Threads" title="Threads"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.6 11.2c-.1 0-.2-.1-.3-.1-.2-3-1.9-4.7-4.6-4.7h-.1c-1.6 0-3 .7-3.8 2l1.5 1c.6-.9 1.6-1.1 2.3-1.1h.1c.9 0 1.6.3 2 .8.3.4.5.9.6 1.6-.8-.1-1.6-.2-2.5-.1-2.5.1-4.1 1.6-4 3.6.1 1 .6 1.9 1.4 2.5.7.5 1.6.7 2.6.6 1.3-.1 2.3-.6 3-1.5.5-.7.9-1.6 1-2.7.6.4 1.1.9 1.3 1.5.4 1 .4 2.6-.9 3.9-1.1 1.1-2.5 1.6-4.5 1.6-2.2 0-3.9-.7-5-2.1C5.6 16.6 5 14.6 5 12s.6-4.6 1.7-6C7.8 4.6 9.5 3.9 11.7 3.9s4 .7 5.1 2.1c.6.7 1 1.5 1.3 2.5l1.8-.5c-.4-1.3-.9-2.4-1.7-3.3C16.6 2.9 14.4 2 11.7 2h-.1C8.9 2 6.8 2.9 5.3 4.7 4 6.3 3.3 8.8 3.3 12s.7 5.7 2 7.3C6.8 21.1 8.9 22 11.6 22h.1c2.4 0 4.1-.6 5.5-2 1.9-1.9 1.8-4.2 1.2-5.7-.4-1-1.3-1.9-2.4-2.4l.6-.7zm-4.3 4.6c-1 .1-2.1-.4-2.1-1.4 0-.7.5-1.6 2.4-1.7h.6c.7 0 1.3.1 1.9.2-.2 2.4-1.5 2.8-2.8 2.9z" fill="currentColor"/></svg></a><a class="sf-i" href="https://www.youtube.com/@gospelnewsaccesschannel" target="_blank" rel="noopener me" aria-label="Gospel News Access on YouTube" title="YouTube"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.6 7.2a2.6 2.6 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.6 2.6 0 0 0 2.4 7.2C2 8.8 2 12 2 12s0 3.2.4 4.8a2.6 2.6 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.6 2.6 0 0 0 1.8-1.8c.4-1.6.4-4.8.4-4.8s0-3.2-.4-4.8zM10 15V9l5.2 3L10 15z" fill="currentColor"/></svg></a></div><div class="sf-net"><span>Our network</span><a href="https://newswirehollywood.com/">Newswire Hollywood</a><a href="https://hollywoodnewsaccess.com/">Hollywood News Access</a><a href="https://gospelnewsaccess.com/" aria-current="page">Gospel News Access</a><a href="https://prstarpower.com/">PR STARPOWER</a></div></div></section>\n<!-- FOLLOW:END -->\n'
+FOLLOW_BAND = '<!-- FOLLOW:START -->\n<style>section.sf{padding:0;margin:0;min-height:0}.sf .sf-h,.sf .sf-t{margin:0}.sf .sf-h{margin-bottom:6px}.sf{background:#0D0D0F;color:#F3F0EA;border-top:3px solid #E0B341;font-family:Inter,system-ui,sans-serif}.sf-w{max-width:1240px;margin:0 auto;padding:30px 18px 26px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:20px 40px}.sf-h{font-weight:800;font-size:13px;letter-spacing:.22em;text-transform:uppercase;color:#fff;margin:0 0 6px}.sf-h b{color:#E0B341}.sf-t{font-size:14px;color:#A9A39A;margin:0}.sf-row{display:flex;gap:12px;flex-wrap:wrap}.sf-i{width:46px;height:46px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;border:1.5px solid rgba(255,255,255,.35);color:#fff;transition:background .2s,border-color .2s,transform .2s}.sf-i svg{width:21px;height:21px}.sf-i:hover,.sf-i:focus-visible{background:#E0B341;border-color:#E0B341;color:#0A0A0A;transform:translateY(-2px)}.sf-net{flex-basis:100%;display:flex;flex-wrap:wrap;gap:8px 22px;align-items:center;border-top:1px solid rgba(255,255,255,.12);padding-top:16px;font-size:13px;font-weight:600;letter-spacing:.06em}.sf-net span{text-transform:uppercase;letter-spacing:.2em;font-size:11px;color:#8C867D}.sf-net a{color:#E9E4DA;text-decoration:none}.sf-net a:hover{color:#E0B341}.sf-net a[aria-current]{color:#E0B341}@media (prefers-reduced-motion:reduce){.sf-i{transition:none}}.sf-g{display:inline-flex;align-items:center;gap:8px;align-self:center;background:#fff;color:#1F1F1F;border:0;border-radius:999px;padding:7px 14px 7px 10px;font-size:12.5px;font-weight:600;letter-spacing:.01em;line-height:1.2;text-decoration:none;transition:transform .2s}.sf-g svg{width:18px;height:18px;flex:none}.sf-g b{font-weight:800}.sf-g:hover,.sf-g:focus-visible{transform:translateY(-2px);color:#000}.sf-x{margin-left:auto;display:flex;flex-wrap:wrap;gap:8px 22px}</style>\n<section class="sf" aria-label="Follow Gospel News Access"><div class="sf-w"><div><p class="sf-h">Follow <b>Gospel News Access</b></p><p class="sf-t">Gospel music, faith leaders and good news, every day.</p></div><div class="sf-row"><a class="sf-i" href="https://www.facebook.com/profile.php?id=100069397881039" target="_blank" rel="noopener me" aria-label="Gospel News Access on Facebook" title="Facebook"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.6-1.5h1.6V4.4c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.9v3h2.6V21h3z" fill="currentColor"/></svg></a><a class="sf-i" href="https://www.instagram.com/gospelnewsaccess/" target="_blank" rel="noopener me" aria-label="Gospel News Access on Instagram" title="Instagram"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="17.3" cy="6.7" r="1.2" fill="currentColor"/></svg></a><a class="sf-i" href="https://www.threads.net/@gospelnewsaccess" target="_blank" rel="noopener me" aria-label="Gospel News Access on Threads" title="Threads"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16.6 11.2c-.1 0-.2-.1-.3-.1-.2-3-1.9-4.7-4.6-4.7h-.1c-1.6 0-3 .7-3.8 2l1.5 1c.6-.9 1.6-1.1 2.3-1.1h.1c.9 0 1.6.3 2 .8.3.4.5.9.6 1.6-.8-.1-1.6-.2-2.5-.1-2.5.1-4.1 1.6-4 3.6.1 1 .6 1.9 1.4 2.5.7.5 1.6.7 2.6.6 1.3-.1 2.3-.6 3-1.5.5-.7.9-1.6 1-2.7.6.4 1.1.9 1.3 1.5.4 1 .4 2.6-.9 3.9-1.1 1.1-2.5 1.6-4.5 1.6-2.2 0-3.9-.7-5-2.1C5.6 16.6 5 14.6 5 12s.6-4.6 1.7-6C7.8 4.6 9.5 3.9 11.7 3.9s4 .7 5.1 2.1c.6.7 1 1.5 1.3 2.5l1.8-.5c-.4-1.3-.9-2.4-1.7-3.3C16.6 2.9 14.4 2 11.7 2h-.1C8.9 2 6.8 2.9 5.3 4.7 4 6.3 3.3 8.8 3.3 12s.7 5.7 2 7.3C6.8 21.1 8.9 22 11.6 22h.1c2.4 0 4.1-.6 5.5-2 1.9-1.9 1.8-4.2 1.2-5.7-.4-1-1.3-1.9-2.4-2.4l.6-.7zm-4.3 4.6c-1 .1-2.1-.4-2.1-1.4 0-.7.5-1.6 2.4-1.7h.6c.7 0 1.3.1 1.9.2-.2 2.4-1.5 2.8-2.8 2.9z" fill="currentColor"/></svg></a><a class="sf-i" href="https://www.youtube.com/@gospelnewsaccesschannel" target="_blank" rel="noopener me" aria-label="Gospel News Access on YouTube" title="YouTube"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M21.6 7.2a2.6 2.6 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.6 2.6 0 0 0 2.4 7.2C2 8.8 2 12 2 12s0 3.2.4 4.8a2.6 2.6 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.6 2.6 0 0 0 1.8-1.8c.4-1.6.4-4.8.4-4.8s0-3.2-.4-4.8zM10 15V9l5.2 3L10 15z" fill="currentColor"/></svg></a><a class="sf-g" href="https://www.google.com/preferences/source?q=gospelnewsaccess.com" target="_blank" rel="noopener" aria-label="Add Gospel News Access as a preferred source on Google"><svg viewBox="0 0 48 48" aria-hidden="true"><path fill="#FFC107" d="M43.6 20.5H42V20H24v8h11.3C33.7 32.7 29.2 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.4-.4-3.5z"/><path fill="#FF3D00" d="M6.3 14.7l6.6 4.8C14.7 15.1 19 12 24 12c3.1 0 5.8 1.2 7.9 3.1l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.2 0-9.6-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20.5H42V20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.4-.4-3.5z"/></svg><span>Add us as a <b>preferred source</b> on Google</span></a></div><div class="sf-net"><span>Our network</span><a href="https://newswirehollywood.com/">Newswire Hollywood</a><a href="https://hollywoodnewsaccess.com/">Hollywood News Access</a><a href="https://gospelnewsaccess.com/" aria-current="page">Gospel News Access</a><a href="https://prstarpower.com/">PR STARPOWER</a></div></div></section>\n<!-- FOLLOW:END -->\n'
 
 
 def footer(depth: int = 0) -> str:
@@ -178,7 +215,8 @@ def footer(depth: int = 0) -> str:
           <li><a href="{r('pressroom.html')}">Press Room</a></li>
           <li><a href="{r('contact.html')}">Contact</a></li>
           <li><a href="{r('corrections.html')}">Corrections Policy</a></li>
-          <li><a href="{r('privacy.html')}">Privacy</a></li>
+          <li><a href="{r('advertise.html')}">Advertise</a></li>
+          <li><a href="{r('privacy.html')}">Privacy &amp; Ads</a></li>
           <li><a href="https://www.instagram.com/gospelnewsaccess/" target="_blank" rel="noopener me">Instagram</a></li>
           <li><a href="https://www.facebook.com/profile.php?id=100069397881039" target="_blank" rel="noopener me">Facebook</a></li>
         </ul>

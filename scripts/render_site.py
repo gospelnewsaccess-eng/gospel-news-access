@@ -567,7 +567,8 @@ def render_video() -> None:
 # A small helper for the pages that are mostly words
 # ---------------------------------------------------------------------------
 def prose_page(path: str, nav_key: str, title: str, description: str,
-               body: str, depth: int = 0, crumbs=None, extra_schema=None) -> None:
+               body: str, depth: int = 0, crumbs=None, extra_schema=None,
+               ads: bool = True) -> None:
     url = SITE + "/" + path
     schema = []
     if crumbs:
@@ -575,7 +576,7 @@ def prose_page(path: str, nav_key: str, title: str, description: str,
     if extra_schema:
         schema.extend(extra_schema)
     html = [
-        L.head(title, description, url, depth, schema),
+        L.head(title, description, url, depth, schema, ads=ads),
         L.breaking_banner(stories(), depth),
         L.header(depth),
         L.nav(nav_key, depth),
@@ -1113,7 +1114,7 @@ read on this page.</p></div>
 """
     prose_page("cdc/index.html", "cdc", "Community Development",
                "The two community development centres supported by Gospel News Access.",
-               body, 1, crumbs)
+               body, 1, crumbs, ads=False)  # charity pages stay ad-free
 
     # --- Gospel News Access CDC ---
     b = conf.get("gospel_news_access") or {}
@@ -1538,50 +1539,9 @@ not have to be the subject of the story to ask.</p>
                "have issued.",
                body, 0, [("Front Page", SITE + "/"), ("Corrections", SITE + "/corrections.html")])
 
-    # --- Privacy ---
-    body = """<h1>Privacy</h1>
-<p class="lede">What this website does and does not know about you. In plain
-English, because privacy policies that nobody can read protect nobody.</p>
-
-<h2>The short version</h2>
-<p>This is a static website. It has no accounts, no logins, and no database of
-readers. We do not set advertising cookies and we do not run a tracking pixel.</p>
-
-<h2>Photographs on the wire</h2>
-<p>Story photographs are displayed from the original publisher&rsquo;s own servers
-rather than copied onto ours. That means when a page loads, the publisher&rsquo;s
-server receives the request and can see your IP address, the same as if you had
-visited their site. We send no referrer information with those requests.</p>
-
-<h2>Video</h2>
-<p>Videos are embedded from YouTube using its no-cookie player, which does not set
-tracking cookies until you press play. Once you press play, YouTube&rsquo;s own
-privacy policy applies to that playback.</p>
-
-<h2>Links out</h2>
-<p>Most headlines here lead to other publications. Once you follow one, you are on
-their website under their privacy policy, not ours.</p>
-
-<h2>Forms</h2>
-<p>When form submission is switched on, we will use what you send only for the
-purpose you sent it: to consider your music, to list your church, or to answer
-you. Contact details supplied through a form are never published and never sold.
-You may ask us to delete anything you have sent, and we will.</p>
-
-<h2>Hosting</h2>
-<p>This site is served by GitHub Pages. GitHub keeps its own server logs; see
-GitHub&rsquo;s privacy statement for what those contain.</p>
-
-<h2>Children</h2>
-<p>This is a general news site and is not directed at children under 13, and we do
-not knowingly collect information from them.</p>
-
-<h2>Changes</h2>
-<p>If this policy changes in a way that matters, the change will be dated here.</p>
-"""
-    prose_page("privacy.html", "about", "Privacy",
-               "What Gospel News Access does and does not collect about its readers.",
-               body, 0, [("Front Page", SITE + "/"), ("Privacy", SITE + "/privacy.html")])
+    # --- Privacy & ads, and the Advertise media kit: scripts/money.py ---
+    import money
+    money.render_money(cfg().get("organization", {}))
 
 
 # ---------------------------------------------------------------------------
@@ -1758,6 +1718,7 @@ STATIC_PAGES = [
     ("masthead.html", "monthly", "0.5"),
     ("corrections.html", "monthly", "0.5"),
     ("privacy.html", "yearly", "0.3"),
+    ("advertise.html", "monthly", "0.5"),
 ]
 
 
@@ -1815,10 +1776,11 @@ def render_press() -> list[dict]:
             '<p><a href="../pressroom.html">All press releases</a></p>'
             % (g.esc(r["title"]), g.esc(r.get("subhead", "")), g.esc(r.get("dateline", "")),
                g.esc(r.get("date", "")), img, "".join(para(t) for t in r.get("body", [])), links, contact))
+        # ads=False: a client paid for this page, so no third-party ads inside it.
         prose_page("press/%s.html" % r["slug"], "about", r["title"],
                    r.get("subhead") or r["title"], body, 1,
                    [("Front Page", SITE + "/"), ("Press Room", SITE + "/pressroom.html"),
-                    (r["title"], SITE + "/press/%s.html" % r["slug"])])
+                    (r["title"], SITE + "/press/%s.html" % r["slug"])], ads=False)
 
     items = "".join(
         '<li><p class="dateline">%s</p><h3><a href="press/%s.html">%s</a></h3><p>%s</p></li>'
@@ -1971,6 +1933,7 @@ def render_all() -> None:
     render_sitemaps(arts)
     render_feed(arts)
     render_404()
+    L.write_ads_txt()
 
 
 if __name__ == "__main__":

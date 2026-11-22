@@ -72,3 +72,10 @@ private/     never published
 
 See `runbook/` for step-by-step setup instructions written for someone who has
 never used these tools before.
+
+## Money switches: ads, media kit, privacy (Nov 22 2026)
+
+- **Google ads (AdSense), one line:** set `ADSENSE_PUB = "pub-XXXXXXXXXXXXXXXX"` at the top of `scripts/layout.py`, run `python3 tools/adsense.py`, commit. That puts Google's Auto ads tag between `<!-- ADSENSE:START -->` / `<!-- ADSENSE:END -->` in the `<head>` of every page and writes `ads.txt` at the site root; `render_site.py` does the same on every scheduled rebuild. Empty it and re-run to switch ads off. Press releases (`press/`) and the community development pages (`cdc/`) stay ad-free. In AdSense, also switch on Privacy & messaging > European regulations (Google's free consent message), because `privacy.html` promises it.
+- **Advertise / media kit:** `advertise.html`, written by `scripts/money.py` (starting rates, "we confirm and invoice", charts and coverage never for sale). Contact uses `email_advertising` or `email_general` from `data/site-config.json` when set; until then, Facebook/Instagram messages.
+- **Privacy & ads:** `privacy.html`, also from `scripts/money.py` (Google ad cookies, partner-sites and Ads Settings links, affiliate links marked `rel="sponsored"`, sponsored content always labeled).
+- The follow band (`FOLLOW_BAND` in `scripts/layout.py`) carries "Add us as a preferred source on Google".

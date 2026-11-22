@@ -527,3 +527,58 @@ a:hover{text-decoration:underline;}
 .story__facts dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px 22px;margin:0}
 .story__facts dt{font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;opacity:.7;margin-bottom:3px}
 .story__facts dd{margin:0;font-weight:600;line-height:1.3}
+
+
+/* ==========================================================================
+   Advertise (media kit) and Privacy & ads pages: the .mk component.
+   Written by scripts/money.py. Same layout on every site in the network,
+   coloured here for the dark Gospel News Access theme.
+   ========================================================================== */
+.mk{--mk-a:#f0b429;--mk-onA:#0a0a0c;--mk-i:#ffffff;--mk-r:#2a2a34;--mk-s:#1b1b22;--mk-c:#121217;--mk-m:#a8a8b4;--mk-h:var(--sans)}
+.mk{max-width:1000px;margin:0 auto;padding:0 18px 12px;overflow-wrap:break-word}
+.mk *{box-sizing:border-box}
+.mk-hero{padding:34px 0 22px;border-bottom:3px solid var(--mk-i)}
+.mk-kick{display:inline-block;font-family:var(--mk-h);font-weight:700;font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--mk-a)}
+.mk h1{font-family:var(--mk-h);font-weight:700;font-size:clamp(30px,6.5vw,52px);line-height:1.04;color:var(--mk-i);margin:10px 0 12px;letter-spacing:-.4px}
+.mk-lede{font-size:clamp(17px,2.4vw,19.5px);line-height:1.5;max-width:42em;margin:0}
+.mk h2{font-family:var(--mk-h);font-weight:700;font-size:clamp(21px,4vw,28px);line-height:1.15;color:var(--mk-i);border-bottom:2px solid var(--mk-i);padding-bottom:7px;margin:40px 0 14px}
+.mk h3{font-family:var(--mk-h);font-weight:700;font-size:19px;line-height:1.2;color:var(--mk-i);margin:22px 0 8px}
+.mk p{margin:0 0 14px;max-width:46em;line-height:1.6}
+.mk ul.mk-list{margin:0 0 16px;padding-left:20px}
+.mk ul.mk-list li{margin-bottom:8px;line-height:1.55}
+.mk a.inl{color:var(--mk-a);text-decoration:underline;text-underline-offset:2px}
+.mk-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:6px}
+@media(min-width:640px){.mk-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:980px){.mk-grid{grid-template-columns:repeat(3,1fr)}}
+.mk-card{border:1px solid var(--mk-r);border-top:4px solid var(--mk-a);background:var(--mk-c);padding:18px 18px 16px;display:flex;flex-direction:column;gap:9px;min-width:0}
+.mk-card h3{margin:0}
+.mk-price{font-family:var(--mk-h);font-weight:800;font-size:31px;line-height:1;color:var(--mk-a)}
+.mk-price small{font-size:13px;font-weight:600;color:var(--mk-m);letter-spacing:.03em;margin-left:5px}
+.mk-from{display:block;font-family:var(--mk-h);font-size:10.5px;letter-spacing:.15em;text-transform:uppercase;color:var(--mk-m);font-weight:700;margin-bottom:5px}
+.mk-card p{font-size:15px;line-height:1.5;margin:0}
+.mk-tag{align-self:flex-start;font-family:var(--mk-h);font-weight:700;font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;background:var(--mk-s);color:var(--mk-i);padding:5px 8px;border:1px solid var(--mk-r);margin-top:auto}
+.mk-tiers{list-style:none;margin:2px 0 0;padding:0}
+.mk-tiers li{display:flex;justify-content:space-between;align-items:baseline;gap:10px;border-top:1px solid var(--mk-r);padding:8px 0 7px;font-size:14.5px;line-height:1.35}
+.mk-tiers b{font-family:var(--mk-h);color:var(--mk-a);font-size:17px;white-space:nowrap}
+.mk-note{background:var(--mk-s);border-left:4px solid var(--mk-a);padding:14px 16px;margin:18px 0;font-size:15.5px;line-height:1.55}
+.mk-note p:last-child{margin-bottom:0}
+.mk-steps{counter-reset:s;list-style:none;margin:0 0 10px;padding:0;display:grid;gap:14px}
+.mk-steps li{counter-increment:s;position:relative;padding-left:46px;line-height:1.55;min-height:32px}
+.mk-steps li::before{content:counter(s);position:absolute;left:0;top:-2px;width:32px;height:32px;border-radius:50%;background:var(--mk-a);color:var(--mk-onA);font-family:var(--mk-h);font-weight:700;font-size:15px;line-height:32px;text-align:center}
+.mk-promise{display:grid;grid-template-columns:1fr;gap:12px;list-style:none;margin:0;padding:0}
+@media(min-width:700px){.mk-promise{grid-template-columns:1fr 1fr}}
+.mk-promise li{border:1px solid var(--mk-r);background:var(--mk-c);padding:14px 16px;line-height:1.5;font-size:15.5px}
+.mk-promise b{display:block;font-family:var(--mk-h);color:var(--mk-i);font-size:16.5px;margin-bottom:3px}
+.mk-contact{border:2px solid var(--mk-i);background:var(--mk-c);padding:20px;margin:30px 0 8px;display:flex;flex-wrap:wrap;gap:14px 28px;align-items:center;justify-content:space-between}
+.mk-contact .k{display:block;font-family:var(--mk-h);font-weight:700;font-size:11px;letter-spacing:.15em;text-transform:uppercase;color:var(--mk-m);margin-bottom:7px}
+.mk-contact .mail{font-family:var(--mk-h);font-weight:700;font-size:clamp(18px,4.6vw,25px);color:var(--mk-a);word-break:break-word;text-decoration:none}
+.mk-contact p{margin:6px 0 0;font-size:14.5px;color:var(--mk-m)}
+.mk-btn{display:inline-block;background:var(--mk-a);color:var(--mk-onA);font-family:var(--mk-h);font-weight:700;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:13px 18px;border-radius:3px;text-decoration:none;white-space:nowrap}
+.mk-btn:hover{filter:brightness(1.08)}
+.mk-btns{display:flex;flex-wrap:wrap;gap:10px}
+.mk-fine{font-size:13.5px;color:var(--mk-m);line-height:1.5}
+.mk-toc{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 0;padding:0;list-style:none}
+.mk-toc a{display:inline-block;border:1px solid var(--mk-r);padding:6px 11px;font-family:var(--mk-h);font-size:13px;font-weight:600;color:var(--mk-i);text-decoration:none;background:var(--mk-c)}
+.mk-toc a:hover{border-color:var(--mk-a);color:var(--mk-a)}
+.mk code{background:var(--ink-3);padding:1px 5px;border-radius:3px;font-size:.9em}
+main.wrap > .mk{padding-left:0;padding-right:0}
