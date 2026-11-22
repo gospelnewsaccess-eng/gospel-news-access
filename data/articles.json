@@ -1,8 +1,25 @@
 {
-  "generated_at": "2026-11-21T21:24:13Z",
+  "generated_at": "2026-11-22T01:27:59Z",
   "story_count": 600,
-  "with_photo": 421,
+  "with_photo": 419,
   "items": [
+    {
+      "id": "accba7fa3fa25c7d",
+      "title": "AI is Going to Change Your Faith with DZ Kalman",
+      "link": "https://religionnews.com/2026/11/21/ai-is-going-to-change-your-faith-with-dz-kalman/",
+      "summary": "A leading scholar on AI and religion tells host Rev. Paul Brandeis Raushenbush what artificial intelligence can offer religion - and, importantly, what religion can offer to today's fast-changing technology",
+      "outlet": "Religion News Service",
+      "outlet_url": "",
+      "source_feed": "Religion News Service",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-21T23:05:58Z",
+      "first_seen": "2026-11-22T01:27:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T01:27:59Z"
+    },
     {
       "id": "31397f592852d531",
       "title": "Three Dallas megachurches help feed over 1,000 families with Thanksgiving meals",
@@ -19,6 +36,23 @@
       "breaking": true,
       "breaking_expires_at": "2026-11-22T09:24:13Z",
       "image_tried": "2026-11-21T21:24:13Z"
+    },
+    {
+      "id": "3847225986176481",
+      "title": "Even When Heaven Feels Silent, I Will Trust You Jesus 🙏 | Deep Emotional Worship Song.🔥 🙏✨",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE53N016U1BJcDRxN0ZIWTBuSExEQy12NFpVLXBIUlpsbVZSNV9OenNuT2F5SXVpT1hnbTZUNWE4TVlxZw?oc=5",
+      "summary": "Even When Heaven Feels Silent, I Will Trust You Jesus 🙏 | Deep Emotional Worship Song.🔥 🙏✨ YouTube",
+      "outlet": "YouTube",
+      "outlet_url": "https://youtu.be",
+      "source_feed": "Google News: Christian music",
+      "tier": 1,
+      "category": "christian-music",
+      "published": "2026-11-21T20:18:25Z",
+      "first_seen": "2026-11-22T01:27:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T01:27:59Z"
     },
     {
       "id": "03a927769df2b2b5",
@@ -10100,6 +10134,23 @@
       "image_tried": "2026-11-20T09:32:43Z"
     },
     {
+      "id": "667570265b86c6e7",
+      "title": "CeCe Winans, Cory Henry and Gospel’s Diverse Voices Lead 69th Grammy Nominees",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vT09Lelc0Si1SVVFMRzlCMWdnWWpUQUlvYzBQVkVHQnkzRDZhWjRRdXBiUkMtN2lNcXFOQXphemNxNk9UOEI5Tk9GcUlIVmRQOWVBTEs4X3lUeVZLNGpOcEE2amFGUlhQNHAzQ0MxcHpXdGJT?oc=5",
+      "summary": "CeCe Winans, Cory Henry and Gospel’s Diverse Voices Lead 69th Grammy Nominees Get Up! Mornings With Erica Campbell",
+      "outlet": "Get Up! Mornings With Erica Campbell",
+      "outlet_url": "https://getuperica.com",
+      "source_feed": "Google News: CeCe Winans",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-17T04:11:10Z",
+      "first_seen": "2026-11-22T01:27:59Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T01:27:59Z"
+    },
+    {
       "id": "fba3ae50c93e7aaf",
       "title": "Jimmy Fortune: 2026 Ultimate Smoky Mountain Christmas Celebration",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNclhmUEtZd1BVM3plcVNGblRSQUVxeDQzejR3Z0VvT3NhV3VOTHdYTVN4ZDQwM241NERGOGhWNUJseVdheGFYaUxxTHFtTElvb1RYNFA1aW9XSzhQRGYxSkkwYUotcVdzbGh6R09hSDYxanFQOEdmc2gxUG4xWFNiWXdCUXB5b19NWDBiOTZYODRlbFVkUWF0d2FIYXJLYkk5c3F6Rm1OTTBGcW8zWE85T0o1VnNkWW9FZlRvb3N6X3FCa0Z1UzlQWmFuczRLdl85YVFRRjJ1OXI?oc=5",
@@ -10989,61 +11040,6 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-21T21:24:13Z"
-    },
-    {
-      "id": "cfdf510f42fd1948",
-      "title": "3 sentenced to death for deadly church mass shooting in Jordan",
-      "link": "https://www.christianpost.com/news/3-sentenced-to-death-for-church-mass-shooting-in-jordan.html",
-      "summary": "Three men have been sentenced to death by hanging in Jordan for a mass shooting that killed nine people at a funeral in a Greek Orthodox church last month.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T17:50:54Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272748_w_550_367_451_307.jpg?v=20261116130433",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "9688f5642cd19d11",
-      "title": "Grace in marble: the Emanuel Nine Memorial",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMFFGX1J4aTFvMmtrUU9xYVQ3REtxUEhBcE1SVnE1S01tNm05aTMyX3JFeG1iZUU2SmxlcER1YnBJelJ0ZDVsTVdHYVl1cjRTTlVwdndpTEUzTXgyMzRWMDQwRFVvdHZhMFI3OXBCT1d5dkdJdjNkeV9mLU4tbmdjSVVMNXJINUs2eDQ5emNR?oc=5",
-      "summary": "Grace in marble: the Emanuel Nine Memorial The Black Wall Street Times",
-      "outlet": "The Black Wall Street Times",
-      "outlet_url": "https://theblackwallsttimes.com",
-      "source_feed": "Google News: Black church",
-      "tier": 1,
-      "category": "church",
-      "published": "2026-11-16T17:40:26Z",
-      "first_seen": "2026-11-17T14:10:27Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T18:13:39Z"
-    },
-    {
-      "id": "ed7231796786e220",
-      "title": "Pope Leo departs from Peru, thanks God for ‘abundant graces’ of journey",
-      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-to-peru-words-canno-express-my-gratitude-graces-of-visit.html",
-      "summary": "Pope Leo XIV's flight back to Rome leaves Peru, on Monday afternoon, ending his Apostolic Journey to South America. At the conclusion of the Mass in Lima, Pope Leo XIV expressed the depths of his gratitude for the graces of his Apostolic Journey to Peru…",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T17:35:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/16/2026-11-16-viaggio-apostolico-in-peru---santa-messa/1794849618707.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
     }
   ]
 }
