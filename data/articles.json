@@ -1,8 +1,344 @@
 {
-  "generated_at": "2026-11-22T08:34:58Z",
+  "generated_at": "2026-11-22T16:50:02Z",
   "story_count": 600,
-  "with_photo": 429,
+  "with_photo": 430,
   "items": [
+    {
+      "id": "43d36d4cbb007b43",
+      "title": "This week in Christian history: John Knox dies; ‘Second Martin’ ordained",
+      "link": "https://www.christianpost.com/news/this-week-in-christian-history-second-martin-ordained.html",
+      "summary": "Events from this week in Christian history include the birth of John Gill, the ordination of the “Second Martin” and the death of John Knox.",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T15:24:01Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/28/272824_w_550_367_571_148.jpg?v=20261122102437",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6ba9435e83a2f2b8",
+      "title": "EU and Panama reject draft deal at UN climate talks, putting agreement in doubt",
+      "link": "https://www.vaticannews.va/en/world/news/2026-11/eu-panama-draft-deal-cop-environment-united-nations-fossil-fuels.html",
+      "summary": "The President of the COP31 UN climate talks in Türkiye has said there is no agreement on a deal. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T14:34:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/11/22/12/1795346556232.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "23a1a64ec16713cc",
+      "title": "This church is the oldest Black Baptist congregation in Grand Rapids",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTk9rVGVmcFpXTEtVQ3kxcEJORGxycXN2TXJpUmxULTRkQWFQdVN5ZVp0aDdkMElCUTg1a2tvdllmVkZjRHZlVTlEWGJkdEhoWTdvVmRHbWk5NENqb0NqcVRJSVlWQ0pqam5nWHlKY3dBZ0dFR3EtaDJmTmNIYUpvdVhRblJkM0taYnJQeHZyR0FvcnRZSjBLYjNUWW9yU0tBVzNSdVNHS3VUTDJDejFEbDFrQ1NVbDFpV0NKT3hR?oc=5",
+      "summary": "This church is the oldest Black Baptist congregation in Grand Rapids MLive.com",
+      "outlet": "MLive.com",
+      "outlet_url": "https://www.mlive.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-22T13:45:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T16:50:02Z"
+    },
+    {
+      "id": "644abf1ed659629e",
+      "title": "Pope Leo XIV shares lunch with 1,300 people in need at Vatican",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-shares-lunch-with-1-300-people-in-need-at-vatican",
+      "summary": "The pope welcomed guests from more than 20 charitable organizations for a meal marking the World Day of the Poor, telling them: “Today we are all one family.”",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T13:36:30Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/_TOM2755-1_w7ejen.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "70178ef9cc2ea5bd",
+      "title": "Pope Leo XIV: 'The King of the universe stands alongside the least and the oppressed'",
+      "link": "https://www.ewtnnews.com/vatican/pope-leo-xiv-the-king-of-the-universe-stands-alongside-the-least-and-the-oppressed",
+      "summary": "The pontiff pope reflected on divine justice, called for peace in conflict-stricken regions and urged young people to follow Christ’s example of humility.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T13:22:08Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/_TEO7453_oarbit.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "186d5c36f6cee359",
+      "title": "Pope Leo at lunch with the poor: “Today, we are all one family”",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-at-lunch-with-the-poor-today-we-are-all-one-family.html",
+      "summary": "Pope Leo XIV arrives at the Paul VI Audience Hall after praying the Angelus in Saint Peter’s Square. Waiting to share lunch with him are families, children, religious men and women, and volunteers who care for the most vulnerable every day. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T13:20:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/22/2026-11-22-pranzo-con-i-poveri-/1795350761020.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "ec6c0231e86f7e39",
+      "title": "Album Review: Restoration by Marvin Sapp",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84YVNxSTV3Um9XVFR5UkFlTW8yN1hzY3FQWVMxNmZMY04wYWZzNjNoX3pqUUpvYU13NXdmUUxvTlRsUHdaWW5pVy14NGR4U0o4MS0tR0hYOUNLZlBzMFZSM19vYzVPaTU0bXlZMlZHTS0tS213UWhtSGdNRXI?oc=5",
+      "summary": "Album Review: Restoration by Marvin Sapp Shatter the Standards",
+      "outlet": "Shatter the Standards",
+      "outlet_url": "https://www.shatterthestandards.com",
+      "source_feed": "Google News: Marvin Sapp",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-22T13:02:41Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T16:50:02Z"
+    },
+    {
+      "id": "5d18a24f0d9f3387",
+      "title": "Millions Live with Chronic Pain, but This Approach Offers New Hope",
+      "link": "https://mycharisma.com/news/millions-live-with-chronic-pain-but-this-approach-offers-new-hope/",
+      "summary": "Chronic pain, the kind that lasts three months or longer, affects 100 million Americans. Whether it hurts in the back, knee, hip, joints or even all over, people experiencing chronic pain often feel hopeless about ever finding relief. However, a new approach…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T13:00:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/11/Screenshot-2026-11-17-110639.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "37404b859948bd09",
+      "title": "US and Israel Reportedly Planning New Military Offensive Against Iran",
+      "link": "https://mycharisma.com/news/us-and-israel-reportedly-planning-new-military-offensive-against-iran/",
+      "summary": "The United States and Israel may launch an attack against Iran before changing times make it impossible. Two separate concerns are motivating the nations, according to CBS News. Prime Minister Benjamin Netanyahu fears that Iran is rapidly rebuilding its…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T12:30:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e658fe05e4fa30a3",
+      "title": "NEEDTOBREATHE's \"Sparrow\" Featuring Bre Kennedy Is Out Now: How a Greenroom Moment Became Track 18",
+      "link": "https://www.jubileecast.com/articles/41263/20261122/needtobreathe-sparrow-bre-kennedy-long-surrender-fellow-passengers-of-pain-deluxe-album.htm",
+      "summary": "NEEDTOBREATHE's \"Sparrow\" Featuring Bre Kennedy Is Out Now: How a Greenroom Moment Became Track 18",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-22T12:09:43Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/28320/needtobreathe.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "10ee438dd7fa18d8",
+      "title": "Kenyan priest urges continued welcome for people fleeing fighting in Ethiopia",
+      "link": "https://www.ewtnnews.com/world/africa/kenyan-priest-urges-continued-welcome-for-people-fleeing-fighting-in-ethiopia",
+      "summary": "“Let us not give up on them,” Father Edward Ltange, a parish priest working in the Kenyan border town of Moyale, said of the Ethiopians who have fled their country due to violence.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T12:00:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/d6e889c7-f4b0-4ef4-94a1-9fa3cfd738de_1795008501.jpg_jcojir.webp",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e41c506c69b6db31",
+      "title": "Bruce Willis' Health Timeline: From Aphasia in 2022 to the Family Updates Fans Are Reading Today",
+      "link": "https://www.jubileecast.com/articles/41262/20261122/bruce-willis-health-timeline-aphasia-2022-frontotemporal-dementia-family-updates.htm",
+      "summary": "Bruce Willis' Health Timeline: From Aphasia in 2022 to the Family Updates Fans Are Reading Today",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-22T11:48:11Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/2595/the-prince-bruce-willis.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "6db9c9f9a92ab925",
+      "title": "Pope Leo prays for victims of conflicts and calls for reconciliation and peace",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-appeals-drought-war-peace-conflict-young-people-poor-wyd.html",
+      "summary": "At the end of the Angelus, Pope Leo XIV prays for victims of conflicts and calls for peace, while also expressing his closeness to Papua New Guinea and other countries suffering from drought. He also turns his thoughts to young people and looks ahead to the…",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T11:43:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/11/21/13/1795263196618.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "cbeecd74876b426e",
+      "title": "The Gospel Light Torch — Sunday, November 22, 2026: ‘Sex Is Important and Necessary in Christian Marriage’ with Daniel Whyte III",
+      "link": "https://blackchristiannews.com/the-gospel-light-torch-sunday-november-22-2026-sex-is-important-and-necessary-in-christian-marriage-with-daniel-whyte-iii/?utm_source=rss&utm_medium=rss&utm_campaign=the-gospel-light-torch-sunday-november-22-2026-sex-is-important-and-necessary-in-christian-marriage-with-daniel-whyte-iii",
+      "summary": "THE GOSPEL LIGHT TORCH with Daniel Whyte III · Sunday, November 22, 2026 OUR NEWS PUBLICATIONS By the grace of The post The Gospel Light Torch — Sunday, November 22, 2026: ‘Sex Is Important and Necessary in Christian Marriage’ with Daniel Whyte III appeared…",
+      "outlet": "Black Christian News Network",
+      "outlet_url": "",
+      "source_feed": "Black Christian News Network",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-22T11:33:03Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T16:50:02Z"
+    },
+    {
+      "id": "e5bfd8dd47a0f0e1",
+      "title": "Stevie Wonder, 76, Plays All of \"Songs in the Key of Life\" at MSG: Setlist, Family Moments and What's Next",
+      "link": "https://www.jubileecast.com/articles/41261/20261122/stevie-wonder-songs-in-the-key-of-life-madison-square-garden-setlist-50th-anniversary-tour.htm",
+      "summary": "Stevie Wonder, 76, Plays All of \"Songs in the Key of Life\" at MSG: Setlist, Family Moments and What's Next",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-22T11:29:51Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31714/stevie-wonder.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "22508a5b8a672a4f",
+      "title": "Pope at Angelus: God’s judgement is salvation",
+      "link": "https://www.vaticannews.va/en/pope/news/2026-11/pope-at-angelus-god-s-judgement-is-salvation.html",
+      "summary": "In his Angelus message, at the conclusion of the liturgical year, Pope Leo XIV reflects on the end times, saying Christ reveals true justice in the Final Judgement. Read all",
+      "outlet": "Vatican News",
+      "outlet_url": "",
+      "source_feed": "Vatican News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T11:10:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/22/2026-11-22-angelus/1795346264015.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "20c3b9c4b24feef4",
+      "title": "White House Names New National Cyber Director After Disruptions Shake American Confidence",
+      "link": "https://mycharisma.com/?p=625950",
+      "summary": "The White House is shaking up the Office of Cybersecurity after widespread service outages have disrupted life and unnerved many Americans. The past week of digital disruptions has snarled air travel, cut off work, and limited bank access for millions…",
+      "outlet": "Charisma News",
+      "outlet_url": "",
+      "source_feed": "Charisma News",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T11:00:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://mycharisma.com/wp-content/uploads/2025/12/Abbys-Book-1-400x600.jpg",
+        "via": "content:encoded"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "4d4bd95398df9d8f",
+      "title": "‘This is the pope’: 94-year-old Peruvian priest recalls a momentous 2025 phone call",
+      "link": "https://www.ewtnnews.com/world/americas/this-is-the-pope-pope-leo-s-phone-call-that-moved-a-94-year-old-priest-to-tears",
+      "summary": "Monsignor Esteban Puig recalled with emotion the phone call he received from the then-newly elected Pope Leo XIV, who was previously the priest’s bishop.",
+      "outlet": "Catholic News Agency",
+      "outlet_url": "",
+      "source_feed": "Catholic News Agency",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-22T11:00:00Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": {
+        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/PuigPapaLeon2026_171126_rwpb04_ggnjri.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "04e752d8a29a9f9d",
       "title": "Mahershala Ali Says His 2 Oscars \"Don't Matter\" for Roles: What He Told Carmelo Anthony's Podcast",
@@ -1699,6 +2035,23 @@
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-21T07:31:11Z"
+    },
+    {
+      "id": "d501f49eec63c923",
+      "title": "Tyler Perry’s ‘The Gospel of Christmas’ Arrives on Netflix With Fantasia, Tank and a Kirk Franklin Soundtrack",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWGtRZExZTjd0ZWU2Mmo4RHZubVNWWGpYdHNlbVhCcTc1dmdxbzM3VkFodlIzTHlTeHRQVEhsRkViSHI5emhXbkxzUE1XOXlRUWgyTDRFM0NIazBqNU8yT0tNUUVSNVh2YXRHaWpRZ1pDV0xYQUpsNThNamNYNzFZaUpKVmtHMzJOYV9qZUVzcVJFOWJHUnEyUW5yNkJmQQ?oc=5",
+      "summary": "Tyler Perry’s ‘The Gospel of Christmas’ Arrives on Netflix With Fantasia, Tank and a Kirk Franklin Soundtrack The Hype Magazine",
+      "outlet": "The Hype Magazine",
+      "outlet_url": "https://www.thehypemagazine.com",
+      "source_feed": "Google News: Kirk Franklin",
+      "tier": 1,
+      "category": "artist",
+      "published": "2026-11-21T00:28:31Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "80feb59f1654eaa3",
@@ -5294,7 +5647,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-19T23:00:21Z",
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "c6caaf0241160de5",
@@ -5349,7 +5702,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "33da6eaecbc21ff7",
@@ -5366,7 +5719,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "6a3a322e05aeef1e",
@@ -5383,7 +5736,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "c429ae411033c2cf",
@@ -5419,7 +5772,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "44cbd17a4e16c135",
@@ -5681,7 +6034,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "3a2d37c7bfe11c4b",
@@ -5829,7 +6182,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "211bb7bd36d190d6",
@@ -5884,7 +6237,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "7456d07ad4ca139a",
@@ -6068,7 +6421,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "9e6c78c3770f6ca1",
@@ -7244,7 +7597,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "22de66aadf135506",
@@ -7356,7 +7709,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-19T11:00:21Z"
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "3b8a9d817f222516",
@@ -8401,6 +8754,23 @@
       },
       "breaking": false,
       "breaking_expires_at": null
+    },
+    {
+      "id": "26148c0f2d230a7d",
+      "title": "At Mother Emanuel, faith and love outlasted hate",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVS00YTRzdHhSVUs3RXpxVTFuLXlHZURYNWxCcVU2TEJSaFhYV0VJWDRqWGRqSVQtSC1Ma0xRWkIxT254SXA1a3hIUFN5UjRDbVV0U0FEcHRiMzZDVzU4WHlvLXVGTXNhRkZSOHphSDRsbHkySTJSbXBjeklhczF3U2ktQmNxSllZOEgzWjhyQQ?oc=5",
+      "summary": "At Mother Emanuel, faith and love outlasted hate AFRO News",
+      "outlet": "AFRO News",
+      "outlet_url": "https://www.afro.com",
+      "source_feed": "Google News: Black church",
+      "tier": 1,
+      "category": "church",
+      "published": "2026-11-18T04:04:30Z",
+      "first_seen": "2026-11-22T16:50:02Z",
+      "image": null,
+      "breaking": false,
+      "breaking_expires_at": null,
+      "image_tried": "2026-11-22T16:50:02Z"
     },
     {
       "id": "29e6e6b50c1f617d",
@@ -10692,374 +11062,6 @@
       },
       "breaking": false,
       "breaking_expires_at": null
-    },
-    {
-      "id": "e42faeeecc615765",
-      "title": "69th Annual GRAMMY® Awards Final Nominations List – Gospel, CCM, Roots, and Mavis!",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3JaTXZTS0VXZHI0bVN4ckhwLTFsLWx1WlNTYTYycmhlMWdNZERrcDUweFptSzJINllqWlZZdUpBR1hSd2hqcVNDU2Fhbml0WmQyZ2ZwSTB2NU96d2dVXzR3a1VER0pmX3A1VHVvRTF3NUJJU1lNcUh2SlpmSkdIZ1o0eUZLYWtMTm85SDN4MEFic0NzUV9GSXZ6azJUMGFCeC0wWUx5VjloNmQ3bkgtNG9fVkw0cGM?oc=5",
-      "summary": "69th Annual GRAMMY® Awards Final Nominations List – Gospel, CCM, Roots, and Mavis! Journal of Gospel Music",
-      "outlet": "Journal of Gospel Music",
-      "outlet_url": "https://journalofgospelmusic.com",
-      "source_feed": "Google News: Elevation Worship",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-17T01:46:29Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T09:32:43Z"
-    },
-    {
-      "id": "fce9fd3b3a4f4a88",
-      "title": "Ella Langley Earns 7 Grammy Nominations, Including All 4 Top Categories: How Her Faith Shaped “Dandelion”",
-      "link": "https://www.jubileecast.com/articles/41129/20261116/ella-langley-7-grammy-nominations-all-4-top-categories-faith-dandelion.htm",
-      "summary": "Ella Langley Earns 7 Grammy Nominations, Including All 4 Top Categories: How Her Faith Shaped “Dandelion”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-17T01:44:01Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32036/ella-langley.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "455486cf6f912b47",
-      "title": "Raye Earns 11 Grammy Nominations, Including Album of the Year: How Her Faith Shaped “This Music May Contain Hope”",
-      "link": "https://www.jubileecast.com/articles/41128/20261116/raye-11-grammy-nominations-album-of-the-year-faith-this-music-may-contain-hope.htm",
-      "summary": "Raye Earns 11 Grammy Nominations, Including Album of the Year: How Her Faith Shaped “This Music May Contain Hope”",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-17T01:36:35Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29871/raye.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "4eb497c0a622d6a0",
-      "title": "2027 Grammy Nominations: Full List of Gospel and Christian Music Nominees",
-      "link": "https://www.jubileecast.com/articles/41127/20261116/2027-grammy-nominations-full-list-gospel-christian-music-nominees.htm",
-      "summary": "2027 Grammy Nominations: Full List of Gospel and Christian Music Nominees",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-17T01:27:05Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32663/grammys.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "3db25740f52e1b27",
-      "title": "Who Is the New James Bond? Robert Pattinson Cast as 007, With Denis Villeneuve Directing",
-      "link": "https://www.jubileecast.com/articles/41126/20261116/who-is-new-james-bond-robert-pattinson-cast-007-denis-villeneuve-directing.htm",
-      "summary": "Who Is the New James Bond? Robert Pattinson Cast as 007, With Denis Villeneuve Directing",
-      "outlet": "JubileeCast",
-      "outlet_url": "",
-      "source_feed": "JubileeCast",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-17T01:17:48Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": {
-        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32555/robert-pattinson.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "474e7a66725d312a",
-      "title": "Conclusion: The Watchman on the Wall / The Silicon Valley Antichrist: Peter Thiel, AI, and the Prophetic Warning They Don’t Want You to Hear",
-      "link": "https://blackchristiannews.com/conclusion-the-watchman-on-the-wall-the-silicon-valley-antichrist-peter-thiel-ai-and-the-prophetic-warning-they-dont-want-you-to-hear/?utm_source=rss&utm_medium=rss&utm_campaign=conclusion-the-watchman-on-the-wall-the-silicon-valley-antichrist-peter-thiel-ai-and-the-prophetic-warning-they-dont-want-you-to-hear",
-      "summary": "Daniel Whyte III says the biggest problem in America is not the government or the people caught up in abominable The post Conclusion: The Watchman on the Wall / The Silicon Valley Antichrist: Peter Thiel, AI, and the Prophetic Warning They Don’t Want You to…",
-      "outlet": "Black Christian News Network",
-      "outlet_url": "",
-      "source_feed": "Black Christian News Network",
-      "tier": 3,
-      "category": "gospel-trade",
-      "published": "2026-11-17T00:28:13Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": {
-        "url": "https://blackchristiannews.com/wp-content/uploads/2026/04/cover-silicon-valley-antichrist.webp",
-        "via": "og:image"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "369a78649970aafe",
-      "title": "Dallas’ Highland Park church sues the UMC over rights to its name",
-      "link": "https://religionnews.com/2026/11/16/highland-park-is-suing-the-umc-over-the-rights-to-its-name/",
-      "summary": "(RNS) — The Dallas church that voted to leave the denomination wants to keep its name — Highland Park Methodist Church, minus the ‘United’ — and prevent others from using the Highland Park name.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T23:46:20Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T09:32:43Z"
-    },
-    {
-      "id": "e1918f08da5b1a7e",
-      "title": "Judge makes new decision about Lindsay Clancy after murder mistrial",
-      "link": "https://www.christianpost.com/news/judge-makes-new-decision-about-lindsay-clancy-after-mistrial.html",
-      "summary": "A judge has set a date for the retrial of Lindsay Clancy, the Massachusetts mother accused of killing her three young children, after the first case ended in a mistrial.",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T23:29:00Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272761_w_550_309.jpg?v=20261116173013",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "5ca6484595cef889",
-      "title": "Instagram is rife with antisemitic content, report says",
-      "link": "https://religionnews.com/2026/11/16/instagram-is-rife-with-antisemitic-content-new-report-says/",
-      "summary": "(RNS) — It blamed the widespread antisemitic content on Meta’s 2025 decision to limit content moderation and instead let users report hateful content.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T23:00:49Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://media.religionnews.com/uploads/2026/11/webRNS-Nexus-Project1.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "09a4529db94d5ce3",
-      "title": "PHOTOS: Pope Leo XIV concludes apostolic journey to South America",
-      "link": "https://www.ewtnnews.com/vatican/photos-pope-leo-xiv-concludes-apostolic-journey-to-south-america",
-      "summary": "Pope Leo XIV on Monday concluded his apostolic journey to South America with a visit to an elderly home and a Mass with 1.5 million people.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T22:30:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/WhatsApp_Image_2026-11-16_at_11.25.38_ry9hmb.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "22d38218d69931b5",
-      "title": "‘It’s a pilgrimage’: How one Irish athlete finds God through extreme adventures",
-      "link": "https://www.ewtnnews.com/world/europe/it-s-a-pilgrimage-how-one-irish-athlete-finds-god-through-extreme-adventures",
-      "summary": "Irish adventurer Daragh Morgan, who swam and then cycled around Ireland’s entire coast, said his Catholic faith inspires his extraordinary journeys, which he views as opportunities for pilgrimage.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:50:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/daraghmorgan_dlkyo3.png",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "296c2cff9b271a5b",
-      "title": "Will the bishops learn how to surf the blue wave?",
-      "link": "https://religionnews.com/2026/11/16/will-the-bishops-learn-how-to-surf-the-blue-wave/",
-      "summary": "(RNS) — The bishops must stop attacking Democrats and learn to work with them.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:47:41Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "http://religionnews.com/wp-content/uploads/2022/06/webRNS-SCOTUS-Abortion04-062422.jpg",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "13a73eb13c8f507e",
-      "title": "‘People Are Burning Churches, Priests Are Being Murdered’: France Plagued by Anti-Christian Violence",
-      "link": "https://mycharisma.com/news/people-are-burning-churches-priests-are-being-murdered-france-plagued-by-anti-christian-violence/",
-      "summary": "PARIS – In France, political protesters took to the streets for the fifth weekend in a row. This country, which was once called the eldest daughter of the church, is now one of the most secular countries in Europe. And it’s not just secular; the government…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:44:56Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "f9a5b543c45fdd68",
-      "title": "BeBe & CeCe Winans Return to the Stage for The Encore Tour at the Fox Theatre April 8",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWJLQ2tMd3FGdmc5X1dNWnBnSzhlOXlFNTRiVzE2aWR0QlBfSlY4MlRxcnJzYm1rUDJ5X1hVQWRIWTV3MTNrTFVtWDdmejdBNEUxcGIwMHVnLTRTb2xWRVdyVkQ1eTBkdXFlbVQ0V3lXOV9XS1BCdVB3TTZrXzVRVHFpWkJLYW91?oc=5",
-      "summary": "BeBe & CeCe Winans Return to the Stage for The Encore Tour at the Fox Theatre April 8 313 Presents",
-      "outlet": "313 Presents",
-      "outlet_url": "https://www.313presents.com",
-      "source_feed": "Google News: CeCe Winans",
-      "tier": 1,
-      "category": "artist",
-      "published": "2026-11-16T21:27:41Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": true,
-      "breaking_expires_at": "2026-11-17T10:57:40Z",
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "f1613df75038c310",
-      "title": "Pope Leo in South America: The Politics of a Papal Homecoming",
-      "link": "https://religionnews.com/2026/11/16/4286688/",
-      "summary": "Millions turn out to welcome Pope Leo as South Americans embrace a pontiff they consider their own.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:27:11Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "b2be989be45699fa",
-      "title": "Utah Gov. Spencer Cox: Faith should transcend party politics",
-      "link": "https://religionnews.com/2026/11/16/utah-gov-spencer-cox-faith-should-transcend-party-politics/",
-      "summary": "PHILADELPHIA (RNS) — Cox, who is a member of the Church of Jesus Christ of Latter-day Saints, also said that politics has become ‘too important’ for too many.",
-      "outlet": "Religion News Service",
-      "outlet_url": "",
-      "source_feed": "Religion News Service",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:21:36Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T01:35:53Z"
-    },
-    {
-      "id": "6c04f399740864fb",
-      "title": "Kathy Ireland thanks God after her husband, Bible survive boat fire unscathed",
-      "link": "https://www.christianpost.com/news/kathy-ireland-thanks-god-after-husband-bible-escape-boat-fire.html",
-      "summary": "Model Kathy Ireland is thanking God after her husband, Greg Olsen, escaped a fire last week that destroyed everything on his boat except his Bible, expressing gratitude for the “miracle of survival.”",
-      "outlet": "The Christian Post",
-      "outlet_url": "",
-      "source_feed": "The Christian Post",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:20:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/27/272754_w_550_401.jpg?v=20261116162128",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "382bb5017badabd1",
-      "title": "Ted Cruz Warns Both Political Parties Could Turn Against Israel as Antisemitism Spreads",
-      "link": "https://mycharisma.com/news/ted-cruz-warns-both-political-parties-could-turn-against-israel-as-antisemitism-spreads/",
-      "summary": "Could America be turning its back on Israel? What once seemed unthinkable is now becoming a growing concern as anti-Israel sentiment spreads across the American political landscape, raising serious questions about the nation’s future relationship with the…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:19:14Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "b0d18cb14c7d2d2d",
-      "title": "Ghana’s bishops want illegal mining declared ‘targeted state of emergency’",
-      "link": "https://www.ewtnnews.com/world/africa/ghana-s-bishops-want-illegal-mining-declared-targeted-state-of-emergency",
-      "summary": "At the end of their annual plenary assembly, the bishops said they remain “deeply concerned” about mining practices and highlighted other key issues for the Church in Ghana.",
-      "outlet": "Catholic News Agency",
-      "outlet_url": "",
-      "source_feed": "Catholic News Agency",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-16T21:10:00Z",
-      "first_seen": "2026-11-16T22:57:40Z",
-      "image": {
-        "url": "https://cdn1.ewtn.com/image/upload/ewtn-news/en/aci-africa_nick_if20-south-africa-2026-11-16t150415_1794851026.jpg_shr0wu.webp",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "d00a59ac88e02c38",
-      "title": "Russ Taff & Steve Taylor \"The [Almost] Farewell Tour\"",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ09lQTNTLTlObVduaUlTcmRfTU1XSy1CaHhBSndPbFgtYzNpYzBDTF8tV1kxQzNnVmNmVkhkb2R4UmpIVjMwUm8ydWhCMTZjU3FMdGZadDBMVWZFZUZsYVZ4TnFkYUxrV0NfZVVyX3djZmRMSzRxMHA5Wjh0YjhPN1RaX01DWFV1NUE4YUlORXppZG5KRUtWbUE2QjE2U1ZkWXlDcTZyYXBQMWN3NUVVVTN0OFd6NmdvUnVOVkVOX3lYOFhTU2tBZVpudExHc1d0SkE?oc=5",
-      "summary": "Russ Taff & Steve Taylor \"The [Almost] Farewell Tour\" sandmountainreporter.com",
-      "outlet": "sandmountainreporter.com",
-      "outlet_url": "http://www.sandmountainreporter.com",
-      "source_feed": "Google News: Christian music",
-      "tier": 1,
-      "category": "christian-music",
-      "published": "2026-11-16T21:09:34Z",
-      "first_seen": "2026-11-17T04:58:18Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-20T09:32:43Z"
     }
   ]
 }
