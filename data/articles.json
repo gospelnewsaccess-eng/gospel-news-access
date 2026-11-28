@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-11-27T22:49:42Z",
+  "generated_at": "2026-11-28T04:28:06Z",
   "story_count": 600,
-  "with_photo": 517,
+  "with_photo": 520,
   "items": [
+    {
+      "id": "520f8fbe421a58e8",
+      "title": "Chris Kacher, Pianist and Son of Wah-Wah Pedal Pioneer Del Casher, Dies at 58",
+      "link": "https://www.jubileecast.com/articles/41396/20261127/chris-kacher-pianist-and-son-of-wah-wah-pedal-pioneer-del-casher-dies-at-58.htm",
+      "summary": "Chris Kacher, Pianist and Son of Wah-Wah Pedal Pioneer Del Casher, Dies at 58",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-28T02:17:21Z",
+      "first_seen": "2026-11-28T04:28:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32811/chris-kacher.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "e93e3cac024f393c",
+      "title": "Goo Goo Dolls Fans Slam NBC for Airing Just 30 Seconds of Thanksgiving Halftime Show",
+      "link": "https://www.jubileecast.com/articles/41395/20261127/goo-goo-dolls-fans-slam-nbc-for-airing-just-30-seconds-of-thanksgiving-halftime-show.htm",
+      "summary": "Goo Goo Dolls Fans Slam NBC for Airing Just 30 Seconds of Thanksgiving Halftime Show",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-28T02:09:38Z",
+      "first_seen": "2026-11-28T04:28:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/32799/goo-goo-dolls.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "59a61f30bb6c0d1f",
+      "title": "‘The Challenge’ Champion Tyler Duckworth’s Cause of Death at 44 Revealed",
+      "link": "https://www.jubileecast.com/articles/41394/20261127/the-challenge-champion-tyler-duckworth-s-cause-of-death-at-44-revealed.htm",
+      "summary": "‘The Challenge’ Champion Tyler Duckworth’s Cause of Death at 44 Revealed",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-28T02:04:48Z",
+      "first_seen": "2026-11-28T04:28:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/31391/tyler-duckworth.jpeg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "11e9d2e50bddd234",
+      "title": "Bethel Music’s Jenn Johnson Reveals What Happened During Her Quiet Six-Month Sabbatical",
+      "link": "https://www.jubileecast.com/articles/41393/20261127/bethel-music-s-jenn-johnson-reveals-what-happened-during-her-quiet-six-month-sabbatical.htm",
+      "summary": "Bethel Music’s Jenn Johnson Reveals What Happened During Her Quiet Six-Month Sabbatical",
+      "outlet": "JubileeCast",
+      "outlet_url": "",
+      "source_feed": "JubileeCast",
+      "tier": 3,
+      "category": "gospel-trade",
+      "published": "2026-11-28T01:55:29Z",
+      "first_seen": "2026-11-28T04:28:06Z",
+      "image": {
+        "url": "https://jubileecast-29b4.kxcdn.com/data/images/full/29502/jenn-johnson.jpg",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
+    {
+      "id": "62e35b3c1afdca65",
+      "title": "UK leaders, hundreds gather to honor murdered Christian politician Ann Widdecombe",
+      "link": "https://www.christianpost.com/news/uk-leaders-honor-murdered-christian-politician-ann-widdecombe.html",
+      "summary": "Prime Minister Andy Burnham and four of his predecessors joined around 600 people at Westminster Cathedral on Thursday for a memorial service for Ann Widdecombe, the former Conservative minister and Reform UK spokeswoman who was found murdered in her home in…",
+      "outlet": "The Christian Post",
+      "outlet_url": "",
+      "source_feed": "The Christian Post",
+      "tier": 2,
+      "category": "faith",
+      "published": "2026-11-27T21:53:04Z",
+      "first_seen": "2026-11-28T04:28:06Z",
+      "image": {
+        "url": "https://cdn.christianpost.com/files/cache/thumbnail/27/29/272905_w_550_367_635_229.jpg?v=20261127165449",
+        "via": "media:content"
+      },
+      "breaking": false,
+      "breaking_expires_at": null
+    },
     {
       "id": "a3756e651980cfb6",
       "title": "Gayle King’s Son-in-Law Virgil Miller Dies at 45 Over Thanksgiving",
@@ -72,7 +167,10 @@
       "category": "gospel-trade",
       "published": "2026-11-27T19:36:11Z",
       "first_seen": "2026-11-27T22:49:42Z",
-      "image": null,
+      "image": {
+        "url": "https://blackchristiannews.com/wp-content/uploads/2026/11/letters-ybm-classic-20th-cover.png",
+        "via": "content:encoded"
+      },
       "breaking": false,
       "breaking_expires_at": null,
       "image_tried": "2026-11-27T22:49:42Z"
@@ -4246,7 +4344,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "ad31846092b4e6db",
@@ -4263,7 +4361,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "2147f2540e940fae",
@@ -8751,7 +8849,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "cc21ca5d33fc24cc",
@@ -8802,7 +8900,7 @@
       "image": null,
       "breaking": true,
       "breaking_expires_at": "2026-11-22T09:24:13Z",
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "3847225986176481",
@@ -8819,7 +8917,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "03a927769df2b2b5",
@@ -8874,7 +8972,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "2c15d82e8ae22f2d",
@@ -9096,7 +9194,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "ab36214d87088d43",
@@ -9550,7 +9648,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "9d462a7a7b083d3f",
@@ -9567,7 +9665,7 @@
       "image": null,
       "breaking": false,
       "breaking_expires_at": null,
-      "image_tried": "2026-11-25T02:54:14Z"
+      "image_tried": "2026-11-28T04:28:06Z"
     },
     {
       "id": "842f87ea563c8015",
@@ -11142,97 +11240,6 @@
       "first_seen": "2026-11-20T18:13:39Z",
       "image": {
         "url": "https://www.ccmmagazine.com/wp-content/uploads/2026/11/Malcolm-Web-Banner.jpg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "ee89f300fdc0926c",
-      "title": "Bill Caldwell: Albert Brumley made gospel music his life's work",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaDBMSXRpUWVHUUdkWk9Rc2RaeG1kMWVrb0tQeDc0U2VackdCeERkTl9ielNvbWZGaXFQNks1SHFNZEVYYTNBbmRkYjZ6Z193UUtILTk3Y190aTUxUk9CZEU0N09Yc0hkVlJxT3dqdXhTUmpZLVJYSnNCd1JiX0VtTkxvNTZjTi1EbTBUSWNQU1VKMVFweXpxSGpPRDZFNjBXWVhraGxzV3lYU3I0UWk1T2R1ZXg5ZkdiX3BaQnpXWjZzOGtiMDN0aXV2dHVld1FzemdpTWlVY2swZmhX?oc=5",
-      "summary": "Bill Caldwell: Albert Brumley made gospel music his life's work The Joplin Globe",
-      "outlet": "The Joplin Globe",
-      "outlet_url": "https://www.joplinglobe.com",
-      "source_feed": "Google News: gospel music",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-20T14:00:00Z",
-      "first_seen": "2026-11-20T18:13:39Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-27T04:27:32Z"
-    },
-    {
-      "id": "4d126077842d83cb",
-      "title": "Top Abortion Abolitionist Arrested During ‘Peaceful Conversation’ at Texas University",
-      "link": "https://mycharisma.com/news/top-abortion-abolitionist-arrested-during-peaceful-conversation-at-texas-university/",
-      "summary": "A university campus is supposed to be a place where ideas can be challenged, debated and discussed. Some critics are now saying that principle has its limits at the University of Texas at Dallas. T. Russell Hunter, founder of the Christian abortion…",
-      "outlet": "Charisma News",
-      "outlet_url": "",
-      "source_feed": "Charisma News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-20T13:59:45Z",
-      "first_seen": "2026-11-21T00:04:58Z",
-      "image": {
-        "url": "https://mycharisma.com/wp-content/uploads/2026/04/Screenshot-2026-04-22-122557.png",
-        "via": "content:encoded"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "291e18f7df961b09",
-      "title": "Vatican Christmas tree arrives in St. Peter’s Square",
-      "link": "https://www.vaticannews.va/en/vatican-city/news/2026-11/vatican-christmas-tree-arrives-in-saint-peters-square.html",
-      "summary": "The Vatican’s traditional Christmas tree arrives in St. Peter’s Square as work continues to set up the Nativity scene in front of the Basilica. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-20T13:57:00Z",
-      "first_seen": "2026-11-20T18:13:39Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/20/2026-11-20-arrivo-albero-di-natale-piazza-san-pietro/1795164158555.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-        "via": "media:content"
-      },
-      "breaking": false,
-      "breaking_expires_at": null
-    },
-    {
-      "id": "bb1fbf3a3d0bc1c7",
-      "title": "Efe Omoviro and the Changing Sound of Contemporary Nigerian Gospel",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlBxdXlyNHNCYlA5X053clcyNjRvMTJ1cUctMVZtQUF2TExONHpHdEdId0QtM0ZBT3RnSjF2RmVKMmlic3dkXzFVamhHM19iWjBuQ3o4TEZDUVAzcXpsY1J0SEdRM2dkZVNUQjZNMUp2dnZZSW1Sc183REpmaW1KbGw0NmN2RlViYWEtWFNXQ0FRM0x0c2pR?oc=5",
-      "summary": "Efe Omoviro and the Changing Sound of Contemporary Nigerian Gospel The Guardian Nigeria News",
-      "outlet": "The Guardian Nigeria News",
-      "outlet_url": "https://guardian.ng",
-      "source_feed": "Google News: gospel artist",
-      "tier": 1,
-      "category": "gospel",
-      "published": "2026-11-20T13:55:53Z",
-      "first_seen": "2026-11-21T00:04:58Z",
-      "image": null,
-      "breaking": false,
-      "breaking_expires_at": null,
-      "image_tried": "2026-11-27T14:09:49Z"
-    },
-    {
-      "id": "9e013a3184cacce3",
-      "title": "The city of the Apostle to the Apostles",
-      "link": "https://www.vaticannews.va/en/church/news/2026-11/reflection-father-francesco-patton-holy-land.html",
-      "summary": "Fr. Francesco Patton, OFM, explores the archaeological remains of ancient Magdala on the Sea of Galilee and reflects on how Jesus healed Mary Magdalene and entrusted her with announcing His Resurrection to the Apostles. Read all",
-      "outlet": "Vatican News",
-      "outlet_url": "",
-      "source_feed": "Vatican News",
-      "tier": 2,
-      "category": "faith",
-      "published": "2026-11-20T13:38:00Z",
-      "first_seen": "2026-11-20T18:13:39Z",
-      "image": {
-        "url": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/25/fg-06062025-web-02-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
         "via": "media:content"
       },
       "breaking": false,
